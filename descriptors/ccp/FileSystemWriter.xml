@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>true</primitive>  <annotatorImplementationName>edu.ucdenver.ccp.nlp.FileSystemWriter</annotatorImplementationName>
+  <analysisEngineMetaData>
+    <name>FileSystemWriter</name>
+    <description>A simple cas consumer which takes the text document view and writes its sofa text to a text file, using an output directory in the parent directory of the source file and appending a text file extension to the source file name.
+
+NOTE: This consumer expects a particularly named view to be present or not and deciding whether it has anything to do or should just pass the cas along. The view names that are visible from inside an annotator are only the local names before any sofa mappings. The name is in a parameter. So it is important that upstream annotators create this view if the document should be processed by this consumer.</description>
+    <version>1.0</version>
+    <vendor/>
+    <configurationParameters>
+      <configurationParameter>
+        <name>outputDir</name>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>false</mandatory>
+      </configurationParameter>
+    <configurationParameter>
+        <name>sofaToWriteOut</name>
+        <description>Which view/sofa should have its (text) contents written out.</description>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>true</mandatory>
+      </configurationParameter>
+    <configurationParameter>
+        <name>outputFileExt</name>
+        <description>The extension of the file written out.</description>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>true</mandatory>
+      </configurationParameter>
+    </configurationParameters>
+    <configurationParameterSettings>
+      <nameValuePair>
+        <name>outputDir</name>
+        <value>
+          <string>filesyswr_output</string>
+        </value>
+      </nameValuePair>
+    <nameValuePair>
+        <name>sofaToWriteOut</name>
+        <value>
+          <string>convertedDoc</string>
+        </value>
+      </nameValuePair>
+    <nameValuePair>
+        <name>outputFileExt</name>
+        <value>
+          <string>txt</string>
+        </value>
+      </nameValuePair>
+    </configurationParameterSettings>
+    <typeSystemDescription>
+      <imports>
+        <import name="org.apache.uima.examples.SourceDocumentInformation"/>
+      </imports>
+    </typeSystemDescription>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs/>
+        <outputs/>
+        <inputSofas>
+          <sofaName>convertedDoc</sofaName>
+          <sofaName>originalDoc</sofaName>
+        </inputSofas>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+  <operationalProperties>
+      <modifiesCas>false</modifiesCas>
+      <multipleDeploymentAllowed>false</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+</analysisEngineDescription>

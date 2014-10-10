@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>LinnaeusAnnotationTypes</name>
+  <description/>
+  <version>1.0</version>
+  <vendor>György Móra University of Szeged, Rgai</vendor>
+  <types>
+    <typeDescription>
+      <name>hu.u_szeged.rgai.bio.uima.tagger.LinnaeusSpecies</name>
+      <description>Species annotation type holds information for Linnaeus species tagger's annotation.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>mostProbableSpeciesId</name>
+          <description>This feature contains the value of the most probable NCBI Taxonomy Id for the annotated species occurence.</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>allIdsString</name>
+          <description>This feature contains all possible NCBI Taxonomy IDs.</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>ambigous</name>
+          <description>True if the species tagging is ambigous.</description>
+          <rangeTypeName>uima.cas.Boolean</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+  </types>
+</typeSystemDescription>

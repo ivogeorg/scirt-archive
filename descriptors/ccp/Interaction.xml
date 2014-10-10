@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>true</primitive>  <annotatorImplementationName>edu.ucdenver.ccp.nlp.InteractionAnnotator</annotatorImplementationName>
+  <analysisEngineMetaData>
+    <name>Interaction</name>
+    <description/>
+    <version>1.0</version>
+    <vendor/>
+    <configurationParameters/>
+    <configurationParameterSettings/>
+    <typeSystemDescription>
+      <imports>
+        <import location="file:/C:/uimaj-2.6.0-bin/apache-uima/examples/descriptors/ccp/CorpusPipelineTypeSystem.xml"/>
+      </imports>
+    </typeSystemDescription>
+    <typePriorities>
+      <priorityList>
+        <type>opennlp.uima.Token</type>
+        <type>banner.types.uima.Gene</type>
+        <type>edu.ucdenver.ccp.nlp.uima.InteractionKeyword</type>
+        <type>hu.u_szeged.rgai.bio.uima.tagger.LinnaeusSpecies</type>
+        <type>opennlp.uima.Sentence</type>
+      </priorityList>
+    </typePriorities>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs>
+          <type allAnnotatorFeatures="true">opennlp.uima.Sentence</type>
+          <type allAnnotatorFeatures="true">hu.u_szeged.rgai.bio.uima.tagger.LinnaeusSpecies</type>
+          <type allAnnotatorFeatures="true">edu.ucdenver.ccp.nlp.uima.InteractionKeyword</type>
+          <type allAnnotatorFeatures="true">banner.types.uima.Gene</type>
+          <type allAnnotatorFeatures="true">opennlp.uima.Token</type>
+        </inputs>
+        <outputs>
+          <type allAnnotatorFeatures="true">edu.ucdenver.ccp.nlp.uima.Interaction</type>
+        </outputs>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+  <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+</analysisEngineDescription>

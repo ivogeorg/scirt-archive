@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<banner-configuration>
+  <banner>
+    <eval>
+      <datasetName>banner.eval.dataset.BC2GMDataset</datasetName>
+      <dataset>
+        <sentenceFilename>split1/test/train_7500_2.in</sentenceFilename>
+        <mentionTestFilename>split1/test/GENE2.eval</mentionTestFilename>
+        <mentionAlternateFilename>split1/test/ALTGENE2.eval</mentionAlternateFilename>
+      </dataset>
+      <idInputFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\ids.txt</idInputFilename>
+      <rawInputFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\raw.txt</rawInputFilename>
+      <trainingInputFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\training.txt</trainingInputFilename>
+      <outputFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\output.txt</outputFilename>
+      <inContextAnalysisFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\contextAnalysis.html</inContextAnalysisFilename>
+      <mentionFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\mention.txt</mentionFilename>
+      <modelFilename>C:\Users\admin\Downloads\Development\Code\banner-code\output\model_BC2GM.bin</modelFilename>
+      <lemmatiserDataDirectory>C:\Users\admin\Downloads\Development\Code\banner-code\nlpdata\lemmatiser</lemmatiserDataDirectory>
+      <posTaggerDataDirectory>C:\Users\admin\Downloads\Development\Code\banner-code\nlpdata\tagger</posTaggerDataDirectory>
+      <posTagger>dragon.nlp.tool.HeppleTagger</posTagger>
+      <tokenizer>banner.tokenization.SimpleTokenizer</tokenizer>
+      <useParenthesisPostProcessing>true</useParenthesisPostProcessing>
+      <useLocalAbbreviationPostProcessing>true</useLocalAbbreviationPostProcessing>
+      <useNumericNormalization>true</useNumericNormalization>
+      <tagFormat>IO</tagFormat>
+      <crfOrder>1</crfOrder>
+      <mentionTypes>Required</mentionTypes>
+      <sameTypeOverlapOption>Exception</sameTypeOverlapOption>
+      <differentTypeOverlapOption>Exception</differentTypeOverlapOption>
+      <dictionaryTagger>banner.tagging.dictionary.DictionaryTagger</dictionaryTagger>
+    </eval>
+    <tagging>
+      <dictionary>
+        <DictionaryTagger>
+          <filterContainedMentions>true</filterContainedMentions>
+          <normalizeMixedCase>false</normalizeMixedCase>
+          <normalizeDigits>false</normalizeDigits>
+          <canonize>false</canonize>
+          <generate2PartVariations>true</generate2PartVariations>
+          <dropEndParentheticals>false</dropEndParentheticals>
+          <dictionaryFile>C:\Users\admin\Downloads\Development\Code\banner-code\dict\single.txt</dictionaryFile>
+          <dictionaryType>GENE</dictionaryType>
+        </DictionaryTagger>
+      </dictionary>
+    </tagging>
+  </banner>
+</banner-configuration>

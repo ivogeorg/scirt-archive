@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <name>CorpusPipelineTypeSystem</name>
+    <description/>
+    <version>1.0</version>
+    <vendor/>
+  <imports>
+    <import location="file:/C:/uimaj-2.6.0-bin/apache-uima/examples/descriptors/opennlp/TypeSystem.xml"/>
+  <import location="file:/C:/uimaj-2.6.0-bin/apache-uima/examples/descriptors/banner/bannerTS.xml"/>
+  <import name="hu.u_szeged.rgai.bio.uima.LinnaeusAnnotationTypes"/>
+  </imports>
+<types>
+    <typeDescription>
+      <name>edu.ucdenver.ccp.nlp.uima.InteractionKeyword</name>
+      <description>Originally for PPI pipeline.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>edu.ucdenver.ccp.nlp.uima.Interaction</name>
+      <description>Originally for PPI pipeline.</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>gene1</name>
+          <description/>
+          <rangeTypeName>banner.types.uima.Gene</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>gene2</name>
+          <description/>
+          <rangeTypeName>banner.types.uima.Gene</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>interactionKeyword</name>
+          <description/>
+          <rangeTypeName>edu.ucdenver.ccp.nlp.uima.InteractionKeyword</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>score</name>
+          <description/>
+          <rangeTypeName>uima.cas.Integer</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>organism</name>
+          <description/>
+          <rangeTypeName>uima.cas.FSList</rangeTypeName>
+          <elementType>hu.u_szeged.rgai.bio.uima.tagger.LinnaeusSpecies</elementType>
+          <multipleReferencesAllowed>true</multipleReferencesAllowed>
+        </featureDescription>
+        <featureDescription>
+          <name>sentence</name>
+          <description/>
+          <rangeTypeName>opennlp.uima.Sentence</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+  </types>
+</typeSystemDescription>

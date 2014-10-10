@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cpeDescription>
+    <collectionReader>
+        <collectionIterator>
+            <descriptor>
+                <include href="descriptors/collection_reader/FileSystemCollectionReader.xml"/>
+            </descriptor>
+            <configurationParameterSettings>
+                <nameValuePair>
+                    <name>InputDirectory</name>
+                    <value>
+                        <string>C:/Program Files/IBM/uima/docs/examples/data/xml</string>
+                    </value>
+                </nameValuePair>
+            </configurationParameterSettings>
+        </collectionIterator>
+    </collectionReader>
+    <casProcessors casPoolSize="2" processingUnitThreadCount="1">
+        <casProcessor deployment="integrated" name="XML Detagger">
+            <descriptor>
+                <include href="descriptors/analysis_engine/XmlDetagger.xml"/>
+            </descriptor>
+            <sofaNameMappings>
+                <sofaNameMapping componentSofaName="xmlDocument" cpeSofaName="_InitialView"/>
+                <sofaNameMapping componentSofaName="plainTextDocument" cpeSofaName="detaggedDocument"/>
+            </sofaNameMappings>
+            <deploymentParameters/>
+            <filter/>
+            <errorHandling>
+                <errorRateThreshold action="terminate" value="100/1000"/>
+                <maxConsecutiveRestarts action="terminate" value="30"/>
+                <timeout max="100000"/>
+            </errorHandling>
+            <checkpoint batch="10000"/>
+        </casProcessor>
+        <casProcessor deployment="integrated" name="Simple Token and Sentence Annotator">
+            <descriptor>
+                <include href="descriptors/analysis_engine/SimpleTokenAndSentenceAnnotator.xml"/>
+            </descriptor>
+            <sofaNameMappings>
+                <sofaNameMapping cpeSofaName="detaggedDocument"/>
+            </sofaNameMappings>
+            <deploymentParameters/>
+            <filter/>
+            <errorHandling>
+                <errorRateThreshold action="terminate" value="100/1000"/>
+                <maxConsecutiveRestarts action="terminate" value="30"/>
+                <timeout max="100000"/>
+            </errorHandling>
+            <checkpoint batch="10000"/>
+        </casProcessor>
+        <casProcessor deployment="integrated" name="Meeting Detector TAE">
+            <descriptor>
+                <include href="descriptors/tutorial/ex4/MeetingDetectorTAE.xml"/>
+            </descriptor>
+            <sofaNameMappings>
+                <sofaNameMapping cpeSofaName="detaggedDocument"/>
+            </sofaNameMappings>
+            <deploymentParameters/>
+            <filter/>
+            <errorHandling>
+                <errorRateThreshold action="terminate" value="100/1000"/>
+                <maxConsecutiveRestarts action="terminate" value="30"/>
+                <timeout max="100000"/>
+            </errorHandling>
+            <checkpoint batch="10000"/>
+        </casProcessor>
+        <casProcessor deployment="integrated" name="XCAS Writer CAS Consumer">
+            <descriptor>
+                <include href="descriptors/cas_consumer/XCasWriterCasConsumer.xml"/>
+            </descriptor>
+            <sofaNameMappings>
+                <sofaNameMapping cpeSofaName="detaggedDocument"/>
+            </sofaNameMappings>
+            <deploymentParameters/>
+            <filter/>
+            <errorHandling>
+                <errorRateThreshold action="terminate" value="100/1000"/>
+                <maxConsecutiveRestarts action="terminate" value="30"/>
+                <timeout max="10000"/>
+            </errorHandling>
+            <checkpoint batch="10000"/>
+        </casProcessor>
+        <casProcessor deployment="integrated" name="Semantic Search CAS Indexer">
+            <descriptor>
+                <include href="descriptors/cas_consumer/SemanticSearchCasIndexer.xml"/>
+            </descriptor>
+            <sofaNameMappings>
+                <sofaNameMapping cpeSofaName="detaggedDocument"/>
+            </sofaNameMappings>
+            <deploymentParameters/>
+            <filter/>
+            <errorHandling>
+                <errorRateThreshold action="terminate" value="100/1000"/>
+                <maxConsecutiveRestarts action="terminate" value="30"/>
+                <timeout max="100000"/>
+            </errorHandling>
+            <checkpoint batch="10000"/>
+        </casProcessor>
+    </casProcessors>
+    <cpeConfig>
+        <numToProcess>-1</numToProcess>
+        <deployAs>immediate</deployAs>
+        <checkpoint file="" time="300000"/>
+        <timerImpl/>
+    </cpeConfig>
+</cpeDescription>

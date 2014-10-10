@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cpeDescription xmlns="http://uima.apache.org/resourceSpecifier">
+	<collectionReader>
+		<collectionIterator>
+			<descriptor>
+				<import location="../ccp/NopCollectionReader.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping componentSofaName="originalDoc" 
+				  cpeSofaName="originalDoc" />
+			</sofaNameMappings>
+			<configurationParameterSettings>
+				<nameValuePair>
+					<name>InputDirectory</name>
+					<value>
+<!-- 						<string>C:\uimaj-2.6.0-bin\apache-uima/examples/data/xml</string>  -->
+  					  <string>C:\uimaj-2.6.0-bin\apache-uima\examples\data\scir-pdf</string>
+<!--                       <string>C:\Users\admin\Downloads\Data\CRAFT\craft-pdf-sample</string> -->
+<!--                       <string>C:\Users\admin\Downloads\Data\SCIRT\scir-pdf-sample</string> -->
+					</value>
+				</nameValuePair>
+			</configurationParameterSettings>
+		</collectionIterator>
+	</collectionReader>
+	<casProcessors casPoolSize="3" processingUnitThreadCount="1">
+		<casProcessor deployment="integrated" name="XML Reader Detagger">
+			<descriptor>
+				<import location="../ccp/XmlReaderDetagger.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping componentSofaName="originalDoc"
+					cpeSofaName="originalDoc" />
+				<sofaNameMapping componentSofaName="convertedDoc"
+					cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="PDF To Text Converter">
+			<descriptor>
+				<import location="../ccp/PDFToTextConverter.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping componentSofaName="originalDoc"
+					cpeSofaName="originalDoc" />
+				<sofaNameMapping componentSofaName="convertedDoc"
+					cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="OpenNLP Sentence Detector">
+			<descriptor>
+				<import location="../opennlp/SentenceDetector.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="OpenNLP Tokenizer">
+			<descriptor>
+				<import location="../opennlp/Tokenizer.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="BANNER Annotator">
+			<descriptor>
+				<import location="../banner/BANNERAE.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="LINNAEUS Annotator">
+			<descriptor>
+				<import location="../linnaeus_wrapper/RgaiLinnaeusWrapper.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="Interaction Keyword Annotator">
+			<descriptor>
+				<import location="../ccp/InteractionKeyword.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="Interaction Annotator">
+			<descriptor>
+				<import location="../ccp/Interaction.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="File System Writer">
+			<descriptor>
+				<import location="../ccp/FileSystemWriter.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping componentSofaName="convertedDoc"
+					cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="XMI Writer">
+			<descriptor>
+				<import location="../ccp/XMIWriter.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping componentSofaName="convertedDoc"
+					cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="Brat Annotation Writer">
+			<descriptor>
+				<import location="../ccp/BratAnnotationWriter.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+		<casProcessor deployment="integrated" name="Annotation Stats">
+			<descriptor>
+				<import location="../ccp/AnnotationStats.xml" />
+			</descriptor>
+			<sofaNameMappings>
+				<sofaNameMapping cpeSofaName="convertedDoc" />
+			</sofaNameMappings>
+			<deploymentParameters />
+			<errorHandling>
+				<errorRateThreshold action="terminate" value="0/1000" />
+				<maxConsecutiveRestarts action="terminate"
+					value="30" />
+				<timeout max="100000" default="-1" />
+			</errorHandling>
+			<checkpoint batch="10000" time="1000ms" />
+		</casProcessor>
+	</casProcessors>
+	<cpeConfig>
+		<numToProcess>-1</numToProcess>
+		<deployAs>immediate</deployAs>
+		<checkpoint batch="0" time="300000ms" />
+		<timerImpl />
+	</cpeConfig>
+</cpeDescription>

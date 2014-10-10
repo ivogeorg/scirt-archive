@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>true</primitive>  <annotatorImplementationName>edu.ucdenver.ccp.nlp.InteractionKeywordAnnotator</annotatorImplementationName>
+  <analysisEngineMetaData>
+    <name>Interaction Keyword Annotator</name>
+    <description>Annotates interaction keywords from the list at
+http://www.biomedcentral.com/content/supplementary/1471-2105-10-233-S1.txt</description>
+    <version>1.0</version>
+    <vendor/>
+    <configurationParameters>
+      <configurationParameter>
+        <name>keywordListResourceKey</name>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>false</mandatory>
+      </configurationParameter>
+    </configurationParameters>
+    <configurationParameterSettings>
+      <nameValuePair>
+        <name>keywordListResourceKey</name>
+        <value>
+          <string>InteractionKeywordList</string>
+        </value>
+      </nameValuePair>
+    </configurationParameterSettings>
+    <typeSystemDescription>
+      <imports>
+        <import location="file:/C:/uimaj-2.6.0-bin/apache-uima/examples/descriptors/ccp/CorpusPipelineTypeSystem.xml"/>
+      </imports>
+    </typeSystemDescription>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs>
+          <type allAnnotatorFeatures="true">opennlp.uima.Token</type>
+        </inputs>
+        <outputs>
+          <type allAnnotatorFeatures="true">edu.ucdenver.ccp.nlp.uima.InteractionKeyword</type>
+        </outputs>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+  <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <externalResourceDependencies>
+    <externalResourceDependency>
+      <key>InteractionKeywordList</key>
+      <description/>
+      <interfaceName>edu.ucdenver.ccp.nlp.util.KeywordListResource</interfaceName>
+      <optional>false</optional>
+    </externalResourceDependency>
+  </externalResourceDependencies>
+  <resourceManagerConfiguration>
+    <externalResources>
+      <externalResource>
+        <name>InteractionKeywordListFile</name>
+        <description/>
+        <fileResourceSpecifier>
+          <fileUrl>file:edu/ucdenver/ccp/nlp/interaction_keywords.txt</fileUrl>
+        </fileResourceSpecifier>
+        <implementationName>edu.ucdenver.ccp.nlp.util.KeywordListResource_impl</implementationName>
+      </externalResource>
+    </externalResources>
+    <externalResourceBindings>
+      <externalResourceBinding>
+        <key>InteractionKeywordList</key>
+        <resourceName>InteractionKeywordListFile</resourceName>
+      </externalResourceBinding>
+    </externalResourceBindings>
+  </resourceManagerConfiguration>
+</analysisEngineDescription>

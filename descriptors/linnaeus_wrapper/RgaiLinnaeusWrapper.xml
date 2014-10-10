@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+  <primitive>true</primitive>
+  <annotatorImplementationName>hu.u_szeged.rgai.bio.uima.tagger.RgaiLinnaeusWrapper</annotatorImplementationName>
+  <analysisEngineMetaData>
+    <name>Linnaeus Species Name Detector UIMA Wrapper</name>
+    <description>This UIMA component uses Linnaeus to tag species names in texts.  For more information see: http://linnaeus.sourceforge.net/</description>
+    <version>1.0</version>
+    <vendor>György Móra University of Szeged, Rgai</vendor>
+    <configurationParameters>
+      <configurationParameter>
+        <name>ConfigFile</name>
+        <description>Location of the linnaeus parameter file</description>
+        <type>String</type>
+        <multiValued>false</multiValued>
+        <mandatory>false</mandatory>
+      </configurationParameter>
+    </configurationParameters>
+    <configurationParameterSettings>
+      <nameValuePair>
+        <name>ConfigFile</name>
+        <value>
+          <string>C:\Users\admin\Downloads\Development\Code\linnaeus-2.0\lib\resources-linnaeus\properties.conf</string>
+        </value>
+      </nameValuePair>
+    </configurationParameterSettings>
+    <typeSystemDescription>
+      <imports>
+        <import name="hu.u_szeged.rgai.bio.uima.LinnaeusAnnotationTypes"/>
+      </imports>
+    </typeSystemDescription>
+    <typePriorities/>
+    <fsIndexCollection/>
+    <capabilities>
+      <capability>
+        <inputs/>
+        <outputs>
+          <type allAnnotatorFeatures="true">hu.u_szeged.rgai.bio.uima.tagger.LinnaeusSpecies</type>
+        </outputs>
+        <languagesSupported/>
+      </capability>
+    </capabilities>
+    <operationalProperties>
+      <modifiesCas>true</modifiesCas>
+      <multipleDeploymentAllowed>true</multipleDeploymentAllowed>
+      <outputsNewCASes>false</outputsNewCASes>
+    </operationalProperties>
+  </analysisEngineMetaData>
+  <resourceManagerConfiguration/>
+</analysisEngineDescription>
