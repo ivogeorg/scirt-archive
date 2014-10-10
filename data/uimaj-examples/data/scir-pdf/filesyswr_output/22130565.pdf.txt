@@ -1,0 +1,840 @@
+Bridges delivering neurotrophin encoding lentivirus enhance
+regeneration following spinal cord injury
+Hannah M Tuinstra1,^, Misael O. Aviles1,^, Seungjin Shin1,^, Samantha J. Holland1, Marina
+L. Zelivyanskaya1, Alan Fast1, Sarah Ko1, Daniel J. Margul1, Anne K. Bartels1, Ryan M.
+Boehler1, Brian J. Cummings2,3, Aileen J. Anderson2,3, and Lonnie D. Shea1,4,5,6,*
+1Department of Chemical and Biological Engineering, Northwestern University, 2145 Sheridan
+Rd, Tech E136, Evanston, IL, 60208. USA
+2Department of Physical Medicine and Rehabilitation, University of California, Irvine, California,
+USA
+3Reeve-Irvine Research Center, Irvine, California, USA
+4The Robert H. Lurie Comprehensive Cancer Center of Northwestern University, Galter Pavilion,
+675 N. Saint Clair, 21st Floor, Chicago, IL 60611, USA
+5Institute for BioNanotechnology in Medicine, Northwestern University, Chicago, IL 60611, USA
+6Chemistry of Live Processes Institute, Northwestern University 60618
+Abstract
+Therapeutic strategies following spinal cord injury must address the multiple barriers that limit
+regeneration. Multiple channel bridges have been developed that stabilize the injury following
+implantation and provide physical guidance for regenerating axons. These bridges have now been
+employed as a vehicle for localized delivery of lentivirus. Implantation of lentivirus loaded
+multiple channel bridges produced transgene expression that persisted for at least 4 weeks.
+Expression was maximal at the implant at the earliest time point, and decreased with increasing
+time of implantation, as well as rostral and caudal to the bridge. Immunohistochemical staining
+indicated transduction of macrophages, Schwann cells, fibroblasts, and astrocytes within the
+bridge and adjacent tissue. Subsequently, the delivery of lentivirus encoding the neurotrophic
+factors NT3 or BDNF significantly increased the extent of axonal growth into the bridge relative
+to empty scaffolds. In addition to promoting axon growth, the induced expression of neurotrophic
+factors led to myelination of axons within the channels of the bridge, where the number of
+myelinated axons was significantly enhanced relative to control. Combining gene delivery with
+biomaterials to provide physical guidance and create a permissive environment can provide a
+platform to enhance axonal growth and promote regeneration.
+© 2011 Elsevier Ltd. All rights reserved.
+*Address correspondence to: Lonnie D. Shea, Northwestern University, Department of Chemical Engineering, 2145 Sheridan Rd. /
+Tech E156, Evanston, IL 60208-3120, Phone: 847-491-7043, Fax: 847-491-3728, l-shea@northwestern.edu.
+^Authors contributed equally to this work.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH Public Access
+Author Manuscript
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+Published in final edited form as:
+Biomaterials. 2012 February ; 33(5): 1618–1626. doi:10.1016/j.biomaterials.2011.11.002.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+INTRODUCTION
+Spinal cord injury (SCI) results in paralysis below the level of the injury. The limited
+regeneration observed in the spinal cord (SC) has been attributed to insufficient trophic
+factor support, and up-regulation of axonal growth inhibitors. SCI induces a number of
+processes, including neuron and oligodendrocyte cell death, demyelination, inflammation,
+and deposition of a glial scar. Promoting regeneration requires a combinatorial approach that
+can address this multitude of processes, which is exemplified by the early experiments with
+implantation of autologous peripheral nerve (PN) grafts [1]. Axonal elongation by the PN
+graft is promoted and directed by the graft architecture and cells (e.g., Schwann cells) that
+secrete trophic factors. PN grafts have limited clinical potential, as their source is limiting,
+which has motivated the development of systems and strategies to recapitulate their effects
+[2].
+Recapitulating the effects of PN grafts is challenging, as the precise contribution of the
+architecture and cell-secreted factors (e.g., extracellular matrix, trophic factors) is ill
+defined. The structural aspects of PN grafts have been targeted with biomaterial bridges,
+which provide mechanical stability to the injured tissue and have channels that span the
+bridge to direct axonal elongation [3–5]. The bridges support cell infiltration, which helps
+prevent cavity formation that can occur secondary to the initial injury, and may also limit
+scar formation. The channels also support cell infiltration. Cells within the channels are
+aligned with the major axis of the bridge, which can provide a directional signal for
+regenerating axons.
+Providing trophic factors that would normally be produced by Schwann cells within PN
+grafts has been explored through a range of cell and drug therapies. Direct injection and
+osmotic pumps have been employed to deliver trophic factors to promote neurite outgrowth
+[6–8]. Alternatively, transplantation of Schwann cells [9–12], stem cells [12–15], or cells
+genetically engineered to secrete inductive factors [16–18] are all strategies that have been
+reported to enhance axonal growth through the injury, however, the impact of these
+strategies is hampered by limited cell survival and engraftment (~15%) [19]. Gene delivery
+represents a versatile approach in which transduced cells can function as bioreactors for the
+localized production of neurotrophic factors; however, improved delivery strategies are
+required to localize delivery to the injury.
+In this report, we investigate delivery of lentiviral vectors from multiple channel bridges as a
+combinatorial approach to promote regeneration in the injured SC. The bridge provides the
+structural support to stabilize the injury and architecture to direct axonal elongation; whereas
+lentivirus induced expression of neurotrophic factors can promote axon growth. Lentivirus
+was immobilized to nanoparticles and loaded into bridges for implantation into a rat spinal
+cord lateral hemisection. The transgene expression profile was characterized, as were the
+location and identity of transduced cells. Subsequently, lentiviral vectors encoding NT3 and
+BDNF were delivered to promote the growth of axons into and down the channels of the
+bridge. Axon growth and myelination were characterized as a function of time, treatment,
+and location within the bridge. The combination of soluble vectors and physical structure
+synergize to promote axon growth, and the vector releasing bridges provide a platform to
+investigate additional factors in SC regeneration.
+MATERIALS AND METHODS
+Virus production
+Lentivirus was produced in HEK-293T cells grown in DMEM with 10% FBS at 37°C, and
+5% CO2. The lentiviral packaging vectors (pMDL-GagPol, pRSV-Rev, pIVSVSV-G) were
+Tuinstra et al. Page 2
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+co-transfected along with plenti-CMV-GFP, plenti-CMV-BDNF, plenti-CMV-NT3, or
+plenti-CMV-luciferase into 293T cells using Lipofectamine 2000 (Roche Biosciences, Palo
+Alto, CA). After 48 h of transfection, the supernatant was collected and filtered (0.45
+micron). Viruses were then concentrated using PEG-it (System Biosciences, Mountain, CA),
+with the precipitated lentiviruses suspended with PBS. The virus titer was determined by
+HIV-1 p24 Antigen ELISA Kit (ZeptoMetrix Co., Buffalo, NY).
+Fabrication of multiple channel bridges
+Multiple channel bridges were fabricated using a gas foaming/particulate leaching method as
+previously described [4, 5]. Poly(lactide-co-glycolide) (PLG) (75:25 mole ratio of D, L-
+lactide to glycolide, 0.76 dL/g, Lakeshore Biomaterials, Birmingham, AL) was dissolved in
+dichloromethane (2% w/w) and then emulsified in 1% poly(vinyl alcohol) to create
+microspheres. A mixture of PLG microspheres and salt particles (63–106 µm) was loaded
+into a custom made aluminum mold with Delrin pin guides using a layer-by-layer technique
+and pressurized to 200 psi using a Carver press. The bridges were then equilibrated with
+high pressure CO2 gas (800 psi) for 16 h in a custom-made pressure vessel. Afterwards, the
+pressure was released over a period of 45 min, which served to fuse adjacent microspheres
+creating a continuous polymer structure. The porogen was leached in water for one hour; the
+bridges were disinfected in ethanol for 5 minutes and dried overnight. The final bridge
+dimensions were 4 mm in length, 2.6 mm in width, and 1.5 mm in height, containing 7
+channels 250 µm in diameter (Fig. 1b).
+Virus loading into multiple channel bridges
+Hydroxylapatite (HA) nanoparticles (Sigma-Aldrich) were suspended in PBS and sonicated
+for 1 minute to dissociate aggregates. The HA (1 µL, 10 mg/mL in PBS) was then
+complexed with lentivirus (9 µL) encoding luciferase (LV-luc, 3×1011 LP) and incubated for
+10 minutes at 4°C. HA/virus complex were then deposited into each channel of the bridge
+using Stripper pipet tips (Mid-Atlantic Diagnostics, Mount Laurel, NJ) and placed in dry ice
+until implantation.
+Rat spinal cord hemisection
+A rat spinal cord hemisection model (Fig. 1b) was used to analyze transgene expression and
+nerve regeneration. Surgery was performed as previously described [4] on female Long-
+Evans rats (180–200 g; Charles River) that were treated according to the Animal Care and
+Use Committee guidelines at Northwestern University. Animals were anesthetized using
+isoflurane (3% in O2), and a laminectomy was performed at T9-10. A 4-mm long spinal cord
+segment, lateral of the midline, was removed to create a hemisection, and bridges were
+implanted in the injury space and covered by Gelfoam. (Fig. 1a) The muscles were sutured
+together and the skin was stapled. Postoperative care consisted of the administration of
+Baytril (enrofloxacin 2.5 mg/kg SC, once a day for 2 weeks), buprenorphine (0.01 mg/kg
+SC, twice a day for 2 days), and lactate ringer solution (5 mL/100 g, once a day for 5 days).
+Bladders were expressed twice a day until bladder function recovered (7–14 days).
+Quantification of transgene expression in a hemisection model
+Bridges loaded with a lentiviral vector encoding for firefly luciferase were implanted to
+quantify transgene expression levels within defined spinal cord segments. One week and
+four weeks post implantation, rats (n = 4) were euthanized and fresh spinal segments (T4-
+L2) were retrieved. The injury site and five samples rostral and caudal to the injury site were
+collected in 5 µm intervals and frozen. The tissues were thawed and 100 µl of lysis buffer
+(Cell Culture Lysis Reagent 1X; Promega, Madison, WI) was added, the tissue was
+homogenized with microscissors and vortexed. After 10 minutes of incubation at room
+Tuinstra et al. Page 3
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+temperature the tissue lysate was centrifuged at 14,000 rpm for 10 minutes at 4 °C to collect
+the supernatant. The luciferase content in the supernatant was quantified using a luciferase
+assay (Promega, Madison, WI) and recorded in relative light unit (RLU) per microgram
+protein. The total protein amount was measured with the bicinchoninic acid (BCA) protein
+assay (Pierce, Rockford, IL).
+Transgene expression and cell type identification
+Immunohistochemistry was performed on tissue sections to analyze the distribution and
+identity of transduced cells. Bridges loaded with a lentiviral vector encoding for EGFP were
+implanted into the spinal cord. After 7 days, rats (n = 4) were euthanized and the spinal cord
+was retrieved, frozen in isopentane (Fisher Scientific), and stored in siliconized Eppendorf
+tubes at −80 °C. The tissue section containing the injury site (T8-T11) was cryopreserved in
+optimum cutting temperature (OCT) compound and sliced longitudinally in 10-µm thick
+sections using a cryostat (HM 525, Thermo Scientific). Every other section was collected on
+glass slides, post fixed, and stained.
+Sections were stained using a double-labeling immunofluorescence staining method. All
+collected sections were stained with polyclonal rabbit anti-EGFP (Invitrogen, Carlsbad, CA)
+as a primary antibody and Alexa Fluor 488 goat anti-rabbit (green) (Invitrogen, Carlsbad,
+CA) as a secondary antibody. Tissue sections were double stained for specific cell lineages
+with primary monoclonal mouse IgG1 antibodies to: (i) anti-S100 (β-subunit) for Schwann
+cells (Sigma); (ii) anti-rat prolyl 4-hydroxylase (rPH) for fibroblasts (Acris Antibodies,
+Herford, Germany); (iii) anti-rat monocytes/macrophages (ED-1) (Millipore, Billerica, MA);
+(iv) anti-glial fibrillary acidic protein (GFAP) for reactive astrocytes (Sigma, St. Louis,
+MO). Alexa Fluor 546 goat anti-mouse (red) (Invitrogen, Carlsbad, CA) was used as a
+secondary antibody. A Hoechst stain was used to identify the cytoarchitecture. Negative
+controls were performed by eliminating the primary antibodies and staining histological
+sections of implanted bridges with a lentivirus encoding beta-galactosidase (β-gal).
+To determine the identity of transfected cells inside the bridge and the adjacent tissue,
+sections were double stained with antibodies for EGFP and specific cell types, and
+fluorescence images were captured and overlaid in Photoshop. The percentages of
+transduced cells identified as a specific cell type were quantified for four cell types. For each
+cell type, 3 rats, 9 tissue sections, and 45 images were analyzed and counted. Images were
+taken in three random fields of view of the bridge and two random fields of view of the
+adjacent tissue (200X). To count the number of transduced cells, the EGFP and Hoechst
+images were superimposed and the positive cells were marked. Subsequently, the location of
+EGFP positive cells was overlaid with red fluorescent images and all the marked transduced
+cells that overlapped with the red cell stain were counted as positive for each specific cell
+type by a blinded observer. Percentages were calculated as the ratio of the transduced cells
+identified as a certain cell type to the total counted number of transduced cells.
+Immunohistochemistry and quantitative analysis of nerve regeneration and myelination
+a. Axon growth—Immunohistochemistry was performed on tissue sections to analyze
+axonal growth into the bridges. Bridges were loaded with a lentiviral vector encoding for
+either NT3, BDNF, or no lentivirus and implanted into the SC. SCs were retrieved after 1
+week (n = 3), 2 weeks (n=6), and 4 weeks (n=6) post implantation, frozen, and sliced
+transversally in 10-µm thick sections. Every other section was collected on glass slides. For
+analysis, the bridge was divided in three regions based on location; rostral, middle, and
+caudal (Fig. 1c). Five sections from each region were stained for neurofilament (NF200;
+Sigma-Aldrich) and imaged using a Leica microscope at 50X. Images were stitch together
+using photo stitching software (PTgui, New House Internet Services B.V., Rotterdam, The
+Tuinstra et al. Page 4
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Netherlands). The total number of axons were counted per channel. Three sections located at
+300 µm (rostral), 2000 µm (middle), and 3500 µm (caudal) from the rostral bridge/tissue
+boundary were analyzed by a blinded observer. The sections were viewed at 50X to identify
+the positions of the 7 channels, and axons were counted within all channels at 400X. Trends
+were also confirmed by analyzing the area of neurofilament per channel using ImageJ.
+b. Myelination—Sections located within 30 µm from those analyzed for axon growth were
+stained for Myelin Basic Protein (MBP) and imaged using a Leica microscope at 400X. The
+total number of myelinated axons was estimated by counting the number of MBP positive
+rings per channel, n=6 per condition. The extent of myelination was further quantified by
+counting the number of channels per bridge that had stained positive for MBP. Only tissue
+sections from the rostral segment of the bridge were quantified as the middle and caudal
+segments had little to no positive staining for MBP. Results were verified by double staining
+adjacent tissue sections for NF200 (green) and MBP (red) and counting the number of
+myelinated axons.
+Statistics
+For multiple comparisons, pairs were compared using an ANOVA with post hoc Tukey test
+with a p value <0.05 defined as significant. The numbers of myelinated axons per channel
+were compared using a Kruskal-Wallis test. The error bars represent standard errors in all
+figures.
+RESULTS
+Bridge implantation and transgene expression from lentiviral loaded bridges
+Initial studies investigated transgene expression following implantation of lentivirus loaded
+bridges in a rat spinal cord lateral hemisection. The bridges supported cell infiltration
+resulting in good tissue apposition with all edges of the bridge within a week post surgery
+(Fig. s1), with cells located within both the pores and channels of the bridge. Substantial
+transgene expression was observed within the injury at 7 days post implantation, and
+expression was sustained for at least 4 weeks post surgery (Fig. 2a). Transgene expression
+was also observed in segments adjacent to the implantation site, with expression decreasing
+with increasing distance from the implant. Expression at the injury site decreased 100 fold
+from 1 week to 4 weeks, with the greatest levels occurring at the injury site. At both time
+points, the greatest percentage of transgene expression was localized at the injury site, with
+48% of total expression at 1 week, and 37% of total expression at 4 weeks. Approximately
+90% of the transgene expression occurs within the implant and the 2 adjacent tissue
+segments at 1 week, with 80% of expression in the implant and adjacent segments at 4
+weeks. Taken together, these studies demonstrate that delivering lentiviral vectors within the
+spinal cord results in localized and sustained transgene expression, transgene expression
+occurs in a gradient within the spinal cord, and expression is maximal at the implantation
+site. No significant increases in inflammation were observed when comparing macrophage
+infiltration within the bridges between lentivirus loaded and empty bridges (Fig. s1).
+Subsequent experiments investigated the identity of transduced cells within the bridge and
+surrounding tissue by using EGFP transgene. At 7 days, transduced cells were localized in
+the channels and pores of the bridge and the adjacent tissue (Figs. 2c-e). The identity of
+these transduced cells was determined by double staining with antibodies for EGFP and
+either S-100β (includes Schwann cells and astrocytes), ED-1 (monocytes and macrophages),
+rPH (fibroblasts) or GFAP (reactive astrocytes). Previous studies had identified the first
+three cell types as the main ones that infiltrate the bridge after implantation, with these cell
+types and reactive astrocytes visualized in the tissue surrounding the bridge [4, 5]. Co-
+Tuinstra et al. Page 5
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+localization of stains for the cell-specific antigens (red) and transduced cells (green) was
+observed for S-100β- (Schwann cells), ED-1-(macrophages) and rPH- (fibroblasts) positive
+cells in the bridge and the adjacent tissue (Figs. 3a-c). The percentages of transduced cells in
+the bridge identified as Schwann cells, fibroblasts, and macrophages were 35%, 31%, and
+28%, respectively. No transduced GFAP positive astrocytes were indentified within the
+bridge, consistent with previous results that astrocytes did not infiltrate the bridge [4, 5].
+EGFP positive astrocytes were observed in the tissue surrounding the bridge (Fig. 3d). In
+this tissue, the percentages of transduced cells identified as astrocytes, Schwann cells,
+fibroblasts, and macrophages were 35%, 22%, 7.5%, and 12%, respectively. The percentage
+of unidentified (i.e. EGFP positive and red label negative) transduced cells in the bridge and
+adjacent tissue were 6% and 23.5%, respectively.
+Axon growth
+Bridges, loaded with lentivirus encoding for NT3 or BDNF, were implanted in a spinal cord
+hemisection to investigate the ingrowth of axons into and through the bridge at multiple time
+points. Bridges with no lentivirus were used as a negative control (empty). Coronal sections
+were grouped by dividing the bridge into 3 regions: rostral, middle and caudal (Fig. 1c). Few
+neurofilament positive axons were observed within the channels 1-week post surgery for any
+condition, but an increase in the number of axons per channel as a function of time was
+observed (Figs. 5b-d). At 2 weeks, substantial numbers of axons were observed within the
+channels, with no significant difference in neurofilament staining observed between the 7
+channels (Fig. 4). Localization of positive neurofilament staining primarily to the channels
+suggests that that the bridge architecture is essential to promoting axonal entry and
+regeneration.
+The extent of axon growth was a function of neurotrophin expression and time (overall
+ANOVA, F=11.8, p<0.0001). At the rostral position, delivery of lentivirus encoding either
+NT3 or BDNF significantly increased axon number at 4 weeks compared to the same
+condition at 2 weeks (p<0.005) and 1 week (p>0.0001) (Fig. 5b). However, no increase in
+the number of axons within the rostral location in the empty bridge was observed between 2
+and 4 weeks (p=0.7087). Relative to empty bridges, delivery of lentivirus encoding either
+NT3 or BDNF significantly increased (p<0.005) the number of axons per channel in the
+rostral section at 4 weeks by approximately a factor of 2 (Fig. 5b); no significant difference
+was obtained between NT3 and BDNF (p=0.95) at the rostral position at 4 weeks. For NT3
+and BDNF, the axon counts at 4 weeks in the rostral location were significantly greater
+compared to empty, NT3, and BDNF at other time points and locations (p<0.005).
+The number of axons at the middle and caudal locations of the bridge were less than the
+numbers obtained for the rostral section. There were 4.8, 4.3, and 2.3-fold less axons for the
+middle segment relative to the rostral segment for NT3, BDNF, or empty loaded bridges,
+respectively (Figs. 5b-d). For the caudal location, the number of axons was 3.5, 2.4, and 1.2-
+fold less than the rostral location. No significant difference was observed between empty
+bridges comparing caudal and rostral locations (p=0.4269) (Figs. 5b,d). At 2 weeks in the
+middle section, the number of axons determined for NT3 lentivirus delivery was greater
+compared to the BDNF and empty conditions (p=<0.05); however the axon numbers for all
+conditions in the middle section reached similar levels at 4 weeks (Fig. 5c). In the caudal
+location, at 2 weeks both NT3 expression and empty bridges resulted in greater axon counts
+relative to expression of BDNF (p<0.05) (Fig. 5d). At 4 weeks all conditions resulted in
+similar axon counts. These results demonstrate that lentiviral delivery of neurotrophic
+factors, combined with the permissive environment of the bridge enhances the number of
+regenerating axons.
+Tuinstra et al. Page 6
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Lentivirus encoding neurotrophins, NT3 or BDNF, enhanced myelination
+Myelination of axons within the bridge was subsequently investigated as a function of time
+and neurotrophic factor expression. Myelin basic protein (MBP) was observed in several of
+the channels in which regenerating axons were present. The middle and caudal regions had
+decreased levels of positive MBP staining compared to the rostral region. In the rostral
+location, for NT3, 84% of the channels that contained axons stained positive for MBP,
+compared to 68% and 32% for BDNF and empty, respectively (Figs. 6a-c). BDNF and NT3
+lentiviral delivery significantly enhanced (p<0.01) the number of MBP positive axons and
+the number of channels in which MBP was observed, compared to empty bridges (Fig. 6d).
+NT3 and BDNF had approximately 18 and 19 myelinated axons per channel, compared to 9
+for empty bridges. The increase in the number of myelinated axons per channel correlated
+with the increased number of axons per channel. For all conditions, the percentage of
+myelinated axons was approximately 13%.
+DISCUSSION
+We report that delivery of lentivirus encoding the neurotrophins NT3 or BDNF from a
+multichannel biomaterial bridge enhanced axon regeneration and axon myelination after
+spinal cord injury (SCI) in a rat hemisection model. The delivery of growth factors after an
+injury can enhance the regenerative capacity of the body by directing or promoting cell
+processes that lead to regeneration. Studies delivering neurotrophic factors after SCI,
+including neurotrophin 3 (NT3) [6, 20–24], brain derived neurotrophin factor (BDNF) [16,
+20, 25–28], nerve growth factor (NGF) [8, 21], glial-cell derived neurotrophin factor
+(GDNF) [29, 30], and others [31–33], have shown that these factors enhance axon
+regeneration by stimulating axon growth, reducing secondary injury, stimulating cell
+survival, and/or promoting axon myelination. These factors are commonly delivered by
+osmotic pumps, which can provide a sustained release. Yet, osmotic pumps can clog, require
+a second surgery for removal, and deliver the factors near the injury to avoid tissue damage
+by the catheter. Alternatively, genetically engineered cells have been transplanted within the
+injury site to serve as bioreactors for protein production to locally provide these therapeutic
+factors. Nevertheless, a low survival rate for transplanted cells can complicate this strategy
+[19]. Gene delivery targeting host cells can induce the expression of neurotrophic factors
+from within the injured microenvironment [23]. The direct injection of vectors has been
+employed with some benefit [23, 34]; however, expression may not be localized to the
+injury. In this report, we have attempted to immobilize lentivirus in a multiple channel
+bridge to capture the synergizing effects of both delivering neurotrophic factors and physical
+guidance of axonal growth via a bioengineered scaffold.
+We have previously reported axonal growth after SCI through a multichannel bridge, which
+provides a porous structure that facilitates cellular infiltration to mechanically stabilize the
+injury. Multiple channels within the bridge orient infiltrating cells and direct axonal
+elongation [4, 5, 35]. The delivery of non-viral vectors from the bridge resulted in localized
+transfection [4, 35]. However, the expression level obtained via non-viral vectors may have
+been insufficient for functional effects. Herein, we demonstrate that lentivirus delivery
+resulted in localized protein expression within the injury site, with lower expression
+persisting throughout the adjacent tissue. The expression level with lentivirus delivery was
+approximately 1000 fold greater in the bridge than for non-viral vector delivery. The
+decreased expression in the adjacent tissue relative to the bridge would be expected to create
+a concentration gradient in a secreted factor such as neurotrophins, with the greatest
+concentration at the injury and lower concentrations in the adjacent tissue. Axons are known
+to respond to changes in the concentration of growth factors, therefore, the gradient
+produced by lentivirus delivery may facilitate directed axonal growth toward the injury and
+into the bridge.
+Tuinstra et al. Page 7
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+The cells transduced by lentivirus delivery include macrophages, Schwann cells, and
+fibroblasts that had infiltrated the pores of the bridge, consistent with our previous report
+using plasmid and lipoplex-loaded bridges [4, 35]. However, lentivirus delivery also resulted
+in transduction of astrocytes in the tissue adjacent to the bridge. All of these cells are
+commonly present after injury, and can serve diverse functions to enhance or inhibit
+regeneration. Macrophages can secrete soluble factors that can alter the regenerative
+microenvironment of the bridge, both aiding and inhibiting regeneration [36, 37]. Schwann
+cells, which are not endogenous to the spinal cord yet enter through the damaged root entry
+zones after injury, may function to support and promote regeneration by releasing growth-
+promoting factors and provide remyelination of the axons [38, 39]. Astrocytes, which are
+responsible for the formation of the glial scar and are recognized as a barrier to regeneration
+by inhibiting the crossing of axons though the tissue, were localized within the adjacent
+tissue and the tissue/bridge boundary.
+Lentivirus encoding for NT-3 and BDNF were delivered, which target descending tracts
+responsible for recovery of motor function. NT3 has been associated with a robust and
+consistent outgrowth of corticospinal axons [6, 40]. Administration of exogenous BDNF can
+improve survival of axotomized motoneurons in neonatal rats [41]. Lentivirus induced
+expression of NT3 and BDNF enhanced axonal growth into the channels of the bridge
+relative to empty bridges. This increase observed at the rostral end of the bridge is consistent
+with the action of NT3 and BDNF on descending CNS tracts [6, 8, 12]. Future studies will
+combine these neurotrophin encoding lentivirus loaded bridges with strategies to degrade the
+glial scar that will enhance re-entry into the host tissue, which is necessary to promote
+functional recovery from the regenerated axons.
+Myelinated axons were observed within the channels of the bridge, and delivery and induced
+expression of NT-3 and BDNF significantly increased this number of myelinated axons.
+Demyelination of spared axons and lack of myelination of regenerating axons are considered
+limiting factors in the recovery of neural function after injury. In chemically induced
+demyelination, endogenous oligodendrocyte precursor cells have been shown to migrate and
+remyelinate spared axons [42], though these studies suggest that these cells are able to
+migrate a fixed distance. Cell transplantation has been employed as a means to promote
+remyelination with some reports indicating that progenitor cells can develop into
+oligodendrocytes and remyelinate axons in vivo [43]. Transplantation of PN grafts and
+Schwann cells has resulted in myelination of spared and regenerating axons by the Schwann
+cells that are delivered alone or as a part of the graft [44–46]. Alternatively, cells have been
+transplanted that express NT3 and BDNF, which have enhanced oligodendrocyte survival
+and axon myelination [20, 28, 47]. NT3 and BDNF may also enhance a number of other
+processes. For example, BDNF has been associated with a reduction in the inflammatory
+response, including a reduction in astrocyte numbers [48], which further aids axon
+regeneration. Herein, we report an increase in the number of myelinated axons without cell
+transplantation. Interestingly, the percentage of myelinated axons was similar between
+empty and lentivirus loaded bridges (~13%). This manuscript is the first report of the novel
+finding that endogenous cells migrate into the channels to myelinate regenerating axons.
+Ongoing studies will further characterize the source and extent of myelination and
+investigate strategies to further enhance the process.
+CONCLUSIONS
+This study investigated lentivirus delivery from multiple channel PLG bridges in a rat spinal
+cord hemisection injury model. Transgene expression was greatest at the injury site, with
+transduced cells inside the bridge and in the adjacent tissue. Astrocytes, macrophages,
+fibroblasts, and Schwann cells were identified as some of the cell types transduced. The
+Tuinstra et al. Page 8
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+bridge induced axonal growth down the channels. Delivery of lentivirus vectors encoding
+for the neurotrophic factors NT3 and BDNF enhanced the number of regenerating axons,
+and also the extent of myelination. This study demonstrates that lentivirus delivery of
+neurotrophic factors, combined with the permissive environment of the bridge, enhances
+nerve regeneration after injury. We report a significant increase in the number of axons and
+myelinated axons after SCI. Gene delivery is a versatile strategy in which multiple vectors
+can be delivered from one vehicle to promote growth or to block inhibition. Delivering
+multiple vectors encoding for distinct proteins is straightforward as each vector will have
+similar physical properties, and may provide a mechanism to address the complexity
+microenvironment that does not support regeneration.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Financial support for this research was provided by the NIH (RO1 EB005678, R21 EB006520, RO1 EB 003806)
+and the Christopher and Dana Reeve Foundation spinal cord injury core.
+REFERENCES
+1. David S, Aguayo AJ. Axonal elongation into peripheral nervous system "bridges" after central
+nervous system injury in adult rats. Science. 1981; 214:931–933. [PubMed: 6171034]
+2. Xu XM, Guenard V, Kleitman N, Bunge MB. Axonal regeneration into Schwann cell-seeded
+guidance channels grafted into transected adult rat spinal cord. J Comp Neurol. 1995; 351:145–160.
+[PubMed: 7896937]
+3. Geller HM, Fawcett JW. Building a bridge: engineering spinal cord repair. Exp Neurol. 2002;
+174:125–136. [PubMed: 11922655]
+4. De Laporte L, Yang Y, Zelivyanskaya ML, Cummings BJ, Anderson AJ, Shea LD. Plasmid
+releasing multiple channel bridges for transgene expression after spinal cord injury. Mol Ther.
+2009; 17:318–326. [PubMed: 19050701]
+5. Yang Y, De Laporte L, Zelivyanskaya ML, Whittlesey KJ, Anderson AJ, Cummings BJ, et al.
+Multiple channel bridges for spinal cord injury: cellular characterization of host response. Tissue
+Eng Part A. 2009; 15:3283–3295. [PubMed: 19382871]
+6. Schnell L, Schneider R, Kolbeck R, Barde YA, Schwab ME. Neurotrophin-3 enhances sprouting of
+corticospinal tract during development and after adult spinal cord lesion. Nature. 1994; 367:170–
+173. [PubMed: 8114912]
+7. Malcangio M, Ramer MS, Boucher TJ, McMahon SB. Intrathecally injected neurotrophins and the
+release of substance P from the rat isolated spinal cord. Eur J Neurosci. 2000; 12:139–144.
+[PubMed: 10651868]
+8. Namiki J, Kojima A, Tator CH. Effect of brain-derived neurotrophic factor, nerve growth factor,
+and neurotrophin-3 on functional recovery and regeneration after spinal cord injury in adult rats. J
+Neurotrauma. 2000; 17:1219–1231. [PubMed: 11186234]
+9. Pearse DD, Pereira FC, Marcillo AE, Bates ML, Berrocal YA, Filbin MT, et al. cAMP and Schwann
+cells promote axonal growth and functional recovery after spinal cord injury. Nat Med. 2004;
+10:610–616. [PubMed: 15156204]
+10. Fouad K, Schnell L, Bunge MB, Schwab ME, Liebscher T, Pearse DD. Combining Schwann cell
+bridges and olfactory-ensheathing glia grafts with chondroitinase promotes locomotor recovery
+after complete transection of the spinal cord. J Neurosci. 2005; 25:1169–1178. [PubMed:
+15689553]
+11. Dinh P, Bhatia N, Rasouli A, Suryadevara S, Cahill K, Gupta R. Transplantation of preconditioned
+Schwann cells following hemisection spinal cord injury. Spine. 2007; 32:943–949. [PubMed:
+17450067]
+Tuinstra et al. Page 9
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+12. Olson HE, Rooney GE, Gross L, Nesbitt JJ, Galvin KE, Knight A, et al. Neural stem cell- and
+Schwann cell-loaded biodegradable polymer scaffolds support axonal regeneration in the
+transected spinal cord. Tissue Eng Part A. 2009; 15:1797–1805. [PubMed: 19191513]
+13. McDonald JW, Liu XZ, Qu Y, Liu S, Mickey SK, Turetsky D, et al. Transplanted embryonic stem
+cells survive, differentiate and promote recovery in injured rat spinal cord. Nat Med. 1999;
+5:1410–1412. [PubMed: 10581084]
+14. Chopp M, Zhang XH, Li Y, Wang L, Chen J, Lu D, et al. Spinal cord injury in rat: treatment with
+bone marrow stromal cell transplantation. Neuroreport. 2000; 11:3001–3005. [PubMed:
+11006983]
+15. Dasari VR, Spomar DG, Gondi CS, Sloffer CA, Saving KL, Gujrati M, et al. Axonal remyelination
+by cord blood stem cells after spinal cord injury. J Neurotrauma. 2007; 24:391–410. [PubMed:
+17376002]
+16. Liu Y, Kim D, Himes BT, Chow SY, Schallert T, Murray M, et al. Transplants of fibroblasts
+genetically modified to express BDNF promote regeneration of adult rat rubrospinal axons and
+recovery of forelimb function. J Neurosci. 1999; 19:4370–4387. [PubMed: 10341240]
+17. Jin Y, Fischer I, Tessler A, Houle JD. Transplants of fibroblasts genetically modified to express
+BDNF promote axonal regeneration from supraspinal neurons following chronic spinal cord
+injury. Exp Neurol. 2002; 177:265–275. [PubMed: 12429228]
+18. Blesch A, Tuszynski MH. Transient growth factor delivery sustains regenerated axons after spinal
+cord injury. J Neurosci. 2007; 27:10535–10545. [PubMed: 17898225]
+19. Hill CE, Moon LD, Wood PM, Bunge MB. Labeled Schwann cell transplantation: cell loss, host
+Schwann cell replacement, and strategies to enhance survival. Glia. 2006; 53:338–343. [PubMed:
+16267833]
+20. McTigue DM, Horner PJ, Stokes BT, Gage FH. Neurotrophin-3 and brain-derived neurotrophic
+factor induce oligodendrocyte proliferation and myelination of regenerating axons in the contused
+adult rat spinal cord. J Neurosci. 1998; 18:5354–5365. [PubMed: 9651218]
+21. Young C, Miller E, Nicklous DM, Hoffman JR. Nerve growth factor and neurotrophin-3 affect
+functional recovery following peripheral nerve injury differently. Restor Neurol Neurosci. 2001;
+18:167–175. [PubMed: 11847440]
+22. Zhou L, Baumgartner BJ, Hill-Felberg SJ, McGowen LR, Shine HD. Neurotrophin-3 expressed in
+situ induces axonal plasticity in the adult injured spinal cord. J Neurosci. 2003; 23:1424–1431.
+[PubMed: 12598631]
+23. Taylor L, Jones L, Tuszynski MH, Blesch A. Neurotrophin-3 gradients established by lentiviral
+gene delivery promote short-distance axonal bridging beyond cellular grafts in the injured spinal
+cord. J Neurosci. 2006; 26:9713–9721. [PubMed: 16988042]
+24. Taylor SJ, Rosenzweig ES, McDonald JW 3rd, Sakiyama-Elbert SE. Delivery of neurotrophin-3
+from fibrin enhances neuronal fiber sprouting after spinal cord injury. J Control Release. 2006;
+113:226–235. [PubMed: 16797770]
+25. Koda M, Hashimoto M, Murakami M, Yoshinaga K, Ikeda O, Yamazaki M, et al. Adenovirus
+vector-mediated in vivo gene transfer of brain-derived neurotrophic factor (BDNF) promotes
+rubrospinal axonal regeneration and functional recovery after complete transection of the adult rat
+spinal cord. J Neurotrauma. 2004; 21:329–337. [PubMed: 15115607]
+26. Koda M, Murakami M, Ino H, Yoshinaga K, Ikeda O, Hashimoto M, et al. Brain-derived
+neurotrophic factor suppresses delayed apoptosis of oligodendrocytes after spinal cord injury in
+rats. J Neurotrauma. 2002; 19:777–785. [PubMed: 12165137]
+27. Kwon BK, Liu J, Lam C, Plunet W, Oschipok LW, Hauswirth W, et al. Brain-derived neurotrophic
+factor gene transfer with adeno-associated viral and lentiviral vectors prevents rubrospinal
+neuronal atrophy and stimulates regeneration-associated gene expression after acute cervical spinal
+cord injury. Spine. 2007; 32:1164–1173. [PubMed: 17495772]
+28. Sasaki M, Radtke C, Tan AM, Zhao P, Hamada H, Houkin K, et al. BDNF-hypersecreting human
+mesenchymal stem cells promote functional recovery, axonal sprouting, and protection of
+corticospinal neurons after spinal cord injury. J Neurosci. 2009; 29:14932–14941. [PubMed:
+19940189]
+Tuinstra et al. Page 10
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+29. Blesch A, Tuszynski MH. Cellular GDNF delivery promotes growth of motor and dorsal column
+sensory axons after partial and complete spinal cord transections and induces remyelination. J
+Comp Neurol. 2003; 467:403–417. [PubMed: 14608602]
+30. Zhang L, Ma Z, Smith GM, Wen X, Pressman Y, Wood PM, et al. GDNF-enhanced axonal
+regeneration and myelination following spinal cord injury is mediated by primary effects on
+neurons. Glia. 2009; 57:1178–1191. [PubMed: 19170182]
+31. Kobayashi NR, Fan DP, Giehl KM, Bedard AM, Wiegand SJ, Tetzlaff W. BDNF and NT-4/5
+prevent atrophy of rat rubrospinal neurons after cervical axotomy, stimulate GAP-43 and Talpha1-
+tubulin mRNA expression, and promote axonal regeneration. J Neurosci. 1997; 17:9583–9595.
+[PubMed: 9391013]
+32. Scarisbrick IA, Isackson PJ, Windebank AJ. Differential expression of brain-derived neurotrophic
+factor, neurotrophin-3, and neurotrophin-4/5 in the adult rat spinal cord: regulation by the
+glutamate receptor agonist kainic acid. J Neurosci. 1999; 19:7757–7769. [PubMed: 10479679]
+33. Blesch A, Yang H, Weidner N, Hoang A, Otero D. Axonal responses to cellularly delivered
+NT-4/5 after spinal cord injury. Mol Cell Neurosci. 2004; 27:190–201. [PubMed: 15485774]
+34. Abdellatif AA, Pelt JL, Benton RL, Howard RM, Tsoulfas P, Ping P, et al. Gene delivery to the
+spinal cord: comparison between lentiviral, adenoviral, and retroviral vector delivery systems. J
+Neurosci Res. 2006; 84:553–567. [PubMed: 16786574]
+35. De Laporte L, Yan AL, Shea LD. Local gene delivery from ECM-coated poly(lactide-co-
+glycolide) multiple channel bridges after spinal cord injury. Biomaterials. 2009; 30:2361–2368.
+[PubMed: 19144400]
+36. Schwartz M. Immunological approaches to the treatment of spinal cord injury. BioDrugs. 2001;
+15:585–593. [PubMed: 11580302]
+37. Anderson AJ. Mechanisms and pathways of inflammatory responses in CNS trauma: spinal cord
+injury. J Spinal Cord Med. 2002; 25:70–79. discussion 80. [PubMed: 12137220]
+38. King VR, Phillips JB, Hunt-Grubbe H, Brown R, Priestley JV. Characterization of non-neuronal
+elements within fibronectin mats implanted into the damaged adult rat spinal cord. Biomaterials.
+2006; 27:485–496. [PubMed: 16102813]
+39. Silver J, Miller JH. Regeneration beyond the glial scar. Nat Rev Neurosci. 2004; 5:146–156.
+[PubMed: 14735117]
+40. Grill R, Murai K, Blesch A, Gage FH, Tuszynski MH. Cellular delivery of neurotrophin-3
+promotes corticospinal axonal growth and partial functional recovery after spinal cord injury. J
+Neurosci. 1997; 17:5560–5572. [PubMed: 9204937]
+41. Vejsada R, Sagot Y, Kato AC. Quantitative comparison of the transient rescue effects of
+neurotrophic factors on axotomized motoneurons in vivo. Eur J Neurosci. 1995; 7:108–115.
+[PubMed: 7711927]
+42. Mi S, Miller RH, Tang W, Lee X, Hu B, Wu W, et al. Promotion of central nervous system
+remyelination by induced differentiation of oligodendrocyte precursor cells. Ann Neurol. 2009;
+65:304–315. [PubMed: 19334062]
+43. Cummings BJ, Uchida N, Tamaki SJ, Salazar DL, Hooshmand M, Summers R, et al. Human
+neural stem cells differentiate and promote locomotor recovery in spinal cord-injured mice. Proc
+Natl Acad Sci U S A. 2005; 102:14069–14074. [PubMed: 16172374]
+44. Nomura H, Baladie B, Katayama Y, Morshead CM, Shoichet MS, Tator CH. Delayed implantation
+of intramedullary chitosan channels containing nerve grafts promotes extensive axonal
+regeneration after spinal cord injury. Neurosurgery. 2008; 63:127–141. discussion 41–3. [PubMed:
+18728578]
+45. Weidner N, Blesch A, Grill RJ, Tuszynski MH. Nerve growth factor-hypersecreting Schwann cell
+grafts augment and guide spinal cord axonal growth and remyelinate central nervous system axons
+in a phenotypically appropriate manner that correlates with expression of L1. J Comp Neurol.
+1999; 413:495–506. [PubMed: 10495438]
+46. Tuszynski MH, Weidner N, McCormack M, Miller I, Powell H, Conner J. Grafts of genetically
+modified Schwann cells to the spinal cord: survival, axon growth, and myelination. Cell
+Transplant. 1998; 7:187–196. [PubMed: 9588600]
+Tuinstra et al. Page 11
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+47. Girard C, Bemelmans AP, Dufour N, Mallet J, Bachelin C, Nait-Oumesmar B, et al. Grafts of
+brain-derived neurotrophic factor and neurotrophin 3-transduced primate Schwann cells lead to
+functional recovery of the demyelinated mouse spinal cord. J Neurosci. 2005; 25:7924–7933.
+[PubMed: 16135749]
+48. Jain A, Kim YT, McKeon RJ, Bellamkonda RV. In situ gelling hydrogels for conformal repair of
+spinal cord defects, and local delivery of BDNF after spinal cord injury. Biomaterials. 2006;
+27:497–504. [PubMed: 16099038]
+Tuinstra et al. Page 12
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1. Multiple channel bridges for spinal cord regeneration
+(a) Photomicrograph of a multiple channel bridge showing 7 channels, each 250 µm in
+diameter. Scale bar is 500 µm. (b) Schematic of PLG bridge implantation in a spinal cord
+hemisection model. (c) Schematic of the regions in which the bridge was divided for
+analysis. Rostral analysis was done at 300 µm, middle at 2000 µm, and caudal at 3500 µm
+from the rostral edge of the bridge/tissue boundary.
+Tuinstra et al. Page 13
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2. Transgene expression within the spinal cord
+(a) Luciferase expression in the rat spinal cord lateral hemisection model at two time points
+(1 week, and 4 weeks) (n=4) as a function of distance from the injury site. 0 = the bridge
+segment. RLU, relative light unit. (b) Percentage of total luciferase expression at each
+segment in the spinal cord at two time points (1 week, and 4 weeks) (n=4) as a function of
+distance from the injury site. 0 = the bridge segment. (c-e) Location of transduced cells after
+implantation of bridges loaded with a lentivirus encoding for enhanced green fluorescent
+protein (green). (c) Transduced cells were observed within the pores of the bridge, (d)
+aligned within the channels of the bridge, (e) and in the tissue adjacent to the bridge. Cell
+nuclei were stained with Hoechst (blue). P, polymer, Ch, channel. White lines indentify the
+boundaries of a channel. Scale bar is 50 µm. Error bars represent SEs.
+Tuinstra et al. Page 14
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3. Identification of transduced cells
+Double staining of slides with antibodies to EGFP (green) and to specific cell types (red).
+The cell types antibodies were (a) S100β for Schwann cells, (b) GFAP for reactive
+astrocytes, (c) ED-1 for macrophages, or (d) rPH for fibroblasts. Cell nuclei were stained
+with Hoechst (blue). Arrows indicate the position of cells that stained positive for both
+EGFP and the specific cell antibody. P, polymer. Ch, channel. White lines indentify the
+boundaries of channels. Scale bar is 50 µm. Quantification of the profile of transduced cells
+within the bridge and the adjacent tissue (e). Error bars represent SEs.
+Tuinstra et al. Page 15
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 4. Axon regeneration inside the channels for different treatment conditions
+Images of an (a) empty bridge or a bridge loaded with a lentivirus encoding either (b) NT3
+or (c) BDNF. Bridges were retrieved 4 weeks post implantation, and sections from the
+rostral position were stained with NF200 (neurofilament, brown). Channels are identified by
+the dash circles. Scale bar is 250 µm.
+Tuinstra et al. Page 16
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 5. Quantification of axonal regeneration as a function of time and position within the
+bridges
+(a) Time course of a single channel at the rostral position. (b-d) Axons were quantified by
+counting the number of NF200 positive neurofilaments inside the channels. Slides analyzed
+were selected from the (b) rostral (300 µm), (c) middle (2000 µm), and (d) caudal (3500
+µm) regions of the bridge. Statistical analysis was done by an ANOVA with Tukey post hoc
+test with a p<0.05 found to be significant differently. *, significant difference compared to
+empty at the same time point; +, significant difference compared to BDNF at the same time
+point). Scale bar in a is 50 µm.
+Tuinstra et al. Page 17
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 6. Axon myelination inside the channels
+Tissue sections were stained for myelin basic protein (MBP, red) and neurofilament (NF200,
+green) (a-c) 4 weeks after implantation. The images are from the rostral sections of (a) a
+bridge loaded with a lentivirus encoding for BDNF, (b) a bridge loaded with a lentivirus
+encoding for NT3, and (c) an empty bridge. Scale bar is 50 µm in a-c. (d) Quantification of
+the MBP stain as a function of the treatment at 4 weeks post implantation and in the rostral
+position. Quantification was done by counting the number of myelinated axons inside the
+channels (■, left axis), or by counting the number of channels with positive stained
+myelinated axons (□, right axis). * Indicates significant difference compared to empty
+(p<0.01), using the Kruskal-Wallis Test. + Indicates significant difference compared to
+empty (p<0.01), using an ANOVA with Tukey post hoc test.
+Tuinstra et al. Page 18
+Biomaterials. Author manuscript; available in PMC 2013 February 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript

@@ -1,0 +1,1190 @@
+Neuron
+n
+j
+E
+a
+tio
+w
+,
+s
+53
+13
+U
+fhas been made toward characterizing the mechanisms under-
+lying axon and dendrite differentiation (Arimura and Kaibuchi,
+2007; Barnes and Polleux, 2009; Stiess and Bradke, 2011).
+are important for mediating the signaling that elicits neurite
+formation, the intrinsic mechanism of neurite formation itself
+does not depend on Ena/VASP.However, the first steps—when neurons initially transform from
+spheres to cells with neurites, the cylindrically shaped subcel-
+We have therefore searched for an actin-regulating factor that
+drives the intrinsic process of neurite formation. An importantactin regulatory proteins, ADF/Cofilin, provides the
+required control of actin retrograde flow and
+dynamics to form neurites. In particular, the F-actin
+severing activity of ADF/Cofilin organizes space for
+the protrusion and bundling of microtubules, the
+backbone of neurites. Our data reveal how ADF/
+Cofilin organizes the cytoskeleton to drive actin
+retrograde flow and thus break the spherical shape
+of neurons.
+INTRODUCTION
+Neurons undergo dramatic morphological transformations
+during development. In the mammalian nervous system, they
+start out as simple symmetric spheres but develop into highly
+elaborate cells with distinct axonal and dendritic compartments
+(Rasband, 2010). For the latter stages of this process, progress
+unclear. Moreover, it is unresolved which actin-dynamizing
+factors could regulate the cytoskeleton to enable neurite forma-
+tion during brain development.
+Studies of neuronal growth cones showed that the actin cyto-
+skeleton undergoes an organized process of actin assembly/
+disassembly and actomyosin contractility to generate actin
+retrograde flow and growth cone translocation (Lowery and
+Van Vactor, 2009; Schaefer et al., 2008). The precise role of actin
+retrograde flow and the players involved in neuritogenesis
+are largely unknown. Several factors that directly or indirectly
+regulate actin dynamics have been proposed to facilitate neuri-
+togenesis (da Silva and Dotti, 2002). For example, the actin
+filament anticapping factors, enabled/vasodilator-stimulated
+phosphoprotein (Ena/VASP), are important for neuritogenesis
+as mouse neurons lacking all three Ena/Vasp isoforms
+(Mena/VASP/EVL) remain spherical (Kwiatkowski et al., 2007).
+However, neurite formation can be restored in these neurons
+upon the activation of integrin signaling by plating them on lam-
+inin (Dent et al., 2007). This suggests that although Ena/VASPArticle
+ADF/Cofilin-Mediated Actin
+Directs Neurite Formation i
+Kevin C. Flynn,1,2 Farida Hellal,2 Dorothee Neukirchen,1 Son
+Sina Stern,2 Boyan K. Garvalov,1,5 Christine Gurniak,6 Alisa
+James R. Bamburg,7 J. Victor Small,3 Walter Witke,6 and Fr
+1Max Planck Institute of Neurobiology, Axonal Growth and Regenera
+2German Center for Neurodegenerative Diseases (DZNE), Axonal Gro
+3Institute of Molecular Biotechnology, Austrian Academy of Sciences
+4German Center for Neurodegenerative Diseases (DZNE), Schillerstra
+5Institute of Neuropathology, Justus Liebig University, Aulweg 123, 3
+6Institute of Genetics, University of Bonn, Karlrobert-Kreiten Strasse
+7Department of Biochemistry and Molecular Biology, Colorado State
+8Cellular Dynamics and Cell Patterning Group, Max Planck Institute o
+*Correspondence: frank.bradke@dzne.de
+http://dx.doi.org/10.1016/j.neuron.2012.09.038
+SUMMARY
+Neurites are the characteristic structural element of
+neurons that will initiate brain connectivity and elab-
+orate information. Early in development, neurons are
+spherical cells but this symmetry is broken through
+the initial formation of neurites. This fundamental
+step is thought to rely on actin and microtubule
+dynamics. However, it is unclear which aspects of
+the complex actin behavior control neuritogenesis
+and which molecular mechanisms are involved.
+Here, we demonstrate that augmented actin retro-
+grade flow and protrusion dynamics facilitate neurite
+formation. Our data indicate that a single family ofNeRetrograde Flow
+the Developing Brain
+a Jacob,3 Sabina Tahirovic,1,4 Sebastian Dupraz,2
+. Shaw,7 Liane Meyn,1,2 Roland Wedlich-Söldner,8
+nk Bradke1,2,*
+n Group, Am Klopferspitz 18, 82152 Martinsried, Germany
+th and Regeneration, Ludwig-Erhard-Allee 2, 53175 Bonn, Germany
+Dr. Bohrgasse 3, A-1030 Vienna, Austria
+se 44, 80336 Munich, Germany
+92 Giessen, Germany
+, 53115 Bonn, Germany
+niversity, 1870 Campus Delivery, Fort Collins, CO 80523, USA
+Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
+lular precursors of axons and dendrites (da Silva and Dotti,
+2002)—remain enigmatic.
+Neurites contain bundled microtubules and are tipped with an
+actin-rich growth cone (Conde and Cáceres, 2009). Past studies
+have identified essential features that turn nonneuronal cells
+into cells with neurite-like processes (Dehmelt et al., 2003; Edson
+et al., 1993). In hepatoma cells, overexpression of the neuron-
+specific microtubule-associated protein (MAP), MAP2c, gener-
+ates microtubule bundles that, in conjunction with pharmacolog-
+ical depolymerization of cortical actin, enable neurite-like growth
+(Edson et al., 1993). This study raised the possibility that micro-
+tubule bundling and a dynamic cortical actin cytoskeleton,
+through which bundled microtubules protrude, could be the
+key intracellular processes underlying neurite formation.
+However, the events during neuritogenesis in neurons are stilluron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1091
+Figure 1. Actin Filament Organization and Dynamics Determine Neurite Formation
+(A) Single frames of live-cell imaging of Lifeact-GFP and EB3-mCherry in a neuron undergoing neuritogenesis. The bottom panels show a magnified region from
+the top panels. Arrowheads indicate progressive bundling of microtubules over time. See also Movie S1. Scale bar represents 10 mm.
+(legend continued on next page)
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+1092 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.
+criterion for such a factor, deduced from the work of Edson et al.
+(1993), is that the candidate protein must enable F-actin disas-
+sembly and rearrangements that facilitate the protrusion of
+bundled microtubules out of the neuronal sphere to form a
+neurite. However, none of the proteins with strong actin fila-
+ment-depleting activity studied so far affect neurite formation
+in physiological situations, including gelsolin (Lu et al., 1997).
+One prime candidate is the family of actin depolymerizing factor
+(ADF)/Cofilin (AC), which enhances actin dynamics in three
+ways: by depolymerization (accelerating monomer loss at the
+pointed end), by severing filaments into shorter protomers, and
+by directly or indirectly facilitating actin filament growth (Andria-
+nantoandro and Pollard, 2006; Bernstein and Bamburg, 2010).
+We conclude that AC regulates neuritogenesis by driving actin
+turnover and organization, which is necessary for microtubule
+penetration and coalescence.
+RESULTS
+Neuritogenesis Requires Actin Turnover
+We sought to characterize actin and microtubule dynamics
+during neurite formation. To date, such studies were hampered
+by the fact that fluorescently labeled actin could only be repeti-
+tively imaged in primary mammalian neurons for short time
+periods or with low temporal resolution (Dent et al., 2007; Flynn
+et al., 2009). We therefore used neurons from Lifeact-GFP
+n
+lin
+3
+us
+ti
+a
+ati
+Neuron
+ADF/Cofilin Is Required for Neurite FormationAC proteins increase actin turnover in vitro (Carlier et al., 1997),
+enhance actin retrograde flow in epithelial cells (Delorme et al.,
+2007), and positively regulate growth cone dynamics in dorsal
+root ganglion neurons (Endo et al., 2003). Of the three mamma-
+lian AC family isoforms found in mammals, ADF and Cofilin-1 are
+both expressed in the mammalian brain with Cofilin-1 (hereafter
+simply ‘‘Cofilin’’) as the dominant isoform (Bellenchi et al., 2007).
+However, the genetic deletion of Cofilin in the nervous system
+reduces neuronal cell proliferation and migration but not neurite
+formation (Bellenchi et al., 2007). Moreover, the genetic ablation
+of ADF affects neither the development of the nervous system,
+nor the formation of neurites in particular (Bellenchi et al.,
+2007). Thus, so far, no actin filament modulator has been identi-
+fied that regulates physiological neuritogenesis.
+Here, we observed that increased actin dynamics are corre-
+lated with and necessary for the emergence of neurites out of
+the neuronal sphere. Although required for neuritogenesis,
+microtubules mainly follow the lead of the progressively dynamic
+actin cytoskeleton. Genetic ablation of a single family of
+actin-regulating proteins, ADF and Cofilin (hereafter ‘‘AC KO’’),
+resulted in a failure of neuritogenesis due to profound cytoskel-
+etal aberrations, including a blockade of F-actin retrograde
+flow and irregular microtubule growth. In the absence of AC
+proteins, pharmacological depolymerization of actin filaments
+enabled bundled microtubules to penetrate through the cell rim
+leading to neurite formation. The actin-severing activity was
+primarily linked to actin retrograde flow and neurite formation.
+(B) Live-cell imaging of Lifeact-GFP and EB3-mCherry in a neuron undergoing
+panel shows a maximum intensity projection of EB3-mCherry over 3 min. The
+a nonneurite-forming region. Scale bar represents 10 mm.
+(C) The graph displays the average normalized intensity values of line scans of EB
+nonneurite-forming regions in stage 1 cells; n = 10.
+(D) The bar graphs display quantifications of the average retrograde flow, protr
+nonneurite-forming regions in stage 1, stage 1-2, and stage 2 cells; n = 8.
+(E) The treatment of stage 1 neurons with latrunculin B accelerates neurite forma
+shown. Scale bar represents 20 mm.
+(F) Quantification of the developmental stage of neurons with the indicated tre
+neurites (Dotti et al., 1988); nR 250 cells from three separate experiments.
+(G) The treatment of stage 1 neurons with jasplakinolide attenuates neurite form
+shown. Scale bar represents 20 mm.(H) Quantification of the developmental stage of neurons with the indicated treat
+(I) ADF/Cofilin activity in stage 2 neurons compared to stage 1 neurons shown by r
+ratios. F-actin is stained with fluorescent phalloidin. Scale bar represents 20 mm
+(J) Quantification of average Cofilin activity; nR 75 cells from three separate ex
+**p < 0.01, **p < 0.01, ***p < 0.001. Error bars represent SD.
+Nemice, which exhibited stable green fluorescent protein (GFP)
+fluorescence to visualize actin dynamics with minimal photo-
+bleaching and phototoxicity (Riedl et al., 2010). To track
+polymerizing microtubules, we transfected Lifeact-GFP neurons
+with mCherry-tagged end-binding protein 3 (EB3-mCherry)
+(Akhmanova and Steinmetz, 2008). Within hours after plating,
+neurons assumed a characteristic ‘‘fried-egg’’ morphology
+(stage 1) (Dotti et al., 1988), with a circumferential actin-rich
+lamellipodium exhibiting moderate motility (Figure 1A, see
+Movie S1 available online). During neuritogenesis, filopodia
+became engorged with growing microtubules, expanded a
+growth cone, and progressed into a nascent neurite (Figure 1A).
+In addition, broad actin-based growth cone-like structures
+became more active and began advancing away from the
+soma, extending the membrane in their wake, which con-
+solidated into a nascent neurite (Figure 1A). Initially, splayed
+microtubules closely trailed advancing actin structures and
+later coalesced into bundles as the neurite took shape (Figures
+1A and S1A, Movie S1). Before neurite formation, microtubules
+advanced further into the periphery in neurite-forming zones
+compared to nonneurite-forming regions (Figures 1B and 1C).
+As neurite formation commenced (stage 1-2), the F-actin struc-
+tures in nonneurite regions largely abated into stable, cortical
+actin in stark contrast to extending neurites, which displayed
+lamellipodia and filopodia with augmented dynamics (Fig-
+ure S1B). Actin retrograde flow was higher in neurite-forming
+zones (7.2 ± 1.7 mm/min) compared to regions that did not
+euritogenesis. Arrowheads indicate future sites of neurite formation. The right
+es indicate sites where line scans were taken for a neurite-forming region and
+-mCherrymaximum intensity projections in neurite-forming zones compared to
+ion frequency, and protrusion distance in neurite-forming zones compared to
+on. Fluorescent staining for bIII tubulin and F-actin with fluorescent phalloidin is
+tments. Stage 1, no neuritis; stage 2, minor neuritis; stage 3, axon and minor
+on. Fluorescent staining for bIII tubulin and F-actin with fluorescent phalloidin isments; nR 200 cells from three separate experiments.
+atio of total Cofilin and phosphorylated Cofilin. Warmer colors represent higher
+.
+periments.
+uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1093
+Figure 2. ADF/Cofilin Is Necessary for Neuritogenesis
+(A) Western blot of E17 cortex from wild-type (WT), conditional (nestin-cre) cofilinmonoallele (ADF/,Cof+/), ADFmonoallele (ADF+/, Cof/), and ADF/Cofilin
+double knockout (AC KO). ADF (bottom band) and Cofilin (top band) were both detected by a single antibody.
+(B) Confocal micrographs of fluorescent stainings for Tau-1 (green) and F-actin (red) of E17 neocortical coronal sections from wild-type and ADF/Cofilin double
+knockout (AC KO) brains. Scale bar represents 1 mm.
+(C) The left panels show confocal micrographs of Trb-1 (green, layer VI, preplate marker) and Ctip-2 (red, layer V, cortical plate marker) and the right panels show
+confocal micrographs of Cux-1 (green, VZ, SVZ, and cortical plate marker) and DAPI (blue, all cells) of E17 neocortical coronal sections from wild-type, ADF
+(legend continued on next page)
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+1094 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.
+form neurites (1.8 ± 1.4 mm/min, p < 0.001), actin-based
+membrane protrusions were more frequent (0.5 ± 0.1 protru-
+sions/min versus 0.1 ± 0.1 protrusions/min, p < 0.001), and these
+protrusions extended a greater distance (2.2 ± 0.5 mm versus
+1.0 ± 0.4 mm, p < 0.001) (Figure 1D). In addition, actin retrograde
+flow, protrusion frequency, and protrusion distance increased
+in neurite-forming regions in stage 1-2 and stage 2 neurons
+compared to stage 1 neurons (Figure S1C).
+As microtubules protrude closer to the leading edge in neurite
+forming zones, where actin is also more dynamic, we wondered
+whether actin destabilization accelerates neurite formation. In
+family are prime candidates for such activity. Live-cell imaging
+experiments showed that neurons expressing Cofilin-RFP had
+increased retrograde flow rates compared to neurons express-
+ing RFP (8.3 ± 1.4 mm/min versus 5.1 ± 0.6 mm/min for RFP
+control, p < 0.001, Figures S2E and S2F). Immunocytochemistry
+for active AC (ratio of total cofilin/phosphorylated cofilin)
+revealed that stage 2 growth cones had elevated AC activity
+compared to stage 1 cells (2.8 ± 1.0 versus 1.1 ± 0.4, p < 0.01;
+Figures 1I–1J).
+To test the physiological role of AC proteins in neuritogenesis,
+we generated mice with brain-targeted deletion of both ADF
+in
+ts
+e
+c
+. S
+ec
+o
+is
+at
+d
+C
+Neuron
+ADF/Cofilin Is Required for Neurite Formationfact, within 6 hr after plating, more than 95% of the neurons
+treated with 500 nM latrunculin B contained neurites. Hence,
+latrunculin treatment induced over a 12-fold decrease in
+the percent of neurons without neurites (3.7% ± 0.72% for
+500 nM latrunculin B versus 45.5% ± 3.6% for DMSO, p <
+0.001; Figures 1E and 1F). Moreover, local application of latrun-
+culin B induced neurite protrusions at the site of actin destabi-
+lization (Figure S1D). Moderate microtubule stabilization by
+low doses of taxol, which induces supernumary axons in
+neurons already containing neurites (Witte et al., 2008), did
+not augment neurite formation (Figures S2A and S2B). To
+determine whether actin turnover is necessary for neuritogene-
+sis, we treated stage 1 neurons with the F-actin stabilizing
+drug jasplakinolide. Nanomolar doses of jasplakinolide com-
+pletely abolished retrograde flow after 1 hr (Figure S2C). At
+5 nM jasplakinolide, neurons still displayed normal features
+of the actin cytoskeleton, including filopodia (Figure 1G).
+However, at 10 nM jasplakinolide, the organization of the cyto-
+skeleton was disrupted with abnormal F-actin accumulations
+and looping microtubules. After 1 day in vitro (DIV), jasplakino-
+lide-treated neurons largely failed to form neurites, resulting in
+a more than 2-fold increase in stage 1 cells (70.2% ± 1.4% for
+10 nM jasplakinolide versus 27.7% ± 3.5% for DMSO, p <
+0.001; Figure 1H). Thus, actin turnover is a critical regulator of
+neuritogenesis.
+Neuritogenesis Requires ADF/Cofilin Proteins
+We hypothesized that the activity of an endogenous factor
+underlies the observed increase in actin disassembly and turn-
+over, facilitating the radial growth of microtubule bundles during
+neurite formation (Figure S2D). Proteins of the ADF/Cofilin (AC)
+monoallele, and ADF/Cofilin double knockout (AC KO) brains. The markers are
+greatly reduced in the top layers of the cortex (arrowhead). Scale bar represen
+(D) Confocal fluorescent micrographs of neurofilament staining of E17 wild-typ
+(E) Higher magnification of confocal fluorescent micrographs of E17 AC KO
+arrowheads). However, a few neurons have short neurites (yellow arrowheads)
+(F) Confocal fluorescentmicrographs of E18.5 cortices transfected via in utero el
+or Cre + YFP vectors. The YFP (green) shows the individual transfected cells in c
+axonal tracts are formed by the control neurons (arrowheads), which are dimin
+(G) Camera lucida traces of individual cells from the SVZ of in utero electropor
+(H) Quantification of the distribution of control (green tones) and Cre-transfecte
+(I) Quantification of cells with no neurites in the SVZ for control (YFP) and Cre ((J) Fluorescent micrographs of GFP, bIII tubulin, and F-actin of wild-type (GFP
+arrowheads) neurons at 1 day in vitro (1 DIV) and 2 DIV. Scale bar represents 10
+(K) Stacked bar graph of neurite growth phenotypes in wild-type andACKO neuro
+from four experiments.
+*p < 0.05, **p < 0.01, ***p < 0.001. Error bars represent SD.
+Neand Cofilin (AC KO). We crossed ADF KO mice (ADF/) with
+brain-specific Cofilin KO mice (Nestin Cre+/, cofilin flox/flox) by
+standard genetic crossings (Bellenchi et al., 2007). The AC
+KO progeny were observed at expected Mendelian ratios at
+embryonic days 15–17 (E15–E17) but diedwithin 12 hr after birth.
+Using an antibody that recognizes both ADF and Cofilin in
+mouse, we confirmed that ADF was undetectable while Cofilin
+had a slight residual expression in the AC KO at E17 due to inter-
+calation of the meninges in the cortical tissue (Figures 2A and
+S3C). At this age, AC KOmice had multiple severe abnormalities
+in all areas of the brain compared to wild-type control brains.
+First, AC KO brains displayed drastic cortical hypoplasia and
+extreme ventricle expansion (Figures 2B, S3A, and S3B).
+Second, AC KO brains showed cortical ectopias, resembling
+the cobblestone-like cortex observed in type II lissencephaly,
+an archetypal neuronal migration disorder (Figure S3C) (Bielas
+et al., 2004). Consistent with a defect in neuronal migration,
+cortical lamination was drastically disrupted in the AC KO
+brains and neurons of the distinct layers were intermingled
+(Figures 2C and S3B). The brain morphology of the ADF mono-
+allele (NesCre+/, ADF+/, cofilin flox/flox) had a similar, though
+less profound, phenotype (Figures S3A and S3B). In contrast
+to the ADF monoallele, cofilin monoallele (NesCre+/, ADF/,
+cofilin flox/+) brains were morphologically indistinguishable from
+wild-type brains, as previously reported for ADF KO mice (data
+not shown) (Bellenchi et al., 2007).
+Immunostaining with the axonal marker Tau-1 revealed that
+there were no obvious axonal tracts in the AC KO and the ADF
+monoallele brains, even in regions of the brain that remained
+intact (Figures 2B, S3A, and S3B). We confirmed the dele-
+terious effects of AC ablation on cortical mass and axon tract
+termingled in the AC KO and to a lesser degree in the ADFmonoallele. Cux1 is
+200 mm.
+and AC KO cortex. Scale bar represents 50 mm.
+ortex. The AC KO neurons are mainly spherical and lack protrusions (white
+cale bar represents 10 mm.
+troporation ofADF/, Cofilinflox/flox brains at E14with either YFP control vector
+ntrol conditions (left) and in knockdown conditions (Cre expression, right). Long
+hed in Cre-expressing neurons. Scale bar represents 200 mm.
+ion experiments. Scale bar represents 20 mm.
+(gray tones) cells within the cortex. nR 1480 cells from five experiments.
+re + YFP) neurons. nR 540 cells from five experiments.positive) and ADF/Cofilin knockout (AC KO, GFP negative, indicated with
+mm.
+nal cultures at different stages of development. nR 500 cells for each time point
+uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1095
+Figure 3. ADF/Cofilin Is Required for Actin Organization
+(A) Fluorescent images of F-actin (phalloidin) in stage 1 wild-type and AC KO neurons. F-actin density and disorganization is increased in AC KO neurons. The
+right panels are magnified views of the indicated regions. Arrowheads indicate filopodia. Scale bar represents 10 mm.
+(B) Quantification of relative F-actin levels indicates a 2.5-fold increase in AC KO neurons compared to wild-type neurons. The bar graph represents the averages
+of three experiments, nR 120 cells for each group.
+(legend continued on next page)
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+1096 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.
+formation utilizing additional neuronal-specific promoters, Nexin
+(Goebbels et al., 2006) and Tau (Korets-Smith et al., 2004), to
+drive Cre expression (data not shown). Analysis of neurofila-
+ment-positive neurons at high resolution in vivo showed that
+the majority of AC KO neurons had remained spherical and
+lacked neurites, contrasting with the dense neurite network of
+wild-type neurons (Figures 2D and 2E).
+To test whether the in vivo defects in neuritogenesis were
+caused by cell-intrinsicmechanisms, we electroporatedADF/,
+cofilin flox/flox E14 embryos in utero with DNA vectors expressing
+Cre recombinase and yellow fluorescent protein (YFP) or GFP.
+In addition to irregular neuronal cell migration, Cre expression
+resulted in reduced axon tracts and altered neuronal morpho-
+genesis 4 days after electroporation (E18) (Figures 2F–2I). In
+the subventricular zone (SVZ), where neurons exhibit amultipolar
+AC Proteins Regulate F-Actin Content, Organization,
+and Filopodia Formation
+We evaluated the structure of the cytoskeleton in AC KO
+neurons as the potential determinant regulating neuritogenesis
+(Dehmelt et al., 2003; Dent et al., 2007; Edson et al., 1993).
+AC KO brains and cultured AC KO neurons showed a striking
+increase in the intensity of phalloidin staining (Figures 2B, 3A,
+3B, and S3A). This increase in F-actin was also detected in
+biochemical extracts of AC KO neurons (Figures 3D and 3E).
+Moreover, AC KO neurons presented an abnormal F-actin distri-
+bution typically with a strong F-actin staining in the center of the
+soma with irregular F-actin depositions in most regions, while
+some regions were devoid of F-actin. This contrasted the actin
+cytoskeletal structure of wild-type neurons, which showed orga-
+nized, radial actin filaments in the periphery of the cell and were
+d
+al
+hig
+at
+ur
+in
+n
+g
+s
+in
+Neuron
+ADF/Cofilin Is Required for Neurite Formationmorphology with multiple long neurites (Barnes and Polleux,
+2009) (Figure 2G), Cre-expressing neurons in the same regions
+either displayed short processes or completely lacked neurites
+(Figures 2F–2I).
+Consistently, dissociated AC KO neurons that were plated
+together with GFP-labeled wild-type neurons (Garvalov et al.,
+2007) recapitulated the in vivo phenotype. While only 5.9% ±
+0.7% of wild-type neurons had no neurites after 1 DIV,
+62.2% ± 5.3% of AC KO neurons failed to elaborate neurites,
+a 10-fold increase (p < 0.001; Figures 2J and 2K).ACKO neurons
+did not experience a delayed development but rather a funda-
+mental inhibition of neurite initiation as the number of AC KO
+neurons without neurites did not change significantly from 1–3
+DIV (Figure 2K). Long-term live-cell imaging experiments
+showed that stage 1 wild-type neurons were dynamic and
+extended neurites within 8 hr after plating, while AC KO neurons
+were far less motile, only changing shape slowly and rarely form-
+ing neurites (Figure S4A). Downregulation of ADF and Cofilin in
+a neuronal cell line, N2A cells, also showed a stark decrease in
+neuritogenesis, affirming the data from the genetic knockout
+in primary neurons (data not shown). Together, these data
+show that AC proteins are essential for neurite formation during
+brain development.
+(C) Quantification of the percentage of cells with filopodia in stage 1 wild-type an
+group.
+(D) Western blot showing G- and F-actin levels in cultured wild-type, ADFmono
+(ADF+/, Cof/) and AC KO neurons.
+(E) Quantification of F-/G-actin ratios from three experiments.
+(F) Ratio imaging of total Cofilin to phosphorylated Cofilin reveals localization of
+and active Cofilin (green) shows that the highest Cofilin activity (arrowhead) is
+(G) Quantification of filopodia number per cell shows a decrease in AC KO ne
+nR 120 cells for each group.
+(H) Quantification of fascin/radial actin colocalization shows decreased Fasc
+nR 75 cells from three experiments.
+(I) Mena localization to the leading edge cell membrane is disrupted in theACKO
+in stage 1 wild-type and AC KO neurons. Mena localizes to the edge of extendin
+cell and accumulates in punctae away from the leading edge (white arrowhead
+(J) Quantification of the percentage of cells with leading edge Mena localization
+nR 80 cells for each group.(K) Fluorescent images of F-actin (phalloidin) and kabiramide (barbed ends) in sta
+indicated regions. Arrowheads indicate leading edge in wild-type. Scale bar repr
+(L) Quantification of the percentage of cells with leading edge kabiramide loca
+experiments, nR 150 cells for each group.
+*p < 0.05, **p < 0.01, ***p < 0.001. Error bars represent SD.
+Nedevoid of actin in the center (Figure 3A). AC KO neurons also
+formed less filopodia (Figures 3A, 3C, and 3G). Consistent
+with a role of AC proteins in filopodia dynamics, the highest level
+of AC activity was observed at the base of filopodia (Figure 3F).
+Furthermore, Fascin-GFP, a marker of filopodia and micro-
+spikes (Cohan et al., 2001), localized to radial actin bundles in
+filopodia of wild-type neurons but only showed a diffuse signal
+in AC KO neurons and rarely localized to filopodia-reminiscent
+structures (Figure 3H). Expression of Mena-mCherry, which
+was used as a marker for the barbed ends of actin filaments
+(Bear and Gertler, 2009), was localized at the cell edge in
+59.3% ± 3.8% of the wild-type cells but only in 25.3% ± 5.4%
+of AC KO neurons (p < 0.01; Figures 3I–3J). Consistently, rhoda-
+mine-kabiramide, which binds directly to the barbed ends
+of actin filaments (Petchprayoon et al., 2005), localized in
+a distal-proximal gradient in wild-type cells but displayed
+dispersed staining throughout the soma of the KO neurons
+(Figures 3K and 3L). Taken together, these data indicate that
+the barbed end orientation toward the leading edge is disrupted
+in the AC KO neurons. Despite the abnormal barbed end
+distribution, Abi, an essential component of the WAVE complex,
+showed strong staining at the membrane of AC KO neurons
+(data not shown), indicating that WAVE-Arp2/3-mediated actin
+AC KO neurons. The results are from three experiments, nR 150 cells for each
+lele (ADF+/, Cof/), and AC KO neurons. F-actin increases in ADFmonoallele
+h AC activity. Warmer colors represent higher ratios (left). Overlay of actin (red)
+the base of filopodia (right). Scale bar represents 3 mm.
+ons compared to wild-type neurons. The results are from three experiments,
+-positive actin bundles in AC KO neurons compared to wild-type neurons.
+eurons. The fluorescentmicrographs showMena-mCherry expression patterns
+protrusions (white arrowheads). In AC KOs, Mena is dispersed throughout the
+). Scale bar represents 3 mm.
+stage 1 wild-type and AC KO neurons. The results are from three experiments,ge 1 wild-type and AC KO neurons. The right panels are magnified views of the
+esents 10 mm.
+lization in stage 1 wild-type and AC KO neurons. The results are from three
+uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1097
+Neuronnucleation can occur at the appropriate location in the absence
+of AC.
+High-resolution electron microscopy tomography revealed
+that in wild-type stage 1 neurons, actin filaments were radially
+oriented in tight bundles in filopodia or in a meshwork of fila-
+ments largely oriented toward the cell edge of lamellipodial veils
+(Figures 4A–4C, Movie S2). In contrast, AC KO neurons had
+a disorganized dense actin filament network with a large popula-
+tion of individual filaments oriented circumferentially, parallel to
+the cell edge. Furthermore, there was no actin bundling
+observed in AC KO neurons (Figures 4A–4C, Movie S3). Thus,
+AC proteins not only regulate the F-actin quantity, but also the
+configuration of the neuronal actin network.
+ADF/Cofilin Proteins Are Essential for Retrograde
+F-Actin Flow and Actin Turnover
+The increased levels of F-actin and disordered filaments in AC
+KO neurons suggested a defect in actin turnover. Therefore,
+we examined actin dynamics by live-cell imaging using Lifeact-
+GFP. Stage 1 wild-type neurons had a very dynamic actin
+network, forming and retracting filopodia within minutes
+(Figure 5A, Movie S4). In contrast, AC KO neurons had an
+immobile actin network (Figure 5B, Movie S4). Kymograph
+bleaching GFP-actin
+KO neurons showed
+recovery (t1/2) compa
+and 5G).
+Having found such
+dynamics, we wanted
+and form normal actin
+expression levels in a
+Cofilin to a destabiliza
+for rapid proteasom
+et al., 2006). Addition
+from degradation and
+2 hr and high express
+neurons expressing D
+changes in actin struc
+6 hr after Cofilin-DD
+neurons showed som
+(Figure 5I). After 10–1
+circumferential actin
+actin retrograde flow
+Movie S5). In accord
+GFP reoriented into p
+repositioned to the lea
+1098 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.bar represents 100 nm.
+(C) Reconstruction of actin filaments (red) and
+microtubule (green) with respect to cell edge (blue)
+from tomograms of regions shown in (B).
+analysis showed that while wild-type
+neurons had an average retrograde flow
+rate of 4.46 ± 0.97 mm/min, AC KO
+neurons had an average rate of 0.14 ±Figure 4. Ultrastructural Aberrations in
+the Cytoskeleton of Stage 1 ADF/Cofilin
+Knockout Neurons
+(A) Single frames of electron tomograms showing
+the ultrastructure of the cytoskeleton of wild-type
+and AC KO neurons. In wild-type neurons, radially
+oriented actin filaments are organized in loose
+networks in lamellipodial regions (white arrow-
+head) and in tight bundles in filopodia (black
+arrowhead). The AC KO neuron has a denser,
+disorganized actin network. Extremely dense
+F-actin causes distortions in the tomograms
+(white arrowhead). Looping microtubules are seen
+along the cell edge (green arrowhead). Scale bar
+represents 200 nm. See also Movies S2 and S3.
+(B) Magnified view of the regions indicated in (A).
+The arrangement of individual actin filaments are
+observed in filopodia (black arrowheads) and
+lamellipodia (white arrowheads). In the AC KO
+neuron, dense, circumferentially oriented actin
+filaments are apparent (black arrowheads). Scale
+ADF/Cofilin Is Required for Neurite Formation0.4 mm/min, a more than 30-fold reduc-
+tion (p < 0.001; Figures 5A–5C). There
+was a similar reduction in protrusion
+frequency and distance in AC KO neu-
+rons compared to wild-type neurons
+(Figures 5D and 5E). Consistently, photo-
+in the peripheral actin network of AC
+an over 40-fold higher half-fluorescence
+red to wild-type neurons (Figures 5F
+severe changes in actin organization and
+to test whether AC KO cells could recover
+structures. To this end, we altered Cofilin
+temporally controlled manner by fusing
+tion domain (DD), which targets proteins
+e-mediated degradation (Banaszynski
+of shield reagent protected Cofilin-DD
+led to detectable Cofilin expression within
+ion by 8 hr (Figures 5H and S4B). AC KO
+D remained quiescent and did not show
+ture or dynamics (data not shown). Within
+stabilization with shield reagent, AC KO
+e radially oriented actin filament bundles
+2 hr, AC KO neurons formed prominent
+and filopodia and showed increased
+resembling wild-type neurons (Figure 5I,
+with this, after shield addition, Fascin-
+eripheral actin bundles and VASP-GFP
+ding edge (data not shown). These data
+Neuronshow that the profoundly disorganized actin network in AC KO
+neurons can be structured by simply bringing Cofilin back
+into the system. AC is thus vital for actin organization and
+retrograde flow.
+Actin Destabilization Restores Neurite Formation
+in AC KO Neurons
+During neuritogenesis, microtubules extend in bundles out of
+the neuronal sphere to form the backbone of neurites. We
+hypothesized that the drastic disorganization of F-actin struc-
+ture in AC KO neurons affects the microtubule organization
+necessary to form neurites. Indeed, in AC KO neurons, immu-
+nocytochemistry showed that single microtubules splayed
+out in an irregular fashion and looped at the cell edge (data
+not shown), reminiscent of the microtubules in neurons treated
+with 10 nM jasplakinolide (Figure 1G). In live-cell imaging
+experiments, EB3-mCherry-labeled microtubules grew out
+radially from the soma into the actin-rich periphery often
+along F-actin bundles, where they slowed down, paused, and
+even exhibited retrograde displacements (Figures 6A–6F,
+Movie S6). As a result, microtubule advance was 46% faster
+in the soma compared to the actin-rich periphery in wild-type
+neurons (0.32 ± 0.04 mm/s in the soma versus 0.21 ±
+0.01 mm/s in the periphery, p < 0.001; Figure 6B). In AC KO
+neurons, EB3-mCherry-tagged microtubules grew out in a radial
+fashion from the soma into the periphery but were laterally dis-
+placed at the edge of the neuron, resulting in an increased
+percentage of cells with looping microtubules (Figures 6E and
+6F, Movie S6). Throughout all regions of AC KO neurons,
+microtubules advanced at slower, but constant, velocities
+compared to wild-type neurons (0.22 ± 0.04 mm/s in the
+AC KO soma, p < 0.001; Figures 6A and 6B) and largely
+avoided the F-actin network (Figures 6A–6E). Importantly,
+upon latrunculin B-induced depolymerization of the actin
+cytoskeleton, microtubule growth increased both in the periph-
+eral zone of wild-type neurons and in all regions of AC KO
+neurons and resembled the growth pattern observed in the
+soma of wild-type neurons, which is devoid of actin filaments
+(Figures 6C and 6D).
+Moreover, after actin depolymerization with latrunculin B
+treatment in AC KO neurons, EB3 comets emerged from the
+cell soma and grew in bundles into nascent neurites within
+2–3 hr (Figure 6G). After 1 day, latrunculin B, cytochalasin D, or
+the actin-severing drug swinholide increased neuritogenesis in
+AC KO neurons 2-fold to 4-fold (Figures 6H and 6I). The protru-
+sion of microtubules is essential for neurite formation as low
+levels of the microtubule-destabilizing drug nocodazole
+attenuated the neurite-restoring effects of cytochalasin D and
+latrunculin B (Figure S5). Instead, manipulations that were tar-
+geted either to stimulate integrin signaling or to bundle actin
+filaments, which restore neurite formation in Mena/VASP/EVL
+KO neurons (Dent et al., 2007), did not enable neurite formation
+in AC KO neurons (Figure S6). We conclude that the drastic
+ADF/Cofilin Is Required for Neurite FormationF-actin disorganization in AC KO neurons obstructs intracellular
+space and misdirects microtubule growth patterns. Further-
+more, a pharmacological depolymerizing activity bypasses the
+need for AC proteins, allowing microtubules to coalesce and
+to radially protrude to generate neurites.
+NeThe Severing Activity of AC Proteins Regulates Neurite
+Formation
+Although in some instances the function of ADF and Cofilin are
+overlapping (Hotulainen et al., 2005), ADF depolymerizes actin
+filaments better than Cofilin, whereas Cofilin severs filaments
+better than ADF (Bernstein and Bamburg, 2010). Therefore, we
+determined the individual contributions of ADF and Cofilin to
+neuritogenesis. First, we examined the development of neurons
+with either monoallele ADF expression (NesCre+/, ADF+/,
+cofilinflox/flox) or monoallele cofilin expression (NesCre+/,
+ADF/, cofilinflox/+). ADF monoallele expression resulted in
+defective neuritogenesis with a significant increase in the
+percentage of cells in stage 1 (Figures S7A and S7B). In contrast,
+cofilin monoallele expression conferred wild-type-like neuronal
+development, with the majority of neurons in stage 2 or stage 3
+(Figures S7C and S7D).
+Consistently, reintroduction of ADF into AC KO neurons only
+partially restored neurite formation in AC KO neurons, whereas
+Cofilin reintroduction almost completely reversed the neurito-
+genesis defect, resulting in cells with wild-type morphology in
+cell culture (Figures 7A and 7B). Moreover, Cofilin re-expression
+restored normal neuronal development in AC KO cortical slices
+(Figures 7C, 7D, and S7E). Analysis of the F-actin organization
+revealed that both ADF and Cofilin restored the gross organiza-
+tion of actin architecture. The percentage of cells extending filo-
+podia increased 2-fold in ADF or Cofilin-transfected AC KO
+neurons (Figures 7E and 7F). However, kymograph analysis of
+live-cell imaging of AC KO neurons cotransfected with Lifeact-
+GFP revealed that only Cofilin expression increased actin retro-
+grade flow to 4.0 ± 1.0 mm/min, nearly a complete rescue, while
+ADF only partially increased actin retrograde flow to 2.9 ±
+1.2 mm/min, a 65% rescue (Figures 7E and 7G). Thus, while
+ADF and Cofilin are equally adept at stimulating filopodia forma-
+tion, Cofilin has a higher propensity for driving actin retrograde
+flow and neuritogenesis.
+We next asked whether the increased aptitude for F-actin
+severing underlies the increased effectiveness of Cofilin for
+facilitating actin retrograde flow and neuritogenesis. Biochem-
+ical studies have shown that when Tyr82 is mutated to Phe
+(Y82F), Cofilin loses its depolymerizing activity but retains
+its severing activity (Moriyama and Yahara, 1999, 2002).
+Conversely, when Ser94 is mutated to Asp (S94D), Cofilin
+loses its severing activity but retains its depolymerizing activity.
+The introduction of the nonsevering mutant CofS94D-RFP
+did not greatly alter actin organization and dynamics in AC
+KO neurons, leading only to a slight increase in filopodia
+(Figures 8A–8E) and in actin retrograde flow (Figures 8A and
+8B, Movie S7). However, the expression of the nondepoly-
+merizing mutant CofY82F-RFP, which only can sever actin fila-
+ments, restored the prototypical actin architecture in AC KO
+neurons, including the percentage of cells with filopodia
+(Figures 8A–8E), and substantially increased actin retrograde
+flow to over 50% of wild-type levels (Figures 8A and 8B, MovieS7). Concomitantly, CofY82F restored neuritogenesis in AC
+KO neurons by over 2-fold, while CofS94D only marginally
+increased neurite formation in AC KO neurons (Figures 8C
+and 8D). Taken together, these data show that the transforma-
+tion from simple spherical cells into morphologically distinct,
+uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1099
+Figure 5. ADF/Cofilin Is Essential for Actin Retrograde Flow in Neurons
+(A) Single frame from live-cell imaging series of a wild-type neuron expressing Lifeact-GFP. The kymographs show actin retrograde flow from two line
+scans. Yellow arrows highlight actin translocation. The bottom panels show normal filopodial dynamics in the boxed region from the top panel. See also
+Movie S4.
+(legend continued on next page)
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+1100 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.
+elaborate neurons relies on actin retrograde flow driven by the
+severing activity of AC proteins.
+DISCUSSION
+Our study revealed that ADF/Cofilin drives actin retrograde flow
+and regulates neurite formation. The mechanism underlying
+neuritogenesis entails dynamizing and restructuring F-actin,
+which maneuvers radial microtubule advance and bundling.
+Specifically, the severing activity of AC proteins is a key stimulant
+et al., 2008; Saarikangas et al., 2010). As they grow, actin fila-
+ments (Figure 8F, red) undergo molecular aging, so that the orig-
+inal ATP-actin (light red subunits) becomes ADP-actin (dark red
+subunits) over time and at locations distant from the membrane.
+Since AC proteins (yellow spheres) bind preferentially to this
+older, ADP-actin portion of filaments, actin depolymerization,
+severing (Pac-Man), turnover and reorganization, is promoted
+away from the leading edge. Indeed, we found that active AC
+is positioned at the base of filopodia and lamellipodia, ideally
+poised for dismantling F-actin. In the absence of AC proteins,
+p
+po
+2
+on
+p
+mb
+fili
+Neuron
+ADF/Cofilin Is Required for Neurite Formationfor the actin organization and retrograde flow necessary for
+neuritogenesis. Together, our data define a fundamental role
+for ADF/Cofilin during neuritogenesis and advance our knowl-
+edge on how neurons break the neuronal sphere.
+ADF/Cofilin Regulates Actin Retrograde Flow
+From migrating cells to neuronal growth cones, actin retrograde
+flow is an essential component in cell motility (Dent et al., 2011;
+Lowery and Van Vactor, 2009; Small and Resch, 2005). It
+consists of actin subunit integration at the plus end of actin
+filaments at the leading edge and retrograde movement of the
+filaments and their depolymerization at the minus end. However,
+its precise role in regulating neuritogenesis is still unclear. More-
+over, inhibition of actin-binding proteins that are thought to
+be involved in retrograde flow, including myosin II, Arp 2/3, and
+Ena/VASP, only moderately reduces actin retrograde flow in
+neurons (Dent et al., 2007; Korobova and Svitkina, 2008;
+Medeiros et al., 2006), indicating that key factors have remained
+unidentified.
+Here, we identified AC as a key player regulating actin retro-
+grade flow. Consistently, in vitro studies revealed that the
+minimal requirements for actin turnover rates reflecting the in vivo
+kinetics are AC proteins together with capping protein and
+formin (Michelot et al., 2007), while motor proteins or actin
+crosslinking proteins are not needed. Similarly, AC proteins,
+capping protein, and Arp2/3 are sufficient to recapitulate
+Listeria motility in vitro (Loisel et al., 1999).
+How do AC proteins help to drive actin retrograde flow and
+organization? And how does this influence neurite formation
+(Figures 8F and 8G)? The location of actin polymerization is
+tightly regulated, occurring nearly exclusively at the leading
+edge of growth cones (Forscher and Smith, 1988), probably
+due to the linkage of actin nucleators to the membrane (Pak
+(B) Single frame of a live-cell imaging series of an AC KO neuron. The kymogra
+the lack of translocation of actin filaments. The bottom panels show a lack of filo
+bar represents 10 mm.
+(C) Quantification of actin retrograde flow in wild-type and AC KO neurons; nR
+(D) Quantification of protrusion frequency in wild-type and AC KO neurons; nR
+(E) Quantification of protrusion distance in wild-type and AC KO neurons; nR
+(F) Fluorescent recovery after photobleaching (FRAP) reveals that AC KO neur
+GFP-actin are shown. Asterisks show original photobleached site. Scale bar re
+(G) Quantification of fluorescent recovery in wild-type and AC KO neurons; nu
+(H) Western blot of hippocampal neurons expressing DD alone (control) or Coincrease in Cofilin-DD expression 2–8 hr as detected with an antibody to DD.
+(I) Reactivation of Cofilin-DD by addition of shield reagent restores actin organiza
+Kymographs of line scans from the indicated region of the neuron show actin re
+more drastic reorganization of the actin network and increased actin retrograde
+***p < 0.001. Error bars represent SD.
+Neattenuated actin disassembly may lead to the congestion of
+the intracellular space with actin filaments that reorient haphaz-
+ardly in response to the pressure of polymerization. Hence, AC
+may regulate actin organization simply by virtue of its primary
+activity: increasing actin turnover. Consistent with this view,
+the reintroduction of Cofilin function restored retrograde flow
+and reorganized actin superstructures.
+Our data further show that actin retrograde flow is driven by
+Cofilin’s propensity for F-actin severing. These data are consis-
+tent with current actin turnover modeling, which indicates that
+the most effective way to achieve accelerated actin retrograde
+flow would be to enhance actin deconstruction at the minus
+end of filaments (Roland et al., 2008).
+ADF/Cofilin Render the Actin Cytoskeleton Permissive
+for Microtubules to Form a Neurite
+Filopodia have recently been linked to neuritogenesis as they
+engorge with microtubules and elongate into nascent neurites
+(Dent et al., 2007). From this work and our own results, it is
+plausible that these radial actin bundles are the sites where
+microtubules can extend into the peripheral zone in the correct,
+radial orientation, which is necessary for the consolidation
+and advance of a nascent neurite (Figure 8F). AC knockout
+neurons displayed a marked decrease in radially oriented actin
+filaments in lamellipodia and filopodia while concomitantly
+exhibiting abnormal microtubule growth patterns and looping
+trajectories. Thus, the lack of this permissive actin platform
+for microtubules to grow along may underlie the failure of
+neuritogenesis in AC KO neurons. However, neuritogenesis is
+also attenuated in situations where filopodia appear normal,
+such as in ADF monoallele neurons and wild-type neurons
+treated with low levels of jasplakinolide. Thus, actin dynamics
+is also important for this process. One possibility is that a dense
+hs show actin retrograde flow from two line scans. The yellow arrows indicate
+dial dynamics in the boxed region from the top panel. See alsoMovie S4. Scale
+20 cells from three experiments.
+20 cells from three experiments.
+0 cells from three experiments.
+s have strikingly reduced actin turnover. Single frames of neurons expressing
+resents 10 mm.
+ers are averages of nR 20 cells.
+n-DD. Time after shield addition is indicated. After shield addition, there is antion and dynamics in AC KO neurons expressing Lifeact-GFP and Cofilin-DD.
+trograde flow (yellow arrows). Subtle changes in the actin occur after 6 hr and
+flow occurs at 10–12 hr. See also Movie S5. Scale bar represents 10 mm.
+uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1101
+Figure 6. Actin Destabilization Permits Radial Microtubule Growth and Restores Neurite Formation in AC KO Neurons
+(A) Microtubule advance is slower in AC KO neurons. Single frames are shown from live-cell imaging series of neurons expressing Lifeact-GFP and
+EB3-mCherry (left). Color-coded projections of EB3 over time are shown (right). White arrows indicate movement of EB3. EB3-mCherry velocities are slower in
+the periphery of WT cells compared to the soma. AC KO neurons display constant but slower EB3 advance speeds in both regions of the cells. Scale bar
+represents 10 mm.
+(B) Quantification of the advance rates of EB3-mCherry in the soma and actin-rich periphery of WT and AC KO neurons. nR 15 cells.
+(legend continued on next page)
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+1102 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.
+actin network simply prevents microtubules to bundle and to
+protrude. In this view, microtubules may grow along radial
+F-actin bundles and filopodia because they offer the path of
+least resistance in the retrogradely flowing actin network. Since
+there is less interweaving of actin fibers in radial actin bundles
+compared to the actin network in regions of lamellipodia and
+proximal actin arcs, microtubules can grow in an unimpeded
+fashion. Indeed, analysis of microinjected fluorescent particles
+of different molecular weights showed that the actin network
+in cells can be dense enough to prevent the movement of
+structures having the size of microtubules (Luby-Phelps and
+EXPERIMENTAL PROCEDURES
+Transgenic Mice
+Conditional ablation of ADF/Cofilin proteins in the nervous system was
+achieved by crossing mice with genomic ADF ablation and expressing Cofilin
+floxed alleles (ADF/, cofilin flox/flox) (Bellenchi et al., 2007) with mice lines ex-
+pressing Cre recombinase (Cre) from the nervous system-specific promoters
+(see Supplemental Experimental Procedures for details).
+Histological Analysis
+The heads of E17 mouse embryos were fixed in 4% paraformaldehyde, 4%
+sucrose in PBS or PHEM buffer and prepared for cryosectioning using stan-
+nc
+B
+lym
+cu
+KO
+n
+e
+p
+3-
+ite
+Neuron
+ADF/Cofilin Is Required for Neurite FormationTaylor, 1988). Consistent with this idea, the pharmacological
+destabilization of actin filaments in AC KO neurons restored
+neuritogenesis. Furthermore, it also allowed the proper orienta-
+tion and growth of microtubules, enabling them to protrude
+through the cell rim to induce a neurite. Thus, our data suggest
+that during neuritogenesis, AC proteins enable microtubule
+protrusion both by dismantling dense actin structures to free
+intracellular space and by helping organize parallel F-actin
+bundles that facilitate radial microtubule growth and bundling
+(Figure 8F). In the absence of AC proteins, the congestion
+and lack of ‘‘permissive’’ F-actin bundles obstructs directed
+microtubule protrusion, ultimately leading to a failure of neurito-
+genesis (Figure 8G).
+ADF/Cofilin and Brain Development
+Our study shows that the effects of AC-mediated actin
+dynamics on early brain development are of paramount impor-
+tance and relevant for human brain development. For example,
+the neurocognitive disorder Smith-Lemli-Optiz syndrome has
+recently been linked to neurite growth defects rooted, per-
+haps, in a misregulation of Cofilin activity (Jiang et al., 2010).
+Furthermore, the cortical ectopias we observed in embryonic
+AC KO brains resemble the cobblestone cortex of mouse
+models of type II lissencephaly (Bielas et al., 2004). Our study,
+along with others, highlights the importance of exploring the
+role of cytoskeleton-mediated mechanisms in human brain
+disorders (Heng et al., 2010). We therefore see the further
+elucidation of the mechanism of microtubule-actin interactions
+and the involved players during neurite growth as essential
+to future studies in understanding brain development and
+pathology.
+(C) Actin depolymerization by latrunculin B (Lat B) increases microtubule adva
+expressing Lifeact-GFP and EB3-mCherry (left). Color-coded projections of E
+indicate movement of EB3. EB3-mCherry velocities are faster after actin depo
+(D) Quantification of the advance rates of EB3-mCherry before and after latrun
+(E) The growing ends of microtubules have increased looping trajectories in AC
+andmaximum intensity projections of the different time points of EB3 over a 2mi
+of EB3. The open arrowheads indicate when EB3 comets pause or move in a r
+(F) Quantification of cells with looping microtubules. nR 45 cells from three ex
+(G) Actin destabilization rescues neuritogenesis in AC KO neurons. Images EB
+latrunculin B (Lat B). Arrowheads indicate sites of EB3 comets in growing neur(H) Actin destabilization with Lat B leads to radial microtubule growth and the form
+2 DIV. Scale bar represents 20 mm.
+(I) Quantification of neuronal development stages in DMSO-, Lat B-, cytochalasin
+experiments at 2 DIV.
+**p < 0.01, ***p < 0.001. Error bars represent SD.
+Nedard procedures (Tahirovic et al., 2010).
+In Utero Electroporation
+In utero electroporation experiments were performed essentially as described
+(Saito, 2006) but optimized to achieve moderate expression of transgenes in
+cortical neurons.
+Cortical Slice Culture and Adenovirus Transduction
+Acute organotypic cortical slice culture experiments were performed essen-
+tially as described (Flynn et al., 2009). We added 106–107 pfu of Cofilin-RFP
+or RFP control adenovirus directly on the brain tissue at 24 hr and the tissue
+was fixed and stained at 72 hr.
+Neuronal Cell Culture
+Primary mouse hippocampal and cortical neurons were dissected from
+E16.5–E17 brains and cultured as previously described (Garvalov et al., 2007).
+Live-Cell Microscopy
+The DeltaVision RT (Applied Precision) setup was primarily used for live-cell
+imaging of fluorescent proteins. Neurons from Lifeact-GFP transgenic mice
+(Riedl et al., 2010) were used to visualize actin dynamics. In other experiments,
+AC KO neurons or wild-type littermate controls were transfected with Lifeact-
+GFP and/or EB3-mCherry to label the actin and growingmicrotubules, respec-
+tively. Rescue experiments with Cofilin-DDwere performed on ACKO neurons
+cotransfected with Lifeact-GFP and pTuner Cofilin-DD or empty pTuner
+plasmid (Clontech).
+Immunocytochemistry
+Indirect immunofluorescence was performed under conditions optimal for
+the preservation of the cytoskeleton. Neuronal cultures were fixed with 4%
+paraformaldehyde, 4% sucrose in PHEM fixation buffer and prepared for
+immunofluorescence (Witte et al., 2008).
+Local Actin Destabilization and Neurite Formation
+Local actin destabilization was achieved by application of a local field of
+latrunculin B essentially as described (Bradke and Dotti, 1999).
+e velocities. Single frames are shown from live-cell imaging series of neurons
+3 before and after Lat B treatment over time are shown (right). White arrows
+erization. Scale bar represents 10 mm.
+lin B treatment. nR 15 cells.
+neurons. Single frames of neurons expressing EB3-mCherry and Lifeact-GFP
+time period are shown. Solid white arrowheads indicate anterogrademovement
+trograde manner. See also Movie S6. Scale bar represents 10 mm.
+eriments.
+mCherry from a live-cell imaging experiment of an AC KO neuron treated with
+s. Scale bar represents 20 mm.ation of neurites. Actin and bIII-tubulin staining is shown for AC KO neurons at
+D (Cyto D)-, and swinholide (Swin)-treated cultures. nR 200 cells from three
+uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1103
+Figure 7. Cofilin Re-expression in AC KO Neurons Rescues Neuritogenesis, Filopodia Formation, and Actin Retrograde Flow
+(A) Micrographs of RFP and bIII-tubulin staining in AC KO neurons at 2 DIV. Arrowheads indicate growth cones of neurites with ADF or Cofilin expression. Scale
+bar represents 20 mm.
+(B) Quantification of the developmental stages in wild-type + RFP-, ACKO + RFP-, AC KO + ADF-RFP-, and AC KO + cof-RFP-expressing neurons. nR 100 cells
+from three experiments at 2 DIV.
+(C) Maximum intensity projections of RFP signal of wild-type and AC KO neurons in cortical tissue slices. Arrowheads indicate neurites. Scale bar represents
+20 mm.
+(D) Quantification of the developmental stages in wild-type + RFP-, AC KO + RFP-, and AC KO + cof-RFP-expressing neurons. n R 100 cells from three
+experiments at 2 DIV.
+(E) Actin retrograde flow is restored by re-expression of Cofilin and, to a lesser extent, of ADF. Single frames are shown of Lifeact-GFP from live-cell imaging series
+of a control wild-type neuron (RFP), a control AC KO neuron (RFP), an ADF-RFP-expressing AC KO neuron, and a Cofilin-RFP-expressing AC KO neuron.
+Kymographs of the indicated line scans show the retrograde actin flow. The yellow arrows indicate the translocation of F-actin. Scale bar represents 10 mm.
+(F) Quantification of the percentage of cells with filopodia in stage 1 neurons is shown. nR 95 cells from three experiments.
+(G) Quantification of actin retrograde flow in wild-type, AC KO control, AC KO + ADF, and AC KO + Cofilin neurons; nR 20 cells for each condition.
+*p < 0.05, **p < 0.01, ***p < 0.001. Error bars represent SD.
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+1104 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc.
+Figure 8. The Severing Activity of Cofilin Is More Important than Its Depolymerizing Activity and a Model of the Effects of AC Activity on
+Actin and Microtubules during Neurite Formation
+(A) Retrograde actin flow is moderately rescued by expression of CofY82F. Single frames are shown of Lifeact-GFP from live-cell imaging series of a CofS94D-
+RFP-expressing neuron and aCofY82F-RFP-expressing neuron. Kymographs of line scans show retrograde actin flow. The yellow arrows follow the translocation
+of F-actin. See also Movie S7. Scale bar represents 10 mm.
+(legend continued on next page)
+Neuron
+ADF/Cofilin Is Required for Neurite Formation
+Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1105
+Electron Microscopy
+The ultrastructural analysis of the actin cytoskeleton was essentially per-
+formed as described (Auinger and Small, 2008) with minor modifications for
+optimal preservation of the neuronal cytoskeleton.
+Protein Analysis
+The cortices of E16.5–E18 embryonic brains were rapidly dissected and resus-
+pended in SDS lysis buffer and prepared for SDS-PAGE and western blotting.
+Relative levels of filamentous and globular actin were determined using the F:G
+actin kit from Cytoskeleton according to the manufacturer’s guidelines.
+in living cells using synthetic small molecules. Cell 126, 995–1004.
+Barnes, A.P., and Polleux, F. (2009). Establishment of axon-dendrite polarity in
+developing neurons. Annu. Rev. Neurosci. 32, 347–381.
+Bear, J.E., and Gertler, F.B. (2009). Ena/VASP: towards resolving a pointed
+controversy at the barbed end. J. Cell Sci. 122, 1947–1953.
+Bellenchi, G.C., Gurniak, C.B., Perlas, E., Middei, S., Ammassari-Teule, M.,
+andWitke, W. (2007). N-cofilin is associated with neuronal migration disorders
+and cell cycle control in the cerebral cortex. Genes Dev. 21, 2347–2357.
+Bernstein, B.W., and Bamburg, J.R. (2010). ADF/cofilin: a functional node in
+cell biology. Trends Cell Biol. 20, 187–195.
++
+RF
+FP
+R
+rm
+Neuron
+ADF/Cofilin Is Required for Neurite Formation(B) Quantification of retrograde actin flow in wild-type, AC KO control, AC KO
+condition.
+(C) Micrographs of RFP and bIII-tubulin staining of AC KO neurons expressing
+in a rescue of neurite formation (arrowheads). Scale bar represents 20 mm.
+(D) Quantification of the developmental stages in wild-type + RFP-, AC KO + R
+nR 150 cells from three experiments at 2 DIV.
+(E) Quantification of the percentage of cells with filopodia in stage 1 neurons. n
+*p < 0.05, **p < 0.01, ***p < 0.001. Error bars represent SD.
+(F) In wild-type brain, ADF/Cofilin (AC) activity directs neuritogenesis. After teSUPPLEMENTAL INFORMATION
+Supplemental Information includes seven figures, Supplemental Experimental
+Procedures, and seven movies and can be found with this article online at
+http://dx.doi.org/10.1016/j.neuron.2012.09.038.
+ACKNOWLEDGMENTS
+We are very grateful for the technical assistance of Ralf Zenke, Ireen König,
+and Hans Fried. Frank Gertler, Franck Polleux, and Gerard Marriott receive
+our appreciation for reagents supplied in this study. We thank Barbara Bern-
+stein, Mark Hübener, Artur Kania, Claudia Laskowski, Klemens Rottner,
+Michael Sixt, and Michael Stiess for helpful comments and suggestions on
+the manuscript. Xiao-bing Yuan (Shanghai Institute for Biological Sciences)
+is gratefully acknowledged for instruction in utero electroporation techniques.
+We gratefully acknowledge support from the Marie Curie Actions (K.C.F.), the
+Max Planck Society (F.B), the Deutsche Forschungsgemeinschaft (F.B. and
+W.W.), and Austrian Science Fund (FWF to J.V.S.).
+Accepted: September 25, 2012
+Published: December 19, 2012
+REFERENCES
+Akhmanova, A., and Steinmetz, M.O. (2008). Tracking the ends: a dynamic
+protein network controls the fate of microtubule tips. Nat. Rev. Mol. Cell
+Biol. 9, 309–322.
+Andrianantoandro, E., and Pollard, T.D. (2006). Mechanism of actin filament
+turnover by severing and nucleation at different concentrations of ADF/cofilin.
+Mol. Cell 24, 13–23.
+Arimura, N., and Kaibuchi, K. (2007). Neuronal polarity: from extracellular
+signals to intracellular mechanisms. Nat. Rev. Neurosci. 8, 194–205.
+Auinger, S., and Small, J.V. (2008). Correlated light and electron microscopy of
+the cytoskeleton. Methods Cell Biol. 88, 257–272.
+Banaszynski, L.A., Chen, L.C., Maynard-Smith, L.A., Ooi, A.G., andWandless,
+T.J. (2006). A rapid, reversible, and tunablemethod to regulate protein functionzone (VZ/SVZ) undergoes neurite formation. ADF/Cofilin (yellow) binds to the AD
+(Pac-Man). This increases actin turnover and facilitates the radial arrangement of a
+coalescence, leading to the formation of a nascent neurite.
+(G) In the AC KO brain, neuritogenesis is severely attenuated due to dense and di
+cortical plate.
+1106 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier IncBielas, S., Higginbotham, H., Koizumi, H., Tanaka, T., and Gleeson, J.G.
+(2004). Cortical neuronal migration mutants suggest separate but intersecting
+pathways. Annu. Rev. Cell Dev. Biol. 20, 593–618.
+Bradke, F., and Dotti, C.G. (1999). The role of local actin instability in axon
+formation. Science 283, 1931–1934.
+Carlier, M.F., Laurent, V., Santolini, J., Melki, R., Didry, D., Xia, G.X., Hong, Y.,
+Chua, N.H., and Pantaloni, D. (1997). Actin depolymerizing factor (ADF/cofilin)
+enhances the rate of filament turnover: implication in actin-based motility.
+J. Cell Biol. 136, 1307–1322.
+Cohan, C.S., Welnhofer, E.A., Zhao, L., Matsumura, F., and Yamashiro, S.
+(2001). Role of the actin bundling protein fascin in growth cone morphogen-
+esis: localization in filopodia and lamellipodia. Cell Motil. Cytoskeleton 48,
+109–120.
+Conde, C., and Cáceres, A. (2009). Microtubule assembly, organization and
+dynamics in axons and dendrites. Nat. Rev. Neurosci. 10, 319–332.
+da Silva, J.S., and Dotti, C.G. (2002). Breaking the neuronal sphere: regulation
+of the actin cytoskeleton in neuritogenesis. Nat. Rev. Neurosci. 3, 694–704.
+Dehmelt, L., Smart, F.M., Ozer, R.S., and Halpain, S. (2003). The role of micro-
+tubule-associated protein 2c in the reorganization of microtubules and lamel-
+lipodia during neurite initiation. J. Neurosci. 23, 9479–9490.
+Delorme, V., Machacek, M., DerMardirossian, C., Anderson, K.L., Wittmann,
+T., Hanein, D., Waterman-Storer, C., Danuser, G., and Bokoch, G.M. (2007).
+Cofilin activity downstream of Pak1 regulates cell protrusion efficiency by
+organizing lamellipodium and lamella actin networks. Dev. Cell 13, 646–662.
+Dent, E.W., Kwiatkowski, A.V., Mebane, L.M., Philippar, U., Barzik, M.,
+Rubinson, D.A., Gupton, S., Van Veen, J.E., Furman, C., Zhang, J., et al.
+(2007). Filopodia are required for cortical neurite initiation. Nat. Cell Biol. 9,
+1347–1359.
+Dent, E.W., Gupton, S.L., and Gertler, F.B. (2011). The growth cone cytoskel-
+eton in axon outgrowth and guidance. Cold Spring Harb. Perspect. Biol. 3, 3.
+Dotti, C.G., Sullivan, C.A., and Banker, G.A. (1988). The establishment of
+polarity by hippocampal neurons in culture. J. Neurosci. 8, 1454–1468.
+Edson, K., Weisshaar, B., and Matus, A. (1993). Actin depolymerisation
+induces process formation on MAP2-transfected non-neuronal cells.
+Development 117, 689–700.
+Endo, M., Ohashi, K., Sasaki, Y., Goshima, Y., Niwa, R., Uemura, T., and
+Mizuno, K. (2003). Control of growth cone motility and morphology by LIM
+CofY82F-RFP, and AC KO + CofS94D-RFP neurons; n R 20 cells for each
+P, CofS94D-RFP, or CofY82F-RFP at 2 DIV. CofY82F-RFP expression results
+-, AC KO + CofS94D-RFP-, and AC KO + CofY82F-RFP-expressing neurons.
+90 cells from three experiments.
+inal mitotic division, a newborn neuron in the ventricular zone/subventricularP-actin (dark red) portion of F-actin and promotes severing of the filaments
+ctin filaments (red), which frees space for radial microtubule (green) growth and
+sordered F-actin and abnormal microtubule growth. IZ, intermediate zone; CP,
+.
+kinase and Slingshot via phosphorylation and dephosphorylation of cofilin.
+J. Neurosci. 23, 2527–2537.
+Flynn, K.C., Pak, C.W., Shaw, A.E., Bradke, F., and Bamburg, J.R. (2009).
+Growth cone-like waves transport actin and promote axonogenesis and
+neurite branching. Dev. Neurobiol. 69, 761–779.
+Forscher, P., and Smith, S.J. (1988). Actions of cytochalasins on the organiza-
+tion of actin filaments and microtubules in a neuronal growth cone. J. Cell Biol.
+107, 1505–1516.
+Garvalov, B.K., Flynn, K.C., Neukirchen, D., Meyn, L., Teusch, N., Wu, X.,
+Brakebusch, C., Bamburg, J.R., and Bradke, F. (2007). Cdc42 regulates cofilin
+during the establishment of neuronal polarity. J. Neurosci. 27, 13117–13129.
+Goebbels, S., Bormuth, I., Bode, U., Hermanson, O., Schwab, M.H., and Nave,
+Medeiros, N.A., Burnette, D.T., and Forscher, P. (2006). Myosin II functions in
+actin-bundle turnover in neuronal growth cones. Nat. Cell Biol. 8, 215–226.
+Michelot, A., Berro, J., Guérin, C., Boujemaa-Paterski, R., Staiger, C.J.,
+Martiel, J.L., and Blanchoin, L. (2007). Actin-filament stochastic dynamics
+mediated by ADF/cofilin. Curr. Biol. 17, 825–833.
+Moriyama, K., and Yahara, I. (1999). Two activities of cofilin, severing and
+accelerating directional depolymerization of actin filaments, are affected
+differentially by mutations around the actin-binding helix. EMBO J. 18,
+6752–6761.
+Moriyama, K., and Yahara, I. (2002). The actin-severing activity of cofilin is
+exerted by the interplay of three distinct sites on cofilin and essential for cell
+viability. Biochem. J. 365, 147–155.
+Neuron
+ADF/Cofilin Is Required for Neurite FormationK.A. (2006). Genetic targeting of principal neurons in neocortex and hippo-
+campus of NEX-Cre mice. Genesis 44, 611–621.
+Heng, J.I., Chariot, A., and Nguyen, L. (2010). Molecular layers underlying
+cytoskeletal remodelling during cortical development. Trends Neurosci. 33,
+38–47.
+Hotulainen, P., Paunola, E., Vartiainen, M.K., and Lappalainen, P. (2005).
+Actin-depolymerizing factor and cofilin-1 play overlapping roles in promoting
+rapid F-actin depolymerization in mammalian nonmuscle cells. Mol. Biol.
+Cell 16, 649–664.
+Jiang, X.S., Wassif, C.A., Backlund, P.S., Song, L., Holtzclaw, L.A., Li, Z.,
+Yergey, A.L., and Porter, F.D. (2010). Activation of Rho GTPases in Smith-
+Lemli-Opitz syndrome: pathophysiological and clinical implications. Hum.
+Mol. Genet. 19, 1347–1357.
+Korets-Smith, E., Lindemann, L., Tucker, K.L., Jiang, C., Kabacs, N., Belteki,
+G., Haigh, J., Gertsenstein, M., and Nagy, A. (2004). Cre recombinase
+specificity defined by the tau locus. Genesis 40, 131–138.
+Korobova, F., and Svitkina, T. (2008). Arp2/3 complex is important for filopodia
+formation, growth conemotility, and neuritogenesis in neuronal cells. Mol. Biol.
+Cell 19, 1561–1574.
+Kwiatkowski, A.V., Rubinson, D.A., Dent, E.W., Edward van Veen, J., Leslie,
+J.D., Zhang, J., Mebane, L.M., Philippar, U., Pinheiro, E.M., Burds, A.A.,
+et al. (2007). Ena/VASP Is Required for neuritogenesis in the developing cortex.
+Neuron 56, 441–455.
+Loisel, T.P., Boujemaa, R., Pantaloni, D., and Carlier, M.F. (1999).
+Reconstitution of actin-based motility of Listeria and Shigella using pure
+proteins. Nature 401, 613–616.
+Lowery, L.A., and Van Vactor, D. (2009). The trip of the tip: understanding the
+growth cone machinery. Nat. Rev. Mol. Cell Biol. 10, 332–343.
+Lu, M., Witke, W., Kwiatkowski, D.J., and Kosik, K.S. (1997). Delayed retrac-
+tion of filopodia in gelsolin null mice. J. Cell Biol. 138, 1279–1287.
+Luby-Phelps, K., and Taylor, D.L. (1988). Subcellular compartmentalization by
+local differentiation of cytoplasmic structure. Cell Motil. Cytoskeleton 10,
+28–37.NePak, C.W., Flynn, K.C., and Bamburg, J.R. (2008). Actin-binding proteins take
+the reins in growth cones. Nat. Rev. Neurosci. 9, 136–147.
+Petchprayoon, C., Suwanborirux, K., Tanaka, J., Yan, Y., Sakata, T., and
+Marriott, G. (2005). Fluorescent kabiramides: new probes to quantify actin
+in vitro and in vivo. Bioconjug. Chem. 16, 1382–1389.
+Rasband, M.N. (2010). The axon initial segment and the maintenance of
+neuronal polarity. Nat. Rev. Neurosci. 11, 552–562.
+Riedl, J., Flynn, K.C., Raducanu, A., Gärtner, F., Beck, G., Bösl, M., Bradke, F.,
+Massberg, S., Aszodi, A., Sixt, M., and Wedlich-Söldner, R. (2010). Lifeact
+mice for studying F-actin dynamics. Nat. Methods 7, 168–169.
+Roland, J., Berro, J., Michelot, A., Blanchoin, L., and Martiel, J.L. (2008).
+Stochastic severing of actin filaments by actin depolymerizing factor/cofilin
+controls the emergence of a steady dynamical regime. Biophys. J. 94, 2082–
+2094.
+Saarikangas, J., Zhao, H., and Lappalainen, P. (2010). Regulation of the actin
+cytoskeleton-plasmamembrane interplay by phosphoinositides. Physiol. Rev.
+90, 259–289.
+Saito, T. (2006). In vivo electroporation in the embryonic mouse central
+nervous system. Nat. Protoc. 1, 1552–1558.
+Schaefer, A.W., Schoonderwoert, V.T., Ji, L., Mederios, N., Danuser, G., and
+Forscher, P. (2008). Coordination of actin filament and microtubule dynamics
+during neurite outgrowth. Dev. Cell 15, 146–162.
+Small, J.V., and Resch, G.P. (2005). The comings and goings of actin: coupling
+protrusion and retraction in cell motility. Curr. Opin. Cell Biol. 17, 517–523.
+Stiess, M., and Bradke, F. (2011). Neuronal polarization: The cytoskeleton
+leads the way. Dev. Neurobiol. 71, 430–444.
+Tahirovic, S., Hellal, F., Neukirchen, D., Hindges, R., Garvalov, B.K., Flynn,
+K.C., Stradal, T.E., Chrostek-Grashoff, A., Brakebusch, C., and Bradke, F.
+(2010). Rac1 regulates neuronal polarization through the WAVE complex.
+J. Neurosci. 30, 6930–6943.
+Witte, H., Neukirchen, D., and Bradke, F. (2008). Microtubule stabilization
+specifies initial neuronal polarization. J. Cell Biol. 180, 619–632.uron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc. 1107

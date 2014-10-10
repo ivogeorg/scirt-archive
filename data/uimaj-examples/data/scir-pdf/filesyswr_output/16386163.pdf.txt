@@ -1,0 +1,1655 @@
+ABSTRACT
+There are currently no fully restorative therapies for
+human spinal cord injury (SCI). Here, we briefly review the
+different types of human SCI pathology as well as the most
+commonly used rodent and nonhuman primate models of
+SCI that are used to simulate these pathologies and to test
+potential therapies. We then discuss various high profile
+(sometimes controversial) experimental strategies that have
+reported CNS axon regeneration and functional recovery of
+limb movement using these animal models of SCI. We par-
+ticularly focus upon strategies that have been tested both in
+rodents and in nonhuman primates, and highlight those
+which are currently transitioning to clinical tests or trials in
+humans. Finally we discuss ways in which animal studies
+might be improved and what the future may hold for physi-
+cal therapists involved in rehabilitation of humans with SCI.
+Key Words: plasticity, SCI, regeneration, animal, human, ther-
+apies, functional recovery
+INTRODUCTION
+Spinal cord injury (SCI) affects hundreds of thousands of
+people worldwide, with massive associated health care and
+other socioeconomic costs.1 Damage to the spinal cord
+results most notoriously in flaccid paralysis and loss of nor-
+mal sensation in the limbs below the level of the lesion.
+Spinal cord injury may also lead to debilitating pain, spas-
+ticity, impairments in breathing and coughing, bowel or
+bladder problems, and reduced reproductive ability or sex-
+ual sensation.1 People with SCI may suffer from autonomic
+dysreflexia and may be at increased risk for stroke, decubi-
+tus ulcers, fractures, and depression. There are no fully
+restorative clinical therapies for SCI.
+In attempts to develop therapeutic strategies for over-
+coming each of these sequelae, researchers often rely upon
+animal models of SCI. These enhance our understanding of
+the cellular and molecular response of the mammalian
+spinal cord to injury,and they allow us to evaluate the safety
+and efficacy of potential therapies for improving outcome.
+Use of animal models has shown that dysfunction following
+SCI results from interruption of descending and ascending
+spinal axons and loss of both myelin and cells including
+neurons, oligodendrocytes, and astrocytes. Many axons
+regenerate following injury to the peripheral nervous sys-
+tem (PNS) but few, if any, axons regenerate long distances
+following injury to the central nervous system (CNS).1 This
+review will discuss strategies for promoting regeneration of
+CNS axon tracts and recovery of limb function in animal
+models of SCI.
+Although beyond the scope of this review, there are
+other extremely important efforts aimed at restoring nor-
+mal function after SCI. For example, following the initial
+insult to the spinal cord, further structure and function is
+lost through active secondary processes.2 Substantial effort
+has been devoted to limiting this secondary damage
+through development of neuroprotective measures.3
+Substantial effort also has been dedicated to improving
+upon the small degree of endogenous repair that proceeds
+spontaneously in the spinal cord.4,5 For example, strategies
+for improving conduction through spared axons have been
+tested in animals and in humans.6 Strategies for treating
+pain and sexual, bladder, or bowel dysfunction and auto-
+nomic dysreflexia are also beyond the remit of this article.
+Readers are directed to excellent recent reviews of these
+fields in this volume and elsewhere.1,3,6,7
+The present review will first outline different types of
+human SCI and will discuss how contemporary animal
+models of SCI attempt to simulate these pathologies. Next,
+we will discuss cellular and molecular strategies for improv-
+ing CNS axon regeneration and recovery of limb function
+after SCI. Special consideration will be given to experi-
+mental strategies that have been evaluated in nonhuman
+primates and/or are currently transitioning to clinical stud-
+ies or trials.7 We will highlight where strategies remain con-
+troversial, and where safety or efficacy barriers to translat-
+ing experimental strategies exist. The aim is to inform
+readers of exciting laboratory advances, but to temper this
+with a realistic understanding of the challenges that remain
+in developing effective and safe therapies for humans.
+HUMAN SCI IS PATHOLOGICALLY HETEROGENEOUS 
+The response of the human spinal cord to injury has
+been studied using imaging techniques as well as by histo-
+logical staining and inspection of autopsy material.8 These
+studies reveal 4 classes of lesion. In one study of 48 speci-
+mens,8 in 33% of cases, contusion injuries resulted in cavity
+and cyst formation, typically with some sparing of white
+matter (or glial tissue) but with the external glial limiting
+membrane (the glia limitans) remaining intact. In 29% of
+cases, massive compression or maceration occurred due to
+vertebral displacement whereas in 21% of cases, laceration
+occurred due to cord penetration by foreign bodies or bony
+fragments. After compression, maceration or laceration,
+From Animal Models to Humans:  Strategies for Promoting CNS Axon
+Regeneration and Recovery of Limb Function after Spinal Cord Injury
+Lawrence Moon,1 Mary Bartlett Bunge1,2
+1Post Doctoral Associate,The Miami Project to Cure Paralysis, Miami, FL (lmoon@miamiproject.med.miami.edu)
+2Professor, Departments of Cell Biology and Anatomy and Neurological Surgery, University of Miami Miller School of Medicine,
+Miami, FL
+55 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 56
+substantial breaks in the glia limitans led to the epicenter
+being filled predominantly with connective tissue;cysts and
+cavities were less prominent. In 17% of cases, solid core
+injuries manifested as either central cord syndrome (with
+loss of myelin and axons, but with preservation of gray mat-
+ter), or as chronic cord compression (with loss of myelin
+and/or motor neurons in the epicenter, but with preserva-
+tion of axonal integrity). The extent of demyelination, the
+invasion of host cells and the deposition of growth-
+inhibitory molecules (see below) at sites of human SCI also
+have been documented.9.10
+Various animal models of SCI have been developed in
+order to model each of these different types of human
+injury. The relative merits and limitations of these models
+will be discussed next, since these directly affect the ability
+of the researcher to develop safe and effective strategies for
+improving CNS axon regeneration and motor function after
+SCI.
+ANIMAL MODELS OF SCI ARE DESIGNED TO 
+SIMULATE DIFFERENT TYPES OF HUMAN SCI
+The vast majority of mammalian SCI research is con-
+ducted using adult mice and rats, although some work has
+been done using cats and dogs, and increasing work is
+being done using nonhuman primates. Contusion injuries
+in the human are typically modeled using devices that dis-
+place11-12 or impact13 the exposed spinal cord. Compression
+injuries may be simulated by subdural insertion and infla-
+tion of a balloon14 or by clip compression.15 Methods for
+inducing contusion via vertebral displacement have also
+recently been developed.16 Laceration injuries are usually
+modeled by surgical incision, including complete transec-
+tion,17,18 dorsal hemisection,19 or lateral hemisection.20 In all
+cases, the aim is to produce reproducible graded (or com-
+plete) injuries.
+The animal model selected by the researcher largely
+depends upon the hypothesis to be tested. Researchers
+testing neuroprotective strategies often employ contusion
+or compression injuries. Those testing pro-regenerative
+strategies typically prefer models that involve transection of
+all tracts (complete) or some tracts (eg, dorsal column for
+sensory axons ascending in the fasciculi gracilis and cunea-
+tus) as these allow one to distinguish regenerating axons
+from axons that were spared or that sprouted a collateral.21
+Cervical injuries are typically chosen to test therapies for
+improvement of forelimb movement while thoracic injuries
+are usually selected to evaluate therapies for improvement
+of hindlimb movement.
+In the USA alone, a large number of people live with
+existing spinal cord injuries and a substantial number
+receive injuries each year (prevalence ~250,000; incidence
+~11,00022). Different temporal opportunities to intervene
+therapeutically therefore exist. Thus the time between the
+injury and the time of treatment and of evaluation in an ani-
+mal model is of critical importance. ‘Acute,’ ‘subchronic,’
+and ‘chronic’ have all been used to describe postinjury
+phases, but here we prefer to specify precise numbers of
+hours, days, months, or years. The majority of animal stud-
+ies involve interventions within minutes, hours, or days of
+injury. There are far fewer studies reporting improvements
+in CNS axon regeneration or functional outcome after inter-
+vening more than one month postinjury23–28 and this imbal-
+ance requires much redressing if CNS axon regeneration is
+to be promoted in individuals with long-standing injuries.
+Additionally, the majority of studies only assess outcomes
+over a period of weeks or months. Relatively few studies
+that report improvements in CNS axon regeneration and
+functional recovery go on to determine whether these
+changes remain stable beyond 2 or 3 months.
+Data from animal models show that only a small per-
+centage of CNS axons need to be spared to mediate rea-
+sonable locomotion. Partial locomotion on a treadmill is
+possible following lesions that spare only 5% to 10% of
+axons in adult mammalian thoracic spinal cord.29,30 For
+example, following spinal cord compression in the adult
+cat, remaining nerve fibers became myelinated by Schwann
+cells and were able to support spontaneous walking.31
+These data are encouraging as they suggest that only a small
+percentage of axons need to regenerate and form func-
+tional connections to restore useful function.
+It is important to bear in mind that rodent models only
+approximate normal human locomotion and dysfunction
+after SCI. Bipedal locomotion (humans and birds) differs
+radically from quadrupedal locomotion (rodents and most
+mammals) or partially upright locomotion (nonhuman pri-
+mates) in terms of posture, kinematics, physiology, and
+anatomy. Further, whereas many studies show that rodent
+spinal cords respond to injury in ways similar to that of the
+human,32,33 it is clear that there are differences in responses
+to SCI between species and even between strains of a given
+species.34 For example, whereas many human spinal cord
+injuries become cystic or cavitated, very little cavitation
+occurs following contusion injury to many strains of adult
+mice.32 The histopathological response of the primate spinal
+cord to injury has been studied only relatively little, includ-
+ing after injection of autologous fibroblasts into otherwise
+uninjured rhesus monkeys35 and after contusion injury in
+rhesus monkeys.36–38 This situation is likely to improve since
+a graded model of contusion injury in marmosets has
+recently been developed39 and a number of groups are now
+testing potential therapeutics in nonhuman primates (see
+below). Given the differences between rodent and primate
+nervous systems, it seems reasonable to test pro-regenera-
+tive therapies in nonhuman primates for safety and efficacy.
+The paucity of safety and efficacy studies using nonhuman
+primates makes it somewhat remarkable therefore that so
+many clinical studies and trials are in progress.7
+In summary, researchers who test therapeutics designed
+to improve function after SCI select animal models that sim-
+ulate particular aspects of the human pathology. Animal
+models indicate that axon regeneration by a small percent-
+age of injured CNS neurons may be sufficient to restore par-
+57 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+tial function. As will be reviewed next, factors intrinsic and
+extrinsic to neurons limit CNS axon regeneration.40,41
+Modulation of these intrinsic and extrinsic factors can pro-
+mote CNS axon regeneration and recovery of function in
+animal models of SCI. As will be described, these successes
+are leading to clinical tests and trials.
+EXTRINSIC FACTORS 
+Transplants of peripheral nerve promote CNS axon
+regeneration and functional repair after SCI
+Axon regeneration and functional recovery occurs spon-
+taneously (if incompletely) after injury to the adult mam-
+malian PNS. Early experiments therefore attempted to pro-
+mote CNS axon regeneration by transplantation of PNS seg-
+ments into the mammalian CNS. Advances in retrograde trac-
+ing techniques allowed the unambiguous demonstration that
+neurons in many (but not all) different regions of the CNS
+can regenerate axons into PNS grafts.42 Transplants of periph-
+eral nerves as a strategy for promoting CNS axon regenera-
+tion and functional repair are in part attractive because autol-
+ogous grafts reduce the risk of immune rejection and obviate
+the consequent need for immunosuppression.
+There are limits, however, on the ability of PNS grafts to
+promote axon regeneration and functional repair after SCI.
+In rat models of SCI, supraspinal axons (eg, from the red
+nucleus and from cortex) do not extend axons into periph-
+eral nerve grafts placed into thoracic sites of SCI.43–45 Further,
+CNS axons that do extend into peripheral nerve grafts rarely
+exit grafts distally to form synapses or to restore function
+unless routed directly to appropriate targets.46
+As a result of these limitations, combination strategies
+have been tested and found to enhance long distance CNS
+nerve regeneration and motor recovery following SCI and
+implantation of peripheral nerve. For example, in adult rats,
+following creation of a gap in the dorsal columns, trans-
+plants of peripheral nerve support regeneration of the cen-
+tral branch of sensory axons from lumbar dorsal root gan-
+glia (DRG)47 and some of these axons grow out of grafts
+when growth factors are infused rostrally.48,49
+In several studies, multiple segments of intercostal
+peripheral nerve have been transplanted autologously fol-
+lowing complete thoracic transection and creation of a 5
+mm gap. Nerves were routed from white matter to distal
+gray matter and secured using fibrin glue containing acidic
+fibroblast growth factor. In studies using adult rats, corti-
+cospinal (CST) axons regenerated through and beyond the
+nerve bridges50 and hindlimb functional recovery was
+reported.51 Importantly, this work recently has been repro-
+duced and extended independently. In one study,
+somatosensory and motor cortex-evoked potentials demon-
+strated recovery of electrophysiological connectivity from
+motor cortex to hindlimb muscles and from sciatic nerves
+to sensorimotor cortex.52 Extent of recovery in hindlimb
+function in the open field correlated positively with motor
+evoked potential amplitudes in hindlimbs. In some cases,
+weight supported stepping was reported. Transection of
+grafts 6 months after implantation abolished electrophysio-
+logical and behavioral recovery, interpreted to mean that
+functional improvements were dependent on long tract
+regeneration. In another study, axons from the cortex and
+brainstem nuclei (including vestibular, red and raphe nuclei,
+and reticular formation) were also reported as regenerating
+beyond transplants into the distal spinal cord, accompanied
+by improvements in hindlimb function including instances
+of weight supported hindlimb stepping.53
+Using a similar strategy, peripheral nerves have been
+grafted autologously into nonhuman primates (cynomolo-
+gous monkeys) after lateral spinal hemisection20 with evi-
+dence for regeneration of at least some spinal axons at 4
+months postinjury. No functional differences were detected
+between control and experimental monkeys in this study.
+This approach also has been used to treat one human
+case of clinically complete SCI, with a report of limited
+functional recovery.54 This study did not include control
+subjects and therefore additional work remains to be done
+to determine whether therapies involving peripheral nerve
+bridge grafting safely and effectively improve outcome after
+SCI in humans.
+Transplants of Schwann cells promote CNS axon
+regeneration and functional repair after SCI
+Axon regeneration through peripheral nerves is largely
+due to the presence of growth-promoting Schwann cells
+(SCs).55 While grafts of peripheral nerve are suited to bridg-
+ing regular gaps in the injured human spinal cord, many of
+the cysts and cavities that often form after SCI are irregularly
+shaped and below the cord surface, and therefore less
+amenable to bridging with segments of peripheral nerve.
+Purified SCs have therefore attracted attention as candidates
+for promoting CNS axon regeneration and functional repair
+after SCI because they can be transplanted as suspensions.
+Additionally, use of mitogens allows rat or human (but, to
+date, not mouse) SCs from small biopsies of adult peripheral
+nerve to be dramatically expanded in culture56 to produce
+sufficient numbers to bridge large gaps in the spinal cord.57
+Purified populations of rat SCs from peripheral nerve
+have been transplanted into rat models of SCI, injected as
+suspensions 1 week after contusion injury,58 or implanted
+within channels containing extracellular matrix (Matrigel or
+fibrin) immediately following lateral hemisection59 or com-
+plete transection.18 After transection and implantation of
+SCs, sensory and spinal axons with cell bodies near the
+grafts extend axons into these bridge grafts, are myeli-
+nated,18 and are electrophysiologically active.60 After contu-
+sion and implantation of SCs, less cavitation is observed and
+sensory and spinal axons extend axons into grafts, and are
+myelinated.58 In the transection model, regenerating axons
+do not leave the grafts distally to reinnervate the host: com-
+bination therapies including SCs have therefore been the
+subject of investigation.
+Various combinations of therapies have been reported
+to enhance long distance CNS nerve regeneration and
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 58
+recovery of hindlimb function following SCI and implanta-
+tion of Schwann cells. Following transection of adult rat
+thoracic spinal cord, SCs have been transplanted with deliv-
+ery of growth factors including brain derived neurotrophic
+factor (BDNF)61 or BDNF with neurotrophin-3 (NT-3).17 The
+SCs have also been transplanted in combination with anti-
+inflammatory steroids (methylprednisolone),62 and with
+other regeneration-promoting cells including olfactory
+ensheathing glia (OEG).63 Increased regeneration of CNS
+axons into and beyond bridges was reported in several of
+these studies. Following thoracic contusion in adult rats,
+SCs compared to OEG were found to be less effective than
+SC-only transplants.58
+Purified populations of human SCs from peripheral
+nerve have also been transplanted into the injured rodent
+spinal cord (within channels containing Matrigel).64 To
+avoid rejection of grafted cells, nude rats (that have attenu-
+ated immune systems and were treated with methylpred-
+nisolone) were used as hosts. Under these conditions,
+regeneration of brainstem-spinal axons into Schwann cell
+grafts was observed and propriospinal neurons regenerated
+up to 2.6 mm distal to grafts. Mild functional improvements
+were also reported, including extensive movements of
+ankles, knees, and hips (sweeping without weight bearing)
+and occasional weight bearing in stance. Weight-supported
+stepping was only observed in a single rat.
+To date, SCs have not been transplanted into humans fol-
+lowing SCI. A number of hurdles remain. Since transplanting
+SCs alone affords only a small level of recovery of function, it
+remains important to find the most effective and repro-
+ducible combination therapy involving SCs. It will also be
+important to ensure that transplantation of SCs is safe.
+Although mitogen stimulated human SCs do not form tumors
+after implantation into mouse PNS, it will be important to
+check this after implantation into the injured spinal cord.65
+One important step towards human clinical trials would be
+to test the safety and efficacy of transplanting autologous SCs
+into nonhuman primates following contusive SCI.39
+Transplants of OEG promote CNS axon regeneration
+and functional repair after SCI
+Central nervous system axon regeneration and func-
+tional recovery also has been reported when OEG are trans-
+planted immediately after SCI66–69 or after a delay of 426 or 8
+weeks.27 In one study using adult rats, following lateral
+hemisection of the cervical spinal cord, injection of OEG
+improved respiratory function and enhanced performance
+on a climbing task.69 In other studies using adult rats, fol-
+lowing thoracic transection and implantation of OEG into
+spinal cord stumps, regeneration of long descending tracts
+important for locomotion has been reported,26,68 even up to
+2.5 cm distally, for serotonergic axons.70 Recovery has also
+been reported in adult rats after transection and implanta-
+tion of OEG when testing hindlimb function using an
+inclined plane.70 Between 3 and 7 months post-transplanta-
+tion, many transplanted rats were capable of propelling
+their bodies up a wire grid inclined at 45º and onto a hori-
+zontal platform at the top.
+Primate72 and human OEG73 derived from olfactory bulb
+or lamina propria, are now being tested in rodent and non-
+human primate models of SCI and demyelination.74 Over
+500 transplants of cells from human fetal olfactory bulbs
+have been performed in humans in China with reports of
+modest rapid improvement in function.75 Because in many
+cases mild recovery of function is reported to occur within
+1 or 2 days, it undoubtedly does not depend upon long dis-
+tance regeneration of CNS axons but perhaps on secretion
+of trophic factors or induction of local changes in circuitry.
+To date, comprehensive follow-up studies have not been
+performed, so it is difficult to gauge the long-term safety
+and efficacy of this intervention.7
+Do transplants of immune/inflammatory cells pro-
+mote or impair CNS axon regeneration and func-
+tional repair after SCI?
+Spontaneous axon regeneration in the PNS also has been
+partly attributed to the abundance of inflammatory cells
+including macrophages. Macrophages in the CNS derive
+predominantly from resident microglia but also come from
+blood-borne monocytes.76 Monocytes enter the CNS more
+slowly and in fewer number than in the PNS and they differ
+phenotypically from monocytes that have entered the
+PNS.77,78 For these reasons, it has been hypothesized that
+transplants of monocytes preactivated by exposure to PNS
+tissue may boost CNS axon regeneration and functional
+recovery in animal models of SCI.
+In one study,homologous monocytes, activated by prein-
+cubation with PNS tissue, were implanted immediately fol-
+lowing transection of adult rat thoracic spinal cord, result-
+ing in improved CNS axon regeneration.79 Partial recovery
+of hindlimb movements was observed during open field
+locomotor testing. Hindlimb muscle responses were also
+evoked by cortical stimulation. Finally, loss of function after
+re-transection was taken to indicate a dependence of recov-
+ery upon axon regeneration. In a more recent paper,mono-
+cytes were activated by preincubation with skin, and func-
+tional recovery was reported following implantation into a
+contusion injury model in adult rats.80
+In stark contrast to these findings, several studies indi-
+cate that inflammatory cells aggravate outcome after SCI.
+Subpopulations of macrophages within the injured spinal
+cord are found in regions that subsequently cavitate81 and
+intraspinal injection of a macrophage activator (zymosan)
+worsens cavitation.82 Finally, pharmacological depletion of
+macrophages at 1, 3, and 6 days after injury (using clo-
+dronate) actually improves functional recovery after contu-
+sion injury in adult rats.83 These data argue that transplan-
+tation of inflammatory cells risks worsening the original
+injury and may increase disability after SCI.
+Transplantation of inflammatory cells for treatment of
+SCI is therefore extremely controversial. Replication and
+within-experiment comparison of these rodent studies by
+59 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+independent laboratories would be extremely valuable.
+Testing of autologous (not allografted), activated monocytes
+would also be informative. To date, we know of no studies
+investigating the safety or efficacy of transplanting immune
+or inflammatory cells into injured nonhuman primate
+spinal cord. Despite this, clinical trials involving transplan-
+tation of autologous, activated monocytes are currently in
+progress, supported by Proneuron Biotechnologies.7
+Transplants of embryonic/fetal spinal cord promote
+CNS axon regeneration and motor recovery after SCI
+Fetal spinal cord transplants have been shown to pro-
+mote regeneration of CNS axons following resection lesions
+of adult rat spinal cord and in contused adult rat and cat
+spinal cord. A variety of host axons from distances up to 6
+mm away grow short (<500µm) distances into, and inner-
+vate, the grafts including serotonergic and coerulospinal
+axons.84 Innervation of the host tissue by transplanted neu-
+rons is also observed. Despite the attenuation in scar for-
+mation induced by transplantation of immature tissue, the
+number of axons to cross the host/graft interfaces in either
+direction is usually relatively small. Modest but significant
+functional recovery is observed following transplantation of
+immature tissue in rats84 and in cats 1 to 3 months after con-
+tusion SCI.85 For example, although there was no improve-
+ment on inclined plane or grid walking up to 3 months
+postimplantation, 2 indices of gait analysis (base of support
+and stride length) showed statistically significant improve-
+ment.86,87 Improvements in locomotion were also observed
+following delayed transplantation of immature tissue into
+contusion injured adult cat spinal cord and electrophysio-
+logical evidence suggested ascending host axons made
+synapses with graft neurons.88 However, recovery does not
+appear to depend on long distance growth into, through
+and beyond grafts and the authors of those studies specu-
+lated that transplants behave as relays, affording transmis-
+sion of signals via the transplanted neurons which are
+innervated by proximal host neurons and project in turn to
+distal host neurons. Grafts may also provide growth factors
+or may improve conduction in spared axons, perhaps by
+remyelination or neuroprotection.89
+Transplants of embryonic tissue may also enhance func-
+tion of spared circuitry caudal to the lesion thereby improv-
+ing local somatic and visceral responses. One study demon-
+strated that serotonergic neurons from the embryonic raphe
+nucleus grafted caudal to a complete cord transection in the
+adult rat influenced penile erectile function90 and enhanced
+weight support and treadmill locomotion in spinal rats.91
+Since grafts of fetal/embryonic tissue promote recovery
+but without concomitant long distance axon regeneration
+beyond the graft/host interface, co-treatment strategies
+have been evaluated. In one study, fetal tissue transplanted
+2 to 4 weeks after injury, when combined with neu-
+rotrophin delivery, promoted regrowth of axons caudal to
+the transection site, resulting in plantar foot placement and
+weight-supported stepping in adult rats.92
+Fetal cell grafts slightly reduce neurological dysfunction
+following human SCI.89 In one study, 41 patients with clini-
+cally complete thoracic spinal cord lesions and progressive
+syringomyelia received multiple subpial grafts of human neo-
+cortex from 8 to 9 week old fetuses usually within 6 to 12
+months of injury (cited in reference 89). A trend towards
+improved neurological outcome over a few dermatomal lev-
+els was observed relative to patients who had laminectomy,
+durotomy, and lysis of adhesions. There were no reports of
+morbidity,mortality,or increased pain. However, it should be
+noted that as yet, there is no available evidence for graft sur-
+vival or CNS axon regeneration in humans. Fetal cell grafts
+have also been used in an attempt to prevent additional loss
+of function in cases of progressive syringomyelia and to date
+there appear to have been few negative outcomes associated
+with transplantation.93,94 Therapeutic strategies involving tis-
+sue derived from human embryos or fetuses remain ethically
+controversial and therefore clinical trials are additionally
+challenging to conduct.
+Transplants of progenitor cells may improve motor
+recovery following SCI
+Multipotent progenitor cells (cells that have the capacity
+to differentiate into many different cell types) and stem
+cells (cells having the capacity to self-renew indefinitely
+and differentiate into any cell type) appear to exist in adults
+as well as in embryos and these may have the potential to
+replace cells of different types that die after SCI. Since it is
+in practice difficult (if not impossible) to establish that a
+precursor cell is capable of indefinite division and of differ-
+entiation into all possible phenotypes,here we prefer to use
+the term progenitor. Transplants of purified progenitor cells
+from embryos and adult tissues are now being tested in ani-
+mal models of SCI.95 The following cell types are among
+those that have been transplanted in animal models of SCI:
+human umbilical cord progenitors,96 bone marrow stromal
+cells,97 murine cell-line cells,98 and populations of multipo-
+tent cells derived from human fetal brain99 and human
+embryonic spinal cord.100
+To date, however, where multipotent cells promote
+recovery of function in animal models of CNS injury, axons
+do not appear to regenerate through and beyond grafts.96,98
+One study has shown that immortalized neural progenitors
+promote PNS axon growth following SCI.101 Alternative
+explanations for recovery of function include cell replace-
+ment, creation of new neuronal relays, myelination, neuro-
+protection, and/or plasticity.102,103
+Researchers also have recently begun investigating trans-
+plants of multipotent cells with restricted fates. Grafts of
+glial-restricted precursors promote mild ingrowth of CST
+axons.104 Grafted neuronal-restricted precursors extend
+axons de novo after grafting into the intact spinal cord105
+although differentiation into mature neurons appears to be
+inhibited after grafting into the contusion-injured spinal
+cord.106
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 60
+Recently, neural progenitors derived from 8 week old
+human fetuses have been transplanted into immunosup-
+pressed nonhuman primates 9 days following cervical con-
+tusion injury.107 There was a statistically significant differ-
+ence in spontaneous locomotion within the cage and in
+forelimb grip power between marmosets transplanted with
+cells relative to those transplanted with culture medium
+only. Eight weeks following transplantation, histopathology
+revealed reduced cavitation but no evidence of tumor for-
+mation. Some surviving grafted cells expressed markers
+characteristic of neurons or glia and there was evidence for
+some PNS or CNS axon ingrowth.
+Autologous transplants of progenitor cells remain to be
+tested in rodent or primate models of SCI. Future experi-
+ments using animals may also show whether it is possible
+to induce regeneration and repair by stimulating the
+response of endogenous adult progenitors. Finally, several
+clinical studies are attempting to evaluate whether trans-
+plantation of progenitor cells improves outcome after
+human SCI (eg, cells from bone marrow).7
+Delivery of growth factors promotes CNS axon
+regeneration and motor recovery after SCI
+Growth factors potently promote axon regeneration
+during nervous system development and after PNS injury.
+Following contusion or transection injury to the adult rat
+spinal cord, however, message levels for many growth fac-
+tors remain almost undetectable (including neurotrophins
+3 and 4), or only briefly and slightly upregulated (including
+nerve growth factor (NGF) and glial cell line-derived neu-
+rotrophic factor).108 After SCI, message levels for neu-
+rotrophin receptors on neurons remain absent (trkA), unal-
+tered (trkB, trkC),or only slightly upregulated (p75).108 Brain
+derived neurotrophic factor may not be available for signal-
+ing through its high affinity receptor (trkB) since there is a
+large, fast,and sustained upregulation of competitor binding
+sites (truncated trkB receptors) that may dominate as non-
+functional sinks for the active neurotrophin.109 In summary,
+after SCI, CNS neurons may lack the ability to respond to
+generally low levels of most growth factors.
+Consequently, to promote CNS axon regeneration and
+functional recovery after SCI, supplementary growth fac-
+tors have been delivered to neuronal cell bodies (eg, in
+brainstem or cortex) or SCI sites by direct injection,110 by
+osmotic minipump,17 by application within fibrin glue,111 or
+by gene transfer techniques.61,112-114 Delivery of growth fac-
+tors can enhance long distance anatomical, electrophysio-
+logical, and behavioral recovery of CNS axons in vivo. For
+example, following dorsal hemisection lesions of adult rat
+spinal cord and immediate implantation of NT-3-secreting
+fibroblasts, CST axons grew up to 8 mm distal to the injury
+site with reduced locomotor deficits on a gridwalk task 1
+and 3 months postinjury.113 Following cervical lateral hemi-
+section and implantation of BDNF-expressing fibroblasts
+(together with methylprednisolone and immunosuppres-
+sion), up to 7% of rubrospinal neurons regenerated beyond
+the transplant site.112,114 Forelimb use was also partially
+restored, and more so when transplants were placed early
+after injury rather than when delayed 6 weeks.28
+Although many neurons die after axotomy, severely atro-
+phied neurons can be rescued. In one study, severe atrophy
+of rubrospinal neurons could be reversed by applying
+BDNF to the cell bodies up to one year after injury.25
+Further, this treatment promoted the regeneration of these
+rubrospinal axons into peripheral nerve transplants
+engrafted at the cervical SCI site.
+Growth factors have also been delivered to the nonhu-
+man primate spinal cord using autologous fibroblasts genet-
+ically modified to produce NGF.115 Three months after
+implantation into rhesus monkeys, sensory and putative
+coerulospinal axons were found to regenerate into NGF-
+secreting grafts. Since these monkeys had not been given
+deliberate spinal cord injuries, further work is required to
+show whether delivery of growth factors promote CNS
+axon regeneration and functional recovery in injured non-
+human primates.
+Disappointingly, clinical trials using systemic delivery of
+high doses of neurotrophins for various nervous system dis-
+orders have run into a number of difficulties, including
+induction of side effects including severe muscular pain,
+fever, depression, and hallucinations.116 Targeted delivery of
+physiological doses of growth factors (eg, by using viral
+vectors) may prove safer and more efficacious.
+Scar tissue modifiers enhance CNS axon regeneration
+and functional recovery after SCI
+Extrinsic factors that limit CNS axon regeneration also
+include factors associated with myelin and the injury site.
+Spinal cord injury sites, particularly those resulting from
+penetrating injury, are also typically filled with multiple lay-
+ers of fibroblasts. This scar tissue represents a formidable
+physical barrier to CNS axon regeneration,117 the cells often
+being oriented perpendicular to the neuraxis (appearing
+geometrically impenetrable) and containing molecular
+inhibitors of growth including chondroitin sulfate gly-
+cosaminoglycans (CS GAGs).40,118
+In adult rats, degradation of CS GAGs by delivery of the
+bacterial enzyme, chondroitinase ABC, promotes regenera-
+tion of injured CNS axons119 and recovery of function after
+dorsal hemisection.120 Following spinal cord hemisection in
+adult rats, delivery of chondroitinase ABC also promotes
+regrowth of axons from spinal cord neurons into grafts of
+peripheral nerve121 and regrowth of CNS axons into spinal
+cord beyond hemichannel bridges containing SCs and
+Matrigel.122 Following complete transection and implanta-
+tion of channels containing SCs and Matrigel, delivery of
+chondroitinase ABC and immunoglobulin promotes regen-
+eration of serotonergic axons beyond grafts.123 Repeated
+intrathecal delivery of chondroitinase ABC also promotes
+hindlimb recovery following severe (but not moderate) tho-
+racic contusion injury in adult rats.124
+61 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+A number of safety and delivery issues remain to be tack-
+led. Delivery of bacterial proteins to humans carries a risk
+of nonspecific immune responses. Further, repeated dosing
+(as is typically performed in animal models of SCI using
+chondroitinase ABC) may not be possible if the immune sys-
+tem develops responses to neutralize these foreign pro-
+teins. Thus efforts are underway to develop smaller, less
+immunogenic yet enzymatically active variants of chon-
+droitinase ABC. Human enzymes (eg, hyaluronidases or
+matrix metalloproteinases) that cleave CS GAGs might also
+avoid these side effects. Encouragingly, a preparation of
+chondroitinase ABC is currently being tested in Phase 2 clin-
+ical trials for herniated lumbar discs125 and FDA approval for
+this therapy might accelerate clinical trials for SCI. In due
+course, chondroitinase ABC should be tested for safety and
+efficacy in nonhuman primate models of SCI.
+Therapies that target myelin inhibitors promote CNS
+growth and functional recovery
+Intact and injured CNS myelin contains a number of dif-
+ferent growth inhibitory molecules.126 These include Nogo-
+A, myelin-associated glycoprotein (MAG) and oligodendro-
+cyte myelin glycoprotein (OMgp). Various therapeutics
+have been developed to target and overcome these
+inhibitors of axon growth, most notably the antibody IN-1,
+which binds to Nogo-A and neutralizes its inhibitory
+effects.126
+The CNS axon growth and recovery of limb function
+have been reported in various animal models of SCI follow-
+ing delivery of anti-Nogo therapeutics. In the original
+experiments, small numbers of adult rat CST axons were
+observed approximately 1 cm beyond sites of thoracic dor-
+sal hemisection following implantation of hybridoma cells
+secreting IN-1.19,127 Further,between 7 and 12 weeks postle-
+sion, low threshold stimulation of hindlimbs enhanced the
+incidence of paw placing responses in 8 of 10 animals
+treated with IN-1 antibodies but in no control animals, and
+this effect was abolished by bilateral sensorimotor cortex
+ablation.128 Administration of IN-1 antibodies also potenti-
+ated CST axon growth after dorsal hemisection in adult rats
+and implantation of embryonic tissue127 or following injec-
+tion of NT-3 either immediately after SCI129 or after a delay
+of 2 or 8 weeks.24 IN-1 also induced CNS axons to sprout
+collaterals, for example, following unilateral injury of the
+CST at the level of the brainstem.130,131
+Recently, and promisingly, IN-1 has been shown to pro-
+mote growth of CST axons following unilateral lesioning in
+4 out of 5 marmoset monkeys tested.132 Recombinant,
+humanized fragments of IN-1 and immunoglobulin G class
+antibodies against Nogo-A have so far been tested in 2 rat
+stroke models133 and in a dorsal hemisection model of SCI.134
+To date, however, no reports exist of testing anti-Nogo
+therapies in contusion or compression models of SCI. This
+is important because anti-Nogo antibodies apparently do
+not promote long distance CNS axon regeneration in all
+models tested,130,131,135 particularly in larger injuries such as
+those involving transection.111,136 It will also be important to
+evaluate whether anti-Nogo strategies have any adverse out-
+comes in animal models of SCI. One study indicates no
+increase in tail flick (interpreted as no increase in nocicep-
+tion) 5 weeks following dorsal overhemisection and deliv-
+ery of IN-1 in adult rats.137 Clinical trials using antibodies
+against Nogo-A are currently being planned in association
+with Novartis.
+A peptide inhibitor (NEP1-40) targeting a receptor for
+Nogo-A (NgR) has also been developed138 in order to pre-
+vent neurons from responding to this inhibitor.
+Remarkably, subcutaneous treatment with NEP1-40 one
+week after thoracic dorsal hemisection promotes growth of
+CST axons and serotonergic fibers and a degree of locomo-
+tor recovery.139 Intrathecal delivery of NEP1-40 also pro-
+motes regrowth of rubrospinal axons and a degree of func-
+tional recovery after rat SCI.140 Biogen Idec Inc. holds a
+license for NgR-related therapeutics and clinical trials may
+follow.
+INTRINSIC FACTORS
+Cyclic adenosine monophosphate
+Various strategies exist to boost CNS axon regeneration
+by targeting molecules intrinsic to neurons. For example,
+levels of cyclic adenosine monophosphate (cAMP) are
+higher in young, growing neurons than in older neurons.
+Levels of cAMP are low in neurons in a state of growth arrest,
+such as those cultured on growth-inhibitory MAG, and deliv-
+ery of cAMP analogs relieves this growth-arrest in vitro.141
+To test the hypothesis that elevation of cAMP boosts
+CNS axon regeneration in adult rats, cAMP analogs have
+been injected into adult rat DRG one week prior to thoracic
+dorsal column hemisection. In 2 studies, centrally project-
+ing sensory axons regrew better within injury sites.142,143
+Combining strategies, preinjury administration of cAMP
+with postinjury delivery of NT-3, promotes regeneration of
+sensory axons within and beyond transplants of bone mar-
+row stromal cells.144 In these studies, however, it should be
+noted that administration of cAMP or NT-3 alone did not
+promote regeneration of axons beyond grafts.
+Since prophylactic treatments for SCI are inappropriate,
+postinjury delivery of drugs that boost cAMP levels are
+being tested. Postinjury delivery of a cAMP analog pro-
+motes CNS axon regeneration after SCI in fish.145
+A fall in the levels of endogenous cAMP after SCI in adult
+rats can be prevented by delivery of the phosphodiesterase
+inhibitor, rolipram, which prevents the hydrolysis of
+cAMP.146 After cervical hemisection in adult rats, delivery of
+rolipram promotes growth of serotonergic axons into fetal
+tissue transplants and enhances placing of the impaired
+forelimb during rearing.147 After spinal cord contusion,adult
+rats injected intraspinally with SCs and a cyclic AMP analog
+together with subcutaneous delivery of rolipram exhibited
+white matter sparing, increased numbers of spinal and
+supraspinal axons beyond the injury/transplant site and
+improved locomotion.146
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 62
+Prior to human clinical tests or trials, solo or combina-
+tion methods for elevating cAMP levels after injury need to
+be evaluated for safety and efficacy, at least in rodent mod-
+els of SCI and preferably also in nonhuman primates.
+Therapeutic windows of delivery of cAMP analogs need to
+be defined and doses and methods of delivery established.
+Modulation of small enzymes (GTPases) boosts CNS
+axon regeneration and recovery of function after
+dorsal hemisection
+Many different extrinsic factors that impact upon axon
+regeneration have common final pathways, many signaling
+intracellularly via small enzymes that interact with guano-
+sine triphosphate (GTP; a chemical compound that is used
+as a source of energy during synthesis of proteins). This has
+been shown for CS GAGs as well as MAG, OMgp, and Nogo-
+A.148,149 These GTPases include Rho and Rac family mem-
+bers. Injured spinal cords of adult rats contain increased
+levels of message for at least 5 different small GTPases
+including RhoA, RhoB, and Rac1.150 Rho and Rac GTPases
+generally act antagonistically; while Rho family members
+retard growth,Rac family members promote neurite growth
+in vitro.151 Consequently,modulators of small GTPases have
+been evaluated as methods for promoting CNS axon regen-
+eration and functional recovery in animal models of SCI.
+Rho GTPase protein is activated after SCI and inhibition
+of Rho (using C3 botulinum toxin) promotes CNS axon
+regeneration and a degree of functional recovery following
+dorsal hemisection injury in adult rats.152 Rho kinase acts as
+a downstream effector of Rho, and pharmacologic inhibi-
+tion of Rho kinase promotes CNS axon regeneration fol-
+lowing dorsal hemisection in adult rats.153
+Improved cell-permeable inhibitors of Rho are currently
+being tested. For example, BioAxone Therapeutic Inc. is
+developing technologies to target Rho signaling. Strategies
+to stimulate Rac in vivo remain to be developed. To date,
+activators of Rac and inhibitors of Rho and Rho kinase have
+neither been tested in rodent models of contusion injury
+nor in any nonhuman primate models of SCI.
+Other inhibitors of CNS axon regeneration intrinsic to
+neurons likely exist, and with the advent of molecular
+knockdown methods including RNA interference, attempts
+to promote CNS axon regeneration through targeting of
+regeneration-inhibiting genes and proteins may become
+possible.
+Overexpressing regeneration-promoting molecules
+in neurons promotes CNS axon regeneration
+As axons elongate during development, PNS and CNS
+neurons express a range of genes154 including growth asso-
+ciated protein 43 kDa (GAP-43) and cortical cytoskeleton-
+associated protein 23 kDa (CAP-23). On maturation, most
+neurons downregulate expression of these genes. After
+injury to the PNS, neurons that re-extend axons re-express
+many of these “regeneration-associated” genes.155–157 Injured
+CNS neurons do sprout processes locally, and this is associ-
+ated with mild expression of a limited set of regeneration-
+associated genes,158 particularly when injury occurs close to
+the cell body. CNS neurons that regenerate axons into
+transplants of peripheral nerve express various regenera-
+tion-associated genes158–161
+In general, however, after injury to the CNS, neurons fail
+to re-express the majority of these genes, and do not regen-
+erate long distances. For example, following peripheral
+transection, DRG neurons express GAP-43 in their regener-
+ating peripheral projections but not in their nonregenerat-
+ing central projections following central axotomy in dorsal
+columns.162 It is therefore encouraging that overexpression
+of regeneration-associated genes causes injured CNS neu-
+rons to regenerate axons. For example, simultaneous over-
+expression of GAP43 and CAP23 in transgenic mice causes
+enhanced neurite growth from explanted DRG in vitro and
+boosts regeneration of centrally projecting axons from lum-
+bar DRG into peripheral nerve grafts implanted in thoracic
+spinal cord.163
+Experiments overexpressing regeneration-associated
+genes in CNS neurons in nonhuman primates have not yet
+been performed and to our knowledge, therapies specifi-
+cally designed to boost expression of pro-regenerative
+genes in neurons after SCI are not yet being considered for
+human clinical trial.
+A number of hurdles remain. In the combination strat-
+egy described above,163 relatively few neurons regenerated
+and there was no report of testing for recovery of function.
+Future experiments may identify additional, more potent
+regeneration-promoting genes. For example, novel regener-
+ation-associated genes have been identified in neurons dur-
+ing PNS164 and CNS regeneration. In addition, we have
+recently identified a novel set of regeneration-associated
+genes that are expressed by injured spinal neurons that
+regenerate into grafts of SCs placed in transected adult rat
+spinal cord.165 Future experiments are underway to identify
+genes that potently promote neurite growth in cell culture
+systems. Targeted upregulation of these growth-promoting
+genes (eg, using viral vectors) may prove effective in pro-
+moting CNS axon regeneration and functional recovery in
+animal models of SCI.
+Physical therapy enhances recovery of function after
+SCI
+Although we know of no evidence yet that physical ther-
+apy or rehabilitation directly improves CNS axon regenera-
+tion after SCI, environmental enrichment, physical therapy,
+and motor training have been shown to improve limb func-
+tion in animal models of SCI (including after transection166
+and contusion167–169) and in humans with SCI.170–173
+To date, very few studies have combined rehabilita-
+tion/physical therapy with strategies for promoting CNS
+axon regeneration and recovery of limb function. In one
+recent study from our laboratory, following transection of
+adult rat thoracic spinal cord, OEG were transplanted with
+or without SC bridges.71 Motor activity was encouraged
+63 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+through provision of motor enrichment housing (MEH): a
+large, multilevel cage filled with ramps, textured surfaces,
+and hanging food rewards. The return of hindlimb joint
+movement was assessed weekly for 22 weeks starting 1
+week postinjury and was compared between animals
+housed in MEH and those maintained in basic housing (BH).
+All rats recovered a small amount of hindlimb movement,
+but recovery was not accelerated or enhanced by MEH.
+Recovered hindlimb movements were, however, sustained
+up to 22 weeks postinjury in most rats in MEH, whereas
+most rats kept in BH progressively lost recovered hindlimb
+movements after 9 weeks. Furthermore, MEH decreased
+mortality, and improved health. We conclude that motor
+rehabilitation can be of substantial benefit when using
+transplantation strategies to treat SCI.
+In the future it seems very likely that rehabilitation/phys-
+ical therapy will play a key role in many strategies designed
+to promote CNS axon regeneration and recovery of limb
+function. These combination strategies will likely first be
+tested in rodent, then primate models of SCI, and then, if
+safe and efficacious, in human clinical trials.
+TOWARDS THE FUTURE
+In cases of anatomically complete injury in animal mod-
+els, the degree of recovery of hindlimb movement obtained
+by any single transplant therapy remains functionally slight.
+In general, following transection and intervention of any
+kind in adult rats, plantar placement and weight support on
+hindlimbs during stepping is not consistently observed. This
+includes: (1) transplantation of glia obtained from nasal
+mucosa or olfactory bulb;26,68 (2) transplantation of activated
+monocytes;79 (3) implantation of peripheral nerve grafts
+secured across transection gaps with fibrin glue containing
+acidic fibroblast growth factor;51 and (4) transplantation of
+OEG, with or without SC bridges;71 and (5) implantation of
+SC bridges and OEG with delivery of chondroitinase ABC.123
+To our knowledge there exists only one study that reports
+frequent plantar placement and weight-supported stepping
+in adult rats with transection injuries.92 This study utilized
+delayed transplantation of fetal tissue in combination with
+neurotrophin delivery.
+In cases of anatomically incomplete injury, the degree of
+recovery witnessed in the open field is typically modest and
+most studies remain to be reproduced independently.174
+Replication is extremely desirable in order to determine the
+general applicability of a therapy. Incomplete injuries are
+notoriously variable and animals should be randomized to
+treatment group, treated blind and evaluated blind. Where
+possible, baseline testing should be performed prior to
+intervention to ensure that groups do not differ one from
+another initially. Where axon regeneration is evaluated,
+stringent criteria should be applied to discriminate this
+from sprouting or sparing.21
+Many claims have been made as to the particular repar-
+ative potential of transplants of a given cell type, including
+SCs, OEG, monocytes, genetically modified fibroblasts, and
+multiple types of progenitor cells. In many cases these
+claims have been made relative to controls that were not
+transplanted with cells, but relative to injection of
+medium.63,107 Very few studies have directly compared dif-
+ferent cell types within a single experiment,58 so it is very
+difficult to know which cell type affords particular benefits
+over others. In the future, additional control or comparison
+groups should be included such as transplants of other cell
+types.
+Worryingly, some pro-regenerative therapies have been
+shown to promote growth of sensory axons within the PNS
+or CNS. This includes progenitor cells,175 neurotrophin ther-
+apies,176 anti-inhibitor therapies,110 and regeneration-gene
+overexpression therapies.163 In light of this, rigorous testing
+for changes in nociception should take place in animal
+models of SCI before moving to the human patient. This is
+especially important as many humans with SCI rate neuro-
+logic pain as one of the worst sequelae of SCI.177 Great care
+should therefore be taken to ensure that any clinical ther-
+apy does not induce neurological pain as a side effect.
+CODA
+Increasing numbers of experimental studies using ani-
+mal models of SCI are resulting in reports of improvements
+in CNS axon regeneration and recovery of limb function.
+Combinations of these strategies in animal models and in
+humans may lead to additive improvements in outcome
+after SCI. Many of these combination strategies may involve
+rehabilitation measures and, as clinical tests and trials pro-
+ceed, it seems likely that the demand for physical therapists
+with a good working knowledge of pro-repair strategies for
+SCI will increase.
+ACKNOWLEDGEMENTS
+Supported by Christopher Reeve Paralysis Foundation
+Research Consortium grants, NINDS 09923 and the Miami
+Project to Cure Paralysis (to M.B.B). With thanks to Dr.
+Caitlin Hill for suggestions for improving the manuscript
+and Diana Masella for assistance with manuscript prepara-
+tion.
+REFERENCES
+1 Horner PJ, Gage FH. Regenerating the damaged central
+nervous system. Nature. 2000;407:963-970.
+2 Dusart I, Schwab ME. Secondary cell death and the
+inflammatory reaction after dorsal hemisection of the rat
+spinal cord. Eur J Neurosci. 1994;6:712-724.
+3 Hall ED, Springer JE. Neuroprotection and acute spinal
+cord injury: a reappraisal. Neurorx. 2004;1:80-100.
+4 Beattie MS, Bresnahan JC, Komon J, et al. Endogenous
+repair after spinal cord contusion injuries in the rat. Exp
+Neurol. 1997;148:453-463.
+5 Bareyre FM, Kerschensteiner M, Rainteau O, Mettenleiter
+TC, Weinmann O, Schwab ME. The injured spinal cord
+spontaneously forms a new intraspinal circuit in adult
+rats. Nat Neurosci. 2004;7:269-277.
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 64
+6 Hayes KC. The use of 4-aminopyridine (fampridine) in
+demyelinating disorders. CNS Drug Rev. 2004;10:295-
+316.
+7 Amador MJ, Guest JD. A critical appraisal of ongoing
+experimental procedures in spinal cord injury. J Neurol
+Phys Ther. 2005;29:70-86.
+8 Bunge RP, Puckett WR, Hiester ED. Observations on the
+pathology of several types of human spinal cord injury,
+with emphasis on the astrocyte response to penetrating
+injuries. Adv Neurol. 1997;72:305-15.
+9 Guest JD, Hiester ED, Bunge RP. Demyelination and
+Schwann cell response adjacent to injury epicenter cav-
+ities following chronic human spinal cord injury. Exp
+Neurol. 2005;192:384-393.
+10 Bruce JH, Norenberg MD, Krydieh S, Puckett W, Marcillo
+A, Dietrich D. Schwannosis: role of gliosis and proteogly-
+can in human spinal cord injury. J Neurotrauma. 2000;
+17:781-788.
+11 Jakeman LB, Guan Z, Wei P, et al. Traumatic spinal cord
+injury produced by controlled contusion in mouse. J
+Neurotrauma. 2000;17:299-319.
+12 Stokes BT, Noyes DH, Behrmann DL. An electromechan-
+ical spinal injury technique with dynamic sensitivity. J
+Neurotrauma. 1992;9:187-195.
+13 Gruner JA.A monitored contusion model of spinal cord
+injury in the rat. J Neurotrauma. 1992;9:123-128.
+14 Martin D, Schoenen J, Delree P, et al. Experimental acute
+traumatic injury of the adult rat spinal cord by a subdural
+inflatable balloon: methodology, behavioral analysis, and
+histopathology. J Neurosci Res. 1992;32:539-550.
+15 Fehlings MG, Tator CH. The relationships among the
+severity of spinal cord injury, residual neurological func-
+tion, axon counts, and counts of retrogradely labeled
+neurons after experimental spinal cord injury. Exp
+Neurol. 1995;132:220-228.
+16 Fiford RJ, Bilston LE,Waite P, Lu J.A vertebral dislocation
+model of spinal cord injury in rats. J Neurotrauma.
+2004;21:451-458.
+17 Xu XM, Guenard V, Kleitman N,Aebischer P, Bunge MB.A
+combination of BDNF and NT-3 promotes supraspinal
+axonal regeneration into Schwann cell grafts in adult rat
+thoracic spinal cord. Exp Neurol. 1995;134:261-272.
+18 Xu XM, Guenard V, Kleitman N, Bunge MB.Axonal regen-
+eration into Schwann cell-seeded guidance channels
+grafted into transected adult rat spinal cord. J Comp
+Neurol. 1995;351:145-160.
+19 Schnell L, Schwab ME. Axonal regeneration in the rat
+spinal cord produced by an antibody against myelin-
+associated neurite growth inhibitors. Nature. 1990;343:
+269-272.
+20 Levi AD, Dancausse H, Li X, Duncan S, Horkey L, Olivera
+M. Peripheral nerve grafts promoting central nervous
+system regeneration after spinal cord injury in the pri-
+mate. J Neurosurg Spine. 2002; 96:197-205.
+21 Steward O, Zheng B, Tessier-Lavigne M. False resurrec-
+tions: distinguishing regenerated from spared axons in
+the injured central nervous system. J Comp Neurol.
+2003;459:1-8.
+22 University of Alabama at Birmingham, Dept. of Physical
+Medicine & Rehabilitation. Spinal Cord Injury Informa-
+tion Network. 1996. Available at: http://www. spinal
+cord. uab.edu.Accessed April 1, 2005.
+23 Ye JH, House JD.Treatment of chronically injured spinal
+cord with neurotrophic factors can promote axonal
+regeneration from supraspinal neurons. Exp. Neurol.
+1997;143:70-81.
+24 von Meyenburg J, Brosamle C, Metz GA, Schwab ME.
+Regeneration and sprouting of chronically injured corti-
+cospinal tract fibers in adult rats promoted by NT-3 and
+the mAb IN-1, which neutralizes myelin-associated neu-
+rite growth inhibitors. Exp Neurol. 1998;154:583-594.
+25 Kwon BK, Liu J, Messerer C, et al. Survival and regenera-
+tion of rubrospinal neurons 1 year after spinal cord
+injury. Proc Natl Acad Sci USA. 2002;99:3246-3251.
+26 Lu J,Feron F,Mackay-Sim A,Waite PM.Olfactory ensheath-
+ing cells promote locomotor recovery after delayed
+transplantation into transected spinal cord. Brain.
+2002;125(Pt 1):14-21.
+27 Keyvan-Fouladi N, Raisman G, Li Y. Functional repair of
+the corticospinal tract by delayed transplantation of
+olfactory ensheathing cells in adult rats. J Neurosci.
+2003;23:9428-9434.
+28 Shumsky JS,Tobias CA,Tumulo M, Long WD, Giszter SF,
+Murray M. Delayed transplantation of fibroblasts geneti-
+cally modified to secrete BDNF and NT-3 into a spinal
+cord injury site is associated with limited recovery of
+function. Exp Neurol. 2003;184:114-130.
+29 Eidelberg E, Straehley D, Erspamer R, Watkins CJ.
+Relationship between residual hindlimb-assisted loco-
+motion and surviving axons after incomplete spinal cord
+injuries. Exp Neurol. 1977:56:312-322.
+30 Blight AR. Cellular morphology of chronic spinal cord
+injury in the cat: analysis of myelinated axons by line-
+sampling. Neuroscience. 1983;10:521-543.
+31 Blight AR, Young W. Central axons in injured cat spinal
+cord recover electrophysiological function following
+remyelination by Schwann cells. J Neurol Sci. 1989;
+91:15-34.
+32 Ma M, Basso DM, Walters P, Stokes BT, Jakeman LB.
+Behavioral and histological outcomes following graded
+spinal cord contusion injury in the C57B1/6 mouse. Exp
+Neurol. 2001;169:239-254.
+33 Basso DM, Beattie MS, Bresnahan JC. Graded histological
+and locomotor outcomes after spinal cord contusion
+using the NYU weight-drop device versus transection.
+Exp Neurol. 1996;139:244-256.
+34 Sroga JM, Jones TB, Kigerl KA, McGaughy VM, Popovich
+PG. Rats and mice exhibit distinct inflammatory reac-
+tions after spinal cord injury. J Comp Neurol. 2003;462:
+223-240.
+65 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+35 Tuszynski MH, Grill R, Jones LL, McKay HM, Blesch A.
+Spontaneous and augmented growth of axons in the 
+primate spinal cord: effects of local injury and nerve
+growth factor-secreting cell grafts. J Comp Neurol.2002;
+449:88-101.
+36 Bresnahan JC, King JS, Martin GF, Yashon D. A neu-
+roanatomical analysis of spinal cord injury in the rhesus
+monkey (Macaca Mulatta). J Neurol Sci. 1976;28:521-
+542.
+37 Bresnahan JC.An electron-microscopic analysis of axonal
+alterations following blunt contusion of the spinal cord
+of the rhesus monkey (Macaca mulatta). J Neurol Sci.
+1978;37:59-82.
+38 Crowe MJ, Bresnahan JC, Shuman SL, Masters JN, Beattie
+MS.Apoptosis and delayed degeneration after spinal cord
+injury in rats and monkeys. Nat Med. 1997;3:73-76.
+39 Iwanami A, Yamane J, Katoh H, et al. Establishment of
+graded spinal cord injury model in a nonhuman primate:
+the common marmoset. J Neurosci Res. 2005;80:172-
+181.
+40 Asher RA, Morgenstern DA, Moon LD, Fawcett JW.
+Chondroitin sulphate proteoglycans: inhibitory compo-
+nents of the glial scar. Prog Brain Res. 2001;132:611-
+619.
+41 Caroni P. Neuro-regeneration: plasticity for repair and
+adaptation. Essays Biochem. 1998;33:53-64.
+42 Richardson PM, McGuinness UM,Aguayo AJ.Axons from
+CNS neurons regenerate into PNS grafts. Nature.
+1980;284:264-265.
+43 Heibert GW, Khodarahmi K, McGraw J, Steeves JD,
+Tetzlaff W. Brain-derived neurotrophic factor applied to
+the motor cortex promotes sprouting of corticospinal
+fibers but not regeneration into a peripheral nerve trans-
+plant. J Neurosci Res. 2002;69:160-168.
+44 Richardson PM, McGuinness UM, Aguayo AJ. Peripheral
+nerve autografts to the rat spinal cord: studies with
+axonal tracing methods. Brain Res. 1982;237:147-162.
+45 Tetzlaff W, Kobayashi NR, Giehl KM, Tsui BJ, Cassar SL,
+Bedard AM. Response of rubrospinal and corticospinal
+neurons to injury and neurotrophins. Prog Brain Res.
+1994;103:271-286.
+46 Keirstead SA, Rasminsky M, Fukada Y, Carter DA,Aguayo
+AJ,Vidal-Sanz M.Electrophysiologic responses in hamster
+superior colliculus evoked by regenerating retinal
+axons. Science. 1989;246:255-257.
+47 Oudega M,Varon S, Hagg T. Regeneration of adult rat sen-
+sory axons into intraspinal nerve grafts: promoting
+effects of conditioning lesion and graft predegeneration.
+Exp Neurol. 1994;129:194-206.
+48 Oudega M, Hagg T. Nerve growth factor promotes regen-
+eration of sensory axons into adult rat spinal cord. Exp
+Neurol. 1996;140:218-229.
+49 Oudega M, Hagg T. Neurotrophins promote regeneration
+of sensory axons in the adult rat spinal cord. Brain Res.
+1999;818:431-438.
+50 Cheng H, Cao Y, Olson L. Spinal cord repair in adult para-
+plegic rats: partial restoration of hind limb function.
+Science. 1996;273:510-513.
+51 Cheng H,Almstron S, Giminez-Llort L, et al. Gait analysis
+of adult paraplegic rats after spinal cord repair. Exp
+Neurol. 1997;148:544-557.
+52 Lee YS, Hsiao I, Lin VW. Peripheral nerve grafts and aFGF
+restore partial hindlimb function in adult paraplegic rats.
+J Neurotrauma. 2002;19:1203-1216.
+53 Lee YS, Lin CY, Robertson RT, Hsiao I, Lin VW. Motor
+recovery and anatomical evidence of axonal regrowth in
+spinal cord-repaired adult rats. J Neuropathol Exp
+Neurol. 2004;63:233-245.
+54 Cheng H, Liao KK, Liao SF, Chuang TY, Shih YH. Spinal
+cord repair with acidic fibroblast growth factor as a
+treatment for a patient with chronic paraplegia. Spine.
+2004;29:E284-288.
+55 Fawcett JW, Keynes RJ. Peripheral nerve regeneration.
+Annu Rev Neurosci. 1990;13:43-60.
+56 Morrissey TK, Kleitman N, Bunge RP. Isolation and func-
+tional characteristics of Schwann cells derived from
+adult peripheral nerve. J Neuroscience. 1991;11:2433-
+2442.
+57 Xu XM, Chen A, Guenard V, Kleitman N, Bunge MB.
+Bridging Schwann cell transplants promote axonal
+regeneration from both the rostral and caudal stumps of
+transected adult rat spinal cord. J Neurocytol. 1997;26:
+1-16.
+58 Takami T, Oudega M, Bates ML, Wood PM, Kleitman N,
+Bunge MB. Schwann cell but not olfactory ensheathing
+glia transplants improve hindlimb locomotor perfor-
+mance in the moderately contused adult rat thoracic
+spinal cord. J Neurosci. 2002;22:6670-6681.
+59 Bamber NI, Li H, Lu X, Oudega M, Aebischer P, Xu XM.
+Neurotrophins BDNF and NT-3 promote axonal re-entry
+into the distal host spinal cord through Schwann cell-
+seeded mini-channels. Eur J Neurosci. 2001;13:257-268.
+60 Pinzon A, Calancie B, Oudega M, Noga BR. Conduction of
+impulses by axons regenerated in a Schwann cell graft in
+the transected adult rat thoracic spinal cord. J Neurosci
+Res. 2001;64:533-541.
+61 Menei P, Montero-Menei C, Whittemore SR, Bunge RP,
+Bunge MB.Schwann cells genetically modified to secrete
+human BDNF promote enhanced axonal regrowth
+across transected adult rat spinal cord. Eur J Neurosci.
+1998;10:607-621.
+62 Chen A, Xu XM, Kleitman N, Bunge MB. Methylpredni-
+solone administration improves axonal regeneration into
+Schwann cell grafts in transected adult rat thoracic
+spinal cord. Exp. Neurol. 1996;138:261-276.
+63 Ramon-Cueto A, Plant GW, Avila J, Bunge MB. Long-dis-
+tance axonal regeneration in the transected adult rat
+spinal cord is promoted by olfactory ensheathing glia
+transplants. J Neurosci. 1998;18:3803-3815.
+64 Guest JD, Rao A, Olson L, Bunge MB, Bunge RP.The abil-
+ity of human Schwann cell grafts to promote regenera-
+tion in the transected nude rat spinal cord. Exp Neurol.
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 66
+1997;148:502-522.
+65 Emery E, Li X, Brunschwig JP, Olson L, Levi AD. Assess-
+ment of the malignant potential of mitogen stimulated
+human Schwann cells. J Peripher Nerv Syst. 1999;4:107-
+116.
+66 Li Y,Field PM,Raisman G.Repair of adult rat corticospinal
+tract by transplants of olfactory ensheathing glia.
+Science. 1997;277:2000-2002.
+67 Li Y, Field PM, Raisman G. Regeneration of adult rat corti-
+cospinal axons induced by transplanted olfactory
+ensheathing cells. J Neurosci. 1998;18:10514-10524.
+68 Lu J, Feron F, Ho SM, Mackay-Sim A,Waite PM.Transplant-
+ation of nasal olfactory tissue promotes partial recovery
+in paraplegic adult rats. Brain Res. 2001;889:344-357.
+69 Li Y, Decherchi P, Raisman G.Transplantation of olfactory
+ensheathing cells into spinal cord lesions restores
+breathing and climbing. J Neurosci. 2003;23:727-731.
+70 Ramon-Cueto A, Cordero MI, Santos-Benito FF, Avila J.
+Functional recovery of paraplegic rats and motor axon
+regeneration in their spinal cords by olfactory ensheath-
+ing glia. Neuron. 2000;25:425-435.
+71 Moon LDF,Leasure JL,Gage FH,Bunge MB. Motor enrich-
+ment decreases mortality and maintains recovered
+hindlimb movement after thoracic spinal cord injury.
+Manuscript submitted 2005.
+72 Casas CE, Herrera LP, Corredor R, Margitich I, Kim K,
+Guest JD. Non-human primate model of autologous
+olfactory ensheathing glia transplantation following a
+stereotaxic electrolytic lesion of the medullary pyramid.
+Soc Neurosci Abstracts. 2004;184.5.
+73 Bianco JI, Perry C, Harkin DG, Mackay-Sim A, Feron F.
+Neurotrophin 3 promotes purification and proliferation
+of olfactory ensheathing cells from human nose. Glia.
+2004;45:111-123.
+74 Barnett SC,Alexander CL, Iwashita Y, et al. Identification
+of a human olfactory ensheathing cell that can effect
+transplant-mediated remyelination of demyelinated CNS
+axons. Brain. 2000;123(Pt 8):1581-1588.
+75 Huang H,Chen L,Wang H,et al. Influence of patients’ age
+on functional recovery after transplantation of olfactory
+ensheathing cells into injured spinal cord injury. Chin
+Med J (Engl). 2003;116:1488-1491.
+76 Popovich PG, Hickey WF. Bone marrow chimeric rats
+reveal the unique distribution of resident and recruited
+macrophages in the contused rat spinal cord. J Neuro-
+pathol Exp Neurol. 2001;60:676-685.
+77 Popovich PG, Wei P, Stokes BT. Cellular inflammatory
+response after spinal cord injury in Sprague-Dawley and
+Lewis rats. J Comp Neurol. 1997;377:443-464.
+78 George R,Griffin JW.Delayed macrophage responses and
+myelin clearance during Wallerian degeneration in the
+central nervous system: the dorsal radiculotomy model.
+Exp Neurol. 1994;129:225-236.
+79 Rapalino O, Lazarov-Spiegler O, Agranov E, et al.
+Implantation of stimulated homologous macrophages
+results in partial recovery of paraplegic rats. Nat Med.
+1998;4:814-821.
+80 Bomstein Y, Marder JB, Vitner K, et al. Features of skin-
+coincubated macrophages that promote recovery from
+spinal cord injury. J Neuroimmunol. 2003;142:10-16.
+81 Popovich PG, van Rooijen N, Hickey WF, Preidis G,
+McGaughy V. Hematogenous macrophages express CD8
+and distribute to regions of lesion cavitation after spinal
+cord injury. Exp Neurol. 2003;182:275-287.
+82 Popovich PG, Guan Z, McGaughy V, Fisher L, Hickey WF,
+Basso DM.The neuropathological and behavioral conse-
+quences of intraspinal microglial/macrophage activa-
+tion. J Neuropathol Exp Neurol. 2002;61:623-633.
+83 Popovich PG, Guan Z, Wei P, Huitinga I, van Rooijen N,
+Stokes BT. Depletion of hematogenous macrophages
+promotes partial hindlimb recovery and neuroanatomi-
+cal repair after experimental spinal cord injury. Exp
+Neurol. 1999;158:351-365.
+84 Bregman BS, Kunkel-Bagden E, Reier PJ, Dai HN, McAtee
+M, Gao D. Recovery of function after spinal cord injury:
+mechanisms underlying transplant-mediated recovery of
+function differ after spinal cord injury in newborn and
+adult rats. Exp Neurol. 1993;123:3-16.
+85 Reier PJ, Anderson DK, Thompson FJ, Stokes BT. Neural
+tissue transplantation and CNS trauma: anatomical and
+functional repair of the injured spinal cord. J Neuro-
+trauma. 1992;9 Suppl 1:S223-248.
+86 Stokes BT, Reier PJ. Fetal grafts alter chronic behavioral
+outcome after contusion damage to the adult rat spinal
+cord. Exp Neurol. 1992;116:1-12.
+87 Reier PJ, Stokes BT,Thompson FJ,Anderson DK. Fetal cell
+grafts into resection and contusion/compression injuries
+of the rat and cat spinal cord.Exp Neurol. 1992;115:177-
+188.
+88 Houle JD, Skinner RD, Garcia-Rill E,Turner KL. Synaptic
+evoked potentials from regenerating dorsal root axons
+within fetal spinal cord tissue transplants. Exp Neurol.
+1996;139:278-290.
+89 Reier PJ, Anderson DK, Young W, Michel ME, Fessler R.
+Workshop on intraspinal transplantation and clinical
+application. J Neurotrauma. 1994;11:369-377.
+90 Privat A, Mansour H, Geffard M. Transplantation of fetal
+serotonin neurons into the transected spinal cord of
+adult rats: morphological development and functional
+influence. Prog Brain Res. 1988;78:155-166.
+91 Ribotta MG,Provencher J,Feraboli-Lohnherr D,Rossignol
+S, Privat A, Orsal D. Activation of locomotion in adult
+chronic spinal rats is achieved by transplantation of
+embryonic raphe cells reinnervating a precise lumbar
+level. J Neurosci. 2000;20:5144-5152.
+92 Coumans JV, Lin TT, Dai HN, et al. Axonal regeneration
+and functional recovery after complete spinal cord tran-
+section in rats by delayed treatment with transplants and
+neurotrophins. J Neurosci. 2001;21:9334-9344.
+93 Thompson FJ, Reier PJ, Uthman Mott S, et al. Neuro-phys-
+iological assessment of the feasibility and safety of neural
+tissue transplantation in patients with syringo-myelia. J
+67 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+Neurotrauma. 2001;18:931-945.
+94 Wirth ED III, Reier PJ, Fessler RG, et al. Feasibility and
+safety of neural tissue transplantation in patients with
+syringomyelia. J Neurotrauma. 2001;18:911-29.
+95 Cao Q, Benton RL, Whittemore SR. Stem cell repair of
+central nervous system injury. J Neurosci Res. 2002;68:
+501-510.
+96 Saporta S,Kim JJ,Willing AE,Fu ES,Davis CD,Sanberg PR.
+Human umbilical cord blood stem cells infusion in
+spinal cord injury: engraftment and beneficial influence
+on behavior. J Hematother Stem Cell Res. 2003;12:271-
+278.
+97 Ankeny DP, McTigue DM, Jakeman LB. Bone marrow
+transplants provide tissue protection and directional
+guidance for axons after contusive spinal cord injury in
+rats. Exp Neurol. 2004;190:17-31.
+98 McDonald JW,Liu XZ,Qu Y,et al.Transplanted embryonic
+stem cells survive, differentiate and promote recovery in
+injured rat spinal cord. Nat Med. 1999;5: 1410-1412.
+99 Stepanov GA, Karpenko DO, Aleksandrova MA, et al.
+Xenotransplantation of stem/progenitor cells from
+human fetal brain to adult rats with spinal trauma. Bull
+Exp Biol Med. 2003;135:397-400.
+100 Akesson E, Holmberg L, Jonhagen ME, et al A. Solid
+human embryonic spinal cord xenografts in acute and
+chronic spinal cord cavities: a morphological and func-
+tional study. Exp Neurol. 2001;170:305-316.
+101 Lu P, Jones LL,Snyder EY,Tuszynski MH.Neural stem cells
+constitutively secrete neurotrophic factors and promote
+extensive host axonal growth after spinal cord injury.
+Exp Neurol. 2003;181:115-129.
+102 Liu S, Qu Y, Stewart TJ, et al. Embryonic stem cells differ-
+entiate into oligodendrocytes and myelinate in culture
+and after spinal cord transplantation. Proc Natl Acad Sci
+USA. 2000;97:6126-6131.
+103 Ogawa Y, Sawamoto K, Miyata T, et al.Transplantation of
+in vitro-expanded fetal neural progenitor cells results in
+neurogenesis and functional recovery after spinal cord
+contusion injury in adult rats. J Neurosci Res. 2002;69:
+925-933.
+104 Hill CE, Proschel C, Noble M, et al. Acute transplantation
+of glial-restricted precursor cells into spinal cord contu-
+sion injuries: survival, differentiation, and effects on
+lesion environment and axonal regeneration. Exp
+Neurol. 2004;190:289-310.
+105 Han SS, Kang DY, Mujtaba T, Rao MS, Fischer I. Grafted
+lineage-restricted precursors differentiate exclusively
+into neurons in the adult spinal cord. Exp Neurol. 2002;
+177:360-375.
+106 Cao QL, Howard RM, Dennison JB, Whittemore SR.
+Differentiation of engrafted neuronal-restricted precur-
+sor cells is inhibited in the traumatically injured spinal
+cord. Exp Neurol. 2002;177:349-359.
+107 Iwanami A, Kaneto S, Nakamura M, et al. Transplantation
+of human neural stem cells for spinal cord injury in pri-
+mates. J Neurosci Res. 2005;80:182-190.
+108 Wildenfalk J, Lundstromer K, Jubran M, Brene S, Olson L.
+Neurotrophic factors and receptors in the immature and
+adult spinal cord after mechanical injury or kainic acid.
+J Neurosci. 2001;21:3457-3475.
+109 Liebl DJ, Huang W,Young W, Parada LF. Regulation of Trk
+receptors following contusion of the rat spinal cord.Exp
+Neurol. 2001;167:15-26.
+110 Bradbury EJ, Khemani S, King VR, Priestley JV, McMahon
+SB. NT-3 promotes growth of lesioned adult rat sensory
+axons ascending in the dorsal columns of the spinal
+cord. Eur J Neurosci. 1999;11:3873-3883.
+111 Guest JD, Hesse D, Schnell L, Schwab ME, Bunge MB,
+Bunge RP. Influence of IN-1 antibody and acidic FGF-fib-
+rin glue on the response of injured corticospinal tract
+axons to human Schwann cell grafts. J Neurosci Res.
+1997;50:888-905.
+112 Liu Y, Himes T, Murray M, Tessler A, Fischer I. Grafts of
+BDNF-producing fibroblasts rescue axotomized rubro-
+spinal neurons and prevent their atrophy. Exp Neurol.
+2002;178:150-164.
+113 Grill R, Murai K, Blesch A, Gage FH, Tuszynski MH.
+Cellular delivery of neurotrophin-3 promotes corti-
+cospinal axonal growth and partial functional recovery
+after spinal cord injury. J Neurosci. 1997;17:5560-5572.
+114 Liu Y, Kim D, Himes T, et al Transplants of fibroblasts
+genetically modified to express BDNF promote regener-
+ation of adult rat rubrospinal axons and recovery of fore-
+limb function. J Neurosci. 1999;19:4370-4387.
+115 Tuszynski MH, Grill R, Jones LL, McKay HM, Blesch A.
+Spontaneous and augmented growth of axons in the pri-
+mate spinal cord: effects of local injury and nerve
+growth factor-secreting cell grafts. J Comp Neurol.2002;
+449:88-101
+116 Apfel SC. Is the therapeutic application of neurotrophic
+factors dead? Ann Neurol. 2002;51:8-11.
+117 Shearer MC, Fawcett JW. The astrocyte/meningeal cell
+interface-a barrier to successful nerve regeneration? Cell
+Tissue Res. 2001;305:267-273.
+118 Silver J,Miller JH.Regeneration beyond the glial scar. Nat
+Rev Neurosci. 2004;5:146-156.
+119 Moon LD, Asher RA, Rhodes KE, Fawcett JW.
+Regeneration of CNS axons back to their target follow-
+ing treatment of adult rat brain with chondroitinase ABC.
+Nat Neurosci. 2001;4:465-466.
+120 Bradbury EJ, Moon LD, Popat RJ, et al. Chondroitinase
+ABC promotes functional recovery after spinal cord
+injury. Nature. 2002;416:636-640.
+121 Yick LW,Wu W, So KF,Yip HK, Shum DK. Chondroitinase
+ABC promotes axonal regeneration of Clarke’s neurons
+after spinal cord injury. Neurol Report. 2000;11:1063-
+1067.
+122 Chau CH, Shum DK, Li H, et al. Chondroitinase ABC
+enhances axonal regrowth through Schwann cell-seeded
+guidance channels after spinal cord injury. FASEB J.
+2004;18:194-196.
+Vol. 29  •  No. 2  •  2005 Journal of Neurological Physical Therapy 68
+123 Fouad K, Schnell L, Bunge MB, Schwab ME, Liebscher T,
+Pearse DD. Combining Schwann cell bridges and olfac-
+tory-ensheathing glia grafts with chondroitinase pro-
+motes locomotor recovery after complete transection of
+the spinal cord. J Neurosci. 2005;25:1169-1178.
+124 Caggiano AO, Zimber MP, Ganguly A, Blight AR, Gruskin
+EA. Chondroitinase ABCI improves locomotion and blad-
+der function following contusion injury of the rat spinal
+cord. J Neurotrauma. 2005;22:226-239.
+125 Seikagaku Annual Report 2003. Available at: http://
+www.seikagaku.co.jp/annual/2003/pdf/ar03_03.pdf.
+Accessed April 14, 2005.
+126 Schwab ME. Nogo and axon regeneration. Curr Opin
+Neurobiol. 2004;14:118-124.
+127 Schnell L, Schwab ME. Sprouting and regeneration of
+lesioned corticospinal tract fibres in the adult rat spinal
+cord. Eur J Neurosci. 1993;5:1156-1171.
+128 Bregman BS, Kunkel-Bagden E, Schnell L, Dai HN, Gao D,
+Schwab ME. Recovery from spinal cord injury mediated
+by antibodies to neurite growth inhibitors. Nature.
+1995;378:498-501.
+129 Schnell L, Schneider R, Kolbeck R, Barde YA, Schwab ME.
+Neurotrophin-3 enhances sprouting of corticospinal
+tract during development and after adult spinal cord
+lesion. Nature. 1994;367:170-173.
+130 Thallmair M, Metz GA, Z’Graggen WJ, Raineteau O, Kartje
+GL, Schwab ME. Neurite growth inhibitors restrict plas-
+ticity and functional recovery following corticospinal
+tract lesions. Nat Neurosci. 1998;1:124-131.
+131 Z’Graggen WJ, Metz GA, Kartje GL,Thallmair M, Schwab
+ME.Functional recovery and enhanced corticofugal plas-
+ticity after unilateral pyramidal tract lesion and blockade
+of myelin-associated neurite growth inhibitors in adult
+rats. J Neurosci. 1998;18:4744-4757.
+132 Fouad K, Klusman I, Schwab ME. Regenerating corti-
+cospinal fibers in the Marmoset (Callitrix jacchus) after
+spinal cord lesion and treatment with the anti-Nogo-A
+antibody IN-1. Eur J Neurosci. 2004;20:2479-2482.
+133 Wiessner C, Bareyre FM,Allegrini PR, et al. Anti-Nogo-A
+antibody infusion 24 hours after experimental stroke
+improved behavioral outcome and corticospinal plastic-
+ity in normotensive and spontaneously hypertensive
+rats. Cereb Blood Flow Metab. 2003;23:154-165.
+134 Schnell L, Liebscher T,Weinmann O,Schneider R,Scholl J,
+Schnell DM. Increased regeneration and functional
+recovery in rats treated with antibodies to Nogo-A and in
+Nogo-A knockout mice. Soc Neurosci Abstracts. 2004:
+43.11.
+135 Chierzi S, Strettoi E, Cenni MC, Maffei L. Optic nerve
+crush:axonal responses in wild-type and bcl-2 transgenic
+mice. J Neurosci. 1999;19:8367-8376.
+136 Oudega M,Rosano C,Sadi D,Wood PM,Schwab ME,Hagg
+T. Neutralizing antibodies against neurite growth
+inhibitor NI-35/250 do not promote regeneration of sen-
+sory axons in the adult rat spinal cord. Neuroscience.
+2000;100:873-883.
+137 Merkler D, Metz Ga, Raineteau O, Dietz V, Schwab ME,
+Fouad K. Locomotor recovery in spinal cord-injured rats
+treated with an antibody neutralizing the myelin-associ-
+ated neurite growth inhibitor Nogo-A. J Neurosci.
+2001;21:3665-3673.
+138 GrandPre T, Li S, Strittmatter SM. Nogo-66 receptor antag-
+onist peptide promotes axonal regeneration. Nature.
+2002;417:547-551.
+139 Li S, Strittmatter SM. Delayed systemic Nogo-66 receptor
+antagonist promotes recovery from spinal cord injury. J
+Neurosci. 2003;23:4219-4227.
+140 Cao Y, Shumsky JS, Sabol MA, Kushner RA, Tessler A,
+Strittmatter S. Nogo-66 receptor antagonist peptide
+(NEP1-40) promotes functional recovery after spinal
+cord injury. Soc Neurosci Abstracts. 2004:185.13.
+141 Cai D, Qiu J, Cao Z, McAtee M, Bregman BS, Filbin MT.
+Neuronal cyclic AMP controls the developmental loss in
+ability of axons to regenerate. J Neurosci. 2001;21:4731-
+4739.
+142 Qiu J,Cai D,Dai H,et al.Spinal axon regeneration induced
+by elevation of cyclic AMP. Neuron. 2002;34: 895-903.
+143 Neumann S, Bradke F, Tessier-Lavigne M, Basbaum AI.
+Regeneration of sensory axons within the injured spinal
+cord induced by intraganglionic cAMP elevation.
+Neuron. 2002;34:885-893.
+144 Lu P, Yang H, Jones LL, Filbin MT, Tuszynski MH.
+Combinatorial therapy with neurotrophins and cAMP
+promotes axonal regeneration beyond sites of spinal
+cord injury. J Neurosci. 2004;24:6402-6409.
+145 Bhatt DH, Otto SJ, Depoister B, Fetcho JR. Cyclic AMP-
+induced repair of zebrafish spinal circuits. Science.
+2004;305:254-258.
+146 Pearse DD, Pereira FC, Marcillo AE, Bates et al. cAMP and
+Schwann cells promote axonal growth and functional
+recovery after spinal cord injury. Nat Med. 2004;10: 610-
+616.
+147 Nikulina E,Tidwell JL,Dai HN,Bregman BS,Filbin MT.The
+phosphodiesterase inhibitor rolipram delivered after a
+spinal cord lesion promotes axonal regeneration and
+functional recovery. Proc Natl Acad Sci USA. 2004;101:
+8786-8790.
+148 Jain A, Brady-Kalnay SM, Bellamkonda RV. Modulation of
+Rho GTPase activity alleviates chondroitin sulfate pro-
+teoglycan-dependent inhibition of neurite extension. J
+Neurosci Res. 2004;77:299-307.
+149 Schweigreiter R,Walmsley AR, Niederost B, et al.Versican
+V2 and the central inhibitory domain of Nogo-A inhibit
+neurite growth via p75NTR/NgR-independent pathways
+that converge at RhoA. Mol Cell Neurosci. 2004;27:163-
+174.
+150 Erschbamer MK, Hofstetter CP, Olson L. RhoA, RhoB,
+RhoC,Rac1,Cdc42,and Tc10 mRNA levels in spinal cord,
+sensory ganglia, and corticospinal tract neurons and
+long-lasting specific changes following spinal cord
+injury. J Comp Neurol. 2005; 484;224-233.
+69 Journal of Neurological Physical Therapy Vol. 29  •  No. 2  •  2005
+151 Niederost B, Oertle T, Fritsche J, McKinney RA, Bandtlow
+CE. Nogo-A and myelin-associated glycoprotein mediate
+neurite growth inhibition by antagonistic regulation of
+RhoA and Rac1. J Neurosci. 2002;22: 10368-10376.
+152 Dubreuil CI, Winton MJ, McKerracher L. Rho activation
+patterns after spinal cord injury and the role of activated
+Rho in apoptosis in the central nervous system. J Cell
+Biol. 2003;162:233-243.
+153 Fournier AE, Takizawa BT, Strittmatter SM. Rho kinase
+inhibition enhances axonal regeneration in the injured
+CNS. J Neurosci. 2003;23:1416-1423.
+154 Bulsara KR, Iskandar BJ,Villavicencio AT, Skene JH.A new
+millenium for spinal cord regeneration: growth-associ-
+ated genes. Spine. 2002;27:1946-1949.
+155 Tetzlaff W,Alexander SW, Miller FD, Bisby MA. Response
+of facial and rubrospinal neurons to axotomy:changes in
+mRNA expression for cytoskeletal proteins and GAP-43.
+J Neurosci. 1991;11:2528-2544.
+156 Woolf CJ, Reynolds ML, Molander C, O’Brien C, Lindsay
+RM, Benowitz LI.The growth-associated protein GAP-43
+appears in dorsal root ganglion cells and in the dorsal
+horn of the rat spinal cord following peripheral nerve
+injury. Neurosci. 1990;34:465-478.
+157 Tetzlaff W, Zwiers H, Lederis K, Cassar L, Bisby MA.
+Axonal transport and localization of B-50/GAP-43-like
+immunoreactivity in regenerating sciatic and facial
+nerves of the rat. J Neurosci. 1989;9:1303-1313.
+158 Mason MR, Lieberman AR, Grenningloh G,Anderson PN.
+Transcriptional upregulation of SCG10 and CAP-23 is
+correlated with regeneration of the axons of peripheral
+and central neurons in vivo. Mol Cell Neurosci. 2002;
+20:595-615.
+159 Chaisuksunt V, Campbell G, Zhang Y, Schachner M,
+Lieberman AR,Anderson PN. Expression of regeneration-
+related molecules in injured and regenerating striatal
+and nigral neurons. J Neurocytol. 2003;32:161-183.
+160 Chaisuksunt V, Zhang Y,Anderson PN, et al.Axonal regen-
+eration from CNS neurons in the cerebellum and brain-
+stem of adult rats: correlation with the patterns of
+expression and distribution of messenger RNAs for L1,
+CHL1, c-jun and growth-associated protein-43. Neurosci-
+ence. 2000;100:87-108.
+161 Campbell G,Hutchins K,Winterbottom J,Grenningloh G,
+Lieberman AR, Anderson PN. Upregulation of activating
+transcription factor 3 (ATF3) by intrinsic CNS neurons
+regenerating axons into peripheral nerve grafts. Exp
+Neurol. 2005;193:340-347.
+162 Chong MS, Woolf CJ, Turmaine M, Emson PC, Anderson
+PN. Intrinsic versus extrinsic factors in determining the
+regeneration of the central processes of rat dorsal root
+ganglion neurons: the influence of a peripheral nerve
+graft. J Comp Neurol. 1996;370:97-104.
+163 Bomze HM, Bulsara KR, Iskandar BJ, Caroni P, Skene JH.
+Spinal axon regeneration evoked by replacing two
+growth cone proteins in adult neurons. Nat Neurosci.
+2001;4:38-43.
+164 Costigan M, Befort K, Karchewski L, et al. Replicate high-
+density rat genome oligonucleotide microarrays reveal
+hundreds of regulated genes in the dorsal root ganglion
+after peripheral nerve injury. BMC Neurosci. 2002;3:16.
+165 Moon LDF, Torres-Munoz JE, Petito CK, et al. Identifica-
+tion of genes expressed by laser captured spinal cord
+neurons regenerating an axon into a Schwann cell bridge
+transplanted after thoracic transection. In press. Society
+for Neuroscience Abstracts 2005.
+166 De Leon RD, Hodgson JA, Roy RR, Edgerton VR.
+Locomotor capacity attributable to step training versus
+spontaneous recovery after spinalization in adult cats. J
+Neurophysiol. 1998;79:1329-1340.
+167 Lankhorst AJ, ter Laak MP, van Laar TJ, et al. Effects of
+enriched housing on functional recovery after spinal
+cord contusive injury in the adult rat. J Neurotrauma.
+2001;18:203-215.
+168 Van Meeteren NL, Eggers R, Lankhorst AJ, Gispen WH,
+Hamers FP. Locomotor recovery after spinal cord contu-
+sion injury in rats is improved by spontaneous exercise.
+J Neurotrauma. 2004; 20:1029-1037.
+169 Hutchinson KJ, Gomez-Pinilla F, Crowe MJ,Ying Z, Basso
+DM.Three exercise paradigms differentially improve sen-
+sory recovery after spinal cord contusion in rats. Brain.
+2004;127:1403-1414.
+170 Wernig A, Muller S. Laufband locomotion with body
+weight support improved walking in persons with
+severe spinal cord injuries.Paraplegia.1992;30:229-238.
+171 Behrman AL, Harkema SJ. Locomotor training after
+human spinal cord injury: a series of case studies. Phys
+Ther. 2000;80:688-700.
+172 Field-Fote EC,Tepavac D. Improved intralimb coordina-
+tion in people with incomplete spinal cord injury fol-
+lowing training with body weight support and electrical
+stimulation. Phys Ther. 2002;82:707-715.
+173 McDonald JW, Becker D, Sadowsky CL, Jane JA Sr,
+Conturo TE, Schultz LM. Late recovery following spinal
+cord injury. Case report and review of the literature. J.
+Neurosurg. 2002;97:252-265.
+174 Kleitman N.Keeping promises: translating basic research
+into new spinal cord injury therapies. J Spinal Cord
+Med. 2004;27:311-318.
+175 Hofstetter CP,Holmstrom NA,Lilja JA,et al. Allodynia lim-
+its the usefulness of intraspinal neural stem cell grafts;
+directed differentiation improves outcome. Nat
+Neurosci. 2005;8:346-353.
+176 Romero MI, Rangappa N, Li L, Lightfoot E, Garry MG,
+Smith GM. Extensive sprouting of sensory afferents and
+hyperalgesia induced by conditional expression of nerve
+growth factor in the adult spinal cord. J Neurosci.
+2000;20:4435-4445.
+177 Widerstrom-Noga EG,Turk DC.Types and effectiveness
+of treatments used by people with chronic pain associ-
+ated with spinal cord injuries: influence of pain and
+psychosocial characteristics. Spinal Cord. 2003;41:600-
+609.

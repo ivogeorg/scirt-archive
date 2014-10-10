@@ -1,0 +1,703 @@
+fr
+ T
+Available online at www.sciencedirect.com
+ttreatment of SCI, because they have the potential to
+replace lost neurons and glia, and to restore disrupted
+connectivity at lesion sites. Recently we have come to
+appreciate that grafts of NSCs to spinal cord lesion sites
+are able to extend numerous new axons into the host
+spinal cord for long distances, and to receive inputs from
+injured host axons. On the basis of this bi-directional
+growth of axons and establishment of reciprocal synapses,
+NSCs form new relays between separated segments of
+the spinal cord after injury (Fig. 1).
+of genetic models available in mice. One early study in a
+mouse model reported that embryonic mouse hippo-
+campal neurons grafted into the intact rat cervical corti-
+cospinal tract extended long, straight, and uniform axons
+into host spinal cord white matter for distances as long as
+8 mm (using a mouse specific marker, M6) [8]. The
+extension of the donor axons was confirmed by retrograde
+labeling with horseradish peroxidase. The graft-derived
+axons were intermingled with the host myelinated axons.
+Thus, this study was an early indicator that adult myelin is
+www.sciencedirect.com Current Opinion in Neurobiology 2014, 27:103–109Axonal growth and connectivity 
+models of spinal cord injury
+Paul Lu1,2, Ken Kadoya2 and Mark H
+Spinal cord injury (SCI) damages both gray matter and white
+matter, but white matter damage is responsible for the vast
+majority of the subsequent functional loss. Neural stem cells
+(NSCs) have been investigated as a means of improving
+outcomes after SCI, either through neuroprotective
+properties that limit secondary damage or by direct cell
+replacement. This review will focus on cell replacement
+strategies, and the ability of multipotent NSCs to form new
+functional synaptic relays across sites of even severe SCI.
+The ability of these early stage neurons to extend axons from
+the lesion site in large numbers and over long distances
+constitutes an important mechanism underlying their
+potential to promote neural repair.
+Addresses
+1 Veterans Administration Medical Center, San Diego, CA, United States
+2Department of Neurosciences, University of California – San Diego, La
+Jolla, CA, United States
+Corresponding author: Tuszynski, Mark H (mtuszynski@ucsd.edu)
+Current Opinion in Neurobiology 2014, 27:103–109
+This review comes from a themed issue on Development and
+regeneration
+Edited by Oscar O Marı́n and Frank F Bradke
+For a complete overview see the Issue and the Editorial
+Available online 5th April 2014
+0959-4388/$ – see front matter, # Published by Elsevier Ltd.
+http://dx.doi.org/10.1016/j.conb.2014.03.010
+Introduction
+Spinal cord injury (SCI) results in the death of neurons at
+the injury site and the loss of axons that carry signals to
+and from the brain. Axons of the injured adult central
+nervous system (CNS) exhibit little ability to spon-
+taneously regenerate, often resulting in permanent func-
+tional deficits below the level of injury [1]. For more than
+a decade, neural stem cells (NSCs) or neural precursor
+cells (NPCs) have been an attractive cell source for the
+ScienceDirecom neural stem cell grafts in
+uszynski1,2
+NSCs or NPCs can be isolated from the developing CNS,
+or derived from pluripotent stem cells, including embryo-
+nic stem (ES) cells or induced pluripotent stem (iPS)
+cells. Here, we systematically review NSC transplan-
+tation studies in SCI research, with an emphasis on axonal
+growth and connectivity between transplanted and
+injured host neurons. We conclude by discussing future
+challenges in the field of NSC transplantation for SCI.
+Axonal projections arising from neural stem
+cell grafts
+There is an extensive history of CNS tissue grafting in
+models of SCI [2,3,4]. Early studies demonstrated axonal
+projections from grafted tissue into host for distances as
+long as 4–5 mm, using both anterograde and retrograde
+axonal labeling techniques [3]. Intrinsic cellular markers
+and reporters, such as green fluorescent protein (GFP)
+and alkaline phosphatase (AP), may be more reliable
+methods for labeling axons emerging from neural
+implants than tracer injections. These cell-intrinsic repor-
+ters are often readily visualized, and are less prone to
+errors and misinterpretation arising from tracer mis-tar-
+geting or spread [5]. Fischer’s group was among the first to
+use cell reporters to trace axons arising from NSC
+implants, and observed axonal outgrowth from grafts of
+rat embryonic day 14 (E14) fetal spinal cord tissue expres-
+sing alkaline phosphatase for distances of 5 mm in the
+injured spinal cord [6], although there was considerable
+variation among animals. They also found that cells
+isolated from the developing spinal cord at the neuronal
+restricted precursor (NRP) stage failed to extend appreci-
+able numbers of axons into the host spinal cord 3–5 weeks
+post-transplantation [6]. Axons will, however, emerge in
+greater numbers from NRP cell implants when attracted
+by the neurotrophic factor brain derived neurotrophic
+factor (BDNF), injected adjacent to the implant [7].
+Many studies have examined the role of NSCs in rat
+models of SCI. Some studies have also utilized mouse
+models, a potential advantage when considering the array
+104 Development and RegenerationFig. 1
+Reticulospinal
+tract
+NSC
+graft
+DRG
+neuron Motor
+neuronnot necessarily inhibitory to the extension of developing
+axons. Other studies grafting mouse NSCs into spinal
+cord lesion models yielded less clear evidence of axonal
+growth, however, possibly due to limited graft survival,
+glial differentiation of implanted cells [9], cell immorta-
+lization [10], or inhibitory effects of glia or myelin sur-
+rounding the lesion site [11].
+Recently, we initiated a series of studies to more
+thoroughly explore the hypothesis that early stage
+neurons would exhibit an ability to extend axons in the
+lesioned adult CNS, even after severe forms of injury
+[12]. To approach this question, we adopted a few
+changes from previous studies. First, we used NSCs or
+multipotent NPCs that robustly expressed enhanced
+GFP (EGFP), to allow unequivocal tracking of cell sur-
+vival, fate and axonal extension in vivo. Second, because
+we were grafting cells into a severe injury model, we
+directed considerable effort toward developing methods
+to enhance graft cell survival, retention and filling of even
+severe lesion sites. This was accomplished by grafting
+cells in a fibrin matrix that retained cells in the large lesion
+site, and by grafting cells with a protein cocktail of growth
+factors to support cell survival and vascular ingrowth
+Current Opinion in Neurobiology
+Diagram of a neuronal relay formation by transplanted NSCs after SCI.
+Descending supraspinal axons (a reticulospinal axon as an example, red)
+regenerate into and make synaptic connections with grafted neurons
+(green) in the lesion site. Grafted neurons extend their axons (green) into
+caudal host spinal cord and make synaptic connection with host
+neurons (a motor neuron as an example, yellow). Similarly, grafted
+neurons can make functional relay for ascending sensory system (a
+dorsal root ganglion (DRG) neuron as an example, blue).
+Current Opinion in Neurobiology 2014, 27:103–109 (Fig. 2) [12]. Without the cocktail, graft filling of the
+lesion site was incomplete and did not allow the formation
+of neural relays from host to graft, and graft to host.
+We began these studies by using donor cells from the E14
+spinal cord, which consists of a mixture of NSCs and cells
+committed to either neuronal fates (NRPs) or glial fates
+(glial restricted precursors, GRPs) [6,12]. Cells at the
+NPC stage are capable of continuing to divide for several
+times to generate additional cells, but they do not con-
+tinue to propagate a NSC population. The NPCs were
+isolated from fresh E14 spinal cords, dissociated gently
+with trypsin, and immediately grafted into sites of complete
+T3 spinal cord transection, in a fibrin matrix with growth
+factor cocktail (Fig. 2). We did not culture the cells before
+grafting, because additional culture time results in an
+attenuation of the ability of grafted neurons to extend
+axons after grafting in vivo. Cells were isolated from
+Fischer 344 rat embryos and grafted into adult Fischer
+344 rats; because this rat strain is inbred, immunosuppres-
+sion was not needed. This study was one of the few in the
+SCI literature that used a complete transection model; the
+model has generally been avoided because of the diffi-
+culty in achieving cell survival and altering injury-associ-
+ated anatomical and functional losses.
+When examined 7 weeks later, grafted rat NSCs and
+NPCs consistently filled the complete transection site.
+The implanted cells differentiated into neurons, astro-
+cytes and oligodendrocytes in roughly equal proportions.
+Most importantly, grafted neurons extended very large
+numbers of axons into the host spinal cord both rostral and
+caudal direction to the lesion [12]. Remarkably, the
+progenitor cell-derived axons grew for distances of more
+than 20 mm (7 spinal segments) in the rostral direction
+and 27 mm (9 segments) in the caudal direction. We
+conservatively quantified 29.000 GFP-labeled axons emer-
+ging from the graft in the caudal direction, at a distance
+0.5 mm caudal to the lesion. In addition, 22% of progeni-
+tor cell-derived axons became myelinated by host oligo-
+dendrocytes at a distance 3 mm caudal to the graft
+(unpublished data). A time course study demonstrated
+that graft-derived axons grew at a rapid rate of 1-2 mm/
+day along host white matter at early stages [12]. These
+findings established very clearly that developing neurons
+are able to extend axons over very long distances in the
+adult CNS, even when intimately associated with adult
+myelin membranes from host axons.
+Other studies have demonstrated that adult-derived
+NSCs also survive grafting to sites of SCI. The subven-
+tricular zone and hippocampal fissure are sites of ongoing
+neurogenesis throughout life, providing neurons to the
+olfactory bulb and hippocampus, respectively [13]. NSCs
+were harvested from both of these structures and grafted
+to the spinal cord [14–17]. While some cells survive
+grafting, almost all grafted cells adopted glial fates, and
+www.sciencedirect.com
+Axonal growth of neural stem cell graft after spinal cord injury Lu, Kadoya and Tuszynski 105
+CsFig. 2
+(a)
+(c)
+Fibrin /NS 
+Fibrinogen
+NSCs
+GFsmany cells expressed oligodendroglial markers and in
+some cases myelinated host axons. When comparing
+findings from these studies to studies that grafted devel-
+oping rather than adult stem cells, it is evident that the
+age, source and method of cell grafting to sites of SCI has
+a profound effect on cell survival, differentiation and
+ability to extend axons.
+The preceding studies used NSCs isolated from rodents.
+Human NSCs have also been grafted to the rodent
+nervous system in an effort to determine whether human
+NSCs can also be harvested and grafted, and whether
+they exert detectable effects in the nervous system.
+Wictorin and Bjorklund [18] grafted human fetal spinal
+cord-derived cell suspensions from weeks 6 to 7 of human
+development into the spinal cords of adult rats. Grafts
+were placed both one spinal cord segment above or below
+a partial lesion site. They found partial graft survival and
+extension of human axons into host white matter; most
+axons grew for lengths of 3–4 mm, but a few axons
+extended for distances as long as 10 mm, 3–4 months
+post-grafting. However, human cells were implanted into
+undamaged spinal cord parenchyma surrounding the
+lesion site, and cells were not implanted in the actual
+Transplantation of neural stem cells with fibrin and growth factors to retain an
+(A) Neural stem cells (NSCs) are first re-suspended into a Fibrinogen matrix 
+cord lesion site. (B) A separate companion batch of NSCs is re-suspended i
+and injected into the spinal cord injury site immediately following the first in
+Fibrin with the growth factor cocktail (GFs) to retain and support graft surviv
+www.sciencedirect.com (b)
+ /GFs
+Thrombin
+NSCs
+GFslesion site [18]. Wictorin and colleagues also reported long
+distance growth of human forebrain-derived axons that
+were grafted into the rat brain [19].
+Giovanini and colleagues [20] conducted a more in-depth
+characterization of human fetal spinal cord transplan-
+tation into rat adult SCI. In contrast to the previous
+findings, human graft-derived axons rarely extended into
+host white matter. Instead, human dendrites and some
+axons projected into host gray matter over short distances
+[20]. The rare growth of human axons into the host may
+have been related to poor graft survival and integration
+into the lesion site, since immunosuppression was not
+reported in this xenograft study.
+Recent studies have grafted human fetal nervous system-
+derived NSCs in rodent and primate models of SCI
+[21,22,23,24]. These studies focused on the differen-
+tiation of the grafted human cells, and did not label cells
+with markers that could sensitively detect axonal out-
+growth from grafts. Graft survival was relatively modest,
+and labeling for human-specific neurofilament disclosed
+only short distance growth of human axons from grafts in
+the lesion site [23].
+Current Opinion in Neurobiology
+d support their survival, growth, and differentiation after spinal cord injury.
+containing a growth factor cocktail (GFs) and are injected into the spinal
+nto a Thrombin matrix containing the same growth factor cocktail (GFs),
+jection. (C) The mixture of Fibrinogen and Thrombin forms a solid gel of
+al and growth.
+Current Opinion in Neurobiology 2014, 27:103–109
+106 Development and RegenerationFig. 3
+(a)
+(b)Given our findings that rat NSCs/NPCs could extend
+many axons for very long distances in the severely injured
+spinal cord [12], we also examined whether human
+NSCs exhibited similar properties when grafted in a fibrin
+matrix and supporting growth factor cocktail. Human
+NSCs were isolated from two sources: the human
+embryonic spinal cord [24] and the ES cell lines HUES7
+[25]. These cells were grafted into severe spinal cord
+lesion sites in immuno-deficient rats. Robust long-dis-
+tance axonal growth was evident 7–12 weeks post-grafting
+(Fig. 3) [12]. Indeed, the amount and distance over
+which human axons extended exceeded observations
+from grafts of donor rodent NSCs, perhaps because of
+the prolonged developmental period of the human com-
+pared to the rat. Axons extended over a distance of 50 mm
+into the spinal cord caudal to the lesion site, and 30 mm
+rostral to the lesion site. Indeed, axons densely extended
+into the brainstem from grafts placed at the mid-cervical
+level. Recent studies by others confirmed that human
+spinal cord-derived NSCs extend axons from a spinal cord
+Growth of human ES cells-derived neural stem cells in sites of spinal cord inju
+of C5 hemisection SCI. Horizontal section immunolabeled for GFP and Neu
+localized with Tuj1) extending caudally into the host spinal cord. (B and C) 
+axonal growth in host (B) white matter and (C) gray matter (region of NeuN 
+Current Opinion in Neurobiology 2014, 27:103–109 (c)
+c
+b
+NeuN
+GFPlesion site in rats [26,27]. Thus, the ability of developing
+neurons to extend axons in large numbers and over long
+distances through inhibitory white matter extends across
+species, including humans.
+The recent development of iPS cells can serve as an
+alternative stem cell source for generation of NSCs [28].
+The advantage of iPS cells over ES cells is that iPS cells
+are adult-derived and can be transplanted autologously to
+avoid both ethical concerns and, potentially, immune
+rejection. Human iPS cell-derived NSCs have been
+transplanted into rodent models of SCI, where they have
+been reported to differentiate into both neurons and glia
+in several recent studies [29,30,31]. However, axonal
+growth and connectivity from human iPS cell grafts has
+not reported. We recently grafted human NSCs derived
+from iPS cells into mid-cervical spinal cord lesion sites in
+adult immunodeficient rats. We found, once again, exten-
+sive axonal outgrowth from the injury site into virtually all
+regions of the spinal cord caudal and rostral to the injury
+Current Opinion in Neurobiology
+ry. (A) GFP-labeled human ES cells-derived NSCs were grafted into sites
+N demonstrate remarkably large numbers of GFP-labeled axons (co-
+Higher magnification view from boxed area of panel A showing human
+labeling). Scale bar: A, 600 mm; (B and C), 22 mm.
+www.sciencedirect.com
+Axonal growth of neural stem cell graft after spinal cord injury Lu, Kadoya and Tuszynski 107site (Lu et al., unpublished result). Indeed, human axons
+traveled virtually the entire rostral-to-caudal length of the
+rat CNS.
+Connectivity and function of axons arising
+from neural stem cell grafts
+Several studies have reported connectivity and functional
+recovery after grafting various types of NSCs to sites of
+SCI, although the strength of evidence supporting these
+reports varies across studies. The first study that grafted
+mouse ES cell-derived NSCs to a site of contusive rat SCI
+reported functional recovery, but provided no detailed
+mechanism [32]. However, only 8% of grafted cells
+became neurons in this study, and there was no labeling
+of neuronal processes. Another study also reported a slight
+improvement in motor function after grafting human
+NSCs to a moderately severe contusive injury, and this
+recovery was abolished by eliminating the grafted cells by
+diphtheria toxin administration [23]. However, cell sur-
+vival in this study was modest and axonal outgrowth from
+the graft was not assessed. Neuroprotection may have
+been a mechanism supporting the functional outcome.
+Several studies focused on grafting cells derived from
+human ES cells and driven to more specific fate, such as
+oligodendrocyte precursor cells (OPCs) [33,34,35]. Mod-
+est functional benefits were reported and grafted cells
+were shown to partially remyelinate host axons spared by
+after partial injuries. These studies led to the first clinical
+trial of human ES-derived cells for SCI in the United
+States [36]. After enrolling four patients, the clinical trial
+was abandoned by the sponsoring company, Geron.
+In our own work with grafts of either rodent or human
+NSCs described in the preceding section, we found that
+graft-derived axons grew in highly organized linear tra-
+jectories through host white matter. Axons in white
+matter gave off collateral branches that penetrated host
+gray matter, forming bouton-like terminals around some
+host neurons. These bouton-like structures co-labeled
+with the pre-synaptic marker synaptophysin, suggesting
+synapse formation. Indeed, immunoelectron microscopy
+confirmed synapse formation between graft-derived
+axons and host neurons and dendrites [12]. Thus, it
+is clearly the case that grafted NSCs derived from several
+different sources, including developing CNS tissue or ES
+cells or iPS cells, can connect with host neurons. Yet
+return of function is not always observed, suggesting a
+need to further shape the topography and specificity of
+projections from grafted cells (more on this topic below).
+Axonal projection and connectivity from host
+neurons into neural stem cell grafts
+The outgrowth and connectivity of grafted NSCs is only
+one component of neuronal relay formation. A complete
+neuronal relay also relies on ingrowth and connectivity of
+host axons with grafted neurons. Several studies have
+reported regeneration of adult host axons, including
+www.sciencedirect.com rubrospinal, reticulospinal, raphespinal, propriospinal,
+and sensory axons, into grafts of embryonic spinal cord
+tissue or ES cell-derived NSCs placed in sites of SCI
+[3,4,7,10,37,38]. However, the distance and relative
+density of ingrowth of adult host axons into the grafts is
+typically fairly modest. Moreover, several older studies
+used retrograde labeling techniques to assess axonal
+growth into grafts, rather than the more clear and less
+artifact-prone technique of anterograde labeling [2,3].
+Our recent study showed results similar to that in the
+published literature, indicating that ingrowth of host
+supraspinal axons, including anterogradely labeled reti-
+culospinal axons and immunolabeled serotonergic axons
+[12], is relatively modest. While host supraspinal axons
+usually penetrated the rostral host/graft interface, they are
+substantially reduced in number in the middle of NSC
+grafts. We never observed host supraspinal axons crossing
+over the entire NSC graft and re-entering the caudal
+spinal cord. Compared to axonal outgrowth arising from
+NSCs, therefore, host axonal ingrowth into grafts is lim-
+ited. This appears to be at least partially due to the
+refractory growth state of adult neurons. Nonetheless,
+host axons entering NSC grafts form bouton-like struc-
+tures with grafted NSCs in the lesion site and express the
+pre-synaptic marker synaptophysin, suggesting synaptic
+connections with grafted neurons [12].
+This reciprocal growth of axons from grafted NSCs into
+the host, and from host neurons into the grafted NSCs,
+establishes a mechanism whereby novel relay circuits
+across an injury can be established. Indeed, we observed
+behavioral improvement in rats that received NSC grafts
+even in sites of severe, complete spinal cord transection
+[12]. Electrophysiologcal measures confirmed the for-
+mation of neural transmission across the lesion site, with
+responses detected that exhibited prolonged latency and
+altered waveforms compared to intact animals. Moreover,
+both functional recovery and electrophysiological trans-
+mission were abolished by re-transection of the spinal
+cord above the NSC implant [12], indicating that host
+inputs into the graft are essential in mediating functional
+recovery. Other studies have also suggested that novel
+relays can be established across sites of SCI to support
+improvement of function [7,11,39,40]. Collectively,
+these findings indicate that NSC grafts to sites of SCI
+have the potential to interpose a new neural relay to act as
+a substrate for functional improvement.
+Future perspectives
+Axonal growth from NSCs and the potential formation of
+new functional neuronal relays across lesion sites offers
+new hope for SCI treatment. Several challenges remain.
+The modest growth and regeneration of adult host axons
+into the NSC grafts is one challenge, since the intrinsic
+growth capacity of adult neurons is greatly reduced [41].
+Enhancing the intrinsic adult neuronal growth state
+[42,43] or provision of neurotrophic factors in regions
+Current Opinion in Neurobiology 2014, 27:103–109
+108 Development and Regenerationof lesioned axon terminals [44] could enhance host
+axonal regeneration and strengthen the functional
+neuronal relay. The seemingly random organization of
+the NSC graft in the lesion cavity is another challenge.
+Grafting NSCs within bioengineered scaffolds that seg-
+regate the lesion site into specific rostral-caudal channels
+may provide a means of organizing the lesion site: host
+axons could be directed into the graft along specific linear
+trajectories, and graft-derived axons could exit the scaf-
+folds in matching linear trajectories mimicking the organ-
+ization of the intact spinal cord [45]. In addition, the
+optimal neuronal phenotypes that might optimize relay
+formation are unknown. Most likely, a combination of
+different spinal cord neuronal phenotypes will be needed
+to optimize functional recovery. Furthermore, the very
+large numbers of axons extending from NSC grafts may
+project to ectopic targets, making undesirable connec-
+tions with host neurons due to a lack of guidance mol-
+ecules [46]. Exogenous provision of guidance molecules
+may direct newly growing axons toward proper host target
+neurons. Finally, intensive rehabilitation may re-shape
+newly generated circuits and enhance functional recov-
+ery, since training and activity influence new circuit
+formation during development, particularly by activity-
+dependent stabilization of new connections and pruning
+of weak connections [47].
+Acknowledgements
+This work was funded by grants from the Veterans Administration, NIH
+(NS09881), the Craig H. Neilsen Foundation, the Dr. Miriam and Sheldon
+G. Adelson Medical Research Foundation, and the California Institute for
+Regenerative Medicine.
+References and recommended reading
+Papers of particular interest, published within the period of review,
+have been highlighted as:
+ of special interest
+ of outstanding interest
+1. Ramon YC:: Degeneration and regeneration of the nerve system.
+New York: Hafner; 1928, .
+2.
+
+Reier PJ: Neural tissue grafts and repair of the injured spinal
+cord. Neuropathol Appl Neurobiol 1985, 11:81-104.
+First proposal of neuronal relay hypothesis.
+3. Jakeman LB, Reier PJ: Axonal projections between fetal spinal
+cord transplants and the adult rat spinal cord: a
+neuroanatomical tracing study of local interactions. J Comp
+Neurol 1991, 307:311-334.
+4. Bregman BS, Coumans JV, Dai HN, Kuhn PL, Lynskey J,
+McAtee M, Sandhu F: Transplants and neurotrophic factors
+increase regeneration and recovery of function after spinal
+cord injury. Prog Brain Res 2002, 137:257-273.
+5. Steward O, Zheng B, Banos K, Yee KM: Response to: Kim et al.,
+‘‘axon regeneration in young adult mice lacking Nogo-A/B.’’
+Neuron 38, 187-199. Neuron 2007, 54:191-195.
+6.
+
+Lepore AC, Fischer I: Lineage-restricted neural precursors
+survive, migrate, and differentiate following transplantation
+into the injured adult spinal cord. Exp Neurol 2005,
+194:230-242.First study using report gene to trace axonal growth from the NSC graft.
+7.
+
+Bonner JF, Connors TM, Silverman WF, Kowalski DP, Lemay MA,
+Fischer I: Grafted neural progenitors integrate and restore
+Current Opinion in Neurobiology 2014, 27:103–109 synaptic connectivity across the injured spinal cord. J
+Neurosci 2011, 31:4675-4686.
+First study to demonstrate neuronal relay formation for ascending sen-
+sory system.
+8.
+
+Li Y, Raisman G: Long axon growth from embryonic neurons
+transplanted into myelinated tracts of the adult rat spinal cord.
+Brain Res 1993, 629:115-127.
+First study to challenge the white matter inhibition theory.
+9. Lowry N, Goderie SK, Adamo M, Lederman P, Charniga C, Gill J,
+Silver J, Temple S: Multipotent embryonic spinal cord stem
+cells expanded by endothelial factors and Shh/RA promote
+functional recovery after spinal cord injury. Exp Neurol 2008,
+209:510-522.
+10. Lu P, Jones LL, Snyder EY, Tuszynski MH: Neural stem cells
+constitutively secrete neurotrophic factors and promote
+extensive host axonal growth after spinal cord injury. Exp
+Neurol 2003, 181:115-129.
+11. Abematsu M, Tsujimura K, Yamano M, Saito M, Kohno K,
+Kohyama J, Namihira M, Komiya S, Nakashima K: Neurons
+derived from transplanted neural stem cells restore disrupted
+neuronal circuitry in a mouse model of spinal cord injury. J Clin
+Invest 2010, 120:3255-3266.
+12.
+
+Lu P, Wang Y, Graham L, McHale K, Gao M, Wu D, Brock J,
+Blesch A, Rosenzweig ES, Havton LA et al.: Long-distance
+growth and connectivity of neural stem cells after severe
+spinal cord injury. Cell 2012, 150:1264-1273.
+First study to demonstrate extensive and long-distance growth of axons
+from NSC graft of different species and from different resources. In
+addition, this is the first study to demonstrate functional neuronal relay
+formation for descending motor system in severe SCI.
+13. Mu Y, Lee SW, Gage FH: Signaling in adult neurogenesis. Curr
+Opin Neurobiol 2010, 20:416-423.
+14. Cao QL, Zhang YP, Howard RM, Walters WM, Tsoulfas P,
+Whittemore SR: Pluripotent stem cells engrafted into the
+normal or lesioned adult rat spinal cord are restricted to a glial
+lineage. Exp Neurol 2001, 167:48-58.
+15. Pfeifer K, Vroemen M, Blesch A, Weidner N: Adult neural
+progenitor cells provide a permissive guiding substrate for
+corticospinal axon growth following spinal cord injury. Eur J
+Neurosci 2004, 20:1695-1704.
+16. Karimi-Abdolrezaee S, Eftekharpour E, Wang J, Schut D,
+Fehlings MG: Synergistic effects of transplanted adult neural
+stem/progenitor cells, chondroitinase, and growth
+factors promote functional repair and plasticity of the
+chronically injured spinal cord. J Neurosci 2010,
+30:1657-1676.
+17. Cusimano M, Biziato D, Brambilla E, Donega M, Alfaro-Cervello C,
+Snider S, Salani G, Pucci F, Comi G, Garcia-Verdugo JM et al.:
+Transplanted neural stem/precursor cells instruct phagocytes
+and reduce secondary tissue damage in the injured spinal
+cord. Brain 2012, 135:447-460.
+18. Wictorin K, Bjorklund A: Axon outgrowth from grafts of human
+embryonic spinal cord in the lesioned adult rat spinal cord.
+Neuroreport 1992, 3:1045-1048.
+19.
+
+Wictorin K, Brundin P, Gustavii B, Lindvall O, Bjorklund A:
+Reformation of long axon pathways in adult rat central
+nervous system by human forebrain neuroblasts. Nature 1990,
+347:556-558.
+First study to demonstrate long-distance growth human axons in the adult
+brain.
+20. Giovanini MA, Reier PJ, Eskin TA, Wirth E, Anderson DK:
+Characteristics of human fetal spinal cord grafts in the adult
+rat spinal cord: influences of lesion and grafting conditions.
+Exp Neurol 1997, 148:523-543.
+21. Iwanami A, Kaneko S, Nakamura M, Kanemura Y, Mori H,
+Kobayashi S, Yamasaki M, Momoshima S, Ishii H, Ando K et al.:
+Transplantation of human neural stem cells for spinal cord
+injury in primates. J Neurosci Res 2005, 80:182-190.22. Watanabe K, Nakamura M, Iwanami A, Fujita Y, Kanemura Y,
+Toyama Y, Okano H: Comparison between fetal spinal-cord-
+and forebrain-derived neural stem/progenitor cells as a
+www.sciencedirect.com
+source of transplantation for spinal cord injury. Develop
+Neurosci 2004, 26:275-287.
+23. Cummings BJ, Uchida N, Tamaki SJ, Salazar DL, Hooshmand M,
+Summers R, Gage FH, Anderson AJ: Human neural stem
+cells differentiate and promote locomotor recovery in spinal
+cord-injured mice. Proc Natl Acad Sci USA 2005,
+102:14069-14074.
+35.
+
+Keirstead HS, Nistor G, Bernal G, Totoiu M, Cloutier F, Sharp K,
+Steward O: Human embryonic stem cell-derived
+oligodendrocyte progenitor cell transplants remyelinate and
+restore locomotion after spinal cord injury. J Neurosci 2005,
+25:4694-4705.
+A study of OPC transplant in SCI led for the first stem cell clinical trial for
+SCI in USA.
+36. Kaiser J: Embryonic stem cells. Researchers mull impact of
+Axonal growth of neural stem cell graft after spinal cord injury Lu, Kadoya and Tuszynski 10924. Yan J, Xu L, Welsh AM, Hatfield G, Hazel T, Johe K, Koliatsos VE:
+Extensive neuronal differentiation of human neural stem cell
+grafts in adult rat spinal cord. PLoS Med 2007, 4:e39.
+25. Cowan CA, Klimanskaya I, McMahon J, Atienza J, Witmyer J,
+Zucker JP, Wang S, Morton CC, McMahon AP, Powers D et al.:
+Derivation of embryonic stem-cell lines from human
+blastocysts. N Engl J Med 2004, 350:1353-1356.
+26. Zhao J, Sun W, Cho HM, Ouyang H, Li W, Lin Y, Do J, Zhang L,
+Ding S, Liu Y et al.: Integration and long distance axonal
+regeneration in the central nervous system from transplanted
+primitive neural stem cells. J Biol Chem 2013, 288:164-168.
+27. van Gorp S, Leerink M, Kakinohana O, Platoshyn O, Santucci C,
+Galik J, Joosten EA, Hruska-Plochan M, Goldberg D, Marsala S
+et al.: Amelioration of motor/sensory dysfunction and
+spasticity in a rat model of acute lumbar spinal cord injury by
+human neural stem cell transplantation. Stem Cell Res Ther
+2013, 4:57.
+28.
+
+Takahashi K, Yamanaka S: Induction of pluripotent stem cells
+from mouse embryonic and adult fibroblast cultures by
+defined factors. Cell 2006, 126:663-676.
+First study of to generate IPSC from mouse embryonic and adult fibro-
+blasts.
+29.
+
+Tsuji O, Miura K, Okada Y, Fujiyoshi K, Mukaino M, Nagoshi N,
+Kitamura K, Kumagai G, Nishino M, Tomisato S et al.: Therapeutic
+potential of appropriately evaluated safe-induced pluripotent
+stem cells for spinal cord injury. Proc Natl Acad Sci USA 2010,
+107:12704-12709.
+First study of IPSC transplantation for SCI.
+30. Nori S, Okada Y, Yasuda A, Tsuji O, Takahashi Y, Kobayashi Y,
+Fujiyoshi K, Koike M, Uchiyama Y, Ikeda E et al.: Grafted human-
+induced pluripotent stem-cell-derived neurospheres promote
+motor functional recovery after spinal cord injury in mice. Proc
+Natl Acad Sci USA 2011, 108:16825-16830.
+31. Fujimoto Y, Abematsu M, Falk A, Tsujimura K, Sanosaka T,
+Juliandi B, Semi K, Namihira M, Komiya S, Smith A et al.:
+Treatment of a mouse model of spinal cord injury by
+transplantation of human induced pluripotent stem cell-
+derived long-term self-renewing neuroepithelial-like stem
+cells. Stem Cells 2012, 30:1163-1173.
+32.
+
+McDonald JW, Liu XZ, Qu Y, Liu S, Mickey SK, Turetsky D,
+Gottlieb DI, Choi DW: Transplanted embryonic stem cells
+survive, differentiate and promote recovery in injured rat
+spinal cord. Nat Med 1999, 5:1410-1412.
+First transplantation study of mouse ES cells derived NSCs for SCI.
+33. Sharp J, Frame J, Siegenthaler M, Nistor G, Keirstead HS: Human
+embryonic stem cell-derived oligodendrocyte progenitor cell
+transplants improve recovery after cervical spinal cord injury.
+Stem Cells 2010, 28:152-163.
+34. Liu S, Qu Y, Stewart TJ, Howard MJ, Chakrabortty S,
+Holekamp TF, McDonald JW: Embryonic stem cells differentiate
+into oligodendrocytes and myelinate in culture and after spinal
+cord transplantation. Proc Natl Acad Sci USA 2000,
+97:6126-6131.www.sciencedirect.com Geron’s sudden exit from field. Science 2011, 334:1043.
+37.
+
+Iwashita Y, Kawaguchi S, Murata M: Restoration of function by
+replacement of spinal cord segments in the rat. Nature 1994,
+367:167-170.
+First study demonstration of a functional fetal spinal cord bridge for
+neonatal rats with spinal cord transection.
+38. Bregman BS, McAtee M, Dai HN, Kuhn PL: Neurotrophic factors
+increase axonal growth after spinal cord injury and
+transplantation in the adult rat. Exp Neurol 1997, 148:475-494.
+39. White TE, Lane MA, Sandhu MS, O’Steen BE, Fuller DD, Reier PJ:
+Neuronal progenitor transplantation and respiratory
+outcomes following upper cervical spinal cord injury in adult
+rats. Exp Neurol 2010, 225:231-236.
+40. Coumans JV, Lin TT, Dai HN, MacArthur L, McAtee M, Nash C,
+Bregman BS: Axonal regeneration and functional recovery
+after complete spinal cord transection in rats by delayed
+treatment with transplants and neurotrophins. J Neurosci 2001,
+21:9334-9344.
+41. Sun F, He Z: Neuronal intrinsic barriers for axon regeneration in
+the adult CNS. Curr Opin Neurobiol 2010, 20:510-518.
+42.
+
+Liu K, Lu Y, Lee JK, Samara R, Willenberg R, Sears-Kraxberger I,
+Tedeschi A, Park KK, Jin D, Cai B et al.: PTEN deletion enhances
+the regenerative ability of adult corticospinal neurons. Nat
+Neurosci 2010, 13:1075-1081.
+First demonstration of injured adult corticospinal tract axon re-growth
+and sprouting after PTEN deletion.
+43.
+
+Blackmore MG, Wang Z, Lerch JK, Motti D, Zhang YP, Shields CB,
+Lee JK, Goldberg JL, Lemmon VP, Bixby JL: Kruppel-like Factor
+7 engineered for transcriptional activation promotes axon
+regeneration in the adult corticospinal tract. Proc Natl Acad Sci
+USA 2012, 109:7517-7522.
+First demonstration of injured adult corticospinal tract axon re-growth
+and sprouting after over-expression of KLF-7 in vivo.
+44.
+
+Lu P, Blesch A, Graham L, Wang Y, Samara R, Banos K,
+Haringer V, Havton L, Weishaupt N, Bennett D et al.: Motor axonal
+regeneration after partial and complete spinal cord
+transection. J Neurosci 2012, 32:8208-8218.
+First clear demonstration of descending motor axonal regeneration
+crossing complete transection site and entering to caudal spinal cord
+after combination of cAMP and neurotrophic factor delivery.
+45. Gao M, Lu P, Bednark B, Lynam D, Conner JM, Sakamoto J,
+Tuszynski MH: Templated agarose scaffolds for the support of
+motor axon regeneration into sites of complete spinal cord
+transection. Biomaterials 2013, 34:1529-1536.
+46. Canty AJ, Murphy M: Molecular mechanisms of axon guidance
+in the developing corticospinal tract. Prog Neurobiol 2008,
+85:214-235.
+47. Vinay L, Brocard F, Clarac F, Norreel JC, Pearlstein E, Pflieger JF:
+Development of posture and locomotion: an interplay of
+endogenously generated activities and neurotrophic actions by
+descending pathways. Brain Res Brain Res Rev 2002, 40:118-129.Current Opinion in Neurobiology 2014, 27:103–109

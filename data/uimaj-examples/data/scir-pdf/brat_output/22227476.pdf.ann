@@ -1,0 +1,379 @@
+T1	Gene 108 128	Superoxide dismutase
+T2	Gene 395 398	SCI
+T3	Gene 2307 2310	SOD
+T4	Gene 2312 2315	NOS
+T5	Gene 2320 2322	NO
+T6	Gene 2367 2376	SCI group
+T7	Gene 2388 2406	–postHBO group SOD
+T8	Gene 2408 2411	GPx
+T9	Gene 2473 2476	SOD
+T10	Gene 2658 2661	GPx
+T11	Gene 2756 2764	catalase
+T12	Gene 3292 3295	SCI
+T13	Gene 3326 3346	superoxide dismutase
+T14	Gene 3348 3351	SOD
+T15	Gene 3354 3362	catalase
+T16	Gene 3364 3386	glutathione peroxidase
+T17	Gene 3388 3391	GPx
+T18	Gene 3394 3415	nitric oxide synthase
+T19	Gene 3417 3420	NOS
+T20	Gene 4453 4461	Erturk d
+T21	Gene 4463 4476	Figen Aydin e
+T22	Gene 4703 4723	superoxide dismutase
+T23	Gene 4725 4728	SOD
+T24	Gene 4731 4753	glutathione peroxidase
+T25	Gene 4755 4758	GPx
+T26	Gene 4842 4845	SOD
+T27	Gene 4847 4850	GPx
+T28	Gene 4855 4863	catalase
+T29	Gene 4951 4954	SOD
+T30	Gene 4956 4959	GPx
+T31	Gene 4961 4969	catalase
+T32	Gene 7771 7774	SOD
+T33	Gene 7776 7779	GPx
+T34	Gene 7781 7789	catalase
+T35	Gene 7922 7925	SOD
+T36	Gene 8033 8041	Catalase
+T37	Gene 8118 8122	H2O2
+T38	Gene 8126 8134	catalase
+T39	Gene 8315 8318	GPx
+T40	Gene 8387 8408	glutathione reductase
+T41	Gene 8540 8544	NADP
+T42	Gene 9304 9317	BBB locomotor
+T43	Gene 9681 9684	SCI
+T44	Gene 9727 9730	SOD
+T45	Gene 9732 9735	GPx
+T46	Gene 9964 9967	SOD
+T47	Gene 9969 9972	NOS
+T48	Gene 9977 9979	NO
+T49	Gene 10078 10081	SOD
+T50	Gene 10083 10086	GPx
+T51	Gene 10088 10091	NOS
+T52	Gene 10096 10098	NO
+T53	Gene 10224 10227	SOD
+T54	Gene 10439 10442	GPx
+T55	Gene 10528 10531	GPx
+T56	Gene 10923 10926	SCI
+T57	Gene 10931 10939	preopHBO
+T58	Gene 11082 11085	sug
+T59	Gene 11293 11296	SCI
+T60	Gene 11547 11550	fol
+T61	Gene 11703 11706	SOD
+T62	Gene 11708 11711	GPx
+T63	Gene 11716 11724	catalase
+T64	Gene 11741 11744	SCI
+T65	Gene 11746 11752	PreHBO
+T66	Gene 11753 11756	SCI
+T67	Gene 11814 11825	postHBO+SCI
+T68	Gene 11827 11830	SCI
+T69	Gene 11881 11896	Pre+PostHBO+SCI
+T70	Gene 12213 12220	Higgins
+T71	Gene 12370 12373	SCI
+T72	Gene 12987 12995	collagen
+T73	Gene 13499 13502	SOD
+T74	Gene 13504 13507	GPx
+T75	Gene 13568 13571	SCI
+T76	Gene 13573 13579	PreHBO
+T77	Gene 13580 13583	SCI
+T78	Gene 13623 13638	Pre+PostHBO+SCI
+T79	Gene 13807 13815	catalase
+T80	Gene 13896 13899	SOD
+T81	Gene 13980 13984	H2O2
+T82	Gene 13988 13991	SOD
+T83	Gene 14252 14255	H2O
+T84	Gene 14261 14264	GPx
+T85	Gene 14268 14276	catalase
+T86	Gene 14380 14383	GPx
+T87	Gene 14575 14583	Catalase
+T88	Gene 14749 14757	catalase
+T89	Gene 14810 14817	Higgins
+T90	Gene 15188 15199	postHBO+SCI
+T91	Gene 15201 15204	SCI
+T92	Gene 16036 16038	Hu
+T93	Gene 16788 16791	SCI
+T94	Gene 16824 16827	SOD
+T95	Gene 16829 16832	GPx
+T96	Gene 16869 16872	SCI
+T97	Gene 16874 16880	PreHBO
+T98	Gene 16881 16884	SCI
+T99	Gene 17091 17094	GPx
+T100	Gene 17379 17382	SOD
+T101	Gene 17542 17545	SOD
+T102	Gene 18077 18080	SOD
+T103	Gene 18386 18389	GPx
+T104	Gene 18489 18492	GPx
+T105	Gene 18894 18897	SCI
+T106	Gene 19362 19365	SCI
+T107	Gene 19656 19659	SCI
+T108	Gene 19739 19742	SOD
+T109	Gene 19747 19750	GPx
+T110	Gene 19935 19946	postHBO+SCI
+T111	Gene 19948 19951	SCI
+T112	Gene 20122 20125	SCI
+T113	Gene 20162 20165	SOD
+T114	Gene 20167 20170	GPx
+T115	Gene 20258 20266	catalase
+T116	Gene 20287 20290	GPx
+T117	Gene 20342 20350	catalase
+T118	Gene 20447 20454	iNOS im
+T119	Gene 20525 20528	SCI
+T120	Gene 20747 20751	iNOS
+T121	Gene 20901 20904	SCI
+T122	Gene 20937 20940	SOD
+T123	Gene 20942 20945	GPx
+T124	Gene 20947 20950	NOS
+T125	Gene 20955 20957	NO
+T126	Gene 21043 21051	catalase
+T127	Gene 21264 21267	SCI
+T128	Gene 21601 21617	Aebi H. Catalase
+T129	Gene 22220 22230	HIF-1alpha
+T130	Gene 22832 22849	Kahraman S, Düz B
+T131	Gene 23732 23738	Peng Z
+T132	Gene 23740 23745	Ren P
+T133	Gene 23747 23753	Kang Z
+T134	Gene 23796 23806	HIF-1alpha
+T135	Gene 24362 24367	Sun J
+T136	Gene 24369 24376	Zhang X
+T137	Gene 24764 24766	YS
+T138	Gene 24768 24774	Lin CY
+T139	Gene 24776 24779	Lin
+T140	Gene 24791 24793	RK
+T141	Gene 24795 24810	NAD(P)H oxidase
+T142	Gene 24812 24832	superoxide dismutase
+T143	Gene 24834 24842	catalase
+T144	Gene 24844 24866	glutathione peroxidase
+T145	Gene 24871 24892	nitric oxide synthase
+T146	Gene 25075 25082	Higgins
+T147	Gene 25696 25701	Hu SL
+T148	Gene 25703 25713	Hu R, Li F
+T149	Gene 25715 25720	Liu Z
+T150	Gene 25877 25884	Huang L
+T151	Gene 26076 26082	Kang Z
+T152	Gene 26084 26089	Liu Y
+T153	Gene 26091 26097	Deng X
+T154	Gene 26099 26104	Tao H
+T155	Gene 26670 26673	Spi
+T156	Gene 26761 26765	Yu Y
+T157	Gene 26767 26787	Matsuyama Y, YanaseM
+T158	Gene 26789 26794	Ito S
+T159	Gene 26855 26859	GDNF
+T160	Species 2165 2168	rat
+T161	Species 4102 4108	Turkey
+T162	Species 4177 4183	Turkey
+T163	Species 4233 4239	Turkey
+T164	Species 4487 4493	Turkey
+T165	Species 4501 4507	Turkey
+T166	Species 5185 5189	rats
+T167	Species 5671 5675	Rats
+T168	Species 5833 5837	rats
+T169	Species 6764 6770	Turkey
+T170	Species 6800 6804	Rats
+T171	Species 6918 6922	rats
+T172	Species 7038 7042	rats
+T173	Species 7144 7148	rats
+T174	Species 7244 7248	rats
+T175	Species 7375 7379	rats
+T176	Species 7501 7505	rats
+T177	Species 7827 7830	rat
+T178	Species 9276 9280	rats
+T179	Species 9671 9675	Rats
+T180	Species 11147 11151	dogs
+T181	Species 15942 15946	rats
+T182	Species 16267 16274	rabbits
+T183	Species 17179 17183	rats
+T184	Species 20112 20116	rats
+T185	Species 20515 20519	rats
+T186	Species 20861 20865	rats
+T187	Species 22037 22041	rats
+T188	Species 22190 22194	rats
+T189	Species 22381 22385	rats
+T190	Species 23032 23036	rats
+T191	Species 23650 23655	human
+T192	Species 23761 23765	Lian
+T193	Species 23973 23977	rats
+T194	Species 25370 25375	human
+T195	Species 26026 26030	rats
+T196	Species 26204 26208	rats
+T197	Species 26306 26311	sheep
+T198	InteractionKeyword 399 404	leads
+T199	InteractionKeyword 525 531	causes
+T200	InteractionKeyword 702 709	complex
+T201	InteractionKeyword 1243 1253	preventing
+T202	InteractionKeyword 1529 1538	following
+T203	InteractionKeyword 1641 1647	effect
+T204	InteractionKeyword 1821 1827	modify
+T205	InteractionKeyword 2220 2228	decrease
+T206	InteractionKeyword 2295 2303	decrease
+T207	InteractionKeyword 2424 2433	decreased
+T208	InteractionKeyword 2461 2469	decrease
+T209	InteractionKeyword 2539 2548	decreased
+T210	InteractionKeyword 2646 2654	decrease
+T211	InteractionKeyword 2966 2975	following
+T212	InteractionKeyword 3067 3076	following
+T213	InteractionKeyword 3187 3194	limited
+T214	InteractionKeyword 3265 3271	effect
+T215	InteractionKeyword 3484 3491	induced
+T216	InteractionKeyword 3714 3720	effect
+T217	InteractionKeyword 4290 4297	produce
+T218	InteractionKeyword 4418 4427	following
+T219	InteractionKeyword 4565 4572	limited
+T220	InteractionKeyword 4907 4913	effect
+T221	InteractionKeyword 5283 5290	control
+T222	InteractionKeyword 6470 6477	prevent
+T223	InteractionKeyword 7598 7603	block
+T224	InteractionKeyword 8001 8008	results
+T225	InteractionKeyword 8014 8023	expressed
+T226	InteractionKeyword 8268 8274	formed
+T227	InteractionKeyword 8322 8331	converted
+T228	InteractionKeyword 8341 8348	reduced
+T229	InteractionKeyword 8550 8557	reduced
+T230	InteractionKeyword 8777 8784	results
+T231	InteractionKeyword 8790 8799	expressed
+T232	InteractionKeyword 8839 8849	determined
+T233	InteractionKeyword 8957 8963	formed
+T234	InteractionKeyword 9022 9029	results
+T235	InteractionKeyword 9035 9044	expressed
+T236	InteractionKeyword 9221 9228	results
+T237	InteractionKeyword 9234 9243	expressed
+T238	InteractionKeyword 9646 9653	effects
+T239	InteractionKeyword 9706 9714	increase
+T240	InteractionKeyword 9833 9841	decrease
+T241	InteractionKeyword 9952 9960	decrease
+T242	InteractionKeyword 10106 10115	decreased
+T243	InteractionKeyword 10203 10211	decrease
+T244	InteractionKeyword 10294 10302	decrease
+T245	InteractionKeyword 10427 10435	decrease
+T246	InteractionKeyword 10516 10524	decrease
+T247	InteractionKeyword 10623 10630	effects
+T248	InteractionKeyword 11110 11118	resulted
+T249	InteractionKeyword 11130 11139	following
+T250	InteractionKeyword 11200 11208	increase
+T251	InteractionKeyword 11297 11306	following
+T252	InteractionKeyword 11392 11401	increased
+T253	InteractionKeyword 11421 11430	decreased
+T254	InteractionKeyword 11475 11484	following
+T255	InteractionKeyword 11661 11670	following
+T256	InteractionKeyword 11796 11804	followed
+T257	InteractionKeyword 11936 11944	followed
+T258	InteractionKeyword 12120 12127	reduced
+T259	InteractionKeyword 12309 12320	contributed
+T260	InteractionKeyword 12425 12436	contributed
+T261	InteractionKeyword 12537 12546	following
+T262	InteractionKeyword 12708 12716	reducing
+T263	InteractionKeyword 12717 12723	effect
+T264	InteractionKeyword 12741 12746	leads
+T265	InteractionKeyword 12752 12760	decrease
+T266	InteractionKeyword 12814 12821	reduces
+T267	InteractionKeyword 12894 12903	following
+T268	InteractionKeyword 12908 12911	led
+T269	InteractionKeyword 13043 13050	limited
+T270	InteractionKeyword 13114 13117	led
+T271	InteractionKeyword 13124 13132	increase
+T272	InteractionKeyword 13487 13495	increase
+T273	InteractionKeyword 13678 13686	followed
+T274	InteractionKeyword 13867 13872	leads
+T275	InteractionKeyword 13884 13892	increase
+T276	InteractionKeyword 13968 13976	degraded
+T277	InteractionKeyword 14051 14059	converts
+T278	InteractionKeyword 14163 14168	leads
+T279	InteractionKeyword 14240 14248	degraded
+T280	InteractionKeyword 14368 14376	increase
+T281	InteractionKeyword 14424 14431	induced
+T282	InteractionKeyword 14491 14499	decrease
+T283	InteractionKeyword 14623 14631	requires
+T284	InteractionKeyword 14697 14705	increase
+T285	InteractionKeyword 14737 14745	increase
+T286	InteractionKeyword 14995 15004	increased
+T287	InteractionKeyword 15170 15178	followed
+T288	InteractionKeyword 15424 15432	decrease
+T289	InteractionKeyword 15504 15511	reduces
+T290	InteractionKeyword 15986 15995	resulting
+T291	InteractionKeyword 16187 16196	initiated
+T292	InteractionKeyword 16257 16263	effect
+T293	InteractionKeyword 16306 16315	following
+T294	InteractionKeyword 16348 16354	change
+T295	InteractionKeyword 16811 16820	decreases
+T296	InteractionKeyword 16974 16982	followed
+T297	InteractionKeyword 17032 17040	decrease
+T298	InteractionKeyword 17079 17087	decrease
+T299	InteractionKeyword 17258 17267	increases
+T300	InteractionKeyword 17367 17375	decrease
+T301	InteractionKeyword 17530 17538	decrease
+T302	InteractionKeyword 17760 17766	effect
+T303	InteractionKeyword 17774 17783	increased
+T304	InteractionKeyword 18052 18060	decrease
+T305	InteractionKeyword 18350 18358	decrease
+T306	InteractionKeyword 18508 18516	increase
+T307	InteractionKeyword 18571 18579	mediates
+T308	InteractionKeyword 18917 18926	following
+T309	InteractionKeyword 18946 18954	decrease
+T310	InteractionKeyword 19150 19156	change
+T311	InteractionKeyword 19236 19243	effects
+T312	InteractionKeyword 19500 19507	altered
+T313	InteractionKeyword 19544 19548	lead
+T314	InteractionKeyword 19714 19723	following
+T315	InteractionKeyword 19728 19738	diminished
+T316	InteractionKeyword 19777 19784	induced
+T317	InteractionKeyword 19917 19925	followed
+T318	InteractionKeyword 20150 20158	decrease
+T319	InteractionKeyword 20301 20309	degrades
+T320	InteractionKeyword 20551 20559	produced
+T321	InteractionKeyword 20570 20578	decrease
+T322	InteractionKeyword 20677 20687	suppressed
+T323	InteractionKeyword 20924 20933	decreases
+T324	InteractionKeyword 21073 21079	effect
+T325	InteractionKeyword 21399 21405	effect
+T326	InteractionKeyword 22195 22201	alters
+T327	InteractionKeyword 22250 22256	target
+T328	InteractionKeyword 22403 22410	effects
+T329	InteractionKeyword 22547 22554	effects
+T330	InteractionKeyword 23364 23370	effect
+T331	InteractionKeyword 23810 23818	involved
+T332	InteractionKeyword 23844 23851	induced
+T333	InteractionKeyword 26147 26157	attenuates
+T334	InteractionKeyword 26412 26419	effects
+T335	InteractionKeyword 26823 26830	effects
+R336	Partner1 Arg1:T206 Arg2:T3
+R337	Partner2 Arg1:T206 Arg2:T4
+R338	Partner1 Arg1:T207 Arg2:T7
+R339	Partner2 Arg1:T207 Arg2:T8
+R340	Partner1 Arg1:T214 Arg2:T19
+R341	Partner2 Arg1:T214 Arg2:T16
+R342	Partner1 Arg1:T218 Arg2:T20
+R343	Partner2 Arg1:T218 Arg2:T21
+R344	Partner1 Arg1:T220 Arg2:T29
+R345	Partner2 Arg1:T220 Arg2:T30
+R346	Partner1 Arg1:T228 Arg2:T39
+R347	Partner2 Arg1:T228 Arg2:T40
+R348	Partner1 Arg1:T238 Arg2:T45
+R349	Partner2 Arg1:T238 Arg2:T43
+R350	Partner1 Arg1:T241 Arg2:T48
+R351	Partner2 Arg1:T241 Arg2:T46
+R352	Partner1 Arg1:T242 Arg2:T51
+R353	Partner2 Arg1:T242 Arg2:T52
+R354	Partner1 Arg1:T256 Arg2:T67
+R355	Partner2 Arg1:T256 Arg2:T64
+R356	Partner1 Arg1:T259 Arg2:T71
+R357	Partner2 Arg1:T259 Arg2:T70
+R358	Partner1 Arg1:T272 Arg2:T74
+R359	Partner2 Arg1:T272 Arg2:T73
+R360	Partner1 Arg1:T273 Arg2:T77
+R361	Partner2 Arg1:T273 Arg2:T78
+R362	Partner1 Arg1:T276 Arg2:T81
+R363	Partner2 Arg1:T276 Arg2:T82
+R364	Partner1 Arg1:T279 Arg2:T83
+R365	Partner2 Arg1:T279 Arg2:T84
+R366	Partner1 Arg1:T287 Arg2:T90
+R367	Partner2 Arg1:T287 Arg2:T91
+R368	Partner1 Arg1:T296 Arg2:T96
+R369	Partner2 Arg1:T296 Arg2:T93
+R370	Partner1 Arg1:T314 Arg2:T109
+R371	Partner2 Arg1:T314 Arg2:T108
+R372	Partner1 Arg1:T317 Arg2:T112
+R373	Partner2 Arg1:T317 Arg2:T113
+R374	Partner1 Arg1:T319 Arg2:T115
+R375	Partner2 Arg1:T319 Arg2:T116
+R376	Partner1 Arg1:T323 Arg2:T125
+R377	Partner2 Arg1:T323 Arg2:T122
+R378	Partner1 Arg1:T335 Arg2:T157
+R379	Partner2 Arg1:T335 Arg2:T158

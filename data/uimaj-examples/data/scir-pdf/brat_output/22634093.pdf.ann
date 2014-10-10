@@ -1,0 +1,205 @@
+T1	Gene 2250 2253	SCI
+T2	Gene 3956 3959	SCI
+T3	Gene 9312 9315	Lab
+T4	Gene 9316 9323	Tek™ II
+T5	Gene 10952 10956	DMSO
+T6	Gene 15353 15366	Sigma-Aldrich
+T7	Gene 15387 15407	myelin basic protein
+T8	Gene 15409 15412	MBP
+T9	Gene 15666 15697	glial fibrillary acidic protein
+T10	Gene 15699 15703	GFAP
+T11	Gene 15807 15811	CSPG
+T12	Gene 15813 15853	mouse monoclonal antibody, Sigma-Aldrich
+T13	Gene 16316 16319	NFM
+T14	Gene 16321 16324	MBP
+T15	Gene 16326 16330	GFPA
+T16	Gene 16335 16339	CSPG
+T17	Gene 21125 21130	ANOVA
+T18	Gene 23961 23964	MBP
+T19	Gene 29399 29403	PLLA
+T20	Gene 30373 30377	CSPG
+T21	Gene 33995 33998	SCI
+T22	Gene 35132 35138	myelin
+T23	Gene 36378 36383	Zhu J
+T24	Gene 36385 36390	Mix E
+T25	Gene 36973 36976	Med
+T26	Gene 37065 37097	Filbin MT. The phosphodiesterase
+T27	Gene 38951 38953	EB
+T28	Gene 38955 38959	Qu X
+T29	Gene 38961 38968	Park KI
+T30	Gene 39977 40008	Patel S, Kurpinski K, Quigley R
+T31	Gene 40010 40015	Gao H
+T32	Gene 40375 40381	Wang A
+T33	Gene 40383 40389	Tang Z
+T34	Gene 40391 40399	Park I-H
+T35	Gene 40401 40406	Zhu Y
+T36	Gene 40408 40415	Patel S
+T37	Gene 40554 40559	Zhu Y
+T38	Gene 40561 40567	Wang A
+T39	Gene 40569 40589	Patel S, Kurpinski K
+T40	Gene 48117 48120	NFM
+T41	Gene 48125 48128	MBP
+T42	Gene 48496 48518	Oligodendrocyte myelin
+T43	Gene 48540 48543	MBP
+T44	Gene 48998 49002	GFAP
+T45	Gene 49007 49011	CSPG
+T46	Gene 49359 49372	GFAP antibody
+T47	Gene 49595 49599	GFAP
+T48	Gene 49626 49630	CSPG
+T49	Species 91 98	Timothy
+T50	Species 1552 1556	rats
+T51	Species 12294 12298	rats
+T52	Species 14593 14597	rats
+T53	Species 14961 14964	rat
+T54	Species 15325 15331	rabbit
+T55	Species 15414 15420	rabbit
+T56	Species 15705 15711	rabbit
+T57	Species 15813 15818	mouse
+T58	Species 20122 20126	rats
+T59	Species 21762 21766	rats
+T60	Species 21979 21983	rats
+T61	Species 23770 23774	rats
+T62	Species 27054 27058	rats
+T63	Species 28147 28150	rat
+T64	Species 32396 32401	human
+T65	Species 35306 35312	Bovine
+T66	Species 37655 37658	rat
+T67	Species 37876 37879	rat
+T68	Species 38519 38523	rats
+T69	Species 38874 38878	rats
+T70	Species 39672 39675	rat
+T71	Species 41931 41936	sheep
+T72	Species 42507 42511	rats
+T73	Species 42683 42687	rats
+T74	Species 42964 42968	rats
+T75	Species 43356 43360	rats
+T76	Species 43548 43551	rat
+T77	Species 44017 44021	mice
+T78	InteractionKeyword 945 952	prevent
+T79	InteractionKeyword 1237 1244	effects
+T80	InteractionKeyword 1902 1909	reduced
+T81	InteractionKeyword 1992 1999	control
+T82	InteractionKeyword 2784 2795	contributed
+T83	InteractionKeyword 3084 3093	resulting
+T84	InteractionKeyword 3144 3148	form
+T85	InteractionKeyword 3234 3240	affect
+T86	InteractionKeyword 3448 3452	form
+T87	InteractionKeyword 4215 4223	prevents
+T88	InteractionKeyword 4477 4487	facilitate
+T89	InteractionKeyword 4510 4517	leading
+T90	InteractionKeyword 4596 4607	accompanied
+T91	InteractionKeyword 4660 4667	causing
+T92	InteractionKeyword 4771 4776	cause
+T93	InteractionKeyword 4791 4798	prevent
+T94	InteractionKeyword 4876 4883	require
+T95	InteractionKeyword 5376 5383	promote
+T96	InteractionKeyword 5472 5481	attenuate
+T97	InteractionKeyword 5520 5526	reduce
+T98	InteractionKeyword 5806 5809	led
+T99	InteractionKeyword 5866 5873	effects
+T100	InteractionKeyword 6306 6310	lead
+T101	InteractionKeyword 6322 6329	effects
+T102	InteractionKeyword 6368 6377	increased
+T103	InteractionKeyword 6438 6447	increased
+T104	InteractionKeyword 7145 7151	direct
+T105	InteractionKeyword 7228 7236	increase
+T106	InteractionKeyword 7289 7296	promote
+T107	InteractionKeyword 7513 7521	decrease
+T108	InteractionKeyword 7718 7725	control
+T109	InteractionKeyword 7819 7826	control
+T110	InteractionKeyword 7945 7952	effects
+T111	InteractionKeyword 8709 8715	formed
+T112	InteractionKeyword 8798 8804	induce
+T113	InteractionKeyword 9088 9092	form
+T114	InteractionKeyword 9298 9306	modified
+T115	InteractionKeyword 9830 9838	produced
+T116	InteractionKeyword 9865 9874	generated
+T117	InteractionKeyword 9956 9962	formed
+T118	InteractionKeyword 10177 10183	reduce
+T119	InteractionKeyword 11837 11847	determined
+T120	InteractionKeyword 11959 11968	generated
+T121	InteractionKeyword 12738 12744	direct
+T122	InteractionKeyword 13135 13141	caused
+T123	InteractionKeyword 15294 15303	following
+T124	InteractionKeyword 16045 16051	signal
+T125	InteractionKeyword 16608 16618	determined
+T126	InteractionKeyword 16983 16992	determine
+T127	InteractionKeyword 17296 17303	produce
+T128	InteractionKeyword 17388 17394	induce
+T129	InteractionKeyword 17480 17486	formed
+T130	InteractionKeyword 18543 18551	enhanced
+T131	InteractionKeyword 18634 18639	limit
+T132	InteractionKeyword 23232 23240	increase
+T133	InteractionKeyword 24504 24512	decrease
+T134	InteractionKeyword 24869 24877	increase
+T135	InteractionKeyword 25372 25378	reduce
+T136	InteractionKeyword 25465 25473	produced
+T137	InteractionKeyword 25488 25496	decrease
+T138	InteractionKeyword 25553 25561	resulted
+T139	InteractionKeyword 25583 25591	decrease
+T140	InteractionKeyword 25754 25760	change
+T141	InteractionKeyword 26239 26243	lead
+T142	InteractionKeyword 26539 26547	requires
+T143	InteractionKeyword 26873 26880	results
+T144	InteractionKeyword 27088 27097	increased
+T145	InteractionKeyword 27490 27498	resulted
+T146	InteractionKeyword 28228 28235	results
+T147	InteractionKeyword 28372 28381	determine
+T148	InteractionKeyword 28456 28463	results
+T149	InteractionKeyword 28730 28740	controlled
+T150	InteractionKeyword 28938 28946	suppress
+T151	InteractionKeyword 29498 29504	reduce
+T152	InteractionKeyword 29519 29528	influence
+T153	InteractionKeyword 29627 29633	result
+T154	InteractionKeyword 30014 30023	increases
+T155	InteractionKeyword 30117 30125	decrease
+T156	InteractionKeyword 30663 30667	lead
+T157	InteractionKeyword 31015 31022	results
+T158	InteractionKeyword 31365 31370	cause
+T159	InteractionKeyword 31456 31465	increased
+T160	InteractionKeyword 32020 32027	promote
+T161	InteractionKeyword 32170 32177	effects
+T162	InteractionKeyword 32785 32792	effects
+T163	InteractionKeyword 33129 33136	enhance
+T164	InteractionKeyword 33262 33272	preventing
+T165	InteractionKeyword 33751 33761	increasing
+T166	InteractionKeyword 33828 33838	diminished
+T167	InteractionKeyword 35140 35150	associated
+T168	InteractionKeyword 35368 35378	associated
+T169	InteractionKeyword 36443 36450	effects
+T170	InteractionKeyword 36897 36904	promote
+T171	InteractionKeyword 37154 37162	promotes
+T172	InteractionKeyword 37391 37399	promotes
+T173	InteractionKeyword 37603 37613	attenuates
+T174	InteractionKeyword 37683 37692	following
+T175	InteractionKeyword 38385 38394	involving
+T176	InteractionKeyword 38478 38487	following
+T177	InteractionKeyword 38803 38811	resulted
+T178	InteractionKeyword 38817 38824	reduced
+T179	InteractionKeyword 39037 39046	following
+T180	InteractionKeyword 39076 39084	mediated
+T181	InteractionKeyword 39341 39348	inhibit
+T182	InteractionKeyword 39374 39381	promote
+T183	InteractionKeyword 40075 40082	effects
+T184	InteractionKeyword 40114 40123	signaling
+T185	InteractionKeyword 42830 42839	involving
+T186	InteractionKeyword 42923 42932	following
+T187	InteractionKeyword 43288 43295	induces
+T188	InteractionKeyword 43496 43506	attenuates
+T189	InteractionKeyword 43576 43585	following
+T190	InteractionKeyword 44306 44313	results
+T191	InteractionKeyword 46672 46679	control
+T192	InteractionKeyword 47812 47821	following
+T193	InteractionKeyword 47880 47889	determine
+T194	InteractionKeyword 49898 49905	complex
+T195	InteractionKeyword 49914 49922	involved
+T196	InteractionKeyword 50175 50185	increasing
+T197	InteractionKeyword 50281 50286	cause
+R198	Partner1 Arg1:T114 Arg2:T3
+R199	Partner2 Arg1:T114 Arg2:T4
+R200	Partner1 Arg1:T123 Arg2:T8
+R201	Partner2 Arg1:T123 Arg2:T6
+R202	Partner1 Arg1:T169 Arg2:T24
+R203	Partner2 Arg1:T169 Arg2:T23
+R204	Partner1 Arg1:T184 Arg2:T31
+R205	Partner2 Arg1:T184 Arg2:T30

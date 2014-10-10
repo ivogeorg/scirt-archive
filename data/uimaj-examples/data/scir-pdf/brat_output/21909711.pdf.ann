@@ -1,0 +1,115 @@
+T1	Gene 1871 1873	LT
+T2	Gene 2143 2146	SCI
+T3	Gene 2914 2917	SCI
+T4	Gene 3579 3593	PhotoThera Inc
+T5	Gene 6092 6099	Fig. 1a
+T6	Gene 6424 6431	Fig. 1b
+T7	Gene 8042 8045	SCI
+T8	Gene 12193 12196	SCI
+T9	Gene 12707 12714	Ilev IK
+T10	Gene 12716 12729	Wu X, Barna L
+T11	Gene 12731 12738	Smith K
+T12	Gene 12943 12947	Wu X
+T13	Gene 14835 14837	JA
+T14	Gene 14839 14852	Kaczmarczyk L
+T15	Gene 14929 14933	SOD1
+T16	Gene 16081 16093	De Taboada L
+T17	Gene 16791 16794	Lin
+T18	Species 103 106	rat
+T19	Species 783 789	humans
+T20	Species 1480 1485	human
+T21	Species 1980 1984	rats
+T22	Species 2334 2353	Sprague-Dawley rats
+T23	Species 2555 2559	rats
+T24	Species 4080 4084	rats
+T25	Species 8440 8447	rabbits
+T26	Species 8750 8755	mouse
+T27	Species 9467 9473	rabbit
+T28	Species 9817 9820	rat
+T29	Species 12613 12617	rats
+T30	Species 13105 13108	rat
+T31	Species 13316 13320	mice
+T32	Species 13597 13604	rabbits
+T33	Species 13815 13822	rabbits
+T34	Species 14135 14139	rats
+T35	Species 14456 14460	rats
+T36	Species 14709 14716	rabbits
+T37	Species 14945 14950	mouse
+T38	Species 15268 15283	transgenic mice
+T39	Species 16352 16355	rat
+T40	Species 16891 16895	rats
+T41	Species 17125 17128	rat
+T42	Species 17265 17274	Churchill
+T43	Species 17492 17495	rat
+T44	InteractionKeyword 31 38	effects
+T45	InteractionKeyword 531 538	effects
+T46	InteractionKeyword 818 825	effects
+T47	InteractionKeyword 1071 1078	effects
+T48	InteractionKeyword 1230 1236	effect
+T49	InteractionKeyword 1252 1258	effect
+T50	InteractionKeyword 1874 1882	promotes
+T51	InteractionKeyword 2058 2065	effects
+T52	InteractionKeyword 2430 2439	following
+T53	InteractionKeyword 2467 2474	control
+T54	InteractionKeyword 2710 2717	results
+T55	InteractionKeyword 3120 3126	direct
+T56	InteractionKeyword 3867 3873	induce
+T57	InteractionKeyword 5152 5158	formed
+T58	InteractionKeyword 5460 5468	affected
+T59	InteractionKeyword 6031 6038	control
+T60	InteractionKeyword 6360 6367	control
+T61	InteractionKeyword 6681 6688	control
+T62	InteractionKeyword 6886 6893	control
+T63	InteractionKeyword 7337 7344	effects
+T64	InteractionKeyword 7484 7494	stimulated
+T65	InteractionKeyword 7517 7526	resulting
+T66	InteractionKeyword 7564 7571	effects
+T67	InteractionKeyword 7616 7623	results
+T68	InteractionKeyword 7815 7821	effect
+T69	InteractionKeyword 8068 8076	controls
+T70	InteractionKeyword 8081 8084	led
+T71	InteractionKeyword 8102 8110	increase
+T72	InteractionKeyword 8322 8330	involved
+T73	InteractionKeyword 8349 8356	effects
+T74	InteractionKeyword 8448 8457	following
+T75	InteractionKeyword 8473 8481	resulted
+T76	InteractionKeyword 8488 8496	increase
+T77	InteractionKeyword 8584 8592	resulted
+T78	InteractionKeyword 8596 8605	increases
+T79	InteractionKeyword 8785 8794	following
+T80	InteractionKeyword 8871 8879	enhanced
+T81	InteractionKeyword 8921 8927	effect
+T82	InteractionKeyword 8945 8950	leads
+T83	InteractionKeyword 9113 9122	following
+T84	InteractionKeyword 9586 9595	initiated
+T85	InteractionKeyword 9757 9763	result
+T86	InteractionKeyword 9834 9842	produced
+T87	InteractionKeyword 9911 9919	resulted
+T88	InteractionKeyword 10049 10057	resulted
+T89	InteractionKeyword 10259 10266	results
+T90	InteractionKeyword 10454 10461	results
+T91	InteractionKeyword 10708 10714	target
+T92	InteractionKeyword 10893 10900	depends
+T93	InteractionKeyword 11157 11167	determined
+T94	InteractionKeyword 11230 11235	cause
+T95	InteractionKeyword 11419 11425	caused
+T96	InteractionKeyword 11714 11720	target
+T97	InteractionKeyword 11768 11774	target
+T98	InteractionKeyword 12528 12536	followed
+T99	InteractionKeyword 12783 12791	promotes
+T100	InteractionKeyword 12833 12839	alters
+T101	InteractionKeyword 13321 13330	following
+T102	InteractionKeyword 13370 13377	reduces
+T103	InteractionKeyword 13786 13795	following
+T104	InteractionKeyword 14180 14187	reduces
+T105	InteractionKeyword 14461 14470	following
+T106	InteractionKeyword 14621 14630	increases
+T107	InteractionKeyword 14680 14689	following
+T108	InteractionKeyword 15192 15202	attenuates
+T109	InteractionKeyword 15539 15546	results
+T110	InteractionKeyword 16313 16319	alters
+T111	InteractionKeyword 16453 16461	promotes
+T112	InteractionKeyword 16648 16657	enhancing
+T113	InteractionKeyword 17048 17054	effect
+R114	Partner1 Arg1:T100 Arg2:T10
+R115	Partner2 Arg1:T100 Arg2:T11

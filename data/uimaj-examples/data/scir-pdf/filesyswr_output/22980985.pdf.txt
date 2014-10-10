@@ -1,0 +1,959 @@
+Long-Distance Growth and Connectivity of Neural Stem Cells
+After Severe Spinal Cord Injury
+Paul Lu1,2,*, Yaozhi Wang1, Lori Graham1, Karla McHale1, Mingyong Gao1, Di Wu1, John
+Brock1, Armin Blesch1, Ephron S. Rosenzweig1, Leif A. Havton3, Binhai Zheng1, James M.
+Conner1, Martin Marsala4, and Mark H. Tuszynski1,2,*
+1Dept. of Neurosciences, University of California - San Diego, La Jolla, CA 92093, USA
+2Veterans Administration Medical Center, San Diego, CA 92161, USA
+3Dept. of Neurology, University of California, Los Angeles, CA 90095, USA
+4Dept. of Anesthesiology, University of California, - San Diego, CA 92093, USA
+SUMMARY
+Neural stem cells (NSCs) expressing GFP were embedded into fibrin matrices containing growth
+factor cocktails and grafted to sites of severe spinal cord injury. Grafted cells differentiated into
+multiple cellular phenotypes, including neurons, which extended large numbers of axons over
+remarkable distances. Extending axons formed abundant synapses with host cells. Axonal growth
+was partially dependent on mammalian target of rapamycin (mTOR) but not Nogo signaling.
+Grafted neurons supported formation of electrophysiological relays across sites of complete spinal
+transection, resulting in functional recovery. Two human stem cell lines (566RSC and HUES7)
+embedded in growth factor-containing fibrin exhibited similar growth, and 566RSC cells
+supported functional recovery. Thus, properties intrinsic to early stage neurons can overcome the
+inhibitory milieu of the injured adult spinal cord to mount remarkable axonal growth resulting in
+formation of novel relay circuits that significantly improve function. These therapeutic properties
+extend across stem cell sources and species.
+INTRODUCTION
+Research over the last several decades has revealed numerous molecular mechanisms in the
+environment of the adult central nervous system (CNS) that contribute to the failure of
+axonal regeneration after injury, including myelin-associated proteins that inhibit axonal
+growth (He and Koprivica, 2004; Buchli and Schwab, 2005), the deposition of inhibitory
+extracellular matrix molecules around injury sites (Fawcett, 2006; Fitch and Silver, 2008),
+and the lack of positive environmental stimuli such as growth factors (Tuszynski and Lu,
+2008). The observation that at least some classes of adult CNS axons can grow over long
+distances in peripheral nerve bridges supports the view that the adult CNS environment is
+inhibitory (David and Aguayo, 1981; Houle et al., 2006). However, some studies indicate
+that neuron-intrinsic mechanisms also contribute to axonal growth failure in the adult CNS
+*Correspondence to: Mark H. Tuszynski or Paul Lu, Dept. Neurosciences, 0626 University of California, San Diego, La Jolla, CA
+92093, USA 858-534-8857 858-534-5220 (fax) mtuszynski@ucsd.eduplu@ucsd.edu.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+The authors declare that they have no competing financial interests.
+NIH Public Access
+Author Manuscript
+Cell. Author manuscript; available in PMC 2013 September 14.
+Published in final edited form as:
+Cell. 2012 September 14; 150(6): 1264–1273. doi:10.1016/j.cell.2012.08.020.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+(Filbin, 2006; Kadoya et al., 2009). Indeed, the extent to which neuron-intrinsic mechanisms
+alone can overcome the inhibitory growth environment of the adult CNS is actively debated.
+To address this question, we grafted either freshly dissociated neural stem cells/progenitors
+from green fluorescent protein (GFP) - expressing rat embryos (Bryda et al., 2006; Baska et
+al., 2008; Mayer-Proschel et al., 1997), or cultured human stem cells derived from two
+different sources (HUES7 cells and 566RSC cells from NeuralStem Inc.) to the adult
+lesioned spinal cord. Expression of the GFP reporter gene in all cells provides an
+unprecedented opportunity to track the fate, integration, process extension and
+differentiation of grafted cell types within the inhibitory milieu of the adult injured spinal
+cord.
+We now report a remarkable capability of early stage neurons from different sources and
+species to survive, integrate, extend axons over very long distances and form functional
+relays in the lesioned adult CNS. These findings indicate that, despite the inhibitory milieu
+of the adult CNS, neuron-intrinsic mechanisms are sufficient to support remarkably
+extensive axonal growth and synapse formation after spinal cord injury, resulting in
+formation of novel neuronal relays that restore electrophysiological activity and behavior.
+Moreover, stem cells across species exhibit these properties, supporting the intrinsic
+capabilities of these cells and suggesting translational relevance.
+RESULTS
+Fischer 344 adult rats underwent T3 complete spinal cord transection. Two weeks later, a
+clinically relevant time point, we dissected embryonic day 14 (E14) spinal cords from
+Fischer 344 rats ubiquitously expressing the GFP reporter gene. Grafts were trypsinized and
+implanted as suspensions (Giovanini et al., 1997), but survived only at the host/lesion
+margins and failed to fill the complete transection site. To enhance graft survival and filling
+of the lesion, in new experiments the E14 neural stem cells were embedded into fibrin/
+thrombin matrices containing a cocktail of growth factors (N=26 rats; see Methods).
+Animals then underwent functional and electrophysiogical studies and were perfused 9
+weeks after the initial injury.
+Anatomical analysis revealed that grafted cells completely and consistently filled the lesion
+cavity when assessed seven weeks post-grafting (Fig. 1A–1B). Grafted cells were not
+observed to migrate into the host beyond the immediate region of the graft/lesion site.
+Grafted cells primarily differentiated into neurons (27.5 ± 2.7% of all GFP-labeled cells),
+oligodendroglia (26.6 ± 3.9%) and astrocytes (15.9 ± 1.6%) (Fig. 1C–1H and Suppl. Fig. 1).
+Numerous large GFP-labeled cells co-localized with the mature neuronal markers NeuN
+(Fig. 1C–1H), βIII tubulin (Tuj1) and MAP2 (Suppl. Fig. 2A–B). In addition to expressing
+mature neuronal markers, many grafted cells also expressed choline acetyltransferase
+(ChAT), characteristic of spinal motor neurons, and the inhibitory neuronal marker glutamic
+acid decarboxylase 67 (GAD67) (Suppl. Fig. 2C–D).
+Graft-derived spinal cord neurons extended large numbers of axons into the host spinal cord
+in both rostral and caudal directions over remarkably long distances (Fig. 2). Emerging
+GFP-labeled processes from grafts were axons, as demonstrated by co-labeling for the
+axonal marker neurofilament (Fig. 2A). In the cephalad (rostral) direction, graft-derived
+axons extended to C6 in all subjects examined (N = 6), and a distance of 25 mm from the T3
+transection cavity into the C4 cervical segment in 5 of 6 subjects (Fig. 2E–F). Graft-derived
+axons also extended caudally to the lower thoracic spinal cord (T10) in all subjects (N = 6),
+continuing to the upper lumbar spinal cord, a distance of more than nine spinal segments (25
+mm), in 4 of 6 subjects (2A–D, G–H). All animals with caudal extension of axons to L1 also
+exhibited rostral extension of axons to C4, indicating that long-distance, bi-directional
+Lu et al. Page 2
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+axonal growth occurred commonly. To estimate the magnitude of axon outgrowth that can
+be achieved by implantation of neural primordia into sites of spinal cord injury, we
+stereologically (Rosenzweig et al., 2010) quantified 29,000 GFP-labeled axons emerging
+from the graft in the caudal direction (0.5 mm caudal to the T3 transection site). This
+number likely represents an underestimation, as dense bundles of axons that could not be
+individually resolved were counted as single axons. The density of axons emerging from
+grafts was highly consistent among all six subjects examined (Suppl. Fig. 3). In 12
+additional subjects, progressive axon emergence from the lesion/graft site was serially
+examined at time points of 1, 2, 3 and 7 days post-grafting (N=3 rats per time point). Axons
+emerged from the graft/lesion site by day 2 after grafting, and extended at a rapid rate of 1–
+2mm/day (Suppl. Fig. 4). The visualization of axon growth over time documents the
+extension of new axons and excludes the possible artifact that grafted cells fused with host
+neurons. Thus, axons extended in remarkably large numbers and over long distances,
+including extension through adult white matter. Indeed, time course studies indicated that
+initial axon outgrowth preferentially occurred through white matter (Suppl. Fig. 4).
+Graft-derived axons in host white matter were frequently myelinated by host
+oligodendrocytes (i.e., cells myelinating graft-derived axons were not labeled for GFP; Fig.
+3A–B). In addition, grafted cells that differentiated into neurons extended axons from the
+spinal cord lesion site into adjacent host ventral roots in every subject examined, with 6.8 ±
+1.2 graft-derived axons quantified per 40μm-thick section of ventral root; Suppl. Fig. 2E–F).
+56.7 ± 5.3% of these ventral root axons expressed the appropriate phenotypic motor
+neuronal marker choline acetyltransferase (ChAT; Suppl. Fig. 3F), likely derived from
+ChAT-expressing motor neurons inside grafts (Suppl. Fig. 2C). GFP-labeled axons were
+rarely detected in dorsal roots.
+GFP-labeled, graft-derived axons in the host spinal cord formed dense bouton-like terminals
+around host dendrites and cell bodies, identified by labeling for the neuronal somal and
+dendritic markers MAP-2, the neuronal somal marker Tuj1 (βIII tubulin), and the motor
+neuron marker ChAT (Fig. 3C–E). Double immunofluorescent labeling for GFP and
+synaptophysin suggested synapse formation between grafted and host neurons in both rostral
+and caudal directions (Fig. 3E) at all distances from the lesion site, including sites sampled
+25mm from the injury. Immunoelectron microscopy confirmed synapse formation between
+GFP-labeled graft-derived axons and host neurons and dendrites (Fig. 3F). Further, GFP-
+labeled terminal boutons expressed either the excitatory transmitter marker vesicular
+glutamate transporter 1/2 (vGlut1/2) or the inhibitory marker glutamic acid decarboxylase
+65 (GAD65) (Fig. 3G–H). Many instances of co-localization of these terminal region
+markers with ChAT were also found (Fig. 3G–H). Collectively, these findings demonstrate
+exuberant projections of neural stem cell-derived axons from sites of spinal cord injury into
+the adult spinal cord together with synapse formation.
+Neurons of the developing spinal cord express receptors to myelin-associated inhibitors such
+as Nogo (Josephson et al., 2002), a finding we confirmed in the present study in grafted
+tissue (Suppl. Fig. 5A). Thus, insensitivity to myelin-based inhibitors is an unlikely
+mechanism to account for the robust growth of axons observed in this study. Recently, the
+tumor suppressor gene “phosphatase and tensin homolog” (PTEN) has been identified as a
+major neuron-intrinsic regulator of axonal regeneration in the adult CNS (Park et al., 2008).
+PTEN inhibits the activity of “mammalian target of rapamycin” (mTOR), and neuronal
+knockout of PTEN has been reported to enhance central axonal regeneration (Park et al.,
+2008; Liu et al., 2010; Sun et al., 2011). To determine whether mTOR signaling is a
+mechanism contributing to the extensive growth of neural stem cell-derived axons through
+the lesioned adult CNS, we injected rapamycin, an mTOR inhibitor, into rats beginning two
+days after placement of grafts into the lesion site (6 mg/kg intraperitoneally, n=6 rats; 7
+Lu et al. Page 3
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+controls underwent vehicle injections). When examined two weeks later, rats subjected to
+mTOR blockade exhibited a significant, 50% reduction in graft-derived axonal outgrowth
+from the lesion compared to vehicle-injected controls (P<0.05; Fig. 4A; Suppl. Fig. 5B–E).
+Labeling for phospho-S6 (p-S6), an indicator of mTOR activity (Park et al., 2008),
+demonstrated abundant expression in graft-derived neurons and substantial reduction
+following rapamycin treatment (Suppl. Fig. 5H–J). Rapamycin injection did not alter neural
+stem cell graft survival or differentiation (Suppl. Fig. 5F–G, K). These findings demonstrate
+mTOR signaling as a mechanism contributing to the ability of early stage neurons to extend
+axons in the adult lesioned CNS.
+Importantly, host axons also penetrated neural stem cell grafts in spinal cord lesion sites,
+including BDA-labeled reticulospinal axons and 5-HT labeled serotonergic (raphespinal)
+axons (Fig. 4B–G). Host inputs into grafts were both locally and supraspinally derived.
+While host supraspinal axons regenerated into grafts, in no case did they regenerate beyond
+the graft into host spinal cord parenchyma caudal to the lesion site. Like graft-derived axons,
+host axons penetrating grafts co-localized with the synaptic marker synaptophysin (Fig. 4F),
+establishing a mechanism for host-to-graft connectivity.
+Functional and behavioral outcomes were measured in subjects that underwent T3 complete
+spinal cord transections and, two weeks later, neural stem cell implants in the lesion site
+(Fig. 5A). Hindlimb locomotion was severely impaired in both lesion control and grafted
+subjects for the first four weeks post-injury; in the 5th week (three weeks post-grafting),
+recipients of neural stem cell grafts exhibited significant improvement on the BBB scale
+(Basso et al., 1996), reaching a functional plateau by the 8th week post-lesion (p<0.01). The
+mean BBB score reached a level of 7, indicating movement about each joint of the hindlimb,
+in contrast to minimal movement if any in lesioned controls. To determine whether
+functional improvement depended on regeneration of host axons into the graft/lesion site,
+half the subjects underwent re-transection of the spinal cord just rostral to the T3 graft,
+resulting in a complete abolition of behavioral recovery when measured one week later (Fig.
+5A and Suppl. Fig. 6).
+To confirm the dependence of functional recovery on host axonal regeneration into the
+lesion site, electrophysiological measurements were made in 6 subjects. A stimulating
+electrode was placed in the dorsal C7 spinal cord (3 spinal segments above the lesion) and
+recordings were made at T6 (3 spinal segments below the lesion). In intact animals,
+stimulation at C7 evoked a short latency (3.42± 0.32 msec) response (Fig. 5B-i) that was
+entirely abolished by T3 complete transection (Fig. 5B-ii). In two-thirds of animals with
+neural stem cell grafts in the lesion site, evoked responses were restored (Fig. 5B-iii).
+Response latencies in the grafted group were prolonged (5.47 ± 0.24 msec compared to
+3.42± 0.32 msec in intact subjects, P<0.05), suggesting formation of poly-synaptic relays
+through the graft. Response amplitudes in the grafted group (0.09 ± 0.03 mV) were smaller
+than intact subjects (0.27 ± 0.12 mV) (P<0.05; Fig. 5B-iii). Notably, re-transection of the
+spinal cord just rostral to the T3 graft completely abolished detectable activity upon C7
+stimulation even when using high intensity stimuli (Fig. 5B-iv). To determine whether
+responses detected at T6 depended on the presence of synapses in the graft, the NMDA
+receptor blocker kynurenic acid (50 mM) was applied to the graft at T3, 7 weeks post-lesion.
+Kynurenic acid resulted in a significant, 50% reduction in the amplitude of the response
+recorded at T6 but did not affect latency of the response, indicating that excitatory synaptic
+transmission across the graft was required for detection of caudal transmission (Fig. 5C).
+Thus, early stage neurons grafted in a fibrin matrix containing a growth factor cocktail
+extend large numbers of axons over long distances in the lesioned spinal cord, and form
+neuronal relays that significantly improve electrophysiological and functional outcomes.
+Lu et al. Page 4
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+The magnitude of functional effect substantially exceeds those previously reported in studies
+of fetal or stem cell grafts to the injured spinal cord, possibly due to enhanced graft survival
+generated by co-implantation with fibrin matrices containing growth factors. These results
+suggest strong translational possibilities. Accordingly, we repeated these studies using
+cultured human neural stem cells.
+6 adult female athymic nude rats (T-cell deficient) underwent T3 complete transections. One
+week later, a suspension of neural stem cells derived from human fetal spinal cord
+(566RSCUBQT-GFP, see Methods; gift of NeuralStem, Inc.) was embedded into fibrin
+matrices containing a growth factor cocktail, as above. These cells are currently being used
+in a human clinical trial in amytrophic lateral sclerosis (Boulis et al., 2011). Function was
+assessed over the next 7 weeks in grafted animals and compared to six lesioned controls,
+then rats were sacrificed for anatomical studies. Grafts completely and consistently filled
+lesion cavities (Fig. 6A), and a majority of grafted cells (57±1.7%) expressed the mature
+neuronal marker NeuN (Fig. 6B). As in rat donor studies, remarkable numbers of axons
+emerged from the grafts and extended for very long distances, over a total of 17 spinal
+segments (Fig. 6C–E and Fig. 7). In the rostral direction, axons extended 25 mm above the
+lesion site to the C4 level (Fig. 7A–C), and in the caudal direction axons reached the upper
+lumbar spinal cord (Fig. 7D–F). GFP-labeled, graft-derived axons formed bouton-like
+terminals in the host gray matter and expressed human-specific synaptophysin (Fig. 6F),
+suggesting synaptic connectivity between grafted human and host rat neurons. Tumor
+formation by implanted human neurons was not observed within the lesion site or remotely
+in the host spinal cord. As observed in rat donor studies, grafts of human neural stem cells
+induced significant locomotor recovery after T3 complete transection (Fig. 6G), with
+movement about all joints of the lower extremities. Once again, re-transecting the spinal
+cord immediately rostral to the lesion site abolished hindlimb movement, indicating that
+functional recovery was dependent on inputs into the graft from the host.
+To determine whether the ability to extend axons in vivo is a property expressed by stem
+cells derived from different human sources, we also tested the Harvard University
+Embryonic Stem cell 7 (HUES7) line (Cowan et al., 2004). HUES7 cells were neurally
+induced (Yuan et al., 2011) and embedded in the same growth factor cocktail-containing
+matrix, then grafted to sites of spinal cord injury (Suppl. Fig. 7); because this component of
+the study was purely anatomical, we used a C5 lateral spinal cord lesion (hemisection) in
+which animal care is less difficult. Once again, remarkable numbers of axons extended from
+the lesion over very long distances, reaching the brainstem in the rostral direction and the
+lumbar spinal cord caudally (Suppl. Fig. 7A–G). In gray matter, these human terminals
+abundantly expressed the pre-synaptic marker synaptophysin (Suppl. Fig. 7H).
+DISCUSSION
+Findings of the present study indicate that neural stem cells can specify sufficient
+information to permit extensive, long-distance central nervous system axonal regeneration;
+additional experimental manipulation of the inhibitory environment of the adult CNS is not
+required to achieve this long-distance regeneration. Moreover, the axon growth arising from
+neural stem cells can support functional improvement in the most severe model of spinal
+cord injury, complete spinal transection, when co-grafted in a supportive fibrin matrix
+containing a growth factor cocktail. Axons extend in large numbers and over remarkably
+long distances to form connections with host axons. Indeed, axons grew through white
+matter, gray matter, and into ventral roots, grew in high density, and elongated at a rapid rate
+of 1–2mm per day even through inhibitory white matter. Moreover, host supraspinal axons
+regenerated into the neural stem cell grafts. This reciprocal growth resulted in a five-point
+improvement on the BBB scale that reflects recovery of the ability to move all joints of the
+Lu et al. Page 5
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+hindlimbs. The mechanism of recovery, in contrast to previous studies with neural stem
+cells, is functional relay formation, indicated by the abolition of recovery by spinal re-
+transection immediately rostral to the lesion. These findings may accordingly represent the
+most comprehensive demonstration to date of the ability of novel neural relays to support
+functional recovery even after the most severe spinal cord injury (Steward et al., 2003).
+Wictorin and colleagues reported in 1990 that early stage human fetal tissue grafted into
+partial striatal lesion sites could extend axons for long distances in the mature CNS
+(Wictorin et al., 1990). In 1997, Silver and colleagues also supported the concept that
+neurons could extend axons through adult CNS tissue over long distances, by grafting adult
+dorsal root ganglion neurons to white matter (Davies et al., 1997). However, these neurons
+did not extend axons across lesion sites and functional effects were not studied (Davies et
+al., 1999). More recently, Gaillard and colleagues reported long-distance extension of GFP-
+labeled axons from embryonic grafts placed into cortical lesion sites; this study was
+anatomical and lacked functional or circuit analysis (Gaillard et al., 2007). Fischer's group
+grafted mixed neuronal and glial restricted precursors to sites of partial spinal cord injury
+but reported only modest axonal outgrowth (Lepore and Fischer, 2005), and subsequent co-
+administration of growth factors enabled further axonal growth over only short distances of
+a few millimeters (Bonner et al., 2011). Previous studies of embryonic stem cell implants to
+sites of spinal cord injury used moderate and incomplete lesions, and reported only modest
+functional improvements (Cummings et al., 2005) (1–2 points on the BBB scale), with
+relatively modest graft survival in the lesion site. The classic embryonic spinal cord grafting
+literature (Jakeman and Reier, 1991; Theele et al., 1996; Giovanni et al 1997) used cells of a
+similar developmental stage to the rodent donor cells in the present study, but did not
+identify the extent to which early stage neurons were capable of extending very large
+numbers of axons over extraordinarily long distances in the lesioned adult nervous system;
+the improved survival, growth and outcomes in the present study are likely a result of the
+use of fibrin matrix and a growth factor cocktail, together with clear identification of cell
+fate and projection using the GFP reporter. Indeed, distances traversed by graft-derived
+axons in this study exceeded the length of the entire embryonic rat nervous system (Miller et
+al., 1998). Findings were not attributable to graft cell fusion with the host, as axons
+progressively elongated outward from the lesion over several days, an observation
+inconsistent with cell fusion.
+Grafts of human neural stem cells exhibited growth that was equally extensive. Two
+different human cell sources, including 566RSC cells derived from human embryonic spinal
+cord (Johe et al., 1996) and HUES7 cells derived from human ES cells (Cowan et al., 2004;
+Yuan et al., 2011), exhibited identical patterns of growth in the injured adult spinal cord
+after neural induction. Thus, this growth potential is not cell-specific or species-specific,
+suggesting translational potential. Indeed, functional testing of 566RSC cells also revealed
+an ability to support extensive functional improvement in a severe SCI lesion.
+Conclusion
+We report an extensive number, distance and functional impact of axonal outgrowth from
+neural stem cell grafts, embedded in fibrin matrices containing growth factors, to sites of
+severe spinal cord injury. These findings indicate that properties intrinsic to the early stage
+neuron are sufficient to overcome barriers to growth in the adult CNS. There are important
+potential clinical implications: treatments were delayed for a clinically practical time frame
+of at least one week post-injury, resulted in significant functional improvement, and were
+achieved using a human neural stem source already employed in clinical trials for ALS
+(Boulis et al., 2011).
+Lu et al. Page 6
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+EXPERIMENTAL PROCEDURES
+Animals
+Adult female Fischer 344 rats (160–200 g, n=55) and athymic nude rats (T-cell deficient)
+(180–200 g, n=12) were subjects of this study. NIH guidelines for laboratory animal care
+and safety were strictly followed. Animals had free access to food and water throughout the
+study. All surgery was done under deep anesthesia using a combination (2 ml/kg) of
+ketamine (25 mg/ml), xylazine (1.3 gm/ml) and acepromazine (0.25 mg/ml).
+Transplantation surgeries
+Adult female Fischer 344 rats and athymic nude rats underwent T3 complete transection. A
+2-mm-long block of spinal cord was cut and removed using a combination of iridectomy
+scissors and microaspiration, with visual verification to ensure complete transection
+ventrally and laterally. For rat-donor studies, grafting was performed two weeks after T3
+transection. Embryonic day 14 (E14) spinal cords from transgenic Fischer 344-Tg (EGFP)
+rats, ubiquitously expressing GFP under the ubiquitin C promoter, provided donor tissue for
+grafting (Rat Resource and Research Center, University of Missouri, Columbia, Missouri).
+E14 spinal cord was dissected and dissociated according to the method of Harris et al.
+(2007). Dissociated E14 cells were re-suspended in a fibrin matrix (25 mg/ml fibrinogen and
+25 U/ml thrombin, Sigma F6755 and T5772) containing growth factors to support graft
+survival (Willerth et al., 2007; Grumbles et al., 2009; Kadoya et al., 2009): BDNF (50 μg/
+ml, Peprotech, 452-02), neurotrophin-3 (NT-3; 50 μg/ml, Peprotech, 450-03), platelet-
+derived growth factor (PDGF-AA; 10 μg/ml, Sigma, P3076), insulin-like growth factor 1
+(IGF-1; 10 μg/ml, Sigma, I8779), epidermal growth factor (EGF; 10 μg/ml, Sigma, E1257),
+basic fibroblast growth factor (bFGF; 10 μg/ml, Sigma, F0291), acidic fibroblast growth
+factor (aFGF; 10 μg/ml, Sigma, F5542), glial cell line-derived neurotrophic factor (GDNF;
+10 μg/ml, Sigma, G1401), hepatocyte growth factor (HGF; 10 μg/ml, Sigma, H9661), and
+calpain inhibitor (MDL28170, 50 μM, Sigma, M6690). The graft mixture was microinjected
+into the lesion cavity as a 10μl cell suspension and subjects survived another 7 weeks
+(n=26). Animals underwent functional testing, electrophysiological assessment and
+anatomical analysis and were compared to 6 lesion-only controls. To identify molecular
+mechanisms underlying axonal outgrowth from donor cells, 13 additional subjects
+underwent lesions and rat neural stem cell grafts, then received either rapamycin (LC
+Laboratories, 6 mg/kg of 20 mg/ml solution; n=6 animals) or vehicle (n=7) intraperitoneally
+every other day starting two days post-grafting, as previously described (Park et al., 2008).
+Animals survived an additional two weeks. An additional 12 subjects underwent lesion and
+grafts, and were perfused 1, 2, 3 or 7 days after transplantation (n=3 per time point) to
+examine the time course of axonal outgrowth from the lesion site. Two weeks before
+perfusion, reticulospinal tract axons were anterogradely labeled by injection of 0.5μl of 10%
+biotinylated dextran amine (BDA; MW 10,000, Molecular Probes) into each of four sites
+spanning both the right and left gigantocellular reticular nucleus (bregma, 11–12.5 mm;
+lateral, 8 mm; depth, 8.2–7.3 mm) (Jin et al., 2002).
+For human neural stem cell donor studies, cultured human fetal spinal cord NSCs
+(NSI-566RSC), were provided by NeuralStem, Inc. Methods for procuring cells have been
+published previously (Johe et al., 1996; Boulis et al., 2011). Briefly, the cervical and upper
+thoracic region of an 8-week human fetal spinal cord was dissociated and suspended by
+trituration in serum-free, modified N2 medium containing 100 mg/l human plasma apo-
+transferrin, 25mg/l recombinant human insulin, 1.56g/l glucose, 20nM progesterone, 100μM
+putrescine, and 30nM sodium selenite in DMEM/F12. 10ng/ml FGF2 was added as a
+mitogen and cells were serially expanded as monolayer cultures in T175 flasks or 150mm
+plates coated with 100μg/ml poly-D-lysine (Johe et al., 1996). FGF2 was added every two
+Lu et al. Page 7
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+days, and cells were first passaged on day 16. Cells were harvested at each subsequent
+passage upon reaching 75% confluence and were stored in liquid nitrogen. They were not
+retained after passage 20. For shipping, cells were thawed one day prior to grafting, washed
+and shipped overnight to UC San Diego at 2–8°C. Viability exceeded 80% the next day.
+Cells expressed GFP under the ubiquitin C promoter, enabling in vivo tracking of cell
+survival, differentiation and process outgrowth. Cells were implanted into spinal cord lesion
+sites one week after T3 complete transection (N=6 animals) and were compared to lesioned,
+ungrafted controls (N=6). Animals survived for 7 weeks and underwent functional testing,
+as described above. We also grafted a second human stem cell source. Proliferating HUES7
+colonies were cultured on mouse fibroblasts and induced to form embryoid bodies. During
+the nestin-positive stage the rosettes were removed, single cell suspensions prepared, and the
+CD184+/CD271−/CD44−/CD24+ population of hES-NSCs were FAC-sorted and expanded
+in the presence of FGF-2 (Yuan et al., 2011). Cells were embedded in fibrin matrices
+containing growth factors as described above, and were grafted into sites of C5 hemisection
+in adult female athymic (nude) rats (N=6). Comparison was made to lesioned, ungrafted
+controls (N=6). Animals survived for 3 months and were sacrificed for anatomical studies,
+as described above. This was a purely anatomical study; functional outcomes were not
+examined.
+Histology and immunohistochemistry
+Animals were perfused with 4% paraformaldehyde in 0.1 M phosphate buffer (pH 7.2).
+Spinal cords were dissected, post-fixed overnight at 4°C and then transferred to 30% sucrose
+for 72 hours. 1.5 cm-long horizontal sections of spinal cords containing the lesion/graft site
+were sectioned on a cryostat set at 30μm thickness. Coronal sections from the spinal cord,
+rostral and caudal to the T3 lesion/transplant site, were examined. Immunohistochemistry
+was performed to assess survival, maturation, integration and outgrowth of grafted neurons
+as previously described (Lu et al., 2003). Free-floating sections were incubated with primary
+antibodies against jellyfish green fluorescent protein (GFP; rabbit, Invitrogen @ 1:1,500 or
+goat from Chemicon @ 1:1500 to label GFP-expressing neural stem cells); GFAP (mouse
+from Chemicon @ 1:1500 or rabbit from Dako at @ 1:1500 to label astrocytes); NeuN
+(mouse from Chemicon @ 1:200 to label mature neurons); choline acetyltransferase (ChAT;
+goat from Chemicon @ 1:200 to label spinal cord motor neurons and motor axons); MAP-2
+(mouse from Chemicon @ 1:10,000 to label mature neurons); ßIII tubulin (mouse from
+Chemicon @ 1:500 to label immature and mature neurons), neurofilament (NF; mouse from
+Chemicon @ 1:1500 to label axons); serotonin (5-HT; polyclonal antibody from
+Immunostar @ 1:20,000 to label raphespinal axons); myelin-associated glycoprotein (MAG;
+mouse from Chemicon @ 1:200 to label myelin); glutamic acid decarboxylase 65 or 67
+(GAD65, goat from RD System, or GAD67, mouse from Millipore @1:1000 to label
+gabaergic neurons/terminals); vesicular glutamate transporters 1/2 (vGlut1/2, mouse from
+Chemicon @1:1000 to label glutamatergic terminals); synaptophysin (mouse from
+Chemicon @ 1:1000 to label presynaptic terminals), Adenomatous Ployposis Coli (APC,
+monoclonal antibody from Oncogene @ 1:400 to label oligodendrocytes), phospho-S6
+kinase (p-S6, rabbit from Cell Signaling Technology @ 1:200 to label ribosomal protein S6
+phosphorylated at serine 235 and 236). Sections were incubated overnight at 4°C, then
+incubated in Alexa 488, 594 or 647 conjugated goat or donkey secondary antibodies (1:250,
+Invitrogen) for 2.5 hr at room temperature. For nuclear staining, 4&,6-diamidino-2-
+phenylindole (DAPI) (200 ng/ml) was added to the final wash. BDA-labeled reticulospinal
+tract axons were detected by double fluorescent labeling with GFP. After blocking with 5%
+donkey serum, every 6th section was incubated with primary antibody directed against GFP
+(rabbit) and Alexa 594-conjugated streptavidin (to bind to BDA-labeled reticulospinal tract
+axons) overnight at 4°C. After washes, sections were incubated with Alexa 488 conjugated
+donkey anti-rabbit secondary antibodies for 2.5 hr at room temperature.
+Lu et al. Page 8
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+For examination and quantification of GFP-labeled axons, light level GFP immunolabeling
+was performed in every sixth section incubated overnight at 40C with GFP primary antibody
+(rabbit at 1:3000) and then with horseradish peroxidase (HRP) conjugated secondary
+antibodies (1:50, Vector Laboratory, Burlingame, CA) for 1 hr at room temperature.
+Diaminobenzidine (0.05%) with nickel chloride (0.04%) were used as chromagens, with
+reactions sustained for 10 min at room temperature.
+Quantification of neural cell density and axon number
+Cellular differentiation was determined by counting individual cells labeled for NeuN,
+GFAP or APC within a fixed box size of 1600 × 1200 pixels at 400× magnification within
+the graft, divided by the total number of cells per sample box labeled with DAPI. Two
+randomly selected fields corresponding to the graft epicenter were counted in each subject
+for each label, and all analyses were conducted in a blinded manner. An average of 170, 150
+and 92 NeuN-, APC- and GFAP-labeled cells were counted in each of six grafted animals,
+respectively, and divided by the mean number of DAPI-labeled nuclei in the sampled field
+(a mean of 586 DAPI-labeled nuclei/field). The number of GFP-labeled axons emerging
+from a typical graft placed at the T3 transection site was quantified using StereoInvestigator
+(MicroBrightField, mbfbioscience.com) as previously described (Rosenzweig et al., 2010).
+Briefly, in every 6th sagittal section, a dorsoventral line was drawn 500 μm caudal to the
+graft/host interface under 40× magnification. The tissue was then examined under 600×
+magnification, and GFP-labeled axons that intersected this line were marked and counted.
+The sampling fraction was 8.3%. In addition, GFP axon number was quantified in every 6th
+section both rostral and caudal to the graft to study molecular mechanisms of axonal growth
+after rapamycin treatment. Lesion margins were determined using GFAP and GFP double
+fluorescent immunolabeling, and axons crossing a vertical line in horizontal sections 1, 3,
+and 5 mm rostral and caudal to the lesion/graft border were counted at 200× magnification.
+Total axon number/subject was estimated by multiplying by the sampling fraction.
+Observers were blinded to group identity in all surgical and quantitative procedures.
+Semi-quantative RT-PCR
+For RT-PCR of NgR1, 500 ng total RNA from E14, P1 or adult spinal cord was used as the
+template in a 20 ul reaction with random hexamer priming using the Superscript III kit
+(Invitrogen). 1 ul RT product was used in standard PCR with different cycle numbers. PCR
+primers: 1)  GAPDH:  TGGAGTCTACTGGCGTCTT,
+TGTCATATTTCTCGTGGTTCA; 2) NgR1: AAGAGGGCGTCCTCCGG,
+CGGCATGACTGGAAGCT.
+Electron microscopy
+Electron microscopic analysis of synapse formation and myelination was performed
+according to the methods of Knott et al. (2009). Briefly, two rats with T3 complete
+transections that received rat neural stem cell grafts were perfused with 4%
+paraformaldehyde plus 0.25% glutaraldehyde (survival time three months), and spinal cord
+parenchyma 2mm caudal to the lesion/graft site was sectioned in the coronal plane, then
+immunolabeled for GFP with Diaminobenzidine (DAB) and nickel chloride. Sections were
+then post-fixed with 1% osmium tetroxide, dehydrated, embedded in Durcupan resin, and
+sectioned at 60 nm thickness. Individual GFP-labeled axons or axonal terminals were
+located and assessed using a FEI 200KV Sphera microscope at the UCSD CryoElectron
+Microscopy Facility.
+Lu et al. Page 9
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Electrophysiology
+Descending transmission of electrical activity through grafts was assessed using previously
+described techniques (Bradbury et al., 2002). In brief, a bipolar stimulating electrode,
+consisting of a pair of 85 μm tungsten microelectrodes (0.5 MOhm, WPI, Inc.) spaced 1 mm
+apart, was lowered 300–500 μm into the cord at the C7 spinal segment. Brief (0.1 msec)
+square wave pulses were delivered at 3–5 second intervals and responses were averaged
+over 40 trials. Field responses were recorded using a 1 mm diameter silver ball electrode
+placed (i) at T6, three segments caudal to the graft (see Fig. 6b). Confirmation of electrical
+transmission through the graft was confirmed by re-transecting the cord immediately above
+the graft, and by applying kynurenic acid (50 mM in ACSF) to the graft at the T3 segment.
+Functional analysis
+The BBB open field 21-point locomotion rating scale (Basso et al., 1996) was assessed
+weekly by two independent observers blinded to group identity.
+Statistical Analysis
+In all quantification procedures and behavioral analyses, observers were blinded to the
+nature of the experimental manipulation. Multiple group comparisons were made using one-
+way analysis of variance (ANOVA; JMP software) at a designated significance level of
+95%. Two-group comparisons were tested by Student's t-test. Data are presented as mean ±
+SEM.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+We thank Dr. Ramsey Samara for electrophysiological assistance; Janet Weber, Andrea Chan and Jeffrey Kwan for
+technical assistance; the Rat Resource and Research Center, University of Missouri, Columbia, Missouri, for
+providing GFP rats; and Dr. Farquhar for use of the electron microscopy core facility. Human neural stem cells
+were a gift from NeuralStem, Inc. This work was supported by the Veterans Administration, NIH (NS09881),
+Canadian Spinal Research Organization, The Craig H. Neilsen Foundation, and the Bernard and Anne Spitzer
+Charitable Trust.
+REFERENCES
+Bamber NI, Li H, Aebischer P, Xu XM. Fetal spinal cord tissue in miniguidance channels promotes
+longitudinal axonal growth after grafting into hemisected adult rat spinal cords. Neural Plast. 1999;
+6:103–121. [PubMed: 10714264]
+Baska KM, Manandhar G, Feng D, Agca Y, Tengowski MW, Sutovsky M, Yi YJ, Sutovsky P.
+Mechanism of extracellular ubiquitination in the mammalian epididymis. J Cell Physiol. 2008;
+215:684–696. [PubMed: 18064599]
+Basso DM, Beattie MS, Bresnahan JC. Graded histological and locomotor outcomes after spinal cord
+contusion using the NYU weight-drop device versus transection. Exp Neurol. 1996; 139:244–256.
+[PubMed: 8654527]
+Bonner JF, Connors TM, Silverman WF, Kowalski DP, Lemay MA, Fischer I. Grafted neural
+progenitors integrate and restore synaptic connectivity across the injured spinal cord. J Neurosci.
+2011; 31:4675–4686. [PubMed: 21430166]
+Boulis NM, Federici T, Glass JD, Lunn JS, Sakowski SA, Feldman EL. Translational stem cell therapy
+for amyotrophic lateral sclerosis. Nat Rev Neurol. 2011; 8:172–176. [PubMed: 22158518]
+Bradbury EJ, Moon LD, Popat RJ, King VR, Bennett GS, Patel PN, Fawcett JW, McMahon SB.
+Chondroitinase ABC promotes functional recovery after spinal cord injury. Nature. 2002; 416:636–
+640. [PubMed: 11948352]
+Lu et al. Page 10
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Bregman BS, McAtee M, Dai HN, Kuhn PL. Neurotrophic factors increase axonal growth after spinal
+cord injury and transplantation in the adult rat. Exp Neurol. 1997; 148:475–494. [PubMed:
+9417827]
+Bryda EC, Pearson M, Agca Y, Bauer BA. Method for detection and identification of multiple
+chromosomal integration sites in transgenic animals created with lentivirus. Biotechniques. 2006;
+41:715–719. [PubMed: 17191616]
+Buchli AD, Schwab ME. Inhibition of Nogo: a key strategy to increase regeneration, plasticity and
+functional recovery of the lesioned central nervous system. Ann Med. 2005; 37:556–567. [PubMed:
+16338758]
+Cowan CA, Klimanskaya I, McMahon J, Atienza J, Witmyer J, Zucker JP, Wang S, Morton CC,
+McMahon AP, Powers D, et al. Derivation of embryonic stem-cell lines from human blastocysts.
+N Engl J Med. 2004; 350:1353–1356. [PubMed: 14999088]
+Cummings BJ, Uchida N, Tamaki SJ, Salazar DL, Hooshmand M, Summers R, Gage FH, Anderson
+AJ. Human neural stem cells differentiate and promote locomotor recovery in spinal cord-injured
+mice. Proc Natl Acad Sci U S A. 2005; 102:14069–14074. [PubMed: 16172374]
+David S, Aguayo AJ. Axonal elongation into peripheral nervous system “bridges” after central nervous
+system injury in adult rats. Science. 1981; 214:931–933. [PubMed: 6171034]
+Davies SJ, Fitch MT, Memberg SP, Hall AK, Raisman G, Silver J. Regeneration of adult axons in
+white matter tracts of the central nervous system. Nature. 1997; 390:680–683. [PubMed: 9414159]
+Davies SJ, Goucher DR, Doller C, Silver J. Robust regeneration of adult sensory axons in degenerating
+white matter of the adult rat spinal cord. J Neurosci. 1999; 19:5810–5822. [PubMed: 10407022]
+Fawcett JW. Overcoming inhibition in the damaged spinal cord. J Neurotrauma. 2006; 23:371–383.
+[PubMed: 16629623]
+Filbin MT. Recapitulate development to promote axonal regeneration: good or bad approach? Philos
+Trans R Soc Lond B Biol Sci. 2006; 361:1565–1574. [PubMed: 16939975]
+Fitch MT, Silver J. CNS injury, glial scars, and inflammation: Inhibitory extracellular matrices and
+regeneration failure. Exp. Neurol. 2008; 209:294–301. [PubMed: 17617407]
+Gaillard A, Prestoz L, Dumartin B, Cantereau A, Morel F, Roger M, Jaber M. Reestablishment of
+damaged adult motor pathways by grafted embryonic cortical neurons. Nat Neurosci. 2007;
+10:1294–1299. [PubMed: 17828256]
+Giovanini MA, Reier PJ, Eskin TA, Wirth E, Anderson DK. Characteristics of human fetal spinal cord
+grafts in the adult rat spinal cord: influences of lesion and grafting conditions. Exp Neurol. 1997;
+148:523–543. [PubMed: 9417830]
+Grumbles RM, Sesodia S, Wood PM, Thomas CK. Neurotrophic factors improve motoneuron survival
+and function of muscle reinnervated by embryonic neurons. J Neuropathol Exp Neurol. 2009;
+68:736–746. [PubMed: 19535998]
+Harris J, Lee H, Tu CT, Cribbs D, Cotman C, Jeon NL. Preparing e18 cortical rat neurons for
+compartmentalization in a microfluidic device. J Vis Exp. 2007:305. [PubMed: 18989412]
+He Z, Koprivica V. The Nogo signaling pathway for regeneration block. Annu Rev Neurosci. 2004;
+27:341–368. [PubMed: 15217336]
+Houle JD, Tom VJ, Mayes D, Wagoner G, Phillips N, Silver J. Combining an autologous peripheral
+nervous system “bridge” and matrix modification by chondroitinase allows robust, functional
+regeneration beyond a hemisection lesion of the adult rat spinal cord. J. Neurosci. 2006; 26:7405–
+7415. [PubMed: 16837588]
+Jakeman LB, Reier PJ. Axonal projections between fetal spinal cord transplants and the adult rat spinal
+cord: a neuroanatomical tracing study of local interactions. J Comp Neurol. 1991; 307:311–334.
+[PubMed: 1713233]
+Jin Y, Fischer I, Tessler A, Houle JD. Transplants of fibroblasts genetically modified to express BDNF
+promote axonal regeneration from supraspinal neurons following chronic spinal cord injury. Exp
+Neurol. 2002; 177:265–275. [PubMed: 12429228]
+Johe KK, Hazel TG, Muller T, Dugich-Djordjevic MM, McKay RD. Single factors direct the
+differentiation of stem cells from the fetal and adult central nervous system. Genes Dev. 1996;
+10:3129–3140. [PubMed: 8985182]
+Lu et al. Page 11
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Josephson A, Trifunovski A, Widmer HR, Widenfalk J, Olson L, Spenger C. Nogo-receptor gene
+activity: cellular localization and developmental regulation of mRNA in mice and humans. J Comp
+Neurol. 2002; 453:292–304. [PubMed: 12378589]
+Kadoya K, Tsukada S, Lu P, Coppola G, Geschwind D, Filbin MT, Blesch A, Tuszynski MH.
+Combined intrinsic and extrinsic neuronal mechanisms facilitate bridging axonal regeneration one
+year after spinal cord injury. Neuron. 2009; 64:165–172. [PubMed: 19874785]
+Knott GW, Holtmaat A, Trachtenberg JT, Svoboda K, Welker E. A protocol for preparing GFP-
+labeled neurons previously imaged in vivo and in slice preparations for light and electron
+microscopic analysis. Nat Protoc. 2009; 4:1145–1156. [PubMed: 19617886]
+Lepore AC, Fischer I. Lineage-restricted neural precursors survive, migrate, and differentiate
+following transplantation into the injured adult spinal cord. Exp Neurol. 2005; 194:230–42.
+[PubMed: 15899260]
+Liu K, Lu Y, Lee JK, Samara R, Willenberg R, Sears-Kraxberger I, Tedeschi A, Park KK, Jin D, Cai
+B, et al. PTEN deletion enhances the regenerative ability of adult corticospinal neurons. Nat
+Neurosci. 13:1075–1081. [PubMed: 20694004]
+Lu P, Jones LL, Snyder EY, Tuszynski MH. Neural stem cells constitutively secrete neurotrophic
+factors and promote extensive host axonal growth after spinal cord injury. Exp Neurol. 2003;
+181:115–129. [PubMed: 12781986]
+Mayer-Proschel M, Kalyani AJ, Mujtaba T, Rao MS. Isolation of lineage-restricted neuronal
+precursors from multipotent neuroepithelial stem cells. Neuron. 1997; 19:773–85. [PubMed:
+9354325]
+Miller KE, Douglas VD, Richards AB, Chandler MJ, Foreman RD. Propriospinal neurons in the C1-
+C2 spinal segments project to the L5-S1 segments of the rat spinal cord. Brain Res Bull. 1998;
+47:43–47. [PubMed: 9766388]
+Park KK, Liu K, Hu Y, Smith PD, Wang C, Cai B, Xu B, Connolly L, Kramvis I, Sahin M, et al.
+Promoting axon regeneration in the adult CNS by modulation of the PTEN/mTOR pathway.
+Science. 2008; 322:963–966. [PubMed: 18988856]
+Rosenzweig ES, Courtine G, Jindrich DL, Brock JH, Ferguson AR, Strand SC, Nout YS, Roy RR,
+Miller DM, Beattie MS, et al. Extensive spontaneous plasticity of corticospinal projections after
+primate spinal cord injury. Nat Neurosci. 13:1505–1510. [PubMed: 21076427]
+Steward O, Zheng B, Tessier-Lavigne M. False resurrections: distinguishing regenerated from spared
+axons in the injured central nervous system. J Comp Neurol. 2003; 459:1–8. [PubMed: 12629662]
+Sun F, Park KK, Belin S, Wang D, Lu T, Chen G, Zhang K, Yeung C, Feng G, Yankner BA, et al.
+Sustained axon regeneration induced by co-deletion of PTEN and SOCS3. Nature. 480:372–375.
+[PubMed: 22056987]
+Theele DP, Schrimsher GW, Reier PJ. Comparison of the growth and fate of fetal spinal iso- and
+allografts in the adult rat injured spinal cord. Exp Neurol. 1996; 142:128–143. [PubMed: 8912904]
+Tuszynski, MH.; Lu, P. Axon plasticity and regeneration in injured spinal cord. In: Kordower, JH.;
+Tuszynski, MH., editors. CNS Regeneration, Basic Science and Clinical Advances. Second
+Edition. Vol. Chapter 13. Academic Press; 2008. p. 319-335.
+Wictorin K, Brundin P, Gustavii B, Lindvall O, Bjorklund A. Reformation of long axon pathways in
+adult rat central nervous system by human forebrain neuroblasts. Nature. 1990; 347:556–558.
+[PubMed: 1699131]
+Willerth SM, Faxel TE, Gottlieb DI, Sakiyama-Elbert SE. The effects of soluble growth factors on
+embryonic stem cell differentiation inside of fibrin scaffolds. Stem Cells. 2007; 25:2235–2244.
+[PubMed: 17585170]
+Yuan SH, Martin J, Elia J, Flippin J, Paramban RI, Hefferan MP, Vidal JG, Mu Y, Killian RL, Israel
+MA, et al. Cell-surface marker signatures for the isolation of neural stem cells, glia and neurons
+derived from human pluripotent stem cells. PLoS One. 2011; 6:e17540. [PubMed: 21407814]
+Lu et al. Page 12
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Highlights
+• Neural stem cells grow axons over very long distances after severe spinal cord
+injury
+• New synaptic relays are formed, improving electrophysiological and functional
+outcome
+• Rodent and human neural stem cells exhibit similar growth properties
+• Mechanisms intrinsic to early stage neurons overcome adult nervous system
+inhibition
+Lu et al. Page 13
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1. Survival, Filling and Differentiation of Neural Stem Cell Grafts in T3 Complete
+Transection Site
+(A–B) Overview of GFP and GFAP fluorescent immunolabeling in a horizontal section
+demonstrates excellent graft survival, integration and filling of T3 complete transection site,
+seven weeks post-grafting. (C–D) GFP and NeuN labeling confirm extensive neuronal
+differentiation/maturation of grafted rat neural stem cells. (E–F) Higher magnification from
+c showing excellent integration and transition from host (h) neurons to grafted (g) neurons
+(dashed lines) (E: GFP, NeuN; F, NeuN alone). (G–H) Higher magnification from center
+of graft showing high density of NeuN-labeled neurons (inset) (G: GFP, NeuN; H, NeuN
+alone). Scale bar: A–D, 320 μm; E–H, 48 μm. Also see Figure S1 and S2.
+Lu et al. Page 14
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2. Extensive Long-Distance Axonal Outgrowth from Neural Stem Cell Grafts
+(A) GFP and NeuN immunolabeling reveals that GFP-expressing neural stem cell grafts
+robustly extend axons into the host spinal cord rostral and caudal to the T3 complete
+transection site (caudal shown) over the 12mm length of the horizontal section. Extensive
+regions of the host spinal cord contain graft-derived projections in white matter and gray
+matter. Inset shows that GFP-labeled projections arising from grafts express neurofilament
+(NF), confirming their identity as axons. (B) Light-level GFP immunolabeling also clearly
+reveals the density and distribution of axons extending from the lesion site. Boxes are shown
+at higher magnification in C, D. (C) Dense numbers of GFP-labeled axons are present in
+host white matter (WM) and gray matter (GM) 2mm caudal to the lesion, and (D) large
+numbers of axons remain at the end of the block of tissue, 6mm caudal to the lesion. (E) A
+high density of GFP-labeled axons is present in the lateral portion of C8, three spinal
+segments above the lesion, and (F) remain detectable at C4, 7 spinal segments above the
+lesion. Asterisk indicates locations of higher magnification view. (G) GFP-labeled axons
+also extend in dense numbers caudally to T6 white matter and gray matter (shown) and (H)
+caudally to L1. Overall, axons extend at least 25 mm in each direction. Scale bar: A–B, 600
+μm; B–C, 40 μm; D–G, 10 μm. Also see Figure S3 and S4.
+Lu et al. Page 15
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3. Myelination, Synapse Formation and Expression of Neurotransmitters
+(A–B) Graft-derived, GFP-labeled axons are myelinated in many cases, (red, myelin-
+associated glycoprotein, MAG, confirmed by electron microscopy (T, transplanted, GFP-
+labeled axon). (C) GFP-expressing axon terminals are closely associated with host MAP-2-
+expressing neurons and dendrites, and (D) host Tuj1-expressing neuronal somata. (E) A z-
+stack image triple labeled for GFP, synaptophysin (Syn, inset), and ChAT, indicating co-
+association of graft-derived axons with a synaptic marker in direct association with host
+motor neurons (arrowhead indicates one of several examples). (F) Electron microscopy
+confirms that DAB-labeled GFP-expressing axon terminals form synapses (arrows) with
+host dendrites. Arrowhead indicates a separate, host-host synapse. (G–H) Expression of
+vGlut1/2 or GAD65 by GFP-labeled axons (arrows and insets) in close association with
+host motor (ChAT-labeled) neurons. Scale bar: A, 3μm; B, 200nm; C–E, 8μm; F, 200nm;
+G, 7μm; H, 6μm.
+Lu et al. Page 16
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 4. Rapamycin Reduces Axon Growth; Host Axons Innervate Grafts
+(A) Treatment with the mTOR inhibitor rapamycin significantly reduced outgrowth of graft-
+derived axons (*p<0.05, **p<0.01; see also Suppl. Fig 5). Veh, vehicle; Rap, rapamycin
+treated. Data are represented as mean ± SEM. (B–C) Host reticulospinal axons labeled with
+BDA regenerate into GFP-expressing neural stem cell grafts in site of T3 complete
+transection (C, from boxed area of panel B; arrows indicate GFP-labeled grafted cells with
+neuronal morphology). (D–E) Host serotonergic axons immunolabeled for 5-HT regenerate
+into GFP expressing E14 neural stem cell grafts in lesion site. (F) Bouton-like structures on
+host reticulospinal axons regenerating into graft co-localize with synaptophysin in a Z-stack
+image (arrows). (G) Host synaptophysin terminals (red) are closely apposed to GFP-labeled
+grafted cells exhibiting neuronal morphology. Scale bar: B, 64μm; C, 12μm; D, 70 μm; E,
+10 μm; F–G, 2μm. .
+Lu et al. Page 17
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 5. Functional and Electrophysiological Improvement after T3 Complete Transection
+(A) Hindlimb locomotion: BBB scores after T3 complete transection show significant
+improvement in subjects that received neural stem cell grafts (NSC, n=6) compared to
+lesioned controls (n=6). Re-transection (arrow, Re-T) at rostral interface of graft with host
+abolishes functional improvements when assessed one week later (**p<0.01, ***p<0.001).
+Data are represented as mean ± SEM. (B) Electrophysiological transmission across the T3
+complete lesion site: (i) In intact animals, stimulation at C7 evoked a short latency (~3.0
+msec), large amplitude response at T6. (ii) Transection of the cord at T3 completely
+abolished this response. (iii) In 4 of 6 lesion/grafted animals, recovery of an evoked
+response of prolonged latency (~5.5 msec) was observed. (iv) Re-transection of the spinal
+cord at T3, just rostral to the graft (green arrow), abolished the recovered evoked response.
+(C) Kynurenic acid (50 mM), a blocker of excitatory synapses, was applied to the graft to
+determine whether excitatory transmission across synapses in the graft was required to
+detect responses at T6. Indeed, kynurenic acid application substantially reduced the
+amplitude but not the latency of the evoked response. Also see Figure S6.
+Lu et al. Page 18
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 6. Human Neural Stem Cell Grafts in Fibrin Matrices after T3 Transection: Long-
+Distance Axonal Growth, Connectivity and Functional Improvement
+(A) GFP-expressing 566RSC human neural stem cells (NSCs) survive and completely fill
+T3 complete transection site, 7 weeks post-grafting (GFP, green; GFAP, red). (B) GFP and
+NeuN labeling reveals that many grafted human neural stem cells express mature neuronal
+markers. Field is from graft center. (C–E)GFP-expressing human neurons robustly extend
+axons into the host spinal cord caudal and rostral to the complete T3 transection site (caudal
+shown). Axons extend through both white matter (WM) and gray matter (GM). (F) GFP-
+labeled human axon terminals express human-specific synaptophysin (hSyn) in host gray
+matter. Site shown is 7 mm caudal to lesion. Scale bar: A, 500 μm; B, 10 μm; C, 600 μm;
+D–E, 60 μm; F 3 μm. (G) There is significant functional improvement after human NSC
+grafts to sites of T3 complete transection (**p<0.01). Re-transection (arrow, Re-T) at rostral
+interface of graft completely abolishes functional recovery assessed one week later,
+indicating that host inputs are required to improve function. Data are represented as mean ±
+SEM.
+Lu et al. Page 19
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 7. Dense Axonal Outgrowth from Implants of Human 566RSC Neural Stem Cells
+(A) Very large numbers of GFP-labeled axons extend into host spinal cord rostral to T3
+transection site, 7 weeks post-grafting. C8 segment shown. (B–C) GFP-labeled axons are
+present in C6 and C4 white matter, five and seven spinal segments above the lesion,
+respectively. Asterisks indicate location of higher magnification views. (D–F) GFP-labeled
+axons also extend in high density caudal to T6 and T9, and are present in both white matter
+(WM) and gray matter (GM, dashed lines indicate interface). (F) Axons continue to extend
+caudally to L1. Overall, axons extend at least 25 mm in each direction in all subjects. Scale
+bar: 15 μm.
+Lu et al. Page 20
+Cell. Author manuscript; available in PMC 2013 September 14.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript

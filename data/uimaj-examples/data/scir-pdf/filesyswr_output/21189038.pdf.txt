@@ -1,0 +1,1036 @@
+Transplantation of Nanostructured
+Composite Scaffolds Results in the
+Regeneration of Chronically Injured
+Spinal Cords
+Fabrizio Gelain,†,‡,* Silvia Panseri,† Stefania Antonini,†,‡ Carla Cunha,†,‡ Matteo Donega,†,‡ Joseph Lowery,§
+Francesca Taraballi,†,‡ Gabriella Cerri, Marcella Montagna, Fausto Baldissera, and Angelo Vescovi‡,§,*
+†Biotechnology and Biosciences Department, University of Milan-Bicocca, Milan 20126, Italy, ‡Center for Nanomedicine and Tissue Engineering - A.O. Niguarda Ca’
+Granda, Milan 20162, Italy, §Institute for Soldier Nanotechnologies, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States, Department of
+Human Physiology, University of Milan, Milan 20133, Italy, and §IRCCS Casa Sollievo della Sofferenza, Opera di San Pio da Pietrelcina, San Giovanni Rotondo 71013, Italy
+A
+complex cascade of harmful events
+underlies the establishment of
+chronic spinal cord injury (SCI). The
+complexity of this cascade has been de-
+scribed in some detail, from the events fol-
+lowing the initial contusion1 to those estab-
+lishing chronic injuries.2 When developing
+treatments for SCI, the complexity of the
+task at hand varies with the stage of the le-
+sion, peaking in chronic injuries. Key patho-
+physiological factors, such as lack of neu-
+rotrophic stimulation or permissive
+substrates,3 inhibitory environment,4 sec-
+ondary inflammatory damage,5 and intrin-
+sic growth deficiency in adult neurons,6
+have been targeted with a good degree of
+success in acute and subacute SCI.3,7 Unfor-
+tunately, despite significant progress,
+chronic injuries still present us with a com-
+plex scenario. Over time, damaged axons
+undergo atrophy,8 retrograde degeneration
+and retraction,9 while genes required for re-
+generation are down regulated.10 This is
+compounded by the eventual establish-
+ment of a refractory barrier of extracellular
+matrix and glial scarring at the injury site.7
+Complementary approaches, including cell
+therapy,11,12 digestion of glial scarring,7,11
+neurotrophic factor delivery,13 and electri-
+cal stimulation of the tissue surrounding the
+injury site14 as well as clinical rehabilita-
+tion,15 are being developed to accomplish
+nerve fiber regeneration and functional res-
+toration in SCI. Intriguingly, Schwann cell
+transplantation can produce partial recov-
+ery in subacute contusive lesions,16 and ef-
+fective bridging and functional improve-
+ments have recently been accomplished in
+chronic SCI by combinatorial approaches,
+modifying both neuronal-intrinsic and
+-extrinsic growth mechanisms17 and ex-
+ploiting neural progenitors transplanta-
+tion.18
+While the scenario is now turning on
+the brighter side, the breadth of destruc-
+tion of the nervous tissue observed in
+chronic SCI in humansOwith entire sec-
+tions of the spinal cord being replaced by
+fluid-filled cystsOremains a critical concern.
+Within these regions, the mechanical sub-
+strates that provide physical support for ax-
+onal regeneration and three-dimensional
+positional information as well as the cytoar-
+chitectural organization required for effec-
+tive nerve regrowth have gone perma-
+nently lost. Hence, a most pressing issue in
+chronic SCI is to warrant a suitable level of
+*Address correspondence to
+fabrizio.gelain@unimib.it,
+angelo.vescovi@unimib.it.
+Received for review September 20,
+2010 and accepted December 13, 2010.
+Published online December 28, 2010.
+10.1021/nn102461w
+© 2011 American Chemical Society
+ABSTRACT The destruction and hollowing of entire tissue segments represent an insurmountable barrier to
+axonal regeneration and therapeutics in chronic spinal cord injury. To circumvent this problem, we engineered
+neural prosthetics, by assembling electrospun nanofibers and self-assembling peptides into composite guidance
+channels and transplanted them into the cysts of a postcontusive, chronic spinal cord injury rat model, also
+providing delivery of proregenerative cytokines. Six months later conspicuous cord reconstruction was observed.
+The cyst was replaced by newly formed tissue comprising neural and stromal cells. Nerve fibers were interspersed
+between and inside the guidance channels, spanning the lesion, amidst a well-developed vascular network,
+basal lamina, and myelin. This was accompanied by a significant improvement in the activity of ascending and
+descending motor pathways and the global locomotion score. Thus by engineering nanostructured matrices into
+neuroprosthetics, it is possible to recreate an anatomical, structural, and histological framework, which leads to
+the replacement of large, hollow tissue gaps in the chronically injured spinal cord, fostering axonal regeneration
+and neurological recovery.
+KEYWORDS: self-assembling peptide · spinal cord injury · tissue
+engineering · electrospinning · evoked potentials
+A
+RTIC
+LE
+www.acsnano.org VOL. 5 ▪ NO. 1 ▪ 227–236 ▪ 2011 227
+anatomical, histological, and cellular reconstruction at
+the lesion site. Thus, the scar tissue and hollow cysts
+should be replaced with new neural tissue, permissive
+for both axonal regrowth and lesion bridging. Pioneer-
+ing studies on acute injuries show the usefulness of
+various artificial or biological materials in acute and sub-
+acute SCI.19,20 In particular Teng and colleagues ob-
+tained significant functional recovery in poly(lactic-co-
+glycolic acid) (PLGA) scaffolds seeded with neural stem
+cells.21 In animal models of complete transection,
+Bunge’s group obtained significant axonal regenera-
+tion and myelination within implanted resorbable poly-
+meric scaffolds seeded with Schwann cells.22 Unfortu-
+nately, similar studies on chronicized contusions in the
+spinal cord, the most frequent situation in clinics, are
+few. Biomatrix bridges, mixed with cells of olfactory ep-
+ithelial origin, were explored but failed to sustain
+chronically injured cortico-spinal axons.23 Better results
+were obtained through the use of longitudinal channels
+within poly(-caprolactone) (PCL) foam implants, that
+supported axonal regrowth, albeit for a limited time.24
+Self-assembling peptides (SAPs) and electrospun
+constructs, both characterized by their nanoscale archi-
+tecture, are now being used in regenerative
+medicine,25,26 including neuroregeneration27,28 and
+slow delivery of cytokines.29 Here we tackled the issue
+of anatomical and functional reconstruction in chronic
+SCI by using SAPs in a combinatorial approach, in which
+they were assembled into electrospun microchannel
+guidance constructs made of PLGA and PCL blended fi-
+bers. The aim was to establish a “neuro-prosthetic”
+which would improve directional axonal regeneration
+while supplying critical mechanical compliance, bio-
+compatibility and degradation, and high porosity and
+functionalization with biologically active motifs.30 These
+microconduits, alone or imbued with a mix of regenera-
+tive cytokines,31,32 were transplanted into the large
+cysts that formed in the postcontusive spinal cord one
+month after injury. Six months later, we found that,
+while cysts persisted in control and sham-operated ani-
+mals, they had been replaced by neo-formed tissue in
+animals transplanted with microconduits. The latter
+contained and was intermingled with bundles of regen-
+erating axons and myelin, deposition of extracellular
+matrix (ECM) and stromal cells, and well developed neo-
+vascular structures, in the absence of considerable in-
+flammatory response. This was matched by significant
+improvement in motor function on the Basso, Beattie,
+and Bresnahan (BBB) scale and in amplitudes and laten-
+cies of evoked responses in ascending tracts. Thus,
+transplantation of combined electrospun fibers/SAP
+scaffolds neuro-prosthetics supports broad anatomical
+and histological reconstruction and significant func-
+tional recovery in the chronically injured, hollowed spi-
+nal cord.
+RESULTS
+Surgery and Scaffold Implantation.We investigated a
+postcontusion, chronic SCI rat model characterized by
+centrally located cavities (cysts)33 and surrounded by
+gliotic scar tissue, four weeks following a standardized,
+weight-drop trauma34 (Figure 1A).
+Various biological or synthetic materials have been
+proposed in order to develop therapies for the injured
+spinal cord,19,20 although most attempts have focused
+on acute transection lesions rather than the postcontu-
+sion damage most frequent in humans.35 These com-
+prise the use of a combination of synthetic guidance
+channels, hydrogel fillers, growth factors, and fetal,
+schwann, or bone marrow cells in acute SC transection
+studies.20,22,36,37
+Here, we attempted to reinstate an appropriate
+structural and environmental regenerative milieu us-
+ing SAP-assembled tridimensional nanostructures (Fig-
+ure 1B).
+Using electrospinning, we generated hollow chan-
+nels of nanofibers, composed of blended PCL and PLGA
+at a weight ratio of 5.5/4. The PLGA provides short-
+term strength, and the PCL provides long-term stabil-
+ity.38 By this, we achieved a long-lasting reabsorption
+Figure 1. Injury model and scaffold preparation. (A) hematoxylin-
+eosin of a one-month old spinal cord lesion in longitudinal section;
+arrows point at the cyst margins containing tissue debris (magnifi-
+cation 5X). SEM images of self-assembled RADA16-I-BMHP1 (B)
+and of an electropsun, PCL/PLGA microguidance channel (C); a
+high-power magnification is shown in the inset. (D) Schematic rep-
+resentation of scaffold implantation. Conduits, presoaked in PBS
+and filled with RADA16-I-BMHP1 self-assembling peptide via
+microsyringe injection (inset), were placed singularly within the
+cavity following scar ablation. An electrospun lamina was sutured
+and glued to the meninges.
+A
+RT
+IC
+LE
+VOL. 5 ▪ NO. 1 ▪ GELAIN ET AL. www.acsnano.org228
+time in vivo (over 6 months), while preserving fiber
+thickness and electrospun frame permeability. The av-
+erage fiber diameter was 592  225 nm and the tube
+length was between 2 and 3 mm, depending on the
+cavities to be filled. The outer tube diameter and wall
+thickness were 360 and 90 m, respectively (Figure 1C
+and inset). Right before implantation guidance chan-
+nels were wetted with phosphate buffer saline solution,
+infiltrating tubular walls and wetting their inner lu-
+mens due to capillary forces, which allowed for easy
+tube removal.
+In this context, a key issue is that synthetic poly-
+mers, including those we used, lack cell adhesion sites,
+providing poor support for neural cells.39 Furthermore,
+PCL is hydrophobic, similar to synthetic polymer nano-
+fibers, in which the decrease in diameter increases the
+effective contact angle, making them unsuitable for
+neural cell growth and differentiation. Thus, although
+electrospinning can produce submicrometer, polymeric
+fibrous scaffolds, further modifications become neces-
+sary to establish an environment that will effectively
+support neural cell functions. Incorporation of neurite-
+promoting ECM proteins tissue in polymeric electro-
+spun scaffolds has been proposed to mimic the native
+properties of the nervous tissue.40 To do that, we as-
+sembled nanostructured SAPs scaffolds30 at 1% (w/v)
+concentration within microstructured frames (a blend
+of PLGA and PCL), producing a novel kind of neuro-
+prosthetics, shaped into longitudinal guidance micro-
+channels, filled with functionalized SAP hydrogels,
+alone or combined with a mix of neurotrophic cyto-
+kines (Figure 1D).31,32 Peptide self-assembly occurred in-
+side the cavity of electrospun conduits, previously wet-
+ted with phosphate buffer saline solution (pH 7.4), filled
+by microsyringe injection (Figure 1D, inset), and was
+routinely verified (Figure S1, Supporting Information).
+Since it has been proven that matrices foster better
+neuronal growth when constructed with a compliance
+similar to nervous tissue,41 we accordingly chose a SAP
+concentration of 1% (w/v) to yield a hydrogel scaffold
+stiffness similar to the spinal cord (unpublished experi-
+ments). The guidance effect exerted by the electrospun
+conduits was warranted in part by their mechanical
+stiffness, measured to be 12 orders of magnitude
+greater than SAP hydrogels (mechanical characteriza-
+tion tests unpublished).
+Four weeks after the trauma, animals were assessed
+for BBB motor score and randomly divided in three ex-
+perimental groups: sham operated, i.e., rats subjected
+to the whole surgical procedure (including meninges
+incision and surgical scar debridement) but not receiv-
+ing channel implants (group 0); rats implanted with
+guidance channels with RADA16-I-BMHP130 (RIB) alone
+(group 1); or loaded with brain-derived neurotrophic
+factor, ciliary neurotrophic factor, vascular endothelial
+growth factor, and chondroithinaseABC (RIB-GF) (group
+2). Depending on the geometry of the cyst, 1013
+aligned tubes were implanted and oriented along the
+longitudinal spinal cord axis (Figure 1D). Spaces among
+the channels were filled with the matching RIB or
+RIB-GF SAP preparation. Lastly, an electrospun lamina
+(of identical chemical composition and similar fiber di-
+ameters to the guidance conduits) was sutured to the
+dura mater and sealed with fibrin glue.
+Histological Findings and Perineural Tissue Regeneration.
+Seven months after the lesion (6 months after scar ab-
+lation and channel implantation) 5 animals in group 0
+(33%), 4 in group 1 (25%), and 7 in group 2 (33%) had
+died due to postsurgical complications. At the same
+time ependymal canal disruption, dural fibrosis, and in-
+traparenchymal cystic cavitation were observed in
+sham-operated animals (Figure 2A), compounded by in-
+jury to the dorsal corticospinal tract, gracile fasciculi,
+and postsynaptic dorsal column pathways.42 Indeed the
+SC in sham-operated animals were characterized by
+cavities which filled a very large area of the cord sec-
+tion. On the contrary, the apparent SC anatomy was
+strikingly improved in animals implanted with guid-
+ance channels both in groups 1 and 2 (Figure 2B and
+C). Cavities were no longer present, and the whole spi-
+nal cord section was now made of new tissue, com-
+posed of morphologically distinct cells and interspersed
+in the interstitial spaces between the degrading guid-
+ance channels as well as inside their lumen (Figure 2B
+and C). Part of the ventral and lateral roots of the spi-
+nal cords was still present in all groups, as expected in
+this kind of lesion.33
+The nature of the newly formed tissue in groups 1
+and 2 was studied by confocal microscopy. Staining
+for laminin and collagen IV, two basic components of
+basement membranes in nervous tissues, was conspicu-
+ous and widespread (Figure 2D and E). Laminin depos-
+its (green) surrounded NF200 positive fibers (red) (Fig-
+ure 2D), whereas collagen IV (green) was located within
+the tissue regenerated throughout the microguidance
+channel inner lumen, evincing blood vessel morphol-
+ogy. Anti-CD68 immunolabeling revealed physiological
+numbers of macrophages inside the tubes lumen and,
+more frequently, in the degrading tube walls, consistent
+with the ongoing process of bioabsorption of the elec-
+trospun frames (Figure 2E). Interestingly, a well-
+developed vascular network was observed, both inside
+and between the guidance conduits. Blood vessel and
+small capillaries were found inside nearly all of the guid-
+ance tubes, within their walls and between them (Fig-
+ure 2F and G arrows). It is worth noting that distribution
+and frequency of the blood vessels were reminiscent
+of healthy spinal cord tissue and that the neo-
+angiogenesis unfolded preferentially along the longitu-
+dinal axes of the spinal cord and guidance tubes (Fig-
+ure 2G). Similarly, fibroblasts were detected in the in-
+ner lumens and within the fiber meshes of the tubular
+walls (Figure 2F in green). Iba-1 positive, microglial cells
+were located inside the electrospun tubes at physi-
+A
+RTIC
+LE
+www.acsnano.org VOL. 5 ▪ NO. 1 ▪ 227–236 ▪ 2011 229
+ologic levels (Figure 2H), also infiltrating the tube walls,
+indicating their involvement in the gradual scaffold bio-
+degradation. Gliotic astroglial layers were occasionally
+found to surround the implants, while GFAP-positive
+cells were less frequent between the tubular channels
+and inside their lumens (Figure 2I).
+Bridging the Spinal Cord Gap and Myelination.We asked if
+the observed anatomo-histological reconstruction re-
+sulted in axonal regeneration. While the SC of sham-
+operated animals showed only cyst cavities at the le-
+sion site, quite extensive growth of regenerating
+fascicular nerve fibers was detected by anti-GAP43 im-
+munolabeling,43 within and among the implanted guid-
+ance conduits (Figure 3A). This was confirmed by the
+presence of numerous NF200- (group 2) and III-
+tubulin-positive fibers (groups 1 and 2), crossing both
+the proximal and distal lesion boundaries (Figure 3B
+and C). We quantified the percentage of guidance chan-
+nels containing positive fibers for GAP43, III-tubulin,
+and NF200 throughout the whole conduit length, dis-
+counting those in which bridging was incomplete (Fig-
+ure 3D). Within group 1 (n  5), i.e., animals implanted
+with guidance channels without GFs, 78.00 10.92% of
+the channels tested positive for GAP-43, 37.64 
+11.99% were III-tubulin-positive, and none contained
+fibers positive for NF200 throughout the lesion gap.
+Animals receiving both channels and GFs (group 2; n
+ 8) showed the highest percentage of fibers positive
+for all three markers: 100  0% of the channels were
+positive for GAP-43; 92.83  4.6% for III-tubulin, and
+52.65  15.3% for NF200. Statistical analysis showed a
+significant difference for both NF200 and III-tubulin (p
+ 0.03 and 0.003 respectively; MannWhitney rank
+sum test) in favor of animals receiving both channels
+and GFs, as compared to channels alone. No significant
+difference was found for GAP-43 (p  0.093). As ex-
+pected, anti-NF-200 staining did not colocalize with
+GAP43 immunofluorescence, although both kinds of fi-
+bers were often detected within the same tubes (Figure
+3E). Of note, 18.03  3.08% (n  5) and 38.13  5.84%
+(n 8) of the fibers positive for III-tubulin were tightly
+associated with antimyelin basic protein (MBP) immu-
+nolabeling in groups 1 and 2, respectively (Figure 3F
+and enlargement in Figure 3G), suggesting that myeli-
+nation of regenerating neuronal processes occurs
+within the implants. Finally, fibers positive for SMI-32
+(Figure 3H)Othe nonphosphorylated isoform of NF
+200Owere detected within guidance conduits, to-
+Figure 2. Histological and immunofluorescence analysis. Hematoxylin-eosin transverse spinal cord sections are shown, ven-
+tral side down, 6 months post-transplant. (A) A large cyst fills the large part of the lesion epicenter in sham-operated animals.
+In animals transplanted with guidance channels in groups 1 (B) and 2 (C), the cyst has been replaced by tissue-like ma-
+terial. Immunostainings of the inner lumens revealed NF200 positive fibers (red) surrounded by laminin deposits (green)
+(D), sporadic CD68 positive cells (red) (E), and abundant collagen IV deposition (in green) around the lumen of putative blood
+vessels. Networks of capillaries and vessels, positive for VWF, were detected (red) (F and G) adjacent to fibroblasts, the lat-
+ter being located preferentially in the tubewalls (F). Microglial cells were also detected inside the channels and their walls (H).
+GFAP positive cells (green) were found mainly outside the implants (I). Dashed lines outline guidance channel walls. Cell nu-
+clei (DAPI; blue, DI).
+A
+RT
+IC
+LE
+VOL. 5 ▪ NO. 1 ▪ GELAIN ET AL. www.acsnano.org230
+gether with those stained by SMI-31 (Figure
+3I), specific for phosphorylated NF200, all
+across the lesion and crossing into the tissue
+at both the distal and proximal interfaces.
+This shows the presence of both immature
+and mature axons and of myelination
+throughout the regenerating lesion area. Ax-
+onal regrowth, crossing both rostral and cau-
+dal implant/tissue interfaces, was aligned
+with tubular channel orientation (Figure 3J
+dashed lines).
+In summary, the newly formed tissue com-
+prised both stromal (fibroblasts, endothelium,
+and microglia) and neural parenchymal cells
+(astrocytes, neurons, and myelinating cells).
+Astrocytes were found between and around
+the degrading guidance channels together
+with neuronal fibers, myelin, microglial cells,
+fibroblasts, basement membrane compo-
+nents, and endothelial vessels. While the
+same cell types were also found inside the
+channels, the relative frequency of neurons
+and astroglia were quite different.
+In turn, the greater majority of the tubes
+(75%) contained thick bundles of neuronal
+fibers (GAP43 positive cells), cells located
+throughout the whole length of the micro-
+conduits, running along the longitudinal axis
+and crossing the tissue/conduit interfaces at
+both rostral and caudal ends. There was a sig-
+nificant difference in the composition of the
+neuronal fibers found within the guidance
+channels filled with SAPs and GFs as com-
+pared to those with SAPs alone, since the lat-
+ter contained only GAP43- or III-tubulin
+positive fibers and in lesser amounts as com-
+pared to channels with GFs. The presence of
+GFs also led a significant fraction of the neu-
+ronal fibers to be labeled with the mature NF-
+200 neuronal marker, in good agreement
+with the presence of larger amounts of MBP
+than observed in channels without GFs (Fig-
+ure 3F and G). This leads to infer the transplantation of
+guidance channels warrants, per se, not only the preser-
+vation of the cord anatomy but also the onset of signifi-
+cant axonal regeneration. Second the presence of pro-
+regenerative cytokines, which SAPs are known can
+release gradually,29 supports the maturation of the neu-
+rons and their processes. The continued presence of
+both immature and mature neuronal processes inside
+the GF-containing channels, as long as six months af-
+ter transplantation, shows that nerve regeneration is
+still active at this time. This and the fact that guidance
+channels are still being readsorbed suggests that the
+pro-regenerative effects of these composite neural
+prosthetics exceeds the six month end-point tested
+here. To the best of our knowledge, this is the first re-
+port describing the accomplishment of such a promi-
+nent level of anatomical restoration in substitution of
+the cysts in chronic SCI.
+Functional Recovery: BBB and Electrophysiological Analysis.
+The anatomical, histological, and neuronal regenera-
+tion observed in transplanted animals was accompa-
+nied by functional recovery. We evaluated motor func-
+tion by means of serial BBB score analysis. At one week
+post-transplantation, the average BBB score was homo-
+geneous between all experimental groups (Figure 4).
+Notably, significant differences gradually emerged be-
+tween group 0 (n 10) and groups 1 and 2 (n 11 and
+16, respectively). Animals in group 2, receiving guid-
+ance channels plus GFs, showed the best performance,
+with significantly improved BBB scores as compared to
+Figure 3. Nervous regeneration in the chronically injured rat SC. Dashed lines out-
+line channel walls in (AC). In transverse sections (A), GAP-43 positive fibers were
+found inside and between transplanted tubes (arrows; coronal section). (B) NF200
+positive fibers were seen crossing the top rostral interface of the lesion. (C). III-
+tubulin positive fasciculi stretched through the lumen of the conduits in a longitu-
+dinal spinal cord section. (D) Quantitative analysis (mean SEM) of the percent-
+age of channels showing positivity for neural markers throughout the entire tube
+length (N  5 for group 1, N  8 for group 8). Statistical significance: (*) p  0.03;
+(**) p 0.003. NF200 (green) and GAP43 (red) did not colocalize inside the same fi-
+ber (E). Myelinated (green, arrow) and unmyelinated (red, arrowhead) III-tubulin
+positive fibers (F) were observed (enlargement in G). Both SMI-32 (H) and SMI-31 (I)
+positive fibers were detected within guidance conduits, in adjacent coronal sec-
+tions. In the longitudinal reconstruction of transplanted cord in (J) (group 2), NF200
+positive fibers cover the whole length (approx 2 mm) of the lesion, crossing both
+the rostral and the caudal channels/tissue interfaces (dotted line).
+A
+RTIC
+LE
+www.acsnano.org VOL. 5 ▪ NO. 1 ▪ 227–236 ▪ 2011 231
+sham animals (group 0) at 22 and 24 weeks post-
+transplant (p  0.005 and p  0.001, respectively (one
+way AnovaTukey test). Significant differences be-
+tween groups 0 and 1 emerged at 24 weeks (p 0.041).
+Electrophysiological investigation was carried out
+to evaluate the transmission through ascending and de-
+scending pathways also in comparison to healthy ani-
+mals. Descending responses evoked by epicortical
+stimulation are shown in Figure 5A and B. The muscu-
+lar origin44 was confirmed, and their source identified
+in the iliopsoas (IL) and quadratus lumborum (QL)
+muscles (Figure 5B) (see Methods Section). In all of the
+experimental groups (i.e., group 02), amplitude of the
+maximum descending responses (Figure 5A) was about
+10-fold smaller than in healthy animals. Notably, re-
+sponses were larger in both groups receiving guidance
+channels, being the highest in group 1 and intermedi-
+ate in group 2 as compared to the lowest score in group
+0, although statistical significance was detected only
+between group 1 and 0 (two-way ANOVA, group main
+effect F(2, 19)  7.39, p  0.005; Tukey posthoc analy-
+sis p 0.004). Also, ANOVA showed the responses to be
+significantly smaller in groups 02 than in healthy ani-
+mals (F(3, 24)  73.86, p  0.005, posthoc p  0.0002),
+whereas latency of spinal responses did not differ be-
+tween the four groups (groups 02 and healthy ani-
+mals) (global mean  SD, 3.81 0.53 ms) (Figure 5B).
+Analysis of the amplitude of the maximum cortical re-
+sponses evoked by epidural dorsal roots stimulation
+(Figure 5C,D) revealed both a group (F(2, 20)  4.19, p
+ 0.04) and a side (left  right, F(1, 20)  23.57, p 
+0.0001) main effect, with no interactions, indicating that
+the side effect was distributed to all groups indepen-
+dently from the presence of the lesion. As for the de-
+scending responses, amplitude of the cortical responses
+was significantly larger in healthy than in lesioned ani-
+mal groups 02 (group main effect F (3, 25) 9.02, p
+0.0003; posthoc p  0.0003, p  0.02, p  0.005 for
+comparisons with group 02, respectively). Again,
+within the lesion groups, the posthoc analysis showed
+that difference was significant only between group 1
+and 0 (p  0.04). The latency of the first positive (P1)
+peak of cortical potentials was significantly longer in le-
+sioned animals in all groups 02 than in healthy rats
+(group main effect F(3, 25)  91.85, p  0.00001; pos-
+thoc, p 0.0002). Notwithstanding, latency was signifi-
+cantly longer in group 0 than in animals receiving guid-
+ance channels in both group 1 and 2 (group main effect
+F(2, 18)  7.58, p  0.005, posthoc p  0.02 and p 
+0.009 for group 1 and 2 with respect to group 0) (Fig-
+ure 5E and F). The P1N1 time difference (duration of
+the ascending response) did not show any significant
+change between the 4 groups of animals.
+Electrophysiological findings showed a significant
+amelioration in the amplitude of muscular responses
+likely evoked by activation of brain stem fast descend-
+ing pathways, as suggested by the response conduc-
+tion velocity, in rats receiving channels alone (Figure 5).
+Direct reinnervation of the motor neurons by axons re-
+generating through the scaffolds system remains pos-
+sible, although unlikely, however more reasonable ex-
+planation implies that the observed axonal fiber
+regeneration occurred particularly in descending cate-
+cholaminergic systems with diffuse innervation,45
+known to modulate the excitability of spinal interneu-
+rones,46 and motoneurons.47 If so, those axons respon-
+Figure 4. BBB scores of the experimental groups. BBB scores
+of animals in groups 0 (N  10), 1 (N  11), and 2 (N  16).
+At weeks 22 (#) and 24 (##), BBB scores of group 2 differed
+significantly from group 0: p 0.005 and p 0.001, respec-
+tively, while group 1 reached statistical significance with re-
+spect to group 0 at week 24 (*): p  0.041.
+Figure 5. Electrophysiology tests. (A) Mean amplitude (SD) of the
+maximum spinal responses evoked by epicortical stimulation.
+Among lesioned animals, responses are significantly larger in
+group 1 than in group 0. (B) Example of a maximum spinal re-
+sponse in one healthy (gray line) and in group 1 lesioned rat (black
+line). Dotted line shows the EMG response recorded in control ex-
+periments in the ILQL muscles. (C) Mean amplitude (SD) of the
+maximum cortical responses evoked by cauda equina dorsal roots
+epidural stimulation. Among lesioned animals, responses are sig-
+nificantly larger in group 1 than in group 0. (D) A maximum corti-
+cal response in one healthy (gray line) and one group 1 rat (black
+line). (E) Mean latency (SD) of the first positive peak (P1) of corti-
+cal responses evoked by dorsal roots stimulation. (F) Example of a
+maximum cortical response in one healthy (gray line) and in group
+0 (dotted line), group 1 (black line), and group 2 (dashed line) rats.
+Arrows mark P1 latency. Statistical significance: (*) p  0.05.
+A
+RT
+IC
+LE
+VOL. 5 ▪ NO. 1 ▪ GELAIN ET AL. www.acsnano.org232
+sible for the fast potential surviving the lesion might
+have acted on a progressively increasing number of ex-
+citable segmental neurons, thus evoking larger motor
+responses as regeneration proceeded. Accordingly, cor-
+tical sensory potential was significantly larger in trans-
+planted than in sham-operated rats. Here the latency of
+cortical potentials was much longer in lesioned than in
+healthy rats with significant differences between sham
+operated and rats receiving guidance channels, sug-
+gesting a possible regeneration of ascending fibers
+across the lesion. Although the delayed cortical re-
+sponses may be caused by unmasking of ascending
+transmission through ventral pathways spared by the
+lesion, the conjoint increase in amplitude and conduc-
+tion velocity in transplanted animals suggests that
+neuro-prosthetics may support regeneration of injured
+axonal pathways.
+CONCLUSIONS
+In this work, we pursued the repair of the chroni-
+cally injured SC37 by attempting to replace the fluid-
+filled cyst found in these lesions with a neuro-
+prosthetics conducive to tissue reconstruction and ax-
+onal regeneration. Electrospun fibers and SAPs, as-
+sembled into composite hollow guidance channels,
+were transplanted into the cavity of chronic, postcontu-
+sive lesions of the thoracic SC, also in combination
+with pro-regenerative cytokines. Over a six month pe-
+riod, this resulted in significant anatomical reconstruc-
+tion, by which the cyst was substituted with new ner-
+vous tissue, with axons and neural and stromal cells
+found both between the reabsorbing channels and in-
+side them. In the large majority of the microconduits,
+the regenerating nerve fibers were detected through-
+out the whole channels’ length, amidst a well-
+developed vascular network, basal lamina compo-
+nents, andmyelin. This was matched by a significant im-
+provement of both the electrophysiological activity of
+ascending and descending motor pathways and the lo-
+comotion score in the BBB test.
+This work shows that a significant level of anatomi-
+cal and functional regeneration can be accomplished
+in chronic injuries of the spinal cord by transplantation
+of multinanostructured composite scaffolds, under ex-
+perimental settings that mimic the kind of lesion mostly
+affecting humans. Axonal regeneration is still active six
+months after transplant, showing that an even broader
+margin of improvement can be accomplished. Further-
+more, electrospun fibers can be readily established
+from virtually any polymeric material, their diameters
+can be tuned at the micro- and nanoscale.48 Thus, com-
+bining them in composite frames with SAPs offers the
+advantage of pre-establishing high surface area to vol-
+ume ratio scaffolds. Given the overall high-density func-
+tionalization attainable with different bioactive motifs
+and the tunability of diffusive capacities to specific
+drugs29 of SAPs, it is now possible to design biomi-
+metic scaffolds with the specific mechanical and degra-
+dation properties required by neuro-prosthetics for the
+use in therapeutic applications.37
+For all these reasons we propose this work as a pro-
+totypical study, providing the proof of principle that
+spatially guided regeneration in the chronically injured
+spinal cord can be accomplished by composite nano-
+structured scaffolds. Indeed, viewing our settings as a
+promising starting point, tomographic imaging of the
+cystic cavity and subsequent personalized nanostruc-
+tured scaffold design, broader selection of cytokines
+that they may be engineered to release over time, pros-
+thetic seeding with stem cells, and intensive rehabilita-
+tion are some of the increasingly complex and refined
+approaches that can be built, which will eventually lead
+to the development of effective experimental thera-
+pies in humans.
+EXPERIMENTAL METHODS
+Guidance Channels and Laminae Electrospinning. A 3:1 mixture of
+chloroform: methanol by volume was used to create an electro-
+spinning solution of 5.5% poly(-caprolactone) (PCL, MW 80 000,
+Sigma-Aldrich) and 4% poly(DL-lactide-co-glycolide) (PLGA, 75:
+25, MW 66 000107 000, Sigma-Aldrich) by weight. The electro-
+spinning was performed using a parallel plate apparatus, as de-
+scribed previously.48 Spinal cord guidance microtubes were
+synthesized by depositing electrospun fibers on grounded 4 cm
+33G microneedles with an outer diameter of 210 m (Hamilton)
+for 20 s. Fibers were deposited but actually did not adhere to
+the microneedles. Needles were rotated during fiber deposition
+in order to ensure uniform coating. To create the sealing lamina,
+PCL/PLGA nanofibers were deposited on a flat surface for 20
+min and then were annealed for 24 h at 55 °C under vacuum to
+remove any possible residual solvent. See Supporting Informa-
+tion for SEM characterization of channels. End-on images were
+used to measure tube diameter and wall thickness.
+SAPeptide Synthesis and Purification. The self-assembling peptide
+RADA16-I-BMHP1 (Ac-RADARADARADARADAGGPFSSTKT-
+CONH2) was F-moc synthesized via a Liberty microwave auto-
+mated synthesizer (CEM). Sample masses were verified via a
+matrix-assisted laser desorption/ionization time-of-flight
+(MALDI-TOF) mass spectrometer (Applied biosystems), HPLC pu-
+rified (Waters), and lyophilized (Labconco). Final purity was
+95%. Samples were dissolved, and SEM was characterized, as
+described in Supporting Information.
+Surgery and Animal Care. All procedures involving animals were
+performed according to EC guidelines (EC Council Directive 86/
+609, 1987), to the Italian legislation on animal experimentation
+(Decreto L. vo 116/92) and to protocols approved by the Animal
+Care and Use Committee of the University of Milan-Bicocca
+(IACUC 37/07). Female SpragueDawley rats underwent a lami-
+nectomy. Surgeries were performed via an OPMI-pico surgical
+microscope (Zeiss). A 2 cm longitudinal skin incision was cen-
+tered over the T9-T10 spinous process along the midline. With-
+out disrupting the duramater, the tenth thoracic (T10) spinal seg-
+ment was exposed by removing the dorsal part of the vertebra.
+The medial and ventral parts of the vertebra, spared by the sur-
+gery, allowed for weight support, thus not requiring the implan-
+tation of an additional osteosynthesis device. The exposed cord
+was contused by a 10 gr weight dropped from a height of 25 mm
+by using a MASCIS impactor device (Rutgers University). The im-
+pact velocity and compression were monitored and recorded to
+A
+RTIC
+LE
+www.acsnano.org VOL. 5 ▪ NO. 1 ▪ 227–236 ▪ 2011 233
+guarantee consistency between animals. After injury, the
+muscles were sutured and the skin was closed with wound clips.
+After four weeks, when approximately 76% of the injured rats
+had survived, animals were randomly divided into three main ex-
+perimental groups. After re-exposure of the lesioned spinal cord,
+meninges were incised, scar tissue and debris were removed
+via myelotomy, and saline solution was added (Group O, N 
+15). Following scar tissue removal, groups 1 and 2 were submit-
+ted to the insertion of 1013 electrospun tubes of 23 mm
+length. PBS-soaked tubes were easily peeled off the needles via
+surgical forceps. In group 1 (N 16) the guidance channels were
+filled only with RADA16-I-BMHP1. In group 2 (N 24) RADA16-I-
+BMHP1 was mixed with the following growth factors: brain-
+derived neurotrophic factor (1 mg/mL) and ciliary neurotrophic
+factor (1 mg/mL), both involved in neuronal development, sur-
+vival, outgrowth, and neural regeneration in vivo;32 vascular en-
+dothelial growth factor (1 mg/mL), capable of promoting angio-
+genesis;31 and chondroitinase ABC (60 mU/L), proven to
+remove the side chains of chondroitin sulfate proteoglycans in
+the gliotic scar.7
+Special attention was focused on avoiding tube collapse by
+holding wetted channels in place with one or both forcep braces
+and positioned tubes by gently placing them one by one along
+the longitudinal SC axis and constructing a horizontal layer at the
+time. Four layers of tubes were usually necessary to fill the de-
+brided injury site. The electrospun lamina positioned over the in-
+jury site was sutured with the dura mater. Animals were moni-
+tored for autophagia, and the bladders were expressed manually
+until voiding reflexes were re-established. See Supporting Infor-
+mation for a detailed description of the protocol.
+Behavioral Analysis. Recovery of hind limb stepping move-
+ments in injured rats was evaluated using the Basso, Beattie,
+and Bresnahan (BBB) open-field locomotor test at 1 week after
+treatment and, subsequently, every two weeks.34 Animals were
+blind-tested individually in an open-field testing area indepen-
+dently by two operators and were video-monitored with a digi-
+tal camera. BBB scores, ranging from 0 (no hind limb movement)
+to 21 (coordinated gait with parallel paw placement), reflect
+combinations of rat hindlimb movements, trunk position and
+stability, stepping, coordination, paw placement, toe clearance,
+and tail position, representing sequential recovery stages that
+rats attain after SCI.
+Immunohistochemistry. Twenty-four weeks after the second sur-
+gery, rats were perfused. The spinal cords were dissected, post-
+fixed for 4 h in 4% paraformaldehyde and cryoprotected in 30%
+sucrose overnight. Transverse or longitudinal sections under-
+went morphological evaluation via hematoxylin-eosin staining
+or fluorescence analysis via immunostainings for the following
+markers: antineurofilament NF200 (Sigma-Aldrich) for axons;
+anti-SMI-32 and anti-SMI-31 (Covance) to detect the unphospho-
+rylated and phosphorylated isoforms, respectively, of the heavy
+subunit of neurofilament; anti-III-tubulin (Covance) for neurons;
+antimyelin basic protein (MBP) (Sternberger Monoclonals Incor-
+porated) for myelin; antigrowth associated protein GAP-43
+(Chemicon International) for growth cones and regenerating
+nerve fibers; anti- P4HB for fibroblasts (Acris); anti-Von Wille-
+brand factor VWF for endothelial cells (Dako); antiglial fibrillary
+acidic protein GFAP (Chemicon International) for astrocytes; an-
+tilaminin (Sigma-Aldrich) and antirat collagen IV (Cedarlene) as
+main components of the basal lamina in nervous tissue; anti-
+CD68 (Serotec) for macrophages; and anti-Iba-I (Wako) for micro-
+glia and macrophages. See more details in the Supporting Infor-
+mation. In transverse sections of spinal cord groups 1 and 2, we
+quantified the percentage of electrospun tubes infiltrated with
+fibers stained positive for nerve markers throughout the entire
+length of the conduit. III-tubulin positive fibers and MBP-
+wrapped fibers located in the inner lumen of 10 randomly cho-
+sen guidance channels were counted. Total MBP positive fibers
+were expressed as a percentage of the total III-tubulin positive
+fibers for each animal, and values were then averaged for ani-
+mals belonging to the same experimental group.
+Electrophysiology. Electrophysiological investigation was per-
+formed in 13 lesioned rats belonging to group 0 (N  4), group
+1 (N  4), and group 2 (N  5). The same testing was also per-
+formed on five control healthy rats. See Supporting Information
+for a detailed description of the adopted methodology. Experi-
+menters were blind to the treatment each animal had received.
+L2L3 vertebrae were exposed. One Ag Teflon-insulated wire
+(bare diameter 200 m, coated 280 m, A-M System Carlsborg)
+exposed at the cathode was introduced through the L2L3 yel-
+low ligament into the epidural space and referenced to an an-
+ode, tight to the spinous process of L3. These electrodes, placed
+in order to stimulate the cauda equina dorsal roots, also al-
+lowed recording of volume conducted muscle potentials.44
+Muscles originating these potentials were identified by this
+group in separate experiments as IL and QL, excluding a pos-
+sible origin frommore rostral epiaxial muscles. Holes were drilled
+bilaterally in the exposed skull in correspondence to the sen-
+sory motor cortex (3 mm antero-posterior, 2.5 mm lateral from
+BREGMA) via a stereotaxic frame (Kopf Instruments). Through
+these holes, the exposed tips of Ag Teflon-insulated wire were
+placed over the dura and cemented in place. Additionally, Ag
+Teflon-insulated wire electrodes were inserted into the left sple-
+nium capitis (SC) and in the right and left biceps femoris (BF)
+muscles. As to epicortical stimulation, under general anesthesia,
+single stimuli (0.05 ms duration, interstimuls interval 7 s) were
+delivered over the sensory motor cortex through the extradural
+electrodes (impedance 40/60 K	, cathode at sensory cortex site,
+anode at motor site). Both hemispheres were tested in separate
+trials. See Supporting Information for a detailed description of
+the motivations triggering the developed technique. Descend-
+ing responses induced by the stimulus were recorded simulta-
+neously from the cervical and the hindlimb intramuscular elec-
+trodes in SC and BF and from the epidural electrode at the L2L3
+site. The fastest response recorded in SC muscle, located above
+the lesion, was used to control on each rat the efficacy of epicor-
+tical stimulation. Signals were amplified, filtered (1 Hz3kHz),
+and A/D converted (sampling rate 5kHz). The stimulus intensity
+was varied in consecutive steps (range 14 mA) from threshold
+to the intensity that saturated the amplitude of the response re-
+corded at the spinal site. Five responses were recorded and av-
+eraged for each intensity. For spinal cord stimulations, double
+stimuli (0.05 ms duration, 3 ms apart) were delivered from the
+epidural electrode, eliciting ascending evoked potentials in the
+sensory motor cortex of both hemispheres. Signals were ampli-
+fied, filtered (1 Hz3kHz), and A/D converted (sampling rate
+5kHz). The stimulus intensity was varied in steps from threshold
+to the intensity saturating the amplitude of the cortical response
+(range 0.10.3 mA). Ten responses were averaged for each in-
+tensity. For each animal and stimulus intensity we measured: (i)
+the latency and peak-to-peak amplitude of the spinal descend-
+ing responses and (ii) the latency of the first positive (P1) and first
+negative (N1) peaks and the P1N1 peak-to-peak amplitude of
+the cortical evoked potentials.
+Statistical Analysis. Data were processed using SigmaStat 3.1
+software (Systat Software Inc.). Values are reported as mean 
+SEM. Significance analysis of the percentage of positive micro-
+conduits between group 1 and group 2 was performed via
+MannWhitney rank sum test, and values were considered sig-
+nificantly different for P  0.05. BBB score significance tests
+among groups were performed by one-way ANOVA and pair-
+wise Tukey. Scores were considered significantly different for P
+ 0.05. As for electrophysiology data, a two-way ANOVA (factors:
+experimental group vs side) was used to compare the ampli-
+tude and the latency of the maximal descending responses ob-
+tained by cortical stimulation as well as the amplitude and la-
+tency of the ascending responses. All analyses were two-tailed
+and P 0.05 were considered as statistically significant. Post hoc
+analysis was performed with the Tukey’s HSD test for unequal
+number of samples.
+Acknowledgment. We gratefully thank CARIPLO foundation,
+Regione Lombardia and the Nicholas G. and Dorotha K. Dumbros
+Scholarship and Fellowship Fund for providing financial sup-
+port to the project.
+Note Added after ASAP Publication: One of the affiliations for
+Angelo Vescovi was incorrectly stated. The corrected version
+was published on January 6, 2011.
+A
+RT
+IC
+LE
+VOL. 5 ▪ NO. 1 ▪ GELAIN ET AL. www.acsnano.org234
+Supporting Information Available: Figure S1 and Supplemen-
+tary Methods. This material is available free of charge via the In-
+ternet at http://pubs.acs.org.
+REFERENCES AND NOTES
+1. Bunge, R. P.; Puckett, W. R.; Becerra, J. L.; Marcillo, A.;
+Quencer, R. M. Observations on the Pathology of Human
+Spinal Cord Injury. A Review and Classification of 22 New
+Cases with Details from a Case of Chronic Cord
+Compression with Extensive Focal Demyelination. Adv.
+Neurol. 1993, 59, 75–89.
+2. Crowe, M. J.; Bresnahan, J. C.; Shuman, S. L.; Masters, J. N.;
+Beattie, M. S. Apoptosis and Delayed Degeneration after
+Spinal Cord Injury in Rats and Monkeys. Nat. Med. 1997, 3,
+73–6.
+3. Bunge, M. B. Bridging Areas of Injury in the Spinal Cord.
+Neuroscientist 2001, 7, 325–39.
+4. Fawcett, J. W. The Glial Response to Injury and Its Role in
+the Inhibition of Cns Repair. Adv. Exp. Med. Biol. 2006, 557,
+11–24.
+5. Chan, C. C. Inflammation: Beneficial or Detrimental after
+Spinal Cord Injury. Recent Pat. CNS Drug Discovery 2008, 3,
+189–99.
+6. Neumann, S.; Bradke, F.; Tessier-Lavigne, M.; Basbaum, A. I.
+Regeneration of Sensory Axons within the Injured Spinal
+Cord Induced by Intraganglionic Camp Elevation. Neuron
+2002, 34, 885–93.
+7. Bradbury, E. J.; Moon, L. D.; Popat, R. J.; King, V. R.; Bennett,
+G. S.; Patel, P. N.; Fawcett, J. W.; McMahon, S. B.
+Chondroitinase Abc Promotes Functional Recovery after
+Spinal Cord Injury. Nature 2002, 416, 636–40.
+8. Kwon, B. K.; Liu, J.; Messerer, C.; Kobayashi, N. R.; McGraw,
+J.; Oschipok, L.; Tetzlaff, W. Survival and Regeneration of
+Rubrospinal Neurons 1 Year after Spinal Cord Injury. Proc.
+Natl. Acad. Sci. U.S.A. 2002, 99, 3246–51.
+9. Pallini, R. Anatomy Of ”Regenerating Axons. Science 1998,
+280, 181–2.
+10. Bareyre, F. M.; Schwab, M. E. Inflammation, Degeneration
+and Regeneration in the Injured Spinal Cord: Insights from
+DNA Microarrays. Trends Neurosci. 2003, 26, 555–63.
+11. Fouad, K.; Schnell, L.; Bunge, M. B.; Schwab, M. E.;
+Liebscher, T.; Pearse, D. D. Combining Schwann Cell
+Bridges and Olfactory-Ensheathing Glia Grafts with
+Chondroitinase Promotes Locomotor Recovery after
+Complete Transection of the Spinal Cord. J. Neurosci. 2005,
+25, 1169–78.
+12. Watanabe, K.; Nakamura, M.; Iwanami, A.; Fujita, Y.;
+Kanemura, Y.; Toyama, Y.; Okano, H. Comparison between
+Fetal Spinal-Cord- and Forebrain-Derived Neural
+Stem/Progenitor Cells as a Source of Transplantation for
+Spinal Cord Injury. Dev. Neurosci. 2004, 26, 275–87.
+13. Ramer, M. S.; Priestley, J. V.; McMahon, S. B. Functional
+Regeneration of Sensory Axons into the Adult Spinal Cord.
+Nature 2000, 403, 312–6.
+14. Shapiro, S.; Borgens, R.; Pascuzzi, R.; Roos, K.; Groff, M.;
+Purvines, S.; Rodgers, R. B.; Hagy, S.; Nelson, P. Oscillating
+Field Stimulation for Complete Spinal Cord Injury in
+Humans: A Phase 1 Trial. J. Neurosurg. Spine 2005, 2, 3–10.
+15. Engesser-Cesar, C.; Anderson, A. J.; Basso, D. M.; Edgerton,
+V. R.; Cotman, C. W. Voluntary Wheel Running Improves
+Recovery from a Moderate Spinal Cord Injury.
+J. Neurotrauma 2005, 22, 157–71.
+16. Takami, T.; Oudega, M.; Bates, M. L.; Wood, P. M.; Kleitman,
+N.; Bunge, M. B. Schwann Cell but Not Olfactory
+Ensheathing Glia Transplants Improve Hindlimb
+Locomotor Performance in the Moderately Contused
+Adult Rat Thoracic Spinal Cord. J. Neurosci. 2002, 22, 6670–
+81.
+17. Kadoya, K.; Tsukada, S.; Lu, P.; Coppola, G.; Geschwind, D.;
+Filbin, M. T.; Blesch, A.; Tuszynski, M. H. Combined Intrinsic
+and Extrinsic Neuronal Mechanisms Facilitate Bridging
+Axonal Regeneration One Year after Spinal Cord Injury.
+Neuron 2009, 64, 165–72.
+18. Karimi-Abdolrezaee, S.; Eftekharpour, E.; Wang, J.; Schut,
+D.; Fehlings, M. G. Synergistic Effects of Transplanted Adult
+Neural Stem/Progenitor Cells, Chondroitinase, and Growth
+Factors Promote Functional Repair and Plasticity of the
+Chronically Injured Spinal Cord. J. Neurosci. 2010, 30, 9.
+19. Schreyer, D. J.; Jones, E. G. Growth of Corticospinal Axons
+on Prosthetic Substrates Introduced into the Spinal Cord
+of Neonatal Rats. Brain Res. 1987, 432, 291–9.
+20. Tsai, E. C.; Dalton, P. D.; Shoichet, M. S.; Tator, C. H. Matrix
+Inclusion within Synthetic Hydrogel Guidance Channels
+Improves Specific Supraspinal and Local Axonal
+Regeneration after Complete Spinal Cord Transection.
+Biomaterials 2006, 27, 519–33.
+21. Teng, Y. D.; Lavik, E. B.; Qu, X.; Park, K. I.; Ourednik, J.;
+Zurakowski, D.; Langer, R.; Snyder, E. Y. Functional
+Recovery Following Traumatic Spinal Cord Injury Mediated
+by a Unique Polymer Scaffold Seeded with Neural Stem
+Cells. Proc. Natl. Acad. Sci. U.S.A. 2002, 99, 3024–9.
+22. Oudega, M.; Gautier, S. E.; Chapon, P.; Fragoso, M.; Bates,
+M. L.; Parel, J. M.; Bunge, M. B. Axonal Regeneration into
+Schwann Cell Grafts within Resorbable Poly(Alpha-
+Hydroxyacid) Guidance Channels in the Adult Rat Spinal
+Cord. Biomaterials 2001, 22, 1125–36.
+23. Deumens, R.; Koopmans, G. C.; Honig, W. M.; Maquet, V.;
+Jerome, R.; Steinbusch, H. W.; Joosten, E. A. Chronically
+Injured Corticospinal Axons Do Not Cross Large Spinal
+Lesion Gaps after a Multifactorial Transplantation Strategy
+Using Olfactory Ensheathing Cell/Olfactory Nerve
+Fibroblast-Biomatrix Bridges. J. Neurosci. Res. 2006, 83,
+811–20.
+24. Cai, J.; Ziemba, K. S.; Smith, G. M.; Jin, Y. Evaluation of
+Cellular Organization and Axonal Regeneration through
+Linear Pla Foam Implants in Acute and Chronic Spinal
+Cord Injury. J. Biomed. Mater. Res., Part A 2007, 83, 512–20.
+25. Gelain, F. Novel Opportunities and Challenges Offered by
+Nanobiomaterials in Tissue Engineering. Int. J. Nanomed.
+2008, 3, 415–24.
+26. Li, W. J.; Mauck, R. L.; Cooper, J. A.; Yuan, X.; Tuan, R. S.
+Engineering Controllable Anisotropy in Electrospun
+Biodegradable Nanofibrous Scaffolds for Musculoskeletal
+Tissue Engineering. J. Biomech. 2007, 40, 1686–93.
+27. Ellis-Behnke, R. G.; Liang, Y. X.; You, S. W.; Tay, D. K.; Zhang,
+S.; So, K. F.; Schneider, G. E. Nano Neuro Knitting: Peptide
+Nanofiber Scaffold for Brain Repair and Axon
+Regeneration with Functional Return of Vision. Proc. Natl.
+Acad. Sci. U.S.A. 2006, 103, 5054–9.
+28. Prabhakaran, M. P.; Venugopal, J.; Chyan, T. T.; Hai, L. B.;
+Chan, C. K.; Tang, A. L.; Ramakrishna, S. Electrospun
+Biocomposite Nanofibrous Scaffolds for Neural Tissue
+Engineering. Tissue Eng., Part A 2008, .
+29. Gelain, F.; Unsworth, L. D.; Zhang, S. Slow and Sustained
+Release of Active Cytokines from Self-Assembling Peptide
+Scaffolds. J. Controlled Release 2010, 145, 231–239.
+30. Gelain, F.; Bottai, D.; Vescovi, A.; Zhang, S. Designer Self-
+Assembling Peptide Nanofiber Scaffolds for Adult Mouse
+Neural Stem Cell 3-Dimensional Cultures. PLoS One 2006,
+1, e119.
+31. Wilcke, I.; Lohmeyer, J. A.; Liu, S.; Condurache, A.; Kruger,
+S.; Mailander, P.; Machens, H. G. Vegf(165) and Bfgf
+Protein-Based Therapy in a Slow Release System to
+Improve Angiogenesis in a Bioartificial Dermal Substitute
+in Vitro and in Vivo. Langenbecks Arch. Surg. 2007, 392,
+305–14.
+32. Storer, P. D.; Dolbeare, D.; Houle, J. D. Treatment of
+Chronically Injured Spinal Cord with Neurotrophic Factors
+Stimulates Betaii-Tubulin and Gap-43 Expression in
+Rubrospinal Tract Neurons. J. Neurosci. Res. 2003, 74, 502–
+11.
+33. Radojicic, M.; Nistor, G.; Keirstead, H. S. Ascending Central
+Canal Dilation and Progressive Ependymal Disruption in a
+Contusion Model of Rodent Chronic Spinal Cord Injury.
+BMC Neurol. 2007, 7, 30.
+A
+RTIC
+LE
+www.acsnano.org VOL. 5 ▪ NO. 1 ▪ 227–236 ▪ 2011 235
+34. Basso, D. M.; Beattie, M. S.; Bresnahan, J. C.; Anderson,
+D. K.; Faden, A. I.; Gruner, J. A.; Holford, T. R.; Hsu, C. Y.;
+Noble, L. J.; Nockels, R.; et al. Mascis Evaluation of Open
+Field Locomotor Scores: Effects of Experience and
+Teamwork on Reliability. Multicenter Animal Spinal Cord
+Injury Study. J. Neurotrauma 1996, 13, 343–59.
+35. Norenberg, M. D.; Smith, J.; Marcillo, A. The Pathology of
+Human Spinal Cord Injury: Defining the Problems.
+J. Neurotrauma 2004, 21, 429–40.
+36. Bamber, N. I.; Li, H.; Aebischer, P.; Xu, X. M. Fetal Spinal
+Cord Tissue in Mini-Guidance Channels Promotes
+Longitudinal Axonal Growth after Grafting into
+Hemisected Adult Rat Spinal Cords. Neural Plast. 1999, 6,
+103–21.
+37. Novikova, L. N.; Novikov, L. N.; Kellerth, J. O. Biopolymers
+and Biodegradable Smart Implants for Tissue
+Regeneration after Spinal Cord Injury. Curr. Opin. Neurol.
+2003, 16, 711–5.
+38. Sun, H.; Mei, L.; Song, C.; Cui, X.; Wang, P. The in Vivo
+Degradation, Absorption and Excretion of Pcl-Based
+Implant. Biomaterials 2006, 27, 1735–40.
+39. Gelain, F.; Lomander, A.; Vescovi, A. L.; Zhang, S.
+Systematic Studies of a Self-Assembling Peptide Nanofiber
+Scaffold with Other Scaffolds. J. Nanosci. Nanotechnol.
+2007, 7, 424–34.
+40. Koh, H. S.; Yong, T.; Chan, C. K.; Ramakrishna, S.
+Enhancement of Neurite Outgrowth Using Nano-
+Structured Scaffolds Coupled with Laminin. Biomaterials
+2008, 29, 3574–82.
+41. Georges, P. C.; Miller, W. J.; Meaney, D. F.; Sawyer, E. S.;
+Janmey, P. A. Matrices with Compliance Comparable to
+That of Brain Tissue Select Neuronal over Glial Growth in
+Mixed Cortical Cultures. Biophys. J. 2006, 90, 3012–8.
+42. Anderson, C. R.; Ashwell, K. W. S.; Collewijn, H.; Conta, A.;
+Harvey, A.; Heise, C.; Hodgetts, S.; Holstege, G.; Kayalioglu,
+G.; Keast, J. R. The Spinal Cord; Academic Press: London,
+2009.
+43. Skene, J. H.; Willard, M. Axonally Transported Proteins
+Associated with Axon Growth in Rabbit Central and
+Peripheral Nervous Systems. J. Cell Biol. 1981, 89, 96–103.
+44. Zileli, M.; Schramm, J. Spinal and Muscular Evoked
+Response Following Single Stimulation of the Motor
+Cortex of the Rat. EEG EMG Z. Elektroenzephalogr.
+Elektromyogr. Verwandte Geb. 1989, 20, 106–11.
+45. Bjorklund, A. S. G. Descending Monoaminergic Projections to
+the Spinal Cord; Biomedical Press: Amsterdam, The
+Netherlands, 1982.
+46. Hammar, I.; Stecina, K.; Jankowska, E. Differential
+Modulation by Monoamine Membrane Receptor Agonists
+of Reticulospinal Input to Lamina Viii Feline Spinal
+Commissural Interneurons. Eur. J. Neurosci. 2007, 26, 1205–
+12.
+47. Hultborn, H.; Brownstone, R. B.; Toth, T. I.; Gossard, J. P. Key
+Mechanisms for Setting the Input-Output Gain across the
+Motoneuron Pool. Prog. Brain Res. 2004, 143, 77–95.
+48. Fridrikh, S. V.; Yu, J. H.; Brenner, M. P.; Rutledge, G. C.
+Controlling the Fiber Diameter During Electrospinning.
+Phys. Rev. Lett. 2003, 90, 144502.
+A
+RT
+IC
+LE
+VOL. 5 ▪ NO. 1 ▪ GELAIN ET AL. www.acsnano.org236

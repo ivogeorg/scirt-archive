@@ -1,0 +1,598 @@
+REVIEW ARTICLE
+Induced pluripotent stem cells for spinal cord injury therapy:
+current status and perspective
+H. Wang • H. Fang • J. Dai • G. Liu • Z. J. Xu
+Received: 18 February 2012 / Accepted: 13 June 2012 / Published online: 15 July 2012
+ Springer-Verlag 2012
+Abstract Spinal cord injury (SCI) is induced by a variety
+of damages such as trauma, ischemia, and iatrogenic injury,
+resulting in sense and motion dysfunction. Despite the
+improvements in medical and surgical care, current treat-
+ment methods for SCI demonstrate poor and delayed effi-
+ciency, leading to different degree of permanent loss of
+neural function and disability in the patients. Rapid
+advances in stem-cells research suggest that stem cells may
+be applied in SCI therapy. Indeed, SCI is a major field in
+which stem-cell therapy has been proposed and practised,
+and most recently the clinical trials of stem-cell therapy
+were initiated, which aroused a number of clinical con-
+cerns. In this review, we summarize current status of SCI
+repair, then introduce the sources and biological charac-
+teristics of induced pluripotent stem cells (iPSCs), and
+discuss the differentiation potential of iPSCs and the per-
+spective of the application of iPSCs in SCI therapy.
+Keywords Spinal cord injury  Stem cells  Induced
+pluripotent stem cells  Transplantation therapy
+Introduction
+Spinal cord injury (SCI) is a common disease in clinical
+practice. SCI can be induced by a variety of damages such
+as trauma, ischemia, and iatrogenic injury, resulting in the
+dysfunction of sense and motion under damaged plane or
+bowel and bladder. Despite the improvements in medical
+and surgical care, current treatment methods for SCI
+demonstrate poor and delayed efficiency, leading to dif-
+ferent degree of permanent loss of neural function and high
+disability rate in the patients. Therefore, there is an urgent
+need to develop novel therapy strategies that would
+improve the outcome after SCI. The pathogenesis of SCI is
+a complex process that involves an initial mechanical insult
+followed by a cascade of cellular and molecular events that
+constitute the secondary injury such as glutamatergic
+excitotoxicity, free radical generation, lipid peroxidation,
+inflammation, and ischemia that ultimately result in
+necrosis or apoptosis [1]. Based on these pathological
+events of SCI, several approaches have been proposed for
+SCI repair: (1) to minimize progressive cell death, (2) to
+replace lost cells by transplantation or to stimulate the
+injured cord to produce new cells, a process called neu-
+rogenesis, (3) to reconnect injured nerve fibers with their
+original targets or with substitute targets (axon regenera-
+tion and sprouting), (4) to maximize the function of spared
+pathways by altering connectivity (synaptic plasticity), (5)
+to maximize the function of spared nerve fibers by
+repairing their myelin sheath (re-myelination), (6) to
+rehabilitate muscle and function, and (7) to use prostheses,
+robotics or other technologies to restore function [2].
+Rapid advances in stem-cells research in recent years
+suggest that stem cells may be applied in many or even all of
+the above proposed approaches for SCI therapy. Indeed, SCI
+is a major field in which stem-cell therapy has been proposed
+and practised, and most recently the clinical trials of stem-
+cell therapy were initiated, which aroused a number of
+clinical concerns [3]. In this review, we summarized current
+status of SCI repair, then introduced the sources and bio-
+logical characteristics of induced pluripotent stem cells
+(iPSCs), and discussed the differentiation potential of iPSCs
+and the perspective of the application of iPSCs in SCI repair.
+H. Wang  H. Fang (&)  J. Dai  G. Liu  Z. J. Xu
+Department of Orthopedic Surgery, Tongji Hospital,
+Tongji Medical College, Huazhong University of Science
+and Technology, 1095 Jiefang Avenue,
+Wuhan 430030, China
+e-mail: fanghuangtjh@126.com
+123
+Neurol Sci (2013) 34:11–17
+DOI 10.1007/s10072-012-1145-3
+Current status of SCI repair
+SCI includes primary injury and secondary injury, the
+former refers to the irreversible damage caused by direct
+mechanical insult, while the latter refers to the damage
+caused by secondary injuries of trauma such as traumatic
+inflammation/immune response, secondary cell necrosis
+and/or apoptosis, excitotoxin, intracellular and extracellu-
+lar ionic imbalance, oxygen free radical, lipid peroxide and
+axon reaction [4]. In the earlier stage of injury, spinal cord
+swells and bleeds, followed by spinal cord ischemia which
+leads to necrosis of diseased region. The early acute phase
+(2–48 h) is characterized by inflammation, free radicals
+production, ion imbalance, immune-related neuron toxicity
+and other secondary responses, thus neuroprotective inter-
+vention is of great significance during this period. The
+subacute stage (48 h–2 weeks) is characterized by signifi-
+cant phagocytosis, in which a huge number of necrotic
+cells and tissue fragments are engulfed to create a favorable
+microenvironment for axonal regeneration and other reac-
+tions and this period is the window stage of transplantation
+[5]. The distinct features of intermediate phase are glial
+scar formation and axonal regeneration [6]. Finally, during
+the chronic phase syringomyelia and/or fistula gradually
+form, which indicates that the SCI enters into stable
+stage [5].
+The difficulty for SCI repair is that nerve and neuroglia
+cells are destroyed due to necrosis and/or apoptosis, and
+nearby undamaged neurons could not effectively supple-
+ment due to limited regeneration potency. On the other
+hand, changes in local microenvironment lead to imbalance
+of the proliferation of glial cells, such as insufficient pro-
+liferation of oligodendrocytes which produce and form
+axonal myelin sheath, and hyperplasia of astrocytes and
+microglia, which prevents axon regeneration and the
+reconstruction of synaptic connections as well as function
+recovery [7].
+SCI repair methods include surgery, medicine therapy
+and biological therapy. Surgical decompression in early
+stage of SCI (\24 h) and the reconstruction of spinal sta-
+bility have been suggested to be favorable for SCI repair
+[8, 9]. Most of the medicines commonly used to treat SCI
+are still under clinical trials such as corticosteroids, min-
+ocycline, erythropoietin and gangliosides, which are
+effective in acute stage of SCI by reducing SCI secondary
+injury and protecting the remaining nerve tissue [10–12].
+However, surgery and medicine treatment methods are not
+satisfactory for SCI repair because the damaged/lost neu-
+rons and axons whose remyelination is impaired cannot be
+replenished and synaptic connections cannot be rebuilt.
+With the development of biotechnology, biological
+therapy represented by cell transplantation has shown
+promise for SCI repair. It has been reported that in mouse
+models SCI could be treated by transplantation of Schwann
+cells, olfactory ensheathing cells, neural stem cells, mes-
+enchymal stem cells, embryonic stem cells (ESCs) and
+iPSCs [13–16]. These transplantation methods indeed have
+certain therapeutic effects, but exhibit some shortages.
+Schwann cell transplantation can promote nerve regenera-
+tion by generating matrix, secreting neurotrophic factors,
+and improving local microenvironment, but the lost nerve
+cells cannot be replenished due to the limited distance of
+Schwann cell migration. Furthermore, Schwann cells,
+which are difficult to amplify, can only be sampled by
+invasive methods which may cause neurological deficits in
+donor sites, thus limiting their application [17]. Olfactory
+ensheathing cell transplantation also faces the similar
+problems [18]. The application of neural stem cells is also
+restricted due to limited source from specific sites, the
+difficulty in being sampled, and host immune rejection
+[19]. Human umbilical cord blood (hUCB) cells are
+immune naı̈ve and they show the therapeutic potential as a
+safe, feasible and effective cellular source for transplanta-
+tion in SCI [20]. However, clinical studies with hUCB cells
+are still rare due to the concerns about their safety and
+efficiency. Recent utilization of adipose-derived stem cells
+and bone marrow mesenchymal stem cells help overcome
+the problems of limited source and ethical issues, but these
+stem cells are not homogenous, and further technical
+improvement is required to purify and amplify them [21].
+In contrast, iPSCs have many advantages that cannot be
+matched by other stem cells, such as multi-differentiation
+potential, abundant source, easily being sampled, no host
+immune rejection, and no ethical or legal issues.
+The sources and biological characteristics of iPSCs
+iPSCs are developed from differentiated cells by the
+expression of specific transcription factors which are reg-
+ulated by direct reprograming techniques. The first iPSCs
+were created by retrovirus-mediated transfer of Oct3/4,
+Sox2, Klf4, and c-Myc genes into mouse fibroblast cells
+[22]. Currently, a variety of methods have been developed
+to derive iPSCs (summarized in Table 1): (a) viral trans-
+duction: IPSCs can be successfully induced by the intro-
+duction of different amounts/types of transcription factors
+using several types of virus [23–26], but exogenous genes
+of these viruses are prone to integrate with host genes and
+increase the risk of tumorigenesis; (b) plasmid transfection:
+although exogenous genes might integrate with host genes
+during plasmid transfection, the probability is much
+smaller than using retrovirus, thus plasmid transfection is
+relatively safe [27, 28]; (c) episomal vector: transcription
+factors are transfected into adult cells using episomal
+vector and then the episomal vector is removed, thus
+12 Neurol Sci (2013) 34:11–17
+123
+avoiding the integration of exogenous genes [29];
+(d) translocation system: transcription factors are trans-
+ferred into cell using piggyback translocation system, the
+transposons (carrying transcription factor genes) are
+removed by translocase after the induction of iPSCs
+through re-programing, then iPSCs without the integration
+of exogenous genes are successfully prepared [30–32];
+(e) recombinant protein: adult cells can be reprogramed by
+transcription factor genes encoded proteins (reprograming
+protein) to develop into iPSCs [33, 34]. This approach is
+much safer than virus or plasmid mediated gene transfer,
+but the efficiency is greatly reduced; (f) chemical method:
+several groups have successfully got iPSCs using ‘‘cock-
+tail’’ which involves chemical substances and transcription
+factors [35–37]; (g) RNA: iPSCs can also be induced using
+miRNA [38–40]. This approach avoids the transfer of the
+genes encoding the above-mentioned transcription factors
+and is an ideal method of preparing iPSCs because it is
+more efficient and secure. However, the productivity is still
+low. We expect that with the continued revolution of iPS
+technology, efficient and safe methods of preparing iPSCs
+will be available in the near future [41].
+Pluripotency is one of the main characteristics of iPSCs,
+indicating the potency to develop into three germ layers and
+differentiate into all types of cells. Initial studies have shown
+that iPSCs are similar to ESCs in many aspects such as
+morphology, proliferation, expression of ESCs marker genes
+and teratoma formation [22]. Another feature of iPSCs is that
+they come from the recipient, thus avoid the ethical and legal
+issues raised from ESCs in clinical application. In addition,
+Table 1 Summary of the methods by which IPSCs are derived
+Methods Factors Exogenous gene
+integration
+Cell type Efficiency Year Reference
+Virus
+Retrovirus 4 factors (Oct3/4, Sox2, Klf4, c-Myc) Yes Mouse embryonic
+fibroblasts
+*0.1 % 2006 [22]
+2 factors (Oct4, Klf4 or c-Myc) Yes Mouse neural stem
+cells
+*0.14 % 2008 [24]
+1 factor (Oct4) Yes Mouse neural stem
+cells
+*0.1 % 2009 [26]
+Lentivirus 4 factors (Oct4, Sox2, Nanog, Lin28) Yes Human fibroblasts *0.01 % 2007 [23]
+Adenovirus 4 factors (Oct4, Sox2, Klf4, c-Myc) No Mouse hepatocyte *0.0006 % 2008 [25]
+Plasmid 4 factors (Oct4, Sox2, Klf4, c-Myc) No Mouse embryonic
+fibroblasts
+*0.0015 % 2008 [27]
+6 factors (Oct4, Sox2, Klf4, c-Myc, Nanog,
+and Lin28)
+No Human foreskin
+fibroblasts
+*0.1 % 2008 [28]
+Episomal
+plasmid
+6 factors (Oct4, Sox2, Klf4, c-Myc, Nanog,
+and Lin28)
+No Human foreskin
+fibroblasts
+*1 % 2009 [29]
+Transposon 4 factors (Oct4, Sox2, Klf4, c-Myc) No Mouse embryonic
+fibroblasts
+*0.1 % 2009 [30]
+No Mouse and human
+fibroblasts
+*2.5 % 2009 [31]
+No Equine fibroblasts *0.028 % 2011 [32]
+Cell penetrating
+peptide
+Protein of 4 factors (Oct4, Sox2, Klf4, c-Myc) No Human fibroblasts *0.001 % 2009 [33]
+No Mouse embryonic
+fibroblasts
+– 2009 [34]
+Chemical
+cocktail
+BIX01294 and 2 factors (Oct3/4, Klf4) Yes Mouse fetal neural
+progenitor cell
+*0.02 % 2008 [35]
+Metabolism modulating compounds (PS48,
+NaB, VPA) and 1 factor (Oct4)
+Yes Human epidermal
+keratinocyte
+*0.015 % 2010 [36]
+Kenpaullone and 3 factors (Oct4, Sox2,
+c-Myc)
+Yes Mouse fibroblasts – 2009 [37]
+RNA retrovirus/
+electroporation
+Mir-302 Yes/no Human skin cancer
+cells
+– 2008 [38]
+Lentivirus Mir-302/367 and VPA Yes Mouse and human
+fibroblasts
+100-folds 2011 [39]
+Direct
+transfection
+Mir-200c, Mir-302s and Mir-369 s No Mouse and human
+ASCs
+*0.01 % 2011 [40]
+Neurol Sci (2013) 34:11–17 13
+123
+iPSCs have several advantages such as wide source, large
+quantity, and being easily obtained.
+Neuron differentiation potential of iPSCs
+iPSCs can be induced to differentiate into neurons, and
+these neurons indeed have the corresponding physiological
+functions. iPSCs have been shown to differentiate into
+dopaminergic neurons which could improve the Parkin-
+son’s symptoms after being transplanted into rat models of
+Parkinson’s disease [42]. Dimos et al. [43] reprogramed the
+fibroblasts of amyotrophic lateral sclerosis patients into
+iPSCs, which then differentiated into neural cells after
+being treated with SHH agonist and RA. Ebert et al. [44]
+reprogramed the fibroblasts of a child with spinal muscular
+atrophy into iPSCs and found that neural cells differenti-
+ated from these iPSCs exhibited the genotypes and phe-
+notypes of spinal muscular atrophy, suggesting that IPSCs
+have broad application in disease modeling and drug
+screening. Karumbayaram et al. [45] induced iPSCs to
+differentiate into motor neurons and demonstrated their
+electrophysiological properties for the first time.
+IPSCs and SCI repair
+Mouse embryonic fibroblasts-induced pluripotent stem
+cells-secondary neurospheres (MEF-IPSCs-SNSs) were
+shown to produce functional neurons, astrocytes, and oli-
+godendrocytes in vitro. Furthermore, when these neuro-
+spheres were transplanted into the spinal cord 9 day after
+contusive injury, they differentiated into all three neural
+lineages without forming teratomas and participated in
+remyelination and induced the axonal regrowth of host
+5HT? serotonergic fibers, resulting in locomotor function
+recovery (Fig. 1) [16]. It has been proposed that the ther-
+apeutic effects of iPSCs transplantation for SCI are related
+to the following mechanisms: reconstructing neural syn-
+aptic connections by neural cells derived from the trans-
+planted cells, the remyelination of demyelinated axons by
+oligodendrocytes, and neurotrophic factors secreted by
+neural cells derived from the transplanted cells [16]. Fur-
+thermore, when human-induced pluripotent stem-cell-
+derived neurospheres (hiPSC-NSs) were transplanted into
+nonobese diabetic (NOD)-severe combined immunodefi-
+cient (SCID) mice, the grafted hiPSC-NSs survived,
+migrated, and differentiated into the three major neural
+lineages within the injured spinal cord. In addition, both
+cell-autonomous and noncell-autonomous effects were
+observed, including synapse formation between hiPSC-NS-
+derived neurons and host mouse neurons, the expression of
+neurotrophic factors, angiogenesis, axonal regrowth, and
+increased amounts of myelin in the injured area. Conse-
+quently, significantly better functional recovery was
+observed which persisted through the end of the observa-
+tion period 112 day post-SCI [46]. Taken together, these
+results provide strong evidence that treating SCI with
+iPSCs transplantation could improve or even restore the
+impaired function in mice.
+However, to promote the application of iPSCs in the
+clinic for SCI therapy, several issues should be addressed.
+First is the efficiency of obtaining iPSCs. iPSCs can be
+derived using the above-mentioned methods, although the
+quantity and quality of the derived iPSCs are different. Up
+to now the efficiency of obtaining iPSCs is low, ranging
+from 0.001 to 10 % [27, 39]. Given the huge need of iPSCs
+in clinical practice, the clinical application of iPSCs will
+undoubtedly be restricted by low efficiency of obtaining
+them. Second is the selection of source cells for iPSCs. The
+efficiency and safety of iPSCs derived from different tissues
+are not exactly the same. Therefore, it is important to select
+appropriate source cells. Third is the immunological
+response induced by iPSCs. In early period, it was believed
+that iPSCs could avoid immune rejection of cell trans-
+plantation, but further experiments have shown that iPSCs
+have immunogenicity [47]. If immune response is induced
+by transplanted iPSCs, the host’s immune system will attack
+transplanted cells, which may lead to the failure of trans-
+plantation. Fourth is the safety of iPSCs. It is known that
+transplantation of undifferentiated iPSCs may cause the
+formation of teratoma [48]. Although flow cytometry
+allows the selection of differentiated iPSCs and the exclu-
+sion of undifferentiated iPSCs, thus avoiding the formation
+of teratomas after transplantation, this method is not feasi-
+ble in the clinic due to the huge need of iPSCs. In addition,
+DNA methylation and phenotypic analysis have shown that
+iPSCs are not exactly the same as ESCs and traditional
+virus-mediated gene transfer has the risk of exogenous gene
+integration [49]. All of these account for the safety issues of
+iPSCs. Fifth is the clinical application of iPSCs in SCI
+repair. No study has investigated the appropriate quantity of
+implanted iPSCs to achieve the best therapeutic effects
+because too little or too much implanted iPSCs cells will
+cause the failure of cell transplantation therapy. In addition,
+hyperalgesia symptoms may occur which might be related
+to functional disorder caused by abnormal conduction
+pathway formed after stem-cell transplantation [5]. Further
+studies are necessary to optimize iPSCs transplantation
+strategy to avoid similar complications.
+Perspectives for iPSCs in SCI therapy
+ES cells transplantation has been approved by FDA for
+phase I clinical trials of SCI therapy [50]. Given that
+14 Neurol Sci (2013) 34:11–17
+123
+iPSCs have many advantages compared to ES cells, we
+can expect the clinical application of iPSCs in SCI
+therapy in the near future provided that the pitfalls of
+iPSCs are addressed. Interestingly, it was reported very
+recently that the fibroblasts could be directly repro-
+gramed into neural cells and liver cells [51–53], sug-
+gesting that the intermediate state of iPSCs could be
+bypassed (Fig. 2). Does this mean that future IPSCs
+treatment of SCI will be changed? Somatic cells can be
+induced directly to trans-differentiate into target cells
+such as neural cells and glial cells without reversing to
+IPSCs, thus the oncogenic risk of iPSCs can be avoided
+in clinical application. Although this method has the
+problem of low conversion rate, it undoubtedly brings the
+breakthrough in the application of stem-cell transplanta-
+tion for SCI therapy. Recently, Son et al. [54] directly
+converted mouse and human fibroblasts into induced
+motor neurons by defined factors and these neurons
+exhibited engraftment capacity and could be differenti-
+ated into functional neural subtypes in vivo. This study
+lays the experimental foundation for further investiga-
+tions on the transplantation of these converted neurons
+for SCI treatment. However, it is important to note that
+stem-cell transplantation has been shown to work rela-
+tively less by direct cell replacement, and the induction
+of tissue repair by local progenitors appears more effi-
+cient. Although the direct reprograming technology
+undoubtedly brings a new approach to SCI therapy,
+further optimization of the strategy for the large-scale
+preparation of clinical-grade and patient-specific trans-
+plantable iPSCs should pave the way for the application
+of iPSCs to SCI treatment in the clinic.
+Fig. 1 Schematic presentation
+of the application of MEF-
+IPSCs-SNSs in SCI repair in
+mouse model
+Fig. 2 Schematic presentation of the reprograming of somatic cells
+directly into target somatic cells
+Neurol Sci (2013) 34:11–17 15
+123
+Acknowledgments This work is supported by Talents Fund from
+Tongji Hospital (No. 415010299058829) and Natural Science Fund of
+China (No. 81071470).
+Conflict of interest The authors declare no potential conflicts of
+interest.
+References
+1. Salewski RP, Eftekharpour E, Fehlings MG (2010) Are induced
+pluripotent stem cells the future of cell-based regenerative ther-
+apies for spinal cord injury? J Cell Physiol 222:515–521
+2. Thomas KE, Moon LD (2011) Will stem cell therapies be safe
+and effective for treating spinal cord injuries? Br Med Bull
+98:127–142
+3. Illes J, Reimer JC, Kwon BK (2011) Stem cell clinical trials for
+spinal cord injury: readiness, reluctance, redefinition. Stem Cell
+Rev 7:997–1005
+4. Ronaghi M, Erceg S, Moreno-Manzano V et al (2010) Challenges
+of stem cell therapy for spinal cord injury: human embryonic
+stem cells, endogenous neural stem cells, or induced pluripotent
+stem cells? Stem Cells 28:93–99
+5. Rowland JW, Hawryluk GW, Kwon B et al (2008) Current status
+of acute spinal cord injury pathophysiology and emerging ther-
+apies: promise on the horizon. Neurosurg Focus 25:E2
+6. Hill CE, Beattie MS, Bresnahan JC (2001) Degeneration and
+sprouting of identified descending supraspinal axons after con-
+tusive spinal cord injury in the rat. Exp Neurol 171:153–169
+7. Sahni V, Kessler JA (2010) Stem cell therapies for spinal cord
+injury. Nat Rev Neurol 6:363–372
+8. Fehlings MG, Perrin RG (2006) The timing of surgical inter-
+vention in the treatment of spinal cord injury: a systematic review
+of recent clinical evidence. Spine (Phila Pa 1976) 31:S28–S35
+(discussion S36)
+9. Furlan JC, Noonan V, Cadotte DW et al (2011) Timing of
+decompressive surgery of spinal cord after traumatic spinal cord
+injury: an evidence-based examination of pre-clinical and clinical
+studies. J Neurotrauma 28:1371–1399
+10. Rabchevsky AG, Patel SP, Springer JE (2011) Pharmacological
+interventions for spinal cord injury: where do we stand? How
+might we step forward? Pharmacol Ther 132:15–29
+11. Kwon BK, Tetzlaff W, Grauer JN et al (2004) Pathophysiology
+and pharmacologic treatment of acute spinal cord injury. Spine J
+4:451–464
+12. Robert AA, Zamzami M, Sam AE, Al Jadid M, Al Mubarak S
+(2011) The efficacy of antioxidants in functional recovery of
+spinal cord injured rats: an experimental study. Neurol Sci (Epub
+ahead of print)
+13. Li BC, Li Y, Chen LF et al (2011) Olfactory ensheathing cells
+can reduce the tissue loss but not the cavity formation in contused
+spinal cord of rats. J Neurol Sci 303:67–74
+14. Salazar DL, Uchida N, Hamers FP et al (2010) Human neural
+stem cells differentiate and promote locomotor recovery in an
+early chronic spinal cord injury NOD-scid mouse model. PLoS
+One 5:e12272
+15. Erceg S, Ronaghi M, Oria M et al (2010) Transplanted oligo-
+dendrocytes and motoneuron progenitors generated from human
+embryonic stem cells promote locomotor recovery after spinal
+cord transection. Stem Cells 28:1541–1549
+16. Tsuji O, Miura K, Okada Y et al (2010) Therapeutic potential of
+appropriately evaluated safe-induced pluripotent stem cells
+for spinal cord injury. Proc Natl Acad Sci USA 107:12704–
+12709
+17. Park HW, Lim MJ, Jung H et al (2010) Human mesenchymal
+stem cell-derived Schwann cell-like cells exhibit neurotrophic
+effects, via distinct growth factor production, in a model of spinal
+cord injury. Glia 58:1118–1132
+18. Ramon-Cueto A, Munoz-Quiles C (2011) Clinical application of
+adult olfactory bulb ensheathing glia for nervous system repair.
+Exp Neurol 229:181–194
+19. Xu L, Xu CJ, Lu HZ et al (2010) Long-term fate of allogeneic
+neural stem cells following transplantation into injured spinal
+cord. Stem Cell Rev 6:121–136
+20. Lee JH, Chung WH, Kang EH et al (2011) Schwann cell-like
+remyelination following transplantation of human umbilical cord
+blood (hUCB)-derived mesenchymal stem cells in dogs with
+acute spinal cord injury. J Neurol Sci 300:86–96
+21. Dominici M, Le Blanc K, Mueller I et al (2006) Minimal criteria
+for defining multipotent mesenchymal stromal cells. The Inter-
+national Society for Cellular Therapy position statement. Cyto-
+therapy 8:315–317
+22. Takahashi K, Yamanaka S (2006) Induction of pluripotent stem
+cells from mouse embryonic and adult fibroblast cultures by
+defined factors. Cell 126:663–676
+23. Yu J, Vodyanik MA, Smuga-Otto K et al (2007) Induced plu-
+ripotent stem cell lines derived from human somatic cells. Sci-
+ence 318:1917–1920
+24. Kim JB, Zaehres H, Wu GM et al (2008) Pluripotent stem cells
+induced from adult neural stem cells by reprogramming with two
+factors. Nature 454:646–654
+25. Stadtfeld M, Nagaya M, Utikal J et al (2008) Induced pluripotent
+stem cells generated without viral integration. Science
+322:945–949
+26. Kim JB, Sebastiano V, Wu G et al (2009) Oct4-induced pluri-
+potency in adult neural stem cells. Cell 136:411–419
+27. Okita K, Nakagawa M, Hong HJ et al (2008) Generation of
+mouse induced pluripotent stem cells without viral vectors. Sci-
+ence 322:949–953
+28. Liao J, Wu Z, Wang Y et al (2008) Enhanced efficiency of
+generating induced pluripotent stem (iPS) cells from human
+somatic cells by a combination of six transcription factors. Cell
+Res 18:600–603
+29. Yu J, Hu K, Smuga-Otto K et al (2009) Human induced plurip-
+otent stem cells free of vector and transgene sequences. Science
+324:797–801
+30. Woltjen K, Michael IP, Mohseni P et al (2009) piggyBac trans-
+position reprograms fibroblasts to induced pluripotent stem cells.
+Nature 458:766–770
+31. Kaji K, Norrby K, Paca A et al (2009) Virus-free induction of
+pluripotency and subsequent excision of reprogramming factors.
+Nature 458:771–775
+32. Nagy K, Sung HK, Zhang P et al (2011) Induced pluripotent stem
+cell lines derived from equine fibroblasts. Stem Cell Rev 7:693–702
+33. Kim D, Kim CH, Moon JI et al (2009) Generation of human
+induced pluripotent stem cells by direct delivery of reprogram-
+ming proteins. Cell Stem Cell 4:472–476
+34. Zhou H, Wu S, Joo JY et al (2009) Generation of induced plu-
+ripotent stem cells using recombinant proteins. Cell Stem Cell
+4:381–384
+35. Shi Y, Do JT, Desponts C et al (2008) A combined chemical and
+genetic approach for the generation of induced pluripotent stem
+cells. Cell Stem Cell 2:525–528
+36. Zhu S, Li W, Zhou H et al (2010) Reprogramming of human
+primary somatic cells by OCT4 and chemical compounds. Cell
+Stem Cell 7:651–655
+37. Lyssiotis CA, Foreman RK, Staerk J et al (2009) Reprogramming
+of murine fibroblasts to induced pluripotent stem cells with
+chemical complementation of Klf4. Proc Natl Acad Sci USA
+106:8912–8917
+16 Neurol Sci (2013) 34:11–17
+123
+38. Lin SL, Chang DC, Chang-Lin S et al (2008) Mir-302 reprograms
+human skin cancer cells into a pluripotent ES-cell-like state. RNA
+14:2115–2124
+39. Anokye-Danso F, Trivedi CM, Juhr D et al (2011) Highly effi-
+cient miRNA-mediated reprogramming of mouse and human
+somatic cells to pluripotency. Cell Stem Cell 8:376–388
+40. Miyoshi N, Ishii H, Nagano H et al (2011) Reprogramming of
+mouse and human cells to pluripotency using mature microR-
+NAs. Cell Stem Cell 8:633–638
+41. Leeb C, Jurga M, McGuckin C et al (2010) Promising new
+sources for pluripotent stem cells. Stem Cell Rev 6:15–26
+42. Wernig M, Zhao JP, Pruszak J et al (2008) Neurons derived from
+reprogrammed fibroblasts functionally integrate into the fetal
+brain and improve symptoms of rats with Parkinson’s disease.
+Proc Natl Acad Sci USA 105:5856–5861
+43. Dimos JT, Rodolfa KT, Niakan KK et al (2008) Induced plu-
+ripotent stem cells generated from patients with ALS can be
+differentiated into motor neurons. Science 321:1218–1221
+44. Ebert AD, Yu J, Rose FF Jr et al (2009) Induced pluripotent stem
+cells from a spinal muscular atrophy patient. Nature 457:277–280
+45. Karumbayaram S, Novitch BG, Patterson M et al (2009) Directed
+differentiation of human-induced pluripotent stem cells generates
+active motor neurons. Stem Cells 27:806–811
+46. Nori S, Okada Y, Yasuda A et al (2011) Grafted human-induced
+pluripotent stem-cell-derived neurospheres promote motor
+functional recovery after spinal cord injury in mice. Proc Natl
+Acad Sci USA 108:16825–16830
+47. Zhao T, Zhang ZN, Rong Z et al (2011) Immunogenicity of
+induced pluripotent stem cells. Nature 474:212–215
+48. Keirstead HS, Nistor G, Bernal G et al (2005) Human embryonic
+stem cell-derived oligodendrocyte progenitor cell transplants
+remyelinate and restore locomotion after spinal cord injury.
+J Neurosci 25:4694–4705
+49. Dolgin E (2011) Flaw in induced-stem-cell model. Nature 470:13
+50. Alper J (2009) Geron gets green light for human trial of ES cell-
+derived product. Nat Biotechnol 27:213–214
+51. Vierbuchen T, Ostermeier A, Pang ZP et al (2010) Direct con-
+version of fibroblasts to functional neurons by defined factors.
+Nature 463:1035–1041
+52. Pang ZP, Yang N, Vierbuchen T et al (2011) Induction of human
+neuronal cells by defined transcription factors. Nature 476:
+220–223
+53. Huang P, He Z, Ji S et al (2011) Induction of functional
+hepatocyte-like cells from mouse fibroblasts by defined factors.
+Nature 475:386–389
+54. Son EY, Ichida JK, Wainger BJ et al (2011) Conversion of mouse
+and human fibroblasts into functional spinal motor neurons. Cell
+Stem Cell 9:205–218
+Neurol Sci (2013) 34:11–17 17
+123

@@ -1,0 +1,260 @@
+T1	Gene 195 199	Fan1
+T2	Gene 201 209	Xia Liu2
+T3	Gene 211 224	Hai-Bin Tang3
+T4	Gene 226 236	Peng Xiao1
+T5	Gene 238 251	Ya-Zhou Wang1
+T6	Gene 705 722	Berlin Heidelberg
+T7	Gene 1382 1392	fibrinogen
+T8	Gene 1579 1589	fibrinogen
+T9	Gene 1850 1860	Batroxobin
+T10	Gene 2013 2023	fibrinogen
+T11	Gene 3811 3821	fibrinogen
+T12	Gene 3890 3898	thrombin
+T13	Gene 3907 3913	fibrin
+T14	Gene 4058 4068	fibrinogen
+T15	Gene 4250 4258	thrombin
+T16	Gene 4264 4279	serine protease
+T17	Gene 4343 4351	thrombin
+T18	Gene 4353 4363	Batroxobin
+T19	Gene 4392 4402	fibrinogen
+T20	Gene 4529 4545	blood fibrinogen
+T21	Gene 4856 4866	fibrinogen
+T22	Gene 4954 4964	Batroxobin
+T23	Gene 4993 4996	SCI
+T24	Gene 5045 5058	MAtErIALs AND
+T25	Gene 5399 5401	T8
+T26	Gene 5537 5540	SCI
+T27	Gene 6459 6469	supplier’s
+T28	Gene 6627 6644	plasma fibrinogen
+T29	Gene 7371 7388	Plasma Fibrinogen
+T30	Gene 7531 7541	fibrinogen
+T31	Gene 8489 8492	Fan
+T32	Gene 9251 9255	GFAP
+T33	Gene 9616 9619	IgG
+T34	Gene 9697 9700	IgG
+T35	Gene 10330 10334	GFAP
+T36	Gene 10498 10502	GFAP
+T37	Gene 10504 10512	Neurocan
+T38	Gene 10517 10522	Iba-1
+T39	Gene 12573 12593	stride length factor
+T40	Gene 12595 12598	SLF
+T41	Gene 12938 12947	Dunnett’s
+T42	Gene 13204 13221	Plasma Fibrinogen
+T43	Gene 13379 13389	fibrinogen
+T44	Gene 13438 13448	fibrinogen
+T45	Gene 13529 13536	Fig. 1A
+T46	Gene 14563 14580	plasma fibrinogen
+T47	Gene 14625 14635	fibrinogen
+T48	Gene 14951 14955	GFAP
+T49	Gene 15100 15103	Fan
+T50	Gene 15179 15183	NeuN
+T51	Gene 15391 15404	NeuN-positive
+T52	Gene 15883 15893	Batroxobin
+T53	Gene 15953 15957	GFAP
+T54	Gene 16040 16044	GFAP
+T55	Gene 16099 16103	GFAP
+T56	Gene 16214 16217	IFI
+T57	Gene 16221 16225	GFAP
+T58	Gene 16386 16389	IFI
+T59	Gene 16703 16713	Batroxobin
+T60	Gene 16766 16771	Iba-1
+T61	Gene 16836 16841	Iba-1
+T62	Gene 16939 16951	IFI of Iba-1
+T63	Gene 17112 17121	Iba-1 IFI
+T64	Gene 17385 17388	SCI
+T65	Gene 17802 17806	GFAP
+T66	Gene 17972 17975	IFI
+T67	Gene 18304 18307	IFI
+T68	Gene 18607 18610	SCI
+T69	Gene 18727 18730	SCI
+T70	Gene 19195 19205	Batroxobin
+T71	Gene 19387 19390	IFI
+T72	Gene 19484 19487	Fan
+T73	Gene 19720 19730	Batroxobin
+T74	Gene 19817 19820	SCI
+T75	Gene 19822 19832	Fibrinogen
+T76	Gene 20043 20063	coagulating proteins
+T77	Gene 20172 20182	Batroxobin
+T78	Gene 20202 20205	SCI
+T79	Gene 20832 20842	Batroxobin
+T80	Gene 21165 21171	Yu-Kai
+T81	Gene 23500 23506	Fibrin
+T82	Gene 23587 23589	JK
+T83	Gene 23625 23627	DK
+T84	Gene 23646 23656	Fibrinogen
+T85	Gene 23732 23740	TGF-beta
+T86	Gene 23813 23819	Ryu JK
+T87	Gene 23821 23830	Merlini M
+T88	Gene 23875 23885	Fibrinogen
+T89	Gene 24054 24056	YS
+T90	Gene 24058 24065	Shin HC
+T91	Gene 24067 24073	Jang Y
+T92	Gene 24075 24083	Chung KH
+T93	Gene 24781 24799	Chen KW, Shannon C
+T94	Gene 24801 24807	Park S
+T95	Gene 25324 25330	Fibrin
+T96	Species 184 188	rats
+T97	Species 1458 1462	rats
+T98	Species 3239 3246	rabbits
+T99	Species 4309 4325	Bothrops moojeni
+T100	Species 5000 5004	rats
+T101	Species 5206 5225	Sprague-Dawley rats
+T102	Species 6755 6760	human
+T103	Species 6765 6768	rat
+T104	Species 8295 8298	rat
+T105	Species 8547 8551	rats
+T106	Species 9154 9160	rabbit
+T107	Species 9206 9211	mouse
+T108	Species 9300 9306	rabbit
+T109	Species 9351 9357	rabbit
+T110	Species 9397 9402	mouse
+T111	Species 9597 9603	donkey
+T112	Species 9609 9615	rabbit
+T113	Species 9679 9685	donkey
+T114	Species 9691 9696	mouse
+T115	Species 10773 10776	rat
+T116	Species 11443 11447	rats
+T117	Species 12151 12154	rat
+T118	Species 12226 12230	rats
+T119	Species 12554 12557	rat
+T120	Species 13523 13527	rats
+T121	Species 13850 13854	rats
+T122	Species 13944 13948	rats
+T123	Species 15158 15162	rats
+T124	Species 15292 15296	rats
+T125	Species 16251 16255	rats
+T126	Species 16526 16530	rats
+T127	Species 17052 17056	rats
+T128	Species 17580 17584	rats
+T129	Species 17660 17664	rats
+T130	Species 18474 18478	rats
+T131	Species 19542 19546	rats
+T132	Species 20650 20656	humans
+T133	Species 20745 20749	rats
+T134	Species 22358 22363	mouse
+T135	Species 22480 22485	human
+T136	Species 23231 23238	rabbits
+T137	Species 23430 23433	rat
+T138	Species 24882 24886	mice
+T139	InteractionKeyword 137 144	effects
+T140	InteractionKeyword 773 782	following
+T141	InteractionKeyword 847 856	increases
+T142	InteractionKeyword 905 911	reduce
+T143	InteractionKeyword 1279 1286	reduces
+T144	InteractionKeyword 1362 1368	effect
+T145	InteractionKeyword 1373 1381	reducing
+T146	InteractionKeyword 1557 1566	decreased
+T147	InteractionKeyword 1617 1626	increased
+T148	InteractionKeyword 1647 1655	enhanced
+T149	InteractionKeyword 1781 1787	effect
+T150	InteractionKeyword 1886 1893	effects
+T151	InteractionKeyword 2253 2260	changes
+T152	InteractionKeyword 2393 2398	leads
+T153	InteractionKeyword 2440 2450	initiating
+T154	InteractionKeyword 2505 2514	resulting
+T155	InteractionKeyword 2566 2572	causes
+T156	InteractionKeyword 2614 2620	direct
+T157	InteractionKeyword 3002 3009	changed
+T158	InteractionKeyword 3205 3213	enhances
+T159	InteractionKeyword 3333 3343	decreasing
+T160	InteractionKeyword 3443 3451	promotes
+T161	InteractionKeyword 3902 3906	form
+T162	InteractionKeyword 3938 3949	interacting
+T163	InteractionKeyword 4106 4114	triggers
+T164	InteractionKeyword 4405 4414	resulting
+T165	InteractionKeyword 4472 4479	linking
+T166	InteractionKeyword 4514 4523	decreases
+T167	InteractionKeyword 4550 4558	promotes
+T168	InteractionKeyword 4784 4790	effect
+T169	InteractionKeyword 4982 4988	effect
+T170	InteractionKeyword 5343 5351	followed
+T171	InteractionKeyword 5552 5558	causes
+T172	InteractionKeyword 6943 6950	changes
+T173	InteractionKeyword 7079 7086	changes
+T174	InteractionKeyword 7239 7246	enhance
+T175	InteractionKeyword 7361 7368	control
+T176	InteractionKeyword 7546 7556	determined
+T177	InteractionKeyword 8197 8204	signals
+T178	InteractionKeyword 8515 8522	effects
+T179	InteractionKeyword 8976 8983	blocked
+T180	InteractionKeyword 9092 9100	blocking
+T181	InteractionKeyword 10394 10404	converting
+T182	InteractionKeyword 10906 10915	following
+T183	InteractionKeyword 12925 12933	followed
+T184	InteractionKeyword 13332 13341	determine
+T185	InteractionKeyword 13346 13353	effects
+T186	InteractionKeyword 13395 13402	results
+T187	InteractionKeyword 13424 13433	decreased
+T188	InteractionKeyword 13770 13777	results
+T189	InteractionKeyword 13799 13808	increased
+T190	InteractionKeyword 13915 13921	change
+T191	InteractionKeyword 14419 14426	results
+T192	InteractionKeyword 14447 14456	increased
+T193	InteractionKeyword 15126 15133	effects
+T194	InteractionKeyword 15167 15175	increase
+T195	InteractionKeyword 15379 15387	increase
+T196	InteractionKeyword 15473 15480	reduced
+T197	InteractionKeyword 15555 15562	results
+T198	InteractionKeyword 15605 15613	promoted
+T199	InteractionKeyword 15666 15673	reduced
+T200	InteractionKeyword 15872 15879	effects
+T201	InteractionKeyword 16027 16034	results
+T202	InteractionKeyword 16081 16089	controls
+T203	InteractionKeyword 16151 16160	decreased
+T204	InteractionKeyword 16200 16209	decreased
+T205	InteractionKeyword 16294 16300	change
+T206	InteractionKeyword 16406 16415	decreased
+T207	InteractionKeyword 16692 16699	effects
+T208	InteractionKeyword 16817 16825	controls
+T209	InteractionKeyword 16883 16892	decreased
+T210	InteractionKeyword 17179 17186	results
+T211	InteractionKeyword 18426 18434	decrease
+T212	InteractionKeyword 18546 18553	effects
+T213	InteractionKeyword 18987 18994	control
+T214	InteractionKeyword 19147 19155	triggers
+T215	InteractionKeyword 19510 19517	effects
+T216	InteractionKeyword 19582 19591	enhancing
+T217	InteractionKeyword 19630 19637	reduces
+T218	InteractionKeyword 19710 19716	effect
+T219	InteractionKeyword 19794 19802	reducing
+T220	InteractionKeyword 19860 19868	involved
+T221	InteractionKeyword 19992 20001	decreases
+T222	InteractionKeyword 20027 20036	affecting
+T223	InteractionKeyword 20228 20236	inducing
+T224	InteractionKeyword 20337 20342	forms
+T225	InteractionKeyword 20465 20473	promoted
+T226	InteractionKeyword 20617 20623	effect
+T227	InteractionKeyword 20778 20784	effect
+T228	InteractionKeyword 20886 20893	effects
+T229	InteractionKeyword 20897 20905	reducing
+T230	InteractionKeyword 22658 22667	following
+T231	InteractionKeyword 22927 22935	modified
+T232	InteractionKeyword 23336 23342	effect
+T233	InteractionKeyword 23657 23665	triggers
+T234	InteractionKeyword 23695 23704	promoting
+T235	InteractionKeyword 23933 23941	required
+T236	InteractionKeyword 24178 24187	expressed
+R237	Partner1 Arg1:T139 Arg2:T1
+R238	Partner2 Arg1:T139 Arg2:T5
+R239	Partner1 Arg1:T161 Arg2:T11
+R240	Partner2 Arg1:T161 Arg2:T12
+R241	Partner1 Arg1:T165 Arg2:T17
+R242	Partner2 Arg1:T165 Arg2:T18
+R243	Partner1 Arg1:T169 Arg2:T21
+R244	Partner2 Arg1:T169 Arg2:T22
+R245	Partner1 Arg1:T185 Arg2:T43
+R246	Partner2 Arg1:T185 Arg2:T42
+R247	Partner1 Arg1:T186 Arg2:T44
+R248	Partner2 Arg1:T186 Arg2:T45
+R249	Partner1 Arg1:T201 Arg2:T53
+R250	Partner2 Arg1:T201 Arg2:T54
+R251	Partner1 Arg1:T204 Arg2:T56
+R252	Partner2 Arg1:T204 Arg2:T57
+R253	Partner1 Arg1:T207 Arg2:T59
+R254	Partner2 Arg1:T207 Arg2:T60
+R255	Partner1 Arg1:T218 Arg2:T73
+R256	Partner2 Arg1:T218 Arg2:T74
+R257	Partner1 Arg1:T223 Arg2:T78
+R258	Partner2 Arg1:T223 Arg2:T77
+R259	Partner1 Arg1:T233 Arg2:T85
+R260	Partner2 Arg1:T233 Arg2:T84

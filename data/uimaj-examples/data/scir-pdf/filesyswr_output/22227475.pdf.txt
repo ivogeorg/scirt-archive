@@ -1,0 +1,952 @@
+uc
+o
+of K
+3-7
+Accepted 13 December 2011
+Microglia
+Nitric oxide (NO)
+Mitogen-activated protein kinases (MAPKs)
+Reactive oxygen species (ROS)
+ha
+er,
+estigated whether FBP inhibits endotoxin-induced nitric oxide (NO) production
+ynthase (iNOS) expression in microglial cells and explored the possible mecha-
+Life Sciences 90 (2012) 365–372
+Contents lists available at SciVerse ScienceDirect
+Life Scie
+e lscritical mechanism responsible for the progression of neurodegenera-
+tion (Brown and Neher, 2010; Minghetti, 2005). Brain inflammation
+is characterized by glial cell activation accompanied by production
+of oxygen free radicals and other inflammation-related products
+that are toxic to neurons. Accumulating evidence has shown that in-
+duction of the inflammation-related enzymes such as inducible nitric
+oxide synthase (iNOS) and cyclooxgenase(COX)-2 are critical mecha-
+nisms by which inflammatory cells contribute to the development of
+cerebral damage under various pathologic conditions. Indeed, exper-
+iments using iNOS and COX-2 inhibitors suggest that inflammation-
+been attributed to the maintenance of ATP levels (Cardenas et al.,
+2000; Espanol et al., 1998) and the reduction of glutamate (Bickler
+and Buck, 1996) and oxidative stress (Park et al., 2004; Vexler et al.,
+2003). Other possible mechanisms have also been suggested, includ-
+ing calcium chelation (Bickler and Kelleher, 1992), antagonism of
+NMDA receptors (Izumi et al., 2003) and modulation of second mes-
+senger systems (Donohoe et al., 2001; Fahlman et al., 2002; Song
+et al., 2005). However, mechanisms whereby FBP protects the brain
+have not been fully elucidated yet.
+In this context, it is important to note that FBP has anti-
+induced enzymes are potentially effective ta
+or prevention of neuronal injury (Nogawa
+Singh, 2006; Sugimoto and Iadecola, 2002).
+⁎ Corresponding author at: Department of Physiolo
+Medicine, #5, Wonchon-dong, Suwon, 443-749, Repub
+5043; fax: +82 31 219 5049.
+E-mail address: shwanlee@ajou.ac.kr (S.H. Lee).
+0024-3205/$ – see front matter © 2011 Elsevier Inc. All
+doi:10.1016/j.lfs.2011.12.011on denominator among
+s been implicated as a
+which has a neuroprotective effect in various brain injury models
+(Izumi et al., 2003; Kaakinen et al., 2006; Park et al., 2004; Stringer
+and Xu, 2008; Vexler et al., 2003). The neuroprotection by FBP hasInflammation is a widely accepted comm
+various neuropathological processes and haIntroductionERK. FBP inhibited LPS-induced production of reactive oxygen species (ROS) and decreased intracellular
+GSSG/GSH ratio.
+Significance: Our findings suggest that FBP attenuates the LPS-induced iNOS expression through inhibition of
+JNK and p38 MAPK, which might be related to ROS downregulation.
+© 2011 Elsevier Inc. All rights reserved.
+Fructose-1,6-bisphosphate (FBP) is a glycolytic intermediateduction and iNOS expression were determined by Griess reaction, RT-PCR and Western blot. Luciferase assay
+using iNOS promoter-luciferase (iNOS-Luc) construct was adopted for measuring transcriptional activity.
+Key findings: FBP dose-dependently suppressed lipopolysaccharide (LPS)-induced NO production, along with
+reducing the expression of iNOS at both the protein and mRNA level in primary cultured murine microglia
+and BV2 cells. FBP significantly inhibited iNOS promoter activity but stabilized iNOS mRNA. Among transcrip-
+tion factors known to be related to iNOS expression, activator protein (AP-1) activation was significantly
+blocked by FBP. FBP suppressed LPS-induced phosphorylation of three MAPK subtypes-p38 MAPK, JNK andFructose-1,6-bisphosphate (FBP)
+Neuroprotection
+Main methods:Murinemicroglial cell line BV2 and primary culturedmurinemicroglial cells were used. NO pro-Keywords: nisms of the effects of FBP.fined. In this study, we inv
+and inducible nitric oxide sFructose-1,6-bisphosphate attenuates ind
+stimulated with lipopolysaccharide
+Young-Chae Kim a, Tae Yeop Park a, Eunjoo Baik a, So
+a Department of Physiology, School of Medicine, Ajou University, Suwon 443-749, Republic
+b Research Institute of Pharmaceutical Sciences and Technology, Ajou University, Suwon 44
+a b s t r a c ta r t i c l e i n f o
+Article history:
+Received 13 July 2011
+Aims: Fructose-1,6-bisphosp
+brain injury models. Howev
+j ourna l homepage: www.rgets for the treatment
+et al., 1997; Pannu and
+gy, Ajou University School of
+lic of Korea. Tel.: +82 31 219
+rights reserved.tion of nitric oxide synthase in microglia
+Hwan Lee a,b,⁎
+orea
+49, Republic of Korea
+te (FBP) is a glycolytic intermediate with neuroprotective action in various
+the mechanism underlying the neuroprotection of FBP has not been fully de-
+nces
+ev ie r .com/ locate / l i fesc ieinflammatory and immunomodulatory effects, though underlying
+mechanisms of its action have not been well understood. FBP amelio-
+rates carrageenan-induced pleurisy (Alves-Filho et al., 2004) and sup-
+presses T-cell proliferation (Cohly et al., 2004; Lopes et al., 2006). In
+addition, FBP is known to inhibit the production of inflammatory me-
+diators, including cytokines (Cohly et al., 2004; Tamaki et al., 2002),
+prostaglandin E2 (PGE2) (Ahn et al., 2002) and nitric oxide (NO)
+(Cardenas et al., 2000; Edde et al., 1998). These data provide insight
+366 Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372into the inference that the anti-inflammatory effects could be impli-
+cated in the neuroprotective actions of FBP. Thus, in this study, in
+order to better understand the neuroprotective mechanism of FBP
+in situations related to brain disease, we investigated whether FBP in-
+hibits endotoxin-induced NO production and iNOS expression in
+microglial cells and explored the possible mechanisms of the effects
+of FBP.
+Materials and methods
+Chemicals
+D-fructose-1,6-bisphosphate (FBP), N-acetylcysteine (NAC), 6-
+hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid (Trolox),
+pyrrolidine dithiocarbamate (PDTC), actinomycin D and lipopolysac-
+charide (LPS) were purchased from Sigma (St. Louis, MO). MAPKs in-
+hibitors, such as SP600125 (JNK inhibitor), PD98059 (ERK inhibitor),
+and SB202190 (p38 inhibitor), were obtained from Calbiochem (San
+Diego, CA). [α-32P] dCTP was purchased from DuPont-NEN (Boston,
+MA).
+Cell cultures
+BV2 cells, the murine microglial cell line originally developed by
+Dr. V. Bocchini at University of Perugia (Blasi et al., 1990), were gen-
+erously provided by Dr. E.H. Joe at Ajou University (Suwon, Korea).
+The cells were maintained in Dulbecco's modified Eagle's medium
+(DMEM, Life Technologies, Gaithersburg, MD) supplemented with 10%
+FBS (Invitrogen, Carlsbad, CA) and 100 U/ml penicillin/streptomycin
+at 37 °C in a humidified incubator with 5% CO2.
+Primary murine microglial cell isolation
+Primary microglia cell cultures were prepared from prenatal day
+1–2 ICR mouse (Daehan Biolink, Korea) brains. Briefly, the neonatal
+mouse was anesthetized with ethyl ether. And the cortices were me-
+chanically dissociated with a flamed-polished Pasteur pipette in MEM
+supplemented with 20 mM glucose. Cell were plated on 6 or 24 multi-
+well plates with culture medium supplemented with 10% fetal bovine
+serum, and 0.01 μg/ml epidermal growth factor (Sigma, St. Louis, MO)
+for 24 h. The medium was changed every 3 days after seeding. The
+cells reached to confluence on day 14. 14-day mixed glial cell cultures
+were agitated on an orbital shaker for 4 h at 250 rpm at 37 °C. The su-
+pernatant was collected, and microglia were filtered through a 32-μm
+nylon mesh. Microglia were incubated on uncoated petri dishes in a
+moist 10% CO2 atmosphere for 20 min at 37 °C to allow microglia
+cells to attach.
+Nitric oxide (NO) assay
+NO production was determined by measuring nitrite, a stable ox-
+idation product of NO, as described previously (Green et al., 1982).
+Nitrite concentration in the medium was spectrophotometrically
+measured by Griess reaction. The culture medium was mixed with
+an equal volume of Griess reagent (0.1% naphthyl-ethylenediamine
+hydrochloride and 1% sulfanilamide in 10% phosphoric acid) and in-
+cubated at room temperature for 10 min. Absorbance was measured
+at 540 nm in a microplate reader (Molecular Devices, Sunnyvale,
+CA). Sodium nitrite was used as a standard.
+Reverse transcription and polymerase chain reaction (RT-PCR) for iNOS
+Total RNA was extracted from the samples with Easy-blue kit®
+(Intron, Seoul, Korea) according to the manufacturer's protocol. Ali-
+quots of total RNA (1 μg) were transcribed using AMV reverse tran-
+scriptase (Boehringer Mannheim, Indianapolis, IN). Primer sequenceswere as follows: iNOS, sense, 5′-CGTGTGCCTGCTGCCTTCCTGCTGT-3′;
+antisense, 5′-GTAATCCTCAACCTGCTCCTCACTC-3′; GAPDH, sense, 5′-
+GTGAAGGTCGGTGTGAACGGATTT-3′; antisense, 5′-CACAGTCTTC TGAGTG
+GCAGTGAT-3′.
+PCR amplification of the resulting cDNA template was conducted
+using the following conditions: iNOS; 28 cycles of denaturing at
+94 °C for 1 min, annealing at 60 °C for 1 min, and extension at 72 °C
+for 1 min; GAPDH; 30 cycles of denaturing at 94 °C for 0.5 min,
+annealing at 60 °C for 0.5 min, and extension at 72 °C for 1 min. Reac-
+tion products were then separated on a 2% agarose gel and photo-
+graphed under ultraviolet light. The optical density was determined
+by a Gel doc system (GEL DOC 2000, Bio-Rad, Hercules, CA).
+Western blot analysis
+Western blot analysis was used to determine the expression of
+iNOS expression and the activation of MAPKs. After treatment, cell ly-
+sates were prepared by scraping BV2 cells in the lysis buffer (Tris
+50 mM at pH 7.4, 10 mM EDTA, 1% Tween-20, 10 μM leupeptin, and
+1 mM phenylmethyl-sulfonyl fluoride) and sonicating for 10–15 s
+(20-W pulses). Cell lysates containing equal amounts of protein
+were subjected to a 10% SDS-PAGE. Proteins were transferred to ni-
+trocellulose membranes and subsequently blocked in T-TBS buffer
+(20 mM Tris buffer; 0.5 M NaCl, 0.5% Tween-20) containing 5% non-
+fat dried milk. Blots were incubated with polyclonal anti-iNOS (Up-
+state biotechnology, Lake Placid, NY, 1:2,000), MAPKs (Cell Signaling
+Technology, Danvers, MA, 1:1,000) or GAPDH antibody (Santa Cruz
+Biotechnology, Santa Cruz, CA), and followed by incubation with a
+horse radish peroxidase-labeled secondary antibody (Santa Cruz Bio-
+technology, 1:10,000). The blots were visualized using an ECL chemi-
+luminescence detection kit (Amersham Biosciences, Piscataway, NJ).
+Luciferase assay
+Luciferase assay was carried out using a kit from Promega (Madi-
+son, WI). piNOS-luc reporter construct, which contains the murine
+iNOS promoter in pGL3 vector was provided by Dr. D. Hwang at UC
+Davis, USA. Cells in 24 well plates were transfected with piNOS-Luc
+and pCMV-β-gal plasmid as an internal control using Lipofectamine™
+2000 reagent (Invitrogen Carlsbad, CA) for 24 h and transfected-cells
+were treated with different agents (triplicate wells each) for 5 h. Cells
+were then lysed by adding 100 μl of lysis buffer, sonicated for 10 s and
+centrifuged in a tabletop microcentrifuge. An aliquot (20 μl) was
+mixed with 100 μl of assay reagent, vortexed, and read immediately
+in a TD20/20 luminometer (Turner Biosystems, Sunnyvale, CA). The
+luciferase activity was normalized with β-galactosidase activity and
+expressed as % of treatment-free control.
+Electrophoretic mobility shift assay (EMSA)
+Nuclear proteins (10 μg) were used for the electrophoretic mobil-
+ity shift assay for the detection of the DNA binding activity of AP-1,
+NF-κB, CREB, and C/EBP. DNA-protein binding reactions were per-
+formed at room temperature for 20 min in 20 mM HEPES-KOH, pH
+7.9; 10% glycerol, 420 mM NaCl, 0.2 mM EDTA, 1.5 mM MgCl2,
+0.5 mM PMSF, 0.5 mM DTT and 10 μM leupeptin, plus 1 μg of poly
+(dI-dC) and ~0.3 pmol of labeled double-stranded sequences for AP-
+1, NF-κB, CREB or C/EBP binding. The following oligonucleotides
+were synthesized by Bioneer (Daejeon, Korea) and labeled with
+[α-32P] dCTP (3,000 Ci/mmol, 250 μCi/25 μl); 5′-AGCTTGGGGACTTT-
+CC-3′, containing a binding site for NF-κB complexes; 5′-CGCTTGAT-
+GAGTCAGCCGGAA-3′, containing a binding site for AP-1 complexes;
+5′-GATCGTCACCACTACGTCACGTGGAGTCCGCTT-5′, containing a bind-
+ing site for CRE/E-box complexes; and 5′-GATCCTGCCGCTGCGGTT-
+CTTGCGCAACTCACT-3′ containing a binding site for CREB complexes.
+The DNA-protein complexes were resolved on an 8% polyacrylamide
+Blial
+d 30
+367Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372iNOS Protein
+β-actin
+iNOS mRNA
+GAPDH
+A)
+C)
+CTL 
+LPS + FBP (mM)
+0 0.1 1 5 10
+N
+itr
+ite
+ (μ
+M
+)
+0
+5
+10
+15
+20
+25
+30
+*
+#
+##
+##
+## ##
+CTL 0 0.1 1 5 10 20
+LPS + FBP (mM)
+N
+itr
+ite
+(μ
+M
+)
+0
+5
+10
+15
+20
+25
+30
+* #
+##
+##
+## ##
+CTL 0 0.1 1 5 10 20
+LPS + FBP (mM)
+Fig. 1. Effects of FBP on LPS-induced NO production and iNOS expression in BV2 microg
+including N-acetylcystein (NAC, 10 mM), trolox (10 μM) and PDTC (50 μM) were addegel containing in 0.25×TBE (1×TBE: 90 mM Tris borate, 2 mM EDTA,
+pH 8.0). The gel was run at 200 V for 2 h at 5 °C. Gels were then dried
+and subjected to autoradiography at−80 °C with Kodak TGM/RA film.
+Measurement of ROS release
+Intracellular ROS was measured fluorometrically using the non-
+fluorescent dye, 2′,7′-dichlorofluorescein diacetate (DCF-DA), which
+easily permeates cells and is hydrolyzed to fluorescent 2′,7′-dichloro-
+fluorescein (DCF) upon interaction with intracellular ROS. Cells were
+loaded with 20 μM of DCF-DA and 20% Pluronic F-127 for 30 min and
+then washed with HCSS. The DCF fluorescence was analyzed using a
+fluorescence plate reader (Luminescence spectrometer-55, Perkin
+Elmer, Wellesley, MA) at an excitation of 490 nm and an emission
+of 530 nm.
+GSSG/GSH assay
+Total glutathione (GSH plus GSSG) was determined by photomet-
+ric determination of 5-thio-2-nitrobenzoate, formed from 5,5′-dithio-
+bis(2-nitrobenzoic acid, DTNB) at 405 nm according to the protocol of
+Akerboom and Sies (1981). The assay mixture was 0.1 M sodium
+phosphate buffer (pH 7.5) containing 1 mM EDTA, 0.3 mM 5,5′-
+dithio-bis(2-nitrobenzoic acid), 0.4 mM NADPH, and 1 U/ml glutathi-
+one reductase and 10 μl of cell lysate. The increase in absorbance at
+405 nm was monitored at 15 s intervals for 2.5 min using a micro
+plate reader (VERSAmax, Molecular Device, Sunnyvale, CA). GSSG
+was quantified after derivatizing GSH in the sample with 2-
+vinylpyridine for 1 h. After incubation, 10 μl of the each sample was
+assayed as described above using similarly treated GSSG standards
+(0–5 μM).
+were measured by Griess reaction as described in the Experimental Procedure. Data obtain
+the mean±S.E. from at least three independent experiments. *pb0.01 vs. control (CTL). #p
+mined by RT-PCR and Western blot as described in the Materials and methods at 4 h and 2N
+itr
+ite
+ (μ
+M
+)
+0
+5
+10
+15
+20
+25
+30
+*
+#
+#
+#
+iNOS mRNA
+GAPDH
+iNOS Protein
+β-actin
+CTL   
+LPS
+D)
+CTL FBP NAC Trolox PDTC
+LPS
+)
+FBP  NAC Trolox PDTC
+cells. Cells were incubated with LPS (1 μg/ml) for indicated time. FBP and antioxidants
+min prior to LPS exposure. (A), (B) After 48 h, accumulated levels of NO in the mediaStatistics
+The data are expressed as the mean±S.E. from four independent
+experiments. An analysis of variance (ANOVA) followed by Dunnet's
+multiple comparison tests was used for statistical comparisons. A
+value of pb0.05 was considered to be significant (Sigma Stat, Jandel
+Scientific, Chicago, IL).
+Results
+Fructose 1,6-biphosphate (FBP) reduces bacterial lipopolysaccharide
+(LPS)-induced NO production and iNOS expression
+In order to characterize the nature of the anti-inflammatory action
+of FBP, we examined its effects on the production of NO in BV2 micro-
+glial cells. When treated with LPS at concentrations up to 1 μg/ml for
+24 h, microglial cells released NO in a concentration-dependent man-
+ner. Thus, cells were stimulated with 1 μg/ml of LPS in the subsequent
+experiments. LPS reduced the cell viability by 24% compared to the
+control group. Recovery of cell viability was observed upon treatment
+with FBP, and a maximal effect of FBP was observed at 10 mM (105.5±
+2.7% of control). FBP reduced the accumulated levels of NO in the
+media in a dose-dependent manner when added to the culture
+media 30 min prior to LPS stimulation (Fig. 1A). The inhibitory effect
+of FBP on NO production was maximal at 10 mM. Experiments with
+primary cultured mouse microglia showed similar results (Fig. 1A
+inset). LPS-induced iNOS expression was significantly suppressed by
+FBP at both the mRNA and the protein level (Fig. 1C). Antioxidants,
+such as N-acetylcysteine (NAC, 10 mM) and pyrrolidine dithiocarba-
+mate (PDTC, 50 μM) attenuated LPS-induced NO production and
+iNOS expression (Fig. 1B, D). The effect of FBP on both the protein
+ed from primary murine microglial cells are shown in inset of (A). The data represent
+b0.05, ##pb0.01 vs LPS alone. (C), (D) Levels of iNOS mRNA and protein were deter-
+4 h, respectively.
+andmRNA levels of iNOS could bedue to decreased transcription and/or
+reduced mRNA stability. FBP significantly inhibited LPS-induced
+transcriptional activation of the iNOS promoter (Fig. 2A, 285.0±
+9.0% and 115.1±6.1% of control in LPS alone and LPS plus FBP
+(10 mM), respectively). To examine the stability of iNOSmRNA, actino-
+mycin D was added to cells after 4 h of LPS treatment and the level of
+iNOS mRNA was measured from the time of addition up to 8 h. The
+iNOS transcript completely decayed by 8 h of post-actinomycin D
+treatment. The mRNA decay was significantly reversed by treatment
+with FBP (Fig. 2B).
+Effects of FBP on DNA binding of transcription factors
+Previous studies have suggested that various transcription factors,
+such as nuclear factor-kappa B (NF-κB), cAMP response element-
+binding protein (CREB), activator protein (AP-1) and CCAAT/enhanc-
+er binding protein (C/EBP), are important regulators of the expression
+of iNOS gene expression (Kleinert et al., 2004). The DNA binding ac-
+tivities of all these transcription factors increased upon LPS treatment
+in microglial cells. FBP diminished the binding of AP-1, but did not af-
+fect DNA binding of NF-κB, CREB and C/EBP (Fig. 3). Antioxidants,
+such as NAC (10 mM) and PDTC (50 μM), also attenuated AP-1 bind-
+ing activity. Binding of these transcription factors to specific DNA sites
+140 [AcD] B)
+Lu
+ci
+fe
+ra
+se
+ a
+ct
+iv
+ity
+ 
+(%
+ of
+ co
+nt
+ro
+l)
+0
+100
+200
+300
+400
+*
+# ##
+A)
+368 Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372Time in Actinomycin D (hrs)
+0 2 4 6 8 10
+iN
+O
+S 
+m
+RN
+A/
+G
+AP
+DH
+  
+(%
+ of
+ 0 
+tim
+e)
+0
+20
+40
+60
+80
+100
+120 [AcD+FBP] 
+Fig. 2. Effects of FBP on the trasnscriptional activation of the iNOS promotor and the
+stability of iNOS mRNA. (A) Cells were transfected with iNOS-Luc for 24 h and treated
+with LPS (1 μg/ml) for 5 h. FBP (10 mM), N-acetylcystein (NAC, 10 mM), trolox
+(10 μM) or PDTC (50 μM) were added 30 min prior to LPS exposure. The luciferase ac-
+tivity was measured as described in Materials and methods and normalized with
+β-galactosidase activity. Values were expressed as % of treatment-free control. The
+data represent the mean±S.E. from at least three independent experiments. *pb0.01
+vs. control (CTL). #pb0.01 vs LPS alone. (B) Cells were incubated with LPS (1 μg/ml)
+for 4 h and washed three times with PBS (pH 7.2). Cells were further incubated in
+fresh media containing actinomycin D (AcD) at a concentration of 0.5 μg/ml in the ab-
+sence or presence of FBP (10 mM). Total RNA was extracted at the indicated times and
+the level of iNOS mRNA was determined by RT-PCR. Data are expressed as the percent
+of a ratio of iNOS mRNA compared to GAPDH at the time of AcD addition. The graph
+shows the representative result of 3 independent experiments.was blocked completely or almost completely by a 100-fold excess of
+the related unlabelled probes, indicating that binding was specific.
+FBP inhibited LPS-induced iNOS expression by blocking JNK/p38 MAPK
+MAPK signaling pathways play a critical role in the regulation of
+inflammatory response and the coordination of the induction of vari-
+ous inflammatory mediators (Guha and Mackman, 2001). As shown
+in Fig. 4A, LPS markedly induced the phosphorylation of JNK, ERK
+and p38 kinase, and FBP suppressed LPS-induced phosphorylation of
+all of these MAPKs.
+To determine which MAPK signaling pathway is involved in LPS-
+induced iNOS expression, cells were pretreated for 30 min with
+MAPK-specific inhibitors (PD98059 for MEK1/2, SB203580 for p38 ki-
+nase and SP600125 for JNK) before exposure to LPS. SP60015 and
+SB203580 significantly inhibited LPS-induced iNOS expression and
+NO production, while PD98059 showed minimal effect, if any
+(Fig. 4B and C). These data suggest that LPS-induced iNOS expression
+appears to be regulated by JNK and p38 kinase, but not by ERK in BV2
+microglial cells. Thus, the suppression of JNK and p38 kinase phos-
+phorylation may be associated with the inhibitory effect of FBP on
+iNOS expression.
+The involvement of the MAPK pathway in regulating LPS-
+mediated iNOS expression has been hypothesized to be redox-
+dependent (Kim et al., 2004; Pawate et al., 2004). In the present
+study, we also observed that antioxidants, NAC (10 mM) and PDTC
+(50 μM), inhibited LPS-induced phosphorylation of JNK and p38 ki-
+nase (Fig. 4A) and reduced NO production (25.6±0.4 and 16.6±
+0.3 μM in the LPS control and in the NAC treated cells, respectively).
+FBP reduces LPS-induced ROS production
+In order to determine whether FBP reduces oxidative stress under
+our experimental conditions, we measured the fluorescence intensity
+of 2′,7′-dichlorofluorescein (DCF), an oxidant sensitive dye, and the cel-
+lular oxidized glutathione (GSSG) to reduced glutathione (GSH) ratio.
+The fluorescence intensity of each sample was expressed as the per-
+centage over the vehicle-treated control. The level of ROS increased in
+a time-dependent manner, peaking at 4 h after LPS treatment. FBP re-
+duced LPS-induced ROSproduction (Fig. 5A) and also decreased the cel-
+lular GSSG/GSH ratio at 4 h after stimulation (Fig. 5B).
+Discussion
+The present study shows that FBP inhibits the induction of NO
+production and diminished iNOS expression in BV2 microglia ex-
+posed to LPS. FBP has been known to inhibit iNOS expression in
+oxygen-glucose-deprived (OGD) rat forebrain slices (Cardenas et al.,
+2000) and macrophages stimulated with LPS (Edde et al., 1998).
+However, the underlying mechanism of FBP action has not yet been
+elucidated in detail. Previous reports have shown that the expression
+of iNOS is regulated at the transcriptional and posttranscriptional
+levels (Amin et al., 1997; Nathan and Xie, 1994). Our results show
+that FBP hindered LPS-induced transcriptional activation of the iNOS
+promoter (Fig. 2A). Among the tested transcription factors activated
+by LPS, only AP-1 binding activity was attenuated by FBP (Fig. 3).
+Though NF-κB is the most important transcription factor in LPS-
+induced transcriptional activation of iNOS, FBP did not affect NF-κB
+binding in our study. This result coincides with a previous study
+showing that FBP did not affect NF-κB binding activity in macro-
+phages stimulated with LPS (Edde et al., 1998). Based on this result,
+they speculated that FBP might enhance iNOS mRNA degradation in
+macrophages. However, our results indicate that this is not the case
+at least in BV2 microglial cells. FBP increased the stability of the
+iNOS transcript in microglia, which apparently conflicts with above
+data supporting the inhibitory effect of FBP at transcriptional level.
+4  
+B
+369Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372AP-1
+1  2 3 
+C/E
+1  2  3  4  5  6  7
+NF-κBHowever, our data clearly shows that FBP reduces the total levels of
+iNOS mRNA induced by LPS. Thus, it is strongly suggested that tran-
+scriptional effect of FBP is the main one in determining iNOS mRNA
+levels under our experimental condition.
+MAPK signaling pathways are well known to be critically involved
+in the iNOS gene expression. In the present study, we observed that
+specific inhibitors of JNK and p38 kinase inhibited LPS-induced pro-
+duction of NO and the expression of iNOS. These data suggest key
+roles for these kinase cascades in LPS-induced microglial activation.
+However ERK kinase did not seem to be involved in the LPS-
+induced iNOS gene expression (Fig. 4). These results are in accor-
+dance with a previous report suggesting p38 kinase, but not ERK ki-
+nase, is an important mediator of iNOS induction by LPS in BV2
+microglia (Han et al., 2002). In addition, these results are supported
+by the fact that the promoter regions of the genes encoding iNOS
+have binding site for the JNK-dependent transcription factor AP-1. In-
+deed, FBP suppressed LPS-induced phosphorylation of all three
+MAPKs and AP-1 binding activity. Taken together, these data suggest
+that the suppression of JNK and p38 MAPK phosphorylation might be
+associated with the inhibitory effect of FBP on LPS-induced iNOS gene
+expression. However, it should be pointed out that there are some in-
+consistent reports on the role of MAPKs in iNOS gene expression.
+1  2 3  4  5  6  7
+A
+P-
+1 
+bi
+nd
+in
+g 
+ac
+tiv
+ity
+(A
+rb
+itr
+ar
+y U
+ni
+t)
+0
+50
+100
+150
+200
+250
+Fig. 3. Effects of FBP on DNA binding of transcription factors. BV2 cells were incubated wi
+N-acetylcystein (NAC, 10 mM), trolox (10 μM) or PDTC (50 μM)were added 30 min prior to
+ing activities of the transcription factors were determined by electrophoretic mobility shift a
+(10 mM); Lane 5: LPS+trolox (10 μM); Lane 6: LPS+PDTC (50 μM); Lane 7: cold oligonu
+*pb0.01 vs. LPS alone. #pb0.05 vs LPS alone.5  6  7
+P
+1  2 3 4  5 6  7
+CREBThough our findings are consistent with a previous study of C-6 glio-
+ma cells in terms of dissociation of ERK activation and iNOS expres-
+sion (Nishiya et al., 1997), they differ from those of other studies
+with myocytes (Singh et al., 1996), primary rat microglial cells
+(Bhat et al., 1998) and even BV2 microglia (Bae et al., 2006), in
+which ERK pathway is involved in the expression of iNOS. These con-
+tradictions probably stem from the well-known, but not well-
+understood, complex regulation of iNOS gene expression, which is
+cell type-, species-, and stimulus-specific.
+Accumulating evidence indicates that oxidative components con-
+tribute to LPS-induced iNOS expression (Kim et al., 2004; Pawate
+et al., 2004). Indeed, several putative sequences for ROS sensitive
+transcription factors have been identified in the 5′-upstream region
+of the iNOS gene, including sites for NF-κB, NF-IL6 and AP-1
+(Kleinert et al., 2004). Consequently, the management of cellular
+ROS levels could be regarded as a key to the regulation of iNOS ex-
+pression. FBP has been shown to suppress ROS production by neutro-
+phils, keratinocytes and cortical neurons and preserve the
+antioxidative capacities in cortical neurons and skin during oxidative
+stress (Ahn et al., 2002, 2007; Park et al., 2004). In the present study,
+we show that FBP reduced ROS production and maintained glutathi-
+one in microglia during LPS stimulation. FBP is known to suppress
+LPS L+F
+BP
+L+N
+AC
+L+T
+rolo
+x
+L+P
+DTC
+*
+*
+#
+th LPS (1 μg/ml) for 15 min for NF-κB or 2 h for C/EBP, CREB and AP-1. FBP (10 mM),
+LPS exposure. Nuclear proteins were extracted at the indicated times and the DNA bind-
+ssay. Lane 1: control; Lane 2: LPS alone; Lane 3: LPS+FBP (10 mM); Lane 4: LPS+NAC
+cleotide. Bar graph represents the mean±S.E. from three independent experiments.
+in vitro hydroxyl radical generation in Fenton reaction (Tang et al.,
+2008) and also preserve cellular antioxidative capacity by stimulating
+the pentose phosphate pathway (PPP) (Vexler et al., 2003). In addi-
+tion, we reported that FBP reduced NMDA-induced ROS production
+by downregulation of the phosphorylation of ERK and p38 kinase in
+cortical neurons (Park et al., 2004). Thus, together with the suppres-
+sive effects of antioxidants, such as NAC and PDTC, against NO pro-
+duction and phosphorylation of MAPKs (Fig. 4), these results
+support the inference that the antioxidative property of FBP is associ-
+ated with inhibition of MAPKs and thereby attenuation of iNOS ex-
+pression in microglia exposed to LPS.
+FBP has been reported to have neuroprotective effects in various
+brain injury models, including hypoxia–ischemia (Farias et al., 1990;
+Kaakinen et al., 2006; Kuluz et al., 1993; Sola et al., 1996; Trimarchi
+et al., 1997; Vexler et al., 2003), seizure (Stringer and Xu, 2008),
+β-amyloid induced neurotoxicity (Song et al., 2005) and insulin-
+induced hypoglycemia (Farias et al., 1989). One of the main hypothe-
+ses for these effects is that FBP serves as a glycolytic intermediate and
+alters metabolic production of ATP under pathologic conditions
+(Bickler and Buck, 1996; Cardenas et al., 2000; Espanol et al., 1998;
+Hardin and Roberts, 1994; Juergens and Hardin, 1996). In support of
+this hypothesis, recent report demonstrated that the levels of FBP sig-
+nificantly increased in brain after intraperitoneal and oral administra-
+tion and exogenous FBP was taken up into cells within brain and not
+trapped in the endothelial cells of the brain (Xu and Stringer, 2008). It
+was shown that FBP could cross lipid bilayers by passive diffusion
+(Ehringer et al., 2000) or via a dicarboxylate transport system
+(Hardin et al., 2001).
+In contrast, several other reports showed FBP failed to preserve
+ATP in in vivo and in vitro models of hypoxia or ischemia (Hofer
+et al., 2009; Kelleher et al., 1995; Liu et al., 2008). It was speculated
+that the lack of its effect on energy metabolism was probably because
+it was prevented from entering cells in adequate quantities. On the
+basis of these results, it has been suggested that mechanisms other
+than augmented carbohydrate metabolism are responsible for previ-
+ous reports of neuronal protection by FBP (Hofer et al., 2009). Indeed,
+the protective role of FBP has been attributed to a variety of mecha-
+iNOS protein
+β-actin
+iNOS mRNA
+GAPDH
+CT
+L
+LPS
+L +
+ FB
+P
+L +
+ SP
+600
+125
+L +
+ PD
+980
+59
+L +
+ SB
+202
+190
+N
+itr
+ite
+ (μ
+M
+)
+0
+5
+10
+15
+#
+#
+#
+*
+A)
+B)
+C)
+p-ERK
+ERK
+p-p38
+p38
+p-JNK
+JNK
+CT
+L
+LPS
+L +
+ FB
+P
+FB
+P
+G
+SS
+G
+/G
+SH
+0.00
+0.01
+0.02
+0.03 #
+Fig. 5. Effects of FBP on LPS-induced oxidative stress in BV2 cells. (A) Cells were incu-
+bated with LPS (1 μg/ml) for 4 h. FBP (10 mM), N-acetylcystein (NAC, 10 mM), trolox
+(10 μM) and PDTC (50 μM) were added 30 min prior to LPS exposure. Intracellular
+levels of ROS were determined by fluorescence intensity of 2′,7′-dichlorofluorescein
+(DCF). (B) The cellular GSSG/GSH ratio was determined by DTNB reaction at 1 h of in-
+cubation with FBP (10 mM) in the presence or absence of LPS (1 μg/ml). The data rep-
+resent the mean±S.E. from at least four independent experiments. *pb0.01 vs. control
+(CTL). #pb0.05 vs LPS alone.
+370 Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372Fig. 4. Effects of FBP on the phosphorylation of MAPKs. (A) BV2 cells were incubated
+with LPS (1 μg/ml) for 15 min following pretreatments for 30 min with 10 mM of
+FBP(1) or antioxidants and subjected to immunoblot analysis using antibodies that
+specifically recognize phosphorylated and non-phosphorylated ERK, p-38 MAPK and
+JNK. In one group, cells were simultaneously treatedwith LPS and 10 mMof FBP (2). Ap-
+plied antioxidants were NAC (10 mM), trolox (10 μM) and PDTC (50 μM). (B) Cells were
+incubated with LPS (1 μg/ml) following pretreatment for 30 min with 10 mM of FBP,
+10 μM of PD98059, 10 μM of SB202190 or 4 μM of SP600125. After 48 h, accumulated
+levels of NO in the media were measured by Griess reaction as described in the Mate-
+rials and methods. The data represent the mean±S.E. from at least four independent
+experiments. *pb0.01 vs. control (CTL). #pb0.05 vs LPS alone. (C) Levels of iNOS
+mRNA and protein were determined by RT-PCR and Western blot as described in the
+Materials and Methods at 4 h and 24 h, respectively. ra
+tio 0.04
+0.05
+0.06
+*
+CT
+L
+LPS
+L +
+ FB
+P
+L +
+ NA
+C
+L +
+ PD
+TC
+D
+CF
+ in
+te
+ns
+ity
+ (%
+ of
+ co
+nt
+ro
+l)
+0
+50
+100
+150
+200
+250
+*
+#
+#
+#
+A)
+B)nisms such as the reduction of glutamate (Bickler and Buck, 1996),
+371Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372the mitigation of oxidative stress (Park et al., 2004; Vexler et al.,
+2003), calcium chelation (Bickler and Kelleher, 1992) and antagonism
+of NMDA receptors (Izumi et al., 2003). In addition, FBP initiates a se-
+ries of neuroprotective signals, including phospholipase C (PLC) acti-
+vation and increased activity of the MEK/ERK signaling pathway
+(Fahlman et al., 2002; Song et al., 2005) and up-regulates the expres-
+sion of APE/Ref-1, an enzyme responsible for the repair of DNA (Long
+et al., 2002). Most of these regulatory processes would be expected to
+require lesser concentrations of FBP compared to the provision of
+substrate for energy metabolism (Hofer et al., 2009). Regardless of
+whether FBP has an extra- or intracellular site of action, currently a
+matter of controversy, accumulated evidence indicates that FBP has
+cytoprotective effects under various pathological conditions.
+Induction of iNOS has been implicated in the pathogenesis of brain
+injury (del Zoppo et al., 2000; Ono et al., 2010; Pannu and Singh,
+2006). Indeed, experiments have shown that selective inhibitors of
+iNOS are effective in preventing ischemic injury in brain (ArunaDevi
+et al., 2010; Cardenas et al., 1998; Greco et al., 2011). In this context,
+it was suggested that FBP might abolish iNOS expression by reducing
+glutamate release in oxygen-glucose-deprived rat forebrain slices and
+the beneficial effects of FBP were possibly associated with decreased
+production of NO (Cardenas et al., 2000). These results were obtained
+from organotypic slice culture and there was no description of the
+specific cell types therein involved. Activated microglia are involved
+in the progression of brain injury and neuroinflammation mediated
+by microglia has been regarded as a pathological hallmark of various
+CNS disorder (Brown and Neher, 2010). However, until this time,
+there has been no report describing the effect of FBP on microglial
+cells. Our data clearly showed that FBP could directly affect microglia
+and attenuate the LPS-induced iNOS. To our knowledge, our study is
+the first report to focus on microglial activation, and thereby adding
+the attenuation of neuroinflammation to the repertoire of neuropro-
+tective mechanism of FBP.
+Conclusion
+In this study, we showed FBP, a glycolytic intermediate, exerts
+anti-inflammatory effect by inhibiting LPS-induced NO production
+and iNOS expression in microglial cells. This effect is mediated by
+suppression of JNK and p38 MAPK, which might be related to ROS
+downregulation. This study suggests that the attenuation of micro-
+glial activation and in turn, neuroinflammation is implicated in the
+neuroprotective mechanism of FBP.
+Conflict of interest statement
+The authors declare that there are no conflicts of interest.
+Acknowledgments
+This work was supported by a grant from of the “GRRC Program”
+of Gyunggi-Do, Republic of Korea through the Center for Cell Death
+Regulating Biodrug, Ajou University, Republic of Korea.
+References
+Ahn SM, Hwang JS, Lee SH. Fructose 1,6-diphosphate alleviates UV-induced oxidative
+skin damage in hairless mice. Biol Pharm Bull 2007;30:692–7.
+Ahn SM, Yoon HY, Lee BG, Park KC, Chung JH, Moon CH, et al. Fructose-1,6-diphosphate
+attenuates prostaglandin E2 production and cyclo-oxygenase-2 expression in UVB-
+irradiated HaCaT keratinocytes. Br J Pharmacol 2002;137:497–503.
+Akerboom TP, Sies H. Assay of glutathione, glutathione disulfide, and glutathione
+mixed disulfides in biological samples. Methods Enzymol 1981;77:373–82.
+Alves-Filho JC, Santos RC, Castaman TA, de Oliveira JR. Anti-inflammatory effects of
+fructose-1,6-bisphosphate on carrageenan-induced pleurisy in rat. Pharmacol Res
+2004;49:245–8.
+Amin AR, Patel RN, Thakker GD, Lowenstein CJ, Attur MG, Abramson SB. Post-transcrip-
+tional regulation of inducible nitric oxide synthase mRNA in murine macrophages
+by doxycycline and chemically modified tetracyclines. FEBS Lett 1997;410:259–64.ArunaDevi R, Ramteke VD, Kumar S, Shukla MK, Jaganathan S, Kumar D, et al. Neuro-
+protective effect of s-methylisothiourea in transient focal cerebral ischemia in
+rat. Nitric Oxide 2010;22:1-10.
+Bae JH, Jang BC, Suh SI, Ha E, Baik HH, Kim SS, et al. Manganese induces inducible nitric
+oxide synthase (iNOS) expression via activation of both MAP kinase and PI3K/Akt
+pathways in BV2 microglial cells. Neurosci Lett 2006;398:151–4.
+Bhat NR, Zhang P, Lee JC, Hogan EL. Extracellular signal-regulated kinase and p38 sub-
+group of mitogen-activated protein kinases regulate inducible nitric oxide
+synthase and tumor necrosis factor-a gene expression in endotoxin-stimulated
+primary glial cultures. J Neurosci 1998;18:1633–41.
+Bickler P, Buck LT. Effects of fructose-1,6-bisphosphate on glutamate release and ATP
+loss from rat brain slices during hypoxia. J Neurochem 1996;67:1463–8.
+Bickler PE, Kelleher JA. Fructose-1,6-bisphosphate stabilizes brain intracellular calcium
+during hypoxia in rats. Stroke 1992;23:1617–22.
+Blasi E, Barluzzi R, Bocchini V, Mazzolla R, Bistoni F. Immortalization of murine micro-
+glial cells by a v-raf/v-myc carrying retro-virus. J Neuroimmunol 1990;27:229–37.
+Brown GC, Neher JJ. Inflammatory neurodegeneration and mechanisms of microglial
+killing of neurons. Mol Neurobiol 2010;41:242–7.
+Cardenas A, De Alba J, Moro MA, Leza JC, Lorenzo P, Lizasoain I. Neuroprotective effect of
+1400W, a selective inhibitor of inducible nitric oxide synthase, in rat fore brain slices
+exposed to oxygen and glucose deprivation. Eur J Pharmacol 1998;354:161–5.
+Cardenas A, Hurtado O, Leza JC, Lorenzo P, Bartrons R, Lizasoain I, et al. Fructose-1,6-
+bisphosphate inhibits the expression of inducible nitric oxide synthase caused by
+oxygen-glucose deprivation through the inhibition of glutamate release in rat fore-
+brain slices. Naunyn Schmiedebergs Arch Pharmacol 2000;362:208–12.
+Cohly H, Jenkins J, Skelton T, Meydrech E, Markov AK. Fructose-1,6-diphosphate sup-
+presses T-lymphocyte proliferation, promotes apoptosis and inhibits interleukins-
+1, 6, beta-actin mRNAs, and transcription factors expression. Immunol Invest
+2004;33:407–21.
+del Zoppo G, Ginis I, Hallenbeck JM, Iadecola C, Wang X, Feuerstein GZ. Inflammation
+and stroke: putative role for cytokines, adhesion molecules and iNOS in brain re-
+sponse to ischemia. Brain Pathol 2000;10:95-112.
+Donohoe PH, Fahlman CS, Bickler PE, Vexler ZS, Gregory GA. Neuroprotection and in-
+tracellular Ca2+ modulation with fructose-1,6-bisphosphate during in vitro
+hypoxia-ischemia involves phospholipase C-dependent signaling. Brain Res
+2001;917:158–66.
+Edde L, Zhou X, Eaton JW, Sherman MP. Induction of nitric oxide synthase in macro-
+phages: inhibition by fructose-1,6-diphosphate. Biochem Biophys Res Commun
+1998;243:683–7.
+Ehringer WD, Niu W, Chiang B, Ou-Li W, Gordon L, Chien S. Membrane permeability of
+fructose-1,6-diphosphate in lipid vesicles and endothelial cells. Mol Cell Biochem
+2000;210:35–45.
+Espanol MT, Litt L, Hasegawa K, Chang LH, Macdonald JM, Gregory G, et al. Fructose-
+1,6-bisphosphate preserves adenosine triphosphate but not intracellular pH dur-
+ing hypoxia in respiring neonatal rat brain slices. Anesthesiology 1998;88:461–72.
+Fahlman CS, Bickler PE, Sullivan B, Gregory GA. Activation of the neuroprotective ERK
+signaling pathway by fructose-1,6-bisphosphate during hypoxia involves intracel-
+lular Ca2+ and phospholipase C. Brain Res 2002;958:43–51.
+Farias LA, Sun J, Markov AK. Improved brain metabolism with fructose 1–6 diphosphate
+during insulin-induced hypoglycemic coma. Am J Med Sci 1989;297:294–9.
+Farias LA, Smith EE, Markov AK. Prevention of ischemic-hypoxic brain injury and death
+in rabbits with fructose-1,6-diphosphate. Stroke 1990;21:606–13.
+Greco R, Mangione AS, Amantea D, Bagetta G, Nappi G, Tassorelli C. IkappaB-alpha
+expression following transient focal cerebral ischemia is modulated by nitric
+oxide. Brain Res 2011;1372:145–51.
+Green LC, Wagner DA, Glogowski J, Skipper PL, Wishnok JS, Tannenbaum SR. Analysis
+of nitrate, nitrite, and [15N]nitrate in biological fluids. Anal Biochem 1982;126:
+131–8.
+Guha M, Mackman N. LPS induction of gene expression in human monocytes. Cell
+Signal 2001;13:85–94.
+Han IO, Kim KW, Ryu JH, KimWK. p38 mitogen-activated protein kinase mediates lipo-
+polysaccharide, not interferon-γ, -inducible nitric oxide synthase expression in
+mouse BV2 microglial cells. Neurosci Lett 2002;325:9-12.
+Hardin CD, Lazzarino G, Tavazzi B, Di Pierro D, Roberts TM, Giardina B, et al. Myocardial
+metabolism of exogenous FDP is consistent with transport by a dicarboxylate
+transporter. Am J Physiol Heart Circ Physiol 2001;281:H2654–60.
+Hardin CD, Roberts TM. Metabolism of exogenously applied fructose 1,6-bisphosphate
+in hypoxic vascular smooth muscle. Am J Physiol 1994;267:H2325–32.
+Hofer RE, Wagner SR, Pasternak JJ, Albrecht RF, Gallagher WJ, Lanier WL. Fructose-
+1,6-bisphosphate and fructose-2,6-bisphosphate do not influence brain carbohy-
+drate or high-energy phosphate metabolism in a rat model of forebrain ischemia.
+J Neurosurg Anesthesiol 2009;21:31–9.
+Izumi Y, Benz AM, Katsuki H, Matsukawa M, Clifford DB, Zorumski CF. Effects of
+fructose-1,6-bisphosphate on morphological and functional neuronal integrity in
+rat hippocampal slices during energy deprivation. Neuroscience 2003;116:465–75.
+Juergens TM, Hardin CD. Fructose-1,6-bisphosphate as a metabolic substrate in hog
+ileum smooth muscle during hypoxia. Cell Biochem 1996;154:83–93.
+Kaakinen T, Heikkinen J, Dahlbacka S, Alaoja H, Laurila P, Kiviluoma K, et al. Fructose-
+1,6bisphosphate supports cerebral energy metabolism in pigs after ischemic
+brain injury caused by experimental particle embolization. Heart Surg Forum
+2006;9:E828–35.
+Kelleher JA, ChanPH, Chan TY, GregoryGA. Energymetabolism in hypoxic astrocytes: pro-
+tective mechanism of fructose-1,6-bisphosphate. Neurochem Res 1995;20:785–92.
+Kim SH, Johnson VJ, Shin TY, Sharma RP. Selenium attenuates lipopolysaccharide-
+induced oxidative stress response through modulation of p38 MAPK and NF-kB
+signaling pathways. Exp Biol Med 2004;229:203–13.
+Kleinert H, Pautz A, Linker K, Schwarz PM. Regulation of the expression of nitric oxide
+synthase. Eur J Pharmacol 2004;500:255–66.
+Kuluz JW, Gregory GA, Han Y, Dietrich WD, Schleien CL. Fructose-1,6-bisphosphate re-
+duces infarct volume after reversible middle cerebral artery occlusion in rats.
+Stroke 1993;24:1576–83.
+Liu J, Hirai K, Litt L. Fructose-1,6-bisphosphate does not preserve ATP in hypoxic-
+ischemic neonatal cerebrocortical slices. Brain Res 2008;1238:230–8.
+Long J, Zhang Z, Li X. The protective mechanism of fructose-1,6-diphosphate on ische-
+mic brain injury. Zhonghua Yi Xue Za Zhi 2002;82:232–5.
+Lopes RP, Lunardelli A, Preissler T, Leite CE, Alves-Filho JC, Nunes FB, et al. The effects of
+fructose-1,6-bisphosphate and dexamethasone on acute inflammation and T-cell
+proliferation. Inflamm Res 2006;55:354–8.
+Minghetti L. Role of inflammation in neurodegenerative diseases. Curr Opin Neurol
+2005;18:315–21.
+Nathan C, Xie QW. Nitric oxide synthases: roles, tolls, and controls. Cell 1994;78:915–8.
+Nishiya T, Uehara T, Edamatsu H, Kaziro Y, Itoh H, Nomura Y. Activation of Stat1 and
+subsequent transcription of inducible nitric oxide synthase gene in C6 glioma
+cells is independent of interferone-induced MAPK activation that is mediated by
+p21. FEBS Lett 1997;408:33–8.
+Nogawa S, Zhang F, Ross ME, Iadecola C. Cyclo-oxygenase-2 gene expression in
+neurons contributes to ischemic brain damage. J Neurosci 1997;17:2746–55.
+Ono K, Suzuki H, Sawada M. Delayed neural damage is induced by iNOS-expressing
+microglia in a brain injury model. Neurosci Lett 2010;473:146–50.
+Pannu R, Singh I. Pharmacological strategies for the regulation of inducible nitric oxide
+synthase: neurodegenerative versus neuroprotective mechanisms. Neurochem Int
+2006;49:170–82.
+Park JY, Kim EJ, Kwon KJ, Jung YS, Moon CH, Lee SH, et al. Neuroprotection by fructose-
+1,6-bisphosphate involves ROS alerations via p38 MAPK/ERK. Brain Res
+2004;1026:295–301.
+Pawate S, Shen Q, Fan F, Bhat N. Redox regulation of glial inflammatory response to
+lipopolysaccharide and interferon. J Neurosci Res 2004;77:540–51.
+Singh K, Balligand JL, Fischer TA, Smith TW, Kelly RA. Regulation of cytokine-inducible
+nitric oxide synthase in cardiac myocytes and microvascular endothelial cells. Role
+of extracellular signal-regulated kinases 1 and 2 (ERK1/ERK2) and STAT1 alpha.
+J Biol Chem 1996;271:1111–7.
+Sola A, Berrios M, Sheldon RA, Ferriero DM, Gregory GA. Fructose-1,6-bisphosphate
+after hypoxic ischemic injury is protective to the neonatal rat brain. Brain Res
+1996;741:294–9.
+Song X, Wu B, Takata T, Wang X, Oizumi XS, Akisaki T, et al. Neuroprotective effect of
+D-fructose-1,6-bisphosphate against b-amyloid induced neurotoxicity in rat hip-
+pocampal organotypic slice culture: involvement of PLC and MEK/ERK signaling
+pathways. Kobe J Med Sci 2005;51:73–83.
+Stringer JL, Xu K. Possible mechanisms for the anticonvulsant activity of fructose-1,6-
+diphosphate. Epilepsia 2008;49:101–3.
+Sugimoto K, Iadecola C. Effects of aminoguanidine on cerebral ischemia in mice: com-
+parison between mice with and without inducible nitric oxide synthase gene.
+Neurosci Lett 2002;331:25–8.
+Tamaki T, Nakai T, Yamaue H. Fructose-1,6-bisphosphate inhibits excess activation of
+Kupffer cell function induced by endotoxin. Dig Dis Sci 2002;47:2179–85.
+Tang XY, Zhang Q, Dai DZ, Ying HJ, Wang QJ, Dai Y. Effects of strontium fructose 1,6-
+diphosphate on expression of apoptosis-related genes and oxidative stress in testes
+of diabetic rats. Int J Urol 2008;15:251–6.
+Trimarchi GR, Arcadi FA, Imperatore C, Ruggeri P, Costa G. Effect of fructose-1,6-
+biphosphate on microsphere-induced cerebral ischemia in the rat. Life Sci
+1997;61:611–22.
+Vexler ZS, Wong A, Francisco C, Manabat C, Chriten S, Tauber M, et al. Fructose-1,6-
+bisphosphate preserves intracellular glutathione and protects cortical neurons
+against oxidative stress. Brain Res 2003;960:90–8.
+Xu K, Stringer JL. Pharmacokinetics of fructose-1,6-diphosphate after intraperitoneal
+and oral administration to adult rats. Pharmacol Res 2008;57:234–8.
+372 Y.-C. Kim et al. / Life Sciences 90 (2012) 365–372

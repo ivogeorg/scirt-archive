@@ -1,0 +1,875 @@
+HMGB1 Contributes to Regeneration After Spinal Cord
+Injury in Adult Zebrafish
+Ping Fang & Hong-Chao Pan & Stanley Li Lin &
+Wen-Qing Zhang & Heikki Rauvala & Melitta Schachner &
+Yan-Qin Shen
+Received: 23 June 2013 /Accepted: 9 August 2013 /Published online: 31 August 2013
+# Springer Science+Business Media New York 2013
+Abstract High mobility group box 1 (HMGB1, also called
+amphoterin) facilitates neurite outgrowth in early develop-
+ment, yet can exacerbate pathology and inhibit regeneration
+by inducing adverse neuroinflammation when released from
+dying cells, suggesting that HMGB1 plays a critical, yet
+undefined role in neuroregeneration. We explored whether
+HMGB1 contributes to recovery after complete spinal cord
+transection in adult zebrafish. Quantitative PCR and in situ
+hybridization revealed that HMGB1 mRNA levels decreased
+between 12 h to 11 days after spinal cord injury (SCI), then
+returned to basal levels by 21 days. Western blot and
+immunohistological analyses indicated that the time course of
+HMGB1 protein expression after SCI parallels that of mRNA.
+Immunofluorescence staining revealed that HMGB1 translo-
+cates from nuclei into the cytoplasm of spinal motoneurons at 4
+and 12 h (acute stage) following SCI, then accumulates in the
+nuclei of motoneurons during the ensuing chronic stage (after
+6 days following SCI). Immunohistology of transgenic
+zebrafish, expressing green fluorescent protein in blood ves-
+sels, showed enhanced HMGB1 expression in blood vessels
+in the vicinity of motoneurons. Application of anti-sense
+HMGB1 morpholinos inhibited locomotor recovery by 34 %
+and decreased axonal regeneration by 34 % compared to fish
+treated with a control morpholino. The present study shows
+that HMGB1 expression increases in both endothelial cells and
+motoneurons, suggesting that HMGB1 promotes recovery
+from SCI not only through enhancing neuroregeneration, but
+also by increasing angiogenesis. The inflammatory effects of
+HMGB1 are minimized through the decrease in HMGB1
+expression during the acute stage.
+Keywords HMGB1 . Amphoterin . Spinal cord injury .
+Regeneration . Neurovascular . Zebrafish
+Introduction
+The development of the central nervous system is highly sim-
+ilar between mammals and lower vertebrates, yet the ability of
+higher vertebrates to recover from central nervous system inju-
+ry, which in lower vertebrates recapitulates central nervous
+system development, is absent. Spinal cord recovery in lower
+vertebrates involves both neurogenesis and inflammation.
+However, due to the potential of inflammation to inhibit
+neurogenesis, to successfully accomplish neuroregeneration
+the processes of neurogenesis and inflammation must be highly
+coordinated. HMGB1 is a protein central to both neurogenesis
+and inflammation. We previously showed that, HMGB1
+mRNA in the nucleus of the medial longitudinal fascicle
+(NMLF) decreases to 87 % at 12 h and by 11 days after SCI,
+HMGB1 is increased to 113 % compared with the sham injury
+group [1]. HMGB1, containing twoDNA binding domains and
+a C-terminal tail, has been identified both as a non-histone
+Electronic supplementary material The online version of this article
+(doi:10.1007/s12035-013-8533-4) contains supplementary material,
+which is available to authorized users.
+P. Fang :H.<C. Pan : S. L. Lin :M. Schachner (*) :Y.<Q. Shen
+Center for Neuroscience, Shantou University Medical College,
+22 Xinling Road, Shantou 515041, China
+e-mail: schachner@stu.edu.cn
+W.<Q. Zhang
+Key Laboratory of Zebrafish Modeling and Drug Screening for
+Human Diseases of Guangdong Higher Education Institutes,
+Department of Cell Biology, School of Basic Medical Sciences,
+Southern Medical University, Guangzhou 510515, China
+H. Rauvala
+Neuroscience Center, University of Helsinki, P.O. Box 56
+(Viikinkaari 4), FIN-00014 Helsinki, Finland
+Present Address:
+Y.-Q. Shen (*)
+Medical School, Jiangnan University, 1800 Lihu Road,
+Wuxi 214122, China
+e-mail: shenyq30@hotmail.com
+Mol Neurobiol (2014) 49:472–483
+DOI 10.1007/s12035-013-8533-4
+chromosomal protein in nuclei, and as a cytokine in the extra-
+cellular environment, and plays an important role in both
+mammalian and zebrafish nervous systems [2]. During early
+development, HMGB1 is widely expressed in both the nuclei
+and cytoplasm of cells in neurogenic brain structures, including
+the hippocampal dentate gyrus, olfactory bulbs and cell lining
+of the telencephalic ventricles [3], and is detectable in the nuclei
+of adult neurons and astrocytes [4], spinal cord oligodendro-
+cytes [5], choroid plexus endothelial cells [6], and in vitro in
+microglia [7]. Knock-down of HMGB1 in zebrafish embryos
+leads to a marked reduction in numbers of tyrosine
+hydroxylase-expressing neurons in the forebrain and a reduc-
+tion in brain size [8], and, in vitro, HMGB1 promotes neurite
+outgrowth of N18 neuroblastoma cells, cortical neurons and
+cerebellar granule cells [9–11]. HMGB1 is upregulated in rat
+spinal cord at 72 h after injury, and increases in rat brain by
+3 days following ischemia [12, 13]. This broad distribution in
+the nervous system, involvement in neurogenesis, and
+upregulation following spinal cord injury suggests that
+HMGB1 plays a prominent role in recovery from central ner-
+vous system injury.
+HMGB1 released from microglia and/or degenerating neu-
+rons producesmultiple inflammatory and neurotoxic factors [7].
+In contrast to the neurogenic properties of HMGB1, HMGB1 is
+highly inflammatory upon release from cells [14], and can
+contribute to neuropathology and inhibition of neurogenesis
+through secondary tissue damage. During pathological changes
+in mammals, HMGB1 is released into the extracellular environ-
+ment and mediates inflammation through binding to the recep-
+tor for advanced glycation end products (RAGE), and toll-like
+receptors (TLR)-2, TLR-4, and TLR-9 [15–18]. In a rabbit SCI
+model, the level of HMGB1 in serum increases at 72 h after
+injury and leads to elevation of TNF-α and apoptosis of moto-
+neurons, and reduction of HMGB1 serum concentrations is
+associated with better survival of neurons in the spinal cord
+[19, 20]. In the rat spinal nerve ligation model, HMGB1 ex-
+pression is strongly enhanced at 7 days after ligation and
+induces neuropathic pain by neuroinflammation, with the pain
+being alleviated after application of HMGB1 antibody [21]. In
+addition, HMGB1 overexpression in astrocytes promotes
+neurovascular remodeling following ischemia, and inhibition
+of HMGB1 reduces density of microvessels in the peri-infarct
+area and impairs recovery of locomotor ability in ischemic mice
+compared with non-ischemic control mice [22]. Together, these
+observations suggest that HMGB1 plays dual and antagonistic
+roles during regeneration after central nervous system injury.
+To delineate the roles of HMGB1 in recovery following
+SCI, we used an adult zebrafish model in which nearly full
+locomotor activity is recovered within 6 weeks after complete
+transection of the thoracic spinal cord. We show that HMGB1
+expression rapidly decreases within 12 h after spinal cord
+injury, and that decreased HMGB1 levels persist for 11 days,
+followed by a full recovery by 21 days. These changes in
+HMGB1 expression were observed in both motoneurons and
+the spinal cord vascular system. Further, inhibition of HMGB1
+expression by anti-sense morpholinos retarded the recovery of
+locomotor ability and axonal regeneration across the lesion site.
+These results are consistent with a model for recovery from
+spinal cord injury in which an HMGB1 is initially released to
+promote neurogenesis and cell survival, then downregulated to
+minimize inflammation during recovery.
+Materials and Methods
+Animals
+Wild-type adult zebrafish (Danio rerio , 6 months old) were
+purchased from the Huiyuan Aquatic Animals Company
+(Shantou, Guangdong, China). Fli1a::EGFP transgenic fish,
+in which EGFP is driven by the endothelial cell-specific Fli1
+promoter [23], were kindly provided by Professor ZilongWen
+(Hong Kong University of Science and Technology). All fish
+used in the experiments were kept on a 14-h light and 10-h
+dark cycle at 28 °C, and fed twice a day. All animal experi-
+ments were approved by the Animal ethics Committee of
+Shantou University Medical College.
+Spinal Cord Injury
+Spinal cord transection was performed as described [24].
+Briefly, fish were anaesthetized by immersion in 0.033 %
+aminobenzoic acid ethylmethylester (MS222, Sigma, St.
+Louis, MO, USA) in phosphate-buffered saline, pH 7.4
+(PBS) for 5 min. A longitudinal incision was made at the side
+of the fish to expose the vertebral column. The spinal cord was
+cut between two vertebrae, approximately 4 mm caudal to the
+brainstem/spinal cord transitional junction. Wounds were
+sealed with Histoacryl (B. Braun, Melsungen, Germany),
+and the injured fish were kept individually at 28 °C. A sham
+control lesion was performed by making the incision, but
+omitting the spinal cord transection. All surgical procedures
+were performed on ice under a microscope.
+Real-Time Quantitative RT-PCR
+To study the expression of HMGB1 mRNA (NM_199555) in
+the spinal cord caudal to the lesion site, total RNA was
+extracted from the 4 mm segment of spinal cord directly caudal
+to the lesion site at different time points after SCI. First-strand
+cDNA was generated using random primers and a ReverTra
+AceR qPCR RT Kit (TOYOBO, Osaka, Japan). Quantitative
+real-time polymerase chain reaction (qPCR) was performed
+with a SYBRR Green Real-time PCR Master Mix
+(TOYOBO) as previously described [25]. Primers for qPCR
+were designed using Primer Express 5.0 software (Applied
+Mol Neurobiol (2014) 49:472–483 473
+Biosystems, Foster City, CA, USA). All assays were performed
+in duplicate, and assay products were validated using melting
+curves to confirm the presence of single PCR products.
+GAPDH served as the internal control [26]. The following
+primer sequences were used: zebrafish HMGB1 forward:
+GAGCGATGGAAGACTATGT, reverse: TCGGAACTCGG
+AGCAGA. GAPDH forward: GTGTAGGCGTGGACTGT
+GGT, reverse: TGGGAGTCAACCAGGACAAATA [27]. A
+no-template control group was performed in each experiment
+using the same reaction conditions at different time points. The
+number of fish for this assay was six for each group.
+In Situ Hybridization
+In situ hybridization probes (sense and anti-sense) for
+HMGB1 mRNAwere transcribed in vitro. Purified PCR frag-
+ments were cloned into the pGM-T vector (Tiangen, Beijing,
+China), and the sequences were verified by sequencing.
+Digoxigenin (DIG)-labeled sense and anti-sense RNA probes
+were generated using the Megascript system (Ambion,
+Austin, TX, USA) according to the manufacturer’s instruc-
+tions. Non-radioactive detection of mRNA in sections of the
+adult zebrafish was performed as described with small mod-
+ifications [28, 29]. Spinal cords were fixed for 24 h in 4 %
+paraformaldehyde in PBS at 4 °C, followed by incubation in
+15 % sucrose in PBS overnight at 4 °C. Then, 16-μm-thick
+sections of spinal cords were cut from fresh-frozen tissue on a
+cryostat, pre-hybridized for 2 h at 55 °C, and hybridized with
+the DIG-labeled probes at 55 °C overnight. After extensive
+washing (at 50 °C), alkaline phosphatase-coupled anti-DIG
+fragment antibodies (Fabs, Roche, Indianapolis, IN, USA)
+were applied at room temperature for 1 h. Antibody binding
+was detected using an alkaline phosphatase reaction with
+nitro-blue-tetrazolium and 5-bromo-4-chloro-3-indolyl phos-
+phate (NBT/BCIP, Roche) as substrates. As a negative control,
+sense probes were developed in parallel under the same con-
+ditions as the anti-sense probes. Sections from sham control
+and injured fish were analyzed on the same slides. All sections
+were viewed and photographed using an epifluorescence mi-
+croscope (Axio Imager Z1, Zeiss, Oberkochen, Germany).
+Three fish were analyzed for each group.
+Immunohistochemistry
+All tissues were processed for immunofluorescence after fixa-
+tion in 4 % formaldehyde in PBS at 4 °C overnight. Serial
+sections (16 μm in thickness) from the spinal cord (longitudi-
+nal, 0–4 mm caudal to lesion site) were used. Sections were
+prepared as described above and processed for immunostaining
+[30]. The primary antibodies against zebrafish HMGB1 were
+raised in rabbits [8] (1:200), and against zebrafish anti-Islet-1 in
+mice (1:200, Developmental Studies Hybridoma Bank,
+University of Iowa, Iowa City, IA, USA). Secondary antibodies
+were Alexa Fluor 594- or CY3-conjugated goat anti-rabbit IgG
+(1:800, Jackson ImmunoResearch, West Grove, USA) and
+FITC-conjugated goat anti-mouse IgG (1:800, Jackson
+ImmunoResearch). Fluorescence images were collected using
+an epifluorescence microscope (Axio Imager Z1, Zeiss,
+Oberkochen, Germany) [31]. Motoneuronal cell bodies were
+identified as Islet1-immunopositive cells. Motoneurons touch-
+ing the endothelial cells of blood vessels were counted in
+longitudinal sections of fli1a::EGFP transgenic and wild-type
+zebrafish. Sections were obtained from eight randomly chosen
+sites on the spinal cord 0–4 mm in length caudal to the original
+spinal lesion site. The number of fish assayed was three for
+each group.
+Western Blot Analysis
+Total protein was extracted by homogenizing spinal cord
+tissue in RIPA buffer (Soliba, Beijing, China). After centrifu-
+gation of the homogenate at 14,000×g and 4 °C, protein
+concentration in the supernatant was determined with a BCA
+kit (Pierce, Rockford, USA). The supernatant was denatured
+by boiling for 5 min in SDS sample buffer. Fifty micrograms
+of total protein was then subjected to SDS-PAGE on 10 %
+gels. Proteins were transferred to a polyvinylidene difluoride
+membrane and probed with the following antibodies: rabbit
+anti-zebrafish HMGB1 (1:2,000) and mouse anti-zebrafish
+GAPDH (1:1,000, Beyotime, Haimen, China). Goat anti-
+rabbit IgG and goat anti-mouse IgG (1:1,000, Jackson
+ImmunoResearch) conjugated to horseradish peroxidase were
+used as secondary antibodies. The membrane with proteins
+was incubated with BeyoECL Plus (Beyotime) for 1 min and
+imaged by a Gel Image System (Alpha Innotech, San
+Leandro, USA). The gray value of each band was measured
+and normalized to that of the GAPDH band using ImageTool
+software (San Antonio, Texas, USA). Five fish were assayed
+in each group.
+Morpholino Treatment
+HMGB1 anti-sense morpholino (MO) (5′-GATCCTTCCCC
+ATCTTTGCCTAAAT-3′, vivo-porter-coupled) and standard
+control MO (5′-CCTCTTACCTCAGTTACAATTTATA-3′,
+vivo-porter-coupled) (Gene Tools, Philomath, OR, USA)
+were dissolved in Danieau solution [32] and soaked in
+small pieces of Gelfoam (Upjohn, Kalamazoo, MI,
+USA). These pieces of Gelfoam were divided into
+smaller pieces to yield 800 ng of MO (approximately
+0.2 μl MO per piece). One piece was applied to the
+transection site immediately after spinal cord transection.
+Each animal was allowed to survive the surgery for 6 weeks
+[29].
+474 Mol Neurobiol (2014) 49:472–483
+Swim Tracking
+Swimming capabilities of injured fish were assessed each
+week after MO application for 4 weeks in two trials of
+5 min each (trial interval, 4 h). In each trial, a zebrafish was
+placed in a brightly illuminated (100 lx) tank (42×30×30 cm)
+filled with aquarium water (5 cm deep) at 25 °C. A video
+camera recorded the trials above the tank. Swim paths were
+tracked with ethovision software (Noldus, Wageningen, The
+Netherlands). Mean lengths of the swim paths (total distance
+moved) of the two trials were used for graphic presentation
+and statistical analysis. The experimenter was blinded to the
+treatment of the animals. The number of fish analyzed for this
+assay was nine for each group.
+Anterograde Tracing
+To study whether regenerated axons had passed the lesion site,
+biocytin was applied via a second surgery at the site of the
+brainstem/spinal cord junction at 6 weeks after SCI [33–35].
+After 24 h, spinal cords were removed, and blocks of tissue
+from 0–4 mm caudal to the original spinal lesion site were
+fixed in 4 % formaldehyde in PBS at 4 °C overnight, embed-
+ded in 15 % sucrose, and sectioned coronally (in 25-μm-thick
+sections) or longitudinally (in 16-μm-thick sections) on a
+cryostat. Biocytin labeling was detected with Streptavidin-
+Cy3 (1:400, Bioss). Three animals were in each group (control
+MO- or HMGB1 MO-treated). Fluorescence intensity was
+presented as the mean intensity evaluated by ImagePro plus
+software (Media Cybernetics) from 12 randomly selected
+spinal cord sections 0–4 mm caudal to the lesion site from
+each group. Four animals from each group were analyzed.
+Statistical Analysis
+Using SPSS 13 software, the independent sample t test was
+used for comparing the two treatment groups, and one-way
+ANOVA was used for multiple group comparisons. Data are
+presented as means±SEM. P <0.05 was set as the threshold
+for significance (*P <0.05, **P <0.01). All experiments were
+performed in triplicate.
+Results
+HMGB1 mRNA Levels Along the Caudal Part of the Central
+Canal Change with Time After SCI
+To explore the involvement of HMGB1 in the regeneration of
+spinal cord-injured adult zebrafish, expression of HMGB1
+mRNA in the spinal cord was examined by real-time qPCR
+and in situ hybridization at different time points after complete
+spinal cord transection. Time points at 4 and 12 h represent the
+acute response phase of the injury, and those at 6, 11, and
+21 days represent the chronic response phase. HMGB1
+mRNA levels were increased by twofold at 4 h after SCI,
+but were decreased by 12 h after SCI compared with the sham
+injury group. From 12 h to 11 days after SCI, HMGB1mRNA
+expression was maintained at a low level (*P <0.05, indepen-
+dent sample t test; n =6), then gradually returned to the sham
+injury group level at 21 days (P >0.05) (Fig. 1a). The poly-
+merization and Ct value of the no-template control group were
+undetectable. The qPCR results were confirmed by in situ
+hybridization. In the sham injury group (4 h after sham injury),
+HMGB1 mRNA-positive signals were mostly in neurons and
+some in ependymal cells lining the central canal. At 4 h after
+SCI, HMGB1 mRNA-positive cells were primarily ependymal
+cells along the central canal caudal to the lesion site, indicating
+that injured neurons had lost HMGB1 expression. At 12 h,
+6 days and 11 days after SCI, a significant decrease in HMGB1
+mRNA levels was detected in both the ependymal cells and in
+motoneurons, when compared to the sham injury group
+(Fig. 1b). However, by 21 days after SCI, HMGB1 mRNA
+signals, along the central canal and in motoneurons, were
+similar in both SCI and sham groups. No signal was detected
+in sections incubated with sense probes, and no significant
+difference was found between non-injured zebrafish and the
+sham injury group (data not shown). Therefore, HMGB1 levels
+rapidly decrease and are maintained at low levels following
+SCI.
+Acute Stage Downregulation and Chronic Stage Recovery
+of HMGB1 Protein Levels Following SCI
+To investigate the effects of SCI onHMGB1 protein expression
+and distribution, Western blot analysis and immunohistology
+were performed at different time points after SCI. Zebrafish
+spinal cord tissues were harvested at 4 and 12 h, and at 6, 11
+and 21 days after SCI. HMGB1 protein levels decreased by
+12 h after SCI compared to sham-injured and uninjured fish. At
+6 days after SCI, the level of HMGB1 protein levels had
+declined by 25 %, and continued to decrease to 50 % of the
+sham injury group until 11 days after SCI (P <0.05, one-way
+ANOVA with Tukey’s post-hoc test; n =5). By 21 days after
+injury, HMGB1 protein returned to levels similar to those of the
+sham injury group (P >0.05) (Fig. 2a, b). Therefore, similar to
+HMGB1 mRNA, HMGB1 protein levels also decreased fol-
+lowing SCI, although the decrease in protein quantitatively
+lagged behind the decrease in mRNA levels.
+Immunohistology was performed to locate the intracellular
+distribution of HMGB1. In the sham injury group, HMGB1
+was mainly localized to cell nuclei in the ependymal cells
+lining the central canal. At 4 h after SCI, HMGB1 was not
+only detectable in nuclei, but was also detectable in the cyto-
+plasm. From 12 h to 11 days post-injury, HMGB1 protein
+levels decreased and increased again by 21 days in both
+Mol Neurobiol (2014) 49:472–483 475
+cytoplasm and nuclei in cells in the vicinity of the central canal
+(Fig. 2c). Since ependymal cells of the spinal cord form a stem
+cell niche which promotes regeneration after SCI [36], this
+possibly reflects changes in HMGB1 levels within the neural
+stem cell population.
+HMGB1 Localizes in Both Nuclei and Cytoplasm
+of Motoneurons After SCI
+To investigate whether motoneurons express HMGB1,
+double-immunostaining was performed for HMGB1 and
+Islet-1 (a marker for motoneurons) in uninjured, sham-
+injured, and injured zebrafish at varying times after SCI. In
+the spinal cords of sham-injured zebrafish, most of the
+HMGB1 staining was present in motoneuron nuclei. At 4 h
+after SCI, localization of HMGB1 became cytoplasmic. By
+12 h after SCI, HMGB1 decreased in the cytoplasm of moto-
+neurons. However, by 6 to 11 days after SCI, HMGB1 could
+again be detected in both the nuclei and the cytoplasm of
+motoneurons. In the 21-day SCI group, HMGB1 levels de-
+clined in the cytoplasm but were again found in the nuclei
+(Fig. 3). There was no difference in the co-localization of
+HMGB1 and Islet-1 between sham-injured and uninjured
+zebrafish, and at the time points investigated, there was no
+difference between sham-injured and uninjured animals (data
+not shown). These results show that HMGB1 is present in
+motoneuron nuclei, and is translocated to the cytosol and
+downregulated following injury. Similar to the localization
+observed in endothelial cells, recovery initially involves re-
+expression of HMGB1 in both cytosol and nuclei, followed by
+a gradual return to exclusive nuclear localization.
+HMGB1 Is Expressed in Endothelial Cells and Associated
+with Motoneurons After SCI
+We investigated the relationship between HMGB1 expression
+in endothelial cells and the localization of motoneurons along
+the central canal by using Fli1a::EGFP transgenic fish, which
+Fig. 1 Time course of HMGB1
+mRNA expression after SCI.
+a qPCR of HMGB1mRNA in the
+spinal cord caudal to the lesion site
+at different time points after SCI.
+Significant upregulation was
+observed at 4 h, followed by
+downregulation at 12 h, 6 days,
+and 11 days after SCI compared to
+the sham-injured group (*P<0.05,
+**P<0.01, independent sample
+t test; n=6 fish/group). Values
+represent means±SEM. b In situ
+hybridization detection of
+HMGB1 mRNA in longitudinal
+sections of the spinal cord 4 mm
+caudal to the lesion site at 4 and
+12 h, and 6, 11, and 21 days after
+SCI (n=3 fish/group). Numbers of
+positive cells are higher along the
+central canal at 4 h and lower at
+12 h, 6 days, and 11 days after SCI
+compared to the sham-injured
+group at 4 h. At 21 days after SCI,
+numbers of positive cells returned
+to basal levels. Arrows mark
+motoneurons of spinal cord.
+Asterisks indicate the central
+canal. Scale bar 100 μm
+476 Mol Neurobiol (2014) 49:472–483
+express EGFP in endothelial cells, and analyzed the expression
+pattern of HMGB1 in the vasculature over time after SCI by
+examining the cell bodies of motoneurons adjacent to blood
+vessels. Interestingly, HMGB1 was strongly upregulated in
+blood vessels at 6 days and decreased at 11 and 21 days after
+SCI compared to the sham injury group (Fig. 4a). In parallel, the
+numbers of motoneurons adjacent to blood vessels increased by
+242 % over the sham injury group at 6 days after SCI, and by
+168 % at 21 days after SCI (Fig. 4b and c) (P<0.05). Thus,
+recovery is marked by an increased density of motoneurons
+adjacent to blood vessels.
+Inhibition of HMGB1 Protein Expression After SCI Retards
+Locomotor Recovery After SCI
+Application of an HMGB1 anti-sense MO at the time of SCI
+reduced levels of HMGB1 protein by 49 %, as judged by
+Western blot analysis of spinal cord tissue below the lesion site,
+when compared to the standard control MO, when measured at
+4 weeks after SCI (*P <0.05, independent sample t test; n =5)
+(Fig. 5a, b). HMGB1 MO also reduced functional recovery
+after SCI, as quantified by the distance swum within a given
+amount of time. At 1 week after SCI, no difference between the
+groups treated with HMGB1MO and standard controlMOwas
+observed (Fig. 5c). However, HMGB1MO-treated fish showed
+retardation of locomotor recovery at 2, 3, and 4 weeks post-
+injury. At 2 weeks after SCI, the total distance moved by fish
+treated with HMGB1 MO (855.7±178.3 cm, n =9, *P <0.05)
+was reduced by 64.6 % compared to that of fish treated with
+control MO (1,365.2±123.7 cm, n =9). At 3 weeks after
+SCI, the distance moved in 5 min of HMGB1 MO-
+treated fish (986.6±82.8 cm, n =9, *P <0.05) was
+34 % less than that of the control MO group (1,493.6±
+85.6 cm, n =9). Similarly, at 4 weeks after SCI, the total
+distance moved by fish treated with HMGB1 MO (1,144.1±
+116.4 cm, n =9, *P <0.05) was 33 % less than that of the
+control group (1,711.8±228.4 cm, n =9). Thus, HMGB1
+MO treatment strongly reduces locomotor recovery, in-
+dicating a requirement for HMGB1 in spinal cord
+regeneration.
+Fig. 2 Time course of HMGB1 protein expression following SCI.
+a Western blot analysis shows HMGB1 protein expression in the spinal
+cord caudal to the lesion site at different time points after SCI. Significant
+downregulation was detected at 12 h, and 6, and 11 days after SCI
+compared to the sham injury group at 4 h. At 21 days after SCI, the level
+of HMGB1 protein returned to the level of the sham injury group. b The
+intensity of bands was quantified with ImageTool software. The fold
+change compared with the sham injury group shows the reduction of
+HMGB1 protein levels achieved significance at 12 h, and 6, and 11 days
+after SCI (*P <0.05, **P<0.01, one-wayANOVAwith Tukey’s post-hoc
+test; n =5 fish/group). Values represent means±SEM. c HMGB1 expres-
+sion in the spinal cord 4 mm caudal to the lesion site was examined by
+immunofluorescence in longitudinal sections at different time points after
+SCI. HMGB1-positive cells were reduced along the central canal from
+12 h to 11 days after SCI. The number of HMGB1-positive cells returned
+to basal levels at 21 days after SCI. Asterisks indicate the central canal.
+HMGB1 (red), nuclei (blue). Scale bar 100 μm
+Mol Neurobiol (2014) 49:472–483 477
+Reduction of HMGB1 Protein Levels Impairs Axon
+Regrowth Beyond the Lesion Site After SCI
+To further elucidate the protective role of HMGB1 in spinal
+cord regeneration, we studied axonal regrowth/sparing be-
+yond the lesion site by anterograde tracing. Biocytin was
+applied at the brainstem/spinal cord junction of fish at 6 weeks
+after SCI [37]. After 24 h, biocytin was detected with
+Streptavidin-Cy3 at a site 4 mm distal to the first lesion site.
+Axon regrowth/sparing beyond the first lesion site is illustrat-
+ed in coronal and longitudinal sections. The numbers of
+biocytin-positive axons in coronal and longitudinal sections
+fromHMGB1-inhibited SCI zebrafish were considerably few-
+er than those from SCI zebrafish treated with control MO. An
+uninjured group was used as a normal control. Axonal signals
+in the uninjured group were considerably stronger than either
+the HMGB1- or control MO-treated groups (Fig. 6a).
+Immunofluorescence intensity analysis of biocytin in coronal
+sections of zebrafish treated with HMGB1 MO showed a
+34 % decrease in axonal regrowth/sparing compared with
+zebrafish treated with standard MO after SCI (P <0.05)
+(Fig. 6b). These observations support the view that HMGB1
+is involved in axonal regrowth, allowing locomotor recovery
+during regeneration after SCI.
+Discussion
+HMGB1 Expression is Downregulated in the Acute Stage
+and Restored in the Chronic Stage After SCI
+Most published studies on traumatic nervous system injury
+focus on rodents and on short periods of observation after the
+injury. HMGB1 expression in the rat is enhanced at 48 h after
+Fig. 3 HMGB1 protein is
+expressed in nuclei and cytoplasm
+of motoneurons following SCI.
+Double-immunofluorescence
+staining of HMGB1 with Islet-1
+in longitudinal sections (4 mm
+caudal to the lesion site) shows
+the post-SCI changes in HMGB1
+localization in motoneurons along
+the central canal. HMGB1 is
+mainly present in nuclei of
+motoneurons in the sham injury
+group. After SCI, it is expressed
+in the cytoplasm during the acute
+stage (4 and 12 h). By 6 and
+11 days after SCI, a low level of
+HMGB1 was maintained in the
+cytoplasm, and HMGB1 becomes
+expressed again mainly in the
+nuclei. At 21 days after SCI,
+HMGB1 expression was restored
+in the nuclei and retained at a low
+level in the motoneuron
+cytoplasm. Asterisks indicates the
+central canal. Scale bar 100 μm
+478 Mol Neurobiol (2014) 49:472–483
+Fig. 4 HMGB1 protein is
+expressed in vasculature and
+motoneurons with increased
+association with blood vessels
+after SCI. a Immunofluorescence
+staining of HMGB1 in
+longitudinal sections (4 mm
+caudal to the lesion site) of
+(fli1a::EGFP)y1 transgenic
+zebrafish shows that HMGB1 is
+highly expressed in blood vessels
+at 6 days and decreased at 11 and
+21 days after SCI when compared
+with the sham injury group. Scale
+bar 100 μm. b Motoneurons
+marked by Islet-1 (red) in
+longitudinal sections (4 mm
+caudal to the lesion site) of
+(fli1a::EGFP)y1 transgenic
+zebrafish shows increased
+association with blood vessels
+(green) after SCI. Scale bar
+50 μm. c The number of
+motoneurons associated with
+blood vessels is increased at 6 and
+21 days after SCI compared with
+the sham injury group (measured
+with ImagePro Plus software,
+*P<0.05, one-way ANOVAwith
+Tukey’s post-hoc test, n=3).
+Values represent means±SEM
+Mol Neurobiol (2014) 49:472–483 479
+SCI and parallels increased inflammation that occurs through
+upregulation of TNF-α [12]. In a rat spinal nerve ligation
+model, HMGB1 mRNA levels are high at 7 days after the
+lesion [21], and HMGB1 protein levels in adult rats are
+increased in serum at 10 days after brain ischemia [13]. In
+mice and humans afflicted with stroke, HMGB1 protein is
+Fig. 5 Reduction of HMGB1
+expression after spinal cord injury
+retards locomotor recovery.
+HMGB1 protein expression is
+reduced at 4 weeks after SCI by
+HMGB1 MO, as detected by
+Western blot analysis (a and b).
+Intensity of the bands was
+quantified by ImageTool software.
+HMGB1 protein levels at 4 weeks
+after MO treatment are decreased
+by 50% by application of HMGB1
+MO as compared with the control
+MO group (*P<0.05, independent
+sample t test; n=5 fish/group).
+Values represent means±SEM.
+c Total distance moved in 5 min of
+zebrafish treatedwithHMGB1MO
+or control MO (n=9 fish/group)
+after SCI. From 2 to 4 weeks after
+SCI, the total distance moved was
+reduced by treatment with HMGB1
+MO compared to fish treated with
+control MO (*P<0.05, **P<0.01,
+independent sample t test; n=9).
+Values represent means±SEM
+Fig. 6 Inhibition of HMGB1
+protein expression after SCI
+impairs regrowth of axons.
+a Coronal and longitudinal
+sections show fluorescence
+intensity of axons beyond the
+lesion site at 6 weeks after injury.
+Zebrafish treated with HMGB1
+MO showed significantly less
+axonal regeneration than fish
+treated with control MO. The
+sham injury group was used as a
+control. Regenerating axons
+(red). Scale bars 200 μm.
+b Biocytin staining analysis of
+axonal regeneration in SCI
+zebrafish treated with HMGB1
+MO or standard MO (**P <0.01,
+one-way ANOVAwith Tukey’s
+post-hoc test; n=4 fish/group).
+Values represent means±SEM
+480 Mol Neurobiol (2014) 49:472–483
+released into the blood between 6 and 24 h after ischemia [13,
+38]. The rapid and persistent elevation of HMGB1 seen in
+higher vertebrates contrasts the rapid decrease in HMGB1
+levels following SCI observed here. Because HMGB1 is a
+highly pro-inflammatory factor, it is possible that lower levels
+of HMGB1 after SCI in zebrafish may ameliorate persistent
+inflammation, resulting in greater cell survival and less tissue
+damage during a period of recovery, enabling regeneration to
+proceed as signaled by the later return of HMGB1 to basal
+levels.
+It is noteworthy in this context that acute inflammation in
+zebrafish after central nervous system injury has led to improved
+recovery. Cerebroventricular injection of immunogenic zymo-
+san A into adult zebrafish induces acute neuroinflammation and
+results in increased numbers of newly born neurons compared to
+animals injected with vehicle only [39]. In zebrafish with trau-
+matic brain injury, injection of the anti-inflammatory agent
+Pranlukast before the injury inhibits leukotriene signaling in
+activated radial glial cells and decreases proliferation of neurons
+when compared to vehicle-only injected animals [39]. Given
+that acute inflammation has been suggested to stimulate regen-
+eration [39], our demonstration that an increase in HMGB1
+mRNA levels occurs at 4 h after SCI in zebrafish suggests that
+acute inflammation occurs at very early stages after injury and
+would suggest a model in which an initial, transient inflamma-
+tory HMGB1 release occurs immediately after SCI to stimulate
+neurogenesis and/or promote cell survival, followed by a de-
+crease in HMGB1 levels to prevent persistent inflammation that
+would be detrimental to neurogenesis.
+The increase in HMGB1 mRNA, observed at 4 h after SCI,
+occurs in the absence of changes in protein level. One possible
+explanation is that the short duration of increased mRNA
+expression of HMGB1 may not be sufficient to accumulate
+protein. Alternatively, the increase in HMGB1 mRNA occurs
+to counter mechanisms responsible for the rapid decrease in
+HMGB1 expression, observed at 12 h, in order to maintain
+sufficient HMGB1 levels to stimulate neurogenesis or pro-
+mote cell survival, consistent with our model. The detailed
+mechanism remains to be studied.
+HMGB1 is Expressed in Both Motoneurons and Blood
+Vessels
+HMGB1 is expressed in tyrosine hydroxylase-expressing neu-
+rons, as well as in microglia and astrocytes in the central
+nervous system of adult vertebrates [7, 8, 22]. In the present
+study, we further demonstrate that HMGB1 is expressed in
+motoneurons and blood vessels. Interestingly, at 4 h after SCI,
+localization of HMGB1 in motoneurons is mainly cytoplas-
+mic, possibly making HMGB1 accessible to release or more
+accessible to the cellular protein degradation machinery, while
+at 12 h after SCI, HMGB1 protein remains cytoplasmic, but at
+reduced levels inmotoneurons through 11 days after SCI, after
+which HMGB1 increases. It is thus not unlikely that HMGB1
+translocates from the nucleus into the cytoplasm during the
+acute stage after SCI. By 21 days after SCI, most HMGB1-
+positive motoneurons revert to the pattern of the sham-injured
+controls, with most of the signal localized in the nuclei. At this
+time, HMGB1 expression is at similar levels as the sham
+injury group and parallels the improvement in locomotor
+function, suggesting that the presence of HMGB1 in moto-
+neuron nuclei facilitates functional restoration during the first
+3 weeks after SCI.
+Expression of HMGB1 in blood vessels after SCI suggests
+a role for HMGB1 in neurovascular protection. Previous
+studies show that transgenic mice overexpressing HMGB1
+show smaller myocardial infarction volumes than wild-type
+mice. These mice also show higher capillary and arteriole
+densities at 4 weeks after myocardial infarction than wild-
+type mice [40]. After intracerebral hemorrhage-induced brain
+injury in rats, inhibition of HMGB1 decreases levels of vas-
+cular endothelial growth factor and retards functional recovery
+[41], suggesting that HMGB1 enhances angiogenic regenera-
+tion. In the present study, HMGB1 expression was remarkably
+elevated in the neural vasculature after SCI. In addition, the
+number of motoneuron cell bodies touching blood vessels is
+increased, accompanied by sprouting of vessels apparently
+induced by HMGB1. This suggests that HMGB1 promotes
+nervous system regeneration at least partly through facilitating
+angiogenesis after SCI.
+Taken together, our results indicate that HMGB1 enhances
+functional recovery in adult zebrafish by stimulating
+neurogenesis and increasing angiogenesis after severe complete
+spinal cord transection. Studying the HMGB1 signaling path-
+way in neurons and blood vessels in zebrafish after SCI and
+overexpression of this molecule in endothelial cells can be
+expected to delineate the protective function of HMGB1 in the
+lesioned adult central nervous system not only of fish, but also of
+mammals, with the hope to provide new approaches for therapy.
+Acknowledgments This project is supported by the National Natural
+Science Foundation of China (No. 81072622, No. 31271580), Guang-
+dong Natural Science Foundation (S2012010009480) and the Li Kashing
+Foundation. Melitta Schachner is New Jersey Professor of Spinal Cord
+Research. We are grateful to Zilong Wen for kindly providing the
+Fli1a::EGFP transgenic fish.
+Conflicts of Interest The authors declare that there are no conflicts of
+interest.
+References
+1. Ma L, Yu YM, Guo Y, Hart RP, Schachner M (2012) Cysteine- and
+glycine-rich protein 1a is involved in spinal cord regeneration in adult
+zebrafish. Eur J Neurosci 35:353–365
+2. Fang P, Schachner M, Shen YQ (2012) HMGB1 in development and
+diseases of the central nervous system. Mol Neurobiol 45:499–506
+Mol Neurobiol (2014) 49:472–483 481
+3. Guazzi S, Strangio A, Franzi AT, Bianchi ME (2003) HMGB1, an
+architectural chromatin protein and extracellular signalling factor, has
+a spatially and temporally restricted expression pattern in mouse
+brain. Gene Expr Patterns 3:29–33
+4. Enokido Y, Yoshitake A, Ito H, Okazawa H (2008) Age-dependent
+change of HMGB1 and DNA double-strand break accumulation in
+mouse brain. Biochem Biophys Res Commun 376:128–133
+5. Daston MM, Ratner N (1994) Amphoterin (P30, HMG-1) and RIP
+are early markers of oligodendrocytes in the developing rat spinal
+cord. J Neurocytol 23:323–332
+6. Tenenbaum T, Essmann F, Adam R, Seibt A, Janicke RU, Novotny
+GE, Galla HJ, Schroten H (2006) Cell death, caspase activation, and
+HMGB1 release of porcine choroid plexus epithelial cells during
+Streptococcus suis infection in vitro. Brain Res 1100:1–12
+7. Gao HM, Zhou H, Zhang F, Wilson BC, Kam W, Hong JS (2011)
+HMGB1 acts onmicrogliaMac1 to mediate chronic neuroinflammation
+that drives progressive neurodegeneration. J Neurosci 31:1081–1092
+8. Zhao X, Kuja-Panula J, Rouhiainen A, Chen YC, Panula P, Rauvala
+H (2011) High mobility group box-1 (HMGB1; amphoterin) is
+required for zebrafish brain development. J Biol Chem 286:23200–
+23213
+9. Chou DK, Evans JE, Jungalwala FB (2001) Identity of nuclear high-
+mobility-group protein, HMG-1, and sulfoglucuronyl carbohydrate-
+binding protein, SBP-1, in brain. J Neurochem 77:120–131
+10. Merenmies J, Pihlaskari R, Laitinen J, Wartiovaara J, Rauvala H
+(1991) 30-kDa heparin-binding protein of brain (amphoterin) in-
+volved in neurite outgrowth. Amino acid sequence and localization
+in the filopodia of the advancing plasma membrane. J Biol Chem
+266:16722–16729
+11. Rauvala H, Pihlaskari R (1987) Isolation and some characteristics of
+an adhesive factor of brain that enhances neurite outgrowth in central
+neurons. J Biol Chem 262:16625–16635
+12. Kawabata H, Setoguchi T, Yone K, Souda M, Yoshida H, Kawahara
+K, Maruyama I, Komiya S (2010) High mobility group box 1 is
+upregulated after spinal cord injury and is associated with neuronal
+cell apoptosis. Spine 35:1109–1115 (Phila Pa 1976)
+13. Kim JB, Sig Choi J, YuYM, NamK, Piao CS, Kim SW, LeeMH,Han
+PL, Park JS, Lee JK (2006) HMGB1, a novel cytokine-like mediator
+linking acute neuronal death and delayed neuroinflammation in the
+postischemic brain. J Neurosci 26:6413–6421
+14. Blanco P, Palucka AK, Pascual V, Banchereau J (2008) Dendritic
+cells and cytokines in human inflammatory and autoimmune dis-
+eases. Cytokine Growth Factor Rev 19:41–52
+15. Rauvala H, Rouhiainen A (2010) Physiological and pathophysiolog-
+ical outcomes of the interactions of HMGB1 with cell surface recep-
+tors. Biochim Biophys Acta 1799:164–170
+16. Tian J, Avalos AM, Mao SY, Chen B, Senthil K, Wu H, Parroche P,
+Drabic S, Golenbock D, Sirois C et al (2007) Toll-like receptor 9-
+dependent activation by DNA-containing immune complexes is me-
+diated by HMGB1 and RAGE. Nat Immunol 8:487–496
+17. Urbonaviciute V, Furnrohr BG, Meister S, Munoz L, Heyder P, De
+Marchis F, Bianchi ME, Kirschning C,Wagner H, Manfredi AA et al
+(2008) Induction of inflammatory and immune responses by
+HMGB1-nucleosome complexes: implications for the pathogenesis
+of SLE. J Exp Med 205:3007–3018
+18. Wahamaa H, Schierbeck H, Hreggvidsdottir HS, Palmblad K,
+Aveberger AC, Andersson U, Harris HE (2011) High mobility group
+box protein 1 in complex with lipopolysaccharide or IL-1 promotes
+an increased inflammatory phenotype in synovial fibroblasts.
+Arthritis Res Ther 13:R136
+19. Huang Y, Xie K, Li J, Xu N, Gong G, Wang G, Yu Y, Dong H,
+Xiong L (2011) Beneficial effects of hydrogen gas against spinal
+cord ischemia-reperfusion injury in rabbits. Brain Res 10:125–
+136
+20. Wang Q, Ding Q, Zhou Y, Gou X, Hou L, Chen S, Zhu Z, Xiong L
+(2009) Ethyl pyruvate attenuates spinal cord ischemic injury with a
+wide therapeutic window through inhibiting high-mobility group box
+1 release in rabbits. Anesthesiology 110:1279–1286
+21. ShibasakiM, Sasaki M,Miura M, Mizukoshi K, Ueno H, Hashimoto
+S, Tanaka Y, Amaya F (2010) Induction of highmobility group box-1
+in dorsal root ganglion contributes to pain hypersensitivity after
+peripheral nerve injury. Pain 149:514–521
+22. Hayakawa K, Pham LD, Katusic ZS, Arai K, Lo EH (2012)
+Astrocytic high-mobility group box 1 promotes endothelial progen-
+itor cell-mediated neurovascular remodeling during stroke recovery.
+Proc Natl Acad Sci U S A 109:7505–7510
+23. Lawson ND, Weinstein BM (2002) In vivo imaging of embryonic
+vascular development using transgenic zebrafish. Dev Biol 248:307–
+318
+24. Fang P, Lin JF, Pan HC, Shen YQ, Schachner M (2012) A surgery
+protocol for adult zebrafish spinal cord injury. J Genet Genomics
+39:481–487
+25. Goff LA, Bowers J, Schwalm J, Howerton K, Getts RC, Hart RP
+(2004) Evaluation of sense-strand mRNA amplification by compar-
+ative quantitative PCR. BMC Genomics 5:76
+26. Song G, Li Q, Long Y, Hackett PB, Cui Z (2012) Effective
+expression-independent gene trapping and mutagenesis mediated
+by Sleeping Beauty transposon. J Genet Genomics 39:503–520
+27. Pei DS, Sun YH, Chen SP, Wang YP, HuW, Zhu ZY (2007) Zebrafish
+GAPDH can be used as a reference gene for expression analysis in
+cross-subfamily cloned embryos. Analytical biochemistry 363:291–
+293
+28. Bernhardt RR, Tongiorgi E, Anzini P, Schachner M (1996) Increased
+expression of specific recognition molecules by retinal ganglion cells
+and by optic pathway glia accompanies the successful regeneration of
+retinal axons in adult zebrafish. J Comp Neurol 376:253–264
+29. Lin JF, Pan HC, Ma LP, Shen YQ, Schachner M (2012) The Cell
+Neural Adhesion Molecule Contactin-2 (TAG-1) is beneficial for
+functional recovery after spinal cord injury in adult zebrafish. PLoS
+One 7:e52376
+30. Guo Y, Ma L, Cristofanilli M, Hart RP, Hao A, Schachner M (2011)
+Transcription factor Sox11b is involved in spinal cord regeneration in
+adult zebrafish. Neuroscience 172:329–341
+31. Pan HC, Lin JF, Ma LP, Shen YQ, Schachner M (2013) Major vault
+protein promotes locomotor recovery and regeneration after spinal
+cord injury in adult zebrafish. Eur J Neurosci 37:203–211
+32. Nasevicius A, Ekker SC (2000) Effective targeted gene ‘knockdown’
+in zebrafish. Nat Genet 26:216–220
+33. Becker CG, Lieberoth BC, Morellini F, Feldner J, Becker T,
+Schachner M (2004) L1.1 is involved in spinal cord regeneration in
+adult zebrafish. J Neurosci 24:7837–7842
+34. Becker T, Wullimann MF, Becker CG, Bernhardt RR, Schachner M
+(1997) Axonal regrowth after spinal cord transection in adult
+zebrafish. J Comp Neurol 377:577–595
+35. Yu YM, Cristofanilli M, Valiveti A, Ma L, Yoo M, Morellini F,
+Schachner M (2011) The extracellular matrix glycoprotein tenascin-
+C promotes locomotor recovery after spinal cord injury in adult
+zebrafish. Neuroscience 183:238–250
+36. Hugnot JP, Franzen R (2011) The spinal cord ependymal region: a
+stem cell niche in the caudal central nervous system. Front Biosci
+16:1044–1059
+37. Becker T, Becker CG (2001) Regenerating descending axons prefer-
+entially reroute to the gray matter in the presence of a general
+macrophage/microglial reaction caudal to a spinal transection in adult
+zebrafish. J Comp Neurol 433:131–147
+38. Muhammad S, BarakatW, Stoyanov S, Murikinati S, YangH, Tracey
+KJ, Bendszus M, Rossetti G, Nawroth PP, Bierhaus A et al (2008)
+The HMGB1 receptor RAGE mediates ischemic brain damage. J
+Neurosci 28:12023–12031
+39. Kyritsis N, Kizil C, Zocher S, Kroehne V, Kaslin J, Freudenreich D,
+Iltzsche A, Brand M (2012) Acute inflammation initiates the regen-
+erative response in the adult zebrafish brain. Science 338:1353–1356
+482 Mol Neurobiol (2014) 49:472–483
+40. Kitahara T, Takeishi Y, Harada M, Niizeki T, Suzuki S, Sasaki T,
+Ishino M, Bilim O, Nakajima O, Kubota I (2008) High-mobility
+group box 1 restores cardiac function after myocardial infarction in
+transgenic mice. Cardiovasc Res 80:40–46
+41. Lei C, Lin S, Zhang C, TaoW, DongW, Hao Z, Liu M, Wu B (2013)
+Effects of high-mobility group box1 on cerebral angiogenesis and
+neurogenesis after intracerebral hemorrhage. Neuroscience 229:12–
+19
+Mol Neurobiol (2014) 49:472–483 483

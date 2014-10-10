@@ -1,0 +1,1501 @@
+Mesenchymal stem cells improve locomotor
+an
+en
+ersit
+nma
+rup
+Accepted 10 October 2013
+Available online 19 October 2013
+Keywords:
+Traumatic spinal cord injury
+Locomotor recovery
+Mesenchymal stem cells
+Meta-analysis
+(SCI) is a devastating event with huge personal and societal costs. A limited number
+Spinal cord injury paraplegia at $300,000. Accordingly, if a person sustains a SCI at the
+areas of the world are
+).
+the mechanical impact
+d blood–brain-barrier,
+Neurobiology of Disease 62 (2014) 338–353
+Contents lists available at ScienceDirect
+Neurobiology
+j ourna l homepage: www.e lhaemorrhages, disrupted axons, andbrokenneural-cell bodymembranes.
+A broad spectrum of progressive secondary damage soon follows
+(minutes to weeks), consisting of ischaemia, oedema, biochemical
+Bresnahan; CI, confidence interval; CSPGs, chondroitin sulphateproteoglycans;D2, diversity;
+I2, inconsistency measure; IFNγ, interferon gamma; lacZ, betagalactosidase; M1, classically
+activated macrophage/microglia; M2, alternatively activated macrophage/microglia;
+MAG, myelin-associated glycoprotein; MOG, myelin oligodendrocyte glycoprotein;2012; Devivo, 2012; Geyh et al., 2013; Middleton et al., 2012). Almost
+50% of all traumatic SCIs result in complete loss of function below the
+cord lesion although the available data in many
+lacking (New et al., in press; Noonan et al., 2012
+In traumatic SCI, the primary damage refers to
+that within seconds to minutes leads to a disrupteAbbreviations: α, risk of type I error; β, risk of type II error; BBB, Basso–Beattie–Traumatic spinal cord injury (SCI) is a catastrophic and disabling
+event that results in severe motor, sensory, and autonomic dysfunction.
+The costs of SCI are enormous for the affected individual with a
+significant impact on quality of life and life expectancy (Boakye et al.,
+age of 25, lifetime medical costs would surpass $3.3million in the case
+of high tetraplegia and $1.1 million for paraplegia. Worldwide,
+2.5 million people are affected with SCI, and every year more than
+130,000 people sustain a traumatic SCI (Adams and Cavanagh, 2004).
+In addition, as many are estimated to contract a non-traumatic spinalMSC, mesenchymal stem cell; Nogo-A, neurite outgrow
+injury; SD, standard deviation; SE, standard error; TSA, tri
+⁎ Corresponding author at: Cell Therapy Facility, The B
+Clinical Immunology, Copenhagen University Hospital
+DK-2100 Copenhagen, Denmark. Fax: +45 35390038.
+E-mail address: oliveri@rh.dk (R.S. Oliveri).
+Available online on ScienceDirect (www.sciencedir
+0969-9961/$ – see front matter © 2013 Elsevier Inc. All ri
+http://dx.doi.org/10.1016/j.nbd.2013.10.014level of injury and the cost of medical care for the first year for a patient
+with high tetraplegia is estimated at $800,000 and for a patient withIntroductionSystematic reviewimpact.Mesenchymal stem or stromal cells (MSCs) have anti-inflammatory and neuroprotective effects andmay
+thus reduce secondary damage after administration. We performed a systematic review with quantitative
+syntheses to assess the evidence of MSCs versus controls for locomotor recovery in rat models of traumatic
+SCI, and identified 83 eligible controlled studies comprising a total of 1,568 rats. Between-study heterogeneity
+was large. Fifty-three studies (64%) were reported as randomised, but only four reported adequate
+methodologies for randomisation. Forty-eight studies (58%) reported the use of a blinded outcome assessment.
+A random-effects meta-analysis yielded a difference in behavioural Basso–Beattie–Bresnahan (BBB) locomotor
+score means of 3.9 (95% confidence interval [CI] 3.2 to 4.7; Pb0.001) in favour of MSCs. Trial sequential analysis
+confirmed the findings of the meta-analyses with the upper monitoring boundary for benefit being crossed by
+the cumulative Z-curve before reaching the diversity-adjusted required information size. Only time from
+intervention to last follow-up remained statistically significant after adjustment using multivariate random-
+effects meta-regression modelling. Lack of other demonstrable explanatory variables could be due to insufficient
+meta-analytic study power. MSCs would seem to demonstrate a substantial beneficial effect on locomotor
+recovery in a widely-used animal model of traumatic SCI. However, the animal results should be interpreted
+with caution concerning the internal and external validity of the studies in relation to the design of future clinical
+trials.
+© 2013 Elsevier Inc. All rights reserved.Received 2 July 2013
+Revised 13 September 2013
+of treatments exist to ameliorate the progressive secondary damage that rapidly follows the primarymechanical
+Article history: Traumatic spinal cord injurycord injury: Systematic review with meta-
+Roberto S. Oliveri a,⁎, Segun Bello b, Fin Biering-Sørens
+a Cell Therapy Facility, The Blood Bank, Department of Clinical Immunology, Copenhagen Univ
+b The Nordic Cochrane Centre, Copenhagen University Hospital Rigshospitalet, Copenhagen, De
+c Department of Spinal Cord Injuries, Copenhagen University Hospital Rigshospitalet and Glost
+a b s t r a c ta r t i c l e i n f oth inhibitor A; SCI, spinal cord
+al sequential analysis.
+lood Bank 2034, Department of
+Rigshospitalet, Blegdamsvej 9,
+ect.com).
+ghts reserved.recovery in traumatic spinal
+alyses of rat models
+c
+y Hospital Rigshospitalet, Copenhagen, Denmark
+rk
+Hospital, Copenhagen, Denmark
+of Disease
+sev ie r .com/ locate /ynbd ichanges, and inflammatory cell responses that substantially aggravate
+the primary injury in rostro-caudal direction, thus affecting subsequent
+neural repair and regeneration (Hausmann, 2003; Oyinbo, 2011).
+Detrimental biochemical changes include excessive calcium influx-
+mediated neuron and glial apoptosis, glutamate excitotoxicity, lipid
+peroxidation, and nitrous oxide excess. Main inflammatory effector cells
+stem cells may hold promise as a novel treatment modality (Donnelly
+et al., 2012; Sahni and Kessler, 2010). Accordingly, more than 2700
+339R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353clinical cell therapy trials have been initiated during the first decade of
+the 21st century (Culme-Seymour et al., 2012). Stem cells are a
+heterogeneous group of cells, but share the unique feature of being
+able to self-renew as well as differentiate into more specialised cells
+by means of asymmetric cell division (Oliveri, 2007). Multipotent
+mesenchymal stem cells (MSCs) are currently occupying centre stage
+in preclinical and clinical stem cell research due to their plethora of
+regenerative effects together with their relative ease of isolation,
+efficient ex vivo expansion, lack of ethical concerns, and acceptable
+safety profile (Lalu et al., 2012; Prockop et al., 2010; Singer and
+Caplan, 2011; Uccelli et al., 2008; von Bahr et al., 2012). Thus, human
+MSCs have shown promising results in a number of diverse clinical
+conditions such as graft-versus-host disease (Le Blanc et al., 2008),
+Crohn's disease (Duijvestein et al., 2010), adjuvant induction therapy in
+organ transplantation (Tan et al., 2012), and ischaemic cardiomyopathy
+(Hare et al., 2012). MSC-like cells can be isolated from tissues such as
+bone marrow, adipose tissue and umbilical cord, where they are
+believed to reside in the perivascular niches and play a pivotal role in
+local tissue homeostasis (Crisan et al., 2008). Besides having intrinsic
+mesodermal differentiation capabilities, MSCs have more recently also
+shown to exhibit other coveted properties such as anti-inflammatory,
+immunomodulatory, anti-apoptotic, trophic and angiogenic effects.
+These functions are believed to be mediated by transient paracrine
+by-stander mechanisms and cell-to-cell contact in response to the local
+damagedhost tissue environment rather than long-term cell engraftment
+and cell replacement (Caplan and Correa, 2011; Meyerrose et al.,
+2010; Prockop, 2007; von Bahr et al., 2012). Equally important, MSCs
+demonstrate pathotropism by means of chemotaxis-induced homing
+and migration to injured tissues following intravascular administrationcomprise waves of activated neutrophils and classically activated (M1)
+blood borne macrophages and tissue-resident microglia (Beck et al.,
+2010; Fleming et al., 2006) which are associated with the rapid increase
+in neurotoxic matrix metalloproteinases, reactive oxygen species, and
+pro-inflammatory cytokines (Fleming et al., 2006; Nguyen et al., 2007;
+Noble et al., 2002).
+Later, in the chronic phase, the spinal cord is characterised by
+continuing white-matter demyelinisation, atrophy, Wallerian degen-
+eration, and central cavity formation in previously injured areas.
+Eventually, a developing glial scar is characterised by reactive astrocytes,
+activated resident microglia, invading macrophages, and potent neurite
+growth-inhibiting substances such as chondroitin sulphate proteoglycans
+(CSPGs), myelin-associated glycoprotein (MAG), myelin oligodendrocyte
+glycoprotein (MOG), and neurite outgrowth inhibitor (Nogo)-A
+(Bregman et al., 1995; Filbin, 2003; Freund et al., 2006).
+In a contusion lesion,which is themost commonmorphological type
+of injury, the amount of primary macerated nervous tissue is relatively
+low. Instead, progressive secondary damage is more predominant,
+which in time may encompass several spinal segments above and
+below the original impact, thus extending the functional impairment.
+Especially the post-traumatic neuroinflammatory response is thought
+to be one of the most important mediators herein (Trivedi et al., 2006).
+Current best available care of SCI traumas includes early surgical
+intervention, hypertensive therapy with vasoactive agents, and
+methylprednisolone derivates, and future treatment modalities
+may consist of promising early phase agents such as minocycline,
+Cethrin™, and riluzole (Breslin and Agrawal, 2012; Cadotte and
+Fehlings, 2011; Hawryluk et al., 2008; Kwon et al., 2011a; Kwon et
+al., 2011b; Tator et al., 2012).
+Mesenchymal stem cells
+In the absence of full recovery for many cell degenerative disorders,(Karp and Leng Teo, 2009).MSCs have been shown to address and modulate many of the
+detrimental effects associated with acute and chronic damage in the
+traumatised spinal cord (Teixeira et al., 2013; Uccelli, 2013; Wright
+et al., 2011). Ameliorating effects include neuron protection from
+glutamate excitotoxicity (Lu et al., 2011; Uccelli et al., 2012; Voulgari-
+Kokota et al., 2012), reduction in levels of stress-associated proteins,
+pro-inflammatory cytokines and reactive oxygen species (Lanza et al.,
+2009; Zhou et al., 2009), inhibition of neutrophil adhesion, infiltration
+and respiratory burst (Pati et al., 2011; Prockop and Oh, 2012;
+Raffaghello et al., 2008), polarisation of classically activated pro-
+inflammatory M1 into an alternatively activated pro-reparatory (M2)
+macrophage phenotype (Giunti et al., 2012; Kim and Hematti, 2009;
+Nakajima et al., 2012; Zhang et al., 2010), secretion of neurotrophic
+factors (Crigler et al., 2006; Hawryluk et al., 2012; Li et al., 2002;
+Nakano et al., 2010; Zhou et al., 2009), enhancement of neural stem
+cell oligodendrogenic fate and remyelinisation (Inoue et al., 2003; Li
+et al., 2009; Rivera et al., 2006; Steffenhagen et al., 2012), function as
+axon guiding strands across lesion site (Hofstetter et al., 2002),
+reduction of cavity formation and reactive astrocyte proliferation and
+gliosis (Abrams et al., 2009; Voulgari-Kokota et al., 2012), and
+stimulation of neurite outgrowth over CSPGs, MAG and Nogo-A
+(Wright et al., 2007). In addition, research suggests that MSCs
+themselves may transdifferentiate into glial and neuronal-like cells, at
+least in vitro, although the exact transdifferentiation potential in vivo
+remains debated (Chen et al., 2006; Krabbe et al., 2005). Taken together,
+these observations suggest that administration of MSCs may lead to a
+net beneficial effect in the recovery process following SCI secondary
+damage.
+Objective
+A small number of human studies have investigated the use of MSCs
+in SCI patients. They havemainly focused on safety and feasibility issues
+and have lacked a proper randomised control group and have been
+underpowered. By contrast, an increasing number of rodent studies
+have during the last decade investigated the efficacy of MSCs on
+locomotor recovery, a relevant clinical outcome which is considered
+important among SCI patients (Kwon et al., 2012; Simpson et al., 2012).
+Meta-analyses of controlled studies increase the power and
+precision of the estimated intervention effect and therefore yield a
+more powerful test of the null hypothesis than any of the separate
+studies (Higgins and Green, 2008). However, to our knowledge, no
+quantitative data synthesis of a stem cell therapy for SCI exists. We
+therefore, systematically reviewed and meta-analyzed studies that
+assessed the efficacy of MSCs versus control (placebo or no treatment)
+in an established and widely used animal model of traumatic SCI. Our
+aim was to determine whether MSCs improved locomotor recovery
+and to use meta-analysis and meta-regression to explore for variations
+in effect size. Finally, we subjected the studies to an assessment of bias
+to exclude systematic errors and to an assessment of risks of play of
+chance to exclude random errors.
+Material and methods
+Eligibility criteria
+Types of studies: Controlled studies assessing the administration of
+MSCs to rats with traumatic SCI. No language, publication date, or
+publication status restrictions were imposed.
+Types of participants: Laboratory rats of any age, gender or strain
+exposed to traumatic SCI induced by contusion or compression.
+Laceration/transection models of SCI were excluded as this model
+does not represent the typical crush injury mechanism in humans and
+has limited rostro-caudal secondary damage spread (Beattie and
+Bresnahan, 2000; Dietz and Curt, 2006).
+Types of intervention: Plastic-adherent, ex vivo expanded MSCs
+(Dominici et al., 2006) irrespective of donor species or tissue
+origin. MSCs substantially manipulated, e.g., into neuron-like cells
+(differentiation cocktails, transfection) were excluded whereas
+more basic cell culturing steps maintaining overall MSC phenotype
+were allowed (e.g., activation or ‘licensing’ with IFNγ). Labeling or
+transfection with markers for cellular tracing and imaging (green
+fluorescent protein, lacZ, bromodeoxyuridine, superparamagnetic iron
+oxide particles etc.) were included. Co-culture or concomitant injection
+with other cell types or use of adjuvant products (e.g., matrices,
+scaffolding), whether these were used for seeding prior or during
+transplantation or used to recruit MSCs in vivo, were excluded. Control
+interventions consisted of placebo (saline, culture medium or similar
+vehicle) or no treatment.
+Type of outcomemeasure: Behavioural assessmentmeasured by the
+Basso–Beattie–Bresnahan (BBB) locomotor rating scale (Basso et al.,
+1995), which is a well-documented and widely used ordinal (i.e. non-
+linear) scale with discrete values ranging from 0 (no observable hind
+limb movement) to 21 (coordinated gait, consistent toe clearance,
+340 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353predominant paw position is parallel throughout stance, consistent
+trunk stability, and tail is consistently up). It subjectively documents
+limb movements and walking characteristics in an open-field
+environment and is a useful indicator of the basic overground
+locomotion of the animal and whether or not the animal would be
+capable of performing more difficult motor-related assessment tests
+that require specific abilities (Burke and Magnuson, 2012).
+Information sources, literature search and study selection
+Studieswere identifiedby searchingbibliographic databases, scanning
+reference lists of articles, and hand-searching. No limits were applied for
+language and non-English papers were translated. We developed a
+sensitive literature search strategy (Table 1) and our search in biblio-
+graphic databases was applied to MEDLINE and EMBASE (dates of
+inception to 1 Nov 2012). Titles and abstracts of identified references
+were screened for eligibility and clearly irrelevant references were
+excluded. Remaining references underwent full-paper assessment. Final
+eligibility assessment was performed by one skilled reviewer (RSO)
+with particular knowledge of isolation, culture and characterisation of
+MSCs.
+Data collection process
+We sought to avoid double counting and pieced together data from
+multiple reports of the same study by, e.g., juxtaposing author names,
+treatment comparisons, sample sizes, or outcomes. We contacted
+Table 1
+Search terms used in the bibliographic databases MEDLINE and EMBASE (searched from
+dates of inception to 1 Nov 2012).
+Database Search terms
+MEDLINE
+(PubMed)
+(mesenchymal stem cells [mh] ORmesenchymal stromal cells [mh] OR
+mesenchymal stem cell* [tiab] ORmesenchymal stromal cell* [tiab] OR
+marrow stromal cell* [tiab] OR bone marrow stem cell*[tiab] OR bone
+marrow-derived stromal cell* [tiab] OR mesenchymal precursor cell*
+OR MSCs [tiab] OR MSC [tiab] OR BMSCs [tiab] OR BMSC [tiab] OR
+wharton jelly [mh] OR wharton's jelly [tiab] or umbilical cord stroma
+[tiab] OR fetal blood [mh] OR umbilical cord blood [tiab] OR UCB [tiab]
+OR adipose-derived stromal cell* [tiab] OR ASCs [tiab] OR adipose stem
+cell* [tiab] OR pre-adipocyte* [tiab] OR stromal vascular fraction stem
+cell* OR adipose tissue-derived stem cell* OR ASC [tiab] OR dental pulp
+[tiab]) AND (spinal cord injuries [mh] OR spinal cord injury [tiab] OR
+spinal cord injuries [tiab] OR spinal cord contusion [tiab] OR spinal cord
+transection [tiab] OR injured spinal cord [tiab])
+EMBASE (mesenchymal stem cells.mp. OR mesenchymal stem cell/OR
+mesenchymal stromal cells.mp. or mesenchymal stroma cell/OR bone
+marrow stromal cells.mp.) AND (spinal cord injury.mp. or spinal cord
+injury/)corresponding investigators by e-mail to obtain additional information
+not clearly reported in the reference. If investigators did not respond
+within two weeks, their reference was excluded from quantitative
+syntheses if missing items necessitated calculation of summary effect
+measures. If a corresponding investigator did not provide information
+on a putative explanatory variable, the study was still included in the
+primary meta-analysis but excluded from descriptive analyses and the
+relevant subgroup analyses and meta-regressions.
+Data items
+The following items decided a priori were extracted from each
+included study: reference details (journal name, publication year, and
+name, contact information and affiliation of the corresponding
+investigator); recipient animal (rat strain, sex, average weight); SCI
+(traumatic model and affected spinal cord segment); MSCs (donor
+species and tissue source); intervention regime (time from SCI to
+intervention, administration route, number of injections, and total
+dose); use of immunosuppressive agent;methodological quality (method
+of generation of allocation sequence, method of allocation concealment,
+blinding of study personnel or outcome assessors, and considerations on
+sample size or study power). From the primary extracted data we
+stratified the country of origin according to socio-economic development
+and longstanding tradition in modern biomedical research (Panagiotou
+et al., 2013), calculated mean relative MSC dose (cells/kg), and classified
+the graft type according to donor-recipient similarity (i.e. autologous,
+syngeneic, allogeneic, or xenogeneic).
+Risk of bias in individual studies
+To ascertain quality components associated with spurious treatment
+effect in clinical trials (Hrobjartsson et al., 2013; Savovic et al., 2012;
+Wood et al., 2008), two reviewers (RSO and SB) working independently
+and with adequate reliability determined the adequacy of randomisation
+and concealment of allocation, blinding of study personnel and outcome
+assessors, and registered sample size estimations or power calculations.
+Disagreements between the reviewers were resolved by consensus.
+Summary effect measure
+Summary effect measure was the difference in BBB score means
+between MSC group and control at maximal follow-up. To calculate
+this we extracted for each group: mean BBB score, standard deviation
+(SD) and group size. Where a mean BBB score was measured serially,
+only the final measure was used. If BBB scores were reported for each
+hind leg, an average value was calculated. In studies including both a
+placebo group and a no-treatment group, the two mean BBB scores
+and SDs were averaged, respectively, and the group sizes were added
+up (Higgins and Deeks, 2008). If an SD was not reported directly, it
+was calculated by multiplying the reported standard error (SE) with
+the square root of the group size. If numbers necessary for the
+calculation of summary effect measures were not adequately reported
+in the main text, data points were extracted from published graphs
+and recorded using graph digitizing software (GetData Graph Digitizer
+2.24; S. Fedorov; http://getdata-graph-digitizer.com).
+Synthesis of results
+The meta-analysed difference of BBB score means with 95% con-
+fidence interval (CI) was calculated using the random-effects model
+in anticipation of significant experimental diversity between studies
+(DerSimonian and Laird, 1986). A random-effects model suggests the
+expected average BBB improvement of all samples of individual true
+effect sizes and not a single common true effect size from studies
+dispersed due to sampling error. Statistical heterogeneity was explored
+2using the inconsistency (I ) measure (Higgins and Thompson, 2002).
+341R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353For referenceswith twoormore separateMSCgroups compared against a
+common control group (e.g. different administration route or dose), the
+control group sizewas divided equally among the number ofMSC groups
+(Higgins et al., 2008).
+Risk of bias across studies
+To assess the possibility of publication bias (‘the file drawer effect’)
+and other reporting biases we plotted the difference of BBB score
+means against its precision, i.e. 1/standard error of BBB difference
+(Egger et al., 1997). The level of asymmetry of this ‘funnel plot’ was
+assessed with Egger's linear regression method (Egger et al., 1997) and
+Duval and Tweedie's trim-and-fill method (Duval and Tweedie, 2000).
+Additional analyses
+Cumulative meta-analysis was performed in order to establish
+approximate publication year for evidence of effect. However, since
+meta-analyses are prone to inflated random errors (both type I and type
+II errors) due to sparse data and repeated significance testing as study
+data accumulate, we also applied trial sequential analysis (TSA) in order
+to confirm the results of the meta-analyses (Wetterslev et al., 2008,
+2009). TSA adjusts for random-error risk and provides a conservative
+estimate of the required number of study subjects (information size) in
+order to carry out a definitive meta-analysis. Meta-analyses not reaching
+the required information size are analysed with monitoring boundaries
+analogous to interim monitoring boundaries in a single clinical trial
+(Brok et al., 2008; Thorlund et al., 2009). We calculated the required
+information size based on a median final mean BBB score in the control
+group, a minimal relevant difference of mean BBB score approximately
+corresponding to the lower confidence limit of the intervention effect
+size yielded by the primary meta-analysis, an overall significance level
+(α) of 0.05, a type II error (β) risk of 0.1 (i.e., power of 90%), and a
+diversity (D2) estimated empirically by the TSA software (Wetterslev
+et al., 2009). Next, to adjust for between-study heterogeneity, the
+required information size was then corrected with the factor 1/(1−D2)
+to yield a final diversity-adjusted required information size. A cumulative
+Z-curvewas constructed by including each study according to the order of
+their publication year. If more studies were published the same year, we
+analysed studies in alphabetical order, according to the last name of the
+first author. We assessed the crossing of the cumulative Z-curve of the
+discrete monitoring boundaries based on the O'Brien–Fleming type α-
+spending function (O'Brien and Fleming, 1979), which is relatively
+insensitive to the number of repeated significance tests (Thorlund et al.,
+2011).
+Subgroup analyses were performed with stratification according
+to a number of pre-specified categorical explanatory variables, and
+differences between subgroups were evaluated with the Q-test
+for heterogeneity based on a random-effects model with pooled
+estimate of τ2 (Borenstein et al., 2009b).
+Univariate random-effects meta-regression was performed in order
+to explore the potential effect of a number of pre-specified continuous
+explanatory variables using the method of moments (Borenstein et al,
+2009a).
+Potential explanatory variables were included in a multivariate
+random-effects meta-regression model to adjust for spurious statistical
+significance (Berkey et al., 1995; Harbord and Higgins, 2008; Knapp and
+Hartung, 2003). We did not allow the number of explanatory variables
+to exceed a ratio of 1:10 compared to the number of studies (Deeks
+et al., 2008; Higgins and Thompson, 2002).
+Statistics
+Descriptive statistics were performed with SPSS Statistics 20.0 (IBM
+Corp., Armonk, NY, USA). Funnel plot asymmetry assessment, meta-
+analyses, testing for differences between subgroups, and continuousunivariate meta-regressions were conducted with Comprehensive
+Meta Analysis 2.2 (Biostat Inc., Englewood, NJ, USA). TSAwas conducted
+with TSA Viewer 0.9 beta (Copenhagen Trial Unit, Copenhagen,
+Denmark, www.ctu.dk/tsa). Multivariate meta-regression was con-
+ducted with Stata 12.0 (StataCorp LP, College Station, TX, USA). A two-
+sided P-value b 0.05 was considered statistically significant except for
+TSAs where significance level varied according to the calculated
+O'Brien–Fleming type α-spending function.
+Results
+Study selection
+We identified 83 eligible studies/comparisons reported in 61
+references comprising a total of 1,568 rats to be included in our main
+meta-analysis (Fig. 1; Table S1). A further 24 studies reported in 17
+references were considered eligible but did not report the necessary
+data for the calculation of the summary effect measures and were
+therefore excluded from further analyses (Table S2). Of those 24 studies,
+22 reported a beneficial effect of MSCs.
+Study characteristics
+Table S3 shows the characteristics of the included studies. The
+median year of publication was 2010 (range of 2000 to 2012). Median
+sample size for all 83 studies was 16 rats (range of 8 to 43). Eleven
+studies (13%) reported considerations of sample size but none provided
+exact details on sample size calculations. Forty-nine studies (59%) were
+from less developed countries, eight studies (10%) were from countries
+in transition, and 26 studies (31%)were frommore developed countries
+(Panagiotou et al., 2013). China was the single biggest contributor
+reporting almost one third (31%) of all studies. Sixteen studies were
+published in non-English journals.
+Bone marrow was the most frequently used MSC tissue source
+(84%). Allogeneic and xenogeneic MSCs were predominant graft types
+(57%) and human MSCs were used in 30 (36%) studies. Of 80 studies
+using allogeneic or xenogeneic MSCs, 22 (28%) reported the use of
+an immunosuppressive agent (predominantly cyclosporin) following
+transplantation.
+Four different rat strains were used as recipients with Sprague–
+Dawley (46%) and Wistar (49%) rats comprising the vast majority.
+Contusion lesion was used in 78% compared to compression. All
+studies except one (spinal cord level L1) reported induction of SCI in
+the thoracic region (range T6 to T12) with spinal cord levels T8 to T10
+comprising 68%. Thus, no study investigated a cervical SCI model.
+Median time from SCI to intervention was 7days (range of 0 to 90),
+and median time from intervention to final BBB score assessment was
+35days (range of 21 to 365).
+Intraparenchymal injection (64%) was the most frequently reported
+administration route (median total dose of 5 × 105 MSCs; range of
+3×103 to 5×106). Median total dose for intrathecal injection (17%) was
+1.25×106 MSCs (range of 1×105 to 5×106) whereas for the remaining
+studies intravenous (17%) median total dose was 1 × 105 MSCs (range
+of 1 × 103 to 9 × 106), which corresponded to a relative dose of
+4.2×106MSCs/kg (range of 3.1×106 to 3.3×107). Two studies reported
+intra-ventricular administration by means of drilled transcranial route.
+Risk of bias within studies
+Fifty-three studies comprising 1,047 rats (67%) were labelled as
+randomised. Of these, four studies (I2 = 93%) reported adequate
+randomisation procedure (i.e. both adequate generation of allocation
+sequence and adequate allocation concealment) whereas the other 49
+studies (I2=98%) had unclear randomisation procedure. The remaining
+30 studies (I2 = 99%) comprising 521 rats (33%) did mention
+randomisation at all. No study reported blinding of study personnel
+342 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353whereas 48 studies comprising 891 rats (57%) reported use of blinded
+outcome assessment. Four studies had both adequate randomisation
+and blinded outcome assessment.
+Meta-analysis of all studies
+Fig. 2 shows a forest plot of the primary random-effects meta-
+analysis of all 83 eligible studies. There was high between-study
+heterogeneity (I2= 98.9%). Pooled difference in BBB score means was
+3.9 (95% CI 3.1 to 4.7; P b 0.001) in favour of MSCs. No study reported
+a statistically significant detrimental effect.
+Risk of bias across studies
+Fig. 3 shows funnel plots of the differences in mean BBB scores
+against their precision (inverse SE). Neither Egger's linear regression
+method (intercept 0.49; 95% CI −2.49 to 3.48; P = 0.74) nor Duval
+and Tweedie's trim-and-fill method suggested the presence of
+unidentified negative studies (Fig. 3). Separate funnel plots and formal
+testing stratified according to randomisation (adequate, unclear or no
+description) did not indicate publication bias of negative studies, but
+again of missing positive studies (data not shown).
+Additional analyses
+Fig. 4 shows a plot of the cumulative meta-analysis stratified
+according to publication year, without adjustment for repeated
+significance testing. The figure suggests that sufficient evidence of the
+beneficial effect of MSCs on locomotor recovery began to accumulate
+from 2006 onwards.
+Fig. 1. Flow chart illustrating the literature search strategy and the different phases of study e
+November 2012.Based upon an estimatedmedian value of 8.5 of themeanBBB scores
+in the control groups, a difference in mean BBB score of 3.0
+(approximately corresponding to the lower 95% confidence limit from
+the primary meta-analysis), an overall significance level (α) of 0.05, a
+type II error risk (β) of 0.1 (i.e., power 90%), and diversity (D2) of
+100% in all studies in a random-effects model meta-analysis, we
+calculated that the diversity-adjusted required information size to
+detect or reject such an intervention effect as 859 rats (Fig. 5). The
+cumulative Z-score crossed the upper monitoring boundary for benefit
+after the 19th study (published in 2007) or 389 accrued rats with a
+continuing upward slope, confirming a beneficial effect of MSCs on
+locomotor recovery if one disregards the risks of bias (Fig. 5A). We
+then repeated TSA using a minimal relevant difference of 1.0 (i.e., the
+lowest possible discrete value on the BBB scale) which yielded a
+diversity-adjusted required information size of 7087 rats. The trial
+sequential monitoring boundary for benefit was this time crossed by
+the cumulative Z-score after the 66th study (published in 2011) or
+1243 accrued rats (Fig. 5B) thus confirming adequate study power to
+detect the smallest possible intervention effect size on the BBB scale.
+Subgroup analyses (Fig. 6) suggested that locomotor recovery was
+associated with graft type (P b 0.001), recipient rat strain (P b 0.001),
+SCI trauma model (P=0.017), immunosuppressive status in allogeneic
+or xenogeneic grafting (P = 0.047) and blinded outcome assessment
+(P = 0.042), but not with adequacy of randomisation procedure (P =
+0.614), MSC donor tissue (P = 0.636), administration route (P =
+0.624), described as randomised (P = 0.341), or national level of
+longstanding research tradition (P = 0.159). Continuous univariate
+meta-regression suggested that an increase in difference in BBB score
+increased as time from SCI to intervention increased (P b 0.001). When
+stratifying relative cell dose according to administration route, increased
+ligibility assessment. Bibliographic databases were searched from dates of inception to 1
+Fig. 2. Forest plot of a random-effects meta-analysis of 83 eligible studies (comprising 1568 rats) comparingMSCs versus controls on locomotor recovery after traumatic SCI. Results from
+each study are displayed as a square and a horizontal line, representing the intervention effect estimate (difference in BBB score means) together with its 95% CI. The combined random-
+effects estimate (3.9) and its 95% CI (3.1 to 4.7) are represented by a diamond at the bottom. Roman numerals in brackets after author name and year represent separate eligible studies/
+comparisons from within the same bibliographic reference.
+343R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353
+nda
+add
+344 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353should begin with and end with systematic reviews (Chalmers, 2009;
+Clarke et al., 2007), and a number of cases have illustrated that omission
+may have serious consequences for public health (Crowley et al., 1990;
+Fergusson et al., 2005; Gilbert et al., 2005; Teo et al., 1993). Notably,
+translational stem cell research has become a particularly sensitive
+research area because many ‘treatments’ that lack any evidence of
+beneficial effect are currently being offered to vulnerable groups of
+patients (Blight et al., 2009; Regenberg et al., 2009). The key advantage
+of a systematic approach of a meta-analysis is that all steps are clearlyintervention effect size was positively correlated with relative cell dose
+for intraparenchymal (P b 0.001) and intrathecal administration route
+(P b 0.001) but negatively correlated with cell number for intravenous
+route (P b 0.001). Effect size was positively correlated to time from
+intervention to final BBB score assessment (P b 0.001). However, after
+adjustment in a multivariate random-effects meta-regression, only
+time from intervention to final BBB score assessment remained
+significantly associated with locomotor recovery (P=0.022).
+Discussion
+It has been forcefully argued that all reports of new interventions
+Fig. 3. Funnel plot of the differences in BBB score means against their precision (inverse sta
+with 95% CI. Formal assessment with Duval and Tweedie's trim-and-fill method does not
+unidentified and the overall intervention effect size (filled diamond) remains unchanged.described so that the process is fully transparent. Accordingly,
+systematic reviews andmeta-analyses of animal studies offer a sensible
+and rational approach to assess the translational potential of promising
+experimental interventions before decisions are made to proceed with
+clinical trials. The present review is, to our knowledge, the first attempt
+to systematically collect all available evidence and critically assess and
+quantify the efficacy of a stem cell population in a widely used
+preclinical model of traumatic SCI.
+Summary of evidence
+Using a sensitive and exhaustive literature search strategy we
+identified more than 80 eligible studies. Our random-effects meta-
+analysis suggested a beneficial effect of MSCs, which TSA confirmed
+using highly conservative monitoring boundaries for statistical
+significance. The use of a random-effects model suggests the expected
+average BBB improvement of all samples of individual true effect sizes
+and not a single common true effect size from studies dispersed
+due to sampling error. However, to extrapolate the exact size of the
+observed BBB difference into a human clinical setting would be
+nonsensical. Furthermore, in accepting these effects one has to
+disregard the substantial risks of bias that the included studies maysuffer from. On the other hand, we could not demonstrate an effect of
+bias risks on the estimated intervention effect.
+Some studies reported very large treatment effects reflecting very
+limited spontaneous recovery in the control group (e.g. Vaquero et al.,
+2006). We do not have an explanation for such findings other than the
+use of a muchmore severe contusion model with release of the impactor
+from a much greater height, perhaps in combination with late inter-
+vention. However, we do not think it would be appropriate to exclude
+such studies with ‘outlying’ data based on post-hoc considerations.
+Cumulative meta-analysis suggested that evidence of a beneficial
+effect began to accumulate from 2006 onwards. Similarly, our TSA
+showed that such an effect existed (without risks of random errors)
+by 2007 based upon a minimal relevant difference of 3.0 in the BBB
+score (or by 2011 based upon a minimal relevant difference of 1.0),
+thus suggesting that a substantial number of rat SCI studies may have
+been conducted to limited avail.
+Statistical heterogeneity and explanatory variables
+As anticipated, we observed substantial between-study heterogeneity
+on treatment effect. Heterogeneity not explained by random error is a
+consequence of experimental diversity between studies (Deeks et al.,
+rd error). The open diamond represents the pooled random-effects intervention effect size
+any imputed studies on left side of the plot suggesting that no negative studies remain2008). The observed heterogeneity was so substantial that it may be
+questioned if it is meaningful to conduct a meta-analysis. On the other
+hand, meta-analytic subgroup analyses can investigate heterogeneous
+results or answer specific questions about experimental groups,
+intervention scheme, or types of study. Our pre-specified subgroup
+analyses and univariate meta-regression suggested that the effect of
+MSCs on locomotor recovery could be associated with some explanatory
+variables. However, it is important to keep inmind that such analyses are
+entirely observational by nature and not based on randomised
+comparisons. Hence, they suffer the usual limitations of any observational
+investigation, including bias through confounding by other potential
+explanatory variables. Importantly, subgroup analyses can only be
+hypothesis generating and not hypothesis confirmatory (Deeks et al.,
+2008).We also conducted amultivariate random-effectsmeta-regression
+to allow the effects of potential explanatory variables to be investigated
+simultaneously (Thompson and Higgins, 2002). However, we found
+that a positive correlation between time from intervention to final BBB
+score assessment and locomotor recovery was the only explanatory
+variable that remained statistically significant. This observation may
+be explained by the fact that a substantial number of studies conducted
+the final BBB score assessment before reaching the plateau recovery
+phase.
+Fig. 4. Cumulative forest plot of meta-analyses with individual studies added in a stepwise manner according to publication year and surname of the first author. Results from each
+cumulative meta-analysis are displayed as a square and a horizontal line, representing the treatment effect estimate together with its 95% CI. Thus, the treatment effect plotted next to
+each study name represents the accumulated pooled treatment effect of this study combined with all the studies ranked above it. As the data accumulate (i.e. increasing sample size)
+the treatment effect steadily begins to oscillate to a lesser degree and the 95% CI becomes more narrow after a certain point of accumulated data. The data indicate that evidence of
+beneficial effect of MSCs on locomotor recovery began to accumulate from 2006 onwards.
+345R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353
+346 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353ABias risk
+Reporting of methodological components, such as randomisation
+and blinding, was generally poor and therefore limits the assessment
+of risk of bias of the included studies. Only four studies reported both
+adequate method of generation of allocation sequence and adequate
+allocation concealment. These studies also implemented the use of a
+placebo, which reduces the risk of assessment bias. Furthermore, no
+study reported blinding of study personnel, and only 48 (58%) studies
+reported blinding of outcome assessors, which is in accordance with
+the findings of others (Perel et al., 2007). However, stratification
+according to methodological components did not show any significant
+association with treatment effect after adjustment in a meta-
+regression nor suggest publication bias against negative studies using
+trim-and-fill. However, the lack of demonstrable association between
+potential explanatory variables and treatment effect could be due to
+inadequate meta-analytic study power.
+B
+Fa
+vo
+ur
+s
+co
+n
+tro
+l
+Fig. 5. TSAs of the effect of MSCs on locomotor recovery after SCI. (A) The diversity-adjusted req
+groups, aminimum relevant difference inmean BBB score of 3.0, an overall significance level (α
+(vertical dotted red line). The cumulative Z-curve (solid blue line) connected by individual stu
+(descending dotted red line) after the 19th study (389 accrued rats) at a cumulative Z-score of 3.
+is 1568 rats, corresponding to 183% of the diversity-adjusted required information size. (B) The d
+of 8.5 in the control groups, aminimum relevant difference inmean BBB score of 1.0, an overall s
+and equals 8,087 rats (vertical dotted red line). The cumulative Z-curve (solid blue line) co
+monitoring boundary of benefit (descending dotted red line) after the 66th study (1243 accrue
+rats (as of date of literature search) is 1568 rats, corresponding to 22% of the diversity-adjusteMSC tissue source
+We could not detect any clear association between locomotor
+recovery and MSCs isolated from specific tissues. Bone marrow and
+adipose tissue (and to a lesser extent umbilical cord stroma) have
+been the traditional tissue sources of MSCs in clinical stem cell research.
+Although MSCs from different tissues share certain characteristics of
+morphology, plastic adherence and differentiation potential (Dominici
+et al., 2006), it has become evident that there are subtle but distinct
+tissue differences in, e.g., expression of surface markers, which could
+be important for the design of MSC-based interventions (Heazlewood
+and Atkinson, 2013). Bone marrow-derived MSCs have remained
+the ‘gold standard’ having been most thoroughly characterised in
+preclinical and clinical research. Bone marrow-derived MSCs can be
+easily isolated from the iliac crest and efficiently ex vivo expanded to
+several hundred millions cells within a relatively short period of time
+(Bartmann et al., 2007; Schallmoser et al., 2008). Initial isolation and
+uired information size is based on amedian value of mean BBB scores of 8.5 in the control
+) of 0.05, a type II risk (β) of 0.1 (i.e. power 90%), a diversity (D) of 100% and equals 859 rats
+dies (small diamonds) crosses the upper O'Brien–Fleming monitoring boundary of benefit
+24 (P=0.0012) (black arrow). Total number of accrued rats (as of date of literature search)
+iversity-adjusted required information size is based on amedian value ofmean BBB scores
+ignificance level (α) of 0.05, a type II risk (β) of 0.1 (ie. power 90%), a diversity (D) of 100%
+nnected by individual studies (omitted for clarity) crosses the upper O'Brien–Fleming
+d rats) at a cumulative Z-score of 7.57 (Pb 0.0001) (black arrow). Total number of accrued
+d required information size (7087 rats).
+347R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353purging of adipose tissue-derived MSCs can be somewhat more
+cumbersome compared to bonemarrow-derived MSCs, although initial
+cell number in the adipose stromal vascular fraction, proliferation rates
+Fig. 6. Forest plots of subgroup analyses stratified according to a number of potential explanator
+combined random-effects estimate with corresponding 95% CI for each subgroup is presentedand final yield can be very high (Trojahn Kølle et al., 2013). MSCs from
+umbilical cord stroma may represent a distinct population of ‘pristine’
+MSCs ontogenetically situated between more lineage-restricted adult
+y variables. The individual studies have been omitted from the plots for clarity and only the
+(diamonds). Abbreviations: MSC =mesenchymal stem cell; CI = confidence interval.
+348 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353MSCs and pluripotent embryonic stem cells. Cell harvesting from the
+umbilical cord stroma is non-invasive and accordingly does not pose
+any ethical challenges, since this tissue is otherwise discarded. Notably,
+the cells could have superior immunosuppressive effects compared to
+adult tissue sources (Manochantr et al., 2013; Najar et al., 2012).
+Graft type
+Immunosuppressive agents reduce secondary damage and may
+improve outcomes following SCI (Diaz-Ruiz et al., 1999, 2004; Ibarra
+et al., 2003), although there are rat-strain specific differences in responses
+(Cui et al., 2007). Hence, the concomitant use of immunosuppressive
+agents in rats transplantedwithMSCs could explain someof the observed
+effect in locomotor recovery. However, we could not detect any increased
+locomotor recovery associated with the use immunosuppression in our
+subgroup analysis of studies using allogeneic or xenogeneic grafts. In a
+direct head-to-head comparison Hodgetts et al. did not detect any
+differences in locomotor recovery using cyclosporin (Hodgetts et al., in
+press). The hypo-immunogenic properties of MSCs and lack of long-
+term engraftment could be plausible explanations for this observation.
+Timing
+The development of secondary spinal cord damage follows a
+distinct timeframe, and in for example neonatal hypoxic–ischaemic
+encephalopathy timing of interventional hypothermia has been
+shown to be crucial (Jacobs et al., 2013). However, after adjusting
+for other explanatory variables, we were not able to detect any
+clear association between locomotor recovery and timing of MSC
+administration. However, this finding could be due to lack of
+accumulated study power and it should be noted that one uneligible
+study assessing different timing schedules would seem to favour
+early (b72h) MSC intervention in the rat model (Osaka et al., 2010).
+Administration route
+Because recovery from SCI may depend on the preservation of
+remaining axons and neurons in the injury region, it is essential
+that these not be further depleted by procedures aimed at repair.
+We were not able to detect any statistically significant differences
+on locomotor recovery between intraparenchymal, intrathecal
+or intravenous administration. Three included studies specifically
+compared intraparenchymal and intravenous route (Jing et al., 2008;
+Kang et al., 2012; Khalatbary and Tiraihi, 2009). Interestingly, intravenous
+administration did not perform inferior to intraparenchymal with two of
+the studies using the same cell dose for both routes (Jing et al., 2008; Kang
+et al., 2012). Similar observations has been made by Morando et al.
+comparing intravenous and intrathecal MSC injection in an animal
+model of multiple sclerosis (Morando et al., 2012). By contrast, Vaquero
+et al. observed no effect of intravenous administered MSCs compared to
+intraparenchymal route, which may be explained by their use of a severe
+force of contusion combinedwith late intervention (Vaquero et al., 2006).
+Finally, in a recent study on a chronicmodel of SCI byKimet al. (published
+after our literature search) both intravenously and intraparenchymal
+administration of the same amount ofMSCs resulted in similar locomotor
+recovery despite fewer numbers of observable engrafted cells in the
+intravenous group (Kim et al., 2013).
+The local MSC concentration necessary for an observable beneficial
+effect may be relatively low in the damaged spinal cord area, thus
+facilitating efficient autologous MSC ex vivo expansion and subsequent
+local administration. On the other hand SCI poses substantial challenges
+to intraparenchymal injection due to pre-existing tissue injury, relatively
+large injection volumes, high cell concentrations, and high delivery rates.
+Current techniques aremainly limited to a single injection during an open
+surgical exposure. One difficulty is that methods to observe injectate
+dispersion and monitor tissue pressure during injection have not beenthoroughly established. This has raised concerns that intraparenchymal
+injectionsmay cause further tissue injury that varies fromminor to severe
+(e.g. needle trauma). Injectate backout or extrusion, which has previously
+been considered a technical failure, may be argued as being a clear
+indicator of excessive intraparenchymal pressure (Guest et al., 2011).
+Accordingly, pressure based injections of large volumesmay be damaging
+because the tissue tolerances may be exceeded by raised intra-
+parenchymal pressures leading to hydrodynamic dissection and possible
+ischemia (Guest et al., 2011).
+Intrathecal administration has been proposed as less invasive
+method (Bakshi et al., 2004). The technique is well suited to
+multiple injections over an extended time period and it may be
+possible to use intrathecal catheter techniques to make injections
+closer to the target site, thereby perhaps increasing local MSC
+concentration. On the other hand, it is perhaps less likely that
+transplanted MSCs will efficiently home to sites of chronic disease
+due to lacking inflammatory cell activity, dysfunctional subarachnoid
+space, and occlusion by scarring.
+The advantages of intravenous administration include lack of need of
+an operating theatre or procedural imaging combined with extensive
+clinical experience on thousands of patients since the first MSC infusions
+in the 1990s. In a recent systematic review and meta-analysis of 36
+clinical trials comprising 1,012 patients there were no development of
+acute infusional toxicity, organ system complications, infection, or longer
+term adverse events (death, malignancy) associated with intravenous
+MSC administration (Lalu et al., 2012). An increased risk of transient
+fever was reported, not unlike similar reactions occasionally observed
+with red blood cell transfusions, but this was not associated with any
+long term sequelae. The putative low fraction of the infused MSCs
+reaching target lesion site could be a major obstacle for intravenous
+delivery since the majority of MSCs are trapped within the lungs during
+pulmonary passage due to their size, adhesion molecules and possibly
+deformability (Fischer et al., 2009). However, pulmonary trapping
+seems to be a transient phenomenon, and MSC can exert therapeutic
+plasticity even if not migrating completely to the lesion site due
+to secretion of factors or cross-talking with immune cells in regional
+lymph nodes (Kim et al., 2013; Uccelli, 2013). Other potential
+disadvantages of intravascular administration include risk of instant
+blood-mediated inflammatory reaction after blood exposure due to
+prothrombotic factors on the MSC surface which may compromise
+cell survival, engraftment, and function (Moll et al., 2012). However,
+low-passage MSCs, as typically used in clinical applications, show
+only a weak triggering at the currently applied clinical doses (1 to
+3 × 106MSC/kg) (Moll et al., 2012).
+Dose
+Median relative MSC dose was 4.2 × 106 MSC/kg for rats receiving
+systemic infusion. This is somewhatmore than standard doses currently
+used in clinical trials (1 to 3 × 106 MSC/kg) yet manageable to
+manufacture and relative doses of up to 10 × 106 MSC/kg have been
+reported (Jing et al., 2008; Kang et al., 2012; Koc et al., 2002).
+The correlations between cell dose and locomotor recovery observed
+for each administration route in three separate univariate meta-
+regressions could not be reproduced in our multivariate meta-
+regression when adjusting for other explanatory variables. However,
+this finding could be due to lack of accumulated study power and it
+should be noted that two of the included studies suggest an association
+between increasedMSC dose and locomotor recovery (Li et al., 2010; Pal
+et al., 2010).
+Strengths and limitations of the systematic review
+Our systematic review poses a number of advantages compared to
+previous attempts to summarise the evidence of stem cell therapies for
+SCI (Tetzlaff et al., 2011). First, our up-to-date literature search yielded
+349R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353more than 50 additional eligible studies, thus accumulating adequate
+study power to detect the smallest possible minimal relevant difference
+in BBB score means (1.0) as witnessed by our TSAs. Second, our search
+also included the EMBASE bibliographic database, which is known to
+contain a substantial number of especially non-English journals not
+registered elsewhere. The actual degree of reference overlap varies
+according to the medical topic but a comprehensive bibliographic search
+normally requires the inclusion of EMBASE (Suarez-Almazor et al., 2000).
+Accordingly, we were able to identify a substantial number of eligible
+non-English references which hitherto have remained relatively
+unnoticed. Third, we assessed study risk of bias using quality components
+based on empirical evidence (Hrobjartsson et al., 2013; Savovic et al.,
+2012; Wood et al., 2008). Fourth, we addressed the risk of publication
+bias. Fifth, we contacted investigators in case of inadequate reporting.
+Sixth, we explored study heterogeneity and sought to identify potential
+explanatory variables. Finally, we quantified the intervention effect
+using advanced statistical methodology (meta-analysis, TSA, subgroup
+analysis, and meta-regression).
+Ourfindings and interpretation are closely related to the experimental
+design and methodological quality of the included studies. Three major
+barriers impede successful clinical translation of interventional animal
+studies, namely low internal validity (systematic error [bias] and random
+error [play of chance]), publication bias, and low external validity.
+Although it is always possible to increase internal validity of a study
+and properly address publication bias, external validity poses unique
+challenges which are not easily resolved (Akhtar et al., 2008).
+Accordingly, a number of cases have illustrated that translation from
+promising animal studies to clinical trials is not straightforward and the
+usefulness of animal studies as ameans of guiding future clinical research
+has been challenged (Sandercock and Roberts, 2002). For example, in an
+analysis of 76 highly cited animal studies (median citation count: 889)
+published in leading scientific high-impact journals, only about one
+third of the paperswere later translated at the level of human randomised
+clinical trials (Hackam and Redelmeier, 2006).
+Internal validity
+The methodological quality of interventional animal studies should
+be no less rigorous than clinical trials since preclinical research often
+forms the basis on which subsequent early clinical trials are designed
+and conducted. Internal validity is the sine qua non and refers to how
+close the intervention effect size in the study sample reflects the true
+intervention effect size in the population from which the sample was
+drawn. Risk of bias due to inadequate randomisation (selection bias),
+non-blinded study personnel (performance bias), or non-blinded
+outcome assessors (detection bias) is associated with overestimation
+of intervention effect size in clinical trials, especially for subjective
+outcomes such as BBB scoring (Hrobjartsson et al., 2013; Savovic et al.,
+2012). Empirical research suggests that study methods tend to be as
+good as or better than reported (Hill et al., 2002; Hrobjartsson et al.,
+2009; Soares et al., 2004), although reporting of unclear allocation
+concealment may reflect actual study conduct (Pildal et al., 2005).
+Unfortunately, the internal validity of animal studies is generally poor
+(Bebarta et al., 2003; Crossley et al., 2008; Vesterinen et al., 2010) and
+hence inadequate reporting of study methods can impede the
+assessment of quality and the risk of bias of the results. Limitations in
+reporting of study methods may therefore have attenuated estimated
+effects of study design characteristics. For example, in our systematic
+review, the label ‘unclear’ was frequently applied because the
+method was not reported in the reference. However, reported study
+methodology need not to correspond to how a study was actually
+conducted, since a well-conducted study may be reported badly
+(Huwiler-Muntener et al., 2002) and vice versa. In our study we were
+not able to demonstrate a statistically significant association between
+methodological components and treatment effect after adjusting with
+meta-regression. This could be due to lack of adequate meta-analyticstudy power. Another explanation is that poor reporting of the studies
+could have led to misclassification of studies, e.g., some studies that
+did not mention whether or not the assessments were blinded could
+in fact, have been blinded. Importantly, our subgroup analyses stratified
+according to methodological components would still seem to suggest a
+beneficial effect of MSCs even if studies of lower quality were excluded.
+An increasing amount of preclinical research and clinical trials is being
+conducted in less socio-economically developed countries without
+longstanding tradition in modern biomedical research (Bajpai and
+Saraya, 2009; Malakoff, 2008; Varawalla, 2007), and stem cell research
+is no exception to this trend (Cohen and Cohen, 2010; McMahon et al.,
+2010; Ryan et al., 2010; Salter et al., 2007; Yuan et al., 2012). It has
+therefore been recommended that researchers undertaking systematic
+reviews should consider how to manage research data from these
+countries (Panagiotou et al., 2013; Vickers et al., 1998), since they tend
+to show significantly more favorable treatment effects for the same
+intervention compared to studies from more developed countries
+(Panagiotou et al., 2013). Such discrepancies may reflect known
+geographical biases in reporting or study design (Vickers et al., 1998;
+Wu et al., 2009; Zhang et al., 2011) as well as genuine differences in
+baseline risk or treatment implementation (although the latter would
+seem unlikely in the case of animal studies). In accordance with the
+general trend in global stem cell research, a large proportion of the
+included studies in our systematic review were from less developed
+countries. However, our subgroup analysis could not detect a statistically
+significant difference in reported locomotor recovery. This, however,
+could be due to lack of adequate meta-analytic study power.
+Publication bias
+Similar to clinical trials, the unintentional exclusion of eligible animal
+studies in a systematic review will usually result in an overestimation of
+the intervention effect size simply because unpublished studies often
+contain neutral or negative data (Sena et al., 2010). Unfortunately,
+publication bias is prevalent in animal research (Perel et al., 2007). To
+assess the level of publication bias we generated a funnel plot, but did
+not detect any publication bias against missing negative studies using
+two formal testing methods.
+External validity
+External validity represents the concept of generalizing observations
+and conclusions from a selected study sample to future populations of
+interest. Following this context, translation of animal studies to clinical
+trials can be regarded as an extreme case of external validity. Factors
+that impede the clinical external validity of animal studies are many
+(Curt, 2012) including differences in anatomy and pathophysiology
+(Howells et al., 2010), animal strains (Mills et al., 2001; Popovich
+et al., 1997; Rex et al., 2007), disease model (Onifer et al., 2007), co-
+morbidity (Crossley et al., 2008), intervention schemes (Perel et al.,
+2007), and outcome measure (Dietz and Curt, 2006).
+We included only one mammal species to enable the use of an
+identical, valid and reliable locomotor rating scale and because
+inflammatory reactions after SCI may differ between experimental
+animal species (Sroga et al., 2003) thus potentially adding further
+experimental heterogeneity to the meta-analysis. We focused on the
+laboratory rat for a number of reasons. First, rats and humans have
+similar immune cell and cytokine response following SCI, although
+timings are different (Beck et al., 2010; Fleming et al., 2006; Kwon
+et al., 2010; Stammers et al., 2012) and differences in the magnitude
+and duration of macrophage activation throughout the lesion exist
+between rat strains (Popovich et al., 1997). Second, although induced
+trauma in rats does not addresses all aspects of spinal damage (Onifer
+et al., 2007) it fairly reflects the condition in human patients (Metz
+et al., 2000). Unfortunately, none of our included studies assessed the
+effect of MSCs on cervical SCI. Third, rat MSCs share similar
+350 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353characteristics with human MSCs irrespective of strain (Barzilay et al.,
+2009; Harting et al., 2008). Fourth, the reliability of the BBB scale as
+assessment for locomotor recovery is well recognised (Basso et al.,
+1996), and the crucial break point for locomotion is the onset of weight
+bearing, on which depends proper hind limb stepping (Sedy et al.,
+2008). Although originally developed for contusion injuries, the scale
+also works well for other types of injuries such as balloon compression
+lesion (Sedy et al., 2008). However, it is important to emphasise the
+non-linear nature of this scale. Thus, e.g. three points increase on the
+scale could mean a clinically relevant improvement or not, depending
+where on the scale this is observed. Furthermore, any attempt to
+translate a BBB difference of 3.9 into a clinically relevant SCI quantitative
+outcomemeasure would of course be nonsensical. Finally, it should also
+be taken into account that the BBB score may be regarded as unreliable
+as a sole neurobehavioral outcome assessment. The reporting of other
+neurobehavioral outcome measures was, however, more infrequent
+thus making quantitative pooling unfeasible for meta-analysis.
+Taken together it has been suggested that rats and humans have an
+analogous relationship with respect to functional, electrophysiological,
+and morphological outcomes. Furthermore, the techniques for
+evaluating the extent and severity of SCI in humans and rats are of
+comparable value indicating that the rat serves as an adequate animal
+model for research on functional and morphological changes after SCI
+and the effects of new treatment strategies. Unfortunately, there is no
+consensus on how locomotor changes in animals should be interpreted
+both with respect to the potential effect size and specific aspects for
+human locomotion, such as postural stability, weight bearing, duration
+and speed (Curt, 2012). Recovery time for rats reaching final stationary
+plateau phase is considerably shorter compared to humans (Curt, 2012).
+Notably, many BBB score assessmentswere conducted at final follow-up
+before reaching stationary plateau phase, thus likely to underestimate
+the true average intervention effect size, an observation which our
+multivariate meta-regression supports. Finally, it is important to stress
+that none of the included studies assessed the use of MSCs on a cervical
+SCI model, which complicates the translation of our results further to
+humans where cervical SCI is frequent.
+In the recognition of failing translation of promising animal studies
+to clinical effect, Kwon et al. have recently proposed a grading system
+to evaluate the translational potential of experimental neuroprotective
+therapies for acute SCI (Kwon et al., 2011c). Using this 5-item grading
+system we evaluated MSCs for SCI. Interestingly, despite the lack of
+cervical models we estimated a calculated a score substantially above
+the hitherto highest ranking intervention (minocycline), which is due
+to high scores of other items rated as highly important by this consensus
+scale (Kwon et al., 2011c).
+Conclusions
+Our systematic review with meta-analyses would seem to suggest
+that MSCs have substantial beneficial effect on locomotor recovery in
+ratmodels of traumatic SCI. The results should, however, be interpreted
+in light of the known limitations in animal experimental design and
+methodological quality.
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.nbd.2013.10.014.
+Author contributions
+Roberto S. Oliveri conceived and designed the systematic review;
+developed literature search strategy; screened titles and abstracts; full-
+paper assessed references; extracted data; assessed quality components;
+calculated summary effect measures; performed meta-analyses, trial
+sequential analyses, subgroup analyses, univariate meta-regression and
+funnel plot asymmetry assessments; interpreted data; drafted the first
+version of themanuscript, and edited and approved the final manuscript.
+Segun Bello assessed quality components; performed multivariate meta-regression analysis; interpreted data; co-drafted and approved the final
+manuscript. Fin Biering-Sørensen co-conceived the systematic review;
+interpreted data; co-drafted and approved the final manuscript.
+Competing interests
+The authors have no competing interests.
+Acknowledgments
+Roberto S. Oliveri would like to thank the investigators Michael
+Chopp, Rachelle Franzen, Jung Keun Hyun, Pavla Jendelová, Shen Jun,
+Chizuka Ide, Serdar Kabatas, Jian-Hua Lin, Gang Liu, Martin Oudega,
+Rakhi Pal, and Eva Syková for kindly providing additional data on
+request. Dr. Christian Gluud is thanked for his useful comments and
+assistance with TSA software. Dr. Arash Afshari is thanked for his help
+with translation of Persian references.
+References
+Abrams, M.B., Dominguez, C., Pernold, K., Reger, R., Wiesenfeld-Hallin, Z., Olson, L.,
+Prockop, D., 2009. Multipotent mesenchymal stromal cells attenuate chronic
+inflammation and injury-induced sensitivity to mechanical stimuli in experimental
+spinal cord injury. Restor. Neurol. Neurosci. 27, 307–321.
+Adams, M., Cavanagh, J.F., 2004. International Campaign for Cures of Spinal Cord Injury
+Paralysis (ICCP): another step forward for spinal cord injury research. Spinal Cord
+42, 273–280.
+Akhtar, A.Z., Pippin, J.J., Sandusky, C.B., 2008. Animal models in spinal cord injury: a
+review. Rev. Neurosci. 19, 47–60.
+Bajpai, V., Saraya, A., 2009. Boom in clinical research industry: a dangerous trend. Trop.
+Gastroenterol. 30, 177–181.
+Bakshi, A., Hunter, C., Swanger, S., Lepore, A., Fischer, I., 2004. Minimally invasive delivery
+of stem cells for spinal cord injury: advantages of the lumbar puncture technique.
+J. Neurosurg. Spine 1, 330–337.
+Bartmann, C., Rohde, E., Schallmoser, K., Purstner, P., Lanzer, G., Linkesch, W., Strunk, D.,
+2007. Two steps to functional mesenchymal stromal cells for clinical application.
+Transfusion 47, 1426–1435.
+Barzilay, R., Sadan, O., Melamed, E., Offen, D., 2009. Comparative characterization of bone
+marrow-derived mesenchymal stromal cells from four different rat strains.
+Cytotherapy 11, 435–442.
+Basso, D.M., Beattie, M.S., Bresnahan, J.C., 1995. A sensitive and reliable locomotor rating
+scale for open field testing in rats. J. Neurotrauma 12, 1–21.
+Basso, D.M., Beattie, M.S., Bresnahan, J.C., 1996. Graded histological and locomotor
+outcomes after spinal cord contusion using the NYU weight-drop device versus
+transection. Exp. Neurol. 139, 244–256.
+Beattie, M.S., Bresnahan, J.C., 2000. Cell death, repair, and recovery of function after spinal
+cord injury in rats. In: Kalb, R.G., Strittmatter, S.M. (Eds.), Neurobiology of Spinal Cord
+Injury. Humana Press, Totowa, pp. 1–22.
+Bebarta, V., Luyten, D., Heard, K., 2003. Emergency medicine animal research: does use of
+randomization and blinding affect the results? Acad. Emerg. Med. 10, 684–687.
+Beck, K.D., Nguyen, H.X., Galvan, M.D., Salazar, D.L., Woodruff, T.M., Anderson, A.J., 2010.
+Quantitative analysis of cellular inflammation after traumatic spinal cord injury:
+evidence for a multiphasic inflammatory response in the acute to chronic
+environment. Brain 133, 433–447.
+Berkey, C.S., Hoaglin, D.C., Mosteller, F., Colditz, G.A., 1995. A random-effects regression
+model for meta-analysis. Stat. Med. 14, 395–411.
+Blight, A., Curt, A., Ditunno, J.F., Dobkin, B., Ellaway, P., Fawcett, J., Fehlings, M., Grossman,
+R.G., Lammertse, D.P., Privat, A., Steeves, J., Tuszynski, M., Kalichman, M., Guest, J.D.,
+2009. Position statement on the sale of unproven cellular therapies for spinal cord
+injury: the international campaign for cures of spinal cord injury paralysis. Spinal
+Cord 47, 713–714.
+Boakye, M., Leigh, B.C., Skelly, A.C., 2012. Quality of life in persons with spinal cord injury:
+comparisons with other populations. J. Neurosurg. Spine 17, 29–37.
+Borenstein, M., Hedges, L.V., Higgins, J.P.T., Rothstein, H.R., 2009a. Meta-regression.
+Introduction to Meta-analysis. John Wiley & Sons, Chichester 187–203.
+Borenstein, M., Hedges, L.V., Higgins, J.P.T., Rothstein, H.R., 2009b. Subgroup analyses.
+Introduction to Meta-analysis.John Wiley & Sons, Chichester 149–186.
+Bregman, B.S., Kunkel-Bagden, E., Schnell, L., Dai, H.N., Gao, D., Schwab, M.E., 1995.
+Recovery from spinal cord injury mediated by antibodies to neurite growth
+inhibitors. Nature 378, 498–501.
+Breslin, K., Agrawal, D., 2012. The use of methylprednisolone in acute spinal cord injury: a
+review of the evidence, controversies, and recommendations. Pediatr. Emerg. Care
+28, 1238–1245.
+Brok, J., Thorlund, K., Gluud, C., Wetterslev, J., 2008. Trial sequential analysis reveals
+insufficient information size and potentially false positive results in many meta-
+analyses. J. Clin. Epidemiol. 61, 763–769.
+Burke, D.A., Magnuson, D.S.K., 2012. Basso, Beattie, and Bresnahan scale locomotor
+assessment following spinal cord injury and its utility as a criterion for other
+assessments. In: Chen, J., Xu, X.-M., Xu, Z.C., Zhang, J.H. (Eds.), Animal Models of
+Acute Neurological Injuries II. Humana Press, New York City, pp. 591–604.
+351R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353Cadotte, D.W., Fehlings, M.G., 2011. Spinal cord injury: a systematic review of current
+treatment options. Clin. Orthop. Relat. Res. 469, 732–741.
+Caplan, A.I., Correa, D., 2011. The MSC: an injury drugstore. Cell Stem Cell 9, 11–15.
+Chalmers, I., 2009. The lethal consequences of failing to make use of all relevant evidence
+about the effects of medical treatments: the need for systematic reviews. In:
+Rothwell, P. (Ed.), Treating Individuals: From Randomized Trials to Personalised
+Medicine. Elsevier, London, pp. 37–58.
+Chen, Y., Teng, F.Y., Tang, B.L., 2006. Coaxing bone marrow stromal mesenchymal stem
+cells towards neuronal differentiation: progress and uncertainties. Cell. Mol. Life Sci.
+63, 1649–1657.
+Clarke, M., Hopewell, S., Chalmers, I., 2007. Reports of clinical trials should begin and end
+with up-to-date systematic reviews of other relevant evidence: a status report. J. R.
+Soc. Med. 100, 187–190.
+Cohen, C.B., Cohen, P.J., 2010. International stem cell tourism and the need for effective
+regulation. Part I: Stem cell tourism in Russia and India: clinical research, innovative
+treatment, or unproven hype? Kennedy Inst. Ethics J. 20, 27–49.
+Crigler, L., Robey, R.C., Asawachaicharn, A., Gaupp, D., Phinney, D.G., 2006. Human
+mesenchymal stem cell subpopulations express a variety of neuro-regulatorymolecules
+and promote neuronal cell survival and neuritogenesis. Exp. Neurol. 198, 54–64.
+Crisan,M., Yap, S., Casteilla, L., Chen, C.W., Corselli,M., Park, T.S., Andriolo, G., Sun, B., Zheng,
+B., Zhang, L., Norotte, C., Teng, P.N., Traas, J., Schugar, R., Deasy, B.M., Badylak, S.,
+Buhring, H.J., Giacobino, J.P., Lazzari, L., Huard, J., Peault, B., 2008. A perivascular origin
+for mesenchymal stem cells in multiple human organs. Cell Stem Cell 3, 301–313.
+Crossley, N.A., Sena, E., Goehler, J., Horn, J., van der Worp, B., Bath, P.M., Macleod, M.,
+Dirnagl, U., 2008. Empirical evidence of bias in the design of experimental stroke
+studies: a metaepidemiologic approach. Stroke 39, 929–934.
+Crowley, P., Chalmers, I., Keirse, M.J., 1990. The effects of corticosteroid administration
+before preterm delivery: an overview of the evidence from controlled trials. Br.
+J. Obstet. Gynaecol. 97, 11–25.
+Cui, Q., Hodgetts, S.I., Hu, Y., Luo, J.M., Harvey, A.R., 2007. Strain-specific differences in the
+effects of cyclosporin A and FK506 on the survival and regeneration of axotomized
+retinal ganglion cells in adult rats. Neuroscience 146, 986–999.
+Culme-Seymour, E.J., Davie, N.L., Brindley, D.A., Edwards-Parton, S., Mason, C., 2012. A
+decade of cell therapy clinical trials (2000–2010). Regen. Med. 7, 455–462.
+Curt, A., 2012. The translational dialogue in spinal cord injury research. Spinal Cord 50,
+352–357.
+Deeks, J.J., Higgins, J.P.T., Altman, D.G., 2008. Analysing data and undertaking meta-
+analyses. In: Higgins, J.P.T., Green, S. (Eds.), Cochrane Handbook for Systematic
+Reviews of Interventions. Wiley-Blackwell, Chichester, pp. 151–185.
+DerSimonian, R., Laird, N., 1986. Meta-analysis in clinical trials. Control. Clin. Trials 7,
+177–188.
+Devivo, M.J., 2012. Epidemiology of traumatic spinal cord injury: trends and future
+implications. Spinal Cord 50, 365–372.
+Diaz-Ruiz, A., Rios, C., Duarte, I., Correa, D., Guizar-Sahagun, G., Grijalva, I., Ibarra, A., 1999.
+Cyclosporin-A inhibits lipid peroxidation after spinal cord injury in rats. Neurosci.
+Lett. 266, 61–64.
+Diaz-Ruiz, A., Vergara, P., Perez-Severiano, F., Segovia, J., Guizar-Sahagun, G., Ibarra, A.,
+Rios, C., 2004. Cyclosporin-A inhibits inducible nitric oxide synthase activity and
+expression after spinal cord injury in rats. Neurosci. Lett. 357, 49–52.
+Dietz, V., Curt, A., 2006. Neurological aspects of spinal-cord repair: promises and
+challenges. Lancet Neurol. 5, 688–694.
+Dominici, M., Le Blanc, K., Mueller, I., Slaper-Cortenbach, I., Marini, F., Krause, D., Deans, R.,
+Keating, A., Prockop, D., Horwitz, E., 2006. Minimal criteria for defining multipotent
+mesenchymal stromal cells. The International Society for Cellular Therapy position
+statement. Cytotherapy 8, 315–317.
+Donnelly, E.M., Lamanna, J., Boulis, N.M., 2012. Stem cell therapy for the spinal cord. Stem
+Cell Res Ther 3, 24.
+Duijvestein, M., Vos, A.C., Roelofs, H., Wildenberg, M.E., Wendrich, B.B., Verspaget, H.W.,
+Kooy-Winkelaar, E.M., Koning, F., Zwaginga, J.J., Fidder, H.H., Verhaar, A.P., Fibbe,
+W.E., van den Brink, G.R., Hommes, D.W., 2010. Autologous bone marrow-derived
+mesenchymal stromal cell treatment for refractory luminal Crohn's disease: results
+of a phase I study. Gut 59, 1662–1669.
+Duval, S., Tweedie, R., 2000. Trim and fill: a simple funnel-plot-based method of testing
+and adjusting for publication bias in meta-analysis. Biometrics 56, 455–463.
+Egger, M., Davey, S.G., Schneider, M., Minder, C., 1997. Bias in meta-analysis detected by a
+simple, graphical test. BMJ 315, 629–634.
+Fergusson, D., Glass, K.C., Hutton, B., Shapiro, S., 2005. Randomized controlled trials of
+aprotinin in cardiac surgery: could clinical equipoise have stopped the bleeding?
+Clin. Trials 2, 218–229.
+Filbin, M.T., 2003. Myelin-associated inhibitors of axonal regeneration in the adult
+mammalian CNS. Nat. Rev. Neurosci. 4, 703–713.
+Fischer, U.M., Harting, M.T., Jimenez, F., Monzon-Posadas, W.O., Xue, H., Savitz, S.I., Laine,
+G.A., Cox Jr., C.S., 2009. Pulmonary passage is a major obstacle for intravenous stem
+cell delivery: the pulmonary first-pass effect. Stem Cells Dev. 18, 683–692.
+Fleming, J.C., Norenberg, M.D., Ramsay, D.A., Dekaban, G.A., Marcillo, A.E., Saenz, A.D.,
+Pasquale-Styles, M., Dietrich, W.D., Weaver, L.C., 2006. The cellular inflammatory
+response in human spinal cords after injury. Brain 129, 3249–3269.
+Freund, P., Schmidlin, E., Wannier, T., Bloch, J., Mir, A., Schwab, M.E., Rouiller, E.M., 2006.
+Nogo-A-specific antibody treatment enhances sprouting and functional recovery
+after cervical lesion in adult primates. Nat. Med. 12, 790–792.
+Geyh, S., Ballert, C., Sinnott, A., Charlifue, S., Catz, A., D'Andrea Greve, J.M., Post, M.W.,
+2013. Quality of life after spinal cord injury: a comparison across six countries. Spinal
+Cord 51, 322–326.
+Gilbert, R., Salanti, G., Harden, M., See, S., 2005. Infant sleeping position and the sudden
+infant death syndrome: systematic review of observational studies and historical
+review of recommendations from 1940 to 2002. Int. J. Epidemiol. 34, 874–887.Giunti, D., Parodi, B., Usai, C., Vergani, L., Casazza, S., Bruzzone, S., Mancardi, G., Uccelli, A.,
+2012. Mesenchymal stem cells shapemicroglia effector functions through the release
+of CX3CL1. Stem Cells 30, 2044–2053.
+Guest, J., Benavides, F., Padgett, K., Mendez, E., Tovar, D., 2011. Technical aspects of spinal
+cord injections for cell transplantation. Clinical and translational considerations. Brain
+Res. Bull. 84, 267–279.
+Hackam, D.G., Redelmeier, D.A., 2006. Translation of research evidence from animals to
+humans. JAMA 296, 1731–1732.
+Harbord, R.M., Higgins, J.P.T., 2008. Meta-regression in Stata. Stata J. 8, 493–519.
+Hare, J.M., Fishman, J.E., Gerstenblith, G., DiFede Velazquez, D.L., Zambrano, J.P., Suncion,
+V.Y., Tracy, M., Ghersin, E., Johnston, P.V., Brinker, J.A., Breton, E., Davis-Sproul, J.,
+Schulman, I.H., Byrnes, J., Mendizabal, A.M., Lowery, M.H., Rouy, D., Altman, P.,
+Wong Po, F.C., Ruiz, P., Amador, A., Da, S.J., McNiece, I.K., Heldman, A.W., 2012.
+Comparison of allogeneic vs autologous bone marrow-derived mesenchymal
+stem cells delivered by transendocardial injection in patients with ischemic
+cardiomyopathy: the POSEIDON randomized trial. JAMA 308, 2369–2379.
+Harting, M., Jimenez, F., Pati, S., Baumgartner, J., Cox Jr., C., 2008. Immunophenotype
+characterization of rat mesenchymal stromal cells. Cytotherapy 10, 243–253.
+Hausmann, O.N., 2003. Post-traumatic inflammation following spinal cord injury. Spinal
+Cord 41, 369–378.
+Hawryluk, G.W., Rowland, J., Kwon, B.K., Fehlings, M.G., 2008. Protection and repair of the
+injured spinal cord: a review of completed, ongoing, and planned clinical trials for
+acute spinal cord injury. Neurosurg. Focus. 25, E14.
+Hawryluk, G.W., Mothe, A., Wang, J., Wang, S., Tator, C., Fehlings, M.G., 2012. An in vivo
+characterization of trophic factor production following neural precursor cell or
+bone marrow stromal cell transplantation for spinal cord injury. Stem Cells Dev. 21,
+2222–2238.
+Heazlewood, C., Atkinson, K., 2013. Optimal tissue sources of mesenchymal stromal cells
+for clinical applications. In: Chase, L.G., Vemuri, M.C. (Eds.), Mesenchymal Stem Cell
+Therapy. Springer, New York, pp. 355–372.
+Higgins, J.P.T., Deeks, J.J., 2008. Selecting studies and collecting data. In: Higgins, J.P.T.,
+Green, S. (Eds.), Cochrane Handbook for Systematic Reviews of Interventions.
+Wiley-Blackwell, Chichester, pp. 151–185.
+Higgins, J.P.T., Green, S., 2008. Cochrane Handbook for Systematic Reviews of
+Intervention. Chichester, Wiley-Blackwell.
+Higgins, J.P., Thompson, S.G., 2002. Quantifying heterogeneity in a meta-analysis. Stat.
+Med. 21, 1539–1558.
+Higgins, J.P.T., Deeks, J.J., Altman, D.G., 2008. In: Higgins, J.P.T., Green, S. (Eds.), Special
+Topics in Statistics. Wiley-Blackwell, Chichester, pp. 481–529.
+Hill, C.L., LaValley, M.P., Felson, D.T., 2002. Discrepancy between published report and
+actual conduct of randomized clinical trials. J. Clin. Epidemiol. 55, 783–786.
+Hodgetts, S.I., Simmons, P.J., Plant, G.W., 2013. Human mesenchymal precursor cells
+(Stro-1+) from spinal cord injury patients improve functional recovery and tissue
+sparing in an acute spinal cord injury rat model. Cell Transplant. http://dx.doi.org/
+10.3727/096368912X656081 (in press).
+Hofstetter, C.P., Schwarz, E.J., Hess, D., Widenfalk, J., El, M.A., Prockop, D.J., Olson, L., 2002.
+Marrow stromal cells form guiding strands in the injured spinal cord and promote
+recovery. Proc. Natl. Acad. Sci. U. S. A. 99, 2199–2204.
+Howells, D.W., Porritt,M.J., Rewell, S.S., O'Collins, V., Sena, E.S., van derWorp, H.B., Traystman,
+R.J., Macleod, M.R., 2010. Different strokes for different folks: the rich diversity of animal
+models of focal cerebral ischemia. J. Cereb. Blood Flow Metab. 30, 1412–1431.
+Hrobjartsson, A., Pildal, J., Chan, A.W., Haahr, M.T., Altman, D.G., Gotzsche, P.C., 2009.
+Reporting on blinding in trial protocols and corresponding publications was often
+inadequate but rarely contradictory. J. Clin. Epidemiol. 62, 967–973.
+Hrobjartsson, A., Thomsen, A.S., Emanuelsson, F., Tendal, B., Hilden, J., Boutron, I., Ravaud,
+P., Brorson, S., 2013. Observer bias in randomized clinical trials with measurement
+scale outcomes: a systematic review of trials with both blinded and nonblinded
+assessors. CMAJ 185, E201–E211.
+Huwiler-Muntener, K., Juni, P., Junker, C., Egger, M., 2002. Quality of reporting of
+randomized trials as a measure of methodologic quality. JAMA 287, 2801–2804.
+Ibarra, A., Correa, D., Willms, K., Merchant, M.T., Guizar-Sahagun, G., Grijalva, I., Madrazo,
+I., 2003. Effects of cyclosporin-A on immune response, tissue protection and motor
+function of rats subjected to spinal cord injury. Brain Res. 979, 165–178.
+Inoue, M., Honmou, O., Oka, S., Houkin, K., Hashi, K., Kocsis, J.D., 2003. Comparative
+analysis of remyelinating potential of focal and intravenous administration of
+autologous bonemarrow cells into the rat demyelinated spinal cord. Glia 44, 111–118.
+Jacobs, S.E., Berg, M., Hunt, R., Tarnow-Mordi, W.O., Inder, T.E., Davis, P.G., 2013. Cooling
+for newborns with hypoxic ischaemic encephalopathy. Cochrane Database Syst.
+Rev. 1 CD003311.
+Jing, W.-L., Yan, F.-X., Zuo, Y.-Z., 2008. Comparison of various mesenchymal stem cell
+transplatation pathways for treatment of spinal cord injury in rats. J. Clin. Rehab.
+Tissue Eng. Res. 12, 10045–10049 ([serial online],Avaialbe from: Journal of Clinical
+Rehabilitative (P.O. Box 1200, Shenyang 110004, China).
+Kang, E.S., Ha, K.Y., Kim, Y.H., 2012. Fate of transplanted bone marrow derived
+mesenchymal stem cells following spinal cord injury in rats by transplantation
+routes. J. Korean Med. Sci. 27, 586–593.
+Karp, J.M., Leng Teo, G.S., 2009. Mesenchymal stem cell homing: the devil is in the details.
+Cell Stem Cell 4, 206–216.
+Khalatbary, A.R., Tiraihi, T., 2009. A comparative study of therapeutic benefits of
+intraspinal and intravenous bone marrow stromal cell administration to spinal cord
+injuries. Iran. Biomed. J. 13, 43–48.
+Kim, J., Hematti, P., 2009. Mesenchymal stem cell-educated macrophages: a novel type of
+alternatively activated macrophages. Exp. Hematol. 37, 1445–1453.
+Kim, J.W., Ha, K.Y., Molon, J.N., Kim, Y.H., 2013. Bone marrow derived mesenchymal stem
+cell transplantation for chronic spinal cord injury in rats: comparative study between
+intralesional and intravenous transplantation (in press). Spine (Phila Pa 1976).
+352 R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353Knapp, G., Hartung, J., 2003. Improved tests for a random effects meta-regression with a
+single covariate. Stat. Med. 22, 2693–2710.
+Koc, O.N., Day, J., Nieder, M., Gerson, S.L., Lazarus, H.M., Krivit, W., 2002. Allogeneic
+mesenchymal stem cell infusion for treatment of metachromatic leukodystrophy
+(MLD) and Hurler syndrome (MPS-IH). Bone Marrow Transplant. 30, 215–222.
+Krabbe, C., Zimmer, J., Meyer, M., 2005. Neural transdifferentiation of mesenchymal stem
+cells—a critical review. APMIS 113, 831–844.
+Kwon, B.K., Stammers, A.M., Belanger, L.M., Bernardo, A., Chan, D., Bishop, C.M., Slobogean,
+G.P., Zhang, H., Umedaly, H., Giffin, M., Street, J., Boyd, M.C., Paquette, S.J., Fisher, C.G.,
+Dvorak, M.F., 2010. Cerebrospinal fluid inflammatory cytokines and biomarkers of
+injury severity in acute human spinal cord injury. J. Neurotrauma 27, 669–682.
+Kwon, B.K., Okon, E., Hillyer, J., Mann, C., Baptiste, D., Weaver, L.C., Fehlings, M.G., Tetzlaff,
+W., 2011a. A systematic review of non-invasive pharmacologic neuroprotective
+treatments for acute spinal cord injury. J. Neurotrauma 28, 1545–1588.
+Kwon, B.K., Okon, E.B., Plunet, W., Baptiste, D., Fouad, K., Hillyer, J., Weaver, L.C., Fehlings,
+M.G., Tetzlaff, W., 2011b. A systematic review of directly applied biologic therapies
+for acute spinal cord injury. J. Neurotrauma 28, 1589–1610.
+Kwon, B.K., Okon, E.B., Tsai, E., Beattie, M.S., Bresnahan, J.C., Magnuson, D.K., Reier, P.J.,
+McTigue, D.M., Popovich, P.G., Blight, A.R., Oudega, M., Guest, J.D., Weaver, L.C.,
+Fehlings, M.G., Tetzlaff, W., 2011c. A grading system to evaluate objectively the
+strength of pre-clinical data of acute neuroprotective therapies for clinical translation
+in spinal cord injury. J. Neurotrauma 28, 1525–1543.
+Kwon, B.K., Ghag, A., Dvorak, M.F., Tetzlaff, W., Illes, J., 2012. Expectations of benefit and
+tolerance to risk of individuals with spinal cord injury regarding potential
+participation in clinical trials. J. Neurotrauma 29, 2727–2737.
+Lalu, M.M., McIntyre, L., Pugliese, C., Fergusson, D., Winston, B.W., Marshall, J.C., Granton,
+J., Stewart, D.J., 2012. Safety of cell therapy with mesenchymal stromal cells
+(SafeCell): a systematic review and meta-analysis of clinical trials. PLoS One 7,
+e47559.
+Lanza, C., Morando, S., Voci, A., Canesi, L., Principato, M.C., Serpero, L.D., Mancardi, G.,
+Uccelli, A., Vergani, L., 2009. Neuroprotective mesenchymal stem cells are endowed
+with a potent antioxidant effect in vivo. J. Neurochem. 110, 1674–1684.
+Le Blanc, K., Frassoni, F., Ball, L., Locatelli, F., Roelofs, H., Lewis, I., Lanino, E., Sundberg, B.,
+Bernardo, M.E., Remberger, M., Dini, G., Egeler, R.M., Bacigalupo, A., Fibbe, W.,
+Ringden, O., 2008. Mesenchymal stem cells for treatment of steroid-resistant, severe,
+acute graft-versus-host disease: a phase II study. Lancet 371, 1579–1586.
+Li, Y., Chen, J., Chen, X.G., Wang, L., Gautam, S.C., Xu, Y.X., Katakowski, M., Zhang, L.J., Lu,
+M., Janakiraman, N., Chopp, M., 2002. Human marrow stromal cell therapy for stroke
+in rat: neurotrophins and functional recovery. Neurology 59, 514–523.
+Li, Q.M., Fu, Y.M., Shan, Z.Y., Shen, J.L., Zhang, X.M., Lei, L., Jin, L.H., 2009. MSCs guide
+neurite directional extension and promote oligodendrogenesis in NSCs. Biochem.
+Biophys. Res. Commun. 384, 372–377.
+Li, H., Wen, Y., Luo, Y., Lan, X., Wang, D., Sun, Z., Hu, L., 2010. Transplantation of bone
+marrow mesenchymal stem cells into spinal cord injury: a comparison of delivery
+different times. Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi 24, 180–184.
+Lu, S., Lu, C., Han, Q., Li, J., Du, Z., Liao, L., Zhao, R.C., 2011. Adipose-derived mesenchymal
+stem cells protect PC12 cells from glutamate excitotoxicity-induced apoptosis by
+upregulation of XIAP through PI3-K/Akt activation. Toxicology 279, 189–195.
+Malakoff, D., 2008. Clinical trials and tribulations. Spiraling costs threaten gridlock.
+Science 322, 210–213.
+Manochantr, S., Pratya, Y., Kheolamai, P., Rojphisan, S., Chayosumrit, M., Tantrawatpan, C.,
+Supokawej, A., Issaragrisil, S., 2013. Immunosuppressive properties of mesenchymal
+stromal cells derived from amnion, placenta, Wharton's jelly and umbilical cord.
+Intern. Med. J. 43, 430–439.
+McMahon, D.S., Thorsteinsdottir, H., Singer, P.A., Daar, A.S., 2010. Cultivating regenerative
+medicine innovation in China. Regen. Med. 5, 35–44.
+Metz, G.A., Curt, A., van de Meent, H., Klusman, I., Schwab, M.E., Dietz, V., 2000. Validation
+of the weight-drop contusion model in rats: a comparative study of human spinal
+cord injury. J. Neurotrauma 17, 1–17.
+Meyerrose, T., Olson, S., Pontow, S., Kalomoiris, S., Jung, Y., Annett, G., Bauer, G., Nolta, J.A.,
+2010. Mesenchymal stem cells for the sustained in vivo delivery of bioactive factors.
+Adv. Drug Deliv. Rev. 62, 1167–1174.
+Middleton, J.W., Dayton, A., Walsh, J., Rutkowski, S.B., Leong, G., Duong, S., 2012. Life
+expectancy after spinal cord injury: a 50-year study. Spinal Cord 50, 803–811.
+Mills, C.D., Hains, B.C., Johnson, K.M., Hulsebosch, C.E., 2001. Strain and model differences
+in behavioral outcomes after spinal cord injury in rat. J. Neurotrauma 18, 743–756.
+Moll, G., Rasmusson-Duprez, I., von Bahr, L., Connolly-Andersen, A.M., Elgue, G.,
+Funke, L., Hamad, O.A., Lonnies, H., Magnusson, P.U., Sanchez, J., Teramura, Y.,
+Nilsson-Ekdahl, K., Ringden, O., Korsgren, O., Nilsson, B., Le Blanc, K., 2012. Are
+therapeutic human mesenchymal stromal cells compatible with human blood?
+Stem Cells 30, 1565–1574.
+Morando, S., Vigo, T., Esposito, M., Casazza, S., Novi, G., Principato, M.C., Furlan, R., Uccelli,
+A., 2012. The therapeutic effect of mesenchymal stem cell transplantation in
+experimental autoimmune encephalomyelitis is mediated by peripheral and central
+mechanisms. Stem. Cell Res. Ther. 3, 3.
+Najar, M., Raicevic, G., Fayyad-Kazan, H., De, B.C., Bron, D., Toungouz, M., Lagneaux, L., 2012.
+Immune-related antigens, surface molecules and regulatory factors in human-derived
+mesenchymal stromal cells: the expression and impact of inflammatory priming. Stem
+Cell Rev. 8, 1188–1198.
+Nakajima, H., Uchida, K., Guerrero, A.R., Watanabe, S., Sugita, D., Takeura, N., Yoshida, A.,
+Long, G., Wright, K.T., Johnson, W.E., Baba, H., 2012. Transplantation of mesenchymal
+stem cells promotes an alternative pathway of macrophage activation and functional
+recovery after spinal cord injury. J. Neurotrauma 29, 1614–1625.
+Nakano, N., Nakai, Y., Seo, T.B., Yamada, Y., Ohno, T., Yamanaka, A., Nagai, Y., Fukushima,
+M., Suzuki, Y., Nakatani, T., Ide, C., 2010. Characterization of conditioned medium of
+cultured bone marrow stromal cells. Neurosci. Lett. 483, 57–61.New, P.W., Cripps, R.A., Bonne, L.B., 2013. Global maps of non-traumatic spinal cord injury
+epidemiology: towards a living data repository. Spinal Cord http://dx.doi.org/10.
+1038/sc.2012.165 (in press).
+Nguyen, H.X., O'Barr, T.J., Anderson, A.J., 2007. Polymorphonuclear leukocytes promote
+neurotoxicity through release of matrix metalloproteinases, reactive oxygen species,
+and TNF-alpha. J. Neurochem. 102, 900–912.
+Noble, L.J., Donovan, F., Igarashi, T., Goussev, S., Werb, Z., 2002. Matrix metalloproteinases
+limit functional recovery after spinal cord injury by modulation of early vascular
+events. J. Neurosci. 22, 7526–7535.
+Noonan, V.K., Fingas, M., Farry, A., Baxter, D., Singh, A., Fehlings, M.G., Dvorak, M.F., 2012.
+Incidence and prevalence of spinal cord injury in Canada: a national perspective.
+Neuroepidemiology 38, 219–226.
+O'Brien, P.C., Fleming, T.R., 1979. Amultiple testing procedure for clinical trials. Biometrics
+35, 549–556.
+Oliveri, R.S., 2007. Epigenetic dedifferentiation of somatic cells into pluripotency: cellular
+alchemy in the age of regenerative medicine? Regen. Med. 2, 795–816.
+Onifer, S.M., Rabchevsky, A.G., Scheff, S.W., 2007. Rat models of traumatic spinal cord
+injury to assess motor recovery. ILAR J. 48, 385–395.
+Osaka, M., Honmou, O., Murakami, T., Nonaka, T., Houkin, K., Hamada, H., Kocsis, J.D.,
+2010. Intravenous administration of mesenchymal stem cells derived from bone
+marrow after contusive spinal cord injury improves functional outcome. Brain Res.
+1343, 226–235.
+Oyinbo, C.A., 2011. Secondary injury mechanisms in traumatic spinal cord injury: a
+nugget of this multiply cascade. Acta Neurobiol. Exp. (Wars) 71, 281–299.
+Pal, R., Gopinath, C., Rao, N.M., Banerjee, P., Krishnamoorthy, V., Venkataramana, N.K.,
+Totey, S., 2010. Functional recovery after transplantation of bone marrow-derived
+human mesenchymal stromal cells in a rat model of spinal cord injury. Cytotherapy
+12, 792–806.
+Panagiotou, O.A., Contopoulos-Ioannidis, D.G., Ioannidis, J.P., Rehnborg, C.F., 2013.
+Comparative effect sizes in randomised trials from less developed and more
+developed countries: meta-epidemiological assessment. BMJ 346, f707.
+Pati, S., Gerber, M.H., Menge, T.D., Wataha, K.A., Zhao, Y., Baumgartner, J.A., Zhao, J.,
+Letourneau, P.A., Huby, M.P., Baer, L.A., Salsbury, J.R., Kozar, R.A., Wade, C.E., Walker,
+P.A., Dash, P.K., Cox Jr., C.S., Doursout, M.F., Holcomb, J.B., 2011. Bone marrow derived
+mesenchymal stem cells inhibit inflammation and preserve vascular endothelial
+integrity in the lungs after hemorrhagic shock. PLoS One 6, e25171.
+Perel, P., Roberts, I., Sena, E., Wheble, P., Briscoe, C., Sandercock, P., Macleod, M., Mignini,
+L.E., Jayaram, P., Khan, K.S., 2007. Comparison of treatment effects between animal
+experiments and clinical trials: systematic review. BMJ 334, 197.
+Pildal, J., Chan, A.W., Hrobjartsson, A., Forfang, E., Altman, D.G., Gotzsche, P.C., 2005.
+Comparison of descriptions of allocation concealment in trial protocols and the
+published reports: cohort study. BMJ 330, 1049.
+Popovich, P.G., Wei, P., Stokes, B.T., 1997. Cellular inflammatory response after spinal cord
+injury in Sprague–Dawley and Lewis rats. J. Comp. Neurol. 377, 443–464.
+Prockop, D.J., 2007. “Stemness” does not explain the repair of many tissues bymesenchymal
+stem/multipotent stromal cells (MSCs). Clin. Pharmacol. Ther. 82, 241–243.
+Prockop, D.J., Oh, J.Y., 2012. Mesenchymal stem/stromal cells (MSCs): role as guardians of
+inflammation. Mol. Ther. 20, 14–20.
+Prockop, D.J., Brenner, M., Fibbe, W.E., Horwitz, E., Le, B.K., Phinney, D.G., Simmons, P.J.,
+Sensebe, L., Keating, A., 2010. Defining the risks of mesenchymal stromal cell therapy.
+Cytotherapy 12, 576–578.
+Raffaghello, L., Bianchi, G., Bertolotto, M., Montecucco, F., Busca, A., Dallegri, F., Ottonello, L.,
+Pistoia, V., 2008. Human mesenchymal stem cells inhibit neutrophil apoptosis: a
+model for neutrophil preservation in the bone marrow niche. Stem Cells 26, 151–162.
+Regenberg, A.C., Hutchinson, L.A., Schanker, B., Mathews, D.J., 2009. Medicine on the
+fringe: stem cell-based interventions in advance of evidence. Stem Cells 27,
+2312–2319.
+Rex, A., Kolbasenko, A., Bert, B., Fink, H., 2007. Choosing the right wild type: behavioral
+and neurochemical differences between 2 populations of Sprague–Dawley rats
+from the same source but maintained at different sites. J. Am. Assoc. Lab. Anim. Sci.
+46, 13–20.
+Rivera, F.J., Couillard-Despres, S., Pedre, X., Ploetz, S., Caioni, M., Lois, C., Bogdahn, U.,
+Aigner, L., 2006. Mesenchymal stem cells instruct oligodendrogenic fate decision on
+adult neural stem cells. Stem Cells 24, 2209–2219.
+Ryan, K.A., Sanders, A.N., Wang, D.D., Levine, A.D., 2010. Tracking the rise of stem cell
+tourism. Regen. Med. 5, 27–33.
+Sahni, V., Kessler, J.A., 2010. Stem cell therapies for spinal cord injury. Nat. Rev. Neurol. 6,
+363–372.
+Salter, B., Cooper, M., Dickins, A., Cardo, V., 2007. Stem cell science in India: emerging
+economies and the politics of globalization. Regen. Med. 2, 75–89.
+Sandercock, P., Roberts, I., 2002. Systematic reviews of animal experiments. Lancet 360,
+586.
+Savovic, J., Jones, H., Altman, D., Harris, R., Juni, P., Pildal, J., Als-Nielsen, B., Balk, E., Gluud,
+C., Gluud, L., Ioannidis, J., Schulz, K., Beynon, R., Welton, N.,Wood, L., Moher, D., Deeks,
+J., Sterne, J., 2012. Influence of reported study design characteristics on intervention
+effect estimates from randomised controlled trials: combined analysis of meta-
+epidemiological studies. Health Technol. Assess. 16, 1–82.
+Schallmoser, K., Rohde, E., Reinisch, A., Bartmann, C., Thaler, D., Drexler, C., Obenauf, A.C.,
+Lanzer, G., Linkesch, W., Strunk, D., 2008. Rapid large-scale expansion of functional
+mesenchymal stem cells from unmanipulated bone marrow without animal serum.
+Tissue Eng. Part C. Methods 14, 185–196.
+Sedy, J., Urdzikova, L., Jendelova, P., Sykova, E., 2008. Methods for behavioral testing of
+spinal cord injured rats. Neurosci. Biobehav. Rev. 32, 550–580.
+Sena, E.S., van der Worp, H.B., Bath, P.M., Howells, D.W., Macleod, M.R., 2010. Publication
+bias in reports of animal stroke studies leads to major overstatement of efficacy. PLoS
+Biol. 8, e1000344.
+Simpson, L.A., Eng, J.J., Hsieh, J.T., Wolfe, D.L., 2012. The health and life priorities of individuals
+with spinal cord injury: a systematic review. J. Neurotrauma 29, 1548–1555.
+Singer, N.G., Caplan, A.I., 2011. Mesenchymal stem cells: mechanisms of inflammation.
+Annu. Rev. Pathol. 6, 457–478.
+Soares, H.P., Daniels, S., Kumar, A., Clarke, M., Scott, C., Swann, S., Djulbegovic, B., 2004.
+Bad reporting does not mean bad methods for randomised trials: observational
+study of randomised controlled trials performed by the Radiation Therapy Oncology
+Group. BMJ 328, 22–24.
+Sroga, J.M., Jones, T.B., Kigerl, K.A., McGaughy, V.M., Popovich, P.G., 2003. Rats and mice
+exhibit distinct inflammatory reactions after spinal cord injury. J. Comp. Neurol.
+462, 223–240.
+Stammers, A.T., Liu, J., Kwon, B.K., 2012. Expression of inflammatory cytokines following
+acute spinal cord injury in a rodent model. J. Neurosci. Res. 90, 782–790.
+Steffenhagen, C., Dechant, F.X., Oberbauer, E., Furtner, T., Weidner, N., Kury, P., Aigner, L.,
+Rivera, F.J., 2012. Mesenchymal stem cells prime proliferating adult neural
+progenitors toward an oligodendrocyte fate. Stem Cells Dev. 21, 1838–1851.
+Suarez-Almazor, M.E., Belseck, E., Homik, J., Dorgan, M., Ramos-Remus, C., 2000.
+Identifying clinical trials in the medical literature with electronic databases:
+MEDLINE alone is not enough. Control. Clin. Trials 21, 476–487.
+Tan, J., Wu,W., Xu, X., Liao, L., Zheng, F., Messinger, S., Sun, X., Chen, J., Yang, S., Cai, J., Gao,
+X., Pileggi, A., Ricordi, C., 2012. Induction therapywith autologousmesenchymal stem
+cells in living-related kidney transplants: a randomized controlled trial. JAMA 307,
+1169–1177.
+Tator, C.H., Hashimoto, R., Raich, A., Norvell, D., Fehlings, M.G., Harrop, J.S., Guest, J., Aarabi,
+B., Grossman, R.G., 2012. Translational potential of preclinical trials of neuroprotection
+through pharmacotherapy for spinal cord injury. J. Neurosurg. Spine 17, 157–229.
+Teixeira, F.G., Carvalho, M.M., Sousa, N., Salgado, A.J., 2013. Mesenchymal stem cells
+secretome: a new paradigm for central nervous system regeneration? Cell. Mol. Life
+Sci. 70, 3871–3882.
+Uccelli, A., Moretta, L., Pistoia, V., 2008. Mesenchymal stem cells in health and disease.
+Nat. Rev. Immunol. 8, 726–736.
+Uccelli, A., Milanese, M., Principato, M.C., Morando, S., Bonifacino, T., Vergani, L., Giunti, D.,
+Voci, A., Carminati, E., Giribaldi, F., Caponnetto, C., Bonanno, G., 2012. Intravenous
+mesenchymal stem cells improve survival and motor function in experimental
+amyotrophic lateral sclerosis. Mol. Med. 18, 794–804.
+Vaquero, J., Zurita, M., Oya, S., Santos, M., 2006. Cell therapy using bone marrow stromal
+cells in chronic paraplegic rats: systemic or local administration? Neurosci. Lett. 398,
+129–134.
+Varawalla, N., 2007. India's growing clinical research sector: opportunity for global
+companies. IDrugs 10, 391–394.
+Vesterinen, H.M., Sena, E.S., ffrench-Constant, C., Williams, A., Chandran, S., Macleod, M.R.,
+2010. Improving the translational hit of experimental treatments in multiple
+sclerosis. Mult. Scler. 16, 1044–1055.
+Vickers, A., Goyal, N., Harland, R., Rees, R., 1998. Do certain countries produce only
+positive results? A systematic review of controlled trials. Control. Clin. Trials 19,
+159–166.
+von Bahr, L., Batsis, I., Moll, G., Hagg, M., Szakos, A., Sundberg, B., Uzunel, M., Ringden, O.,
+Le, B.K., 2012. Analysis of tissues following mesenchymal stromal cell therapy in
+humans indicates limited long-term engraftment and no ectopic tissue formation.
+Stem Cells 30, 1575–1578.
+Voulgari-Kokota, A., Fairless, R., Karamita, M., Kyrargyri, V., Tseveleki, V., Evangelidou, M.,
+Delorme, B., Charbord, P., Diem, R., Probert, L., 2012. Mesenchymal stem cells protect
+CNS neurons against glutamate excitotoxicity by inhibiting glutamate receptor
+expression and function. Exp. Neurol. 236, 161–170.
+Wetterslev, J., Thorlund, K., Brok, J., Gluud, C., 2008. Trial sequential analysismay establish
+when firm evidence is reached in cumulative meta-analysis. J. Clin. Epidemiol. 61,
+64–75.
+Wetterslev, J., Thorlund, K., Brok, J., Gluud, C., 2009. Estimating required information size
+by quantifying diversity in random-effects model meta-analyses. BMC Med. Res.
+353R.S. Oliveri et al. / Neurobiology of Disease 62 (2014) 338–353therapy in acute myocardial infarction. An overview of results from randomized
+controlled trials. JAMA 270, 1589–1595.
+Tetzlaff, W., Okon, E.B., Karimi-Abdolrezaee, S., Hill, C.E., Sparling, J.S., Plemel, J.R., Plunet,
+W.T., Tsai, E.C., Baptiste, D., Smithson, L.J., Kawaja, M.D., Fehlings, M.G., Kwon, B.K.,
+2011. A systematic review of cellular transplantation therapies for spinal cord injury.
+J. Neurotrauma 28, 1611–1682.
+Thompson, S.G., Higgins, J.P., 2002. How should meta-regression analyses be undertaken
+and interpreted? Stat. Med. 21, 1559–1573.
+Thorlund, K., Devereaux, P.J., Wetterslev, J., Guyatt, G., Ioannidis, J.P., Thabane, L., Gluud,
+L.L., Als-Nielsen, B., Gluud, C., 2009. Can trial sequential monitoring boundaries
+reduce spurious inferences from meta-analyses? Int. J. Epidemiol. 38, 276–286.
+Thorlund, K., Imberger, G., Walsh, M., Chu, R., Gluud, C., Wetterslev, J., Guyatt, G.,
+Devereaux, P.J., Thabane, L., 2011. The number of patients and events required to
+limit the risk of overestimation of intervention effects in meta-analysis—a simulation
+study. PLoS One 6, e25491.
+Trivedi, A., Olivas, A.D., Noble-Haeusslein, L.J., 2006. Inflammation and spinal cord injury:
+infiltrating leukocytes as determinants of injury and repair processes. Clin. Neurosci.
+Res. 6, 283–292.
+Trojahn Kølle, S.F., Oliveri, R.S., Glovinski, P.V., Kirchoff, M., Mathiasen, A.B., Elberg, J.J.,
+Andersen, P.S., Drzewiecki, T.D., Fischer-Nielsen, A., 2013. Pooled human platelet
+lysate versus fetal bovine serum—investigating the proliferation rate, chromosome
+stability and angiogenic potential of human adipose tissue-derived stem cells
+intended for clinical use. Cytotherapy 15, 1086–1097.
+Uccelli, A., 2013. Mesenchymal stem cells exert a remarkable regenerative effect requiring
+minimal CNS integration. Exp. Neurol. 247, 292–295.Methodol. 9, 86.
+Wood, L., Egger, M., Gluud, L.L., Schulz, K.F., Juni, P., Altman, D.G., Gluud, C., Martin, R.M.,
+Wood, A.J., Sterne, J.A., 2008. Empirical evidence of bias in treatment effect estimates
+in controlled trials with different interventions and outcomes: meta-epidemiological
+study. BMJ 336, 601–605.
+Wright, K.T., El Masri, W., Osman, A., Roberts, S., Chamberlain, G., Ashton, B.A., Johnson,
+W.E., 2007. Bone marrow stromal cells stimulate neurite outgrowth over neural
+proteoglycans (CSPG), myelin associated glycoprotein and Nogo-A. Biochem.
+Biophys. Res. Commun. 354, 559–566.
+Wright, K.T., El Masri, W., Osman, A., Chowdhury, J., Johnson,W.E., 2011. Bonemarrow for
+the treatment of spinal cord injury: mechanisms and clinical applications. Stem Cells
+29, 169–178.
+Wu, T., Li, Y., Bian, Z., Liu, G., Moher, D., 2009. Randomized trials published in some
+Chinese journals: how many are randomized? Trials 10, 46.
+Yuan, W., Sipp, D., Wang, Z.Z., Deng, H., Pei, D., Zhou, Q., Cheng, T., 2012. Stem cell science
+on the rise in China. Cell Stem Cell 10, 12–15.
+Zhang, Q.Z., Su, W.R., Shi, S.H., Wilder-Smith, P., Xiang, A.P., Wong, A., Nguyen, A.L., Kwon,
+C.W., Le, A.D., 2010. Human gingiva-derived mesenchymal stem cells elicit
+polarization of M2 macrophages and enhance cutaneous wound healing. Stem Cells
+28, 1856–1868.
+Zhang, D., Freemantle, N., Cheng, K.K., 2011. Are randomized trials conducted in China or
+India biased? A comparative empirical analysis. J. Clin. Epidemiol. 64, 90–95.
+Zhou, C., Zhang, C., Chi, S., Xu, Y., Teng, J., Wang, H., Song, Y., Zhao, R., 2009. Effects of
+human marrow stromal cells on activation of microglial cells and production of
+inflammatory factors induced by lipopolysaccharide. Brain Res. 1269, 23–30.Teo, K.K., Yusuf, S., Furberg, C.D., 1993. Effects of prophylactic antiarrhythmic drug

@@ -1,0 +1,1297 @@
+NEUROSYSTEMS
+Chondroitinase ABC promotes compensatory sprouting of
+the intact corticospinal tract and recovery of forelimb
+function following unilateral pyramidotomy in adult mice
+Michelle L. Starkey,* Katalin Bartus, Andrew W. Barritt and Elizabeth J. Bradbury
+Regeneration Group, King’s College London, Wolfson Centre for Age-Related Diseases, Hodgkin Building, Guy’s Campus,
+London Bridge, London, SE1 IUL, UK
+Keywords: chondroitin sulphate proteoglycans, extracellular matrix, forelimb asymmetry, glial scar, plasticity
+Abstract
+Chondroitin sulphate proteoglycans (CSPGs) are extracellular matrix molecules whose inhibitory activity is attenuated by the
+enzyme chondroitinase ABC (ChABC). Here we assess whether CSPG degradation can promote compensatory sprouting of the
+intact corticospinal tract (CST) following unilateral injury and restore function to the denervated forelimb. Adult C57BL/6 mice
+underwent unilateral pyramidotomy and treatment with either ChABC or a vehicle control. Significant impairments in forepaw sym-
+metry were observed following pyramidotomy, with injured mice preferentially using their intact paw during spontaneous vertical
+exploration of a cylinder. No recovery on this task was observed in vehicle-treated mice. However, ChABC-treated mice showed
+a marked recovery of function, with forelimb symmetry fully restored by 5 weeks post-injury. Functional recovery was associated
+with robust sprouting of the uninjured CST, with numerous axons observed crossing the midline in the brainstem and spinal cord
+and terminating in denervated grey matter. CST fibres in the denervated side of the spinal cord following ChABC treatment were
+closely associated with the synaptic marker vGlut1. Immunohistochemical assessment of chondroitin-4-sulphate revealed that
+CSPGs were heavily digested around lamina X, alongside midline crossing axons and in grey matter regions where sprouting
+axons and reduced peri-neuronal net staining was observed. Thus, we demonstrate that CSPG degradation promotes midline
+crossing and reinnervation of denervated target regions by intact CST axons and leads to restored function in the denervated
+forepaw. Enhancing compensatory sprouting using ChABC provides a route to restore function that could be applied to disorders
+such as spinal cord injury and stroke.
+Introduction
+Functional recovery and axonal regeneration following injury to the
+adult CNS is restricted by both intrinsic (Neumann & Woolf, 1999;
+Plunet et al., 2002; Goldberg et al., 2004) and extrinsic (Silver &
+Miller, 2004; Fawcett, 2006; Cafferty et al., 2008; Schwab, 2010) fac-
+tors. Therefore, methods that enhance the ability of spared CNS axons
+to sprout into areas denervated by an injury provide a potential route
+for promoting functional improvements (Thallmair et al., 1998;
+Bareyre & Schwab, 2003; Bradbury & McMahon, 2006; Cafferty &
+Strittmatter, 2006; Brus-Ramer et al., 2007; Maier et al., 2008).
+A number of factors have been identified that restrict CNS plasticity
+in the adult. For example, chondroitin sulphate proteoglycans
+(CSPGs) are inhibitory extracellular matrix molecules that play a role
+in synaptic stabilization and in limiting neuronal plasticity (Hockfield
+et al., 1990; Yamaguchi, 2000; Corvetti & Rossi, 2005). The
+inhibitory nature of CSPGs can be attenuated by the enzyme chondro-
+itinase ABC (ChABC), which degrades inhibitory glycosaminoglycan
+(GAG) side-chains from the CSPG core protein, rendering them less
+inhibitory to growth and reorganisation. There are now numerous
+examples in the literature demonstrating enhanced growth and regen-
+eration of injured axons following in vivo delivery of ChABC, with
+many of these studies also demonstrating improvements in functional
+recovery (Bradbury et al., 2002; Yick et al., 2004; Caggiano et al.,
+2005; Fouad et al., 2005; Houle et al., 2006; Tester & Howland,
+2008; Tom et al., 2009a; Karimi-Abdolrezaee et al., 2010; reviewed
+in Bradbury & Carter, 2011). Recovery observed after injury and
+ChABC treatment, however, is unlikely to be solely due to regenera-
+tion of injured axons. Other mechanisms, such as the plasticity of
+intact systems, are likely to contribute to the striking effects on func-
+tion achieved following CSPG digestion (reviewed in Kwok et al.,
+2008; Bartus et al., 2011). Indeed, plasticity following CSPG modifi-
+cation has previously been demonstrated in a number of CNS systems.
+For example, disruption of CSPG-enriched peri-neuronal nets (PNNs)
+with ChABC injections can reactivate experience-dependent plasticity
+within the adult visual cortex following monocular deprivation
+(Pizzorusso et al., 2002). ChABC injections can also promote tran-
+sient sprouting of intact Purkinje axons in the cerebellum (Corvetti &
+Correspondence: Dr E. J. Bradbury, as above.
+E-mail: elizabeth.bradbury@kcl.ac.uk
+*Present address: Balgrist University Hospital, University of Zurich, Forchstrasse 340,
+8008, Zurich, Switzerland
+Received 31 October 2011, revised 26 August 2012, accepted 12 September 2012
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, Vol. 36, pp. 3665–3678, 2012 doi:10.1111/ejn.12017
+European Journal of Neuroscience
+Rossi, 2005) and sprouting of spared retinal axons in the denervated
+superior colliculus when combined with brain-derived neurotrophic
+factor (Tropea et al., 2003). Moreover, functional collateral sprouting
+of forelimb sensory afferents within partially denervated brainstem
+nuclei has been demonstrated following spinal cord injury and
+ChABC treatment, with evidence of terminal field expansion in areas
+of CSPG degradation (Massey et al., 2006). Compensatory sprouting
+of sensory projections has also been demonstrated within the spinal
+cord following a spared root injury, with a single injection of ChABC
+into the spinal cord leading to primary afferent terminal field expan-
+sion and recovery of function in the denervated forelimb (Cafferty
+et al., 2008). Thus, plasticity within the brain and in sensory projec-
+tions to the brainstem and spinal cord following ChABC treatment has
+been convincingly demonstrated. However, whether CSPG degrada-
+tion can affect plasticity of descending spinal projections important
+for motor function has not yet been determined. Aberrant sprouting of
+the lesioned corticospinal tract (CST), a major descending motor path-
+way, has been observed rostral to a spinal cord injury following
+ChABC treatment and dorsal column crush injury (Barritt et al.,
+2006) or spinal contusion (Karimi-Abdolrezaee et al., 2010). These
+studies also demonstrated increased sprouting of descending seroto-
+nergic projections caudal to the spinal injury following ChABC treat-
+ment (Barritt et al., 2006; Karimi-Abdolrezaee et al., 2010).
+Similarly, serotonergic fibre sprouting has been demonstrated in hemi-
+sected cats following ChABC treatment, and this plasticity was
+accompanied by functional recovery (Tester & Howland, 2008).
+Recent evidence has also shown that intraspinal ChABC promotes
+serotonergic fibre sprouting and is able to restore activity to the paraly-
+sed diaphragm following cervical hemisection, an effect that is aug-
+mented when combined with a regeneration-promoting peripheral
+nerve graft (Alilain et al., 2011).
+Thus, plasticity of CST and/or serotonergic projections may con-
+tribute to the functional recovery observed following ChABC treat-
+ment. However, determining sprouting vs. regenerative growth in
+injury models involving partial transection of the spinal cord is diffi-
+cult as various spared spinal projections, as well as minor components
+of injured projections, could contribute to the observed effects. Here
+we determine whether ChABC treatment can promote functionally
+useful compensatory sprouting of an intact descending motor projec-
+tion, using a unilateral pyramidotomy model in the adult mouse (Star-
+key et al., 2005). This injury model specifically allows the assessment
+of anatomical reorganisation of the intact CST, and has previously
+been used to demonstrate compensatory sprouting and functional
+recovery following neutralisation of myelin inhibitors (Thallmair
+et al., 1998; Z’Graggen et al., 1998; Cafferty & Strittmatter, 2006;
+Lee et al., 2010) and following enhanced activity in the intact tract
+(Brus-Ramer et al., 2007; Maier et al., 2008; Carmel et al., 2010;
+Starkey et al., 2011). Using this model we demonstrate that ChABC
+treatment enables robust sprouting of intact CST fibres across the mid-
+line to innervate denervated grey matter territory in the brainstem and
+spinal cord. Importantly, plasticity of the intact CST was associated
+with recovery of forepaw symmetry. These data provide novel
+evidence that modifying CSPGs post-injury can lead to compensatory
+reorganisation of a major descending motor pathway and can restore
+function to the denervated forelimb.
+Materials and methods
+Animals and surgery
+The study was performed in accordance with protocols approved by
+King’s College London. All surgical procedures were performed in
+accordance with UK Home Office regulations [European
+Communities Council Directive of 24 November 1986 (86/609/
+EEC)] and sterile precautions were used throughout. Thirty-one adult
+male C57BL/6 mice (Harlan, UK; 20–25 g) were used. Mice were
+singly housed in cages containing nesting material (sawdust and
+paper), but no other environmental enrichment. There were three
+experimental groups in the study: sham (uninjured); pyramidotomy
+plus vehicle; pyramidotomy plus ChABC. Initial numbers were
+n = 12 for each of the lesioned groups, plus n = 7 sham controls.
+However, two mice were excluded at the end of the study, following
+histological analysis, due to incomplete pyramidotomy (one from
+each of the treated groups); therefore, final numbers were n = 11 for
+each of the lesioned groups, plus n = 7 sham controls. These mice
+were either culled at 11 days post-injury for histological assessment
+of CSPG degradation (n = 4 per lesioned group, n = 2 sham con-
+trols), or underwent functional testing for 6 weeks post-injury (n = 7
+per lesioned group, n = 5 sham controls) followed by anatomical
+tracing of the CST and histological assessments at 9 weeks post
+injury (n = 5 per group for quantification of midline sprouting plus
+an additional n = 2 per group for the two lesioned groups to assess
+midline sprouting in horizontal sections).
+Insertion of intracerebroventricular (I.C.V.) cannula
+Mice were anaesthetised with a mixture of medetomidine (0.5 mg/
+kg; Parke-Davis, Gwent, UK) and ketamine (75 mg/kg; Parke-
+Davis, Gwent, UK) injected intraperitoneally (i.p.). I.C.V. cannula-
+tion was as previously described (Carter et al., 2008). Briefly,
+anaesthetised animals were placed into a stereotaxic frame, the skull
+was exposed and a small hole made with a 25-gauge needle at the
+following coordinates: 0.5 from bregma, 1 mm lateral to the mid-
+line. An I.C.V. cannula, composed of a 30-gauge needle with a 90°
+bend 2.5 mm from the tip connected to 40 mm of flexible silastic
+tubing (VWR, UK), was inserted into the hole and secured into
+place using cyanoacrylate gel (RS Components, UK). The skin was
+then sutured with 4-0 Vicryl (Ethicon, Johnson & Johnson Intl) over
+the cannula leaving only the tubing exposed. Animals were placed
+under a heated lamp to recover. An hour after the time of anaesthe-
+sia administration, animals were given atipamezole (1 mg/kg; Parke-
+Davis) subcutaneously to reverse anaesthesia, and were allowed to
+recover fully before being returned to their home cage.
+Unilateral pyramidotomy surgery
+Two days after cannula surgery, mice were anaesthetised with a
+mixture of medetomidine and ketamine as described above and
+received a unilateral pyramidotomy lesion, whereby the CST was
+completely transected on one side at the level of the medulla, as
+described previously (Starkey et al., 2005). Briefly, a ventral mid-
+line incision was made, the sterno-hyoid and -thyroid muscles were
+lightly retracted, and the trachea and oesophagus slightly displaced.
+Blunt deep dissection was performed to reveal the surface of the
+occipital bone, and the ventrocaudal part was partially removed to
+expose the medullary pyramid. The dura was opened and the pyra-
+midal tract incised on the right-hand side with iridectomy scissors
+(FST, cutting width of 0.5 mm, depth of 0.25 mm). The oesopha-
+gus, trachea and muscles were repositioned, and the skin sutured.
+Control animals were anaesthetised as above but underwent sham
+surgery, in which the occipital bone was exposed and then the
+wound closed. An hour after the time of anaesthesia administration
+mice were given atipamezole, as before, and were allowed to
+recover before being returned to their home cage, which was placed
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3666 M. L. Starkey et al.
+on a heated blanket for 24 h. Weight was recorded once a week fol-
+lowing surgery. No differences in body weight loss or recovery were
+observed between the two lesioned groups: in both cases some body
+weight loss occurred immediately after lesion surgery, but this was
+never > 5%, followed by a weekly weight gain throughout the
+remainder of the study.
+Delivery of ChABC
+Immediately after the unilateral pyramidotomy lesion, mice received
+either 6 lL high-purity, protease-free ChABC (Seikagaku; 10 U/mL
+in sterile saline) followed by a 3-lL saline flush, delivered as a
+bolus injection via the externalised I.C.V. cannula tubing, which
+was sealed after injection with cyanoacrylate gel. Control-treated rats
+were treated with vehicle (9 lL of saline; Normasol, Sterets, con-
+taining 0.9% w/v NaCl; Medlock Medical). Saline was used as the
+control treatment in line with previous studies (Bradbury et al.,
+2002; Barritt et al., 2006; Houle et al., 2006; Cafferty et al., 2008;
+Tom et al., 2009b; Alilain et al., 2011) and because previous work
+has shown that treatment with saline or a control enzyme such as
+penicillinase produces comparable outcomes (Bradbury et al., 2002).
+Further injections were performed on days 2, 4, 6, 8 and 10 follow-
+ing pyramidotomy, whereby mice were anaesthetised with 5% iso-
+fluorane (Abbott Laboratories) in oxygen, and received either
+ChABC or vehicle injections, as described above. Following each
+treatment, mice were allowed to recover from anaesthesia in their
+home cage before being returned to their holding room.
+Behavioural testing
+Behavioural testing was carried out by an experimenter blinded to the
+treatment group. Mice were placed in the cylinder twice prior to sur-
+gery for habituation and to obtain baseline scores, and were then
+tested on days 2, 7, 14, 21, 28, 35 and 42 post-surgery. On day 2,
+when behavioural testing coincided with drug delivery, behavioural
+testing was completed prior to drug treatment. The forelimb asymme-
+try test examines forelimb use during spontaneous vertical exploration
+of a cylinder and is sensitive to limb use asymmetries (Liu et al.,
+1999; Schallert et al., 2000; Starkey et al., 2005). The method for
+testing and scoring of forelimb asymmetry in mice was as previously
+described (Starkey et al., 2005). Briefly, mice were placed in a clear
+Perspex cylinder (300 mm in height, 80 mm in diameter) for 5 min.
+A mirror was placed at an angle behind the cylinder so that the fore-
+paws could be viewed at all times. The testing session was videotaped
+(Sony digital video camera recorder, DCR-TRV60E), and an experi-
+menter blinded to the treatment group scored forepaw use at a later
+date. The paw used for weight support during a rear was scored as
+described before (Starkey et al., 2005). This produced a percentage
+score for the use of the left paw, the right paw and both paws for each
+animal. To give a total percentage score for the use of each paw, the
+percentage score for both paws was halved. This halved ‘both’ score
+was then added to the total percentage score for the left paw and to the
+total percentage score for the right to give a ‘true’ score for the total
+use of the left and right paws, respectively.
+Anterograde tracing of the intact CST
+Following the completion of behavioural testing (6 weeks post-
+injury), mice were deeply anaesthetised with medetomidine and
+ketamine (as described above), positioned in a stereotaxic frame and
+the skull exposed. The intact CST projection was labelled using the
+anterograde tracer biotinylated dextran amine [BDA; 10 000 MW,
+Molecular Probes; 10% in 0.01 M phosphate-buffered saline (PBS)],
+injected into six sites over the right (intact) primary sensorimotor
+cortex. All sites were 1.5 mm ventral to the surface of the skull.
+The injection coordinates of anterior–posterior (AP) and lateral (L)
+from bregma (in mm) were as follows: site 1, AP = 0.0, L = +1.0;
+site 2, AP = +1.0, L = +1.0; site 3, AP = +2.0, L = +1.0; site 4,
+AP = +1.5, L = +1.5; site 5, AP = +2.0, L = +2.0; and site 6,
+AP = +1.0, L = +2.0. A 30-gauge stainless-steel injection cannula
+connected to a microsyringe by polyethylene tubing (Scientific Lab-
+oratory Supplies, UK) was filled with BDA (0.5 lL/site). Injections
+were made at a rate of 0.25 lL/min using a microinfusion pump.
+After infusion, the injection cannula was left in place for a further
+1 min before being carefully withdrawn. An hour after the time of
+anaesthesia administration, animals were given atipamezole, as
+above, and were allowed to recover before being returned to their
+home cage.
+Tissue processing
+Mice were culled at 11 days post-injury for assessment of CSPG
+digestion, or 9 weeks post-injury (i.e. 3 weeks after BDA tracing)
+for assessment of CST sprouting. All mice were deeply anaesthe-
+tised with pentobarbitone (80 mg/kg, intraperitoneally; Merial Ani-
+mal Health, Essex, UK) and transcardially perfused with 10 mL
+saline followed by 50 mL paraformaldehyde (PFA; 4% in 0.1 M
+phosphate buffer). Blocks of tissue containing the lesion site in the
+brainstem and the cervical spinal cord were dissected, post-fixed in
+4% PFA (2 h at 4 °C) and stored in PBS + 0.1% NaN3 (Sigma-
+Aldrich) solution overnight at 4 °C. The following day they were
+blocked in 10% gelatine (Sigma-Aldrich), the gelatine blocks were
+fixed in 4% PFA for 4 h at 4 °C, then transferred to a solution of
+PBS + 0.1% NaN3 and stored at 4 °C until sectioning. Transverse
+sections [for protein kinase C (PKC)-c, BDA, chondroitin-4-sulphate
+(C-4-S) and Wisteria floribunda agglutinin (WFA)] and horizontal
+sections (for BDA and vGlut1) were cut on a vibratome at 30 lm,
+and the sections stored in PBS + 0.1% NaN3 at 4 °C until immuno-
+fluorescence staining. All stained sections were visualised using a
+Carl Zeiss Axioplan 2 Imaging fluorescence microscope with the
+Carl Zeiss AxioVision LE 4.3 software programme (Carl Zeiss).
+Immunohistochemistry
+Assessment of lesion
+Sections through the brainstem and spinal cord were immunostained
+with an antibody against the PKC-c, as previously described (Brad-
+bury et al., 2002; Starkey et al., 2005, 2011; Barritt et al., 2006), to
+visualise the CST and to determine whether unilateral pyramidotomy
+accurately transected one side of the CST, leaving the other
+side intact. All antibodies were diluted in PBS + 0.2% Triton
+X-100 + 0.1% NaN3, unless otherwise stated. Free-floating sections
+were incubated with rabbit anti-PKC-c (1 : 200; Santa Cruz Bio-
+technology) overnight, followed by donkey anti-rabbit tetramethyl-
+rhodamine-5-(and 6)-isothiocyanate (TRITC; 1 : 200, Jackson) for
+4 h. Sections were then mounted on Superfrost plus microscope
+slides (BDH Laboratory Supplies, UK) and coverslipped in Vecta-
+shield mounting medium (Vector Laboratories).
+Visualisation of BDA tracing
+BDA-labelled CST fibres were visualised in transverse sections
+through the brainstem and cervical spinal cord (n = 5 per group)
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+Chondroitinase promotes corticospinal tract plasticity 3667
+using tyramide signal amplification, as previously described (Barritt
+et al., 2006). Briefly, sections were incubated in the following
+reagents: avidin-biotin-complex (ABC) solution (1 : 5, in PBS; Vec-
+tor Laboratories) for 30 min; biotinyl tyramide (1 : 75 in amplifica-
+tion diluent; PerkinElmer Life Sciences) for 10 min; extra-avidin
+fluorescein isothiocyanate (FITC; 1 : 500; Sigma) for 2 h. Sections
+were then mounted onto slides and coverslipped as above. Visualisa-
+tion of BDA labelling was also performed in horizontal sections
+from the lesioned and treated groups (n = 2 animals from each) for
+qualitative assessments of BDA labelling in the horizontal plane and
+for visualising vGlut1-BDA-labelled axon varicosities in sprouting
+CST fibres after treatment. Double-labelling was performed using
+tyramide signal amplification for BDA (as above) followed by
+immunohistochemistry for the synaptic marker vGlut1 by incubation
+in the following: rabbit anti-vGlut1 (1 : 500; Synaptic Systems)
+overnight; and then donkey anti-rabbit Alexa 546 (1 : 1000; Invitro-
+gen) for 4 h. Sections were then mounted onto slides and covers-
+lipped as above.
+Quantification of BDA-labelled CST midline crossing
+Sprouting of BDA-labelled intact CST axons across the midline into
+denervated areas was quantified in transverse sections from the
+brainstem (at the level of the pyramidal decussation; n = 3 sections
+per animal) and cervical spinal cord (levels C5–C7, which innervate
+the forelimb; n = 6 sections per animal, n = 2 each from C5, C6,
+C7) from n = 5 mice per treatment group. All sections were photo-
+graphed under the same exposure and montages were made. For
+each section montage the mean pixel intensity inside a box
+(350 9 150 lm) was measured at five separate regions in the grey
+matter of the denervated (not BDA traced) side using NIH ImageJ
+(version 1.38; National Institutes of Health, Bethesda, MD, USA)
+by an experimenter blinded to the treatment group. The intensity of
+each of these boxes was recorded, and the mean of the five boxes
+was calculated for each section. A background reading was then
+taken for each section in a region of the grey matter that did not
+contain any BDA-labelled fibres, and this background value was
+subtracted from the mean pixel intensity for the denervated side of
+the spinal cord for each section to give a ‘corrected mean pixel
+intensity’. To adjust for differences in BDA labelling efficiency
+between animals, a ‘tracing efficiency’ reading was taken in the
+traced portion of the tract in the dorsal columns and averaged over
+all sections from one animal. The previously calculated corrected
+mean pixel intensity was then divided by this tracing efficiency
+value for each animal to give the normalised value for sprouting.
+Normalised values were averaged across sections to give a mean
+value for each animal (for both the brainstem region and the cervical
+spinal cord) from which group means were then calculated. The data
+reported are the normalised value of sprouting for the denervated
+side as a percentage of the fibre labelling on the innervated side.
+The same measurements were also carried out for the innervated
+(BDA traced) side to determine whether there were any differences
+in CST innervation within the intact side following treatment.
+Assessment of CSPG digestion
+To assess the extent of CSPG digestion, sections of brainstem and
+spinal cord were immunostained with anti-C-4-S antibody,
+which binds the stub region remaining following ChABC digestion of
+4-sulphated CSPGs, using tyramide signal amplification as previously
+described (Barritt et al., 2006; Carter et al., 2008). Free-floating tissue
+sections were incubated in the following: hydrogen peroxide (0.3%)
+for 20 min; mouse monoclonal anti-C-4-S (1 : 5000; ICN) overnight;
+biotinylated horse anti-mouse secondary antibody (1 : 400; Jackson
+ImmunoResearch) for 90 min; ABC solution (1 : 5 in PBS; VectorL-
+abs) for 30 min; biotinyl tyramide (1 : 75 in amplification diluent;
+PerkinElmer Life Sciences) for 10 min; and Extra-avidin FITC
+(1 : 500; Sigma) for 2 h. Sections were then mounted onto slides and
+coverslipped (as above). For quantification of CSPG digestion in
+lesioned and treated mice, sections (n = 3 per animal, one from each
+of the levels C5, C6 and C7, where CST sprouting was quantified)
+were photographed under the same exposure and montages were
+made. For each section, montage intensity measurements were
+obtained in three boxes placed in the spinal grey matter (Fig. 5A and
+B), using NIH imageJ software, as above, and a background reading
+(taken from a region that did not contain any C-4-S-positive immu-
+nolabelling) was subtracted to give corrected mean intensities per ani-
+mal. Mean intensities were then derived for each treatment group. To
+evaluate degradation of PNN CSPGs, spinal cord sections were pro-
+cessed for WFA histochemistry by incubation in the following:
+TRITC-conjugated WFA (1 : 200; Patricell) overnight. Sections were
+then mounted and coverslipped as above.
+Statistics
+All statistical tests were carried out with the Sigma Stat 3.0.1 (SPSS)
+statistical package. Left and right forepaw symmetry in the rearing
+task (% left and% right paw use) was compared using a two-way
+repeated-measures (RM) analysis of variance (ANOVA); C-4-S intensi-
+ties within three regions were compared between groups using a
+two-way ANOVA; and CST sprouting was compared between groups
+in two regions (CST decussation and cervical spinal cord) using a
+one-way ANOVA. All post hoc comparisons were made using the Stu-
+dent–Newman–Keuls test. Correlations of behavioural function and
+anatomical sprouting were performed on individual animals by plot-
+ting percentage left paw use against percentage sprouting in the left
+spinal cord for lesioned animals treated with ChABC (n = 5 of the
+animals that underwent behavioural testing and also had BDA trac-
+ing), and correlation coefficients were calculated using Pearson’s
+correlation test. Significance for all tests was set at P < 0.05, and
+data are presented as mean ± standard error except where otherwise
+stated.
+Results
+Histological assessment of lesion
+To examine plasticity of intact CST projections after injury to the
+contralateral CST, we performed a unilateral pyramidotomy to fully
+transect the right pyramidal tract in the medulla oblongata, leaving
+the left pyramidal tract intact. The extent of the pyramidotomy
+lesion was determined using immunostaining for PKCc (Fig. 1). In
+sham (uninjured) control mice, positive PKCc immunofluorescent
+staining of the CST was present bilaterally in the pyramidal tracts
+(Fig. 1A), at the level of the pyramidal tract decussation (Fig. 1C),
+and within the dorsal funiculi in the cervical spinal cord (Fig. 1E).
+Following unilateral pyramidotomy, positive PKCc immunofluores-
+cent staining was only present unilaterally in the left pyramidal tract
+(Fig. 1B), and in the left tract crossing over to the right to project
+dorsally at the level of the pyramidal tract decussation (Fig. 1D).
+Below the level of the decussation, a lesion of the right pyramidal
+tract will denervate the CST on the left side of the spinal cord;
+therefore, in the cervical spinal cord positive PKCc immunofluores-
+cent staining was present unilaterally in the right dorsal funiculus
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3668 M. L. Starkey et al.
+(Fig. 1F). Two lesioned mice (n = 1 from each of the treatment
+groups) did not have a complete lesion (i.e. the pyramidal tract was
+partially intact on the denervated side) and were therefore excluded
+from the study. All other mice were successfully lesioned, with a
+complete unilateral transection of the right pyramidal tract.
+Ch ABC promotes recovery of forelimb symmetry following
+unilateral pyramidotomy
+During pre-surgery baseline testing, mice in all groups used their left
+and right forepaws equally for weight support (note that a score of
+50% indicates symmetrical limb usage; higher than 50% indicates a
+preference for that particular paw; and below 50% indicates less pref-
+erence for that paw) during a rear (sham: 48.6 ± 3.4% left vs.
+51.4 ± 3.4% right; Fig. 2A; pyramidotomy and vehicle: 49.8 ± 0.7%
+left vs. 50.2 ± 0.7% right; Fig. 2B; pyramidotomy and ChABC:
+51.7 ± 1.6% left vs. 48.3 ± 1.6% right; Fig. 2C). Throughout the test-
+ing period, sham mice continued to use both paws equally, with no
+significant differences observed between paw usage throughout (two-
+way RM ANOVA, F2,28 = 0.007, P = 0.94; Fig. 2A). Unilateral pyra-
+midotomy produced a striking effect on forepaw symmetry, with a
+marked preference for using the right forepaw (intact CST) and
+decreased use of the left forepaw (injured CST) following injury (e.g.
+at 2 days post-lesion scores were 28.0% left vs. 72.0% right following
+pyramidotomy and vehicle treatment; and 26.1% left vs. 73.9% right
+following pyramidotomy and ChABC treatment; Fig. 2B and C,
+respectively). In vehicle-treated mice, this lesion-induced asymmetry
+did not recover; mice consistently used the right forepaw significantly
+more often than the left for weight support throughout the entire test-
+ing period (two-way RM ANOVA, F2,42 = 20.2, P = 0.004; post hoc
+analyses revealed significant differences in the use of the left forepaw
+compared with right at every post-lesion time point, P < 0.025, Stu-
+dent–Newman–Keuls; Fig. 2B). In contrast, mice that were treated
+with ChABC following pyramidotomy showed a gradual recovery of
+forepaw symmetry, with increased use of the impaired forepaw occur-
+ring over time following injury (by 21 days post-injury scores were
+41.9 ± 9% left vs. 58.1 ± 9% right), and forepaw symmetry fully
+recovered by 5 weeks post-injury (at 35 days post-injury scores were
+51.8 ± 3.7% left vs. 48.2 ± 3.7% right; Fig. 2C), with a significant
+difference observed in the use of the two forepaws in the first 2 weeks
+following injury but no significant differences thereafter (two-way
+RM ANOVA, F2,42 = 5.2, P < 0.001; post hoc analyses revealed signifi-
+cant differences in left vs. right forepaw use at 2, 7 and 14 days post-
+injury, P < 0.05, but no significant differences between forepaw use
+from 3 weeks post-injury until the end of the 6-week testing period,
+P > 0.1, Student–Newman–Keuls; Fig. 2C). No significant differ-
+ences were observed in the forepaw used to push off with or the fore-
+paw used to land on for any of the time points post-surgery (data not
+shown), which is in agreement with our previous observations (Star-
+key et al., 2005). Thus, we have shown that following unilateral pyra-
+midotomy, mice have a significantly reduced tendency to use their left
+(lesioned CST) forepaw for weight support; this effect was robust and
+lasted for the entire testing period. Mice receiving ChABC treatment
+show a full recovery of this deficit.
+Ch ABC promotes sprouting of the intact CST following
+unilateral pyramidotomy
+Immunofluorescent visualization of BDA, injected into the cortex to
+label the intact CST, was used to assess axonal sprouting into
+A B
+C D
+E F
+Fig. 1. Unilateral pyramidotomy transects the CST on one side, leaving the other side intact. PKCc immunohistochemistry to identify the CST in transverse
+sections through the brainstem and spinal cord reveals bilateral staining of the CST (arrows) in an uninjured (sham) animal, apparent in the pyramidal tracts
+(A), the pyramidal tract decussation (C) and in the dorsal columns of the cervical spinal cord (E). Following unilateral pyramidotomy, positive PKCc immuno-
+reactivity (arrows) was only present in the intact CST, in the left pyramidal tract (B), at the decussation from left pyramidal tract to right dorsal spinal cord (D),
+and in the intact CST projecting in the right side of the dorsal columns in the cervical spinal cord (F). Scale bars: 500 lm.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+Chondroitinase promotes corticospinal tract plasticity 3669
+denervated regions of the brainstem and spinal cord. In all mice
+BDA-labelled axons were evident in the pyramidal tract ipsilateral
+to the injection (left side), and no labelled axons were seen in the
+contralateral (right) pyramidal tract (data not shown). In sham (unin-
+jured) mice, at the level of the pyramidal decussation, most CST
+axons decussated and projected dorsally to the opposite side (to
+form the main CST projection in the dorsal columns), with a small
+contingent of lateral projecting terminals collecting in bundles in the
+dorsomedial and dorsolateral grey matter (Fig. 3A); very few BDA-
+labelled axons were apparent in the grey matter of the unlabelled
+(left) side at the level of pyramidal decussation (Fig. 3A). In the cer-
+vical spinal cord of sham mice, BDA-labelled CST axons were
+apparent in the right dorsal column with profuse terminal arborisa-
+tion in the ipsilateral spinal cord grey matter (Fig. 3B). These termi-
+nals were spread throughout the intermediate and ventral grey
+matter (mainly in laminae V, VI and VII) on the right side of the
+cord (ipsilateral to the labelled projection), with very few BDA-
+labelled axons present in the unlabelled (left) side (Fig. 3B).
+Following unilateral pyramidotomy and vehicle treatment, the
+BDA-labelled intact CST projection pattern was similar to that
+observed in sham controls and followed the normal pattern of CST
+innervation, with the majority of labelled axon terminals observed
+on the innervated (uninjured) side and very few fibres observed
+crossing the midline into the denervated side at either the level of
+the pyramidal decussation (Fig. 3C) or the cervical spinal cord
+(Fig. 3D). In contrast, following unilateral pyramidotomy and treat-
+ment with ChABC, there was a dramatic effect on sprouting of
+BDA-labelled intact CST axons across the midline to branch into
+the denervated side of the brainstem and spinal cord, with long,
+branching BDA-labelled axons apparent in the denervated side at
+the level of CST decussation (Fig. 3E), and robust sprouting of CST
+axons observed in the cervical spinal cord, with numerous labelled
+axons appearing to cross the midline to branch into the denervated
+(left) side of the spinal cord within the intermediate and ventral grey
+matter (Fig. 3F).
+Quantification of CST midline crossing
+CST sprouting measurements in the brainstem at the level of the
+pyramidal decussation revealed that the number of BDA-labelled
+CST axons on the denervated side was low when expressed as a
+percentage of the labelled axons on the innervated side in the sham
+(uninjured) group, and in animals with unilateral pyramidotomy and
+vehicle treatment (13.0 ± 5.9 and 21.4 ± 5.0%, respectively;
+Fig 3G). There was no significant difference between these two
+groups (one-way ANOVA, F2,12 = 16.4, P = 0.23, Student–Newman–
+Keuls post hoc tests). However, following unilateral pyramidotomy
+plus ChABC treatment, the percentage of BDA-labelled CST axons
+on the denervated side as a percentage of those on the innervated
+side was significantly increased in comparison to both sham
+and pyramidotomy plus vehicle values (46.35 ± 2.4%; one-way
+ANOVA, F2,12 = 16.4, P < 0.001 and P = 0.002, respectively, Student
+–Newman–Keuls post hoc tests; Fig 3G). Similarly, in the cervical
+spinal cord, few BDA-labelled intact CST axons were observed on
+the denervated side as compared with the labelled side in the sham
+group, and in animals with unilateral pyramidotomy and vehicle
+treatment (8.40 ± 3.9 and 15.60 ± 4.2%, respectively; Fig. 4H), and
+there was no significant difference between the two groups (one-way
+ANOVA, F2,12 = 7.2, P = 0.54). However, there was a robust increase
+in BDA-labelled CST axons on the denervated side in the spinal
+cord following unilateral pyramidotomy plus ChABC treatment
+(48.43 ± 12.2%; significantly higher than sham values and pyramid-
+otomy plus vehicle values; one-way ANOVA, F2,12 = 7.2, P = 0.013
+and P = 0.009, respectively, Student–Newman–Keuls post hoc tests;
+Fig. 3H). No differences in BDA intensity measurements between
+groups were observed on the intact side of the spinal cord (mean
+pixel intensity values: sham 16.65 ± 5.4, pyramidotomy plus vehicle
+11.99 ± 2.1, pyramidotomy plus ChABC 13.47 ± 5.0; one-way
+ANOVA, F2,12 = 0.3, P = 0.73) or the brainstem (mean pixel intensity
+A
+B
+C
+Fig. 2. Chondroitinase ABC (ChABC) promotes recovery of forelimb sym-
+metry following unilateral pyramidotomy. During spontaneous vertical explo-
+ration, uninjured (sham) mice use their left and right paws equally for weight
+support when rearing, with no significant difference in paw usage throughout
+the entire testing period (A). Following unilateral pyramidotomy, mice are
+significantly impaired in their denervated forepaw and preferentially use the
+intact (right) paw for weight support during rearing. In injured mice treated
+with saline, this deficit is maintained throughout the testing period (B). In
+contrast, injured mice treated with ChABC show a robust and significant
+recovery of forelimb symmetry, with increased use of the denervated (left)
+paw apparent over time, such that by 21 days post-injury there is no signifi-
+cant difference in the use of left and right forepaws and a complete recovery
+of forepaw symmetry is apparent by 5 weeks post-injury, which is main-
+tained until the end of the testing period (C). Data are mean percentage paw
+use ± SEM. Asterisks denote significant differences between left and right
+paw use (*P < 0.05; **P < 0.01; two-way RM ANOVA, Student–Newman–
+Keuls post hoc tests).
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3670 M. L. Starkey et al.
+A B
+C D
+E F
+G H
+Fig. 3. Chondroitinase ABC (ChABC) promotes sprouting and midline crossing of the intact CST into denervated grey matter. BDA labelling of the CST in
+transverse sections through the pyramidal decussation (A, C and E) and the C5 spinal cord (B, D and F) shows a normal innervation pattern in sham (uninjured)
+animals (A and B), with a thick bundle of BDA-labelled CST axons at the level of decussation, with some collaterals branching off into grey matter in the right
+side of the brainstem as the CST decussates from left to right, but minimal labelling in grey matter on the left side (A). A similar pattern is observed in the
+brainstem of mice with unilateral pyramidotomy treated with vehicle (B). However, following unilateral pyramidotomy and ChABC treatment, numerous long-
+branching axons are observed sprouting into the denervated (left) side of the brainstem (E). In the spinal cord of sham mice, CST axons are observed in the
+labelled (right) side of the spinal cord in the right dorsal column, where this tract projects, and as arborising terminals in spinal grey matter on the right (inner-
+vated) side (B). In vehicle-treated mice with a unilateral pyramidotomy (which denervates the left side of the cord) the pattern is similar to that of sham con-
+trols, with the majority of labelling apparent on the right (intact) side of the cord and almost no midline crossing axons observed in the denervated (left) side
+(D). In contrast, following ChABC treatment, numerous CST axons can be seen crossing the midline from the intact CST to branch into the denervated (left)
+side of the spinal cord (F). Dashed lines in (D) and (F) represent the regions analysed in horizontal sections in Fig. 4. Mean pixel intensity measurements of
+BDA labelling in the three treatment groups reveal a significant increase in labelled axons in the denervated grey matter at the level of the decussation (G), and
+in the cervical spinal cord (H) following unilateral pyramidotomy and treatment with ChABC. Data are presented as mean pixel intensities ± SEM; asterisks
+indicate significant group differences (*P < 0.05; **P < 0.01; ***P < 0.001, one-way ANOVA, Student–Newman–Keuls post hoc tests). Scale bars represent:
+500 lm.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+Chondroitinase promotes corticospinal tract plasticity 3671
+sham 50.88 ± 6.7, pyramidotomy plus vehicle 41.56 ± 8.2, pyra-
+midotomy plus ChABC 47.41 ± 6.3; one-way ANOVA, F2,12 = 0.4,
+P = 0.68), indicating that ChABC treatment did not promote sprout-
+ing within intact regions and that CST sprouting was specific to the
+side that was denervated. However, it should be noted that due to
+the high density of axons in the uninjured side, the optical measure-
+ments used may not be robust enough to detect small increases in
+axon numbers on the intact side.
+We correlated the behavioural scores of individual animals (taken at
+the 5-week time point, when forelimb symmetry had fully recovered)
+with their CST sprouting measurements in the cervical spinal cord (%
+left paw use was plotted against % sprouting in left spinal cord) for
+lesioned animals treated with ChABC. There was a high correlation
+between % paw use and % sprouting (R2 = 0.71), such that a high
+symmetry score typically corresponded with increased sprouting.
+To further analyse the pattern of CST sprouting, we examined
+midline crossing in horizontal sections from lesioned animals at two
+dorso-ventral levels of the spinal cord (Figs 3D and F, and Fig. 4).
+In mice with a pyramidotomy lesion plus vehicle treatment, the
+labelled bundle of CST axons could be seen projecting the length of
+the dorsal columns, with many terminal arborisations projecting into
+the grey matter ipsilateral to the labelled tract and very few BDA-
+A B
+C D
+E F G H
+Fig. 4. Midline crossing corticospinal tract (CST) fibres make synapses in the denervated spinal cord. Biotinylated dextran amine (BDA) labelling in horizontal
+sections from lesioned animals at two dorso-ventral levels of the spinal cord (see Fig. 3D and F for location) revealed that following unilateral pyramidotomy
+and vehicle treatment, very few fibres extend across the midline into the denervated (left) grey matter, either at the level of the descending CST tract (A) or in
+lamina X below the central canal (C; arrows in A and C denote the few sprouting CST fibres that crossed the midline following vehicle treatment). In contrast,
+following ChABC treatment, numerous BDA-labelled fibres were observed in the denervated (left) spinal cord grey matter at the level of the CST tract
+(B; arrows), and CST sprouting was even more striking in lamina X grey matter, where robust CST innervation was apparent on both intact (right) and dener-
+vated (left) sides of the spinal cord (D; arrows denote some of the many sprouting CST fibres that crossed the midline into denervated grey matter following
+ChABC treatment). High-magnification confocal images show that many of the sprouting CST fibres on the denervated side of the spinal cord following ChABC
+treatment bore synaptic elements (E–H; arrows show boutons co-localised with the presynaptic marker vGlut1, red, and BDA, green), indicating the presence of
+anatomical synapses on sprouting CST fibres following ChABC treatment. Scale bars: 200 lm (A–D); 10 lm (E–H). GM, grey matter; WM, white matter.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3672 M. L. Starkey et al.
+labelled fibres apparent in the grey matter on the opposite (dener-
+vated) side (Fig. 4A). In more ventral sections, beneath the main
+CST projection and ventral to the central canal, again BDA-labelled
+fibres were predominantly observed on the intact side, with very
+few fibres observed crossing the midline (Fig. 4C). In contrast,
+following pyramidotomy plus ChABC treatment, numerous BDA-
+labelled fibres could be seen extending from the main CST projec-
+tion across the midline into denervated grey matter in horizontal
+sections of dorsal spinal cord (Fig. 4B). The effect was even more
+striking in more ventral regions, immediately beneath the central
+canal, where robust CST innervation was apparent on both intact
+and denervated sides of the spinal cord (Fig. 4D). This indicates that
+the majority of sprouting fibres cross the midline within the grey
+matter region around lamina X, rather than across dorsal column
+white matter. Confocal microscopy revealed that many of the BDA-
+labelled fibres on the denervated side of the spinal cord following
+ChABC treatment bore synaptic elements, as they co-localised with
+the presynaptic marker vGlut1, indicating the presence of putative
+anatomical synapses on sprouting CST fibres following ChABC
+treatment (Fig. 4E–H). Because there were virtually no BDA fibres
+observed on the denervated side following lesion and vehicle treat-
+ment, we did not observe any co-labelled vGlut1-BDA axon vari-
+cosities in this group (data not shown).
+Assessing digestion of CSPGs following ChABC treatment
+ChABC digests the CSPG-GAG side-chains attached to the protein
+core of the CSPG molecule, which generates disaccharide ‘stubs’,
+which remain on the proteoglycan core protein. These stubs can be
+revealed by immunohistochemical staining with the C-4-S antibody,
+which does not recognise intact chondroitin sulphate and thus is
+present only where CSPGs have been successfully degraded. In
+serial sections through the cervical spinal cord, there was no positive
+immunofluorescence for C-4-S in sham mice (data not shown) or
+lesioned mice that were treated with saline (Fig. 5A). In contrast,
+following pyramidotomy and I.C.V. delivery of ChABC, intense
+C-4-S immunofluorescence was apparent throughout the cervical
+cord at 11 days post-surgery (i.e. the day after the final ChABC
+administration), with intense C-4-S immunoreactivity observed in
+spinal white matter and, although more diffusely, throughout the
+spinal grey matter, with more intense digestion in several grey mat-
+ter areas, such as lamina X (around the central canal), the region
+where the majority of sprouting fibres crossed the midline, and in
+the ventral horn and intermediate grey matter, the target of midline
+crossing axons (Fig. 5B). Quantification of C-4-S intensity in three
+grey matter regions confirmed negligible C-4-S immunoreactivity in
+spinal grey matter following vehicle treatment, and a significant
+increase in C-4-S intensity following ChABC treatment (significant
+difference between vehicle and ChABC treatment; two-way ANOVA,
+F12 = 110.1, P < 0.001; and within each analysis area, P < 0.001
+box 1 and 3, P = 0.017 box 2, Student–Newman–Keuls post hoc
+tests; Fig. 5C). To assess whether CS-GAG digestion observed at
+the end of ChABC administration led to long-term changes in spinal
+grey matter CSPGs, reactivity for WFA, a marker for CSPG-rich
+PNNs (Pizzorusso et al., 2002), was examined at 9 weeks
+post-injury. In mice treated with vehicle, abundant WFA labelling
+A B
+C D E
+Fig. 5. I.C.V. delivery of chondroitinase ABC (ChABC) degrades CSPGs in spinal cord white and grey matter. C-4-S immunohistochemistry to identify CSPG
+digestion in transverse sections of the C5 spinal cord at 11 days post-surgery (i.e. following 10 days of ChABC delivery) show no digested CSPGs in tissue
+from mice with unilateral pyramidotomy treated with saline (A). In contrast, intense immunoreactivity for C-4-S was apparent following unilateral pyramidoto-
+my and I.C.V. delivery of ChABC (B), with intense digestion apparent in spinal cord white matter and, although more diffusely, throughout the spinal grey
+matter. Intensity measurements confirmed significant CSPG digestion following ChABC treatment compared with vehicle treatment in three grey matter regions
+where CST sprouting was observed: around lamina X (box 1) and in the intermediate (box 2) and ventral (box 3) grey matter (C). WFA histochemistry for
+CSPG-rich PNNs in lesioned mice at 9 weeks post-injury revealed abundant WFA labelling around spinal neurons in the intermediate and ventral grey matter
+in vehicle-treated mice (D; WFA in red and DAPI in blue). In contrast, WFA reactivity was largely absent around spinal grey matter neurons following ChABC
+treatment (E; regions in D and E are equivalent to the box 2 area in A and B), revealing that I.C.V. ChABC treatment leads to long-term changes in spinal grey
+matter CSPGs. Scale bars: 500 lm (A, B); 20 lm (D, E).
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+Chondroitinase promotes corticospinal tract plasticity 3673
+was observed around many spinal neurons in the ventral and inter-
+mediate grey matter (Fig. 5D). In contrast, WFA reactivity was lar-
+gely absent from the spinal grey matter in mice treated with ChABC
+(Fig. 5E), indicating that treatment with ChABC led to long-lasting
+degradation of CSPGs in spinal grey matter areas where sprouting
+fibres were observed.
+To further examine the relationship between CSPG digestion and
+CST sprouting, we looked at the rostro-caudal pattern of C-4-S
+immunoreactivity in the cervical spinal cord at 11 days, and CST
+sprouting in corresponding regions at 9 weeks (Fig. 6). The pattern
+of CSPG digestion was similar at all levels of the cervical enlarge-
+ment, with intense C-4-S reactivity observed in white and grey mat-
+ter (Fig. 6A and C). Correspondingly, CST sprouting was observed
+at all cervical levels, with numerous BDA-labelled fibres crossing
+the midline into denervated grey matter apparent at both high
+(Fig. 6B) and low (Fig. 6D) cervical levels. High-power images
+confirmed intense digestion of CSPGs in lamina X (Fig. 6E and G),
+the region of the grey matter where the majority of sprouting fibres
+crossed the midline (Fig. 6F and H).
+Discussion
+In this study we demonstrate for the first time that degrading CSPGs
+in the spinal cord can promote midline crossing of intact CST axons
+into denervated areas of the spinal cord following unilateral pyra-
+midotomy, and that this compensatory sprouting is associated with
+recovery of forepaw function. BDA-labelled intact CST axons were
+only observed to cross the midline into denervated spinal cord terri-
+tory following lesion and ChABC treatment, with almost exclusively
+unilateral innervation observed in control-treated lesioned mice.
+Accordingly, while the denervated forepaw of control-treated ani-
+mals remained permanently impaired, animals treated with ChABC
+gained full recovery of forepaw symmetry. CSPGs were digested
+throughout the brainstem and cervical spinal cord following ChABC
+treatment, and PNN CSPGs were also reduced around spinal neu-
+rons in regions containing sprouting axons. Sprouting CST fibres
+expressed vGlut1, suggesting that they had made synaptic connec-
+tions in denervated regions of the spinal cord. Thus, CSPG digestion
+can enable compensatory sprouting of the intact CST, which leads
+to restored function in the denervated forepaw.
+Compensatory sprouting of the intact CST following unilateral
+pyramidotomy and ChABC treatment
+ChABC has previously been shown to promote regeneration of
+descending spinal axons (Bradbury et al., 2002; Houle et al., 2006;
+Iseda et al., 2008; Alilain et al., 2011) and to be neuroprotective for
+long-range descending spinal projection neurons (Carter et al., 2008,
+2011) following spinal cord injury. However, whether ChABC can
+promote functional reorganisation of the intact CST following uni-
+lateral CST transaction has not been demonstrated until now. Previ-
+ous findings from our lab and others (Barritt et al., 2006; Garcia-
+Alias et al., 2008, 2009; Karimi-Abdolrezaee et al., 2010; Zhao
+et al., 2011) have shown CST axon sprouting following spinal cord
+injury and ChABC treatment. However, in these studies the CST
+was transected bilaterally in the dorsal columns, making it difficult
+to distinguish whether the observed growth was due to regenerating
+or sprouting transected axons and/or sprouting ventral and lateral
+CST components, which are largely spared by the injury, or a com-
+bination of these. The unilateral pyramidotomy model, whereby the
+CST on one side is transected at the level of the pyramids so that
+only one CST projection remains in the spinal cord, enables the
+A B
+C D
+E F G H
+Fig. 6. CSPG digestion is associated with CST sprouting throughout the cervical enlargement. The rostrocaudal pattern of CSPG degradation at 11 days post-
+injury (A and C) and CST sprouting at 9 weeks post-injury (B and D) were assessed throughout the cervical enlargement. I.C.V. delivery of ChABC led to
+CSPG degradation throughout the neuraxis, with comparable levels of digestion observed from high (C1, A) to low (C5, C) segments of the cervical enlarge-
+ment. Correspondingly, the pattern of CST sprouting was comparable throughout the cervical enlargement, with numerous CST axons observed crossing the
+midline within lamina X and sprouting into intermediate and ventral grey matter regions on the denervated (left) side of the spinal cord, apparent from high
+(C1, B) to low (C5, D) cervical cord segments. High-power images of lamina X reveal intense C-4-S immunoreactivity (E and G), precisely in the region where
+sprouting axons crossed the midline (F and H). Scale bars: 500 lm (A–D); 100 lm (E–H).
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3674 M. L. Starkey et al.
+specific study of compensatory sprouting of uninjured axons and
+has previously been used to demonstrate enhanced plasticity follow-
+ing neutralisation of myelin inhibitors (Thallmair et al., 1998;
+Z’Graggen et al., 1998; Raineteau et al., 1999; Cafferty & Strittmat-
+ter, 2006; Lee et al., 2010). In the present study, robust growth of
+intact CST axons across the midline into denervated spinal cord
+grey matter was observed following ChABC treatment demonstrat-
+ing that, along with myelin inhibitors, CSPGs also play an important
+role in restricting plasticity of intact motor systems following injury.
+It remains to be seen whether combining Nogo-A neutralisation with
+CSPG degradation could synergistically enhance the potential for
+plasticity. Other strategies that can induce midline crossing of the
+intact CST following unilateral pyramidotomy include boosting the
+sprouting potential of CST axons with growth-promoting factors,
+such as neurotrophin-3 expressed in the denervated ventral horn
+(Zhou & Shine, 2003) or intracellular neuronal calcium sensor-1
+expressed in corticospinal projection neurons (Yip et al., 2010). Fur-
+thermore, CST midline crossing can also be stimulated by activity-
+based therapies, such as forced use of the impaired forelimb (Maier
+et al., 2008), reinforcement training on specific tasks (Starkey et al.,
+2011), or electrical stimulation of CST axons (Brus-Ramer et al.,
+2007) or the motor cortex (Carmel et al., 2010). These studies indi-
+cate that the presence of inhibitory factors and the lack of a stimulus
+to grow inhibit an inherent ability for intact CST axons to undergo
+plastic changes following injury. Indeed there is now much evidence
+for some degree of spontaneous reorganisation of spinal circuits fol-
+lowing spinal cord injury. For example, spontaneous sprouting of
+the CST, leading to remodelling and new circuit formation, has been
+observed in both rodents (Weidner et al., 2001; Bareyre et al.,
+2004; Lang et al., 2012) and primates (Courtine et al., 2008; Rosen-
+zweig et al., 2010) following partial spinal cord lesions. However,
+despite the evidence for spontaneous reorganisation of spinal cir-
+cuitry, the extent of this reorganisation is limited and strategies that
+enhance this potential, such as CSPG modification, could be crucial
+for restoring useful recovery of function following injury.
+Interestingly, environmental factors such as rearing conditions
+have been suggested to have an effect on the extent of midline
+sprouting that occurs following pyramidotomy and experimental
+intervention, with lower sprouting observed in treated animals that
+were single housed compared with group-housed animals (Benowitz,
+2012; Steward et al., 2012). In the present study, mice were single
+housed throughout. Thus, it is possible that more extensive sprout-
+ing would have occurred had they been group housed and that we
+may have underestimated the full extent of sprouting that can be
+achieved with ChABC treatment.
+Recovery of forelimb function following unilateral
+pyramidotomy and ChABC treatment
+Unilateral pyramidotomy in mice caused a substantial impairment in
+forepaw usage for weight support in the rearing test. Lesioned mice
+used their left (lesioned CST) forepaw considerably less often than
+their right (intact CST) forepaw for weight support on the cylinder
+wall. In mice that received saline, this deficit persisted for the entire
+testing period (6 weeks), in agreement with our previous demonstra-
+tion that mice do not recover impaired forelimb function in the rear-
+ing task following unilateral pyramidotomy (Starkey et al., 2005).
+In contrast, mice receiving ChABC showed a full recovery of fore-
+paw symmetry in the rearing task, which was evident by 21 days
+post-injury and sustained for the entire testing period. Thus, ChABC
+delivery over the first 10 days following injury has long-lasting
+effects on axonal sprouting and functional recovery. The time course
+of recovery most likely reflects a period of continued axon growth
+following the 10 days of ChABC treatment followed by a period of
+reinnervation of denervated target neurons in spinal grey matter by
+the sprouting axons. This is similar to the observations of Carmel
+et al. (2010) where electrical stimulation was applied to the forelimb
+area of the motor cortex for the first 10 days following unilateral
+pyramidotomy, and recovery of forelimb function occurred at a later
+time point, with significant improvements observed from 20 days
+after the injury and maintained until the end of the testing period.
+Robust outgrowth of CST axons was also observed in this study, to
+a similar degree to the observed sprouting in the present study, pro-
+viding an anatomical substrate for the motor recovery observed. It is
+not known whether ChABC treatment would have improved other
+forelimb functions in the present study, as mice were only assessed
+on the vertical exploration task (selected because we have previ-
+ously shown that it is a robust test for revealing deficits in forelimb
+asymmetry following unilateral pyramidotomy in mice; Starkey
+et al., 2005). However, it is possible that more complex forelimb
+functions such as reaching and grasping would also be improved
+following ChABC treatment, as similar functional recovery was
+recently demonstrated in a unilateral stroke model following ChABC
+treatment, with improvements observed in forelimb symmetry during
+rearing, and the same animals also showing improved function on a
+pellet retrieval task requiring fine motor control (Soleman et al.,
+2012).
+CSPG degradation following unilateral pyramidotomy and
+ChABC treatment
+We assessed the extent and rostrocaudal pattern of CSPG digestion
+throughout the cervical enlargement. I.C.V. delivery of ChABC led
+to CSPG degradation throughout the neuraxis, and was particularly
+prominent in spinal cord white matter tracts. Digested CSPGs were
+also apparent in spinal cord grey matter, particularly in regions such
+as lamina X, where sprouting axons crossed the midline, and in the
+intermediate and ventral grey matter, where sprouting axons were
+observed and were associated with synaptic elements. CSPGs are
+known to be upregulated in glial scar extracellular matrix following
+spinal cord injury, particularly at the site of injury (Jones et al.,
+2003; Tang et al., 2003; Iaci et al., 2007). Similarly, a CSPG-rich
+glial scar also forms at the injury site following pyramidotomy,
+demonstrated in cats (Tolbert & Der, 1987), hamsters (Kalil & Reh,
+1982) and rodents (Leong et al., 1995; Z’Graggen et al., 2000;
+Cafferty & Strittmatter, 2006). However, as well as upregulation at
+CNS injury sites, CSPG expression is also known to increase in
+denervated targets following injury (Massey et al., 2008; Andrews
+et al., 2012), and this is thought to play a role in inhibiting the
+sprouting of spared sensory projections into brainstem targets and
+the reinnervation of target neurons by regenerating axons (Massey
+et al., 2006). Furthermore, recent findings have shown that CSPGs
+at sites far distal to the injury remain increased for long periods, and
+suggest that the long-lasting elevation of CSPGs such as neurocan
+in distal spinal cord grey matter may contribute to the restriction of
+plasticity into chronic phases of injury and that therapies targeting
+CSPGs both at and distal to the injury site would be beneficial
+(Andrews et al., 2012). In agreement with these observations, I.C.V.
+delivery of ChABC in the present study allowed CSPG digestion
+along the neuraxis, with comparable digestion observed throughout
+the cervical enlargement, indicating that targeting CSPGs along the
+neuraxis enabled sprouting at many cervical levels, as shown by the
+comparable CST sprouting we observed from high (C1) to low (C7)
+cervical segments. Interestingly, the intense C-4-S immunoreactivity
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+Chondroitinase promotes corticospinal tract plasticity 3675
+observed around the spinal cord central canal (in lamina X) was in
+precisely the region where intact CST fibres crossed the midline,
+indicating that reduced inhibition at this crucial crossing point could
+be an important factor for stimulating sprouting across the midline
+and that CSPG digestion at inhibitory boundaries, as well as within
+target regions, may be an important factor. It should be noted that
+the observations of CSPG digestion patterns were made at only one
+post-injury time point, following the last administration of ChABC
+(day 11), and that CSPG digestion and changes in intact PNN
+CSPGs may have occurred elsewhere along the neuraxis, or indeed
+been stronger in grey matter regions, at some of the later time points
+(such as 2–5 weeks), during the time period when significant func-
+tional recovery began to occur.
+Targets of midline crossing sprouts and underlying
+mechanisms
+The present study correlates a robust sprouting response of intact
+CST axons with recovery of forelimb function. In line with many
+previous studies investigating CST plasticity after unilateral pyra-
+midotomy (Thallmair et al., 1998; Raineteau et al., 1999; Zhou
+et al., 2003; Cafferty & Strittmatter, 2006; Lee et al., 2010), we
+performed both anatomical and functional studies, and have demon-
+strated that there is a strong correlation between CST sprouting in
+the denervated spinal cord and recovery of function in denervated
+forelimb. However, it is possible that other uninjured systems may
+also have contributed to the functional repair. For example, compen-
+satory sprouting of the intact rubrospinal tract may have occurred,
+as has previously been demonstrated following anti-Nogo therapy
+(Raineteau et al., 2002). A lesion of the intact pyramid once fore-
+limb function had recovered may have definitively demonstrated
+whether recovery of function was dependent upon intact CST
+sprouting in the present study. However, the evidence for functional
+repair being associated with robust CST sprouting, plus the demon-
+stration that sprouting CST fibres were associated with synaptic ele-
+ments, provides strong evidence that functional recovery was due, at
+least in part, to compensatory sprouting of the intact CST. Currently
+it is not clear what the targets of midline crossing CST axons are.
+The targets of the midline crossing CST axons in the spinal cord are
+likely to be local or long interneurons, as they were observed pre-
+dominantly in the intermediate lamina of the cervical spinal cord.
+This would be in line with the findings of Bareyre et al. (2004)
+who proposed a mechanism via which the observed spontaneous
+sprouting of lesioned axons might contribute to functional recovery
+in the absence of long-distance regeneration. In this study they
+showed evidence of the formation of new intraspinal circuits follow-
+ing midthoracic dorsal hemisection, and reported that the hindlimb
+CST collaterals sprout into the cervical gray matter where they con-
+tact both long and short descending propriospinal neurons through
+which they are able to bypass the lesion site and reconnect the tran-
+sected CST to the lumbar spinal cord avoiding the lesion site. Thus,
+the removal of inhibitory CSPGs with ChABC may lead to an
+enhancement of de novo intraspinal circuits, which could underlie
+the observed functional improvements.
+While the focus of the present study was on the main CST com-
+ponent that runs in the dorsal columns, it is also possible that minor
+CST components may have contributed to the increased fibre growth
+into the denervated spinal cord, particularly because the dorsolateral
+CST and ventral CST both project in white matter tracts that were
+heavily digested following ChABC treatment. However, the vast
+majority of fibres observed in the denervated grey matter following
+ChABC did not appear to originate from the lateral or ventral
+columns, but stemmed from the main CST at the base of the dorsal
+columns where they crossed under the central canal and then
+appeared to either fan out or remain relatively localised to the spinal
+cord midline. Thus, it is likely that the majority of labelled CST
+fibres did indeed sprout from the main CST component and not the
+minor components. It is also possible that sprouting of other (unla-
+belled) pathways may have contributed to the observed functional
+recovery. For example, CSPGs were heavily digested in the lateral
+columns that contain the rubrospinal tract projection, another impor-
+tant motor pathway. Thus, as mentioned above, increased arborisa-
+tion of intact rubrospinal tract axons that terminate in intermediate
+grey matter could also have contributed to functional recovery.
+There is also a possibility that some reorganisation in higher centres
+may have occurred, similar to the novel connections to the red
+nucleus and pontomedullary formation arising from the damaged
+CST that were observed following pyramidotomy and anti-Nogo-A
+antibody treatment (Thallmair et al., 1998). However, as re-lesioning
+the pyramidal tract caudal to the original pyramidotomy did not
+impact the recovery of function in this study, it was thought that
+these novel connections did not significantly impact behavioural
+function. Thus, although we cannot rule out the possibility that
+reorganisation of other intact pathways in the spinal cord and/or
+reorganisation of lesioned projections in the brain may have
+occurred, nevertheless the current data provide a robust association
+between midline crossing of intact CST axons into denervated spinal
+grey matter and functional recovery of the denervated forepaw.
+As well as sprouting of the intact CST, it is also possible that
+some regeneration of the lesioned CST may have occurred at the
+injury site. However, even if some regeneration of the injured CST
+had occurred, it is unlikely that the recovery of the denervated fore-
+paw was due to long-distance functional regeneration of the lesioned
+CST, as the 3 weeks post-injury time point at which we first saw
+significantly improved function is likely to be too early to attribute
+to long-distance regeneration and reinnervation of appropriate tar-
+gets. Similarly, previous studies where the inhibitory myelin protein
+Nogo-A was targeted following pyramidotomy in rats have reported
+either no evidence of regeneration through the lesion site (Z’Grag-
+gen et al., 1998) or some limited regenerative growth at the lesion
+site but no long-distance regeneration (Thallmair et al., 1998). The
+weak regenerative response in this model following neutralisation of
+inhibitory proteins is thought to be due to regenerating axons having
+difficulty navigating through the pyramidal decussation (Thallmair
+et al., 1998).
+Finally, because CSPGs were heavily digested throughout the
+neuraxis, it is also possible that sprouting or reorganisation may
+have occurred in areas of the CNS other than those studied or may
+have occurred simply as a result of CSPG digestion alone, unrelated
+to any injury stimulus. However, we observed no increase in CST
+innervation on the intact side of the spinal cord, which was equally
+treated with ChABC. This is in line with previous work from our
+lab which has shown that despite CSPG degradation in multiple
+regions, a sprouting response was only observed in areas that were
+denervated or injured (Barritt et al., 2006; Cafferty et al., 2008).
+Furthermore, ChABC treatment alone (i.e. delivered to naive rats
+with no injury) has been demonstrated to have no effect on CST ter-
+mination patterns in the cervical spinal cord (Barritt et al., 2006) or
+on sensory afferent innervation of the dorsal horn, despite extensive
+CSPG degradation in these regions (Cafferty et al., 2008), suggest-
+ing that ChABC treatment does not lead to uncontrolled widespread
+sprouting of uninjured systems along the neuraxis, but enables a
+specific response to an injury stimulus that is normally suppressed
+by CSPGs. Similar observations have been reported for other
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3676 M. L. Starkey et al.
+sprouting-inducing therapies. For example, gene delivery of NT-3
+into the ventral horn of the spinal cord promoted CST sprouting
+across the midline only when the spinal cord was denervated by
+unilateral pyramidotomy, with no midline crossing observed in
+uninjured animals that were treated with NT-3 (Zhou et al., 2003).
+These data imply that there is a natural response for axons to sprout
+after injury, which is normally suppressed, but can be unmasked by
+removing inhibitors or delivering growth factors. Thus, the sprouting
+responses induced by reducing inhibitory CSPGs in the present
+study are likely to be localised to grey matter areas denervated by
+the pyramidotomy, as was observed with the CST midline crossing.
+Thus, we provide robust evidence that CSPGs play an important
+role in restricting plasticity following a denervating injury, and that
+reducing CSPG inhibition by enzymatic digestion with ChABC can
+enhance compensatory sprouting of an uninjured descending spinal
+projection, leading to recovery of forelimb function. This approach
+may form part of a future therapeutic strategy for promoting recov-
+ery of function following disorders such as stroke and spinal cord
+injury.
+Acknowledgements
+This work was supported by the UK Medical Research Council, the Interna-
+tional Spinal Research Trust and the Henry Smith Charity. The authors
+would like to thank Patrick Doherty and Michaela Thallmair for advice and
+comments, Tim Boucher for critical evaluation of the manuscript, and John
+Grist, Jonathan Ramsey and Meirion Davies for technical support.
+Abbreviations
+BDA, biotinylated dextran amine; C-4-S, chondroitin-4-sulphate; ChABC,
+chondroitinase ABC; CSPG, chondroitin sulphate proteoglycan; CST, corti-
+cospinal tract; FITC, fluorescein isothiocyanate; GAG, glycosaminoglycan;
+I.C.V., intracerebroventricular; PBS, phosphate-buffered saline; PFA, parafor-
+maldehyde; PKC-c, c-subunit of protein kinase C; PNN, peri-neuronal
+net; RM, repeated measures; TRITC, tetramethylrhodamine-5-(and 6)-isothio-
+cyanate; WFA, Wisteria floribunda agglutinin.
+References
+Alilain, W.J., Horn, K.P., Hu, H., Dick, T.E. & Silver, J. (2011) Functional
+regeneration of respiratory pathways after spinal cord injury. Nature, 475,
+196–200.
+Andrews, E.M., Richards, R.J., Yin, F.Q., Viapiano, M.S. & Jakeman, L.B.
+(2012) Alterations in chondroitin sulfate proteoglycan expression occur
+both at and far from the site of spinal contusion injury. Exp. Neurol., 235,
+174–187.
+Bareyre, F.M. & Schwab, M.E. (2003) Inflammation, degeneration and
+regeneration in the injured spinal cord: insights from DNA microarrays.
+Trends Neurosci., 26, 555–563.
+Bareyre, F.M., Kerschensteiner, M., Raineteau, O., Mettenleiter, T.C., Wein-
+mann, O. & Schwab, M.E. (2004) The injured spinal cord spontaneously
+forms a new intraspinal circuit in adult rats. Nat. Neurosci., 7, 269–277.
+Barritt, A.W., Davies, M., Marchand, F., Hartley, R., Grist, J., Yip, P.,
+McMahon, S.B. & Bradbury, E.J. (2006) Chondroitinase ABC promotes
+sprouting of intact and injured spinal systems after spinal cord injury.
+J. Neurosci., 26, 10856–10867.
+Bartus, K., James, N.D., Bosch, K.D. & Bradbury, E.J. (2011) Chondroitin
+sulphate proteoglycans: key modulators of spinal cord and brain plasticity.
+Exp. Neurol., 235, 5–17.
+Benowitz, L. (2012) Author’s response to Steward et al., “A re-assessment
+of the effects of intra-cortical delivery of inosine….”. Exp. Neurol., 233,
+674–676.
+Bradbury, E.J. & Carter, L.M. (2011) Manipulating the glial scar: chondroitin-
+ase ABC as a therapy for spinal cord injury. Brain Res. Bull., 84, 306–316.
+Bradbury, E.J. & McMahon, S.B. (2006) Spinal cord repair strategies: why
+do they work? Nat. Rev. Neurosci., 7, 644–653.
+Bradbury, E.J., Moon, L.D., Popat, R.J., King, V.R., Bennett, G.S., Patel, P.
+N., Fawcett, J.W. & McMahon, S.B. (2002) Chondroitinase ABC promotes
+functional recovery after spinal cord injury. Nature, 416, 636–640.
+Brus-Ramer, M., Carmel, J.B., Chakrabarty, S. & Martin, J.H. (2007)
+Electrical stimulation of spared corticospinal axons augments connections
+with ipsilateral spinal motor circuits after injury. J. Neurosci., 27, 13793–
+13801.
+Cafferty, W.B. & Strittmatter, S.M. (2006) The Nogo-Nogo receptor pathway
+limits a spectrum of adult CNS axonal growth. J. Neurosci., 26, 12242–
+12250.
+Cafferty, W.B., Bradbury, E.J., Lidierth, M., Jones, M., Duffy, P.J., Pezet, S.
+& McMahon, S.B. (2008) Chondroitinase ABC-mediated plasticity of
+spinal sensory function. J. Neurosci., 28, 11998–12009.
+Caggiano, A.O., Zimber, M.P., Ganguly, A., Blight, A.R. & Gruskin, E.A.
+(2005) Chondroitinase ABCI improves locomotion and bladder function fol-
+lowing contusion injury of the rat spinal cord. J. Neurotrauma, 22, 226–239.
+Carmel, J.B., Berrol, L.J., Brus-Ramer, M. & Martin, J.H. (2010) Chronic
+electrical stimulation of the intact corticospinal system after unilateral
+injury restores skilled locomotor control and promotes spinal axon out-
+growth. J. Neurosci., 30, 10918–10926.
+Carter, L.M., Starkey, M.L., Akrimi, S.F., Davies, M., McMahon, S.B. &
+Bradbury, E.J. (2008) The yellow fluorescent protein (YFP-H) mouse
+reveals neuroprotection as a novel mechanism underlying chondroitinase
+ABC-mediated repair after spinal cord injury. J. Neurosci., 28, 14107–
+14120.
+Carter, L.M., McMahon, S.B. & Bradbury, E.J. (2011) Delayed treatment
+with Chondroitinase ABC reverses chronic atrophy of rubrospinal neurons
+following spinal cord injury. Exp. Neurol., 228, 149–156.
+Corvetti, L. & Rossi, F. (2005) Degradation of chondroitin sulfate proteogly-
+cans induces sprouting of intact purkinje axons in the cerebellum of the
+adult rat. J. Neurosci., 25, 7150–7158.
+Courtine, G., Song, B., Roy, R.R., Zhong, H., Herrmann, J.E., Ao, Y., Qi,
+J., Edgerton, V.R. & Sofroniew, M.V. (2008) Recovery of supraspinal
+control of stepping via indirect propriospinal relay connections after spinal
+cord injury. Nat. Med., 14, 69–74.
+Fawcett, J.W. (2006) Overcoming inhibition in the damaged spinal cord.
+J. Neurotrauma, 23, 371–383.
+Fouad, K., Schnell, L., Bunge, M.B., Schwab, M.E., Liebscher, T. & Pearse,
+D.D. (2005) Combining Schwann cell bridges and olfactory-ensheathing
+glia grafts with chondroitinase promotes locomotor recovery after complete
+transection of the spinal cord. J. Neurosci., 25, 1169–1178.
+Garcia-Alias, G., Lin, R., Akrimi, S.F., Story, D., Bradbury, E.J. & Fawcett,
+J.W. (2008) Therapeutic time window for the application of chondroitinase
+ABC after spinal cord injury. Exp. Neurol., 210, 331–338.
+Garcia-Alias, G., Barkhuysen, S., Buckle, M. & Fawcett, J.W. (2009) Chon-
+droitinase ABC treatment opens a window of opportunity for task-specific
+rehabilitation. Nat. Neurosci., 12, 1145–1151.
+Goldberg, J.L., Vargas, M.E., Wang, J.T., Mandemakers, W., Oster, S.F.,
+Sretavan, D.W. & Barres, B.A. (2004) An oligodendrocyte lineage-specific
+semaphorin, Sema5A, inhibits axon growth by retinal ganglion cells.
+J. Neurosci., 24, 4989–4999.
+Hockfield, S., Kalb, R.G., Zaremba, S. & Fryer, H. (1990) Expression of
+neural proteoglycans correlates with the acquisition of mature neuronal
+properties in the mammalian brain. Cold Spring Harb. Symp. Quant. Biol.,
+55, 505–514.
+Houle, J.D., Tom, V.J., Mayes, D., Wagoner, G., Phillips, N. & Silver, J.
+(2006) Combining an autologous peripheral nervous system “bridge” and
+matrix modification by chondroitinase allows robust, functional regenera-
+tion beyond a hemisection lesion of the adult rat spinal cord. J. Neurosci.,
+26, 7405–7415.
+Iaci, J.F., Vecchione, A.M., Zimber, M.P. & Caggiano, A.O. (2007) Chon-
+droitin sulfate proteoglycans in spinal cord contusion injury and the effects
+of chondroitinase treatment. J. Neurotrauma, 24, 1743–1759.
+Iseda, T., Okuda, T., Kane-Goldsmith, N., Mathew, M., Ahmed, S., Chang,
+Y.W., Young, W. & Grumet, M. (2008) Single, high-dose intraspinal
+injection of chondroitinase reduces glycosaminoglycans in injured spinal
+cord and promotes corticospinal axonal regrowth after hemisection but not
+contusion. J. Neurotrauma, 25, 334–349.
+Jones, L.L., Margolis, R.U. & Tuszynski, M.H. (2003) The chondroitin sulfate
+proteoglycans neurocan, brevican, phosphacan, and versican are differen-
+tially regulated following spinal cord injury. Exp. Neurol., 182, 399–411.
+Kalil, K. & Reh, T. (1982) A light and electron microscopic study
+of regrowing pyramidal tract fibers. J. Comp. Neurol., 211, 265–275.
+Karimi-Abdolrezaee, S., Eftekharpour, E., Wang, J., Schut, D. & Fehlings,
+M.G. (2010) Synergistic effects of transplanted adult neural stem/progeni-
+tor cells, chondroitinase, and growth factors promote functional repair and
+plasticity of the chronically injured spinal cord. J. Neurosci., 30, 1657–
+1676.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+Chondroitinase promotes corticospinal tract plasticity 3677
+Kwok, J.C., Afshari, F., Garcia-Alias, G. & Fawcett, J.W. (2008) Proteogly-
+cans in the central nervous system: plasticity, regeneration and their stimu-
+lation with chondroitinase ABC. Restor. Neurol. Neurosci., 26, 131–145.
+Lang, C., Guo, X., Kerschensteiner, M. & Bareyre, F.M. (2012) Single col-
+lateral reconstructions reveal distinct phases of corticospinal remodeling
+after spinal cord injury. PLoS One, 7, e30461.
+Lee, J.K., Geoffroy, C.G., Chan, A.F., Tolentino, K.E., Crawford, M.J., Leal,
+M.A., Kang, B. & Zheng, B. (2010) Assessing spinal axon regeneration
+and sprouting in Nogo-, MAG-, and OMgp-deficient mice. Neuron, 66,
+663–670.
+Leong, S.K., Ling, E.A. & Fan, D.P. (1995) Glial reaction after pyramidoto-
+my in mice and rats. Neurodegeneration, 4, 403–413.
+Liu, Y., Kim, D., Himes, B.T., Chow, S.Y., Schallert, T., Murray, M., Tess-
+ler, A. & Fischer, I. (1999) Transplants of fibroblasts genetically modified
+to express BDNF promote regeneration of adult rat rubrospinal axons and
+recovery of forelimb function. J. Neurosci., 19, 4370–4387.
+Maier, I.C., Baumann, K., Thallmair, M., Weinmann, O., Scholl, J. &
+Schwab, M.E. (2008) Constraint-induced movement therapy in the adult
+rat after unilateral corticospinal tract injury. J. Neurosci., 28, 9386–9403.
+Massey, J.M., Hubscher, C.H., Wagoner, M.R., Decker, J.A., Amps, J.,
+Silver, J. & Onifer, S.M. (2006) Chondroitinase ABC digestion of the
+perineuronal net promotes functional collateral sprouting in the cuneate
+nucleus after cervical spinal cord injury. J. Neurosci., 26, 4406–4414.
+Massey, J.M., Amps, J., Viapiano, M.S., Matthews, R.T., Wagoner, M.R.,
+Whitaker, C.M., Alilain, W., Yonkof, A.L., Khalyfa, A., Cooper, N.G.,
+Silver, J. & Onifer, S.M. (2008) Increased chondroitin sulfate proteoglycan
+expression in denervated brainstem targets following spinal cord injury
+creates a barrier to axonal regeneration overcome by chondroitinase ABC
+and neurotrophin-3. Exp. Neurol., 209, 426–445.
+Neumann, S. & Woolf, C.J. (1999) Regeneration of dorsal column fibers into
+and beyond the lesion site following adult spinal cord injury. Neuron, 23,
+83–91.
+Pizzorusso, T., Medini, P., Berardi, N., Chierzi, S., Fawcett, J.W. & Maffei,
+L. (2002) Reactivation of ocular dominance plasticity in the adult visual
+cortex. Science, 298, 1248–1251.
+Plunet, W., Kwon, B.K. & Tetzlaff, W. (2002) Promoting axonal regenera-
+tion in the central nervous system by enhancing the cell body response to
+axotomy. J. Neurosci. Res., 68, 1–6.
+Raineteau, O., Z’Graggen, W.J., Thallmair, M. & Schwab, M.E. (1999)
+Sprouting and regeneration after pyramidotomy and blockade of the mye-
+lin-associated neurite growth inhibitors NI 35/250 in adult rats. Eur.
+J. Neurosci., 11, 1486–1490.
+Raineteau, O., Fouad, K., Bareyre, F.M. & Schwab, M.E. (2002) Reorganiza-
+tion of descending motor tracts in the rat spinal cord. Eur. J. Neurosci.,
+16, 1761–1771.
+Rosenzweig, E.S., Courtine, G., Jindrich, D.L., Brock, J.H., Ferguson, A.R.,
+Strand, S.C., Nout, Y.S., Roy, R.R., Miller, D.M., Beattie, M.S., Havton,
+L.A., Bresnahan, J.C., Edgerton, V.R. & Tuszynski, M.H. (2010) Exten-
+sive spontaneous plasticity of corticospinal projections after primate spinal
+cord injury. Nat. Neurosci., 13, 1505–1510.
+Schallert, T., Fleming, S.M., Leasure, J.L., Tillerson, J.L. & Bland, S.T.
+(2000) CNS plasticity and assessment of forelimb sensorimotor outcome
+in unilateral rat models of stroke, cortical ablation, parkinsonism and
+spinal cord injury. Neuropharmacology, 39, 777–787.
+Schwab, M.E. (2010) Functions of Nogo proteins and their receptors in the
+nervous system. Nat. Rev. Neurosci., 11, 799–811.
+Silver, J. & Miller, J.H. (2004) Regeneration beyond the glial scar. Nat. Rev.
+Neurosci., 5, 146–156.
+Soleman, S., Yip, P.K., Duricki, D.A. & Moon, L.D. (2012) Delayed treat-
+ment with chondroitinase ABC promotes sensorimotor recovery and plas-
+ticity after stroke in aged rats. Brain, 135, 1210–1223.
+Starkey, M.L., Barritt, A.W., Yip, P.K., Davies, M., Hamers, F.P., McMa-
+hon, S.B. & Bradbury, E.J. (2005) Assessing behavioural function follow-
+ing a pyramidotomy lesion of the corticospinal tract in adult mice. Exp.
+Neurol., 195, 524–539.
+Starkey, M.L., Bleul, C., Maier, I.C. & Schwab, M.E. (2011) Rehabilitative
+training following unilateral pyramidotomy in adult rats improves forelimb
+function in a non-task-specific way. Exp. Neurol., 232, 81–89.
+Steward, O., Sharp, K. & Yee, K.M. (2012) A re-assessment of the effects
+of intracortical delivery of inosine on transmidline growth of corticospinal
+tract axons after unilateral lesions of the medullary pyramid. Exp. Neurol.,
+233, 662–673.
+Tang, X., Davies, J.E. & Davies, S.J. (2003) Changes in distribution, cell
+associations, and protein expression levels of NG2, neurocan, phosphacan,
+brevican, versican V2, and tenascin-C during acute to chronic maturation
+of spinal cord scar tissue. J. Neurosci. Res., 71, 427–444.
+Tester, N.J. & Howland, D.R. (2008) Chondroitinase ABC improves basic and
+skilled locomotion in spinal cord injured cats. Exp. Neurol., 209, 483–496.
+Thallmair, M., Metz, G.A., Z’Graggen, W.J., Raineteau, O., Kartje, G.L. &
+Schwab, M.E. (1998) Neurite growth inhibitors restrict plasticity and
+functional recovery following corticospinal tract lesions. Nat. Neurosci., 1,
+124–131.
+Tolbert, D.L. & Der, T. (1987) Redirected growth of pyramidal tract axons fol-
+lowing neonatal pyramidotomy in cats. J. Comp. Neurol., 260, 299–311.
+Tom, V.J., Kadakia, R., Santi, L. & Houle, J.D. (2009a) Administration of
+chondroitinase ABC rostral or caudal to a spinal cord injury site promotes
+anatomical but not functional plasticity. J. Neurotrauma, 26, 2323–2333.
+Tom, V.J., Sandrow-Feinberg, H.R., Miller, K., Santi, L., Connors, T.,
+Lemay, M.A. & Houle, J.D. (2009b) Combining peripheral nerve grafts
+and chondroitinase promotes functional axonal regeneration in the chroni-
+cally injured spinal cord. J. Neurosci., 29, 14881–14890.
+Tropea, D., Caleo, M. & Maffei, L. (2003) Synergistic effects of brain-
+derived neurotrophic factor and chondroitinase ABC on retinal fiber
+sprouting after denervation of the superior colliculus in adult rats. J.
+Neurosci., 23, 7034–7044.
+Weidner, N., Ner, A., Salimi, N. & Tuszynski, M.H. (2001) Spontaneous
+corticospinal axonal plasticity and functional recovery after adult central
+nervous system injury. Proc. Natl. Acad. Sci. USA, 98, 3513–3518.
+Yamaguchi, Y. (2000) Lecticans: organizers of the brain extracellular matrix.
+Cell. Mol. Life Sci., 57, 276–289.
+Yick, L.W., So, K.F., Cheung, P.T. & Wu, W.T. (2004) Lithium chloride
+reinforces the regeneration-promoting effect of chondroitinase ABC on
+rubrospinal neurons after spinal cord injury. J. Neurotrauma, 21, 932–943.
+Yip, P.K., Wong, L.F., Sears, T.A., Yanez-Munoz, R.J. & McMahon, S.B.
+(2010) Cortical overexpression of neuronal calcium sensor-1 induces func-
+tional plasticity in spinal cord following unilateral pyramidal tract injury in
+rat. PLoS Biol., 8, e1000399.
+Z’Graggen, W.J., Metz, G.A., Kartje, G.L., Thallmair, M. & Schwab, M.E.
+(1998) Functional recovery and enhanced corticofugal plasticity after uni-
+lateral pyramidal tract lesion and blockade of myelin-associated neurite
+growth inhibitors in adult rats. J. Neurosci., 18, 4744–4757.
+Z’Graggen, W.J., Fouad, K., Raineteau, O., Metz, G.A., Schwab, M.E. & Kar-
+tje, G.L. (2000) Compensatory sprouting and impulse rerouting after unilat-
+eral pyramidal tract lesion in neonatal rats. J. Neurosci., 20, 6561–6569.
+Zhao, R.R., Muir, E.M., Alves, J.N., Rickman, H., Allan, A.Y., Kwok, J.C.,
+Roet, K.C., Verhaagen, J., Schneider, B.L., Bensadoun, J.C., Ahmed, S.
+G., Yanez-Munoz, R.J., Keynes, R.J., Fawcett, J.W. & Rogers, J.H.
+(2011) Lentiviral vectors express chondroitinase ABC in cortical projec-
+tions and promote sprouting of injured corticospinal axons. J. Neurosci.
+Methods, 201, 228–238.
+Zhou, L. & Shine, H.D. (2003) Neurotrophic factors expressed in both cortex
+and spinal cord induce axonal plasticity after spinal cord injury. J. Neuro-
+sci. Res., 74, 221–226.
+Zhou, L., Baumgartner, B.J., Hill-Felberg, S.J., McGowen, L.R. & Shine, H.
+D. (2003) Neurotrophin-3 expressed in situ induces axonal plasticity in the
+adult injured spinal cord. J. Neurosci., 23, 1424–1431.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 36, 3665–3678
+3678 M. L. Starkey et al.

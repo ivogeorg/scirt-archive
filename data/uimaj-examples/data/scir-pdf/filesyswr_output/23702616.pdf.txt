@@ -1,0 +1,726 @@
+Host reaction to poly(2-hydroxyethyl methacrylate) scaffolds
+in a small spinal cord injury model
+Hong Ying Li • Tobias Führmann • Yue Zhou •
+Paul D. Dalton
+Received: 11 March 2013 / Accepted: 7 May 2013 / Published online: 24 May 2013
+ Springer Science+Business Media New York 2013
+Abstract Tissue engineered scaffolds and matrices have
+been investigated over the past decade for their potential in
+spinal cord repair. They provide a 3-D substrate that can be
+permissive for nerve regeneration yet have other roles
+including neuroprotection, altering the inflammatory cas-
+cade and mechanically stabilizing spinal cord tissue after
+injury. In this study we investigated very small lesions
+(approx. 0.25 lL in volume) of the dorsal column into
+which a phase-separated poly(2-hydroxyethyl methacry-
+late) hydrogel scaffold is implanted. Using fluorescent
+immunohistochemistry to quantify glial scarring, the
+poly(2-hydroxyethyl methacrylate) scaffold group showed
+reduced intensity compared to lesion controls for GFAP
+and the chondroitin sulfate proteoglycan neurocan after
+6 days. However, the scaffold and tissue was also pushed
+dorsally after 6 days while the scaffold was not integrated
+into the spinal cord after 28 days. Overall, this small-lesion
+spinal cord injury model provided information on the host
+tissue reaction of a TE scaffold while reducing animal
+discomfort and care.
+1 Introduction
+The loss of function after spinal cord injury (SCI) is due to the
+destructive consequences of the primary injury combined
+with the subsequent cascade of pathophysiological events,
+termed secondary degeneration, which includes complex
+inflammatory events [1, 2]. Due to the complexity of the
+pathophysiological events and the variety of types of injury
+(e.g. compression/contusion, laceration and transection),
+many conceptual different treatment strategies have been
+investigated, including drug-, cell- and biomaterial-based
+strategies [3–5]. Depending on the treatment strategy, vari-
+ous SCI models have been used, including contusion-type
+injury models such as the New York University weight-drop
+device [6–8], the infinite horizon impactor [9] and the elec-
+tromagnetic spinal cord injury device (ESCID) [10], as well
+as balloon [11] and clip compression models [12]. These
+models are associated with a significant and measured loss of
+function [6–8, 13]. This loss in locomotor function can
+determine the effectiveness of a therapy to some extent, but
+requires labor and cost intensive animal care.
+Biomaterial-based treatment strategies most commonly
+investigate experimental animal models in which part of
+the spinal cord is resected to have physical space to
+transplant scaffolds/hydrogels. Many different matrices
+and tissue engineering (TE) scaffolds have been implanted
+including hydrogels such as fibronectin [14, 15], fibrin
+[16], pHEMA [17–19], or agarose [20, 21]. Such in vivo
+studies of TE scaffolds/matrices focus mainly on their
+capacity to support axonal regeneration [14, 15, 17, 20, 21],
+or transplant cells [16, 22]. However, implanted scaffolds
+potentially alter the injury cascade and affecting secondary
+injury as well as gliosis [17]. Emphasizing that scaffolds
+can provide more than a regenerative substrate for axons or
+a vehicle for cell transplantation, fibronectin recently
+H. Y. Li  Y. Zhou (&)  P. D. Dalton
+Med-X Research Institute, Shanghai Jiao Tong University,
+1954 Huashan Rd, Shanghai 200030, China
+e-mail: yzhou2009@sjtu.edu.cn
+H. Y. Li  Y. Zhou
+School of Biomedical Engineering, Shanghai Jiao Tong
+University, 1954 Huashan Rd, Shanghai 200030, China
+T. Führmann  P. D. Dalton (&)
+Institute of Health and Biomedical Innovation, Queensland
+University of Technology, 60 Musk Ave, Kelvin Grove,
+QLD 4059, Australia
+e-mail: daltonlab@gmail.com
+123
+J Mater Sci: Mater Med (2013) 24:2001–2011
+DOI 10.1007/s10856-013-4956-8
+demonstrated neuroprotective properties in addition to
+promoting regeneration [14]. Such hemi-section models
+remain difficult to translate into the clinic as spinal cord
+tissue is resected or aspirated out of the area. Nonetheless
+there are scientific elements in hemi-section models that
+are important to investigate, including improving our
+understanding of tissue response and material integration
+into the spinal cord. For example, an intramedullary
+implant model has been recently used to assess biocom-
+patibility and long-term (1 year) degradation, using thin
+pieces of a biomaterial [23]. Such approaches using smaller
+injuries—even though they are not clinically relevant—
+might assist fundamental understanding of biomaterial
+integration while reducing animal discomfort and care.
+While many models generally focus on axonal regen-
+eration, in this study we aim to understand the early tissue
+response after injury (6 days), and how this is affected by
+the implantation of a TE scaffold. To contribute to our
+understanding of how the scaffold affects the surrounding
+tissue, acute implantations into small injuries of white
+matter tracts of the dorsal column were investigated. Our
+analysis focused on the astrocytic response, specifically
+GFAP, and the distribution of neurocan—a chondroitin
+sulfate proteoglycan (CSPG) that prevents axonal regen-
+eration, both which were down-regulated at the injury site
+after pHEMA implantation. The small lesion SCI model
+described in this study minimizes both the injury and post-
+operative care and is aimed at studying tissue response to
+the TE scaffold rather than being clinically relevant.
+2 Materials and methods
+2.1 Materials
+All chemicals were purchased from Sigma Aldrich (China)
+unless otherwise indicated. The monomer, 2-hydroxyethyl
+methacrylate (#477028), was 99 % purity and used as
+received, while the PCL (#440744) had a molecular weight
+of 70,000–90,000 g/mol. Methanol (99.5 % purity; #100
+14118), chloroform (99 % purity; #10006818) and H2O2
+(30 % solution; #10011208) were sourced from SCRC
+(China). Tetramethylethylenediamine (TEMED) (#AMR-
+0761) was purchased from Mandel Scientific Company Inc.,
+(Canada). Hypnorm (0.05 mg/mL) and Hypnovel (1 mg/
+mL) were purchased from Yichang Humanwell Pharma-
+ceutical Co., Ltd., (China) and Nhwa Pharma Corporation
+(China) respectively.
+2.2 Electrospinning
+An artificial dura to be positioned between the exposed
+spinal cord and dorsal muscle tissue was made by
+electrospinning PCL using established formulations [24]
+and methods [25]. Briefly, a 10 wt% PCL solution (75/25
+vol.% chloroform/methanol) was electrospun for 5 min
+onto a single aluminum foil collector, with a collector
+distance of 10 cm, flow rate of 0.5 mL/h and applied
+voltage of 10 kV.
+2.3 Hydrogel scaffold
+The pHEMA hydrogel scaffold was produced by phase-
+separating HEMA through polymerization in excess water
+[17, 26]. Briefly, 931 lL of HEMA was mixed with 4.67 g
+H2O and 45.6 lL of a 10 % APS solution and cooled in a
+refrigerator. TEMED (5.2 lL) was added and a total of
+0.5 mL of the solution was injected through a 0.22 lm
+PTFE filter into a sterile 1 mL syringe. After 1 h of poly-
+merization in the refrigerator, the syringes were removed
+and kept at room temperature overnight. Thin slivers
+(approximately 0.2 mm) were sliced off the pHEMA
+scaffold under a stereomicroscope using a no. 10 scalpel
+and UV sterilized.
+2.4 Scanning electron microscopy
+Both the pHEMA scaffold and electrospun PCL were imaged
+with scanning electron microscopy (SEM). The pHEMA
+scaffold was frozen at -20 C, then sections of the hydrogel
+cut using a scalpel. These pieces were placed in a 15 mL
+Falcon tube and frozen further in liquid nitrogen and
+lyophilized overnight. The lyophilized and electrospun PCL
+mesh were mounted on stubs and sputter coated with gold
+before being imaged (Quanta 200 scanning electron micro-
+scope, FEI). A working distance of 13 mm and 10 kV were
+used to view the samples. Fiber diameters of the electrospun
+PCL mesh were measured by randomly imaging three dif-
+ferent regions of the mesh, followed by averaging 20 fibers
+per image (n = 60 in total).
+2.5 Surgery
+The investigations were performed at the Med-X research
+institute (Shanghai Jiao Tong University, China) and were
+subject to the local ethics committee permission. Young
+adult male Wistar rats (230–260 g; n = 5 for each group)
+were used for the in vivo study. Body temperature under
+anesthesia was regulated with a heated mat while surgery
+itself performed using a surgical microscope (M651 MSD,
+Leica). Under Hypnorm/Hypnovel (2 mL/1.6 mL) injec-
+tion anesthesia/analgesia, the back of the rodent was
+shaved and the skin sterilized with 70 % alcohol prior to a
+2–3 cm incision along the midline, approximately above
+T5/T10. Using blunt dissection, the superficial muscle
+layers were cleared from the deeper layers, a midline
+2002 J Mater Sci: Mater Med (2013) 24:2001–2011
+123
+incision was made and the superficial and deep muscle
+layers retracted to expose the dorsal surface of the T6–T8
+vertebrae. Fine bone rongeurs (16021-14, Fine Science
+Tools, Germany) were used to perform a laminectomy of
+the T7 vertebra, exposing the dorsal surface of the spinal
+cord. The dura was cut and reflected with the sharp edge of
+a beveled 26G needle tip (#301321, BD Biosciences), after
+which a 0.2 mm (rostral/caudal) 9 0.3 mm (bilateral)
+section of the cord was identified on the dorsal column
+(Fig. 1) that minimized disruption of the spinal cord vas-
+culature. A bilateral transverse incision was made in the
+dorsal column of the spinal cord, excising out to a depth of
+approximately 0.4 mm. A sliver of pHEMA scaffold was
+placed next to the injury site and cut into a shape
+approximately 0.2 mm 9 0.3 mm 9 0.4 mm in size
+(0.24 lL). The scaffold was fitted into the lesion area,
+minimizing the pressing down of the material into the
+spinal cord. For lesion only controls, the scaffold was not
+placed into position. For both the lesion only and pHEMA
+scaffold groups, the PCL electrospun membrane was
+placed over the exposed site, acting as a fine barrier to
+minimize the infiltration of fibroblasts into the SCI paren-
+chyma [27, 28]. The skin was closed using 4/0 coated
+Vicryl-plus antibacterial sutures (VCP773D, Ethicon,
+USA) and animals were socially housed on irradiated
+sawdust, 2 animals/cage, in type RU polysulfone cages
+(420 9 250 9 230 mm) as part of a rack-based ventilation
+system (RU25S7-2, Suhang Technologies, China). Animals
+had access to water ad libitum with a 12:12 h light regime.
+The following day, all animals moved freely in their cage,
+fed and drank without any indication of pain or discomfort.
+Animals were sacrificed 6 and 28 days after injury.
+2.6 Animal preparation for IHC analysis
+Terminal anesthesia was induced with an intra-peritoneal
+overdose of ketamine (200 mg/mL; 1.5–2 mL). The animal
+was then transcardially perfused with 0.9 % heparinized
+saline followed by 10 % formalin buffered saline (FBS).
+After approximately 2–3 min of perfusion (approx.
+40–60 mL), the injured part of the spinal cord was dis-
+sected out and then post-fixed in FBS for 24 h. The spinal
+cord was embedded in paraffin wax (Leica EG 1160) and
+sagittal sections of 10 lm in thickness (Leica, RM2245)
+were taken throughout the areas of interest, including the
+pHEMA scaffold and the surrounding tissue.
+2.7 Histology and immunohistochemistry
+After fixation and embedding, samples were processed for
+both histological and immunohistochemical staining as
+described previously [29]. Paraffin-embedded sections
+underwent sequential solvent exchange from xylene to
+100 % ethanol to ethanol mixtures to PBS. The sections
+were quenched using a 0.3 % H2O2 methanol solution, and
+then heat-mediated antigen retrieval in 10 mM citrate
+buffer was performed. Primary antibodies were diluted in
+PBS with 10 % goat serum and incubated with the prepa-
+rations at room temperature for 45 min. Uninjured spinal
+cords were stained with luxol fast blue, which identifies
+myelin and was used to provide a schematic in Fig. 1.
+To identify the maximum injury site, activated macro-
+phages and microglia were identified using a monoclonal
+antibody against CD68 (1:200, ED-1, MCA341R, Serotec,
+USA) [29]. Glial fibrillary acidic protein (GFAP) was
+detected with a polyclonal antibody (1:2000, Z0334,
+DAKO, USA) while neurocan was identified with a
+monoclonal antibody (1:2000, ab26003, Abcam, USA).
+Primary antibodies were detected by biotinylated secondary
+antibodies (1:200 dilution, #BA-1000 and 2000, Vector
+Laboratories, USA). These sections were cover-slipped
+with Vectorshield mounting medium with DAPI (Vector
+Laboratories, USA) and imaged immediately. For non-
+fluorescent immunohistochemistry (IHC) of ED-1, antibody
+Fig. 1 SEM images of the (a) pHEMA scaffold implanted in the dorsal
+column of the spinal cord and (b) electrospun non-woven PCL mesh used
+to cover the exposed spinal cord after surgery. (c) A transverse section of
+the spinal cord stained with luxol fast blue (myelin) with an overlay
+approximately indicating the injured region (yellow) and the location of
+the PCL mesh (red) in false color (Color figure online)
+J Mater Sci: Mater Med (2013) 24:2001–2011 2003
+123
+binding was visualized with avidin–biotin–peroxidase
+complex (ABC) (Vector Laboratories, USA) and 3,30-di-
+aminobenzidine tetrahydrochloride used as a chromogen.
+These sections were then sequentially dehydrated from
+ethanol into xylene, followed by embedding with DPX
+(#44581, Sigma Life Science), and left to dry overnight.
+Fig. 2 Sagittal sections of spinal cords 6 days (a) and 28 days
+(b) after receiving a pHEMA implant and immunostained for GFAP.
+The pHEMA scaffold (yellow arrow) is dorsally pushed due to
+localized oedema, or swelling of the spinal cord, and is entirely
+pushed out after 28 days. Microvacuolation of the spinal cord can be
+seen and are indicated with black arrows within the inset images.
+Between, a transverse section of an injured spinal cord with the
+sagittal plane and injured area is indicated. The electrospun PCL
+mesh cannot be visualized as it is dissolved during the embedding
+process (Color figure online)
+Fig. 3 ED-1? cells surround the injury site and penetrated the
+pHEMA scaffold. Spinal cord sections stained for ED-1 to identify
+activated macrophages and microglia. Saggital sections of
+(a) lesioned and (b) scaffold-implanted spinal cords show a similar
+recruitment of these phagocytic cells. (c) Transverse section of the
+injury site demonstrates that the lesion is within the dorsal funiculus.
+A magnified view of the scaffold (d) shows it filled with ED-1? cells.
+To prevent interference by similar colored chromogens, the nuclei
+were not counterstained. Insets in (a) and (b) show the section plane
+2004 J Mater Sci: Mater Med (2013) 24:2001–2011
+123
+2.8 Evaluation
+Using ImageJ (NIH, USA), the green (GFAP) or red (neu-
+rocan) fluorescent images were converted to a grey-scale
+image and the mean grey value (intensity) used for quanti-
+fication. An approximate threshold was visually set that only
+included the GFAP? signal while excluding the background.
+This threshold methodology was repeated 3 times/animal,
+with 4 animals/group studied, using slides next to the area of
+greatest ED-1 immunofluorescence. Using the ventral side
+intensity as a control we compared the GFAP? signal
+(intensity/region) within a 2 mm (rostral/caudal) 9 0.5 mm
+rectangle centered on the injury area. Each GFAP? intensity
+measurement (intensity/region) was normalized to an unin-
+jured area of the dorsal column to minimize any sample-to-
+sample fluorescent staining variations.
+For measurement of the spatial distribution of neurocan
+across the injury site, a box was overlaid on the injury site
+and separated in 200 9 500 lm areas. Each neurocan
+intensity measurement (intensity/region) was normalized to
+an uninjured area of the dorsal column to minimize any
+sample-to-sample fluorescent staining variations. Statistical
+tests for the GFAP and neurocan analysis were performed
+using MS Excel software. An unpaired student t test was
+performed between each groups (normal, lesion and pHE-
+MA) using a two-tailed test to determine statistical sig-
+nificance (P B 0.05).
+3 Results and discussion
+Biomaterial-based intervention strategies for bridging SCI
+aim to replace damaged tissue with an axon growth pro-
+moting substrate, which is able to integrate within the host
+tissue. A range of different TE scaffolds have been
+implanted in vivo using hemi-section injury models, the
+majority of these disrupting a significant portion of the
+spinal cord (scaffold volume 10–180 lL; median 36 lL)
+and involving a loss of function [14, 17, 20, 21, 23, 30–36].
+In the current study, a smaller volume of a TE scaffold
+was implanted (approx. 0.25 lL); the objective was to inves-
+tigate the integration and the surrounding microenvironment
+Fig. 4 Sagittal sections of the spinal cord showing lesion only spinal cord
+(a and c) and scaffold implanted tissue (b and d). Activated macrophages/
+microglia (ED-1?; red), astrocytes (GFAP?; green) and cell nuclei
+(DAPI?; blue) are shown. Since the pHEMA scaffold is not visible under
+fluorescence, bright-field images were also obtained and the scaffold either
+false colored yellow (b) or outlined (d) (Color figure online)
+J Mater Sci: Mater Med (2013) 24:2001–2011 2005
+123
+of such scaffolds while minimize loss of function to the
+animal. Additionally this surgical model disrupts the white
+matter tracts of the dorsal column only, while other hemi-
+section studies in cause damage to both white and grey
+matter. A relatively short post-surgery time point of 6 days
+was used for analyzing the inflammatory reaction while tissue
+was taken at 28 days to observe integration after longer sur-
+vival times to determine regenerative potential.
+The choice of species, strain, sex and age (rat; Wistar;
+male; young adult) is meant to minimize some of the
+fluctuations that can occur after SCI. Male animals are
+preferred over females as the latter have fluctuations in
+oestrogen levels, which could affect the response to SCI
+[37, 38]. The animals undergoing this SCI model required
+no manual bladder expression and had minimal loss of
+function. Each surgery took approximately 45–60 min,
+depending on the extent of bleeding. The pHEMA hydrogel
+scaffold fitted readily into the lesion site and fixation was
+assisted with fibrin clot formation due to blood vessel
+Fig. 5 Sagittal sections of the spinal cord showing that the pHEMA
+scaffold implantation affects GFAP intensity at the lesion site. Host
+astrocytes (stained for GFAP, green) surround the injury site of
+control (a) and scaffold implanted (b) animals. Nuclei were
+counterstained with DAPI (blue). Higher magnification images of
+the lesion site in control (c) and scaffold implanted (d) animals. The
+pHEMA scaffold outline is highlighted in (d) (Color figure online)
+Fig. 6 Evaluation of the GFAP immunoreactivity shows that scaffold
+implantation reduced reactive gliosis. GFAP intensity measurement
+comparing an area measuring 2 mm 9 0.5 mm over the injured or
+scaffold area. This GFAP intensity is a ratio generated by dividing the
+fluorescent intensity of the injured area with fluorescence of the
+ventral white matter. The pHEMA group is also statistically
+significant to normal controls
+2006 J Mater Sci: Mater Med (2013) 24:2001–2011
+123
+disruption. Figure 1a shows a SEM image of the pHEMA
+scaffold, which has open, interconnected pores for cell
+invasion. The electrospun PCL membrane (shown in
+Fig. 1b) fitted well to the dorsal surface of the spinal cord.
+SEM measurements showed that the electrospun membrane
+had an average fiber diameter of 480 ± 170 nm. We chose
+to implant a non-degradable scaffold, based upon pHEMA,
+to establish this small lesion model of the spinal cord. A
+degradable TE scaffold could release products that influ-
+ence the microenvironment surrounding the implant, which
+is not desired in establishing this small lesion model.
+Furthermore, this phase-separated hydrogel scaffold has a
+history of biomedical use [17, 39, 40], in more severe SCI
+models. PHEMA scaffolds can also be readily surface
+modified and morphology altered to improve their regen-
+erative properties in the spinal cord [18].
+In this small lesion model a dorsal relocation of the
+pHEMA scaffold occurred after 6 days (Fig. 2a), accom-
+panied by localized oedema, or swelling, of the spinal cord,
+which occurs naturally shortly after injury [41]. This
+oedema was observed in both scaffold and lesion groups.
+At 28 days, the pHEMA scaffold was even more dorsally
+relocated and it was difficult to find in spinal cord tissue
+(Fig. 2b). Since pHEMA is not considerable biodegradable,
+its absence in the spinal cord sections indicates that it was
+dorsally pushed out of the tissue. It would be important to
+understand whether reconstructing the dura as a mechani-
+cal barrier will assist or inhibit scaffold integration,
+including scarring and ECM production. In this small
+lesion model, the pia/dura was not reconstructed to
+mechanically prevent the scaffold from being dorsally
+relocated. Instead an electrospun PCL non-woven mesh
+was placed over the dorsal column, which provides a cell-
+impermeable membrane that does not mechanically hold
+the scaffold into place. Reconstructing the dura in this
+instance would involve suturing the damaged membrane,
+providing a mechanical barrier that prevents the oedema
+from dorsally relocating the spinal cord tissue. This
+approach of using a mechanical barrier could result in
+further damage to the spinal cord, as the swollen injured
+region compresses surrounding tissue. Even though the
+injured tissue/scaffold was pushed dorsally, the microen-
+vironment surrounding the implant and lesion could still be
+investigated for the 6 days time point. While our goal is to
+Fig. 7 IHC images showing that neurocan expression is different
+between control and scaffold groups. Neurocan (red) is up-regulated
+significantly ventral to the injury for controls (a and c) while the
+fluorescent signal for both groups is increased rostral/caudal of the
+injury. Astrocytes are stained for GFAP (green) while nuclei were
+counterstained with DAPI (blue). Higher magnification images of the
+lesion in control (c) and scaffold implanted (d) animals with the
+pHEMA scaffold outlined in (d) (Color figure online)
+J Mater Sci: Mater Med (2013) 24:2001–2011 2007
+123
+establish a small lesion SCI model for TE scaffold inte-
+gration, the robust dorsal relocation of the scaffold indi-
+cates that unmodified pHEMA may not be well-suited for
+regeneration in this tissue.
+3.1 Immune response
+Since SCI is partly driven by inflammatory processes, we
+used ED-1 (CD68) staining to determine the center of the
+injury so that GFAP and neurocan assessments can be
+made at the sites of maximum injury. The ED-1 antibody
+stains activated macrophages and microglia; fluorescent
+and light micrographs are shown in Figs. 3 and 4 respec-
+tively. As can be seen in Fig. 3a, b, the injury center,
+immediate parenchyma and the dorsal surface contain the
+majority of ED-1? cells while the pHEMA scaffold was
+filled almost exclusively with ED-1? cells (Fig. 4d).
+Quantitative analysis of ED-1? cells was not accurately
+possible, as the tissue dorsal to the injury is structurally
+weak and does not adhere well to the slides, with some
+lifting off during IHC processing. Since this region con-
+tains a significant amount of ED-1? cells, we were unable
+to accurately quantify and compare the ED-1 response
+between the scaffold and lesion groups. Therefore ED-1
+was only used qualitatively to describe activated macro-
+phage/microglia distribution and detect the lesion epicenter
+for the GFAP and neurocan measurements. The transverse
+tissue section shown in Fig. 3c provides a different per-
+spective of the injury response, and the surgery. The extent
+of ED-1? cells could be found well beyond the depth of
+the lesion (0.3 mm).
+3.2 Reactive gliosis
+The extent of reactive gliosis in the injury parenchyma was
+measured through GFAP intensity of fluorescently stained
+sections (Fig. 5). GFAP, which is an intermediate filament
+within astrocytes, is commonly known to be up-regulated after
+injury and a measure of gliosis [42, 43]. However the role that
+such intermediate filaments play in the mechanical stabiliza-
+tion of CNS tissue is only recently being understood. A recent
+article showed that an increase in the intermediate filaments of
+astrocytes correlates with the stiffness of the tissue [44] pro-
+viding a mechanical barrier to axon regeneration. In this study,
+no GFAP labeled filaments can be seen within the injury area
+of either group, while GFAP is clearly elevated compared to
+Fig. 8 Calculation and comparison of neurocan expression in both
+the scaffold and control group. The graph shows the comparison of
+neurocan intensity (average intensity/area) between control and
+scaffold groups, with significantly different intensities at 0, 200 and
+400 lm (P B 0.05). The spinal cord section shown in this example is
+from the pHEMA scaffold group
+2008 J Mater Sci: Mater Med (2013) 24:2001–2011
+123
+the rest of the cord in the injury parenchyma. There was no
+GFAP signaling seen within the pHEMA scaffold (Fig. 5d)
+indicating no migration of host astrocytes into this region.
+Furthermore, the pHEMA group had a significantly lower
+(P = 0.008) GFAP signal surrounding the implant area
+(Fig. 6) compared to lesion control animals. As would be
+expected, the pHEMA group had a statistically higher
+(P = 0.01) average GFAP? intensity than uninjured controls.
+One possible explanation to the lower GFAP expressions
+is that the scaffold rapidly stabilizes the spinal cord
+mechanically, before being pushes out by the oedema,
+reducing the need for the astrocytes to arrest the extent of
+injury. Since scaffolds are a porous material, endogenous
+fibrin clots assist in mechanical stabilization through inter-
+locking the scaffold pores with the natural tissue. Figure 5d
+shows a magnified image of the pHEMA implant with
+astrocytes that are approximately 50 lm away from the
+pHEMA scaffold. Qualitatively, this compares to the lesion
+controls where there is a more extended loss of GFAP signal
+around the injury foci. The implantation of cell-invasive
+scaffolds has shown a reduction in cystic cavity formation in
+other studies including those with poly(hydroxypropyl
+methacrylamide) [45], fibronectin [15], collagen [46–48],
+and poly(lactide-co-glycolide) [22]. Such scaffolds allow the
+infiltration and bonding with spinal cord tissue, possibly
+reducing the need for astrocytes to form a dense scar that later
+prevents regeneration. The mechanical stabilization of the
+injured spinal cord by using injectable hydrogels or scaffolds
+has a significant potential for research.
+3.3 Distribution of neurocan extracellular matrix
+Neurocan is an axon growth inhibitory CSPG that is produced
+by astrocytes and is up-regulated after injury to the CNS [49,
+50]. In this study we use IHC to determine the distribution of
+neurocan at the scaffold/injury site and parenchyma. Figure 7
+shows the distribution of neurocan (red fluorescence) in the
+injured spinal cord control and pHEMA groups. Increased
+neurocan expression could be found in an area surrounding
+the lesion site. Interestingly, while neurocan expression was
+highest ventral to the lesion site in the lesion-only group, this
+area was the lowest in the pHEMA group (Fig. 7). There was
+a statistically significant difference between the lesion only
+and the pHEMA group in this area (0–400 lm, P \ 0.05,
+Fig. 8). Furthermore, the region within the scaffold had very
+low levels of neurocan as measured by IHC.
+4 Conclusion
+In summary, this small lesion animal SCI model allowed us
+to investigate the cellular and ECM microenvironment
+surrounding a TE scaffold without inflicting a severe injury
+on the animal. While such lesion injuries are not widely
+perceived as clinically relevant, our goal was to develop an
+in vivo model that assesses the host tissue response to an
+implanted material. Our approach differs from other hemi-
+section models in that we implant a volume that is over 10
+times smaller than other studies and into a region of white
+matter only. Importantly, the SCI lesion was small and
+post-operative care of the animal could be kept to a min-
+imum. While the pHEMA scaffold reduced astrocyte gli-
+osis and production of the inhibitory ECM protein
+neurocan, it was also dorsally relocated at 6 days and
+pushed entirely out of the spinal cord after 28 days. This
+small lesion in vivo SCI model may allow us to understand
+host tissue response to implants for the comparison of
+various TE scaffolds.
+Acknowledgments We appreciate the support from the Natural
+National Science Foundation of China (Grants 30970727 and
+31070844). We appreciate the help from Professor Lisa Xu with
+accommodating the in vivo experiments, Dr Brook Farrugia for SEM
+of the PCL electrospun membrane and Professor Alan Harvey for his
+instructive suggestions.
+References
+1. Fitch MT, Doller C, Combs CK, Landreth GE, Silver J. Cellular and
+molecular mechanisms of glial scarring and progressive cavitation:
+in vivo and in vitro analysis of inflammation-induced secondary
+injury after CNS trauma. J Neurosci. 1999;19(19):8182–98.
+2. Fitch MT, Silver J. CNS injury, glial scars, and inflammation:
+inhibitory extracellular matrices and regeneration failure. Exp
+Neurol. 2008;209(2):294–301.
+3. Dalton PD, Harvey AR, Oudega M, Plant GW. Tissue engi-
+neering of the nervous system. In: Van Blitterswijk C, Thompsen
+P, Lindhal A, Hubbell J, Williams DF, Cancedda R, et al.,
+editors. Tissue engineering. Amsterdam: Academic Press; 2008.
+p. 611–47.
+4. Schmidt CE, Leach JB. Neural tissue engineering: strategies for
+repair and regeneration. Annu Rev Biomed Eng. 2003;5:293–347.
+doi:10.1146/annurev.bioeng.5.011303.120731.
+5. Straley KS, Foo CWP, Heilshorn SC. Biomaterial design strate-
+gies for the treatment of spinal cord injuries. J Neurotrauma.
+2010;27(1):1–19. doi:10.1089/neu.2009.0948.
+6. Basso DM, Beattie MS, Bresnahan JC, Anderson DK, Faden AI,
+Gruner JA, et al. MASCIS evaluation of open field locomotor
+scores: effects of experience and teamwork on reliability. J Neu-
+rotrauma. 1996;13(7):343–59.
+7. Hulsebosch CE, Xu GY, Perez-Polo JR, Westlund KN, Taylor
+CP, McAdoo DJ. Rodent model of chronic central pain after
+spinal cord contusion injury and effects of gabapentin. J Neuro-
+trauma. 2000;17(12):1205–17.
+8. Tsai MC, Shen LF, Kuo HS, Cheng H, Chak KF. Involvement of
+acidic fibroblast growth factor in spinal cord injury repair
+processes revealed by a proteomics approach. Mol Cell Proteo-
+mics (MCP). 2008;7(9):1668–87. doi:10.1074/mcp.M800076-
+MCP200.
+9. Scheff SW, Rabchevsky AG, Fugaccia I, Main JA, Lumpp JE Jr.
+Experimental modeling of spinal cord injury: characterization of
+a force-defined injury device. J Neurotrauma. 2003;20(2):179–93.
+J Mater Sci: Mater Med (2013) 24:2001–2011 2009
+123
+10. Jakeman LB, Guan Z, Wei P, Ponnappan R, Dzwonczyk R, Popo-
+vich PG, et al. Traumatic spinal cord injury produced by controlled
+contusion in mouse. J Neurotrauma. 2000;17(4):299–319.
+11. Vanicky I, Urdzikova L, Saganova K, Cizkova D, Galik J. A
+simple and reproducible model of spinal cord injury induced by
+epidural balloon inflation in the rat. J Neurotrauma. 2001;18(12):
+1399–407.
+12. Poon PC, Gupta D, Shoichet MS, Tator CH. Clip compression
+model is useful for thoracic spinal cord injuries—histologic and
+functional correlates. Spine. 2007;32(25):2853–9.
+13. Mills CD, Hains BC, Johnson KM, Hulsebosch CE. Strain and model
+differences in behavioral outcomes after spinal cord injury in rat.
+J Neurotrauma. 2001;18(8):743–56. doi:10.1089/089771501316919
+111.
+14. King VR, Hewazy D, Alovskaya A, Phillips JB, Brown RA,
+Priestley JV. The neuroprotective effects of fibronectin mats and
+fibronectin peptides following spinal cord injury in the rat.
+Neuroscience. 2010;168(2):523–30. doi:10.1016/j.neuroscience.
+2010.03.040.
+15. Khatun F, King V, Alovskaya A, Brown RA, Priestley JV.
+Fibronectin based biomaterials as a treatment for spinal cord
+injury. Tiss Eng. 2007;13(7):1697.
+16. Itosaka H, Kuroda S, Shichinohe H, Yasuda H, Yano S, Kamei S,
+et al. Fibrin matrix provides a suitable scaffold for bone marrow
+stromal cells transplanted into injured spinal cord: a novel material
+for CNS tissue engineering. Neuropathology. 2009;29(3):248–57.
+doi:10.1111/j.1440-1789.2008.00971.x.
+17. Bakshi A, Fisher O, Dagci T, Himes BT, Fischer I, Lowman A.
+Mechanically engineered hydrogel scaffolds for axonal growth
+and angiogenesis after transplantation in spinal cord injury.
+J Neurosurg Spine. 2004;1(3):322–9.
+18. Kubinova S, Horak D, Hejcl A, Plichta Z, Kotek J, Proks V, et al.
+SIKVAV-modified highly superporous PHEMA scaffolds with
+oriented pores for spinal cord injury repair. J Tiss Eng Regen
+Med. 2013;. doi:10.1002/term.1694.
+19. Giannetti S, Lauretti L, Fernandez E, Salvinelli F, Tamburrini G,
+Pallini R. Acrylic hydrogel implants after spinal cord lesion in the
+adult rat. Neurol Res. 2001;23(4):405–9.
+20. Stokols S, Sakamoto J, Breckon C, Holt T, Weiss J, Tuszynski
+MH. Templated agarose scaffolds support linear axonal regen-
+eration. Tiss Eng. 2006;12(10):2777–87.
+21. Stokols S, Tuszynski MH. Freeze-dried agarose scaffolds with
+uniaxial channels stimulate and guide linear axonal growth fol-
+lowing spinal cord injury. Biomaterials. 2006;27(3):443–51. doi:
+10.1016/j.biomaterials.2005.06.039.
+22. Teng YD, Lavik EB, Qu XL, Park KI, Ourednik J, Zurakowski D,
+et al. Functional recovery following traumatic spinal cord injury
+mediated by a unique polymer scaffold seeded with neural stem
+cells. Proc Natl Acad Sci USA. 2002;99(14):9606. doi:10.1073/
+pnas.112189299.
+23. Kim H, Tator CH, Shoichet MS. Chitosan implants in the rat
+spinal cord: biocompatibility and biodegradation. J Biomed
+Mater Res Part A. 2011;97A:396–404.
+24. Dalton PD, Klee D, Moller M. Electrospinning with dual col-
+lection rings. Polymer. 2005;46(3):611–4. doi:10.1016/j.polymer.
+2004.11.075.
+25. Xu CY, Inai R, Kotaki M, Ramakrishna S. Electrospun nanofiber
+fabrication as synthetic extracellular matrix and its potential for
+vascular tissue engineering. Tiss Eng. 2004;10(7–8):1160–8. doi:
+10.1089/ten.2004.10.1160.
+26. Chirila TV, Higgins B, Dalton PD. The effect of synthesis con-
+ditions on the properties of poly(2-hydroxyethyl methacrylate)
+sponges. Cell Polym. 1998;17(3):141–62.
+27. Iannotti C, Zhang YP, Shields LB, Han Y, Burke DA, Xu XM,
+et al. Dural repair reduces connective tissue scar invasion and
+cystic cavity formation after acute spinal cord laceration injury in
+adult rats. J Neurotrauma. 2006;23(6):853–65. doi:10.1089/neu.
+2006.23.853.
+28. Gelain F, Panseri S, Antonini S, Cunha C, Donega M, Lowery J,
+et al. Transplantation of nanostructured composite scaffolds
+results in the regeneration of chronically injured spinal cords.
+ACS Nano. 2011;5(1):227–36. doi:10.1021/nn102461w.
+29. Schnell L, Fearn S, Klassen H, Schwab ME, Perry VH. Acute
+inflammatory responses to mechanical lesions in the CNS: dif-
+ferences between brain and spinal cord. Eur J Neurosci. 1999;
+11(10):3648–58.
+30. Jain A, Kim YT, McKeon RJ, Bellamkonda RV. In situ gelling
+hydrogels for conformal repair of spinal cord defects, and local
+delivery of BDNF after spinal cord injury. Biomaterials.
+2006;27(3):497–504. doi:10.1016/j.biomaterials.2005.07.008.
+31. Liu T, Houle JD, Xu JY, Chan BP, Chew SY. Nanofibrous col-
+lagen nerve conduits for spinal cord repair. Tiss Eng Part A.
+2012;18(9–10):1057–66. doi:10.1089/ten.tea.2011.0430.
+32. King VR, Phillips JB, Hunt-Grubbe H, Brown R, Priestley JV.
+Characterization of non-neuronal elements within fibronectin mats
+implanted into the damaged adult rat spinal cord. Biomaterials.
+2006;27(3):485–96. doi:10.1016/j.biomaterials.2005.06.033.
+33. Bamber NI, Li HY, Aebischer P, Xu XM. Fetal spinal cord tissue
+in mini-guidance channels promotes longitudinal axonal growth
+after grafting into hemisected adult rat spinal cords. Neural Plast.
+1999;6(4):103–21.
+34. Bamber NI, Li HY, Lu XB, Oudega M, Aebischer P, Xu XM.
+Neurotrophins BDNF and NT-3 promote axonal re-entry into the
+distal host spinal cord through Schwann cell-seeded mini-chan-
+nels. Eur J Neurosci. 2001;13(2):257–68.
+35. Novikov LN, Novikova LN, Mosahebi A, Wiberg M, Terenghi G,
+Kellerth JO. A novel biodegradable implant for neuronal rescue
+and regeneration after spinal cord injury. Biomaterials. 2002;
+23(16):3369–76.
+36. Teng YD, Lavik EB, Qu XL, Park KI, Ourednik J, Zurakowski D,
+et al. Functional recovery following traumatic spinal cord injury
+mediated by a unique polymer scaffold seeded with neural stem
+cells. Proc Natl Acad Sci USA. 2002;99(5):3024–9. doi:10.1073/
+pnas.052678899.
+37. Bramlett HM. Sex differences and the effect of hormonal therapy
+on ischemic brain injury. Pathophysiology. 2005;12(1):17–27.
+doi:10.1016/j.pathophys.2005.02.009.
+38. Roof RL, Hall ED. Gender differences in acute CNS trauma and
+stroke: neuroprotective effects of estrogen and progesterone.
+J Neurotrauma. 2000;17(5):367–88.
+39. Crawford GJ, Chirila TV, Vijayasekaran S, Dalton PD, Constable
+IJ. Preliminary evaluation of a hydrogel core-and-skirt kerato-
+prosthesis in the rabbit cornea. J Refract Surg. 1996;12(4):525–9.
+40. Hicks C, Crawford G, Chirila T, Wiffen S, Vijayasekaran S, Lou
+X, et al. Development and clinical assessment of an artificial
+cornea. Prog Retinal Eye Res. 2000;19(2):149–70. doi:10.1016/s
+1350-9462(99)00013-0.
+41. Fleming JC, Norenberg MD, Ramsay DA, Dekaban GA, Marcillo
+AE, Saenz AD, et al. The cellular inflammatory response in
+human spinal cords after injury. Brain. 2006;129(Pt 12):3249–69.
+doi:10.1093/brain/awl296.
+42. Pekny M, Pekna M. Astrocyte intermediate filaments in CNS
+pathologies and regeneration. J Pathol. 2004;204(4):428–37. doi:
+10.1002/Path.1645.
+43. Faulkner JR, Herrmann JE, Woo MJ, Tansey KE, Doan NB,
+Sofroniew MV. Reactive astrocytes protect tissue and preserve
+function after spinal cord injury. J Neurosci. 2004;24(9):2143–55.
+doi:10.1523/Jneurosci.3547-03.2004.
+44. Lu YB, Iandiev I, Hollborn M, Korber N, Ulbricht E, Hirrlinger PG,
+et al. Reactive glial cells: increased stiffness correlates with
+increased intermediate filament expression. FASEB J. 2011;
+25(2):624–31. doi:10.1096/Fj.10-163790.
+2010 J Mater Sci: Mater Med (2013) 24:2001–2011
+123
+45. Woerly S, Petrov P, Sykova E, Roitbak T, Simonova Z, Harvey
+AR. Neural tissue formation within porous hydrogels implanted
+in brain and spinal cord lesions: ultrastructural, immunohisto-
+chemical, and diffusion studies. Tiss Eng. 1999;5(5):467–88.
+46. Fuhrmann T, Hillen LM, Montzka K, Woltje M, Brook GA. Cell–
+cell interactions of human neural progenitor-derived astrocytes
+within a microstructured 3D-scaffold. Biomaterials. 2010;31(30):
+7705–15. doi:10.1016/j.biomaterials.2010.06.060.
+47. Spilker MH, Yannas IV, Kostyk SK, Norregaard TV, Hsu HP,
+Spector M. The effects of tubulation on healing and scar for-
+mation after transection of the adult rat spinal cord. Restor Neurol
+Neurosci. 2001;18(1):23–38.
+48. Spilker MH, Yannas IV, Hsu HP, Norregaard TV, Kostyk SK,
+Spector M. The effects of collagen-based implants on early
+healing of the adult rat spinal cord. Tiss Eng. 1997;3(3):309–17.
+49. Asher RA, Morgenstern DA, Fidler PS, Adcock KH, Oohira A,
+Braistead JE, et al. Neurocan is upregulated in injured brain and
+in cytokine-treated astrocytes. J Neurosci. 2000;20(7):2427–38.
+50. Properzi F, Carulli D, Asher RA, Muir E, Camargo LM, van
+Kuppevelt TH, et al. Chondroitin 6-sulphate synthesis is up-
+regulated in injured CNS, induced by injury-related cytokines and
+enhanced in axon-growth inhibitory glia. Eur J Neurosci.
+2005;21(2):378–90. doi:10.1111/j.1460-9568.2005.03876.x.
+J Mater Sci: Mater Med (2013) 24:2001–2011 2011
+123

@@ -1,0 +1,900 @@
+Highly superporous cholesterol-modified poly(2-hydroxyethyl
+methacrylate) scaffolds for spinal cord injury repair
+Šárka Kubinová,1 Daniel Horák,2,3 Aleš Hejčl,1,4 Zdeněk Plichta,2 Jiřı́ Kotek,2 Eva Syková1,3,5
+1Institute of Experimental Medicine, Academy of Sciences of the Czech Republic, Vı́den̆ská 1083, 14220 Prague 4,
+Czech Republic
+2Institute of Macromolecular Chemistry, Academy of Sciences of the Czech Republic, Heyrovský Sq. 2, 16206 Prague 6,
+Czech Republic
+3Center for Cell Therapy and Tissue Repair, Charles University, V Úvalu 84, 15006 Prague 5, Czech Republic
+4Department of Neurosurgery, Masaryk Hospital, Sociálnı́ péče 3316/12a, 40011 Ústı́ nad Labem, Czech Republic
+5Department of Neuroscience, 2nd Medical Faculty, Charles University, V Úvalu 84, 15006 Prague 5, Czech Republic
+Received 14 February 2011; accepted 21 July 2011
+Published online 27 September 2011 in Wiley Online Library (wileyonlinelibrary.com). DOI: 10.1002/jbm.a.33221
+Abstract: Modifications of poly(2-hydroxyethyl methacrylate)
+(PHEMA) with cholesterol and the introduction of large pores
+have been developed to create highly superporous hydrogels
+that promote cell–surface interactions and that can serve as a
+permissive scaffold for spinal cord injury (SCI) treatment.
+Highly superporous cholesterol-modified PHEMA scaffolds
+have been prepared by the bulk radical copolymerization of
+2-hydroxyethyl methacrylate (HEMA), cholesterol methacry-
+late (CHLMA), and ethylene dimethacrylate (EDMA) cross-
+linking agent in the presence of ammonium oxalate crystals
+to establish interconnected pores in the scaffold. Moreover,
+2-[(methoxycarbonyl)methoxy]ethyl methacrylate (MCMEMA)
+was incorporated in the polymerization recipe and hydro-
+lyzed, thus introducing carboxyl groups in the hydrogel to
+control its swelling and softness. The hydrogels supported
+the in vitro adhesion and proliferation of rat mesenchymal
+stem cells. In an in vivo study of acute rat SCI, hydrogels
+were implanted to bridge a hemisection cavity. Histological
+evaluation was done 4 weeks after implantation and revealed
+the good incorporation of the implanted hydrogels into the
+surrounding tissue, the progressive infiltration of connective
+tissue and the ingrowth of neurofilaments, Schwann cells,
+and blood vessels into the hydrogel pores. The results show
+that highly superporous cholesterol-modified PHEMA hydro-
+gels have bioadhesive properties and are able to bridge a spi-
+nal cord lesion. VC 2011 Wiley Periodicals, Inc. J Biomed Mater Res
+Part A: 99A: 618–629, 2011.
+Key Words: 2-hydroxyethyl methacrylate, scaffold, hydrogel,
+cholesterol, spinal cord repair, stem cells
+How to cite this article: Kubinová Š, Horák D, Hejčl A, Plichta Z, Kotek J, Syková E. 2011. Highly superporous cholesterol-modified
+poly(2-hydroxyethyl methacrylate) scaffolds for spinal cord injury repair. J Biomed Mater Res Part A 2011:99A:618–629.
+INTRODUCTION
+Spinal cord injury (SCI) often results in permanent neurolog-
+ical deficits as a consequence of the inability of axons to
+regenerate across the lesion. Although the adult spinal cord
+is currently known to be capable of functional reorganiza-
+tion and axonal sprouting and, similarly as other regions of
+the adult central nervous system (CNS), the adult spinal
+cord contains neural stem and progenitor cells,1 the inhibi-
+tory environment of the mature mammalian CNS, the glial
+scar barrier as well as cyst formation hinder neurons from
+regenerating across the site of injury.2 Cell transplantation
+has emerged as a promising therapeutic approach for SCI.3,4
+However, in the case of a large spinal cord lesion, when the
+cystic cavity is developed, cell transplantation alone is not
+sufficient for tissue regeneration, and tissue repair requires
+‘‘bridging’’ the lesion with a 3D permissive environment that
+can fill the tissue gap and concomitantly support axonal re-
+growth and the re-establishment of damaged connections.5
+To develop appropriate materials, much of the current
+research is focused on both naturally derived and synthetic
+hydrogels due to their softness and flexibility,5,6 but also
+other materials, such as sponges, self-assembling nanofibers,
+tubes, and fibers, have been studied.7–12 Hydrogels are cross-
+linked hydrophilic polymers that swell in water, which can
+make their mechanical properties similar to those of the
+nervous tissue and concomitantly enable ion and metabolite
+exchange with tissue fluids. Naturally derived hydrogels com-
+prising collagen,13 alginates,14 hyaluronic acid,15,16 agarose,17
+Additional Supporting Information may be found in the online version of this article.
+Correspondence to: Š. Kubinová; e-mail: sarka.k@biomed.cas.cz
+Contract grant sponsor: Czech Science Foundation; contract grant numbers: P304/11/0731, P304/11/P633, 108/10/1560, P304/11/0653
+Contract grant sponsor: Academy of Sciences of the Czech Republic; contract grant numbers: KAN200520804, IAA500390902
+Contract grant sponsor: Ministry of Education, Youth and Sports of the Czech republic; contract grant number: 1M0538
+618 VC 2011 WILEY PERIODICALS, INC.
+or fibrin18 have been reported to be promising scaffolding
+materials for the treatment of SCI as they are nontoxic,
+biocompatible, and mostly biodegradable.19 The synthetic
+hydrogels used for spinal cord implantation include
+poly(ethylene glycol),20 poly(2-hydroxyethyl methacrylate)
+(PHEMA),21–23 or poly[N-(2-hydroxypropyl) methacrylamide]
+(PHPMA).22,24
+For neural repair, hydrogels are additionally being
+designed for cell transfer12,25 or as carriers for the sus-
+tained local delivery of chondroitinase,26 neurotrophic fac-
+tors,27 or other drugs and bioactive substances.28
+PHEMA has been widely used as a biomaterial due to its
+good biocompatibility and the possibility to tailor its physi-
+cal and chemical properties.29 Since PHEMA does not have
+cell-adhesive properties, additional modification of this poly-
+mer is needed to promote cell–surface interactions. To
+improve the bioactivity of PHEMA scaffolds, the introduction
+of groups with positive charges30 or modification with lami-
+nin-derived peptides have been previously employed.31,32 In
+a previous report, we have demonstrated that cholesterol-
+modified superporous PHEMA scaffolds (with a pore size
+from 101 to 102 lm) display significantly improved bioadhe-
+sive properties and support cell adhesion and prolifera-
+tion.33 However, the elastic modulus of these scaffolds,
+ 130 kPa, was much higher than the elastic modulus
+determined for neuronal tissue,  1–4 kPa,34,35 and there-
+fore not suitable for application in neural tissue engineering,
+especially for spinal cord treatment. In the present study,
+we aimed to increase the swellability and softness of choles-
+terol-modified PHEMA hydrogels and to design highly
+superporous scaffolds possessing good mechanical proper-
+ties that could be utilized as implants in the soft spinal cord
+tissue. In contrast to superporous scaffolds with  45%
+inorganic porogen loading, highly superporous hydrogels
+possess more porogen, amounting to 60–65% of the entire
+hydrogel volume. Novel cholesterol-modified superporous
+PHEMA scaffolds have been prepared by the bulk radical
+copolymerization of 2-hydroxyethyl methacrylate (HEMA),
+cholesterol methacrylate (CHLMA), and the crosslinking
+agent ethylene dimethacrylate (EDMA) in the presence of
+ammonium oxalate crystals to introduce interconnected
+superpores in the matrix. To increase swellability, an addi-
+tional monomer, 2-[(methoxycarbonyl)methoxy]ethyl meth-
+acrylate (MCMEMA), was incorporated in the polymerization
+recipe and hydrolyzed to [2-(methacryloyloxy)ethoxy]acetic
+acid (MOEAA), thus introducing carboxyl groups in the poly-
+mer. Three types of PHEMA hydrogels containing 2 wt %, 4
+wt %, and 8 wt % of MOEAA were prepared, differing both
+in swelling and charge.
+To evaluate the in vitro biocompatibility of the hydro-
+gels, cell adhesion and proliferation were studied using mes-
+enchymal stem cells (MSCs). MSCs have been increasingly
+used in cell therapy and tissue engineering, due to their re-
+generative potential and capacity to differentiate into vari-
+ous cell types after implantation into injured tissue.36 More-
+over, it has been shown recently that PHPMA hydrogels
+seeded with MSCs and implanted into a chronic spinal cord
+lesion prevented tissue atrophy and improved behavioral
+outcome.37 To determine their ability to bridge a spinal
+cord lesion, the hydrogels were implanted into an acute
+model of SCI in rats (hemisection), and their regenerative
+potential was histologically evaluated 4 weeks after
+implantation.
+MATERIALS AND METHODS
+Reagents
+HEMA (Röhm, Germany) and EDMA (Ugilor S.A., France)
+were distilled under reduced pressure. MCMEMA and
+CHLMA were synthesized according to a previously pub-
+lished procedure.33 2,20-Azobisisobutyronitrile (AIBN) was
+obtained from Fluka, Buchs, Switzerland. Ammonium oxalate
+(Lachema, Brno, Czech Republic) was crystallized from
+water under the formation of 30–90 lm thick and about
+0.3–10 mm long needle-like crystals and used as a porogen.
+All other chemicals were obtained from Sigma-Adrich (St.
+Luis, MO).
+Dulbecco’s modified Eagle’s medium (DMEM) and fetal
+bovine serum (FBS), purchased from PAA Laboratories
+(Pasching, Austria), and PrimocinTM purchased from Lonza
+(Cologne, Germany) were used for cell cultivation. The WST-
+1 assay was purchased from Roche (Mannheim, Germany).
+Ampicilin, atropine, and mesocain were purchased from BB
+Pharma (Prague, Czech Republic). For immunofluorescent
+staining, Chemiblocker, Triton X-100, bovine serum albumin
+(BSA), mouse anti-vinculin, Cy3-conjugated mouse anti-
+GFAP, mouse anti-NF 160 and mouse anti-NF 200 purchased
+from Sigma-Aldrich, rabbit anti-NGF Receptor p75 pur-
+chased from Millipore (Temecula, CA), mouse anti-RECA-1
+purchased from Abcam (Cambridge, MA), Alexa-Fluor 568
+phalloidin, 40,6-diamidino-2-phenylindole (DAPI), and goat
+anti-mouse IgG conjugated with Alexa-Fluor 488 or Alexa-
+Fluor 594, purchased from Molecular Probes (Invitrogen,
+Paisley, UK), were used.
+Preparation of superporous P(HEMA-CHLMA) hydrogel
+implants
+In a typical experiment, a 5 mL polyethylene syringe
+equipped with a stainless 32-lm mesh was loaded in a
+dust-free box with a suspension of freshly crystallized am-
+monium oxalate (2.55 g; 42.3 vol %) in water. The excess
+solution was removed by centrifugation, and the crystals
+washed with ethanol and dried at room temperature. The
+hot (90C) saturated solution (3 mL) of ammonium oxalate
+was again loaded and additional crystals were precipitated
+after cooling. This procedure was repeated three times. The
+monomer mixture, including HEMA (2.375 or 2.225 g),
+MCMEMA (50 or 200 mg; 2 or 8 wt %), CHLMA (50 mg; 2
+wt %), EDMA (25 mg; 1 wt %), AIBN (10 mg), and 1,4-diox-
+ane (1.25 mL), was then added and the syringe sealed. The
+mixture was polymerized at 60C for 16 h; the syringe was
+then cut lengthwise and the hydrogel cylinder removed. The
+resulting superporous poly(2-hydroxyethyl methacrylate-co-
+2-[(methoxycarbonyl)methoxy]ethyl methacrylate-co-choles-
+terol methacrylate-co-ethylene dimethacrylate) [P(HEMA-
+MCMEMA-CHLMA-EDMA), in the text further abbreviated as
+P(HEMA-CHLMA)], cylinder was incubated at room
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | 15 DEC 2011 VOL 99A, ISSUE 4 619
+temperature first in a saturated solution of NaCl for 24 h
+(to avoid cracks) and then in 300 mL of 0.025M H2SO4 for
+24 h to hydrolyze the MCMEMA moiety, yielding MOEAA.
+This was followed by repeated washing with water (200 mL
+each time) for 4 days, treatment at 23C with 300 mL of
+0.05M NaOH for 6 h, and finally by washing with water
+until a neutral pH was reached.
+Analogously, the P(HEMA-MCMEMA-CHLMA-EDMA) cyl-
+inder was washed in a saturated solution of NaCl and water
+for 4 h, followed by washing with 5% ammonium hydroxide
+solution at 45C for 16 h to transform MCMEMA into 2-(2-
+amino-2-oxoethoxy)ethyl methacrylate (AOEEMA) (Scheme
+1). Finally, the cylinder was washed with water, 0.05M HCl,
+and water. For the cell culture experiments, cylinders were
+cut into 0.7-mm thick discs using an HM650V Vibroslicer
+(Microm, Walldorf, Germany), washed with water, 0.025M
+H2SO4, 0.1M NaOH, and water, and finally sterilized in an
+autoclave for 30 min at 120C.
+Hydrogel characterization
+Scanning electron microscopy (SEM) images were acquired
+using a JSM 6400 (Jeol, Tokyo, Japan) scanning electron
+microscope. The samples were sputter-coated with 4 nm of
+Pt before imaging. Fluorescent images were acquired by a
+LSM DUO5 laser scanning confocal microscope (Zeiss, Jena,
+Germany).
+Swelling (Sw) and water regain in pores (P) were esti-
+mated by weighing water-soaked PHEMA cylinders before
+(mw) and after centrifugation (mc) (800g). Hydrogels were
+swollen in water for at least 16 h. Water regain in pores
+was determined as P ¼ (mw  mc)/mc (g/g). Swelling was
+defined as Sw ¼ (mc – mo)/mo (g/g), where mo is the weight
+of the dried polymer.
+Mechanical testing
+The stiffness of highly superporous P(HEMA-2%MOEAA-
+CHLMA), P(HEMA-8%MOEAA-CHLMA), and P(HEMA-
+4%MOEAA-4%AOEEMA-CHLMA) samples was assessed by
+compressive testing. Cylindrical specimens having an h/D
+(height-to-diameter) ratio equal to 1 were exposed to a
+compressive load using an Instron 5800R (Norwood, MA)
+universal tester. The diameter of the cylinders was approxi-
+mately 12.5 mm. The tests were performed at a constant
+speed of 0.5 mm/min at ambient temperature. During the
+test the cylinders were immersed in a phosphate buffer.
+From the initial straight-line portion of the stress–strain dia-
+gram, a modulus of elasticity was calculated by dividing the
+change in stress r2 – r1 by the corresponding change in
+strain e2 ¼ 0.10 minus e1 ¼ 0.05. Assessment of the modu-
+lus is schematically depicted in Figure 1.
+Cell culture
+MSCs were isolated from 4-week-old Wistar rats. The bone
+marrow was extruded from the femurs using a needle and a
+syringe with MSC culture medium containing DMEM with
+10% FBS and PrimocinTM (100 lg/mL). After 24 h, the non-
+adherent cells were removed by replacing the medium. Cul-
+tures were kept in a humidified 5% CO2 atmosphere at
+37C; cells up to the third passage were used for seeding
+hydrogel discs. Sterile hydrogel discs were placed into a 24-
+well plate with MSC culture medium, seeded with a suspen-
+sion of 40,000 cells per disc and incubated for 1–5 days.
+Cell viability was determined by the WST-1 assay based on
+the spectrophotometric quantification of the water-soluble
+formazan dye. One, three and five days after seeding, the
+discs were washed with culture medium and placed into a
+new well with 0.5 mL culture medium. Fifty microliters of
+the WST-1 reagent were added to each disc, and the discs
+were incubated for 3 h at 37C to form formazan. Two hun-
+dred microliters of formazan-containing medium were then
+transferred from each well to a 96-well plate. The absorb-
+ance was measured using a Tecan Spectra ELISA plate
+reader (Tecan Trading, Männedorf, Switzerland) at a wave-
+length of 450 nm.
+The morphology of the cells grown on the hydrogels
+was examined by immunofluorescent staining for actin fila-
+ments and vinculin. After fixation in paraformaldehyde in
+PBS for 15 min, the cells were washed with 0.1M PBS and
+SCHEME 1. Ammonolysis of P(HEMA-MCMEMA) hydrogel.
+620 KUBINOVÁ ET AL. PHEMA FOR SCI REPAIR
+treated with Chemiblocker (1:20) and Triton X-100 (0.5%)
+in PBS. MSCs were incubated with Alexa-Fluor 568 phalloi-
+din (1:300) and with an antibody directed against vinculin
+(1:200) diluted in 0.1M PBS containing 1% BSA and Triton
+X-100 (0.5 wt % solution). This was followed by incubation
+with a secondary goat anti-mouse IgG antibody conjugated
+with Alexa-Fluor 488 (1:200) diluted in 0.1M PBS contain-
+ing Triton X-100 (0.5 wt %). After washing with PBS, the
+nuclei were visualized by using 40,6-diamidino-2-phenylin-
+dole (DAPI) fluorescent dye.
+Hydrogel implantation
+Twelve male rats (Wistar, Velaz, Czech Republic) with a
+weight of 250–300 g underwent a hemisection at the level of
+the 8th thoracic vertebra (Th8). The animals were intraperi-
+toneally injected with pentobarbital for anesthesia (solution
+of 1 g/100 mL, 6 mL/kg of animal weight); one dose of ATB
+(ampicilin 0.3 mL s.c.), atropine (0.2 mL s.c., 1:5), and meso-
+cain to enhance local anesthesia (0.3 mL s.c. and i.m.) was
+administered preoperatively. A linear skin incision was per-
+formed above the spinous processes of Th7–9; the paraverte-
+bral muscles were detached from the laminae Th7–9, and a
+Th8 laminectomy was performed. The dura was incised, and
+about 2 mm  2 mm  2 mm of spinal cord tissue was
+dissected to form a hemisection cavity on the right side of
+the spinal cord. The animals were divided into three groups
+and P(HEMA-2%MOEAA-CHLMA), P(HEMA-4%MOEAA-4%-
+AOEEMA-CHLMA), or P(HEMA-8%MOEAA-CHLMA) sterile
+hydrogels were properly trimmed to adjust to the size and
+shape of the cavity. The hydrogel was implanted in such a
+way as to ensure that it would firmly adhere to the edges of
+the hemisection cavity without causing any undue pressure
+on the surrounding spinal cord tissue. The dura mater was
+sutured with a 10/0 monofil unresorbable thread (B Braun,
+Aesculap, Melsungen, Germany). The muscles and skin were
+sutured with a 4/0 monofil unresorbable thread (4/0 Chir-
+max, Prague, Czech Republic), and the animals were housed
+two in a cage with food and water ad libitum. The study was
+performed in accordance with the European Communities
+Council Directive of November 24, 1986 (86/609/EEC)
+regarding the use of animals in research and was approved
+by the Central Commission for Animal Protection of the Acad-
+emy of Sciences of the Czech Republic in Prague.
+Tissue processing and histology
+Four weeks after the hydrogel implantation, the animals
+were deeply anesthetized with an intraperitoneal injection
+of overdose pentobarbital and perfused with physiological
+saline followed by 4% paraformaldahyde in 0.1M phosphate
+buffer. The spinal cord was left in bone overnight, then
+removed and postfixed in the same fixative for at least 1
+week. A 3-cm long segment of the spinal cord containing
+the lesioned site was dissected out, and a series of 40 lm
+thick longitudinal sections was collected. Hematoxylin–eosin
+(H&E) staining was performed using a standard protocol.
+For immunohistological testing, antibodies directed against
+the following markers were used: GFAP (1:200) to identify
+astrocytes, NF 160 and NF 200 (1:200) to identify neurofila-
+ments, p75 (1:100) to identify Schwann cells, and RECA-1
+(1:50) to identify endothelial cells of blood vessels. Alexa
+Fluor 488-conjugated goat anti-rabbit IgG (1:200) and Alexa
+Fluor 594-conjugated goat anti-rabbit IgG (1:500) were
+used as secondary antibodies. The nuclei were visualized by
+using 40,6-diamidino-2-phenylindole (DAPI) fluorescent dye.
+Quantification of the neurofilament infiltration into the
+hydrogel
+Longitudinal histological sections were collected, and every
+fifth section from each type of implanted hydrogel was im-
+munostained for NF 160. The sections were examined with
+a fluorescent camera (Zeiss) and photographed using Axi-
+oVs40V Axiovision software (Zeiss). The area of neurofila-
+ments (NF) that infiltrated the hydrogel was delineated in
+each section, and the area of NF infiltration was calculated
+as (area of NF/area of hydrogel in the section)  100.
+Statistical analysis
+The values were calculated as mean 6 standard deviations.
+Statistically significant differences (p < 0.05) were deter-
+mined using a one-way ANOVA test.
+FIGURE 1. SEM micrograph of cross-sections of (A) conventional superporous and (B) highly superporous P(HEMA-2%MOEAA-CHLMA)
+hydrogels.
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | 15 DEC 2011 VOL 99A, ISSUE 4 621
+RESULTS AND DISCUSSION
+Fabrication of highly superporous cholesterol-modified
+PHEMA scaffolds
+Cellular adhesion to implants is important as it mediates
+many aspects of biocompatibility. The modification of
+PHEMA hydrogels with a functional group is necessary for
+in vitro cellular adhesion as well as for in vivo tissue infil-
+tration when a hydrogel is implanted into neuronal tissue.
+Surface charge is considered to be one of the factors influ-
+encing tissue ingrowth into an implanted hydrogel.30,38,39 To
+facilitate cell adhesion on a polymer matrix, cholesterol-
+modified PHEMA hydrogels (2 wt % CHLMA) were designed
+and proved to be successful for tissue engineering applica-
+tions.33 The polymer matrix, however, has to contain reac-
+tive functional groups if immobilization of biomolecules is
+required. Therefore, an additional monomer, MCMEMA, was
+incorporated in the polymerization recipe, which was hydro-
+lyzed to MOEAA after the completion of polymerization,
+thus introducing carboxyl groups in the polymer (Scheme
+1) to control swellability and softness and to facilitate the
+subsequent attachment of adhesive peptides, antibodies, or
+other biomolecules. Moreover, EDMA (1 wt %) was also
+used as a crosslinking agent comonomer, thus hindering the
+dissolution of the resulting material in biological fluids. The
+presence of CHLMA in the PHEMA hydrogel is then impor-
+tant to improve the cell adhesion.33
+To repair an SCI by implanting a polymer scaffold, it is
+important that the implant’s porosity and softness are com-
+parable to those of the nervous tissue. If the hydrogel is too
+stiff, the mismatch in mechanical properties between the
+native tissue of the soft spinal cord and the implant may
+result in the failure of the implant. Moreover, cysts between
+the implant and the surrounding spinal cord tissue might be
+formed after implantation (Supporting Information Fig. 1).
+The porosity (macro-, micro-, and nanopores) of the
+hydrogel scaffold plays an important role in enabling cell
+attachment and migration, as well as the diffusion of
+nutrients. Moreover, the substrate’s elasticity has been
+shown to regulate the differentiation of MSCs into a neuro-
+nal phenotype34 as well as neurite outgrowth.40
+To increase the pore volume, the syringe used as a mold
+for the fabrication of the P(HEMA-CHLMA) scaffolds was
+repeatedly (three times) charged with ammonium oxalate
+crystals. The procedure used for the preparation of the scaf-
+fold, namely the repeated addition of a hot saturated ammo-
+nium oxalate solution to previously introduced crystals, has
+been described in the Experimental section. Three highly
+superporous scaffolds were designed: (i) P(HEMA-
+2%MOEAA-CHLMA), (ii) P(HEMA-4%MOEAA-4%AOEEMA-
+CHLMA), and (iii) P(HEMA-8%MOEAA-CHLMA). As a result
+of repeated ammonium oxalate loading, the content of the
+crystals in the hydrogel increased to 65 vol %. The crystals
+in the polymer matrix maintained their diameter and length
+up to several millimeters. After washing-out of the salt, 30–
+100 lm pores were then imprinted in the conventional
+superporous PHEMA matrices (Fig. 2). Such pore size is de-
+sirable for the ingrowth of cells into the scaffold matrix.
+More pores with thinner walls were seen in highly
+superporous P(HEMA-2%MOEAA-CHLMA) hydrogel [Fig.
+1(B)], in which faster diffusion of low-molecular-weight
+compounds can be expected, than in conventional superpo-
+rous P(HEMA-2%MOEAA-CHLMA) hydrogel filled with a
+porogen only once [Fig. 1(A)].
+To increase the hydrophilicity, highly superporous
+P(HEMA-8%MOEAA-CHLMA) hydrogel was prepared with a
+fourfold greater amount of MOEAA moiety than in the
+P(HEMA-2%MOEAA-CHLMA) scaffold. As a consequence, the
+former hydrogel swelled in water about 2.7 times more com-
+pared with the latter one (Table I). Superporous P(HEMA-
+MOEAA-CHLMA) hydrogels (typical Sw > 1 g water/g dry
+polymer) swelled more than neat PHEMA, which contained
+only 0.38 g water/g of dry hydrogel. In order that the hydro-
+philic scaffolds were not only highly swellable, but at the
+same time also contained a limited amount of acids
+(MOEAA), which could be a limiting factor in biological tests
+(acid possibly irritating the tissue), highly superporous
+P(HEMA-8%MCMEMA-CHLMA) hydrogel was modified by a
+reaction with ammonium hydroxide. This resulted in about
+FIGURE 2. Schematic illustration of elasticity modulus assessment.
+Typical stress–strain curve for P(HEMA-2%MOEAA-CHLMA) hydrogel.
+TABLE I. Physico-Chemical Properties of Highly Superporous Cholesterol-Modified PHEMA Hydrogels
+Oxalate Content
+(mL/mL of feed) Sw (g/g) P (g/g) N (wt %) E (kPa)
+P(HEMA-2%MOEAA-CHLMA) 1.44 0.93 1.49 – 16.72 6 5.34
+P(HEMA-4%MOEAA-4%AOEEMA-CHLMA) 1.44 1.31 1.06 0.3 19.05 6 3.69
+P(HEMA-8%MOEAA-CHLMA) 1.44 2.50 1.74 – 10.06 6 1.76
+Sw, swelling; P, water regain in pores; N, nitrogen content; E, elastic modulus.
+622 KUBINOVÁ ET AL. PHEMA FOR SCI REPAIR
+50% ammonolysis of MCMEMA to 2-(2-amino-2-oxoethoxy)-
+ethyl methacrylate (AOEEMA) as confirmed by nitrogen
+analysis (Table I). The advantage of highly superporous
+P(HEMA-4%MOEAA-4%AOEEMA-CHLMA) hydrogel consists
+in the fact that its swelling is not so strongly pH-dependent,
+in contrast to P(HEMA-8%MOEAA-CHLMA) hydrogel. So, for
+example, while the volume of a highly superporous P(HEMA-
+8%MOEAA-CHLMA) cylinder was 2.2 mL at pH 2, it was 4.8
+mL at pH 12. In contrast, the volume of a highly superporous
+P(HEMA-4%MOEAA-4%AOEEMA-CHLMA) cylinder was 4
+mL at pH 2 and 4.6 mL at pH 12. With an increasing content
+of carboxyl groups (MOEAA) in highly superporous hydro-
+gels, not only their swelling in water but also their pore vol-
+ume increased (Table I). However, both values decreased af-
+ter partial ammonolysis, probably due to a lower content of
+carboxyl groups.
+Water regain in pores (P) should roughly correspond to
+the content of ammonium oxalate in the polymerization
+feed (Table I). The differences in the pore volume from the
+amount of porogen added in the feed in highly superporous
+P(HEMA-8%MOEAA-CHLMA) and P(HEMA-4%MOEAA-
+4%AOEEMA-CHLMA) hydrogels can be ascribed to inaccu-
+rate measurements due to the difficulty of manipulating a
+very soft (mechanically unstable) material (Table I). Never-
+theless, highly superporous cholesterol-modified PHEMA
+hydrogels had a sufficient size and pore volume to accom-
+modate cells. As the pore walls were intentionally weak-
+ened, the scaffolds contained a minimum amount of the
+polymer, which resulted in its softness.
+To correlate the compliance of the hydrogels with the
+results of biomedical experiments, the modulus of elasticity of
+highly superporous P(HEMA-2%MOEAA-CHLMA), P(HEMA-
+4%MOEAA-4%AOEEMA-CHLMA), and P(HEMA-8%MOEAA-
+CHLMA) cylinders was measured (Fig. 2). The results
+obtained from compressive tests are summarized in Table I.
+As the modulus is a measure of stiffness, which is a reciprocal
+characteristic to compliance, it can be seen that the most com-
+pliant is P(HEMA-8%MOEAA-CHLMA). On the other hand,
+P(HEMA-4%MOEAA-4%AOEEMA-CHLMA) is rather rigid,
+exhibiting the highest modulus value, while P(HEMA-
+2%MOEAA-CHLMA) has a moderate stiffness. Conventional
+superporous cholesterol-modified PHEMA hydrogels
+described previously41 exhibit an elastic modulus of 134.9 6
+19.4 kPa. It is obvious that the moduli of highly superporous
+P(HEMA-MOEAA-CHLMA) scaffolds are lower by an order of
+magnitude and, therefore, that the superporous scaffolds are
+much more suitable for neural tissue applications.
+In vitro cell growth
+Morphological observation of attached MSCs seeded on
+highly superporous cholesterol-modified PHEMA hydrogels
+was done after 3 days of culture using immunofluorescent
+staining for F-actin and vinculin (Fig. 3). Cells attached and
+spread mostly in the pores of all hydrogels and formed well
+developed parallel organized microfilaments [Fig. 3(A–F)] as
+well as vinculin adhesion spots [Fig. 3(D–F)]. These findings
+correspond with our previous results on superporous cho-
+lesterol-modified PHEMA hydrogels33 and confirm the
+FIGURE 3. Laser scanning confocal micrographs of immunofluorescent staining for phalloidin (red) and cell nuclei (DAPI, blue) (A–C) and for
+phalloidin (red) and vinculin (green) (D–F) in MSCs seeded on highly superporous (A, D) P(HEMA-2%MOEAA-CHLMA), (B, E) P(HEMA-
+4%MOEAA-4%AOEEMA-CHLMA), and (C, F) P(HEMA-8%MOEAA-CHLMA) hydrogels for 2 days. MSCs spread mostly into the pores of the hydro-
+gels. Scale bar: (A–C) 50 lm, (D–F) 10 lm. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | 15 DEC 2011 VOL 99A, ISSUE 4 623
+bioadhesive role of the cholesterol modification. In our prior
+work, we demonstrated that cells also attach to neat super-
+porous PHEMA hydrogels, but do not spread and remain in
+a spherical shape. We have also reported that serum
+proteins proved to be necessary for cell spreading on the
+surface of superporous cholesterol-modified PHEMA
+hydrogels.33
+Cell viability on the hydrogels was investigated after 1,
+3, and 5 days of culture (Fig. 4) and revealed that all the
+highly superporous cholesterol-modified PHEMA hydrogels
+are non-cytotoxic and support cell proliferation. The fact
+that no significant differences in cell viability were found
+among the different types of hydrogel after 1 day suggests
+that the hydrogels have similar cell adhesive properties. Sig-
+nificantly higher cell viability was subsequently found for
+P(HEMA-8%MOEAA-CHLMA) hydrogels vs. P(HEMA-
+2%MOEAA-CHLMA) (p < 0.01) as well as vs. P(HEMA-
+4%MOEAA-4%AOEEMA-CHLMA) (p < 0.01) after 5 days.
+This suggests that the higher porosity and at the same time
+higher compliance (lower modulus of elasticity) of the
+P(HEMA-8%MOEAA-CHLMA) hydrogels might promote cell
+migration, growth, and proliferation.
+Histological evaluation of hydrogels implanted into SCI
+Highly superporous P(HEMA-2%MOEAA-CHLMA), P(HEMA-
+4%MOEAA-4%AOEEMA-CHLMA), and P(HEMA-8%MOEAA-
+CHLMA) hydrogels were implanted into hemisected spinal
+cords, and the biocompatibility and tissue ingrowth into the
+hydrogels were histologically examined 4 weeks after im-
+plantation. As shown previously in our experiments, this
+time interval is sufficient for tissue ingrowth into an
+implanted hydrogel.30
+All the hydrogel implants were found to be well-inte-
+grated into the surrounding tissue; they closely adhered to
+the surrounding tissue and formed a bridge across the
+lesion. Hematoxylin–eosin staining (Fig. 5) as well as cell
+nuclei (DAPI) staining [Fig. 6(D–F)] showed that the hydro-
+gel pores were entirely filled with the infiltrated cells with
+no marked differences in tissue infiltration among hydrogels
+containing 2, 4, or 8 wt % of MOEAA. A sparse foreign body
+reaction with foamy macrophages [Fig. 5(D,F)] and giant
+cell granulomas [Fig. 5(B,D,F)] was found locally around the
+implanted hydrogels; nevertheless, no adverse reaction with
+chronic inflammation or fibrosis was detected.
+A non-specific inflammatory response with the invasion
+of macrophages and the formation of multinucleated foreign
+body giant cells is the reaction of biological tissue to foreign
+material in the tissue, and the extent of this reaction deter-
+mines the implant’s biocompatibility. Biocompatibility relies
+basically on surface phenomena, represented by cell–poly-
+mer and polymer–protein interactions.42 It has been
+reported that the non-specific adsorption of blood and tis-
+sue fluid proteins on the implant surfaces is primarily re-
+sponsible for phagocyte adsorption and their reaction on
+implant surfaces.43 The progression of the foreign body
+reaction is regulated by soluble mediators, such as cyto-
+kines, chemokines, and matrix metalloproteinases, which
+are produced locally by tissue cells and infiltrating inflam-
+matory cells.44 Methacrylic polymers, such as PHEMA, are
+resistant to biodegradation and thus susceptible to cell
+encapsulation;42 nevertheless, PHEMA hydrogels are
+reported to be well tolerated, non-toxic, and biocompatible.
+A low occurrence of multinucleated foreign body giant cells
+was observed on the surface of ocular implants 6 months
+after implantation.45 Modest cellular inflammatory
+responses that disappeared by 4 weeks postimplantation
+were observed when PHEMA scaffolds were implanted into
+cervical spinal cord hemisections.23 On the other hand, the
+presence of a fibrous capsule and some foreign-body-type
+giant cells was reported using 2-hydroxyethyl methacrylate-
+co-methyl methacrylate)-based nerve guidance channels in
+the sciatic nerve over a period of 16 weeks.46 As shown in
+Figure 5(B,F), the reaction of foreign body giant cells to
+superporous cholesterol-modified PHEMA hydrogels was
+mainly found at the tissue–hydrogel interface, where the dif-
+ference in mechanical properties between implant and tis-
+sue might trigger the encapsulation of the implant. The
+other reason for the foreign body reaction might be the
+presence of some hydrogel debris generated during hydro-
+gel shaping and delivered into the tissue during implanta-
+tion. A significant foreign body reaction was found in our
+previous study when PHEMA hydrogels with a positive
+charge were implanted inside the hemisected spinal cord.30
+Six months after hydrogel implantation, observation
+revealed that the granulomatous reaction was significantly
+reduced with only a minimal or no giant cell reaction, indi-
+cating that this type of inflammatory response to the
+implant diminished over time and did not have any negative
+effect on the stability of the hydrogels. Nevertheless, for
+proper determination of the hydrogels’ biocompatibility, a
+longer-term and more detailed analysis of the immune reac-
+tion is essential.
+In all three hydrogels, NF immunostaining revealed the
+ingrowth of NF-positive fibers (NF 160 and NF 200 stain-
+ing) into the pores throughout the whole implant [Fig. 6(A–
+C)]. The NF-positive fibers were arranged mostly in bundles
+and originated from the surrounding gray or white matter
+from the rostral as well as the caudal parts of the surround-
+ing spinal cord and also from the spinal root entry zone.
+FIGURE 4. The viability of MSCs seeded on highly superporous
+PHEMA hydrogels (mean 6 S.D., n ¼ 6).
+624 KUBINOVÁ ET AL. PHEMA FOR SCI REPAIR
+The quantitative evaluation of the area fraction (%) of
+neurofilament infiltration in the implanted hydrogels did
+not show any significant differences between the hydrogels
+containing 2, 4, or 8 wt % of MOEAA (Table II). All of the
+NF-positive fibers were co-localized with Schwann cells
+(p75 staining) that infiltrated the hydrogel implants from
+the spinal root entry zone and provided axon guiding and
+myelinization (Fig. 7). This is in accordance with many
+other studies that have demonstrated the beneficial role of
+Schwann cells for nerve regeneration in the CNS.47 However,
+we cannot exclude the possibility that all of the infiltrating
+axons might be of peripheral origin. More specific staining
+of the CNS neuronal tracts needs to be performed to deter-
+mine the true origin of the regenerating fibers.
+Immunostaining against endothelial cells (RECA stain-
+ing) showed a number of blood vessels that infiltrated the
+pores throughout the whole hydrogel implant [Fig. 6(D–F)].
+No migration of astrocytes or astrocytic process (GFAP
+staining) ingrowth into the hydrogels was observed [Fig.
+6(G–I)]. Similar results have also been reported in other
+studies of hydrogel spinal cord implants.12,30 One month af-
+ter the implantation of positively and negatively charged
+PHEMA hydrogels into a spinal cord hemisection, no astro-
+cytic ingrowth was found in the positively charged PHEMA
+hydrogels, while astrocytes infiltrated the peripheral zone of
+negatively charged or uncharged hydrogels. On the other
+hand, positively charged hydrogels showed increased axonal
+ingrowth into the implant.30 Conversely, the infiltration of
+FIGURE 5. H&E staining of spinal cord longitudinal sections with implanted highly superporous (A, B) P(HEMA-2%MOEAA-CHLMA), (C, D)
+P(HEMA-4%MOEAA-4%AOEEMA-CHLMA), and (E, F) P(HEMA-8%MOEAA-CHLMA) hydrogels. (B, D, F) Foreign body giant cells (arrows) and the
+(D, F) resorptional reaction of macrophages with a foamy cytoplasm (arrowheads) are shown on the right micrographs. Scale bar: (A, C, E) 500
+lm and (B, D, F) 10 lm. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | 15 DEC 2011 VOL 99A, ISSUE 4 625
+astrocytes into the peripheral as well as the central parts of
+PHPMA-RGD hydrogels seeded with MSCs was observed 6
+months after implantation, together with an ingrowth of
+neuronal processes, Schwann cells, and blood vessels.37
+The dependence of cell behavior on substrate stiffness
+has been shown in several studies,34,40 but the optimal
+and/or limiting mechanical properties of the scaffold have
+not yet been defined in in vivo spinal cord experiments.
+Bakshi et al. (2004) reported that a PHEMA matrix with a
+compressive modulus of 3–4 kPa matched the spinal cord
+tissue when implanted into a cervical hemisection.23
+According to our results, the hydrogel compliance, measured
+as an elastic modulus by compressive testing, ranged
+between 10 and 19 kPa. Interestingly, marked differences in
+the tissue response to hydrogels of such elastic modulus
+were not found when the hydrogels were transplanted into
+a hemisection cavity.
+SCI comprises a cascade of cellular and biochemical
+events that lead to the loss of function due to structural
+damage, glial scarring, and the absence of axonal regenera-
+tion. To deal with the complexity of SCI, it is generally
+assumed that more effective and successful treatment of SCI
+requires combinatorial strategies involving the application
+of biomaterials together with cell transplantation and/or
+the delivery of bioactive molecules, genetic engineering as
+well as rehabilitation.47 In this study, the in vitro and in vivo
+biocompatibility of highly superporous cholesterol-modifed
+PHEMA hydrogels was tested and it was shown that these
+materials can be used to bridge a spinal cord lesion when
+implanted into a hemisection cavity. However, a more rele-
+vant model, such as chronic SCI induced by a balloon com-
+pression lesion, should be used for further assessment of
+this material and its suitability for spinal cord repair. More-
+over, to improve the regenerative potential of these hydro-
+gels, combining hydrogels with transplanted cells and/or
+FIGURE 6. Longitudinal spinal cord sections of implanted highly superporous (A, D, G) P(HEMA-2%MOEAA-CHLMA), (B, E, H) P(HEMA-
+4%MOEAA-4%AOEEMA-CHLMA), and (C, F, I) P(HEMA-8%MOEAA-CHLMA) hydrogels stained for (A–C) neurofilaments (NF160 staining), (D–F)
+blood vessels (RECA staining) and cell nuclei (DAPI staining), and (G–I) astrocytes (GFAP staining). Dashed lines (A–F) mark the border of the
+implanted hydrogel (H) in the spinal cord tissue (SC). Scale bar: (A–C) 100 lm, (D–F) 50 lm, and (G–I) 100 lm. [Color figure can be viewed in the
+online issue, which is available at wileyonlinelibrary.com.]
+TABLE II. Area Fraction (%) of Infiltrated Neurofilaments
+Inside the Hydrogel
+P(HEMA-2%MOEAA-CHLMA) 2.96 6 1.59 n ¼ 14
+P(HEMA-4%MOEAA-4%
+AOEEMA-CHLMA)
+2.74 6 1.31 n ¼ 22
+P(HEMA-8%MOEAA-CHLMA) 3.79 6 2.81 n ¼ 11
+n, number of evaluated histological slides.
+626 KUBINOVÁ ET AL. PHEMA FOR SCI REPAIR
+growth factors, as well as further evaluations such as func-
+tional assessment involving behavioral testing or axonal
+tracing, need to be performed.
+CONCLUSIONS
+Cholesterol-modified superporous PHEMA scaffolds have
+been prepared by the bulk radical copolymerization of
+HEMA, CHLMA, and the crosslinking agent EDMA. The modi-
+fication of PHEMA with cholesterol has been employed to
+improve cell adhesion and the proper integration of the bio-
+material after implantation. To increase swellability,
+MCMEMA was incorporated in the polymerization recipe
+and hydrolyzed to MOEAA, thus introducing carboxyl groups
+in the polymer. Three types of PHEMA hydrogels containing
+2, 4, or 8 wt % of MOEAA were prepared, differing in both
+swelling and surface charge. The repeated loading of ammo-
+nium oxalate crystals induced high porosity (65 vol %) and
+the formation of interconnected pores 30–100 lm in size,
+which is desirable for the ingrowth of stem cells into the
+pores of the scaffold for SCI repair. According to the elastic
+modulus, hydrogel compliance decreased in the order
+P(HEMA-8%MOEAA-CHLMA), P(HEMA-2%MOEAA-CHLMA),
+and P(HEMA-4%MOEAA-4%AOEEMA-CHLMA). In cell cul-
+ture, highly superporous cholesterol-modified hydrogels
+supported the adhesion and growth of MSCs. After trans-
+plantation into a hemisected spinal cord, the hydrogels
+formed bridge across the lesion and promoted axonal and
+Schwann cell infiltration and angiogenesis inside the hydro-
+gel pores. No differences in hydrogel integration into the
+hemisection cavity or in tissue infiltration were observed
+between the hydrogels containing 2, 4, or 8 wt % of
+MOEAA.
+In conclusion, all types of highly superporous choles-
+terol-modified PHEMA hydrogels can be used as scaffolds in
+SCI repair. Nevertheless, additional treatment strategies
+incorporating aligned pore orientation and/or cell trans-
+plantation should be implemented to support the regenera-
+tive potential of hydrogel scaffolds.
+REFERENCES
+1. Raineteau O. Plastic responses to spinal cord injury. Behav Brain
+Res 2008;192:114–123.
+FIGURE 7. Confocal micrographs of the central part of highly superporous (A–C) P(HEMA-2%MOEAA-CHLMA), (D–F) P(HEMA-4%MOEAA-
+4%AOEEMA-CHLMA), and (G–I) P(HEMA-8%MOEAA-CHLMA) hydrogels 4 weeks after implantation. Immunofluorescent staining for (A, D, G)
+neurofilaments (NF200) and (B, E, H) Schwann cells (p75). (C, F, I) show the merged micrographs. Scale bar: 20 lm. [Color figure can be viewed
+in the online issue, which is available at wileyonlinelibrary.com.]
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | 15 DEC 2011 VOL 99A, ISSUE 4 627
+2. Fitch MT, Silver J. CNS injury, glial scars, and inflammation: In-
+hibitory extracellular matrices and regeneration failure. Exp Neu-
+rol 2008;209:294–301.
+3. Willerth SM, Sakiyama-Elbert SE. Cell therapy for spinal cord
+regeneration. Adv Drug Deliv Rev 2008;60:263–276.
+4. Sykova E, Jendelova P. Migration, fate and in vivo imaging of
+adult stem cells in the CNS. Cell Death Differ 2007;14:1336–1342.
+5. Straley KS, Foo CW, Heilshorn SC. Biomaterial design strategies
+for the treatment of spinal cord injuries. J Neurotrauma 2010;27:
+1–19.
+6. Nisbet DR, Crompton KE, Horne MK, Finkelstein DI, Forsythe JS.
+Neural tissue engineering of the CNS using hydrogels. J Biomed
+Mater Res B 2008;87:251–263.
+7. Tysseling-Mattiace VM, Sahni V, Niece KL, Birch D, Czeisler C,
+Fehlings MG, Stupp SI, Kessler JA. Self-assembling nanofibers in-
+hibit glial scar formation and promote axon elongation after spi-
+nal cord injury. J Neurosci 2008;28:3814–3823.
+8. Guo J, Su H, Zeng Y, Liang YX, Wong WM, Ellis-Behnke RG, So
+KF, Wu W. Reknitting the injured spinal cord by self-assembling
+peptide nanofiber scaffold. Nanomedicine 2007;3:311–321.
+9. Gelain F, Panseri S, Antonini S, Cunha C, Donega M, Lowery J,
+Taraballi F, Cerri G, Montagna M, Baldissera F, Vescovi A. Trans-
+plantation of nanostructured composite scaffolds results in the
+regeneration of chronically injured spinal cords. ACS Nano 2011;
+5:227–236.
+10. Tsai EC, Dalton PD, Shoichet MS, Tator CH. Matrix inclusion
+within synthetic hydrogel guidance channels improves specific
+supraspinal and local axonal regeneration after complete spinal
+cord transection. Biomaterials 2006;27:519–533.
+11. Nomura H, Tator CH, Shoichet MS. Bioengineered strategies for
+spinal cord repair. J Neurotrauma 2006;23:496–507.
+12. Novikova LN, Pettersson J, Brohlin M, Wiberg M, Novikov LN.
+Biodegradable poly-beta-hydroxybutyrate scaffold seeded with
+Schwann cells to promote spinal cord repair. Biomaterials 2008;
+29:1198–1206.
+13. Madaghiele M, Sannino A, Yannas IV, Spector M. Collagen-based
+matrices with axially oriented pores. J Biomed Mater Res A 2008;
+85:757–767.
+14. Prang P, Muller R, Eljaouhari A, Heckmann K, Kunz W, Weber T,
+Faber C, Vroemen M, Bogdahn U, Weidner N. The promotion of
+oriented axonal regrowth in the injured spinal cord by alginate-
+based anisotropic capillary hydrogels. Biomaterials 2006;27:
+3560–3569.
+15. Wei YT, He Y, Xu CL, Wang Y, Liu BF, Wang XM, Sun XD, Cui FZ,
+Xu QY. Hyaluronic acid hydrogel modified with nogo-66 receptor
+antibody and poly-L-lysine to promote axon regrowth after spinal
+cord injury. J Biomed Mater Res B 2010;95:110–117.
+16. Park J, Lim E, Back S, Na H, Park Y, Sun K. Nerve regeneration
+following spinal cord injury using matrix metalloproteinase-sensi-
+tive, hyaluronic acid-based biomimetic hydrogel scaffold contain-
+ing brain-derived neurotrophic factor. J Biomed Mater Res A
+2010;93:1091–1099.
+17. Gros T, Sakamoto JS, Blesch A, Havton LA, Tuszynski MH. Regen-
+eration of long-tract axons through sites of spinal cord injury
+using templated agarose scaffolds. Biomaterials 2010;31:
+6719–6729.
+18. Taylor SJ, Rosenzweig ES, McDonald JW III, Sakiyama-Elbert SE.
+Delivery of neurotrophin-3 from fibrin enhances neuronal fiber
+sprouting after spinal cord injury. J Control Release 2006;113:
+226–235.
+19. Madigan NN, McMahon S, O’Brien T, Yaszemski MJ, Windebank
+AJ. Current tissue engineering and novel therapeutic approaches
+to axonal regeneration following spinal cord injury using polymer
+scaffolds. Respir Physiol Neurobiol 2009;169:183–199.
+20. Zhu J. Bioactive modification of poly(ethylene glycol) hydrogels
+for tissue engineering. Biomaterials 2010;31:4639–4656.
+21. Tsai EC, Dalton PD, Shoichet MS, Tator CH. Synthetic hydrogel
+guidance channels facilitate regeneration of adult rat brainstem
+motor axons after complete spinal cord transection. J Neuro-
+trauma 2004;21:789–804.
+22. Hejcl A, Lesny P, Pradny M, Michalek J, Jendelova P, Stulik J,
+Sykova E. Biocompatible hydrogels in spinal cord injury repair.
+Physiol Res 2008;57 (Suppl 3):S121–S132.
+23. Bakshi A, Fisher O, Dagci T, Himes BT, Fischer I, Lowman A.
+Mechanically engineered hydrogel scaffolds for axonal growth
+and angiogenesis after transplantation in spinal cord injury. J
+Neurosurg Spine 2004;1:322–329.
+24. Woerly S, Fort S, Pignot-Paintrand I, Cottet C, Carcenac C,
+Savasta M. Development of a sialic acid-containing hydrogel of
+poly[N-(2-hydroxypropyl) methacrylamide]: Characterization and
+implantation study. Biomacromolecules 2008;9:2329–2337.
+25. Olson HE, Rooney GE, Gross L, Nesbitt JJ, Galvin KE, Knight A,
+Chen B, Yaszemski MJ, Windebank AJ. Neural stem cell- and
+Schwann cell-loaded biodegradable polymer scaffolds support
+axonal regeneration in the transected spinal cord. Tissue Eng Part
+A 2009;15:1797–1805.
+26. Lee H, McKeon RJ, Bellamkonda RV. Sustained delivery of ther-
+mostabilized chABC enhances axonal sprouting and functional re-
+covery after spinal cord injury. Proc Natl Acad Sci USA 2010;107:
+3340–3345.
+27. Katz JS, Burdick JA. Hydrogel mediated delivery of trophic factors
+for neural repair. Wiley Interdiscip Rev Nanomed Nanobiotechnol
+2009;1:128–139.
+28. Baumann MD, Kang CE, Tator CH, Shoichet MS. Intrathecal deliv-
+ery of a polymeric nanocomposite hydrogel after spinal cord
+injury. Biomaterials 2010;31:7631–7639.
+29. Horák D, Jayakrishnan A, Arshady R. Poly(2-hydroxyethyl methac-
+rylate) Hydrogels. Preparation and Properties. London: Citus
+Books 2003. p 65–107.
+30. Hejcl A, Lesny P, Pradny M, Sedy J, Zamecnik J, Jendelova P,
+Michalek J, Sykova E. Macroporous hydrogels based on 2-hydrox-
+yethyl methacrylate. Part 6: 3D hydrogels with positive and nega-
+tive surface charges and polyelectrolyte complexes in spinal cord
+injury repair. J Mater Sci Mater Med 2009;20:1571–1577.
+31. Kubinova S, Horak D, Kozubenko N, Vanecek V, Proks V, Price J,
+Cocks G, Sykova E. The use of superporous Ac-CGGASIKVAVS-
+OH-modified PHEMA scaffolds to promote cell adhesion and the
+differentiation of human fetal neural precursors. Biomaterials
+2010;31:5966–5975.
+32. Yu TT, Shoichet MS. Guided cell adhesion and outgrowth in pep-
+tide-modified channels for neural tissue engineering. Biomaterials
+2005;26:1507–1514.
+33. Kubinova S, Horak D, Sykova E. Cholesterol-modified superpo-
+rous poly(2-hydroxyethyl methacrylate) scaffolds for tissue engi-
+neering. Biomaterials 2009;30:4601–4609.
+34. Engler AJ, Sen S, Sweeney HL, Discher DE. Matrix elasticity
+directs stem cell lineage specification. Cell 2006;126:677–689.
+35. Ozawa H, Matsumoto T, Ohashi T, Sato M, Kokubun S. Compari-
+son of spinal cord gray matter and white matter softness: mea-
+surement by pipette aspiration method. J Neurosurg 2001;95:
+221–224.
+36. Salem HK, Thiemermann C. Mesenchymal stromal cells: Current
+understanding and clinical status. Stem Cells 2010;28:585–596.
+37. Hejcl A, Sedy J, Kapcalova M, Toro DA, Amemori T, Lesny P,
+Likavcanova-Masinova K, Krumbholcova E, Pradny M, Michalek J,
+Burian M, Hajek M, Jendelova P, Sykova E. HPMA-RGD hydrogels
+seeded with mesenchymal stem cells improve functional outcome
+in chronic spinal cord injury. Stem Cells Dev 2010;19:1535–1546.
+38. Lesny P, Pradny M, Jendelova P, Michalek J, Vacik J, Sykova E.
+Macroporous hydrogels based on 2-hydroxyethyl methacrylate.
+Part 4: growth of rat bone marrow stromal cells in three-dimen-
+sional hydrogels with positive and negative surface charges and
+in polyelectrolyte complexes. J Mater Sci Mater Med 2006;17:
+829–833.
+39. Lesny P, De Croos J, Pradny M, Vacik J, Michalek J, Woerly S,
+Sykova E. Polymer hydrogels usable for nervous tissue repair.
+J Chem Neuroanat 2002;23:243–247.
+40. Leach JB, Brown XQ, Jacot JG, Dimilla PA, Wong JY. Neurite out-
+growth and branching of PC12 cells on very soft substrates
+sharply decreases below a threshold of substrate rigidity. J Neu-
+ral Eng 2007;4:26–34.
+41. Babaeijandaghi F, Shabani I, Seyedjafari E, Naraghi ZS, Vasei M,
+Haddadi-Asl V, Hesari KK, Soleimani M. Accelerated epidermal
+regeneration and improved dermal reconstruction achieved by
+polyethersulfone nanofibers. Tissue Eng Part A 2011;16:
+3527–3536.
+628 KUBINOVÁ ET AL. PHEMA FOR SCI REPAIR
+42. Fournier E, Passirani C, Montero-Menei CN, Benoit JP. Bio-
+compatibility of implantable synthetic polymeric drug carriers:
+Focus on brain biocompatibility. Biomaterials 2003;24:
+3311–3331.
+43. Hu WJ, Eaton JW, Ugarova TP, Tang L. Molecular basis of bio-
+material-mediated foreign body reactions. Blood 2001;98:
+1231–1238.
+44. Luttikhuizen DT, Harmsen MC, Van Luyn MJ. Cellular and molecu-
+lar dynamics in the foreign body reaction. Tissue Eng 2006;12:
+1955–1970.
+45. Smetana K Jr, Sulc J, Krcova Z, Pitrova S. Intraocular biocompati-
+bility of hydroxyethyl methacrylate and methacrylic acid copoly-
+mer/partially hydrolyzed poly(2-hydroxyethyl methacrylate). J
+Biomed Mater Res 1987;21:1247–1253.
+46. Belkas JS, Munro CA, Shoichet MS, Johnston M, Midha R. Long-
+term in vivo biomechanical properties and biocompatibility of
+poly(2-hydroxyethyl methacrylate-co-methyl methacrylate) nerve
+conduits. Biomaterials 2005;26:1741–1749.
+47. Bunge MB. Novel combination strategies to repair the injured
+mammalian spinal cord. J Spinal Cord Med 2008;31:262–269.
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | 15 DEC 2011 VOL 99A, ISSUE 4 629

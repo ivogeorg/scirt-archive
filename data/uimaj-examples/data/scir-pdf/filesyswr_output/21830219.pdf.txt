@@ -1,0 +1,1346 @@
+Plasticity of Tyrosine Hydroxylase and Serotonergic
+Systems in the Regenerating Spinal Cord of Adult
+Zebrafish
+Veronika Kuscha, Antón Barreiro-Iglesias, Catherina G. Becker, and Thomas Becker*
+Centre for Neuroregeneration, School of Biomedical Sciences, University of Edinburgh, Edinburgh EH16 4SB, United Kingdom
+ABSTRACT
+Monoaminergic innervation of the spinal cord has im-
+portant modulatory functions for locomotion. Here we
+performed a quantitative study to determine the plastic
+changes of tyrosine hydroxylase-positive (TH1þ; mainly
+dopaminergic), and serotonergic (5-HTþ) terminals and
+cells during successful spinal cord regeneration in adult
+zebrafish. TH1þ innervation in the spinal cord is derived
+from the brain. After spinal cord transection, TH1þ im-
+munoreactivity is completely lost from the caudal spinal
+cord. Terminal varicosities increase in density rostral to
+the lesion site compared with unlesioned controls and
+are re-established in the caudal spinal cord at 6 weeks
+post lesion. Interestingly, axons mostly fail to re-inner-
+vate more caudal levels of the spinal cord even after
+prolonged survival times. However, densities of terminal
+varicosities correlate with recovery of swimming behav-
+ior, which is completely lost again after re-lesion of the
+spinal cord. Similar observations were made for termi-
+nals derived from descending 5-HTþ axons from the
+brain. In addition, spinal 5-HTþ neurons were newly
+generated after a lesion and transiently increased in
+number up to fivefold, which depended in part on
+hedgehog signaling. Overall, TH1þ and 5-HTþ innerva-
+tion is massively altered in the successfully regenerated
+spinal cord of adult zebrafish. Despite these changes in
+TH and 5-HT systems, a remarkable recovery of swim-
+ming capability is achieved, suggesting significant plas-
+ticity of the adult spinal network during regeneration.
+J. Comp. Neurol. 520:933–951, 2012.
+VC 2011 Wiley Periodicals, Inc.
+INDEXING TERMS: regeneration; 5-HT; tyrosine hydroxylase; sonic hedgehog; neurogenesis
+Adult zebrafish, in contrast to mammals, are capable of
+successful spinal cord regeneration, such that plastic
+changes in cellular and axonal compartments that are
+associated with functional regeneration can be studied in
+this genetically tractable vertebrate (Becker and Becker,
+2007). We have previously shown that the number of
+supraspinal neurons that grow axons beyond a spinal
+lesion site correlates with recovery of swimming capabil-
+ity (Becker et al., 1997). Moreover, when regeneration
+over a spinal lesion site in goldfish (Bernstein and Bern-
+stein, 1969) or zebrafish is mechanically blocked, no
+recovery occurs. The same is true when re-growth of
+descending axons is selectively compromised by knock
+down of L1.1, a cell recognition molecule necessary for
+axon re-growth (Becker et al., 2004). Thus axon re-growth
+beyond the lesion site is crucial for recovery from a spinal
+lesion. However, recovery is seen in eel (Doyle et al.,
+2001) and lamprey (McClellan, 1994) already when axons
+have only grown for a short distance into the distal cord,
+indicating that the spinal circuitry can produce swimming
+patterns without complete re-innervation of the distal
+cord.
+In addition, a lesion induces neurogenesis in the spinal
+cord of teleost fish (for a recent review, see Sirbulescu
+and Zupanc, 2010), including zebrafish (Reimer et al.,
+2008). Elucidating the changes that specific axon termi-
+nal and cellular systems undergo during regeneration on
+a quantitative basis may help to gauge the magnitude of
+overall plasticity that leads to the remarkable functional
+recovery in adult zebrafish after a spinal lesion.
+Grant sponsor: the Biotechnological and Biological Science Research
+Council (BBSRC); Grant number: BB/H003304/1; Grant sponsors: the
+Robert Packard Center for Amyotrophic Lateral Sclerosis Research at
+Johns Hopkins; the Euan MacDonald Centre for Motor Neurone Disease
+Research; Crerar Hotels (generous contribution to the Euan MacDonald
+Centre toward the purchase of a confocal microscope).
+The last two authors contributed equally to this work.
+*CORRESPONDENCE TO: Thomas Becker, Centre for Neuroregeneration,
+School of Biomedical Sciences, University of Edinburgh, The Chancellor’s
+Building, Edinburgh EH16 4SB, UK. E-mail: thomas.becker@ed.ac.uk.
+VC 2011 Wiley Periodicals, Inc.
+Received May 7, 2011; Revised July 3, 2011; Accepted August 3, 2011
+DOI 10.1002/cne.22739
+Published online August 9, 2011 in Wiley Online Library (wileyonlinelibrary.
+com)
+The Journal of Comparative Neurology | Research in Systems Neuroscience 520:933–951 (2012) 933
+RESEARCH ARTICLE
+We decided to study changes in the dopaminergic and
+serotonergic systems, because both of these have been
+shown to critically influence the output of the spinal central
+pattern generator for locomotion (reviewed in Grillner and
+Jessell, 2009; Jordan et al., 2008). In larval zebrafish, dopa-
+minergic innervation of the spinal cord is derived exclu-
+sively from the diencephalon (Kastenhuber et al., 2010;
+McLean and Fetcho, 2004). Dopamine suppresses initia-
+tion of swimming in pre-feeding larvae (Thirumalai and
+Cline, 2008), and the atypical antipsychotic clozapine, act-
+ing as an antagonist of the D4 receptor in zebrafish, causes
+hypoactivity in older embryos (Boehmler et al., 2007). In
+larval lampreys, dopamine inhibits glutamatergic reticulo-
+spinal transmission (Svensson et al., 2003) and increases
+or decreases fictive swimming frequency in a dose-
+dependent manner (McPherson and Kemnitz, 1994).
+Serotonergic innervation of the spinal cord originates
+from supraspinal raphe neurons (Lillesaar et al., 2009) and
+from spinal intrinsic neurons (van Raamsdonk et al., 1996)
+in adult zebrafish. Endogenous serotonin decreases the
+frequency of N-methyl-D-aspartate (NMDA)-induced loco-
+motor rhythms in fictive swimming of adult zebrafish spinal
+cord preparations by increasing mid-cycle inhibitory post-
+synaptic potentials and delaying the subsequent onset of
+hyperpolarization (Gabriel et al., 2009). Moreover, sero-
+tonin has been shown to directly modulate firing patterns
+of rat motor neurons (Kjaerulff and Kiehn, 2001).
+Previous work has presented evidence for regeneration
+of dopaminergic and serotonergic axons in the spinal cord
+of zebrafish (van Raamsdonk et al., 1998). Also, in the spi-
+nal cord of the sea lamprey, regeneration of serotonergic
+descending axons has been reported (Cornide-Petronio
+et al., 2011). In addition, there is lesion-induced generation
+of serotonergic cells in the spinal cord of the closely related
+goldfish (Takeda et al., 2008). However, quantitative analy-
+ses of terminal densities necessary for a comparison of the
+potential functionality of the regenerated with the unle-
+sioned situation are missing. We find that both dopaminer-
+gic and serotonergic systems undergo massive changes
+after a spinal lesion, with several anatomical parameters
+not returning to levels observed in unlesioned animals even
+after prolonged survival times. These changes include
+hyper-innervation of the rostral spinal cord, reduced
+re-innervation of the caudal spinal cord, and a lack of
+re-growth to more caudal levels for both systems. This sug-
+gests that considerable plasticity of the locomotor network
+occurs, leading to recovery of swimming function.
+MATERIALS AND METHODS
+Animals
+All fish were kept and bred in our laboratory fish facility
+according to standard methods (Westerfield, 1989), and
+all experimental procedures were approved by the British
+Home Office. We used wild-type (wik; ZFIN.org) and two
+transgenic lines.
+To generate the olig2 reporter line tg(olig2:GFP)
+(Shin et al., 2003), a large bacterial artificial chromosome
+containing the olig2 promoter was used, increasing the
+likelihood of faithful reporter gene expression. We have
+previously shown by in situ hybridization for olig2 that
+the transgene accurately reports olig2-expressing cells in
+the lesioned adult spinal cord (Reimer et al., 2009).
+We also used tg(shha:GFP) (Shkumatava et al., 2004).
+This sonic hedgehog (shh) reporter line was generated by
+using 2.2 kb upstream of the start codon followed by
+sequences coding for gfp with a polyA signal. This was fol-
+lowed by a NotI/KpnI fragment of the shh locus (between
+þ553 to þ5,631) containing intron 1, exon 2, and intron
+2. By using in situ hybridization for shh, we have previ-
+ously shown that the transgene accurately reports shh
+expression in the adult lesioned spinal cord (Reimer
+et al., 2009). For simplicity, the lines are designated
+olig2:GFP and shh:GFP in this article.
+Spinal lesion and intraperitoneal injections
+of substances
+Lesions were performed as previously described
+(Becker et al., 1997). Fish were anesthetized in 0.033%
+aminobenzoic acid ethyl methyl ester (MS222; Sigma, St.
+Louis, MO). A longitudinal incision was made at the side
+of the fish to expose the vertebral column. The spinal
+cord was completely transected 3.5 mm caudal to the
+brainstem–spinal cord junction under visual control.
+Bromodeoxyuridine (BrdU, B9285, Sigma) was injected
+intraperitoneally at a concentration of 5 mg/ml in a vol-
+ume of 25 ll phosphate-buffered saline (PBS; pH 7.4) at
+0, 2, and 4 days post lesion (dpl), as described (Reimer
+et al., 2008). Analysis took place at 2 or at 6 weeks post
+lesion (wpl).
+Cyclopamine (LC Laboratories, Woburn, MA) and the
+chemically related control substance tomatidine (Sigma)
+were injected at 10 mg/kg bodyweight at 3, 6, and 9 dpl,
+as previously described (Reimer et al., 2009). Analysis
+took place at 42 dpl.
+Immunohistochemistry
+Antibody characterization
+See Table 1 for the antibodies used. The anti-BrdU as-
+cites labeled cell nuclei in the lesioned spinal cord only af-
+ter prior incubation with BrdU. Thus, it does not cross-
+react nonspecifically with other antigens in the tissue of
+interest.
+The anti-GFP serum specifically labels cellular struc-
+tures only in green fluorescent protein (GFP) transgenic
+Kuscha et al.
+934 The Journal of Comparative Neurology |Research in Systems Neuroscience
+animals. Moreover, the labeling patterns are highly differ-
+ential, e.g., in shh:GFP transgenic animals, only ventral
+ependymo-radial glial cells are labeled, and no ectopic
+labeling is detectable, demonstrating specific detection
+of the transgene.
+Immunolabeling of the tyrosine hydroxylase 1 (TH1)
+antibody in embryos is abolished after antisense morpho-
+lino-mediated knockdown of th1 in the embryonic zebra-
+fish central nervous system (CNS; data not shown),
+strongly supporting specific labeling of TH1 by the anti-
+body. The TH1 antibody has been shown to label exclu-
+sively TH1 protein in the zebrafish CNS (Chen et al.,
+2009). Chen et al. (2009) combined in situ hybridization
+for th1 or th2, respectively, with immunohistochemical
+labeling by using the anti-TH1 antibody and found co-
+localization with th1, but not th2 mRNA expression sites.
+Labeling of the dopamine antiserum used was abolished
+in the brain of the teleost Clarias gariepinus by preincuba-
+tion with dopamine, but not other monoamines (Corio
+et al., 1991). Recently, the serum was used to label dopa-
+minergic axons in the brain of adult zebrafish (Yamamoto
+et al., 2011). Our labeling of circuitous fibers with numer-
+ous protrusions in the spinal cord was comparable to the
+labeling patterns of terminals found by Yamamoto et al.
+(2011). Importantly, we show a high degree of co-localiza-
+tion of dopamine with TH1 in double immunohistochemis-
+try, which is to be expected, given that tyrosine hydroxy-
+lase is the rate-limiting enzyme for dopamine synthesis.
+Preincubation of the anti-serotonin (5-HT) serum with
+104 mol/L 5-HT abolished labeling in zebrafish tissue,
+thereby indicating specificity of the antiserum (Olsson
+et al., 2008).
+The SV2 antiserum recognizes a highly conserved epi-
+tope in groups ranging from elasmobranches to mammals
+and shows glycosylated bands in Western blots between
+75 and 85 kDa (Buckley and Kelly, 1985). The antibody is
+widely used in zebrafish (for example, Jing et al., 2009;
+Jonz and Nurse, 2003; Neill et al., 2004) and labels, for
+example, presynaptic terminals of motor axons, as deter-
+mined by labeling of the postsynapse with bungarotoxin.
+When synapse formation is compromised in mutant
+zebrafish, SV2 labeling is absent (Boon et al., 2009), sup-
+porting specific labeling of the antibody. In agreement
+with our own observations, labeling was particular intense
+in ventral and dorsal horns of the spinal cord of rats using
+this antibody (Buckley and Kelly, 1985).
+The synaptophysin antiserum recognizes a single band
+of approximately 40 kDa in Western blots of mouse brain,
+rat brain, and PC12 cells according to the manufacturer’s
+datasheet. In adult zebrafish, the antibody labels in a
+punctate pattern only in synaptic areas, which is very sim-
+ilar to that of SV2, supporting specific labeling.
+Immunhistochemical procedures
+Immunohistochemistry on 50-lm vibrating blade
+microtome sections has been described (Reimer et al.,
+2009), and followed the following protocol for most anti-
+bodies. Deeply anesthetized (0.1% MS222 for more than
+5 minutes) fish were transcardially perfused with 4% para-
+formaldehyde (PFA) in PBS and postfixed in PFA over-
+night. If not stated otherwise, washing steps were 5
+minutes at room temperature (RT). After transcardial per-
+fusion, spinal cords or brains were embedded in agar (4%
+in PBS) and cut into 50-lm-thick sections on the Vibra-
+tome, and sections were collected in 24-well plates in
+PBS. For labeling of synaptophysin, antigen retrieval was
+performed by incubation at 80C in citrate buffer (10 mM
+sodium citrate in PBS, pH 6.0) for 30 minutes. After
+TABLE 1.
+Antibodies Used in This Study
+Antigen Immunogen
+Manufacturer, species antibody
+was raised in, clone/cat. no. Dilution
+Bromodeoxyuridine (BrdU) BrdU Serotec (Munich, Germany), rat monoclonal,
+clone BU1/75 (ICR1)OBT0030CX
+1:500
+Green fluorescent
+protein (GFP)
+Recombinant full-length protein Abcam (Cambridge, UK), chicken
+polyclonal, ab13970
+1:500
+Tyrosine hydroxylase (TH) Tyrosine hydroxylase purified
+from PC12 cells
+Millipore (Temecula, CA), mouse monoclonal,
+clone LNC1MAB318
+1:1,000
+Dopamine Dopamine-glutaraldehyde-bovine serum
+albumin (BSA) conjugate
+H.W.M. Steinbusch (University of Maastricht,
+The Netherlands), rabbit polyclonal
+1:750
+Serotonin (5-HT) Serotonin-creatinine sulfate-complex
+conjugated with formaldehyde to BSA
+Sigma (St. Louis, MO), rabbit polyclonal, S5545 1:5000
+Synaptic vesicle protein
+transmembrane
+glycoprotein (SV2)
+Highly purified vesicles from the electric
+organ of Discopyge ommata
+Developmental Studies Hybridoma Bank,
+(University of Iowa, Iowa City, IA),
+mouse monoclonal, SV2
+1:20
+Synaptophysin (syp) Synthetic peptide corresponding to
+amino acids 270–291 of human syp
+(Herde et al., 2010)
+Santa Cruz Biotechnology (Santa Cruz, CA),
+goat polyclonal, SYP(c-20): sc 7568
+1:50
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 935
+washing in PBS/ 0.1% Triton-X 100 (PBStx-0.1), sections
+were incubated in 50 mM glycine in PBStx-0.1 for 10
+minutes followed by another 15-minute wash step in
+PBStx-0.1. For blocking, sections were incubated in either
+1.5% donkey c-globulin (synaptophysin labeling only) or
+normal goat serum for 30 minutes.
+Incubation with one or two different primary antibodies
+in PBStx-0.1 was performed overnight or for 40 hours
+(synaptophysin labeling only) at 4C. Subsequently sec-
+tions were incubated with secondary antibodies (diluted
+1:200; secondary Cy2-, Cy3-, and Cy5-conjugated anti-
+bodies were purchased from Jackson ImmunoResearch,
+West Grove, PA). Finally, the sections were mounted in
+90% glycerol/PBS. Specific binding of the secondary anti-
+body was controlled for by leaving out the primary anti-
+body in alternating sections.
+To detect BrdU, sections were washed in PBS/0.5% Tri-
+ton-X-100 (PBStx-0.5) for 1 hour at RT, 3X in PBS, and 1X
+with HCl 37% diluted 1:8 in H20. Then sections were incu-
+bated in the diluted HCl at 37C in the waterbath for
+20 minutes. After washing 6X in PBS, sections were incu-
+bated in 50 mM glycine in PBS/0.3% Triton X-100 (PBStx-
+0.3) for 10 minutes followed by another 15-minute wash
+in PBStx-0.3. From here on, blocking and antibody incu-
+bations were performed as described above, except for
+the use of PBStx-0.3 instead of PBStx-0.1.
+For simultaneous detection of dopamine and TH1, pri-
+mary and secondary antibodies were simultaneously
+applied, and a modified protocol was used for primary anti-
+body incubation: floating sections of spinal cords (50 lm in
+thickness) of perfusion-fixed animals (2% PFA/2.5% glutar-
+aldehyde, 1% metabisulfite) were washed in PBS/1% meta-
+bisulfite (pH adjusted to 7.4) with 0.1% Triton X-100 (PBS
+Mb Tx) for 15 minutes twice. Then sections were incubated
+in 0.1% NaBH4 in twice distilled water for 30 minutes fol-
+lowed by two washing steps of 15 minutes each with PBS
+Mb Tx. Sections were blocked in 1.5% normal goat serum
+in PBS Mb Tx for 30 minutes. Then primary antibodies were
+diluted in PBS Mb Tx and incubated with the sections over-
+night at 4C. Secondary antibody incubation followed the
+standard protocol. For documentation and analysis, we
+used either a Zeiss LSM 510 or a Zeiss 750 LSM confocal
+microscope with 20 and 63 oil lenses.
+In situ hybridization
+The method for nonradioactive in situ hybridization on
+50-lm vibrating blade microtome sections (Lieberoth
+et al., 2003) and the plasmids to generate probes for th2
+(Filippi et al., 2010) have been described. Solutions were
+made up with RNAse-free water. If not stated otherwise,
+washing steps were 5 minutes long.
+Sections of PFA-fixed tissue were transferred into
+24-well-plates, washed twice in PBS/0.1% Tween-20
+(PBST-0.1), and then digested with proteinase K (stock
+concentration: Roche [Mannheim, Germany] PCR
+Grade, 0.3 lg/ml in 0.1 M Tris, pH 8, and 0.05 M
+EDTA; working solution: 0.7 ll/ml) for 9 minutes at
+room temperature. After washing twice with glycine in
+PBST-0.1 (2 mg/ml), tissue was refixed in 4% PFA for
+20 minutes. After washing 4X in PBST-0.1, supernatant
+was removed and sections were washed once in 300
+ll hybridization buffer (5 ml formamide, 2.5 ml 20X
+SSC, 10 ll Tween, 100 ll yeast tRNA [100 mg/ml],
+2.38 ml DEPC-H2O, 10 ll heparin [50 mg/ml]). After
+replacing this with fresh hybridization buffer (500 ll/
+well), the plate was wrapped with parafilm and kept
+at 55C for at least 3 hours. Digoxygenin (DIG)-labeled
+probes (1:1,000 to 1:500 in hybridization buffer) were
+incubated at 80C for 10 minutes, briefly centrifuged,
+and chilled on ice for 2 minutes. Hybridization buffer
+in the wells was replaced by probe solution. Plates
+were wrapped with parafilm and incubated at 55C
+overnight. The following incubations were at 55C. The
+solutions were preheated. Sections were washed twice
+in 50% formamide/2X SSC þ 0.1% Tween-20 for 30
+minutes each, once in 1X SSC þ 0.1% Tween-20 for
+15 minutes, and twice in 0.2X SSC þ 0.1% Tween-20
+for 30 minutes each.
+Then the sections were blocked in 10% Boehringer/
+Roche blocking reagent (10 g blocking reagent in 100 ml
+PBST-0.1) at RT. Anti-DIG alkaline phosphatase-coupled
+fab fragments (Boehringer/Roche) were diluted 1:2,000
+in blocking reagent, added to the sections, and left over-
+night at 4C. Sections were washed 6 times for 20
+minutes each in PBST-0.1 on a shaker and then once in
+PBS. Staining solution was prepared by adding one NBT/
+BCIP tablet (Sigma) in 10 ml twice distilled water. After
+washing once in staining solution, sections were
+incubated in fresh staining solution for 30 minutes to
+overnight, depending on the kinetics of signal develop-
+ment. Finally, sections were washed several times in PBS
+and mounted in 70% glycerol.
+Retrograde axonal tracing combined with
+immunohistochemistry
+Retrograde tracing of brain neurons with rhodamine
+dextran amine (RDA) or biocytin has been described
+(Becker et al., 1997). Briefly, a piece of recrystalized RDA
+or biocytin was applied to the completely transected spi-
+nal cord and allowed to be transported overnight (biocy-
+tin, detected with Cy-2-labeled streptavidin) or 6 days
+(RDA). Animals were perfusion-fixed, and brains were dis-
+sected and sectioned on a vibrating blade microtome and
+processed for immunohistochemistry as described above.
+The RDA and antibody signals were then detected by fluo-
+rescence microscopy.
+Kuscha et al.
+936 The Journal of Comparative Neurology |Research in Systems Neuroscience
+Test of swimming capability
+As previously described, we tested the swimming capa-
+bility of lesioned fish by determining the time they were
+able to hold their position in a water current (Reimer
+et al., 2009). In a tunnel with a flat bottom (7-cm width),
+15-cm-long compartments were divided off by wire mesh.
+A current of 7 cm/s was induced by using a pond pump
+(Nautilus 8000, Oase, Hörstel, Germany). The time that
+fish were able to hold their position in the water current
+was recorded. When a fish was swept against the wire
+mesh and was unable to leave it again within 30 seconds,
+the experiment was stopped. Recovery was assumed af-
+ter 1 hour of sustained swimming.
+Axon and cell quantification
+Counts of terminal varicosities
+We observed TH1 and 5-HT immunoreactivity mainly in
+varicosities (Fig. 1G, 5B), which is typical of serotonergic
+and dopaminergic terminals (Leger et al., 2001; Mrini
+et al., 1995; Takeoka et al., 2009). Our manual and
+semiautomatic quantification method counts mostly
+profiles of varicosities. Occasionally, a fiber was too
+thick or too densely populated by varicosities to resolve
+these. Together with rare fibers of passage, these were
+then counted as single entities. Because the size and
+appearance of varicosities and axons was comparable
+between lesioned and unlesioned spinal cords, these
+quantifications give a good representation of changes in
+TH1þ and 5-HTþ innervation, which may be most rele-
+vant for a correlation with recovery of function. This
+method does not determine how many of the originally
+lesioned axons contribute to re-innervation of the spinal
+cord or increased density of varicosities in the rostral
+spinal cord.
+We used a Zeiss LSM 510 confocal microscope with a
+20 Apochromate 0.75 lens for acquiring images of
+whole spinal cross sections. To decrease background and
+increase edge and shape detection of the thin circuitous
+axonal structures, including varicosities, we used the Fea-
+ture J Hessian plug-in for Image J (smallest eigenvalue
+Hessian tensor; smoothing scale to 1.0; http://rsbweb.-
+nih.gov/ij/plugins/index.html) on maximum projection z-
+stacks (15 optical sections, thickness 1.5 lm) of whole
+spinal sections (50 lm in thickness) according to an
+established protocol (Grider et al., 2006). Upon conver-
+sion to binary images (threshold 140), mostly varicosities
+remain as particles and are quantified by using the ‘‘ana-
+lyse particle’’ function of Image J with particle size 1 to in-
+finity and circularity from 0.00 to 1.00. Comparing this
+method with manual counts showed a good correspon-
+dence. Images that contained fewer than approximately
+100 varicosities were manually counted.
+Cell quantification
+Numbers of serotonergic cells were determined from
+stereological counts of confocal images of the three ran-
+domly selected 50-lm-thick Vibratome sections from the
+region up to 750 lm rostral to the lesion site and three
+sections 750 lm caudal to the lesion site. Numbers were
+calculated separately rostral and caudal to the lesion site
+and then summed for cell numbers in the entire 1.5 mm
+surrounding the lesion site.
+Statistical analysis
+For statistical analysis, the program Prism (GraphPad
+Software, La Jolla, CA) was used. Variability of values is
+given as SEM. Statistical significance was determined by
+using the Mann-Whitney U test for single comparisons or
+ANOVA followed by Dunnet’s or Tukey’s post test for multi-
+ple comparisons. Of note, numbers of cells and varicosity
+profiles in unlesioned animals did not show systematic
+changes over the period regeneration was analyzed in
+lesioned animals (up to 13 weeks of animals that were 5–10
+month of age). Therefore, unlesioned controls were pooled.
+Brightness and contrast of photomicrographs were
+adjusted and figure plates prepared by using Adobe Pho-
+toshop CS3 (Adobe Systems, San Jose, CA).
+RESULTS
+The aim of this study was to quantify the plastic changes
+in dopaminergic and serotonergic systems during success-
+ful spinal cord regeneration in an adult vertebrate.
+Spinal dopamine is derived from the brain
+To localize dopamine signals in the adult spinal cord,
+we analyzed the expression of TH1 and TH2, the rate-lim-
+iting enzymes for dopamine synthesis. Immunohisto-
+chemistry with a TH1-specific antibody (Chen et al.,
+2009) at a midthoracic level (3.5 mm caudal to the
+brainstem/spinal cord transition) and at the level of the
+dorsal fin (7 mm caudal to the brainstem/spinal cord
+transition) in unlesioned fish revealed circuitous axons
+with numerous varicosities, many of which were double-
+labeled with the synaptic marker synaptophysin (Fig. 1A–
+F,G–I). No TH1þ cell bodies were found in the spinal cord
+(Fig. 1A–C). Double immunohistochemistry with the dopa-
+mine antibody revealed that more than 80% of the TH1þ
+varicosities were dopaminergic, indicating that TH1þ ter-
+minals in the spinal cord are mainly dopaminergic (Fig.
+1A–F,M). The remaining TH1þ profiles could be noradren-
+ergic terminals, possibly originating from the locus coeru-
+leus, as previously described at early developmental
+stages (Kastenhuber et al., 2010; McLean and Fetcho,
+2004). In the regenerated spinal cord, caudal to the
+lesion site, a similar ratio of dopamine-positive TH1þ vari-
+cosities was observed, indicating that TH1 was a good
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 937
+marker for dopaminergic terminals also in the regener-
+ated spinal cord (Fig. 1J–L,M).
+To detect th2-expressing cell bodies in the CNS, we
+had to resort to in situ hybridization, because antibodies
+reacting with TH2 were not available. This indicated
+the absence of TH2-expressing cells in the spinal cord
+(Fig. 1N). However, labeled cell bodies were found in a
+brain nucleus with spinal projections, the posterior
+Figure 1. TH1þ axon terminals in the spinal cord are mostly dopaminergic and TH1þ and TH2þ cells are located only in the brain.
+A–F: Double labeling of TH1 and dopamine in spinal cross sections at a mid-thoracic level reveals overlap (arrows in D–F). An axon termi-
+nal labeled only by the TH1 antibody (arrowhead in D–F), the central canal (asterisk in A–C), and the Mauthner axons (M-ax in A–C) are
+indicated. G–I: TH1þ varicosities are co-labeled with synaptophysin (syp; arrows) immunoreactivity. J–L: Most regenerated TH1þ axon ter-
+minals in the spinal cord are dopaminergic at 6 weeks post lesion (arrows; a terminal that is only labeled by the TH1 antibody is indicated
+by an arrowhead). M: Quantification of TH1þ varicosity profiles double-labeled with a dopamine antibody (DAþ) in the unlesioned situation
+and at 6 weeks post lesion indicates comparable ratios of TH1þ varicosities that are also dopamine positive. N,O: No mRNA expression
+for TH2 is detectable in spinal cross sections (N; asterisk indicates position of the central canal), but in a horizontal brain section in the
+posterior periventricular preoptic nucleus (O). P–R: In a cross section of the brain, a cell (arrow) in the periventricular nucleus of the pos-
+terior tuberculum is double-labeled by TH1 immunohistochemistry and retrograde tracing with RDA from a mid-thoracic level of the spinal
+cord. S–U: High magnification of the double-labeled cell in P–R. Scale bar ¼ 40 lm in C (applies to A–C); 5 lm in F (applies to D–F), I
+(applies to G–I), and L (applies to J–L); 20 lm in N and R (applies to P–R); 15 lm in O; 10 lm in U (applies to S–U). [Color figure can be
+viewed in the online issue, which is available at wileyonlinelibrary.com.]
+Kuscha et al.
+938 The Journal of Comparative Neurology |Research in Systems Neuroscience
+periventricular preoptic nucleus (Fig. 1O) (Becker et al.,
+1997). In agreement with a minor contribution of TH2þ
+axons to the dopaminergic innervation of the spinal cord,
+10.4 6 3.19% (n ¼ 2 animals) of spinal terminal varicos-
+ities that were labeled by a dopamine antibody were TH1.
+To localize the source of TH1þ axons in the brain, we
+retrogradely traced the descending projection from a
+midthoracic level in combination with TH1 immunohisto-
+chemistry (Fig. 1P–U). This showed double-labeled cells
+in the dopaminergic periventricular nucleus of the poste-
+rior tuberculum in the diencephalon only, similar to what
+has been reported for the embryonic spinal cord (Kasten-
+huber et al., 2010; McLean and Fetcho, 2004). Overall,
+this suggests that the major sources of dopamine in the
+spinal cord are TH1þ axons coming from the brain and
+that TH1þ terminals are mostly dopaminergic. No spinal
+intrinsic cellular source of dopamine was detectable.
+Lesion-induced quantitative changes in
+TH11 terminal varicosities in the spinal cord
+We examined the time course of changes in numbers of
+TH1þ varicosity profiles ‘‘rostral’’ (within 750 lm), ‘‘caudal’’
+(within 750 lm), and ‘‘far caudal’’ (3,500 lm) to the posi-
+tion of a midthoracic lesion site (Fig. 2A) at 1, 2, 6, and 13
+wpl. We chose these time points because severed axons in
+the caudal spinal cord have undergone Wallerian degener-
+ation at 1 wpl, axon re-growth beyond the lesion site starts
+at around 2 wpl, and functional recovery plateaus at 6 wpl
+(Becker et al., 2004). We chose the 13 wpl time point to
+detect any late changes in innervation. For the late time
+points (6 and 13 wpl), when recovery can be assessed, val-
+ues are only given for animals that showed recovery in a
+forced swim test, if not stated otherwise.
+Rostral to the lesion site, from 2 weeks onward, num-
+bers of TH1þ varicosity profiles continuously and signifi-
+cantly increased to at least 13 wpl (2 wpl: 952.6 6 85.82
+profiles/section, n ¼ 6; 6 wpl: 1,204.6 6 145.36, n ¼ 6;
+13 wpl: 1,571.9 6 368.55, n ¼ 5), the last time point
+examined, to levels that were 2.3-fold increased over those
+in unlesioned fish. This time course is consistent with initial
+die-back and later sprouting of axons (Fig. 2B–E).
+Caudal to the lesion site, almost no varicosities were
+observed at 1 wpl (0.9 6 0.61 profiles/section, n ¼ 5),
+consistent with a supraspinal origin of these terminals and
+their subsequent Wallerian degeneration (Fig. 2F). Some
+varicosity profiles were visible at 2 wpl (24.8 6 10.32 pro-
+files/section, n ¼ 6). At 6 wpl, a significant increase in the
+number of varicosity profiles (296.3 6 80.57 profiles/sec-
+tion, n ¼ 6; P < 0.01; Fig. 2G,I) was observed, compared
+with 1 wpl. This indicated re-growth and termination of
+TH1þ axons beyond the lesion site. At 13 wpl, 149.3 6
+124.35 profiles/section (n ¼ 4; Fig. 2H,I) were observed.
+Thus, immediately caudal to the lesion site, the number of
+TH1þ varicosity profiles was restored to maximally 44% of
+that in unlesioned animals at 6 wpl.
+Far caudal to the midthoracic position of the lesion
+site, unlesioned animals showed substantial TH1þ inner-
+vation (484.6 6 86.01 profiles/section, n ¼ 4). This had
+disappeared by 1 wpl (1.7 6 1.65 profiles/section, n ¼
+5; Fig. 2J,M). Surprisingly, no appreciable re-innervation
+at this position was observed for up to 13 wpl (2 wpl: 2.8
+6 2.45 profiles/section, n ¼ 3; 6 wpl: 3.36 3.33, n ¼ 6;
+13 wpl: 6.5 6 2.77, n ¼ 4; Fig. 2K,L,M). This indicated
+that regenerating TH1þ axons did not reach previously in-
+nervated far caudal levels.
+TH11 re-innervation correlates with recovery
+of swimming capability
+As previously reported, regenerative success in spinal-
+lesioned fish is variable, and anatomical regeneration of
+axons beyond the lesion site correlates with regenerative
+success (Becker et al., 1997, 2004). We wanted to deter-
+mine whether plastic changes of TH1þ axon terminals also
+correlate with recovery of function. To assess recovery of
+swimming capability, we used a previously established test
+of forced swimming against a water flow at 6 wpl (Fig. 3A)
+(Reimer et al., 2009). In a set of 37 fish, we found that 17
+fish were unable to hold their position in the water flow for
+more than 30 seconds. These fish were classified as nonre-
+covered. Another 17 fish held their position for an hour, at
+which time the test was terminated. These fish were classi-
+fied as recovered. Unlesioned fish always sustained swim-
+ming to 1 hour. Three individuals that showed intermediate
+swim times (9, 13, and 50 minutes) were also classified as
+recovered (Fig. 3B). A comparison of numbers of TH1þ vari-
+cosity profiles rostral to the lesion site between recovered
+and nonrecovered fish did not show differences at 6 wpl
+(recovered: 1,204.66 145.36 profiles/section, n¼ 6; non-
+recovered: 1,011.46 115.82, n¼ 6, P> 0.05; Fig. 4A–C).
+In contrast, nonrecovered fish showed significantly
+less re-innervation caudal to the lesion site compared
+with recovered fish (recovered: 296.3 6 80.57 profiles/
+section, n ¼ 6; nonrecovered: 39.7 6 32.31, n ¼ 6; P <
+0.05; Fig. 4D–F). Thus quantitative differences in terminal
+varicosities caudal to the lesion site, derived from TH1þ
+axons that had grown beyond the lesion site, were corre-
+lated with recovery of swimming capability.
+Re-lesion abolishes functional recovery
+and TH11 axon terminals caudal
+to the lesion site
+To determine whether recovery of swimming capability
+and TH1þ innervation of the caudal spinal cord depend
+on continuity of the spinal cord, we re-lesioned the spinal
+cord in the same position in three recovered animals that
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 939
+held their position in the water flow for 60 minutes. All
+three animals completely lost their swimming capability
+(Fig. 3C), and TH1þ varicosities were almost completely
+absent caudal to the lesion site (0.4 6 0.43 profiles/sec-
+tion, n ¼ 3) 1 week after re-lesion. This indicated that
+functional recovery was unlikely to be due to plasticity of
+the spinal circuitry caudal to the lesion site alone and
+that TH1þ re-innervation of the caudal spinal cord after a
+lesion was most likely derived from descending axons
+that regenerated beyond the lesion site.
+Lesion-induced quantitative changes in 5-HT
+terminals in the spinal cord
+By using a 5-HT antibody, we detected circuitous axons
+with numerous varicosities, which were thereby identified
+Figure 2. Plasticity of TH1þ terminals after spinal lesion. Complete spinal cross sections are shown; dorsal is up, and central canal is out-
+lined by dotted line. A: Levels of sectioning. B: TH1þ terminal varicosities, but no cells are labeled in the unlesioned spinal cord. This sec-
+tion serves as a comparison for C,D,F–H. C–E: Numbers of TH1þ varicosity profiles increase continuously rostral to the lesion site for
+at least 13 weeks post lesion. F–I: Caudal to the lesion site, all terminals are lost and return of varicosities is observed over time.
+J–M: Re-innervation of a level 3.5 mm caudal to the lesion site is rarely (arrowhead) observed. *, P < 0.05; **, P < 0.01; ***, P < 0.001;
+Scale bar ¼ 25 lm in D (applies to B–D), H (applies to F–H), and L (applies to J–L).
+Kuscha et al.
+940 The Journal of Comparative Neurology |Research in Systems Neuroscience
+as axon terminals, in the spinal cord at a midthoracic level
+(Fig. 5A), and at the level of the dorsal fin (Fig. 6I). Cell
+bodies were also present in the spinal cord (Fig. 5A).
+Many of the terminal varicosities were double-labeled
+with the synaptic marker SV2 (Fig. 5B–D). By using retro-
+grade tracing from a midthoracic level in combination
+with 5-HT immunohistochemistry we found double-la-
+beled cells in the inferior raphe region of the brainstem
+Figure 4. Recovery of swimming capability correlates with re-establishment of TH1þ terminals caudal to the lesion site. Complete spinal
+cross sections are shown; dorsal is up, and central canal is outlined by dotted line. Levels of sectioning are depicted in Figure 2A. A–C:
+Rostral to the lesion site, numbers of TH1þ varicosity profiles did not differ between recovered and non recovered fish. D–F: Significantly
+fewer TH1þ terminal varicosities from regenerated axons were found caudal to the transection site in non recovered fish than in those
+showing recovery of swimming capability (*, P < 0.05). Scale bar ¼ 25 lm in E (applies to A,B,D,E).
+Figure 3. Recovery of swimming capability is variable and is abolished by re-transection of the spinal cord. A: A schematic representation
+of the flow-through tank used to test swim performance. B: Fish that were unable to hold their position against a constant water flow for
+more than 30 seconds were classified as non recovered. C: Recovered fish lose their regained swimming ability after re-lesion. [Color
+figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 941
+(Fig. 5E–H), but not in the superior raphe, confirming a
+previous report of 5-HTþ neurons with descending axons
+in the inferior raphe in adult zebrafish (Lillesaar et al.,
+2009). Thus 5-HTþ terminals in the spinal cord are of
+supraspinal and local origin.
+We established a time course for changes in the den-
+sity of 5-HTþ terminal varicosities after a spinal lesion in
+the same animals used for TH1 immunohistochemistry,
+assessing the same locations and time points. In unle-
+sioned animals, 679.1 6 126.32 profiles/section (n ¼ 7)
+were present. Rostral to the lesion site the number of
+varicosity profiles was 505.8 6 36.95 (n ¼ 5) at 1wpl.
+Thereafter, numbers of varicosity profiles increased until
+they were 80% higher than in unlesioned animals at 6 wpl
+(2 wpl: 989.8 6 155.38, n ¼ 6; 6 wpl: 1,224.1 6 105.04
+profiles/section, n ¼ 6; P < 0.05). At 13 wpl, 1,048.2 6
+247.04 profiles/section (n ¼ 4) were observed (Fig. 6A–
+D). This suggested considerable sprouting of 5-HTþ axons
+rostral to the lesion site.
+Caudal to the lesion site, the number of varicosity pro-
+files was strongly and significantly reduced at 1 wpl (35.0
+6 5.62 profiles/section, n ¼ 5; P < 0.001) compared
+with unlesioned control animals. As opposed to TH1þ
+varicosities, some of the 5-HTþ varicosities remained at 1
+wpl, suggesting that these originated from local 5-HTþ
+neurons, whereas descending axons and their terminals
+had undergone Wallerian degeneration at this time point.
+The numbers of varicosity profiles significantly increased
+thereafter and peaked at 6 wpl (2 wpl: 103.0 6 17.41
+profiles/section, n ¼ 6; 6 wpl: 383.7 6 71.91, n ¼ 6).
+The increase in numbers of varicosity profiles between 1
+wpl and 6 wpl was statistically significant (P < 0.05). At
+13 wpl (132.16 19.42 profiles/section, n ¼ 3), there
+was no further increase, compared with 6 wpl (Fig. 6E–
+H). Thus numbers of varicosity profiles gradually
+increased again caudal to a lesion site to maximally 58%
+of the number in unlesioned animals at 6 wpl.
+Far caudal to the lesion site, we also observed a huge
+reduction in numbers of varicosity profiles at 1 wpl (unle-
+sioned: 659.9 6 110.05 profiles/section, n ¼ 3; 1 wpl:
+32.5 6 7.86, n ¼ 5, P < 0.001). Numbers of varicosity
+profiles did not increase until 13 wpl, the latest time point
+analyzed (2 wpl: 67.8 6 5.31 profiles/section, n ¼ 3; 6
+wpl: 91.3 6 14.23, n ¼ 6; 13 wpl: 64.2 6 17.85, n ¼ 3;
+Fig. 6I–L). This suggested that regenerating descending
+5-HTþ axons did not reach the far caudal level.
+The number of 5-HT1 varicosity profiles
+caudal to the lesion site correlates with
+recovery of swimming capability
+Rostral to the lesion site there was no significant differ-
+ence between recovered (1,224.1 6 105.04 profiles/
+section, n ¼ 6) and nonrecovered fish (966.8 6 70.95
+profiles/section, n ¼ 6, P > 0.05) in the number of 5-HTþ
+varicosity profiles at 6 wpl (Fig. 7A–C). In contrast, caudal
+to the lesion site recovered fish (383.7 6 71.91 profiles/
+section, n ¼ 6) had significantly more varicosity profiles
+than nonrecovered ones (88.0 6 24.12 profiles/section,
+n ¼ 6; P < 0.01; Fig. 7D,E,G). This suggested that the
+quantity of terminal varicosities caudal to the lesion site,
+derived from re-growth of 5-HTþ axons beyond the spinal
+lesion, was associated with recovery of swimming
+capability.
+Figure 5. Spinal 5-HTþ axons originate in the spinal cord and brainstem. A: 5-HT immunohistochemistry on spinal cross sections (dorsal
+is up) reveals labeled somata (arrowheads) in the ventral spinal cord. The central canal is indicated by an asterisk. B–D: 5-HTþ terminal
+varicosities double-label with the synaptic marker SV2 (arrows). E–H: A horizontal section through the brainstem is shown; rostral is left.
+Retrograde tracing from the spinal cord reveals 5-HT immunoreactive somata of neurons in the inferior raphe that project to the spinal
+cord. A double-labeled cell (arrowhead in E) is shown in higher magnification in F–H. Scale bar 15 lm in A; 5 lm in D (applies to B–D)
+and H (applies to F–H); 20 lm in E. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+Kuscha et al.
+942 The Journal of Comparative Neurology |Research in Systems Neuroscience
+The contribution of endogenous spinal
+neurons to spinal innervation increases after
+a lesion
+By comparing numbers of varicosity profiles at 1 wpl
+(35 profiles/section) with the unlesioned situation
+(679 profiles/section), we estimated that local 5-HT cells
+make a minor contribution (5%) to spinal 5-HT innerva-
+tion in unlesioned animals. After re-lesion at 6 wpl and
+analysis at 1 week after re-lesion, 122.16 32.95 profiles/
+section (n ¼ 3) were observed (Fig. 7F,G). This was a sub-
+stantial reduction compared with 384 profiles/section
+observed at 6 wpl, indicating loss of descending axons that
+had regenerated over the lesion site. Importantly, this also
+demonstrated a 3.5-fold increase in the number of spinal-
+derived 5-HTþ varicosity profiles after regeneration (1 wpl
+vs. 1 week after re-lesion: P < 0.036). Increased innerva-
+tion by spinal 5-HTþ neurons is probably a consequence of
+lesion-induced generation of 5-HTþ neurons, as observed
+in goldfish (Takeda et al., 2008).
+Lesion-induced generation of 5-HT1 cells
+Numbers of 5-HTþ cells did not differ significantly
+between the rostral and caudal level at the different time
+points and are therefore presented together. Absolute
+numbers of 5-HTþ cells increased steadily after a lesion
+up to 6 wpl (unlesioned: 93.1 6 14.17 cells/1,500 lm
+spinal cord, n ¼ 18; 1 wpl: 120.0 6 41.13, n ¼ 5; 2 wpl:
+363.4 6 30.41, n ¼ 19; 6 wpl: 471.2 6 80.57, n ¼ 10;
+Fig. 8A–C) when the number of 5-HTþ cells was 5.1-fold
+higher than in unlesioned animals (P < 0.001). At 13 wpl
+(217.8 6 16.70 cells, n ¼ 5), a significant reduction in
+cell number was observed compared with 6 wpl (P <
+0.05). This number was again comparable to that in unle-
+sioned animals. Far caudal to the lesion site, cell numbers
+Figure 6. Plasticity of 5-HTþ terminals after spinal lesion. Complete spinal cross sections are shown; dorsal is up, and central canal is out-
+lined by dotted line. Levels of sectioning are depicted in Figure 2A. A: 5-HTþ terminals and cells are labeled in the unlesioned spinal cord.
+This section serves as comparison for B, C, E–G. B–D: Numbers of 5-HTþ varicosity profiles increase continuously rostral to the lesion site
+and plateau at 6 weeks post lesion. E–H: Caudal to the lesion site, most varicosities are lost and significant re-innervation is observed at
+6 weeks post lesion. I–L: Numbers of varicosity profiles remain low at a level 3.5 mm caudal to the lesion site for at least 13 weeks post
+lesion. ***, P < 0.001; **, P < 0.01; *, P < 0.05. Scale bar ¼ 25 lm in K (applies to A–C, E–G, I–K).
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 943
+remained unchanged (unlesioned: 200 6 22.21 cells/
+1,500 lm, n ¼ 3; 1 wpl: 137 6 30.95, n ¼ 5; 2 wpl:
+163.6 6 29.30, n ¼ 3; 6 wpl: 229.6 6 35.68, n ¼ 6; 13
+wpl: 100.06 34.55), in agreement with previous observa-
+tions that proliferation in the ventricular progenitor zone
+is much lower at distant levels (Reimer et al., 2008). Over-
+all, this suggests an overproduction of 5-HTþ cells close
+to the lesion site that is later pruned back.
+To directly show that 5-HTþ neurons were newly gener-
+ated after the lesion, we injected animals with the prolif-
+eration marker BrdU at 0, 2, and 6 days post lesion. This
+labeled 74.86 21.10 5-HTþ/BrdUþ cells (n ¼ 8) at 2 wpl
+and 209.8 6 26.93 cells (n ¼ 8) at 6 wpl. No cells were
+double-labeled in unlesioned fish (n ¼3; Fig. 8D–I). Even
+though we presumed that those 5-HTþ cells in lesioned
+animals that exceeded the number in unlesioned fish
+were newly generated, not all of them were double
+labeled with BrdU. This was expected, because our BrdU
+injection scheme also labels only 25% of newly gener-
+ated motor neurons after a lesion (Reimer et al., 2008).
+We noticed that 5-HTþ cells contacted the central
+canal only in the lesioned spinal cord at 6 and 13 wpl,
+suggesting that these were recently generated at the cen-
+tral canal. The central canal is lined with the spinal pro-
+genitor cells, which are subdivided into dorsoventral
+expression domains of transcription factors that are simi-
+lar to those that give rise to different cell types during em-
+bryonic development (Reimer et al., 2008). We found that
+5-HTþ cells contacting the central canal were not ran-
+domly distributed. By double-labeling of 5-HT in olig2:GFP
+transgenic fish, we found that all 5-HTþ cells at the cen-
+tral canal contacted it either ventral to the olig2:GFPþ
+zone (n ¼ 12 cells; Fig. 9D–F) or in the olig2:GFPþ zone
+itself (n ¼ 5 cells). In shh:GFP transgenic animals, two 5-
+HTþ cells were observed in close proximity to shh:GFPþ
+ependymo-radial glial cells, and five cells appeared to be
+intermingled with these cells, but were always shh:GFP
+negative (Fig. 9A–C). However, 5-HT was never co-labeled
+with olig2:GFP or shh:GFP. This distribution of central
+canal-contacting 5-HT neurons is consistent with a ven-
+tral progenitor zone for 5-HTþ neurons after a lesion,
+comprising the olig2:GFPþ zone and a more ventral zone.
+Blocking hedgehog activity reduces the
+number of 5-HT1 neurons
+The ventral origin of 5-HT neurons after lesion suggests
+an involvement of hedghog signaling derived from ventral
+ependymo-radial glial cells. This has been shown to pro-
+mote regeneration of motor neurons after a spinal lesion
+(Reimer et al., 2009). To test this, we used intraperitoneal
+injections of the Smoothened antagonist cyclopamine,
+Figure 7. Recovery of swimming capability correlates with re-establishment of 5-HTþ terminals caudal to the lesion site. Complete spinal
+cross sections are shown; dorsal is up, and central canal is outlined by dotted line. Axial levels of sectioning are depicted in Figure 2A. A–
+C: Rostral to the lesion site, numbers of 5-HTþ varicosity profiles do not differ between recovered and non recovered fish. D–G: Signifi-
+cantly fewer 5-HTþ varicosity profiles are present caudal to the spinal transection site in non recovered fish (E,G) than in those showing
+recovery of swimming capability (D). Re-lesion of recovered fish significantly reduces the number of varicosity profiles caudal to the lesion
+site, indicating that these are mainly derived from descending axons (F,G). **, P < 0.01. Scale bar ¼ 25 lm in F (applies to A,B,D–F).
+Kuscha et al.
+944 The Journal of Comparative Neurology |Research in Systems Neuroscience
+previously shown to reduce motor neuron generation and
+expression of the hedgehog target gene patched1 in
+motor neuron progenitor cells (Reimer et al., 2009). Anal-
+ysis took place at 6 wpl, when the number of newly gener-
+ated 5-HTþ neurons peaked.
+Numbers of 5-HTþ cells after cyclopmine treatment
+were significantly reduced by 23% compared with fish
+injected with the control substance tomatidine (tomatidine:
+10.8 6 0.86 cell profiles/50 lm, n ¼ 8; cyclopamine: 8.3
+6 1.00 cell profiles/50 lm; Mann-Whitney U test, one-
+tailed, P¼ 0.0406). This suggests that shh promotes gener-
+ation of 5-HTþ cells in the lesioned spinal cord.
+Numbers of newly generated 5-HT1 neurons
+caudal to the lesion site correlate with
+recovery of swimming capability and axon
+re-growth
+To determine whether numbers of 5-HTþ cells correlate
+with recovery of swimming capability, we compared num-
+bers of 5-HTþ cells between recovered and nonrecovered
+fish at 6 wpl, when cell numbers peak and regenerative suc-
+cess can be assessed. Rostral to the lesion site, differences
+in 5-HTþ cell numbers were not significant between recov-
+ered (365.0 6 73.59 cells/750 lm, n ¼ 6) and nonrecov-
+ered fish (292.6 6 63.14 cells/750 lm, n ¼ 6; P > 0.05;
+Fig. 10A–C). In contrast, caudal to the lesion site, fewer 5-
+HTþ cells were present in nonrecovered (111.1 6 18.59
+cells/750 lm) vs. recovered fish (253.7 6 28.32; P ¼
+0.0198; Fig. 10D–F), suggesting some interaction between
+re-growing axons and newly generated 5-HTþ cells.
+DISCUSSION
+We show for the first time that the TH1 and 5-HT sys-
+tems are substantially altered in spinal-lesioned zebrafish
+concomitant with recovery of swimming function (sum-
+marized in Fig. 11). Descending axons sprout rostral to
+the lesion site and regenerate beyond the lesion site for
+only a short distance, re-establishing about half of the
+Figure 8. 5-HTþ cells are newly generated in the vicinity of a spinal lesion. Complete spinal cross sections are shown; dorsal is up, and
+central canal is outlined by dotted line. A,B: Arrows depict 5-HTþ neurons in the unlesioned (A) and 6 weeks post lesion spinal cord (B).
+C: Numbers of 5-HTþ neurons rise until 6 weeks post lesion and are reduced again at 13 weeks post lesion. D,E: BrdU-labeled 5-HTþ cells
+are detectable at 2 weeks post lesion (E) but not in unlesioned control animals (D). The arrow in E points to a BrdU-labeled 5-HTþ cell.
+F–H: A higher magnification of the double-labeled cell in E is shown. I: A sizable proportion of 5-HTþ cells are double labeled with BrdU at
+different post lesion times. Scale bar ¼ 20 lm in B (applies to A,B,D,E; 10 lm in H (applies to F–H). [Color figure can be viewed in the
+online issue, which is available at wileyonlinelibrary.com.]
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 945
+previous density of terminals. Far caudal positions are
+not re-innervated. Despite this relatively weak regenera-
+tive growth, re-innervation derived from regenerated
+axons caudal to the lesion site strictly correlates with
+recovery of function. Spinal-intrinsic 5-HTþ neurons are
+first overproduced in the ventral spinal cord in a hedge-
+hog-dependent manner and later pruned back to numbers
+that are comparable to those in unlesioned animals.
+For both TH1þ and 5-HTþ descending systems, the
+abundance of terminals caudal to the lesion site,
+re-established through axon re-growth beyond the lesion
+site, is associated with functional recovery. Importantly,
+re-lesioning recovered fish abolishes TH1þ and 5-HTþ ter-
+minals from descending axons caudal to the lesion site, as
+well as recovered swimming function. This is in agreement
+with earlier studies showing that fish in which axon re-
+growth is sparse or experimentally reduced fail to recover
+(Becker et al., 1997, 2004). Although this suggests that re-
+innervation of the caudal spinal cord by re-grown TH1þ
+and 5-HTþ axons may be important for recovery of the fish,
+prelesion patterns are not restored. Both monoaminergic
+systems studied here re-establish only about half of the
+terminal varicosities previously observed directly caudal to
+the lesion site. Moreover, more caudal levels of the spinal
+cord are mostly not re-innervated.
+A previous study also reported re-growth of descending
+TH1þ and 5-HTþ axons in spinal-lesioned zebrafish (van
+Raamsdonk et al., 1998). However, these limitations
+were not noticed, due to a lack of quantitative analyses.
+That study found axon re-growth to 6 mm caudal to the
+lesion site. We also find terminals derived from long-dis-
+tance re-growth, which was, however, exceptional, as it
+was observed in only one of six recovered fish. Even
+though the functional impact of TH1þ and 5-HTþ on spi-
+nal function is well documented (see Introduction), TH1þ
+and 5-HTþ axons are only a minority of the axons that do
+regenerate, and many of these other axons carrying other
+neuroactive substances reach far caudal levels (Becker
+et al., 1997), which might have been sufficient to support
+the observed degree of functional recovery.
+What are the reasons for limited re-growth and re-
+innervation by TH1þ and 5-HTþ descending axons? Extrin-
+sic factors, such as a glial scar (Busch and Silver, 2007)
+or myelin inhibitors (Schwab, 2004) as in mammals are
+unlikely reasons, because no evidence has been found for
+either of these in fish (Abdesselem et al., 2009; Becker
+and Becker, 2002; Nona and Stafford, 1995). Moreover,
+up to half of the original terminal density is re-established
+for TH1þ and 5-HTþ directly caudal to the transection
+site, suggesting at least some axon re-growth beyond the
+lesion site. In addition, many other brain nuclei regener-
+ate axons even into the distal spinal cord (Becker et al.,
+1997). It is more likely that the axotomy was too distal
+from the neuronal somata of TH1þ and 5-HTþ neurons to
+elicit a robust regenerative response in descending TH1þ
+and 5-HTþ axons. Indeed, some brain nuclei show a
+regenerative response, including upregulation of growth-
+related genes, only when axotomy occurred close to the
+soma, i.e., after a more rostral spinal lesion (Becker et al.,
+1998). This is similar to mammalian neurons (Doster
+et al., 1991; Tetzlaff et al., 1994).
+In support of this explanation, we have found robust re-
+innervation by TH1þ and 5-HTþ axons 3.5 mm into the
+spinal cord in one fish that was lesioned at the brain-
+stem/spinal cord junction (data not shown). Interestingly,
+Figure 9. 5-HTþ cells that contact the central canal in a ventral
+position are found in the lesioned spinal cord. Cross sections of
+the ventral ventricular zone at 3 months post lesion are shown;
+dorsal is up. Ventricular position is depicted in phase-contrast
+images underlying double labeling in C and F. A–C: Central canal-
+contacting 5-HTþ cells are located close to shh:GFPþ ependymo-
+radial glial cells. D–F: Central canal-contacting 5-HTþ cells are
+located ventral to ventrolateral zones of olig2:GFPþ ependymo-ra-
+dial glial cells. Scale bar ¼ 10 lm in F (applies to A–F). [Color
+figure can be viewed in the online issue, which is available at
+wileyonlinelibrary.com.]
+Kuscha et al.
+946 The Journal of Comparative Neurology |Research in Systems Neuroscience
+5-HTþ axons have superior sprouting and regenerative
+capacity compared with other axon types in mammals,
+demonstrated by their ability to penetrate a glial scar
+after injury (Hawthorne et al., 2011). Thus, in our lesion
+model TH1þ and 5-HTþ cells might not have mounted a
+significant regenerative response after a lesion at the
+relatively distal midthoracic level.
+Our observations open up the opportunity to learn how
+successful recovery of function can be achieved with lim-
+ited anatomical regeneration of specific systems. Appa-
+rently, re-innervation of far caudal spinal segments by
+TH1þ and 5-HTþ descending axons is not necessary for
+recovery of substantial swimming function. It is possible
+that the significantly sprouted TH1þ and 5-HTþ axons ros-
+tral to the lesion site, as well as those axons that did
+regenerate into the caudal cord, are capable of modulat-
+ing the propagating rostrocaudal wave of excitation in the
+spinal network during swimming (Grillner and Wallen,
+2007) without the need to do this at every level of the spi-
+nal cord. Alternatively, deficits in function that may be
+associated with altered TH1þ and 5-HTþ innervation of
+the spinal cord might not have been revealed by the func-
+tional test of swimming endurance applied here.
+Another way in which a lack of long-distance TH1þ and
+5-HTþ descending axons could be compensated for is
+plasticity of the intraspinal circuitry caudal to the lesion
+site. For example, spinal intrinsic neurons, which are
+located at some distance caudal to a lesion site and have
+not been axotomized by the lesion, upregulate expression
+of the growth-associated protein 43 and the cell
+Figure 10. Numbers of 5-HTþ cells caudal to the lesion site correlate with recovery of swimming function at 6 weeks post lesion.
+A,B,D,E: Complete spinal cross sections are shown; dorsal is up, and central canal is outlined by dotted line. Axial levels of sectioning are
+depicted in Figure 2A. Arrowheads indicate 5-HTþ cells. C,F: Cell numbers caudal, but not rostral to the transection site are significantly
+lower in non recovered fish (*, P < 0.05). Scale bar ¼ 50 lm in E (applies to A,B,D,E).
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 947
+recognition molecule L1.1 after a spinal lesion (Becker
+et al., 2005). Both of these molecules are indicators of
+neuronal plasticity (Benowitz and Routtenberg, 1997;
+Emery et al., 2003; Kapfhammer, 1997). Similarly, the rat
+motor cortex shows plastic changes after ablation of
+dopaminergic input (Viaro et al., 2011).
+Could the loss of innervation by descending 5-HTþ
+axons be offset by newly generated spinal 5-HTþ neurons
+or axonal sprouting of local 5-HTþ neurons? Indeed, there
+is massive generation of 5-HT cells in the ventral spinal
+cord, far exceeding the number of cells in unlesioned ani-
+mals. However, this increase occurs only in the vicinity of
+the spinal lesion site, and cell numbers are later pruned
+back to a level that is no longer significantly elevated over
+that in unlesioned animals. Sprouting of 5-HTþ spinal
+neurons in the caudal spinal cord that is denervated of
+descending 5-HTþ input could also compensate for a lack
+of descending input. However, far caudal to the lesion
+site (not reached by regenerating descending axons), the
+density of terminal varicosities never significantly
+increased, despite prolonged (13 weeks) depletion of
+5-HTþ axons. Thus neither neurogenesis nor axonal
+Figure 11. Summary of quantitative changes in TH1þ and 5-HTþ systems after a spinal lesion. [Color figure can be viewed in the online
+issue, which is available at wileyonlinelibrary.com.]
+Kuscha et al.
+948 The Journal of Comparative Neurology |Research in Systems Neuroscience
+sprouting of spinal-intrinsic 5-HTþ cells compensate for
+lost descending 5-HTþ innervation.
+Adult zebrafish regenerate spinal 5-HTþ neurons in a
+hedgehog-dependent manner. Our analysis has shown
+that only during regeneration do radially elongated 5-HT
+neurons contact the ventricle in adult animals. This is sim-
+ilar to newly generated motor neurons shown to have ven-
+tricular contact during spinal cord regeneration (Reimer
+et al., 2008). Given that lesion-induced proliferation of
+progenitor cells occurs at the ventricle, this provided us
+with the opportunity to estimate where 5-HTþ cells poten-
+tially originate. In contrast to motor neurons, which are
+born in a narrow olig2:GFPþ zone of ependymo-radial pro-
+genitor cells, 5-HTþ cells appear to have a wider ventral
+region of origin. Nevertheless, regeneration of this cell
+type appears to be promoted by a ventral midline-derived
+hedgehog signal, similar to motor neuron regeneration
+(Reimer et al., 2009), as determined by blocking this sig-
+nal with cyclopamine, a strong and specific antagonist of
+the Hedgehog receptor Smoothened.
+Interestingly, in developing mice the descending 5-HTþ
+projection represses the expression of the 5-HT pheno-
+type within a subpopulation of spinal neurons (Brancher-
+eau et al., 2002). In our adult regenerating system,
+descending 5-HTþ axons are unlikely to negatively influ-
+ence neurogenesis of spinal 5-HTþ cells, because equal
+numbers of 5-HTþ cells were observed rostral to the
+lesion site (where descending 5-HTþ axons sprouted) and
+caudal to it (where descending 5-HTþ axons were absent)
+in recovered fish at 2 weeks post lesion. To the contrary,
+descending axons could even convey a positive signal for
+spinal neurogenesis, because in animals with few
+descending axons growing over the lesion site (nonrecov-
+ered), also fewer 5-HTþ cells were present caudal, but
+not rostral to the lesion site.
+It is important to note that generation of 5-HTþ neu-
+rons (this report) and motor neurons (Reimer et al.,
+2008), as well as robust hedgehog signaling, is only de-
+tectable in the lesioned spinal cord (Reimer et al., 2009).
+This is different from neurogenic zones in the brain of
+zebrafish (Adolf et al., 2006; Kaslin et al., 2009) and
+mammals (reviewed, for example, in Gould, 2007) that
+are constitutively active. In the unlesioned spinal cord of
+zebrafish and mammals, progenitor cells are quiescent
+(Meletis et al., 2008). However, the lesioned adult spinal
+cord of zebrafish regenerates different neuronal cell types
+in a hedgehog-dependent manner, whereas in the mam-
+malian spinal cord only glial cells are generated (Meletis
+et al., 2008). Therefore, finding the switch that allows pro-
+liferation and neurogenesis in the lesioned spinal cord of
+adult zebrafish is a future goal.
+Some changes in the TH1þ and 5-HTþ systems
+occurred at late stages of regeneration, between 6 and
+13 weeks post lesion, i.e., after functional recovery had
+been achieved. Most remarkable is the significant reduc-
+tion in the number of 5-HTþ neurons. This could be due to
+limited trophic support of these cells or to feedback from a
+rearranged spinal circuitry. Although in the closely related
+goldfish, a constant increase in the number 5-HT neurons
+after a spinal lesion was also noted, no reduction was seen
+at later stages (Takeda et al., 2008). It is possible that this
+phenomenon only occurs after the last time point analyzed
+in goldfish. Interestingly, numbers of terminal TH1þ and 5-
+HTþ varicosity profiles, derived from descending axons
+regenerated beyond the lesion site, also appeared to be
+slightly reduced again at 13 wpl compared with 6 wpl,
+whereas the sprouted terminals rostral to the lesion site
+remained. This finding supports the notion that consider-
+able plasticity is occurring in the caudal lesioned spinal
+cord even after recovery of swimming function.
+Overall, our study supports the idea that the lesioned
+spinal cord of adult zebrafish undergoes substantial axo-
+nal and cellular plasticity after a lesion, which leads to
+functional recovery. Significant alterations in TH1þ and 5-
+HTþ systems, including a lack of re-innervation of distal
+levels of the spinal cord, reveal that for successful spinal
+cord regeneration, re-establishing the prelesion circuitry
+is not a prerequisite. However, this and previous studies
+highlight the importance of axon re-growth over the lesion
+site for recovery to occur.
+ACKNOWLEDGMENTS
+We thank Drs. Uwe Strähle and Bruce Appel for trans-
+genic fish, Dr. Wolfgang Driever for plasmids, and Drs.
+Trudi Gillespie and Roland Wiegand for help with decon-
+volution software. We are grateful to Maria Rubio for
+expertly running our zebrafish facility.
+LITERATURE CITED
+Abdesselem H, Shypitsyna A, Solis GP, Bodrikov V, Stuermer
+CA. 2009. No Nogo66- and NgR-mediated inhibition of
+regenerating axons in the zebrafish optic nerve. J Neurosci
+29:15489–15498.
+Adolf B, Chapouton P, Lam CS, Topp S, Tannhauser B, Strähle
+U, Goätz M, Bally-Cuif L. 2006. Conserved and acquired
+features of adult neurogenesis in the zebrafish telencepha-
+lon. Dev Biol 295:278–293.
+Becker CG, Becker T. 2002. Repellent guidance of regenerat-
+ing optic axons by chondroitin sulfate glycosaminoglycans
+in zebrafish. J Neurosci 22:842–853.
+Becker CG, Becker T. 2007. Zebrafish as a model system for
+successful spinal cord regeneration. In: Becker CG, Becker
+T, editors. Model organisms in spinal cord regeneration.
+Weinheim: Wiley-VCH. p 289–320.
+Becker CG, Lieberoth BC, Morellini F, Feldner J, Becker T,
+Schachner M. 2004. L1.1 is involved in spinal cord regen-
+eration in adult zebrafish. J Neurosci 24:7837–7842.
+Becker T, Wullimann MF, Becker CG, Bernhardt RR, Schachner
+M. 1997. Axonal regrowth after spinal cord transection in
+adult zebrafish. J Comp Neurol 377:577–595.
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 949
+Becker T, Bernhardt RR, Reinhard E, Wullimann MF, Tongiorgi
+E, Schachner M. 1998. Readiness of zebrafish brain neu-
+rons to regenerate a spinal axon correlates with differential
+expression of specific cell recognition molecules. J Neuro-
+sci 18:5789–5803.
+Becker T, Lieberoth BC, Becker CG, Schachner M. 2005. Dif-
+ferences in the regenerative response of neuronal cell pop-
+ulations and indications for plasticity in intraspinal neurons
+after spinal cord transection in adult zebrafish. Mol Cell
+Neurosci 30:265–278.
+Benowitz LI, Routtenberg A. 1997. GAP-43: an intrinsic deter-
+minant of neuronal development and plasticity. Trends
+Neurosci 20:84–91.
+Bernstein JJ, Bernstein ME. 1969. Ultrastructure of normal regen-
+eration and loss of regenerative capacity following Teflon
+blockage in goldfish spinal cord. Exp Neurol 24:538–557.
+Boehmler W, Carr T, Thisse C, Thisse B, Canfield VA, Leven-
+son R. 2007. D4 Dopamine receptor genes of zebrafish
+and effects of the antipsychotic clozapine on larval swim-
+ming behaviour. Genes Brain Behav 6:155–166.
+Boon KL, Xiao S, McWhorter ML, Donn T, Wolf-Saxon E, Bohn-
+sack MT, Moens CB, Beattie CE. 2009. Zebrafish survival
+motor neuron mutants exhibit presynaptic neuromuscular
+junction defects. Hum Mol Genet 18:3615–3625.
+Branchereau P, Chapron J, Meyrand P. 2002. Descending 5-
+hydroxytryptamine raphe inputs repress the expression of
+serotonergic neurons and slow the maturation of inhibitory
+systems in mouse embryonic spinal cord. J Neurosci 22:
+2598–2606.
+Buckley K, Kelly RB. 1985. Identification of a transmembrane
+glycoprotein specific for secretory vesicles of neural and
+endocrine cells. J Cell Biol 100:1284–1294.
+Busch SA, Silver J. 2007. The role of extracellular matrix in
+CNS regeneration. Curr Opin Neurobiol 17:120–127.
+Chen YC, Priyadarshini M, Panula P. 2009. Complementary
+developmental expression of the two tyrosine hydroxylase
+transcripts in zebrafish. Histochem Cell Biol 132:375–381.
+Corio M, Peute J, Steinbusch HW. 1991. Distribution of sero-
+tonin- and dopamine-immunoreactivity in the brain of the
+teleost Clarias gariepinus. J Chem Neuroanat 4:79–95.
+Cornide-Petronio ME, Ruı́z MS, Barreiro-Iglesias A, Rodicio MC.
+2011. Spontaneous regeneration of the serotonergic descend-
+ing innervation in the sea lamprey after spinal cord injury. J
+Neurotrauma in press. DOI: 10.1089/neu.2011.1766.
+Doster SK, Lozano AM, Aguayo AJ, Willard MB. 1991. Expression
+of the growth-associated protein GAP-43 in adult rat retinal
+ganglion cells following axon injury. Neuron 6:635–647.
+Doyle LM, Stafford PP, Roberts BL. 2001. Recovery of locomo-
+tion correlated with axonal regeneration after a complete
+spinal transection in the eel. Neuroscience 107:169–179.
+Emery DL, Royo NC, Fischer I, Saatman KE, McIntosh TK.
+2003. Plasticity following injury to the adult central nerv-
+ous system: is recapitulation of a developmental state
+worth promoting? J Neurotrauma 20:1271–1292.
+Filippi A, Mahler J, Schweitzer J, Driever W. 2010. Expression
+of the paralogous tyrosine hydroxylase encoding genes th1
+and th2 reveals the full complement of dopaminergic and
+noradrenergic neurons in zebrafish larval and juvenile
+brain. J Comp Neurol 518:423–438.
+Gabriel JP, Mahmood R, Kyriakatos A, Soll I, Hauptmann G,
+Calabrese RL, El Manira A. 2009. Serotonergic modulation
+of locomotion in zebrafish: endogenous release and synap-
+tic mechanisms. J Neurosci 29:10387–10395.
+Gould E. 2007. How widespread is adult neurogenesis in
+mammals? Nat Rev Neurosci 8:481–488.
+Grider MH, Chen Q, Shine HD. 2006. Semi-automated quanti-
+fication of axonal densities in labeled CNS tissue. J Neuro-
+sci Methods 155:172–179.
+Grillner S, Jessell TM. 2009. Measured motion: searching for
+simplicity in spinal locomotor networks. Curr Opin Neuro-
+biol 19:572–586.
+Grillner S, Wallen P. 2007. Spinal motor functions in lamprey.
+In: Becker CG, Becker T, editors. Model organisms in spi-
+nal cord research. Weinheim: Wiley-VCH. pp 129–144.
+Hawthorne AL, Hu H, Kundu B, Steinmetz MP, Wylie CJ, Dene-
+ris ES, Silver J. 2011. The unusual response of serotoner-
+gic neurons after cns injury: lack of axonal dieback and
+enhanced sprouting within the inhibitory environment of
+the glial scar. J Neurosci 31:5605–5616.
+Herde MK, Friauf E, Rust MB. 2010. Developmental expression
+of the actin depolymerizing factor ADF in the mouse inner
+ear and spiral ganglia. J Comp Neurol 518:1724–1741.
+Jing L, Lefebvre JL, Gordon LR, Granato M. 2009. Wnt signals
+organize synaptic prepattern and axon guidance through
+the zebrafish unplugged/MuSK receptor. Neuron 61:
+721–733.
+Jonz MG, Nurse CA. 2003. Neuroepithelial cells and associ-
+ated innervation of the zebrafish gill: a confocal immuno-
+fluorescence study. J Comp Neurol 461:1–17.
+Jordan LM, Liu J, Hedlund PB, Akay T, Pearson KG. 2008. De-
+scending command systems for the initiation of locomotion
+in mammals. Brain Res Rev 57:183–191.
+Kapfhammer JP. 1997. Axon sprouting in the spinal cord:
+growth promoting and growth inhibitory mechanisms. Anat
+Embryol (Berl) 196:417–426.
+Kaslin J, Ganz J, Geffarth M, Grandel H, Hans S, Brand M.
+2009. Stem cells in the adult zebrafish cerebellum: initia-
+tion and maintenance of a novel stem cell niche. J Neuro-
+sci 29:6142–6153.
+Kastenhuber E, Kratochwil CF, Ryu S, Schweitzer J, Driever W.
+2010. Genetic dissection of dopaminergic and noradrener-
+gic contributions to catecholaminergic tracts in early larval
+zebrafish. J Comp Neurol 518:439–458.
+Kjaerulff O, Kiehn O. 2001. 5-HT modulation of multiple
+inward rectifiers in motoneurons in intact preparations of
+the neonatal rat spinal cord. J Neurophysiol 85:580–593.
+Leger L, Charnay Y, Hof PR, Bouras C, Cespuglio R. 2001. An-
+atomical distribution of serotonin-containing neurons and
+axons in the central nervous system of the cat. J Comp
+Neurol 433:157–182.
+Lieberoth BC, Becker CG, Becker T. 2003. Double labeling of
+neurons by retrograde axonal tracing and non-radioactive
+in situ hybridization in the CNS of adult zebrafish. Methods
+Cell Sci 25:65–70.
+Lillesaar C, Stigloher C, Tannhauser B, Wullimann MF, Bally-
+Cuif L. 2009. Axonal projections originating from raphe
+serotonergic neurons in the developing and adult zebrafish,
+Danio rerio, using transgenics to visualize raphe-specific
+pet1 expression. J Comp Neurol 512:158–182.
+McClellan AD. 1994. Functional regeneration and restoration
+of locomotor activity following spinal cord transection in
+the lamprey. In: Seil FJ, editor. Progress in Brain Research:
+Neural Regeneration. Amsterdam: Elsevier. p 203–217.
+McLean DL, Fetcho JR. 2004. Ontogeny and innervation pat-
+terns of dopaminergic, noradrenergic, and serotonergic
+neurons in larval zebrafish. J Comp Neurol 480:38–56.
+McPherson DR, Kemnitz CP. 1994. Modulation of lamprey fic-
+tive swimming and motoneuron physiology by dopamine,
+and its immunocytochemical localization in the spinal cord.
+Neurosci Lett 166:23–26.
+Meletis K, Barnabe-Heider F, Carlen M, Evergren E, Tomilin N,
+Shupliakov O, Frisen J. 2008. Spinal cord injury reveals
+multilineage differentiation of ependymal cells. PLoS Biol
+6:e182.
+Mrini A, Soucy JP, Lafaille F, Lemoine P, Descarries L. 1995.
+Quantification of the serotonin hyperinnervation in adult
+Kuscha et al.
+950 The Journal of Comparative Neurology |Research in Systems Neuroscience
+rat neostriatum after neonatal 6-hydroxydopamine lesion
+of nigral dopamine neurons. Brain Res 669:303–308.
+Neill CM, Meyer MP, Smith SJ. 2004. In vivo imaging of syn-
+apse formation on a growing dendritic arbor. Nat Neurosci
+7:254–260.
+Nona SN, Stafford CA. 1995. Glial repair at the lesion site in
+regenerating goldfish spinal cord: an immunohistochemical
+study using species-specific antibodies. J Neurosci Res 42:
+350–356.
+Olsson C, Holmberg A, Holmgren S. 2008. Development of en-
+teric and vagal innervation of the zebrafish (Danio rerio)
+gut. J Comp Neurol 508:756–770.
+Reimer MM, Soärensen I, Kuscha V, Frank RE, Liu C, Becker
+CG, Becker T. 2008. Motor neuron regeneration in adult
+zebrafish. J Neurosci 28:8510–8516.
+Reimer MM, Kuscha V, Wyatt C, Soärensen I, Frank R, Knüwer
+M, Becker T, Becker CG. 2009. Sonic hedgehog is a polar-
+ized signal for motor neuron regeneration in adult zebra-
+fish. J Neurosci 29:15073–15082.
+Schwab ME. 2004. Nogo and axon regeneration. Curr Opin
+Neurobiol 14:118–124.
+Shin J, Park HC, Topczewska JM, Mawdsley DJ, Appel B.
+2003. Neural cell fate analysis in zebrafish using olig2 BAC
+transgenics. Methods Cell Sci 25:7–14.
+Shkumatava A, Fischer S, Muller F, Strähle U, Neumann CJ.
+2004. Sonic hedgehog, secreted by amacrine cells, acts as
+a short-range signal to direct differentiation and lamination
+in the zebrafish retina. Development 131:3849–3858.
+Sirbulescu RF, Zupanc GK. 2010. Spinal cord repair in regen-
+eration-competent vertebrates: adult teleost fish as a
+model system. Brain Res Rev 67:73–93.
+Svensson E, Wikstrom MA, Hill RH, Grillner S. 2003. Endoge-
+nous and exogenous dopamine presynaptically inhibits glu-
+tamatergic reticulospinal transmission via an action of D2-
+receptors on N-type Ca2þ channels. Eur J Neurosci 17:
+447–454.
+Takeda A, Nakano M, Goris RC, Funakoshi K. 2008. Adult
+neurogenesis with 5-HT expression in lesioned goldfish spi-
+nal cord. Neuroscience 151:1132–1141.
+Takeoka A, Kubasak MD, Zhong H, Roy RR, Phelps PE. 2009.
+Serotonergic innervation of the caudal spinal stump in rats
+after complete spinal transection: effect of olfactory
+ensheathing glia. J Comp Neurol 515:664–676.
+Tetzlaff W, Kobayashi NR, Giehl KMG, Tsui BJ, Cassar SL,
+Bedard AM. 1994. Response of rubrospinal and corticospi-
+nal neurons to injury and neurotrophins. In: Seil FJ, editor.
+Progress in Brain Research: Neural Regeneration. Amster-
+dam: Elsevier. p 271–286.
+Thirumalai V, Cline HT. 2008. Endogenous dopamine sup-
+presses initiation of swimming in prefeeding zebrafish lar-
+vae. J Neurophysiol 100:1635–1648.
+van Raamsdonk W, Bosch TJ, Smitonel MJ, Maslam S. 1996.
+Organisation of the zebrafish spinal cord: distribution of
+motoneuron dendrites and 5-HT containing cells. Eur J
+Morphol 34:65–77.
+van Raamsdonk W, Maslam S, de Jong DH, Smit-Onel MJ, Velz-
+ing E. 1998. Long term effects of spinal cord transection in
+zebrafish: swimming performances, and metabolic properties
+of the neuromuscular system. Acta Histochem 100:117–131.
+Viaro R, Morari M, Franchi G. 2011. Progressive motor cortex
+functional reorganization following 6-hydroxydopamine
+lesioning in rats. J Neurosci 31:4544–4554.
+Westerfield M. 1989. The zebrafish book: a guide for the labo-
+ratory use of zebrafish (Brachydanio rerio). Eugene, OR:
+University of Oregon Press.
+Yamamoto K, Ruuskanen JO, Wullimann MF, Vernier P. 2011.
+Differential expression of dopaminergic cell markers in the
+adult zebrafish forebrain. J Comp Neurol 519:576–598.
+Zebrafish spinal cord regeneration
+The Journal of Comparative Neurology |Research in Systems Neuroscience 951

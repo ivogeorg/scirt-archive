@@ -1,0 +1,113 @@
+T1	Gene 14 23	Chromatin
+T2	Gene 123 159	Tuan Nguyen1,* , Simone Di Giovanni1
+T3	Gene 623 632	Chromatin
+T4	Gene 1321 1324	PNS
+T5	Gene 1936 1943	histone
+T6	Gene 4412 4418	L5 DRG
+T7	Gene 4480 4483	DRG
+T8	Gene 4489 4524	ice-cold HBSS + protease inhibitors
+T9	Gene 4703 4708	PBS +
+T10	Gene 5210 5230	micrococcal nuclease
+T11	Gene 5232 5237	MNase
+T12	Gene 5335 5340	MNase
+T13	Gene 5844 5863	Histone H3 antibody
+T14	Gene 5896 5899	IgG
+T15	Gene 7453 7486	ChIP buffer + protease inhibitors
+T16	Gene 7685 7709	add appropriate antibody
+T17	Gene 7720 7723	IgG
+T18	Gene 8622 8629	1x ChIP
+T19	Gene 9024 9036	Proteinase K
+T20	Gene 10254 10257	IgG
+T21	Gene 11039 11042	p53
+T22	Gene 11056 11071	GAP-43 proximal
+T23	Gene 11190 11193	p53
+T24	Gene 11286 11292	GAP-43
+T25	Gene 12295 12317	epigenetic environment
+T26	Gene 13368 13371	DRG
+T27	Gene 13736 13739	DRG
+T28	Gene 15418 15427	Chromatin
+T29	Gene 16108 16111	p53
+T30	Gene 16112 16115	CBP
+T31	Gene 16116 16120	p300
+T32	Gene 16158 16164	GAP-43
+T33	Species 2119 2124	mouse
+T34	Species 2911 2916	mouse
+T35	Species 3595 3600	mouse
+T36	Species 4432 4436	mice
+T37	Species 13772 13776	mice
+T38	Species 15333 15337	mice
+T39	InteractionKeyword 76 85	following
+T40	InteractionKeyword 398 409	contributed
+T41	InteractionKeyword 685 694	following
+T42	InteractionKeyword 918 925	limited
+T43	InteractionKeyword 973 983	recognized
+T44	InteractionKeyword 1061 1072	reactivated
+T45	InteractionKeyword 1196 1203	limited
+T46	InteractionKeyword 1794 1804	responding
+T47	InteractionKeyword 1927 1934	binding
+T48	InteractionKeyword 1965 1974	resulting
+T49	InteractionKeyword 2136 2145	following
+T50	InteractionKeyword 2280 2289	promoting
+T51	InteractionKeyword 3227 3235	followed
+T52	InteractionKeyword 5620 5624	lead
+T53	InteractionKeyword 5628 5637	decreased
+T54	InteractionKeyword 5638 5644	signal
+T55	InteractionKeyword 5682 5686	lead
+T56	InteractionKeyword 5690 5700	diminished
+T57	InteractionKeyword 5716 5725	increased
+T58	InteractionKeyword 5772 5783	determining
+T59	InteractionKeyword 5830 5837	control
+T60	InteractionKeyword 5880 5887	control
+T61	InteractionKeyword 6015 6025	determined
+T62	InteractionKeyword 6336 6343	enhance
+T63	InteractionKeyword 6839 6846	disrupt
+T64	InteractionKeyword 7724 7731	control
+T65	InteractionKeyword 7827 7834	complex
+T66	InteractionKeyword 7944 7949	bound
+T67	InteractionKeyword 7965 7972	complex
+T68	InteractionKeyword 9803 9809	result
+T69	InteractionKeyword 9839 9848	following
+T70	InteractionKeyword 10004 10010	signal
+T71	InteractionKeyword 10011 10020	following
+T72	InteractionKeyword 10067 10077	associated
+T73	InteractionKeyword 10160 10166	signal
+T74	InteractionKeyword 10381 10388	control
+T75	InteractionKeyword 10497 10504	signals
+T76	InteractionKeyword 10579 10585	signal
+T77	InteractionKeyword 10635 10643	controls
+T78	InteractionKeyword 10703 10712	following
+T79	InteractionKeyword 10960 10967	results
+T80	InteractionKeyword 10984 10993	following
+T81	InteractionKeyword 11028 11038	acetylated
+T82	InteractionKeyword 11043 11048	binds
+T83	InteractionKeyword 11179 11189	acetylated
+T84	InteractionKeyword 11203 11207	bind
+T85	InteractionKeyword 11213 11220	control
+T86	InteractionKeyword 12165 12174	following
+T87	InteractionKeyword 12449 12456	binding
+T88	InteractionKeyword 12511 12520	determine
+T89	InteractionKeyword 12721 12730	following
+T90	InteractionKeyword 13050 13057	complex
+T91	InteractionKeyword 13503 13507	lead
+T92	InteractionKeyword 13528 13535	signals
+T93	InteractionKeyword 13673 13682	activated
+T94	InteractionKeyword 13962 13971	increased
+T95	InteractionKeyword 14051 14058	binding
+T96	InteractionKeyword 14154 14164	associated
+T97	InteractionKeyword 14354 14363	following
+T98	InteractionKeyword 14418 14424	signal
+T99	InteractionKeyword 14453 14461	increase
+T100	InteractionKeyword 14642 14650	interact
+T101	InteractionKeyword 16145 16153	required
+R102	Partner1 Arg1:T39 Arg2:T2
+R103	Partner2 Arg1:T39 Arg2:T1
+R104	Partner1 Arg1:T60 Arg2:T14
+R105	Partner2 Arg1:T60 Arg2:T13
+R106	Partner1 Arg1:T64 Arg2:T16
+R107	Partner2 Arg1:T64 Arg2:T17
+R108	Partner1 Arg1:T81 Arg2:T21
+R109	Partner2 Arg1:T81 Arg2:T22
+R110	Partner1 Arg1:T85 Arg2:T24
+R111	Partner2 Arg1:T85 Arg2:T23
+R112	Partner1 Arg1:T101 Arg2:T30
+R113	Partner2 Arg1:T101 Arg2:T31

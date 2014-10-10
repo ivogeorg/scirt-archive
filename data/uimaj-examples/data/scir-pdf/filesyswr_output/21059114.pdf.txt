@@ -1,0 +1,1501 @@
+MOLECULAR AND DEVELOPMENTAL NEUROSCIENCE
+Metamorphosis and the regenerative capacity of spinal
+cord axons in Xenopus laevis
+Kurt M. Gibbs,1 Sridar V. Chittur2 and Ben G. Szaro1
+1Department of Biological Sciences and the Center for Neuroscience Research, University at Albany, State University of New York,
+1400 Washington Avenue, Albany, NY 12222, USA
+2Center for Functional Genomics and Department of Biomedical Sciences, University at Albany, State University of New York,
+Rensselaer, NY, USA
+Keywords: axon regeneration, microarray, spinal cord injury, thyroid hormone
+Abstract
+Throughout the vertebrate subphylum, the regenerative potential of central nervous system axons is greatest in embryonic stages
+and declines as development progresses. For example, Xenopus laevis can functionally recover from complete transection of the
+spinal cord as a tadpole but is unable to do so after metamorphosing into a frog. Neurons of the reticular formation and raphe nucleus
+are among those that regenerate axons most reliably in tadpole and that lose this ability after metamorphosis. To identify molecular
+factors associated with the success and failure of spinal cord axon regeneration, we pharmacologically manipulated thyroid hormone
+(TH) levels using methimazole or triiodothyronine, to either keep tadpoles in a permanently larval state or induce precocious
+metamorphosis, respectively. Following complete spinal cord transection, serotonergic axons crossed the lesion site and tadpole
+swimming ability was restored when metamorphosis was inhibited, but these events failed to occur when metamorphosis was
+prematurely induced. Thus, the metamorphic events controlled by TH led directly to the loss of regenerative potential. Microarray
+analysis identified changes in hindbrain gene expression that accompanied regeneration-permissive and -inhibitory conditions,
+including many genes in the permissive condition that have been previously associated with axon outgrowth and neuroprotection.
+These data demonstrate that changes in gene expression occur within regenerating neurons in response to axotomy under
+regeneration-permissive conditions in which normal development has been suspended, and they identify candidate genes for future
+studies of how central nervous system axons can successfully regenerate in some vertebrates.
+Introduction
+The capacity for functional recovery from spinal cord injury varies
+phylogenetically across the vertebrate subphylum. Amniotes generally
+lose this capacity during fetal development, whereas anamniotes such
+as lamprey and salamander fully recover throughout life. In anurans,
+however, the loss of spinal cord regenerative capacity occurs at
+metamorphosis (Sims, 1962; Forehand & Farel, 1982; Beattie et al.,
+1990; Ten Donkelaar, 2000). This precise temporal correlation makes
+tadpoles an attractive model system for studying the underlying
+cellular and molecular bases for the developmental loss of regener-
+ative capacity.
+The observation that tadpoles that spontaneously fail to metamor-
+phose also fail to recover from spinal cord injury has led to
+speculations that metamorphosis itself may be required for recovery
+(Beattie et al., 1990). During anuran metamorphosis, which is
+controlled by steadily rising levels of thyroid hormone (TH), the
+transition from swimming to limb-based locomotion is mediated by
+extensive cellular proliferation and rewiring of the nervous system
+(Marsh-Armstrong et al., 2004). Such rewiring could effect recovery
+simply by bypassing damaged connections. Yet, double labeling of cut
+axons with fluorescent dextran amines has shown that regeneration of
+severed spinal cord axons, particularly those of reticular and raphe
+neurons, occurs in Xenopus tadpoles (Gibbs & Szaro, 2006). Because
+these projections are essential for voluntary movement, recovery of
+function does involve regeneration of cut axons. Premetamorphic
+tadpoles subjected to spinal cord injury typically recover during
+metamorphosis, making the parsing of the cellular and molecular
+events of regeneration and recovery from those of metamorphosis
+problematic. The possibility remains that metamorphosis is necessary
+to create conditions that promote regeneration.
+To begin to separate cellular and molecular mechanisms relevant to
+regeneration from those of metamorphosis, levels of TH were
+pharmacologically manipulated in Xenopus laevis tadpoles subjected
+to complete spinal cord transection prior to the onset of endogenous
+TH production. In Xenopus, the transition from larval to juvenile
+forms is controlled directly by steadily rising levels of TH, from the
+onset of prometamorphosis at stage 54 through metamorphic climax at
+stage 61 (Gudernatsch, 1912; Dodd & Dodd, 1976; Leloup and
+Buscaglia, 1977; Tata, 2006). These rising levels of TH initiate
+transcription of immediate response genes at varying thresholds in
+Correspondence: Ben G. Szaro, as above.
+E-mail: bgs86@albany.edu
+Received 25 May 2010, accepted 17 September 2010
+European Journal of Neuroscience, Vol. 33, pp. 9–25, 2011 doi:10.1111/j.1460-9568.2010.07477.x
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience
+each responding tissue. The expression of these TH-responsive genes
+in turn induces that of multiple downstream genes specific to each cell
+type (Shi, 2000). The entire cascade can be inhibited effectively by
+methimazole treatment (Buckbinder & Brown, 1993), which blocks
+endogenous TH synthesis; such treatment of pre-metamorphic
+tadpoles arrests development at stage 54. Alternatively, treating them
+with 3,3¢,5-triiodo-L-thyronine (T3) prematurely accelerates their
+development toward metamorphic climax (Buckbinder & Brown,
+1993; Brown et al., 1995; Shi, 2000, 2009; Brown & Cai, 2007).
+Using these established pharmacological paradigms, we asked
+whether growth of axons across a spinal cord lesion and functional
+recovery occur if metamorphosis is inhibited or prematurely induced.
+This paradigm was also used to suppress the high background of
+changes in gene expression taking place during metamorphosis to
+identify specific changes in gene expression in hindbrain that
+accompany successful axon regeneration.
+Materials and methods
+Animals
+Pre-metamorphic tadpoles (Nieuwkoop and Faber stages 51–53;
+Nieuwkoop & Faber, 1994) and juvenile frogs (2 weeks post-
+metamorphic) were periodic albino Xenopus laevis (Hoperskaya,
+1975; Tompkins, 1977) obtained from our breeding colony at the State
+University of New York at Albany. Tadpoles and juveniles were
+maintained at 24 C on a diet of suspended nettle powder (Wunder-
+lich-Diez, Milburn, NJ) and at 21 C on a diet of salmon chow
+(Rangen, Buhl, ID, USA), respectively. Procedures in this study were
+approved by the Institutional Animal Care and Use Committee
+(IACUC) of the State University of New York at Albany.
+Spinal cord transection and pharmacological manipulation
+of TH levels
+Tadpoles and juvenile frogs were anesthetized by immersion in 0.04
+and 0.1%, respectively, ethyl 3-aminobenzoate methanesulfonate (MS-
+222; Sigma-Aldrich, St Louis, MO, USA). Fully anesthetized animals
+were placed into a beeswax-lined petri dish, where they were
+restrained with rubber bands anchored by straight pins. A dorsolateral
+incision at the mid-thoracic level was made using Vannas-style
+microdissecting spring scissors (15000-00; Fine Science Tools, Foster
+City, CA, USA) to cut through the skin, some axial musculature, and
+cartilaginous vertebrae. The spinal cord was then completely
+transected with the microdissecting scissors. The totality of the lesion
+was confirmed at the time of surgery by passing the tips of fine forceps
+(modified Dumont #5 Biologie tips; Fine Science Tools) through the
+injury site while observing the spinal cord; this was possible because
+periodic albino tadpoles lack pigment and are largely transparent. For
+further confirmation that the transections were complete, we examined
+the behavior of the animals 1 day after surgery for signs of residual
+movement; any animals showing such signs were removed from the
+study. Animals were post-operatively maintained in individual 1.5-L
+tanks filled with aerated sterile-filtered tap water containing 4 mg ⁄ L
+gentamicin sulfate (Sigma-Aldrich).
+For the methimazole-treated groups, tadpoles were placed in water
+containing 1 mm methimazole (M8506; Sigma-Aldrich) 3 days prior
+to the operation to ensure that TH production was inhibited by the time
+of the surgery. After surgery, both the methimazole- and T3-treated
+groups were maintained continuously in rearing water containing,
+respectively, 1 mm methimazole or 5 nm T3 (T6397; Sigma-Aldrich);
+rearing water was changed daily.
+Immunohistochemistry
+Animals were killed with an overdose of MS-222, and the central
+nervous system (CNS) encased in its vertebral column was dissected
+free and immersion-fixed overnight in phosphate-buffered (0.1 m
+sodium phosphate, pH 7.4) 10% formalin (PB-formalin). To remove
+the fixative and protect them from freeze damage, tissues were
+immersed successively overnight in PB and then in 30% sucrose in
+PB. Prior to further processing, the CNS was photographed as a whole
+mount through a stereomicroscope (Leica MZ16 FA). The brain and
+spinal cord were then embedded in Tissue Freezing Medium (Triangle
+Biomedical, Durham, NC, USA) and cryosectioned at 20 lm either
+parasagittally or transversely. Sections were thaw-mounted onto
+gelatin-coated glass slides, post-fixed in PB-formalin, and processed
+for double-label immunofluorescence.
+For immunohistochemistry, washes were done in Tris–buffered
+saline (TBS; 50 mm Tris, 150 mm NaCl, pH 7.5), and blocking of
+nonspecific binding of antibodies was done in 10% fetal calf serum
+(2 h), followed by 5% bovine serum albumin (BSA) and 3% normal
+serum in TBS (1 h) at room temperature. Immunostaining with each
+primary and secondary antibody was done overnight at 4 C, and
+slides were mounted under cover glass with Fluoromount-G
+(SouthernBiotech, Birmingham, AL, USA). The secondary antibod-
+ies used to detect the middle neurofilament protein (NF-M),
+serotonin and brain lipid binding protein (BLBP) primary antibodies
+were Alexafluor 488 goat antimouse, Alexafluor 546 goat antirat and
+Alexafluor 546 goat antirabbit (Molecular Probes, Eugene, OR,
+USA), respectively, at a concentration of 2 lg ⁄mL and an incubation
+period of 2–4 h. Immunostained slides were imaged using a Zeiss
+LSM 510 Meta laser scanning confocal microscope. The objectives
+and scanning parameters used for each image are provided in the
+figure legends.
+For assays of the extent of reinnervation of the lesion site, confocal
+images of NF-M-immunostained parasagittal sections were imported
+as tiff files into Metamorph (version 7.6). For each section, the density
+of immunofluorescence (total integrated immunofluorescence intensity
+divided by the pixel area) was determined for the region of interest, as
+defined by the ventral tissue bridge spanning the lesion site. These
+values were then normalized to the density of NF-M immunofluores-
+cence within the ventral tract of unoperated controls and averaged
+among animals for each treatment and timepoint. Statistical pairwise
+comparisons were then performed using t-tests, with the degrees of
+freedom determined by the number of animals used in the compar-
+isons (Sachs, 1984).
+Antibody characterization
+The mouse monoclonal antibody RMO270 (2 lg ⁄mL) was used to
+label axons. This antibody, which is an IgG2a, targets the Xenopus
+NF-M independently of its state of phosphorylation (Szaro et al.,
+1989; Wetzel et al., 1989). It was originally made against rat
+neurofilaments and recognizes an epitope at the C-terminus of
+NF-M that is conserved from torpedo fish to human and is found in
+Xenopus (Shaw, 1992; Gervasi & Szaro, 1997). It has been used
+extensively in immunohistochemical studies in Xenopus to label
+developing and regenerating axons from early neurulae stages through
+metamorphosis (Lin & Szaro, 1994; Zhao & Szaro, 1994; Undamatla
+& Szaro, 2001).
+Serotonergic axons were labeled with a rat monoclonal antibody
+(clone YC5 ⁄ 45, diluted 1 : 100; GTX26336, GeneTex, Irvine, CA,
+USA) that targets serotonin (Consolazione et al., 1981; Milstein et al.,
+1983). This antibody was raised against a serotonin–bovine serum
+10 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+albumin immunogen and has been shown in aldehyde-fixed tissue
+sections to react with serotonergic but not dopaminergic neurons, and
+to lose immunoreactivity when serotonin synthesis is suppressed
+(Consolazione et al., 1981; Milstein et al., 1983).
+BLBP was detected with a rabbit antiserum (1 : 1000) raised against
+the full length (132 amino acid)mouse recombinant protein expressed in
+E. coli (Feng et al., 1994). In mouse developing cerebellum, the
+antibody stains Bergmann glia during the period of neuronal differen-
+tiation and migration and recognizes a single 15-kDa band on Western
+blots. Expression of BLBP in subsets of radial glia is conserved in other
+vertebrates including zebrafish (Raymond et al., 2006) and turtle
+(Rehermann et al., 2009). Xenopus laevis expresses a highly similar
+protein (Fabp7; accession number NM_001095326) of the same length
+and which is 82% identical (91% similar) to the mouse protein and, in
+Xenopus spinal cord, the antibody stains cells morphologically resem-
+bling GFAP- and vimentin-positive radial glia (Szaro & Gainer, 1988).
+In situ hybridization
+Tadpoles (five per group) that underwent no drug treatments received
+spinal cord transections as described above and were allowed to
+recover for 1, 3 days or 1 week. An equal number of age-matched
+unoperated animals were selected for each timepoint to be used as
+controls. The dissected CNS was prepared for cryosectioning as
+described for immunocytochemistry except that sections were thaw-
+mounted onto silane-coated slides (Polysciences Inc.). GAP-43 cDNA
+was obtained by PCR from cDNA prepared from Xenopus laevis
+spinal cord (forward primer ATAAT GGATC CTGAT GATCA
+GCACA GACAG AGCTC A; reverse primer ATTAA GGATC
+CCAAA CTGTC GGGAG GGCTA TTTGT T) and subsequently
+subcloned into a pGEM3Z (Promega) RNA-expression plasmid. The
+preparation of Xenopus NF-M and peripherin cDNAs, as well as
+methods for in vitro transcription of digoxigenin-labeled cRNA
+probes, hybridization, and visualization using alkaline phosphatase-
+conjugated antibodies to digoxigenin, were as described elsewhere
+(Gervasi et al., 2003).
+Behavioral testing
+Tadpoles from each of three groups (methimazole, n = 14; T3, n = 18;
+and untreated, n = 3) were scored independently by two investigators
+the day after surgery and then on a weekly basis for the following
+behaviors: startle reflex, volitional swimming, fictive swimming and
+righting reflex (Beattie et al., 1990). The startle reflex, which is an
+involuntary response to noise resulting in the animal swimming away
+from the source, was elicited by sharply striking the side of the recovery
+tank once with a pencil. Volitional swimming is the tadpole’s voluntary
+use of tail undulation in a straight or circular stroke pattern to move in a
+particular direction. Fictive swimming is movement of the distal tail
+while hovering or floating to stay in place. The righting reflex is the
+ability of the tadpole tomaintain its correct posture (dorsal side up)when
+swimming or floating. Behaviors were scored as 1 (absent), 2 (weakly
+present), or 3 (moderately present to normal) for each animal and then
+tabulated as the mean (± SEM) score for animals in that group.
+Gene expression profiling of hindbrain by microarray
+Premetamorphic (NF stage 51–53) tadpoles receiving spinal cord
+transections were subsequently treated with either 1 mm methimazole
+for 3 days, 1 or 3 weeks, or with T3 for 3 days or 1 week. Unoperated
+animals treated with methimazole for 1 week served as a reference
+control for statistical comparisons against each experimental group.
+Animals were killed with an overdose of MS-222, and the CNS encased
+in its vertebral column was quickly removed and placed into RNAlater
+(Ambion, Austin, TX, USA) for 1 h at room temperature. The CNSwas
+later dissected free, and the hindbrain was harvested between the rostral
+and caudal margins of the fourth ventricle. The tissue was then
+homogenized (Polytron, Kinematica, Inc., Bohemia, NY), and total
+RNA was extracted (RNeasy Plus Mini kit; Qiagen, Valencia, CA,
+USA). For each individual hindbrain sample (90 total), the integrity of
+the RNAwas assessed using Bioanalyzer Pico Chips (Agilent Technol-
+ogies, Santa Clara, CA, USA). For each of the six treatment groups (15
+animals each), three biological replicates were created for each group by
+pooling equal amounts of total RNA from five animals. Total RNAwas
+then amplified and labeled using the One Cycle Amplification kit
+(Affymetrix, Santa Clara, CA, USA). The RNA was then fragmented
+and hybridized onto Affymetrix Xenopus laevis 2.0 microarrays at the
+Center for Functional Genomics (University at Albany, State University
+of New York, Rensselaer, NY, USA). Affymetrix Poly-A RNA and
+hybridization controls were added to samples to ensure the quality of
+amplification and hybridization, respectively.
+Subsequent data analysis was performed using genespring GX 10
+Software (Agilent). In applying the MAS 5.0 algorithm, the methi-
+mazole-treated unoperated condition was used as the baseline for pair-
+wise comparisons against each of the other five conditions. Data were
+further filtered by: (i) rejecting probe sets marked absent in all
+conditions; (ii) removing genes whose expression fell into the bottom
+20th percentile of all conditions; (iii) selecting genes that showed
+differential expression at or above 1.8-fold; and (iv) using P < 0.05 as
+the criterion for significance in a nondirectional t-test (treatment vs.
+methimazole-treated, unoperated control).
+Whenever possible, the UniGene ID (http://www.ncbi.nlm.nih.gov/
+unigene), which is used by Affymetrix to designate each transcript on
+the array, was used to assign the gene name. When no name was given
+in the UniGene entry, a prospective name was assigned using the most
+probable identification derived from BLASTing the UniGene ID
+sequence using the BLink tool in UniGene. The latter are identified in
+the Tables by the abbreviations HP (hypothetical protein) or MGC
+(mammalian gene collection) within the gene name. The functional
+category of individual genes was obtained through GeneCards (http://
+www.genecards.org).
+Array validation
+Fifteen genes were selected for validation spanning the range of
+significant fold-changes from low (1.8-fold) to high (13.6-fold). These
+were quantified by quantitative real-time reverse transcriptase poly-
+merase chain reaction (qRT-PCR) from the same pools of total RNA
+that were used on the arrays. Total RNA was reverse-transcribed with
+oligo dT primers and Super Script III reverse transcriptase (Invitrogen)
+to generate cDNA. Power Sybr Green master mix (Applied Biosys-
+tems) was then used following the protocol of the manufacturer with
+primers that amplified a 150–200 base-pair amplicon. Fold changes
+were determined using the DDCT method (Livak & Schmittgen, 2001),
+normalizing to 18S rRNA, the expression of which was highly
+constant in both the microarray and qRT-PCR results. Results were
+averaged among the three groups of pooled animals for each condition.
+Statistical analysis
+Data are expressed as mean ± SEM. For comparison of the density of
+NF-M immunostaining within the tissue bridge across the lesion site, a
+Metamorphosis and spinal cord axon regeneration 11
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+directional Student’s t-test was performed between no drug treatment
+and methimazole treatment vs. T3 treatment, with degrees of freedom
+determined by the number of animals (Fig. 3). For behavioral data
+(Fig. 6), pairwise nondirectional comparisons were made among the
+no drug, methimazole- and T3-treated groups for each timepoint using
+the Wilcoxon, Mann and Whitney U-test, a nonparametric test for
+ranked data. For microarray data (Tables 2–4; Fig. 7), a nondirectional
+Student’s t-test was performed between treatment and the methimaz-
+ole-treated unoperated control, with degrees of freedom determined by
+the number of arrays. Calculations for immunohistochemical and
+behavioral data were performed using a hand-held calculator in
+conjunction with published formulae and tables (Sachs, 1984).
+Calculations for array data were done using genespring GX 10
+software** (Agilent). Results were considered statistically significant
+at P £ 0.05.
+Results
+Effects of methimazole and T3 on normal development
+To manipulate TH levels and their effects on development, we
+followed well-established pharmacological paradigms for the use of
+methimazole and T3 in Xenopus laevis (Buckbinder & Brown, 1993).
+In X. laevis, endogenous TH production begins at NF stage 54,
+gradually peaking at metamorphic climax (NF stage 61) and declining
+thereafter (Leloup and Buscaglia, 1977; Simon et al., 2002). Prior to
+the production of endogenous TH, animals develop without the need
+for the hormone, successfully reaching stages that include the eruption
+and pattern formation of both fore- and hindlimbs (Shi, 2000). Rising
+levels of TH drive subsequent development, including maturation
+and innervation of the limbs, as well as considerable neuro- and
+gliogenesis in the CNS (Marsh-Armstrong et al., 2004).
+Confirmatory of these earlier observations, methimazole treatment
+of stage 51–53 tadpoles effectively arrested development at stage 54
+(Fig. 1C). Such tadpoles were essentially indistinguishable from
+untreated stage 53–54 tadpoles (Fig. 1A). Conversely, T3 treatment at
+these stages accelerated tadpole development markedly (compare B
+and D in Fig. 1). Within 1 week of the onset of T3 treatment, growth
+and differentiation of the hindlimbs were greatly accelerated. In
+addition, the eyes, brain and head underwent a near complete
+transformation from the morphology typically associated with
+tadpoles to that associated with froglets. Continuous exposure of
+tadpoles to 5 nm T3 unfortunately led to asynchronous development
+and poor survival beyond 1 week, necessitating their killing at this
+time.
+Effects of TH on wound healing
+Differences among the various treatments in the reconstitution and
+wound healing of transected spinal cord were visible under external
+examination (Fig. 2). One week after transection, reconstitution of the
+cut spinal cord was similarly incomplete in untreated tadpoles and
+those treated with methimazole. Ventrally the cut ends appeared
+rejoined but dorsally they remained separate to varying degrees. At
+3 weeks, healing of untreated animals had progressed much further
+than it did with methimazole treatment. In the untreated animals, the
+cut ends had completely rejoined and, except for the dorsal fissure
+deviating from the midline, the wound was nearly invisible. With
+methimazole treatment the wound site remained visible, forming a line
+of constriction that circumscribed the spinal cord. With T3 treatment
+A B
+C D
+Fig. 1. Effects of altering TH levels on normal development. (A) Untreated late stage 53 tadpole. (B) The same tadpole as in A, 1 week later, without drug
+treatment. (C) Tadpole treated with 1 mm methimazole from late stage 53 onward for 1 week, to block endogenous TH synthesis prior to its normal onset.
+(D) Tadpole treated with 5 nm T3 from late stage 53 onward for 1 week to bring TH levels prematurely to levels similar to those experienced at metamorphic climax.
+With methimazole treatment, development progresses only as far as NF stage 54, whereas with T3 treatment, anatomical features typically seen only at late
+metamorphic climax (after stage 60) appear prematurely. Note especially the relative appearance of the hindlimb (hl), brain (b), eye (e) and head (h) between the two
+treatments.
+12 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+and in untreated juveniles, at 1 week, wound healing appeared
+distinctly different from that of either untreated or methimazole-treated
+tadpoles at the same timepoint. Although the cut ends had largely
+rejoined in T3-treated tadpoles, the juncture appeared as a translucent
+cuff of tissue surrounding the spinal cord which, based on the
+histological evidence presented next, appeared to be the result of
+regrowth of meninges rather than of axons. In untreated juveniles, the
+transection site formed a sharply constricted boundary, resembling the
+early stages of scar formation reported by others (Beattie et al., 1990).
+Effects of TH on axon regeneration
+For both untreated and methimazole-treated tadpoles, histological
+examination of parasagittal sections confirmed that, within 1 week, the
+cut ends of the transected spinal cord had rejoined along the ventral
+aspect but remained separated dorsally (Fig. 3A and B). As revealed
+by immunostaining for NF-M, axons were evident throughout the
+reformed ventral tract of untreated tadpoles at 1 week (Fig. 3A).
+Axons were also visible crossing the lesion site of methimazole-
+treated tadpoles (Fig. 3B), but they were less dense than in untreated
+tadpoles. At 3 weeks, NF-M-immunostained axons were more
+abundant within the lesion site of both groups (Fig. 3D and E),
+although staining still appeared more pronounced in untreated than in
+methimazole-treated animals. In sharp contrast, axons of T3-treated
+tadpoles and juvenile froglets at 1 week approached but did not
+appreciably invade the lesion site (Fig. 3C and F).
+One way to quantify reinnervation is to analyze the intensity of
+neurofilament immunostaining across a lesion, as has been done
+to estimate the degree of reinnervation following spinal cord injury in
+N-CAM-deficient transgenic mice (Zhang et al., 2010). Thus, a
+comparison was made among these groups of the average intensity per
+unit area of NF-M immunofluorescence within the tissue bridge
+crossing the lesion site (integrated immunofluorescence intensity
+divided by area of the region of interest), normalized to that of the
+ventral tract of unoperated controls. These data confirmed what was
+seen by eye (Fig. 3G). At 1 week, the densities of NF-M immuno-
+fluorescence of the no drug treatment and methimazole-treated groups
+were 34 ± 9% and 22 ± 2% of that of unoperated control animals,
+respectively. These values were signficantly greater than that of
+T3-treated tadpole [P = 0.04 (t2,2); P = 0.001 (t3,2), respectively], at
+6 ± 1%. At 3 weeks, the density of reinnervation as assayed in this
+way rose to 57% and 31 ± 6% of unoperated controls for the no drug
+and methimazole-treated animals, respectively. Collectively, these data
+indicated that axons regrew through the lesion in both methimazole-
+treated and in untreated tadpoles, but failed to do so in either
+T3-treated tadpoles or untreated juveniles. An antibody to serotonin
+was used in double-labeling experiments with the NF-M antibody to
+label specifically the descending axons of raphe and reticular neurons
+(Fig. 4). In Xenopus, these axons constitute the principal serotonergic
+axons of descending pathways (van Mier et al., 1986) and have been
+demonstrated by double-labeling with fluorescent dextran amines to
+regenerate following spinal cord transection in tadpoles (Beattie et al.,
+1990; Gibbs & Szaro, 2006). Because these hindbrain neurons are
+born before stage 51–53, the presence of serotonergic axons in the
+ventral tract has been taken as reliable evidence of successful
+regeneration of their axons (Beattie et al., 1990; Ten Donkelaar,
+2000). Although both serotonin and NF-M staining were visible in
+untreated and methimazole-treated tadpoles at 1 and 3 weeks, their
+colocalization was relatively rare (not shown). This may be because
+NF-M immunostaining may lag behind the tips of individual
+regenerating fibers, as reported in Xenopus regenerating optic nerve
+(Zhao & Szaro, 1994). Similarly, the vesicular nature of serotonin
+immunostaining makes it more difficult to assign labeling to
+individual axons unless NF-M staining is present. The colocalization
+of serotonin and NF-M became convincing at later timepoints. At
+5 weeks after transection, for example, numerous axons that were
+A B C D
+E F G H
+Fig. 2. Effects of altering TH levels on wound healing after spinal cord transection. (A–C and E–H) Xenopus laevis tadpoles (NF stage 51–53) or (D) juvenile frogs
+received a complete spinal cord transection and were allowed to recover for 1 (B, D, F and H) or 3 (C and G) weeks before killing. After fixation, spinal cords were
+dissected free and imaged through a dissecting microscope (Leica MZ16FA). At 1 week, wound healing (arrowheads) was similar in (B) untreated and (F)
+methimazole-treated tadpoles; rostral (top) and caudal (bottom) spinal cord segments were not yet completely healed together. (C and G) At 3 weeks, the separated
+segments had completely rejoined; the wound (arrowheads) was nearly indiscernible in untreated tadpoles (C), but was more evident in those treated with
+methimazole (G). (H) With 5 nm T3 treatment at 1 week, wound healing was more advanced than in either methimazole-treated or untreated tadpoles at the same
+time point. The rostral (above the arrowheads) and caudal (below the arrowheads) segments of transected T3-treated spinal cord were joined by a translucent cuff of
+tissue. (D) In untreated juvenile frogs, 1 week after transection, the rostral (top) and caudal (bottom) segments were also joined together, but the ends of the segments
+were separated by a sharper boundary than in the other cases (arrowheads). Scale bar, 1 mm (applies to all panels).
+Metamorphosis and spinal cord axon regeneration 13
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+double-labeled for NF-M and serotonin were readily apparent in the
+descending tract of methimazole-treated animals subjected to spinal
+cord transection (Fig. 4), further confirming that the axons crossing
+the lesion had originated from the raphe and reticular nuclei and had
+thus regenerated in the absence of metamorphosis.
+BLBP expression and axonal pathfinding in transected spinal
+cord
+Radial glia bridge the gap in transected spinal cord in a variety of
+species, including Xenopus and newt, and regrowing axons appear to
+use them to facilitate crossing the lesion site (Michel & Reier, 1979;
+Singer et al., 1979). An antibody against BLBP, which specifically
+labels radial glia (Feng et al., 1994), has been used in turtle to label
+the glial tracks that axons use as they regrow (Rehermann et al.,
+2009). Thus, we used this antibody to examine the degree to which TH
+affects the presence of BLBP-positive radial glial fibers and their
+ability to facilitate axon regeneration in Xenopus.
+At 1 week post-surgery, BLBP-positive processes extensively
+bridged the lesion site of animals of all treatment groups (Fig. 5).
+However, consistent with differences in wound healing, BLBP
+processes filled in the lesion site more effectively in untreated and
+T3-treated tadpoles than in those treated with methimazole (compare
+Fig. 5A¢, C¢ and B¢, respectively). Despite the presence of BLBP-
+positive radial glial fibers in all groups, NF-M-positive axons that
+invaded the lesion site appeared to co-localize generally with BLBP-
+positive fibers in only the untreated (Fig. 5A) and methimazole-treated
+(Fig. 5C) groups, consistent with the observation from other systems
+A B C
+G
+ED F
+Fig. 3. The influence of TH on the ability of cut spinal cord axons to grow across the lesion. (A–C and F) One and (D and E) 3 weeks following complete spinal
+cord transection, parasagittal spinal cord sections were immunostained for NF-M. NF-M-positive axons (arrowheads) were seen crossing the injury site (horizontal
+bracket) in the ventral spinal cord of tadpoles receiving either no drug treatment (A and D) or 1 mm methimazole (B and E) but not in those treated with T3 (C) or in
+juvenile frog (F). Dorsal is up and rostral is to the left in all panels. Images represent a single optical section [20 ·, 0.75 NA; 0.9, 0.9, 2.1 lm (x, y, z)]. (G)
+Quantitative comparison of the density of NF-M immunostaining within the ventral tissue bridge crossing the lesion (integrated intensity of NF-M immunostaining
+within the tissue bridge divided by area of the tissue bridge), expressed as a percentage of that within the ventral tract of unoperated control tadpoles. *P = 0.04,
+(t2,2); **P = 0.001 (t3,2). Scale bar in A applies to A–E.
+14 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+that successfully regenerating axons use these radial glia to bridge the
+lesion site. With T3 treatment (Fig. 5C), BLBP-positive fibers within
+the lesion were not associated with NF-M-positive axons.
+Behavioral recovery
+To address whether animals recover function when metamorphosis is
+arrested, we tracked the recovery of functional behaviors in methi-
+mazole-treated animals (n = 14) on a weekly basis for 3 weeks.
+Earlier studies charting functional recovery of untreated animals found
+that behaviors return in a stereotypical pattern after complete spinal
+cord transection (Beattie et al., 1990). The startle reflex returns first,
+followed by the restoration of volitional swimming, fictive swimming
+and the righting reflex, in that order. Our findings with untreated
+tadpoles confirmed these earlier studies – the startle reflex, as well as
+volitional and fictive swimming, began to return in untreated tadpoles
+by 1 week and were essentially normal by 2 weeks (Fig. 6). The
+righting reflex took the longest to recover; even at 3 weeks, tadpoles
+in the untreated group generally floated dorsal side down, only
+righting themselves while swimming.
+Methimazole-treated animals also recovered function. Recovery of
+the startle reflex, a strong indicator of functional regeneration of
+ascending and descending pathways in anamniotic spinal cord
+(Zottoli & Freemer, 2006; Takeda et al., 2007), was virtually as
+rapid in methimazole-treated tadpoles as in those without drug
+treatment; both groups were essentially normal with respect to this
+behavior at 2 weeks. The recovery of other behaviors occurred more
+slowly in methimazole-treated than in untreated tadpoles, consistent
+with the reduced staining of axons crossing the lesion site of
+methimazole-treated animals. Scores for volitional swimming in the
+methimazole-treated group were significantly lower than in the
+untreated group at 1 week (Wilcoxon–Mann–Whitney U-test;
+0.02 < P < 0.05), and those for fictive swimming at 2 weeks
+(Wilcoxon–Mann–Whitney U-test; 0.01 < P < 0.02). Both these
+behaviors eventually recovered to normal at 5–6 weeks (not tabu-
+lated) but the righting reflex never recovered, suggesting that the
+return of this reflex requires normal development.
+Over the 1-week period for which T3-treated animals (n = 18)
+could be followed, virtually every animal remained in their post-
+operative paralyzed state. Taken together with the morphological data,
+the behavioral data further supported the conclusion that, when
+prometamorphosis was arrested, axons were able to regenerate and
+restore function. No such recovery was seen in animals when
+precocious metamorphosis was invoked by T3 treatment.
+Gene expression profiling of the hindbrain after spinal cord
+transection
+Methimazole treatment allowed for the profiling of changes in gene
+expression during successful recovery from spinal cord injury while
+suppressing the considerable background of changes that accompany
+metamorphosis. For these studies, we decided to concentrate on
+changes in hindbrain, the source of regenerating spinal cord axons,
+rather than at the injury site, to characterize changes occurring in the
+cells of origin of regenerating axons. The RNAs analyzed on
+microarrays came from the hindbrains of six separate groups of
+animals: (i) unoperated, methimazole-treated stage 51–53 tadpoles
+(reference control); (ii–iv) methimazole-treated, spinal cord-transected
+animals at 3 days, 1 and 3 weeks (regeneration-permissive condi-
+tions); and (v and vi) T3-treated, spinal cord-transected animals at
+3 days and 1 week (regeneration-inhibitory conditions). Employing
+stringent filtering criteria (see Materials and methods), we identified
+genes from each group whose expression changed significantly
+relative to the unoperated, methimazole-treated, reference control
+group. In total, 202, 331 and 275 transcripts [which included
+expressed sequence tags (ESTs) as well as annotated and prospective
+genes] were identified as differentially expressed from the 3-day,
+1-week and 3-week timepoints of the methimazole-treated groups,
+respectively. The number of up- and down-regulated transcript were
+approximately equal at each timepoint, with the exception of the 3-day
+timepoint, at which only 26% of the transcripts exhibiting significant
+changes were upregulated. For the T3-treated groups, 1961 and 1680
+transcripts were identified as differentially expressed for the 3-day and
+1-week timepoints, respectively. Again, the numbers of up- and down-
+regulated genes were approximately equal in these arrays. Fifteen
+genes that sampled the full range of fold-changes from low (1.8-fold)
+to high (13.6-fold) were selected for validation by qRT-PCR. All 15
+exhibited changes in expression by qRT-PCR (Table 1) that followed
+the same trend as the microarray data although, due to differences in
+the nature of the methods, their changes were generally greater in
+magnitude than was seen on the arrays (see Discussion).
+The full set of genes whose expressions changed significantly is
+presented in Supporting Information Tables 1 and 2. For our
+discussion here, we concentrate on those that were upregulated,
+primarily with methimazole treatment, because we wanted to see
+whether this paradigm could be used to highlight specifically those
+genes associated with successful regeneration. Such genes would be
+expected to be upregulated under regeneration-permissive (methimaz-
+ole-treated, post-injury) conditions and not under regeneration-inhib-
+itory conditions (T3-treated, post-injury). There were 53, 162 and 133
+transcripts upregulated at the 3-day, 1-week, and 3-week timepoints,
+respectively, in this category. Only the 72 that were either annotated in
+the Xenopus database or could be identified by BLAST search as
+prospective homologs to known genes in other systems are listed;
+ESTs and transcripts that have no known function or homolog from
+which a function could be inferred are not listed (Table 2).
+The first five genes listed [suppressor of cytokine signaling 2
+(SOCS2), XER81, neurotensin (NTS), MORC3 and RNA polymer-
+ase II subunit 5-mediating protein (RMP)] may be particularly
+relevant to successful regeneration. These genes were upregulated
+under regeneration-permissive conditions (methimazole) but down-
+regulated under inhibitory conditions (T3-treated). The next eight were
+those that increased in expression under regeneration-permissive
+conditions relative to inhibitory ones at more than one timepoint after
+transection, suggesting that they may be important for maintaining the
+axonal growth-active state. Three of these were transcription factors
+[myocyte enhancer factor 2C (MEF2C), FOS and teashirt zinc finger 3
+(TSHZ3)]; the other five [axial protocadherin (AXPC), RAS protein
+activator-like 2 (RASAL2), HSPC150, TRIO, and a gene homologous
+to C2orf37] have putative roles in intracellular signaling or cell–cell
+communication. The remaining 59 transcripts are listed according to
+the timepoint when their expression increased. Collectively, these
+latter genes included seven transcription factors, fifteen membrane
+proteins, eleven intracellular signaling proteins, three cell–cell signal-
+ing proteins and four nuclear proteins involved with transcriptional
+regulation. An additional seventeen fell into other functional catego-
+ries, and two additional genes were of unknown function.
+We also looked at those genes upregulated after injury under
+regeneration-inhibitory conditions (T3-treated). We anticipated that
+there would be many more genes upregulated in this group than with
+methimazole treatment, as this group would include both those genes
+activated by TH and those activated by the injury; this was indeed
+the case. At 3 days and 1 week after transection, 880 and 758
+Metamorphosis and spinal cord axon regeneration 15
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+A A′ A′′
+B B′ B′′
+C C′ C′′
+Fig. 5. Regenerating axons follow radial glia
+across the lesion site in untreated (A–A¢¢) and
+methimazole-treated (B–B¢¢), but not in T3-treated
+(C–C¢¢) tadpoles. Axons and radial glia are labeled
+by immunostaining for NF-M (green, A–C) and
+BLBP (red, A¢–C¢), respectively. Channels are
+shown separately in A–C and A¢–C¢ and are
+merged in A¢¢–C¢¢. Each image represents a single
+optical section [A, B – 20 ·, 0.75 NA; 0.3, 0.3,
+2.1 lm (x, y, z). C – 20 ·, 0 ⁄ 75 NA; 0.5, 0.5,
+2.1 lm (x, y, z)] of a parasagittal anatomical
+section; rostral is to the left. The lesion site is
+indicated by a horizontal bracket.
+A B C
+D E F
+Fig. 4. Serotonergic axons crossing the lesion site in a methimazole-treated tadpole at 5 weeks. Parasagittal cryosections were immunostained for NF-M (green) to
+label axons, and for serotonin (red) to identify axons within the descending tracts originating from reticular and raphe nuclei (see text). (A and B) A low-power view
+[20 ·, 0.75 NA; one optical section – 1.3, 1.3, 2.1 lm (x, y, z)] of a parasagittal section through the spinal cord of an unoperated animal to illustrate the presence of
+serotonergic axons within the descending tract. NF-M (A, green) and serotonin (B, red) immunostraining are shown separately. (C) A low-power view [20 ·, 0.75
+NA; one optical section – 0.9, 0.9, 2.1 lm (x, y, z)] of descending axons crossing the lesion site (boxed region). NF-M (green) and serotonin (red) immunostaining
+are superimposed. (D–F) View of the boxed region in C at higher magnification [63 ·, 1.4 NA; one optical section – 0.14, 0.14, 0.3 lm (x, y, z)], with NF-M (green)
+and serotonin (red) immunostaining viewed separately in D and E, respectively, and superimposed in F. Arrows point to examples of axons double-labeled for NF-M
+and serotonin. Dorsal is up, and rostral is to the left. Scale bar in A also applies to B, and that in D also applies to E and F.
+16 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+transcripts, respectively, (including ESTs) were upregulated by our
+filtering criteria. Because of their large number, we present here
+(Table 3) only a subset of these genes that we think will be of
+particular interest to the readership. The complete list of annotated
+and deduced homolog genes is presented in Supporting Information.
+Among those listed are known TH response genes (e.g. Lzip8, Bteb1,
+Dio3, Collagenase 3, Gene 16, NFIX2), whose presence served to
+validate the drug treatment paradigm. Still others could potentially
+play a role in affecting axon regeneration, either through their known
+involvement in established relevant mechanisms or because they
+represent factors previously identified as being involved in transcrip-
+tion, tissue remodeling, chromatin modification or signal transduction
+(see Discussion). Table 4 presents those genes whose expressions
+increased with both methimazole and T3 treatment after spinal cord
+transection. Their increased expression under both treatments
+suggests that they are related to either a generalized injury response
+or to stress.
+Expression of GAP-43, peripherin and NF-M in the no-injury
+condition
+Three genes often associated with axonal growth in other systems were
+noticeably absent from the transcripts that were upregulated after
+transection under regeneration permissive conditions – GAP-43 (Skene
+et al., 1986), the middle neurofilament protein (Jacobs et al., 1997;
+Gervasi et al., 2003) and peripherin (also known as plasticin in fish)
+(Asch et al., 1998; Gervasi et al., 2003). In the anamniote visual
+system, these genes generally exhibit a stereotypical temporal expres-
+sion pattern after optic nerve injury that correlates with regenerative
+success. GAP-43 and peripherin are upregulated soon after injury and
+return to pre-injury levels when regeneration is complete. NF-M is
+initially downregulated, then rises to supranormal levels during the
+peak period of axonal regrowth, and eventually returns to normal levels
+of expression when regeneration is complete. These same genes are
+also usually upregulated during developmental axonal outgrowth.
+Although their expressions fluctuated after spinal cord transection, the
+changes in expression seen for these genes failed to meet our criteria for
+significance for any of the operated groups (Fig. 7).
+We considered two possible explanations for this result:
+(i) regenerative changes in the reticular and raphe neurons were too
+small to be detected biochemically from whole hindbrain; and
+(ii) larval tadpoles express these genes at a level consistent with
+hindbrain motor neurons being in a growth-primed state, allowing
+them to maintain the CNS plasticity required during metamorphosis.
+To determine how the expression of these genes changed in hindbrain
+neurons that regenerate, we performed in situ hybridization on spinal
+cord-transected tadpoles and age-matched controls, both without drug
+treatment. These experiments revealed that all three genes were
+already expressed abundantly in raphe and reticular neurons of
+unoperated tadpoles and confirmed that their expressions did not
+change appreciably in these neurons with injury. Thus, these data
+favored the second possible interpretation.
+Discussion
+Our data indicated that tadpoles could regenerate axons across a spinal
+cord lesion and functionally recover when metamorphosis was
+pharmacologically arrested. Conversely, pharmacologically accelerat-
+ing metamorphosis led to the failure of axons to regrow and to
+paralysis. Thus, prometamorphosis is not a requirement for successful
+recovery from spinal cord injury, whereas prematurely accelerating
+metamorphosis is sufficient to inhibit it.
+Fig. 6. Influence of TH on the functional recovery of spinal-mediated behaviors. Xenopus laevis tadpoles (NF stage 51–53) received complete spinal cord
+transection and were allowed to recover with no drug treatment (n = 3), 1 mm methimazole treatment (n = 14) or treatment with 5 nm T3 (n = 18). At 1 day and
+1 week (no drug, methimazole, T3), and at 2 and 3 weeks (no drug, methimazole), behaviors were visually scored for each animal as being either absent (1), present
+but abnormal (2), or qualitatively normal (3). These scores were then averaged over each group; bars are SEM. Treatment regimens and behaviors are as described in
+the text. Downward-facing brackets indicate statistically significant (two-sided Wilcoxon–Mann–Whitney U-test) pairwise comparisons within each time point.
+Metamorphosis and spinal cord axon regeneration 17
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+Nearly all vertebrates exhibit at least some ability to regenerate
+spinal cord axons during embryonic development. Recovery in these
+developing animals may involve both axon regeneration and the
+de novo establishment of parallel neural pathways (Ten Donkelaar,
+2000). Sequential application of two different dyes that are taken up
+specifically by cut axons provides direct evidence for regeneration
+(Zhang & McClellan, 1999). Indeed, such an approach has demon-
+strated in Xenopus tadpoles that raphe and reticular axons regenerate
+reliably (Gibbs & Szaro, 2006). This double labeling study validated
+an earlier approach utilizing immunostaining for serotonin as evidence
+for regeneration (Beattie et al., 1990; Ten Donkelaar, 2000). The basis
+for this second approach is that serotonergic axons of the ventral tract
+principally originate from reticular and raphe neurons. Because the
+serotonergic neurons in these nuclei are born well before the time of
+transection, any such axons appearing within the lesion site are
+unlikely to represent parallel projections arising de novo (van Mier &
+Ten Donkelaar, 1984). The use of double labeling was precluded in the
+present study because methimazole and T3 treatment resulted in
+animals that were less robust, and survival periods were not long
+enough to allow for the second round of labeling. Given the validity of
+using serotonin immunostaining as an indication of regeneration in
+untreated animals, along with the observation that arresting metamor-
+phosis also inhibits the proliferation of neurons that might potentially
+contribute to de novo pathways (Marsh-Armstrong et al., 2004), we
+felt that the presence of serotonergic axons crossing the lesion site in
+methimazole-treated tadpoles provides strong evidence for axon
+regeneration.
+Our findings also indicate that although prometamorphosis is not
+necessary for recovery it may nonetheless help promote it. Tadpoles
+undergoing no drug treatment exhibited more rapid and complete
+reconstitution of the injured spinal cord, more NF-M-positive axons
+crossing the lesion, and more rapid functional recovery than did
+those treated with methimazole. Untreated tadpoles develop normally
+and thus synthesize low levels of TH during the first week after
+surgery, which might facilitate recovery. The wide ranging effects of
+TH suggest a number of possible mechanisms for this. As TH
+increases brain metabolism (Denver et al., 1997), some of its effects
+could be due simply to increased metabolic rate. TH also promotes
+neuro- and gliogenesis (Kollros, 1981; Marsh-Armstrong et al.,
+2004; Denver, 2008), both of which could accelerate recovery.
+Increased gliogenesis in particular could have contributed to the
+improved wound healing and tissue remodeling that was seen in
+untreated tadpole, as well as the more uniform BLBP staining that
+filled the lesion site of T3-treated tadpoles. TH is also known to
+affect the expression of extracellular matrix proteins such as
+fibronectin and integrins (Brown et al., 1996) as well as tissue
+remodeling enzymes such as matrix metalloproteinases (Shi &
+Brown, 1993; Wang & Brown, 1993; Damjanovski et al., 1999).
+Indeed, collagenase 3, a matrix metallopoteinase (MMP 13), was
+upregulated on T3 arrays but absent from methimazole arrays.
+Although T3-treated tadpoles exhibited many similarities with
+juveniles in their response to spinal cord transection, they differed in
+some respects, such as in the appearance of the wound at 1 week.
+Typically, TH levels rise from stages 54 to 61, then decline to adult
+Table 1. Microarray validation
+Gene name Primers
+Fold change
+Microarray qRT-PCR
+SOCS2 (F) GTGGCTGGTGAA GCCACTAT 1.9 3.5
+(R) TGTTCCAATGCTTAACTGATG
+Neurotensin (F) GAGGAACCAGAAGAAACTGG 2.0 7.4
+(R) ACTGTTTGGGCTGTTAGGTT
+XER81 (F) GCAAGAAAATCTTCCTCCTACA 1.8 3.4
+(R) CAAGGAGTGCTTGCTGTATC
+RPB5 (F) TCCCAAGAAGTTCGAGAATC 1.8 2.8
+(R) TCAACTGTGTGCAGAAAATG
+XPcl-2 (F) AGCATGGAGCAGAGTAATCA 2.8 6.4
+(R) TGAGGCATAGGTCCCATAGT
+TRIO (F) AGTTGATCCTTCCCAGCTAA 2.0 4.8
+(R) TTGCAAGCATCTCCTGTAGT
+FGF8b (F) AATTTCCTGAACTCCTTTGC 2.0 9.3
+(R) CACAACATTT TTGCTCATCA
+Tsh3 (F) CACAAACTAAATCCCCTTCTG 2.3 3.2
+(R) GTGATCCTCGGGTGATTT
+Bteb-1a (F) TTTCTCGTTCCGATGAGTTA 13 4181*
+(R) TCAGGTGAATGATGAATTGG
+Fizzy1 (F) ACACTGCTCGAGTGCTTAAT 2.5 17
+(R) AGTTTGTTCATCGGATGCTT
+Activin Beta b (F) TCACATACACTGGACAGGAA 4.4 42
+(R) GTGGACTCAGTGCAAAACAT
+Insulin induced gene-1 (F) GTGGGAAGGGAAATCATGT 1.9 24
+(R) ATCCACTTTTTGGGATTCAG
+MCpGBP (F) TTTCTGTGGAGAAATACCTGTT 2.7 77
+(R) GCAATTAGTAGCTTGAAAAAGTTC
+ZNF395 (F) AATCT TCGCT ACACG GAAGT )12 )2.4
+(R) TTGAGGAGGTTAAAATGTACG
+C3H-1 (F) TGTGTCCTACCTCACAGTTACA )2.3 )1.5
+(R) ACACATTAGAAGAAGCACACTTT
+Genes used to validate microarray data as being differentially expressed. Fifteen genes identified by microarray analysis as having a change in expression ‡ 1.8-fold
+were validated using qRT-PCR. Genes were selected to represent both methimazole- and T3-treated groups across a broad range of expression values. An asterisk (*)
+is used to denote extremely large changes in expression due to the absence of detectable expression in control vs. experimental samples.
+18 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+Table 2. Genes upregulated in methimazole-treated spinal cord-transected tadpole
+Unigene Category Gene name
+M T3
+3d 1w 3w 3d 1w
+Xl.50377 CP ⁄ ICS SOCS2 1.9 1.9 )1.8
+Xl.47572 CCS ⁄ L Neurotensin ⁄ neuromedin N 2.0 )3.0 )2.5
+Xl.33162 NP HP: MORC3 1.9 )2.0 )2.3
+Xl.76067 TF XER81 1.8 )2.2
+Xl.47364 NP ⁄ Transc Similar to RPB5-mediating protein 1.8 )1.8
+Xl.47612 TF MEF2C 2.3 2.9 2.5
+Xl.63092 CCS ⁄MR Axial protocadherin 1.8 2.2
+Xl.10283 TF V-fos 1.8 2.0
+Xl.9022 TF Tsh3 2.3 2.4 2.1
+Xl.50386 ICS HP: RAS protein activator like 2 2.2 1.8
+Xl.12282 ICS ⁄ UB HSPC150 1.8 1.9
+Xl.57698 Uncharacterized HP: C20rf37 homolog 2.0 1.9
+Xl.50094 ICS HP: TRIO 2.1 2.0
+Xl.30 TF v-kit Hardy-Zuckerman 2.7
+Xl.14315 NP Predicted: JAR1D2 2.6
+Xl.77217 Uncharacterized HP: C10rf174 homolog 2.4
+Xl.53666 MP Similar to CCDC51 2.3
+Xl.57336 ICS HP: Casein kinase 1, c3, 2 2.1
+Xl.21708 rRNAP HP: Tsr2 2.0
+Xl.12384 ICS ⁄ UB Similar to: Vpr-binding protein 2.0
+Xl.29378 ER PDI A6 2.0
+Xl.51787 MP HP: SLC19A2 1.9
+Xl.4290 MP ⁄ ICS HP: PAF 1.9
+Xl.968 ICS ⁄ UB BTRC-a 1.8
+Xl.58749 MP ⁄ IF HP: MHC class II beta-chain 1.8
+Xl.34346 TF Predicted: Homeo box D4 5.7
+Xl.52966 TF Polycomblike 2 2.8
+Xl.21606 MP ⁄ IF T-cell receptor alpha 2.6
+Xl.78192 MP ⁄Mito HP: SMCR7L 2.4
+Xl.75878 ICS HP: NEDD4 binding protein 2 2.4
+Xl.14717 MP HP: Transmembrane protein 30A 2.3
+Xl.2761 NP ⁄ Transc HP: NCOR1 2.3
+Xl.47451 MP ⁄Mito Outer membrane protein 25 2.1
+Xl.57242 ICP ⁄Met HP: ATAD2B 2.0
+Xl.20011 CCS ⁄ L FGF-8b 2.0
+Xl.50196 NP HP: SH3BGRL2 1.8
+Xl.48897 ICS ⁄ UB MGC85526 protein: ASB5 1.8
+Xl.47315 MP ⁄ CA MGC80200 protein: NCAM2 (Nr-Cam) 1.8
+Xl.66298 ER ER-resident kinase PERK 1.8
+Xl.21608 MP ⁄ ICS Cannabinoid receptor 1 ⁄ CB1 1.8
+Xl.59866 MP ⁄ ICS TMEFF2 1.8
+Xl.71886 ICS Predicted: similar to CTNNAL1 5.3
+Xl.688 TF Thyroid transcription factor 1 3.6
+Xl.57018 CP HP: PHLDA2 3.0
+Xl.29880 ICS HP: centaurin, alpha 1 2.6
+Xl.21419 RNA met HP: SRRM1 2.6
+Xl.564 MP ⁄ SV Synapsin IIa 2.4
+Xl.65736 TF C-Fos a 2.3
+Xl.50787 Mito PDP2 2.3
+Xl.47578 ICS HP: DOCK9 2.2
+Xl.25798 Mito PCCA 2.1
+Xl.48881 Uncharacterized Predicted: similar to FAM135B 2.1
+Xl.9988 IC ⁄ Ptase HP: PRSS16 2.0
+Xl.52035 ICS Mdm4 protein 2.0
+Xl.68850 RNABP HP: RBM 42 1.9
+Xl.21633 MP GRIK2 1.9
+Xl.2599 RNAmet SF3B1 1.9
+Xl.48462 ICS HP: LRRK2 1.9
+Xl.41591 TF HP: HDGF 1.9
+Xl.637 TF EGR 1 1.9
+Xl.23598 CCS ⁄ L Tgfb2-A 1.9
+Xl.23524 ICP HSD17B6 1.9
+Xl.34486 MP ⁄ ICS HP: PLEKHB2 1.9
+Xl.13872 CCS Slit homolog 1 1.9
+Xl.54918 ICP ⁄ Ptase HP: similar to DPP8 1.8
+Xl.56564 CP ⁄Met HP: PYGM 1.8
+Xl.55591 CP ⁄ Cyskl HP: similar to radixin 1.8
+Xl.23550 CP ⁄Motor HP: Kif19 1.8
+Metamorphosis and spinal cord axon regeneration 19
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+levels (Leloup and Buscaglia, 1977; Simon et al., 2002). The tight
+temporal control of TH production, together with variations in TH
+responsiveness among individual tissues, ensures the correct devel-
+opmental expression of genes required for metamorphosis (Etkin &
+Gilbert, 1968; Dodd & Dodd, 1976; Shi, 2000). Exposure to 5 nm T3
+accelerates this process, but not instantaneously. For example, it takes
+2–3 days of exposing premetamorphic tadpoles to 5 nm T3 for the
+hormones prolactin and somatostatin, whose syntheses are controlled
+by TH, to reach the levels typical of metamorphic climax (Buckbinder
+& Brown, 1993). Such a delay in the time needed for T3 to elicit its
+full effects could therefore have contributed to differences in wound
+healing seen between T3-treated tadpoles and untreated juveniles.
+Molecular data from the T3 arrays support this possibility. Silencing
+Mediator for Retinoid and Thyroid receptors (SMRT) is part of the
+transcriptional repressor complex that is recruited by TH receptors
+(and other nuclear hormone receptors) and relieved by TH binding
+(Horlein et al., 1995). Its expression should be suppressed by TH, as
+was indeed the case at 1 week. However, at 3 days it was still present
+in T3-treated animals, suggesting that TH levels in hindbrain were still
+insufficient to reduce its expression. These differences between T3-
+treated tadpoles and untreated juveniles notwithstanding, T3 treatment
+clearly altered the injury response significantly by transforming
+regeneration-permissive larval conditions into inhibitory ones. These
+observations thus strengthen the causal connection between the
+cascade of events triggered by rising levels of TH, which drives the
+transformation from the larval to the adult form, and the develop-
+mental loss of regenerative capacity in spinal cord.
+Thus, it can be argued that in Xenopus it is the maintenance of
+larval features that is needed for spinal cord axon regeneration. The
+ability of amniotes to recover from spinal cord injury is also lost at
+some point during development, suggesting that certain larval
+features may also be important for promoting recovery among the
+so-called ‘higher’ vertebrates. One such larval feature is the presence
+of radial glia which, in amniotes, are characteristically more
+prominent in the developing than in the adult CNS. Radial glia,
+which express BLBP (Feng et al., 1994), form scaffolds for
+migrating neurons and guide growing axons during mammalian
+development (Norris & Kalil, 1991). In mammals, BLBP-expressing
+embryonic radial glia promote spinal cord axon regeneration as well
+as decreased expression of growth-inhibitory factors (Hasegawa
+et al., 2005); in turtle, they appear to guide regrowing axons in
+transected spinal cord, which exhibits axonal regrowth (Rehermann
+et al., 2009). Consistent with these observations in amniotes, axons
+crossing the lesion site in untreated and in methimazole-treated
+tadpoles frequently co-localized with BLBP-positive radial glial
+fibers; however, with T3 treatment, BLBP was abundantly expressed
+within the lesion site but did not co-localize with axons (NF-M).
+These results suggest that T3 treatment impaired the capacity of
+axons to regenerate and of radial glia to facilitate this regeneration
+without impairing the ability of radial glia to invade the lesion site
+during wound healing.
+Based on our results, we also concluded that the developmental loss
+of axonal regenerative capacity in Xenopus spinal cord occurred as a
+direct consequence of the developmental events triggered by rising
+levels of TH. Our data are consistent with a model wherein the low
+levels of TH present early in prometamophosis help to promote wound
+healing through increased gliogenesis but later lead to the inability of
+hindbrain neurons to activate the axonal growth program as TH levels
+rise during metamorphic climax. Rising TH levels also correlate with
+the loss of forelimb regenerative potential in Xenopus tadpoles, with
+complete loss occurring at metamorphic climax (Dent, 1962).
+However, rising levels of TH probably also work in concert with
+cell type-specific levels of sensitivity and responsiveness to TH in
+determining regenerative capacity, as retinal ganglion cells in Xenopus
+maintain their capacity to regenerate an axon throughout life (Taylor
+et al., 1989). In anuran CNS development, TH stimulates extensive
+tissue remodeling through neuro- and gliogenesis, apoptosis, and
+increased myelination, all directed toward accommodating the adult
+form (Weiss & Rosetti, 1951; Kollros, 1981; Will, 1986; Ten
+Donkelaar, 2000; Marsh-Armstrong et al., 2004). Brain development
+in amniotes during late fetal and post natal stages also critically
+depends on TH (Howdeshell, 2002). Interestingly, the loss of
+regenerative capacity of spinal cord axons in both chick and rodent
+occurs after the onset of TH exposure. Chicks begin producing TH
+endogenously at E10 and lose spinal cord axon regenerative capacity
+at E13 (Hasan et al., 1993; Muchow et al., 2005); rats become
+exposed to maternal TH at E9 leading to a steady rise in circulating
+TH levels, and they lose regenerative capacity by E15 (Saunders et al.,
+1992; Howdeshell, 2002). Thus, the negative effects of high levels of
+TH on regeneration of spinal cord axons seen here in Xenopus could
+also have implications for the loss of regenerative capacity in
+amniotes.
+Table 2. Continued.
+Unigene Category Gene name
+M T3
+3d 1w 3w 3d 1w
+Xl.47139 NP ⁄ Transc HP SMARCC2 1.8
+Xl.14482 NP ⁄ Transc Wilms tumor 1 interacting protein 1.8
+Xl.55111 NP ⁄ Transc HP: TRIP 11 1.8
+Xl.29836 MP ⁄ ICS Proprotein convertase 4 1.8
+Genes upregulated in hindbrain following spinal cord transection under regeneration-permissive conditions (methimazole-treated). Hindbrains of methimazole-
+treated tadpoles were harvested and analyzed by arrays at 3 days (3d), 1 week (1w) and 3 weeks (3w) following complete spinal cord transection. The fold-change
+relative to methimazole-treated, unoperated control is listed under each relevant timepoint. Fold increases and decreases are positive and negative, respectively.
+Unlisted values indicate either a < 1.8-fold change or one that was statistically nonsignificant. The first five were upregulated with methimazole (M) and
+downregulated with T3 treatment. The next eight were upregulated with methimazole at all timepoints. The remaining were upregulated at only the indicated
+timepoint. Each gene is designated by its UniGene ID (left column). Gene names and function were assigned as described in Materials and methods. Abbreviations:
+CA, cell adhesion; CCS, cell-cell signaling molecule; CP, cytoplasmic protein; cyskl, cytoskeletal protein; ER, endoplasmic reticular protein; ICP, intracellular
+protein; ICS, intracellular signaling molecule; IF, immune function; L, receptor ligand; Met, metabolism; Mito, mitochondrial protein; motor, motor protein; MP,
+membrane protein; MR, membrane receptor; NP, nuclear protein; RNA BP, RNA binding protein; RNA met, RNA metabolism; rRNAP, ribosomal RNA protein; SV,
+synaptic vesicle component; TF, transcription factor; Transc, gene involved in transcription; UB, involved in ubiquitination; Uncharacterized, function un-
+characterized.
+20 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+Expression profiling
+Gene expression profiling on microarrays provided direct evidence for
+intrinsic changes in hindbrain neurons during a successful regenerative
+response to spinal cord injury. Treatment of tadpoles with methim-
+azole permitted for the first time the analysis of changes in gene
+expression during regeneration in the absence of background changes
+resulting from ongoing development. Structural genes that typically
+increase with axon outgrowth in other systems [e.g. GAP43 (Jacobson
+et al., 1986; Skene et al., 1986) and peripherin (Gervasi et al., 2003)]
+were found already abundantly expressed in hindbrain of normally
+developing tadpole at these stages, by both microarray and in situ
+Table 3. Genes upregulated in T3-treated spinal cord-transected tadpole
+Unigene Category Gene name T3, 3d T3, 1w
+Xl.453 TF Leucine zipper gene 8 27.8 16.4
+Xl.353 ECP Collagenase-3 15.8 18.6
+Xl.347 TF Bteb 1a (KLF9) 13.6 8.5
+Xl.13228 NP Centromere protein N 9.7
+Xl.54050 CCS ⁄ L HP: BMP 6 8.4 5.2
+Xl.8196 MP SLC15A2 6.4 2.0
+Xl.862 MP Deiodinase, iodothyronine, type III 6.3 3.4
+Xl.3204 ICP ⁄ ER Heavy-chain binding protein BiP 5.0 2.3
+Xl.1090 SP Activin Beta b 4.4 4.1
+Xl.25391 NP HP: Apoptosis-enhancing nuclease 4.0
+Xl.2213 CP ⁄ ICS HP: SOCS 3 4.0
+Xl.21563 MP ⁄Mito TGM2 4.0 4.5
+Xl.55631 SP HP: TIMP 3 3.9 2.0
+Xl.77410 NP HP: IFRD1 3.7
+Xl.73282 MP ⁄Golgi HP: RAB36 3.5 2.9
+Xl.16548 CCS HP: Netrin 1 3.4 2.5
+Xl.70833 CP Methionine-tRNA synthetase 3.2
+Xl.4203 ICP ABCF2 3.0 2.0
+Xl.57034 TF Nuclear factor I-C1 3.0
+Xl.48217 CP Heat shock protein 105 2.9 2.2
+Xl.481 TF Zinc finger protein Gli2 2.9
+Xl.55978 Uncharacterized HP: Similar to ZNF 711 2.8
+Xl.8364 NP MBD3 2.7 2.0
+Xl.33920 NP MGC84310: CHMP2B 2.7 2.6
+Xl.620 SP Wnt inhibitor Frzb3-like 2.6 2.3
+Xl.357 ICP Gene 16 2.6
+Xl.3026 CP ⁄ ICS Adenylate kinase 7 2.6 2.2
+Xl.4938 NP Fizzy1 (CDC20) 2.5
+Xl.20608 MP Transmembrane protein 177 2.5
+Xl.693 CP ⁄ ICS CaM kinase II gamma 2.4 2.7
+Xl.1099 MP ⁄ ICS Receptor protein tyrosine phosphatase beta.11 2.4 2.7
+Xl.3540 MP ⁄ ICS p75-like transmembrane protein fullback 2.3
+Xl.1396 TF Forkhead box protein 2.2 2.2
+Xl.14056 CP ⁄ ICS RAN GTPase activating protein 1 2.2
+Xl.7678 NP ⁄ Transc HP: REST corepressor 2 2.1 1.9
+Xl.25554 CP ⁄ ICS MGC80232 SOCS1a 2.1
+Xl.23295 NP Protein arginine methyltransferase 1 2.0
+Xl.60871 CP HP: HSPA (Heat shock 70 kDa) binding protein 2.0
+Xl.25554 CP ⁄ ICS HP: SOCS1 2.0
+Xl.48463 MP ⁄ ER Insulin induced gene 1 1.9
+Xl.26031 TF Activating transcription factor 5 1.9
+Xl.973 TF Homeobox protein Xgbx-2 2.9
+Xl.50412 CP HP: chondroitin 4 sulfotransferase 11 2.3
+Xl.21537 MP ⁄ ICS Receptor protein tyrosine phosphatase Rho precursor 2.2
+Xl.21440 MP Metalloprtease ⁄ disintegrin xMDC11.1 2.2
+Xl.21565 MP ⁄ ICS Neural cell adhesion molecule L1 2.2
+Xl.54777 CP ⁄ ICS Intersectin 2.1
+Xl.741 CP ⁄ ICS Smad8C protein 2.0
+Xl.166 MP ADAM 13 2.0
+Xl.1096 TF NFI-X2 transcription factor 2.0
+Xl.48321 MP ⁄ ICS FGF receptor-like protein 2.0
+Xl.41403 CP ⁄UB F-box protein 11 2.0
+Xl.21607 MP ⁄ ICS Thyrotropin-releasing hormone receptor 3 2.0
+Xl.78076 ICS Nerve injury gene 283 1.9
+Xl.23456 CP Neurochondrin 1.9
+Xl.79277 CP ⁄ ICS Hypothetical protein: RhoGap68f 1.8
+Xl.3801 ICS Neuronal nitric oxide synthase 1 1.8
+Xl.58616 TF Zinc finger, MYND domain-containing 10 1.8
+Xl.76580 NP HP: Suppressor of zeste 12 homolog 1.8
+Selective genes upregulated in hindbrain after spinal cord transection under regeneration inhibitory conditions (T3-treated). Abbreviations and other details are as in
+Table 2. See Supporting Information for the full listing.
+Metamorphosis and spinal cord axon regeneration 21
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+hybridization. These data are consistent with the idea that the larval
+state of tadpoles is already conducive to regeneration and, as such,
+elevated expression of these structural genes need not be induced
+de novo with injury. Nevertheless, spinal cord transection was
+sufficient to induce specific sets of new genes and inhibit still others
+in the methimazole-treated maintained larval state.
+Five genes in particular increased after injury in the methimazole-
+treated (regeneration-permissive) condition and were selectively
+A
+B
+Fig. 7. GAP-43, peripherin and NF-M expression in hindbrain after spinal cord transection. (A) Microarray data indicating that no significant change in expression
+of these mRNAs took place. Abbreviations – M, methimazole-treated; T3, T3-treated; 3D, 3 days; 1W, 1 week; and 3W, 3 weeks after spinal cord transection. (B) In
+situ hybridization with digoxigenin-labeled cRNA probes to GAP-43, peripherin and NF-M in transverse sections of hindbrain without drug treatment, at the
+indicated times after spinal cord transection and in age-matched uninjured controls. Hybridized probes were visualized by immunohistochemistry with an alkaline
+phosphatase-labeled antidigoxigenin antibody. Expression in reticular neurons (circle), which are known to regenerate an axon under these conditions, is equivalent
+for all three genes between operated and unoperated tadpoles, suggesting these neurons were already in a ‘growth-primed’ state prior to the injury. The calibration bar
+in the GAP-43, unoperated, 1-day panel applies to all panels.
+Table 4. Genes upregulated in methimazole- and T3-treated spinal cord-transected tadpole
+Unigene Category Gene Name
+M T3
+3d 1w 3w 3d 1w
+Xl.74164 ICP ⁄Mito Similar to: CDKN2D 4.3 5.4
+LOC733250 MP HP: Glycoprotein NMB 2.7 2.0 2.5 3.1
+MGC132043 CCS ⁄ L HP: Tachykinin 1 isoform 1 2.0 1.8
+Xl.21031 MP ⁄ ICS PTPRD 2.0 2.1 2.0 2.2 2.3
+Xl.28411 NP HP: NCOR2 3.3 3.5 3.6 3.7
+Xl.48433 CP HP: Hook3 3.0 2.9 2.2
+Xl.826 TF Myc-A 1.8 1.9 2.0
+Xl.9047 TF Homeobox C5 5.5 6.8
+Xl.8804 TF HP: CBX 6 2.2 2.0
+Xl.82524 ICP HP: Cathepsin S 3.7 3.5
+Xl.18619 ICP HP: Similar to LIPE 1.8 2.0
+Xl.77747 NP ⁄ Transc HP: Prdm2 protein 2.4 2.9
+Xl.32812 CP ⁄ Syn Rabphilin 3A homolog 2.0 1.8
+Xl.6687 CP Similar to: BLBP 2.8 6.0 2.4
+Xl.12862 MP ⁄Apop MFGE8 1.8 1.9 3.2
+Xl.60293 NP ⁄ Transc HP: TR beta B2 2.2 3.6 2.2
+Xl.1109 MP Gap Junction a1, 43 kDa 1.8 3.4
+Xl.24560 Sec HP: a-2-HS-glycoprotein 2.1 2.0 2.0
+Xl.5377 MP Similar to: P4HB 1.8 2.6 2.0
+Xl.82105 MP HP: Similar to CYP26C1 3.2 3.0 3.2 7.1
+Genes upregulated in both methimazole- and T3-treated tadpoles following complete spinal cord transection. Abbreviations and other details are as in Table 2.
+22 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+downregulated in the T3-treated (regeneration-inhibitory) condition –
+SOCS2, XER81, MORC3, NTS and RMP. Interestingly, four of these
+five have known functions consistent with promoting neuronal
+development, survival and neurite outgrowth: (i) SOCS2 promotes
+neurite outgrowth in cortical neurons and in PC12 cells, where its
+expression inhibits RhoA and activates Rac1 through the SOCS2-
+mediated phosphorylation of epidermal growth factor receptor
+(EGFR) (Goldshmit et al., 2004); (ii) XER81 is a transcription factor
+expressed by mammalian corticospinal neurons that is required for
+establishing correct sensory–motor connectivity in developing spinal
+cord (Arber et al., 2000; Hevner et al., 2003); (iii) Morc3 is a nuclear
+protein shown to activate p53 (Takahashi et al., 2007), which is
+necessary for neurite outgrowth in cultured neurons and for facial
+nerve regeneration (Di Giovanni et al., 2006); (iv) NTS is a
+neuropeptide that antagonizes the binding of proNGF to the sortilin
+receptor (Mazella et al., 1998; Nykjaer et al., 2004) which in the CNS
+is a co-receptor with p75 receptor for proNGF; proNGF binding to this
+receptor complex promotes cell death. Thus, increased expression of
+NTS could play a potent role in neuroprotection; and (v) The fifth gene
+in this group, RMP, although not previously associated with neurite
+outgrowth and neuroprotection, is a transcriptional repressor that
+works in combination with DNA methyltransferase 1 (Dmap1;
+Delgermaa et al., 2004). It may therefore be involved in regulating
+downstream genes important for regeneration. The majority of the
+remaining genes that were upregulated with methimazole and not with
+T3 treatment have known functions in transcription and in cell
+signaling as opposed to being purely structural genes. This entire list
+presents a set of intriguing candidates for further studies aimed at
+dissecting the functions and regulatory pathways of these genes during
+injury.
+With few exceptions, the magnitude of changes on the arrays was
+always smaller than that seen with validation by qRT-PCR. This
+phenomenon is common with array studies and thus the changes seen
+on microarrays should not be taken as quantitative measures of gene
+expression. Such measurements, particularly in a tissue as complex as
+hindbrain, are best done by qRT-PCR on samples recovered by laser-
+capture microdissection from the regenerating neurons themselves, a
+technically difficult method that goes beyond the current study. It
+should be noted that microarray studies have found changes as low as
+1.5-fold to be biologically significant (Das et al., 2009; Paulsen et al.,
+2009), and thus our cutoff of 1.8-fold can be considered conservative.
+T3 arrays were performed primarily to aid in the interpretation of
+the methimazole arrays. For example, the increased expression of
+many known TH-responsive genes on the arrays helped serve to
+validate the T3 treatment paradigm [e.g. Leucine zipper gene 8,
+Gene 16 and collagenase 3 (Brown et al., 1996), Bteb (Denver et al.,
+1997), Dio III (St.Germain et al., 1994) and Nfi-x2 (Buchholz et al.,
+2007)]. These genes were among those with the most robust
+responses. Next, we expected that genes associated more with injury
+and stress than with axon regeneration would be upregulated in both.
+Indeed, the known function of several such genes is consistent with
+this prediction. Tachykinin1 is a neuropeptide that is cleaved to
+produce other neuropeptides, including substance P, which is an
+important component of the response to pain and inflammation during
+CNS injury (Knerlich-Lukoschus et al., 2008). Cathepsin S is a
+protease involved with antigen presentation in the microglial-mediated
+immune response (Nakanishi, 2003). AHSG is activated in multiple
+tissues, including brain, in response to chemically induced injury
+(Yoshida et al., 1999). P4HB is a chaperone that is upregulated as a
+stress response gene; PTPRD (Johnson et al., 2001) and L1 (Becker
+et al., 1998) expression may represent an attempt by the damaged
+nervous system to initiate axon outgrowth. Also, BLBP was
+upregulated with both methimazole and T3 treatment, consistent with
+a response by radial glia in both groups.
+In addition to these sets of genes on T3 arrays was an interesting set
+that, based on its members’ known functions, could play a role in
+transforming the regeneration-permissive larval CNS into an inhibi-
+tory environment. For example, the expression of both SOCS1 and
+SOCS3 increased on T3 arrays. Both SOCS1 and SOCS3 inhibit
+cytokine signaling, and their expression negatively regulates STAT3.
+The inhibitory effects of SOCS1 and SOCS3 are directly counteracted
+by SOCS2 (Piessevaux et al., 2006), whose expression increased
+under regeneration-permissive (methimazole) and decreased under
+regeneration-inhibitory (T3) conditions. Genes whose increased
+expression on T3 arrays is consistent with known inhibition of
+recovery from spinal cord injury include two additional genes: (i)
+fullback, which is closely related to p75 and has been implicated in
+dimerizing with other receptors to transmit growth inhibitory signals
+leading to axonal growth inhibition (Hutson & Bothwell, 2001); and
+(ii) ARHGAP1, a GTPase activator protein that inactivates the Rho
+family members Rho, Rac and Cdc42. ARHGAP1 has preference for
+Cdc42, which has been shown to promote neurite outgrowth
+(Lancaster et al., 1994). Regardless of whether the genes that are
+upregulated with T3 treatment are directly involved in the inhibition of
+recovery from spinal cord injury or represent changes involved in the
+transition from larval to juvenile forms, their sheer number argues that
+the loss of regenerative capacity involves a change in developmental
+state evoked in hindbrain by TH. It remains to be seen whether similar
+changes take place at the injury site itself.
+Taken together, these findings are consistent with TH being the
+principal activator of a cascade of developmental events that leads
+directly to the loss of the larval state and its attendant ability to execute
+the axonal growth program needed for axonal regeneration and
+functional recovery. Array studies indicated that both the response to
+injury and the loss of regenerative capacity necessarily involves
+multiple genes. Future studies aimed at characterizing the functions of
+these genes, along with their expression control mechanisms, could
+eventually lead to improved functional outcome from spinal cord
+injury in mammals.
+Supporting Information
+Additional supporting information may be found in the online version
+of this article:
+Table S1. Genes differentially expressed in methimazole treated,
+spinal cord transected animals.
+Table S2. Genes Differentially expressed in T3-treated, spinal cord
+transected animals.
+Please note: As a service to our authors and readers, this journal
+provides supporting information supplied by the authors. Such
+materials are peer-reviewed and may be re-organized for online
+delivery, but are not copy-edited or typeset by Wiley-Blackwell.
+Technical support issues arising from supporting information (other
+than missing files) should be addressed to the authors.
+Acknowledgements
+The authors thank Dr Christine Gervasi for help in animal rearing and editorial
+comments, and the National Science Foundation (IOS 951043) and the New
+York State Spinal Cord Injury Research Trust (NYSPHS C020940) for support.
+We also thank Drs Nathaniel Heintz (Rockefeller University) and Virginia M.-
+Y. Lee (Univ. Penn.) for the BLBP and NF-M antibodies, respectively.
+Appreciation is also given to Chen Wang, Erica Hutchins and Yuanyuan Liu for
+their help with the figures and for their suggestions for improving the text.
+Metamorphosis and spinal cord axon regeneration 23
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+Abbreviations
+BLBP, brain lipid binding protein; CNS, central nervous system; MS-222, ethyl
+3-aminobenzoate methanesulfonate; NF-M, middle neurofilament protein;
+NTS, neurotensin; PB, 0.1 m sodium phosphate, pH 7.4; qRT-PCR, quantita-
+tive real-time reverse transcriptase polymerase chain reaction; RMP, RNA
+polymerase II subunit 5-mediating protein; SOCS2, cytokine signaling 2; T3,
+3,3¢,5-triiodo-L-thyronine; TBS, Tris-buffered saline; TH, thyroid hormone.
+References
+Arber, S., Ladle, D.R., Lin, J.H., Frank, E. & Jessell, T.M. (2000) ETS gene
+Er81 controls the formation of functional connections between group Ia
+sensory afferents and motor neurons. Cell, 101, 485–498.
+Asch, W.S., Leake, D., Canger, A.K., Passini, M.A., Argenton, F. & Schechter,
+N. (1998) Cloning of zebrafish neurofilament cDNAs for plasticin and
+gefiltin: increased mRNA expression in ganglion cells after optic nerve
+injury. J. Neurochem., 71, 20–32.
+Beattie, M.S., Bresnahan, J.C. & Lopate, G. (1990) Metamorphosis alters the
+response to spinal cord transection in Xenopus laevis frogs. J. Neurobiol., 21,
+1108–1122.
+Becker, T., Bernhardt, R.R., Reinhard, E., Wullimann, M.F., Tongiorgi, E. &
+Schachner, M. (1998) Readiness of zebrafish brain neurons to regenerate a
+spinal axon correlates with differential expression of specific cell recognition
+molecules. J. Neurosci., 18, 5789–5803.
+Brown, D.D. & Cai, L. (2007) Amphibian metamorphosis. Dev. Biol., 306, 20–
+33.
+Brown, D.D., Wang, Z., Kanamori, A., Eliceiri, B., Furlow, J.D. &
+Schwartzman, R. (1995) Amphibian metamorphosis: a complex program
+of gene expression changes controlled by the thyroid hormone. Recent Prog.
+Horm. Res., 50, 309–315.
+Brown, D.D., Wang, Z., Furlow, J.D., Kanamori, A., Schwartzman, R.A.,
+Remo, B.F. & Pinder, A. (1996) The thyroid hormone-induced tail resorption
+program during Xenopus laevis metamorphosis. Proc. Natl. Acad. Sci. USA,
+93, 1924–1929.
+Buchholz, D.R., Heimeier, R.A., Das, B., Washington, T. & Shi, Y.B. (2007)
+Pairing morphology with gene expression in thyroid hormone-induced
+intestinal remodeling and identification of a core set of TH-induced genes
+across tadpole tissues. Dev. Biol., 303, 576–590.
+Buckbinder, L. & Brown, D.D. (1993) Expression of the Xenopus laevis
+prolactin and thyrotropin genes during metamorphosis. Proc. Natl. Acad. Sci.
+USA, 90, 3820–3824.
+Consolazione, A., Milstein, C., Wright, B. & Cuello, A.C. (1981) Immuno-
+cytochemical detection of serotonin with monoclonal antibodies. J. Histo-
+chem. Cytochem., 29, 1425–1430.
+Damjanovski, S., Ishizuya-Oka, A. & Shi, Y.B. (1999) Spatial and temporal
+regulation of collagenases-3, -4, and stromelysin -3 implicates distinct
+functions in apoptosis and tissue remodeling during frog metamorphosis.
+Cell Res., 9, 91–105.
+Das, B., Heimeier, R.A., Buchholz, D.R. & Shi, Y.B. (2009) Identification of
+direct thyroid hormone response genes reveals the earliest gene regulation
+programs during frog metamorphosis. J. Biol. Chem., 284, 34167–34178.
+Delgermaa, L., Hayashi, N., Dorjsuren, D., Nomura, T., Thuy le, T.T. &
+Murakami, S. (2004) Subcellular localization of RPB5-mediating protein and
+its putative functional partner. Mol. Cell. Biol., 24, 8556–8566.
+Dent, J.N. (1962) Limb regeneration in larvae and metamorphosing individuals
+of the South African clawed toad. J. Morphol., 110, 61–77.
+Denver, R.J. (2008) Chordate metamorphosis: ancient control by iodothyro-
+nines. Curr. Biol., 18, R567–R569.
+Denver, R.J., Pavgi, S. & Shi, Y.B. (1997) Thyroid hormone-dependent gene
+expression program for Xenopus neural development. J. Biol. Chem., 272,
+8179–8188.
+Di Giovanni, S., Knights, C.D., Rao, M., Yakovlev, A., Beers, J., Catania, J.,
+Avantaggiati, M.L. & Faden, A.I. (2006) The tumor suppressor protein p53 is
+requiredforneuriteoutgrowthandaxonregeneration.EMBOJ.,25,4084–4096.
+Dodd, M.H.I. & Dodd, J.M. (1976) The biology of metamorphosis. In Lofts, B.
+(Ed.), Physiology of the Amphibia. Academic Press, New York, pp. 467–576.
+Etkin, W. & Gilbert, L.I. (1968) Metamorphosis. A Problem in Developmental
+Biology. Appleton-Century-Crofts, New York.
+Feng, L., Hatten, M.E. & Heintz, N. (1994) Brain lipid-binding protein
+(BLBP): a novel signaling system in the developing mammalian CNS.
+Neuron, 12, 895–908.
+Forehand, C.J. & Farel, P.B. (1982) Anatomical and behavioral recovery from
+the effects of spinal cord transection: dependence on metamorphosis in
+anuran larvae. J. Neurosci., 2, 654–662.
+Gervasi, C. & Szaro, B.G. (1997) Sequence and expression patterns of two
+forms of the middle molecular weight neurofilament protein (NF-M) of
+Xenopus laevis. Brain Res. Mol. Brain Res., 48, 229–242.
+Gervasi, C., Thyagarajan, A. & Szaro, B.G. (2003) Increased expression of
+multiple neurofilament mRNAs during regeneration of vertebrate central
+nervous system axons. J. Comp. Neurol., 461, 262–275.
+Gibbs, K.M. & Szaro, B.G. (2006) Regeneration of descending projections in
+Xenopus laevis tadpole spinal cord demonstrated by retrograde double
+labeling. Brain Res., 1088, 68–72.
+Goldshmit, Y., Walters, C.E., Scott, H.J., Greenhalgh, C.J. & Turnley, A.M.
+(2004) SOCS2 induces neurite outgrowth by regulation of epidermal growth
+factor receptor activation. J. Biol. Chem., 279, 16349–16355.
+Gudernatsch, J.F. (1912) Feeding experiments in Tadpoles. I. The influence of
+specific organs given as on growth and differentiation: a contribution to the
+knowledge of organs with internal secretion. Arch. Ent.-mech. Org., 35, 457–
+483.
+Hasan, S.J., Keirstead, H.S., Muir, G.D. & Steeves, J.D. (1993) Axonal
+regeneration contributes to repair of injured brainstem-spinal neurons in
+embryonic chick. J. Neurosci., 13, 492–507.
+Hasegawa, K., Chang, W.W., Li, H., Berlin, Y., Ikeda, O., Kane-Goldsmith, N.
+& Grumet, M. (2005) Embryonic radial glia bridge spinal cord lesions and
+promote functional recovery following spinal cord injury. Exp. Neurol., 193,
+394–410.
+Hevner, R.F., Daza, R.A., Rubenstein, J.L., Stunnenberg, H., Olavarria, J.F. &
+Englund, C. (2003) Beyond laminar fate: toward a molecular classification of
+cortical projection ⁄ pyramidal neurons. Dev. Neurosci., 25, 139–151.
+Hoperskaya, O.A. (1975) The development of animals homozygous for a
+mutation causing periodic albinism (ap) in Xenopus laevis. J. Embryol. Exp.
+Morphol., 34, 253–264.
+Horlein, A.J., Naar, A.M., Heinzel, T., Torchia, J., Gloss, B., Kurokawa, R.,
+Ryan, A., Kamei, Y., Soderstrom, M. & Glass, C.K. (1995) Ligand-
+independent repression by the thyroid hormone receptor mediated by a
+nuclear receptor co-repressor. Nature, 377, 397–404.
+Howdeshell,K.L. (2002)Amodel of the development of thebrain as a construct of
+the thyroid system. Environ. Health Perspect., 110(Suppl. 3), 337–348.
+Hutson, L.D. & Bothwell, M. (2001) Expression and function of Xenopus
+laevis p75(NTR) suggest evolution of developmental regulatory mecha-
+nisms. J. Neurobiol., 49, 79–98.
+Jacobs, A.J., Swain, G.P., Snedeker, J.A., Pijak, D.S., Gladstone, L.J. & Selzer,
+M.E. (1997) Recovery of neurofilament expression selectively in regener-
+ating reticulospinal neurons. J. Neurosci., 17, 5206–5220.
+Jacobson, R.D., Virag, I. & Skene, J.H. (1986) A protein associated with axon
+growth, GAP-43, is widely distributed and developmentally regulated in rat
+CNS. J. Neurosci., 6, 1843–1855.
+Johnson, K.G., McKinnell, I.W., Stoker, A.W. & Holt, C.E. (2001) Receptor
+protein tyrosine phosphatases regulate retinal ganglion cell axon outgrowth
+in the developing Xenopus visual system. J. Neurobiol., 49, 99–117.
+Knerlich-Lukoschus, F., Juraschek, M., Blomer, U., Lucius, R., Mehdorn, H.M.
+& Held-Feindt, J. (2008) Force-dependent development of neuropathic
+central pain and time-related CCL2 ⁄ CCR2 expression after graded spinal
+cord contusion injuries of the rat. J. Neurotrauma, 25, 427–448.
+Kollros, J.J. (1981) Transitions in the nervous system during amphibian
+metamorphosis. In Gilbert, L.I. & Frieden, E. (Eds), Metamorphosis: A
+Problem in Developmental Biology. Plenum Press, New York, pp. 445–459.
+Lancaster, C.A., Taylor-Harris, P.M., Self, A.J., Brill, S., van Erp, H.E. & Hall,
+A. (1994) Characterization of rhoGAP. A GTPase-activating protein for rho-
+related small GTPases. J. Biol. Chem., 269, 1137–1142.
+Leloup, J. & Buscaglia, M. (1977) La triiodothyronine, hormone de la
+metamorphose des Amphibiens. C. R. Acad. Sci, 284, 2261–2263.
+Lin, W. & Szaro, B.G. (1994) Maturation of neurites in mixed cultures of spinal
+cord neurons and muscle cells from Xenopus laevis embryos followed with
+antibodies to neurofilament proteins. J. Neurobiol., 25, 1235–1248.
+Livak, K.J. & Schmittgen, T.D. (2001) Analysis of relative gene expression
+data using real-time quantitative PCR and the 2)DDCT method. Methods, 25,
+402–408.
+Marsh-Armstrong, N., Cai, L. & Brown, D.D. (2004) Thyroid hormone controls
+the development of connections between the spinal cord and limbs during
+Xenopus laevis metamorphosis. Proc. Natl. Acad. Sci. USA, 101, 165–170.
+Mazella, J., Zsurger, N., Navarro, V., Chabry, J., Kaghad, M., Caput, D.,
+Ferrara, P., Vita, N., Gully, D., Maffrand, J.P. & Vincent, J.P. (1998) The
+100-kDa neurotensin receptor is gp95 ⁄ sortilin, a non-G-protein-coupled
+receptor. J. Biol. Chem., 273, 26273–26276.
+Michel, M.E. & Reier, P.J. (1979) Axonal-ependymal associations during early
+regeneration of the transected spinal cord in Xenopus laevis tadpoles.
+J. Neurocytol., 8, 529–548.
+24 K. M. Gibbs et al.
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25
+van Mier, P. & Ten Donkelaar, H.J. (1984) Early development of descending
+pathways from the brain stem to the spinal cord in Xenopus laevis. Anat.
+Embryol. (Berl.), 170, 295–306.
+van Mier, P., Joosten, H.W., van Rheden, R. & Ten Donkelaar, H.J. (1986) The
+development of serotonergic raphespinal projections in Xenopus laevis. Int.
+J. Dev. Neurosci., 4, 465–475.
+Milstein, C., Wright, B. & Cuello, A.C. (1983) The discrepancy between the
+cross-reactivity of a monoclonal antibody to serotonin and its immunohis-
+tochemical specificity. Mol. Immunol., 20, 113–123.
+Muchow, M., Bossis, I. & Porter, T.E. (2005) Ontogeny of pituitary throtrophs
+and regulation by endogenous thryoid hormone feedback in the chick
+embryo. J. Endocrinol., 184, 407–416.
+Nakanishi, H. (2003) Microglial functions and proteases. Mol. Neurobiol., 27,
+163–176.
+Nieuwkoop, P.D. & Faber, J. (1994) Normal Table of Xenopus laevis (Daudin).
+Garland, New York.
+Norris, C.R. & Kalil, K. (1991) Guidance of callosal axons by radial glia in the
+developing cerebral cortex. J. Neurosci., 11, 3481–3492.
+Nykjaer, A., Lee, R., Teng, K.K., Jansen, P., Madsen, P., Nielsen, M.S.,
+Jacobsen, C., Kliemannel, M., Schwarz, E., Willnow, T.E., Hempstead, B.L.
+& Petersen, C.M. (2004) Sortilin is essential for proNGF-induced neuronal
+cell death. Nature, 427, 843–848.
+Paulsen, S.J., Larsen, L.K., Jelsing, J., Janssen, U., Gerstmayer, B. & Vrang, N.
+(2009) Gene expression profiling of individual hypothalamic nuclei from
+single animals using laser capture microdissection and microarrays.
+J. Neurosci. Methods, 177, 87–93.
+Piessevaux, J., Lavens, D., Montoye, T., Wauman, J., Catteeuw, D.,
+Vandekerckhove, J., Belsham, D., Peelman, F. & Tavernier, J. (2006)
+Functional cross-modulation between SOCS proteins can stimulate cytokine
+signaling. J. Biol. Chem., 281, 32953–32966.
+Raymond, P.A., Barthel, L.K., Bernardos, R.L. & Perkowski, J.J. (2006)
+Molecular characterization of retinal stem cells and their niches in adult
+zebrafish. BMC Dev. Biol., 6, 36.
+Rehermann, M.I., Marichal, N., Russo, R.E. & Trujillo-Cenoz, O. (2009)
+Neural reconnection in the transected spinal cord of the freshwater turtle
+Trachemys dorbignyi. J. Comp. Neurol., 515, 197–214.
+Sachs, L. (1984) Applied Statistics: A Handbook of Techniques. Springer-
+Verlag, New York.
+Saunders, N.R., Balkwill, P., Knott, G., Habgood, M.D., Mollgard, K.,
+Treherne, J.M. & Nicholls, J.G. (1992) Growth of axons through a lesion in
+the intact CNS of fetal rat maintained in long-term culture. Proc. Biol. Sci.,
+250, 171–180.
+Shaw, G. (1992) A neurofilament-specific sequence motif. Trends Biochem.
+Sci., 17, 3405.
+Shi, Y.B. (2000) Amphibian Metamorphosis: From Morphology to Molecular
+Biology. Wiley-Liss, New York.
+Shi, Y.B. (2009) Dual functions of thyroid hormone receptors in vertebrate
+development: the roles of histone-modifying cofactor complexes. Thyroid,
+19, 987–999.
+Shi, Y.B. & Brown, D.D. (1993) The earliest changes in gene expression in
+tadpole intestine induced by thyroid hormone. J. Biol. Chem., 268, 20312–
+20317.
+Simon, R., Tietge, J.E., Michalke, B., Degitz, S. & Schramm, K.W. (2002) Iodine
+species and the endocrine system: thyroid hormone levels in adultDanio rerio
+and developing Xenopus laevis. Anal. Bioanal. Chem., 372, 481–485.
+Sims, R.T. (1962) Transection of the spinal cord in developing Xenopus laevis.
+J. Embryol. Exp. Morphol., 10, 115–126.
+Singer, M., Nordlander, R.H. & Egar, M. (1979) Axonal guidance during
+embryogenesis and regeneration in the spinal cord of the newt: the
+blueprint hypothesis of neuronal pathway patterning. J. Comp. Neurol.,
+185, 1–21.
+Skene, J.H., Jacobson, R.D., Snipes, G.J., McGuire, C.B., Norden, J.J. &
+Freeman, J.A. (1986) A protein induced during nerve growth (GAP-
+43) is a major component of growth-cone membranes. Science, 233, 783–
+786.
+St.Germain, D.L., Schwartzman, R.A., Croteau, W., Kanamori, A., Wang, Z.,
+Brown, D.D. & Galton, V.A. (1994) A thyroid hormone-regulated gene in
+Xenopus laevis encodes a type III iodothyronine 5-deiodinase. Proc. Natl.
+Acad. Sci. USA, 91, 7767–7771.
+Szaro, B.G. & Gainer, H. (1988) Immunocytochemical identification of non-
+neuronal intermediate filament proteins in the developing Xenopus laevis
+nervous system. Brain Res. Dev. Brain Res., 43, 207–224.
+Szaro, B.G., Lee, V.M. & Gainer, H. (1989) Spatial and temporal expression of
+phosphorylated and non-phosphorylated forms of neurofilament proteins in
+the developing nervous system of Xenopus laevis. Brain Res. Dev. Brain
+Res., 48, 87–103.
+Takahashi, K., Yoshida, N., Murakami, N., Kawata, K., Ishizaki, H., Tanaka-
+Okamoto, M., Miyoshi, J., Zinn, A.R., Shime, H. & Inoue, N. (2007)
+Dynamic regulation of p53 subnuclear localization and senescence by
+MORC3. Mol. Biol. Cell, 18, 1701–1709.
+Takeda, A., Goris, R.C. & Funakoshi, K. (2007) Regeneration of descending
+projections to the spinal motor neurons after spinal hemisection in the
+goldfish. Brain Res., 1155, 17–23.
+Tata, J.R. (2006) Amphibian metamorphosis as a model for the developmental
+actions of thyroid hormone. Mol. Cell. Endocrinol., 246, 10–20.
+Taylor, J.S.H., Jack, J.L. & Easter, S.S. Jr (1989) Is the capacity for optic nerve
+regeneration related to continued retinal ganglion cell production in the frog?
+A test of the hypothesis that neurogenesis and axon regeneration are
+obligatorily linked. Eur. J. Neurosci., 1, 626–638.
+Ten Donkelaar, H.J. (2000) Development and regenerative capacity of
+descending supraspinal pathways in tetrapods: a comparative approach.
+Adv. Anat. Embryol. Cell Biol., 154, 1–145.
+Tompkins, R. (1977) Grafting analysis of the periodic albino mutant of
+Xenopus laevis. Dev. Biol., 57, 460–464.
+Undamatla, J. & Szaro, B.G. (2001) Differential expression and localization of
+neuronal intermediate filament proteins within newly developing neurites in
+dissociated cultures of Xenopus laevis embryonic spinal cord. Cell Motil.
+Cytoskeleton, 49, 16–32.
+Wang, Z. & Brown, D.D. (1993) Thyroid hormone-induced gene expres-
+sion program for amphibian tail resorption. J. Biol. Chem., 268, 16270–
+16278.
+Weiss, P. & Rosetti, F. (1951) Growth responses of opposite sign among
+different neuron types exposed to thyroid hormone. Proc. Natl. Acad. Sci.
+USA, 37, 540–546.
+Wetzel, D.M., Lee, V.M. & Erulkar, S.D. (1989) Long-term cultures of neurons
+from adult frog brain express GABA and glutamate-activated channels. J.
+Neurobiol., 20, 255–270.
+Will, U. (1986) Mauthner neurons survive metamorphosis in anurans: a
+comparative HRP study on the cytoarchitecture of Mauthner neurons in
+amphibians. J. Comp. Neurol., 244, 111–120.
+Yoshida, K., Suzuki, Y., Yamamoto, K. & Sinohara, H. (1999) cDNA
+sequencing of guinea pig alpha 2-HS glycoprotein, its expression in various
+tissues and acute phase expression. Biol. Chem., 380, 95–99.
+Zhang, L. & McClellan, A.D. (1999) Axonal regeneration of descending brain
+neurons in larval lamprey demonstrated by retrograde double labeling. J.
+Comp. Neurol., 410, 612–626.
+Zhang, S., Xia, Y.Y., Lim, H.C., Tang, F.R. & Feng, Z.W. (2010) NCAM-
+mediated locomotor recovery from spinal cord contusion injury involves
+neuroprotection, axon regeneration, and synaptogenesis. Neurochem. Int.,
+56, 919–929.
+Zhao, Y. & Szaro, B.G. (1994) The return of phosphorylated and nonphosph-
+orylated epitopes of neurofilament proteins to the regenerating optic nerve of
+Xenopus laevis. J. Comp. Neurol., 343, 158–172.
+Zottoli, S.J. & Freemer, M.M. (2006) Recovery of C-starts, equilibrium and
+targeted feeding after whole spinal cord crush in the adult goldfish Carassius
+auratus. J. Exp. Biol., 206, 3015–3029.
+Metamorphosis and spinal cord axon regeneration 25
+ª 2010 The Authors. European Journal of Neuroscience ª 2010 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 33, 9–25

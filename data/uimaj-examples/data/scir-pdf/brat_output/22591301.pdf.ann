@@ -1,0 +1,44 @@
+T1	Gene 1014 1017	com
+T2	Gene 1500 1504	tran
+T3	Gene 2975 2978	Sub
+T4	Gene 4169 4187	Spinal Cord Repair
+T5	Gene 5547 5552	  Fib
+T6	Gene 6878 6888	ing toxins
+T7	Gene 9506 9509	com
+T8	Gene 10144 10163	Natl Acad Sci U S A
+T9	Species 1449 1454	human
+T10	Species 1513 1516	rat
+T11	Species 9435 9440	Human
+T12	Species 9536 9539	rat
+T13	Species 10113 10118	human
+T14	Species 11859 11864	human
+T15	InteractionKeyword 932 943	interacting
+T16	InteractionKeyword 1002 1010	required
+T17	InteractionKeyword 1157 1166	perturbed
+T18	InteractionKeyword 1530 1533	led
+T19	InteractionKeyword 1565 1573	reducing
+T20	InteractionKeyword 1643 1652	promoting
+T21	InteractionKeyword 2498 2505	complex
+T22	InteractionKeyword 3240 3247	altered
+T23	InteractionKeyword 3891 3898	effects
+T24	InteractionKeyword 3979 3985	effect
+T25	InteractionKeyword 4612 4619	leading
+T26	InteractionKeyword 5620 5627	control
+T27	InteractionKeyword 6263 6269	effect
+T28	InteractionKeyword 6892 6899	prevent
+T29	InteractionKeyword 7063 7071	impaired
+T30	InteractionKeyword 7224 7235	suppressing
+T31	InteractionKeyword 7280 7290	preventing
+T32	InteractionKeyword 7810 7817	mediate
+T33	InteractionKeyword 8982 8987	forms
+T34	InteractionKeyword 9473 9480	promote
+T35	InteractionKeyword 9682 9688	follow
+T36	InteractionKeyword 9723 9731	mediated
+T37	InteractionKeyword 10064 10074	associated
+T38	InteractionKeyword 10102 10109	effects
+T39	InteractionKeyword 10246 10253	control
+T40	InteractionKeyword 10778 10788	eliminated
+T41	InteractionKeyword 11670 11677	results
+T42	InteractionKeyword 11718 11726	required
+T43	InteractionKeyword 11818 11825	produce
+T44	InteractionKeyword 11829 11835	effect

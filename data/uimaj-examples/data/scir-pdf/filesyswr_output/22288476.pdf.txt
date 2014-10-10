@@ -1,0 +1,2205 @@
+MOLECULAR AND DEVELOPMENTAL NEUROSCIENCE
+Cysteine- and glycine-rich protein 1a is involved in spinal
+cord regeneration in adult zebrafish
+Liping Ma,1 Young-Mi Yu,1 Yuji Guo,1,3 Ronald P. Hart1 and Melitta Schachner1,2
+1W. M. Keck Center for Collaborative Neuroscience and Department of Cell Biology and Neuroscience, Rutgers, The State
+University of New Jersey, 604 Allison Road, Piscataway, NJ 08854, USA
+2Center for Neuroscience, Shantou University Medical College, Shantou, China
+3Department of Histology and Embryology, School of Medicine, Shandong University, China
+Keywords: cysteine- and glycine-rich protein 1, microarray, nucleus of the medial longitudinal fascicle, spinal cord regeneration,
+zebrafish
+Abstract
+In contrast to mammals, adult zebrafish have the ability to regrow descending axons and gain locomotor recovery after spinal cord
+injury (SCI). In zebrafish, a decisive factor for successful spinal cord regeneration is the inherent ability of some neurons to regrow
+their axons via (re)expressing growth-associated genes during the regeneration period. The nucleus of the medial longitudinal
+fascicle (NMLF) is one of the nuclei capable of regenerative response after SCI. Using microarray analysis with laser capture
+microdissected NMLF, we show that cysteine- and glycine-rich protein (CRP)1a (encoded by the csrp1a gene in zebrafish), the
+function of which is largely unknown in the nervous system, was upregulated after SCI. In situ hybridization confirmed the
+upregulation of csrp1a expression in neurons during the axon growth phase after SCI, not only in the NMLF, but also in other nuclei
+capable of regeneration, such as the intermediate reticular formation and superior reticular formation. The upregulation of csrp1a
+expression in regenerating nuclei started at 3 days after SCI and continued to 21 days post-injury, the longest time point studied.
+In vivo knockdown of CRP1a expression using two different antisense morpholino oligonucleotides impaired axon regeneration and
+locomotor recovery when compared with a control morpholino, demonstrating that CRP1a upregulation is an important part of the
+innate regeneration capability in injured neurons of adult zebrafish. This study is the first to demonstrate the requirement of CRP1a
+for zebrafish spinal cord regeneration.
+Introduction
+In adult mammals, the failure of injured axons to regenerate after
+spinal cord injury (SCI) often results in permanent disabilities.
+Inhibitory molecules in the spinal cord are known to be major
+contributors to regeneration failure (David & Aguayo, 1981; Schwab
+& Bartholdi, 1996; Silver & Miller, 2004). However, removing
+inhibitory activities only induces limited axon regeneration that is
+insufficient for successful functional recovery (Zheng et al., 2003;
+Case & Tessier-Lavigne, 2005; Yiu & He, 2006; Cafferty et al.,
+2008), pointing to the importance of understanding the mechanisms
+for the intrinsic regenerative competence of neurons. Unlike mam-
+mals, adult zebrafish have the innate ability to regenerate descending
+axons after SCI, leading to locomotor recovery. In zebrafish, a crucial
+contributor to successful axon regeneration is the inherent ability of
+neurons to (re)express growth-associated genes and regrow their axons
+(Becker et al., 1997, 2004; Bernhardt, 1999; Becker & Becker, 2008).
+In vivo depletion of these growth-associated genes dramatically
+impairs axon regeneration and locomotor recovery (Becker et al.,
+2004; Yu et al., 2011a,b). The ability to upregulate growth-associated
+genes during the regeneration period makes the adult zebrafish a
+valuable model for identifying molecules involved in successful spinal
+cord regeneration.
+The nucleus of the medial longitudinal fascicle (NMLF), an
+anatomically well-defined nucleus, is one of several nuclei exhibiting
+a robust regenerative response after SCI as demonstrated by the
+upregulation of growth-associated genes and axonal regrowth (Becker
+et al., 1997, 1998, 2004; Yu et al., 2011a,b). To investigate the
+molecular mechanisms underlying this successful regeneration
+response, we performed microarray analysis with laser capture
+microdissected NMLF. The list of upregulated genes in the growth
+phase included known growth-associated genes, such as growth-
+associated protein 43 (GAP-43), as well as novel genes, the roles of
+which in axon regeneration are uncharacterized, such as cysteine- and
+glycine-rich protein (CRP)1.
+Cysteine- and glycine-rich protein 1 is a member of the Lin11, Isl-1
+and Mec-3-domain protein CRP family including CRP1 (CRP1a is
+encoded by the csrp1a gene in zebrafish), CRP2, and CRP3 ⁄muscle
+Lin11, Isl-1 and Mec-3-domain protein (Louis et al., 1997). All CRP
+family members are highly expressed in muscle (Jain et al., 1998) and
+CRP1 is regarded as a marker for smooth muscle cells (Henderson
+Correspondence: Melitta Schachner, 2Center for Neuroscience, Shantou University
+Medical College, as above. E-mail: schachner@biology.rutgers.edu
+Received 30 May 2011, revised 7 November 2011, accepted 8 November 2011
+European Journal of Neuroscience, Vol. 35, pp. 353–365, 2012 doi:10.1111/j.1460-9568.2011.07958.x
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience
+et al., 1999). CRP1 is involved in many different cellular functions,
+acting as a transcriptional cofactor (Chang et al., 2003), suppressing
+cell proliferation, protecting cells from stress-induced death (Latonen
+et al., 2008), regulating cell movement during zebrafish development
+(Miyasaka et al., 2007), and promoting neointima formation (Lilly
+et al., 2010). CRP1 localizes to the nucleus and actin cytoskeleton
+(Tran et al., 2005; Jang & Greenwood, 2009), and interacts with a-
+actinin (Pomies et al., 1997) and zyxin (Sadler et al., 1992; Schmei-
+chel & Beckerle, 1998). CRP1 is the only CRP family member that
+has detectable expression in the mammalian central nervous system
+(Jain et al., 1998). However, little is known about the functions of
+CRP1 in the central nervous system. In the present study, we report
+that csrp1a is upregulated after SCI and its expression in vivo is
+essential for successful axonal regeneration and locomotor recovery.
+Our results identify CRP1a as a key component of functional spinal
+cord regeneration in adult zebrafish.
+Materials and methods
+Spinal cord injury in adult zebrafish
+Male adult zebrafish (Danio rerio, age > 6 months) were purchased
+from Aquatica Tropicals Inc. (Plant City, FL, USA). The fish were
+kept on a 14-h light and 10-h dark cycle at 28 C.
+The SCI was performed as described previously (Becker et al.,
+1997, 2004; Guo et al., 2011; Yu et al., 2011a,b). Briefly, fish were
+immersed in 0.033% aminobenzoic acid ethylmethylester (MS222;
+Sigma, St Louis, MO, USA) for 5 min. After a longitudinal incision
+was made to expose the vertebral column, a complete transection of
+the spinal cord was performed between two vertebrae, about 1 mm
+(for microarray analysis and in situ hybridization) or 3.5 mm [for
+morpholino (MO) application] caudal to the brainstem–spinal cord
+junction, corresponding to the second and eighth vertebra, respec-
+tively. The number of animals used for each experiment can be found
+in the figure legends. The sham-lesioned control (CON) had identical
+surgical procedures except that the spinal cord was not cut. The wound
+was sealed with Histoacryl (B. Braun, Melsungen, Germany).
+All animal experiments were carried out according to a protocol
+approved by the Rutgers University Institutional Animal Use and Care
+Committee, which conformed to NIH guidelines. Fish were killed with
+overdose anesthesia.
+Laser capture microdissection, RNA isolation and amplification
+A photoablation and laser microdissection system (Carl Zeiss,
+Thornwood, NY, USA) was used as previously described (Liss et al.,
+2005). At 4 h, 12 h or 11 days after SCI, the brain was removed,
+embedded in Tissue-Tek optimal cutting temperature compound, and
+snap frozen in isopentane (cooled on dry ice). Utilizing the atlas of
+zebrafish brain (Wullimann et al., 1996), coronal cryosections
+(20 lm) of zebrafish brainstem containing NMLF (approximately 30
+sections) were cut and mounted on RNase-free, ultraviolet-light-
+treated, and poly-L-lysine-coated membrane slides (1 mm polyethyl-
+ene ⁄ naphthalate membrane, photoablation and laser microdissection).
+Sections were fixed with ethanol (three washes with 70, 95 and 100%
+ethanol, respectively) and stained with 1% cresyl violet in 100%
+ethanol, and dried. The NMLF area was cut and captured directly into
+an adhesive cap (photoablation and laser microdissection). The buffer
+RLT (RNeasy Micro kit, Qiagen, Hilden, Germany) supplemented
+with b-mercaptoethanol (10 lL ⁄mL) was added into the tube, which
+was then incubated upside-down for 30 min at 25 C. Each condition
+(control or SCI) consisted of three microarrays. The RNA sample for
+each microarray was prepared from NMLF tissues pooled from three
+animals.
+Total RNA was isolated using the RNeasy Micro kit (Qiagen)
+according to the manufacturer’s directions with the addition of linear
+acrylamide (Ambion, Austin, TX, USA) as RNA carrier to the lysate.
+The RNA was amplified using the RampUP RNA amplification kit
+(Genisphere, Hatfield, PA, USA) following the manufacturer’s
+protocol.
+Microarray analysis and quantitative real-time polymerase chain
+reaction
+Affymetrix GeneChip Zebrafish Genome Arrays (Affymetrix, Santa
+Clara, CA, USA) containing 15 617 probes for 14 900 transcripts
+were used for gene expression analysis, according to the manufac-
+turer’s instructions. Complementary DNA was reverse transcribed
+from the amplified RNA and hybridized to microarrays. Following
+hybridization, the arrays were washed and scanned following standard
+Affymetrix protocols. Data were extracted from CEL files using the
+robust multi-array average method (Irizarry et al., 2003) as imple-
+mented in GeneSpring GX (Agilent, Santa Clara, CA, USA). The
+exploratory list (Table 1 and Supporting Information Table S1) was
+generated in GeneSpring by selecting genes with a t-test P-value of
+0.05 or less and a fold change from control of 1.5 or more, both at
+11 days after injury. The table (Table 1 and Supporting Information
+Table S1) lists average fold-change expression at each time point
+(calculated by taking the antilog of the log normalization values for
+each replicate array in GeneSpring) and the SEM. Data files have been
+deposited in the NIH Gene Expression Omnibus repository with the
+study accession number GSE28470. The link for the Gene Expression
+Omnibus dataset is https://www.ncbi.nlm.nih.gov/projects/geo/query/
+acc.cgi?acc=GSE28470.
+Quantitative real-time polymerase chain reaction (qPCR) was
+performed with Power SYBR Green PCR Master Mix (Applied
+Biosystems, Foster City, CA, USA) as previously described (Goff
+et al., 2004). The comparative cycle threshold Ct method (DDCt
+method) was used for data analysis. Results were expressed relative to
+control, sham-injured fish. The same cDNA used for the microarrays
+was used to test the expression of GAP-43 and csrp1a in the NMLF
+after SCI. To study the expression of csrp1a in spinal cord caudal to
+the lesion site, total RNA was prepared from 4 mm pieces of whole
+spinal cord directly caudal to the lesion site. The primers used are as
+follows: zebrafish csrp1a (forward: 5¢-TGCTTCCTGTGCATGGTT
+TG-3¢; reverse: 5¢-GGCCACCGTGGTACTGTCA-3¢), zebrafish
+GAP-43 (forward: 5¢-TCAGGAGATCAAGCAGGATGG-3¢; reverse:
+5¢-GCCTTGTGAGCGTTTTCCTC-3¢) and zebrafish ribosomal pro-
+tein P0 (forward: 5¢-TCGGCTACCCAACTCTTGCT-3¢; reverse:
+5¢-TGTTTCGACAGTGACAGCCAG-3¢).
+In situ hybridization
+Digoxigenin-labeled RNA sense and antisense probes for zebrafish
+csrp1a (NM_205567, 125–554 bp of coding sequence) were gener-
+ated using the Megascript
+TM
+system (Ambion) according to the
+manufacturer’s protocol and in situ hybridization was performed with
+some modifications as previously described (Becker et al., 1998;
+Lieberoth et al., 2003). No significant similarity was found with other
+zebrafish genes, demonstrating its specificity for csrp1a. Briefly,
+20-lm-thick coronal sections containing the NMLF, intermediate
+reticular formation (IMRF) and superior reticular formation (SRF)
+were incubated with 0.1 N HCl for 10 min, followed by three washes
+354 L. Ma et al.
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+in phosphate-buffered saline (PBS), pH 7.4, and then digested for
+10 min with 10 lg ⁄mL proteinase-K (Roche, Indianapolis, IN, USA)
+at room temperature, followed by two washes with glycine
+(2 mg ⁄mL) in PBS, pH 7.4. Next, the sections were acetylated,
+dehydrated, air-dried, pre-hybridized, and subsequently hybridized
+with digoxigenin-labeled probe at 55 C overnight. The hybridized
+probes were detected using alkaline phosphatase-coupled anti-digoxi-
+genin antibody (Roche) and color developed with nitro-blue tetrazo-
+lium and 5-bromo-4-chloro-3-indolyl phosphate (Roche). The same
+development time was used for sections from control and SCI animals.
+In situ hybridization with the sense control probe was performed in
+parallel with the antisense probe on sections from injured animals, and
+no significant signal for the sense probe was observed. Neurons in the
+NMLF can be easily identified by their anatomical location according
+to the atlas of zebrafish brain (Wullimann et al., 1996) and their large
+size (13–23 lm diameter) (Becker et al., 1997), and are thus
+distinguishable from the small size of glial cells (Becker et al.,
+1998). For profile counting, positively stained neurons in the NMLF,
+IMRF, or SRF from each animal were counted with the experimenter
+blinded to the treatment of each fish.
+Double staining for in situ hybridization and
+immunohistochemistry
+The labeling of cells coexpressing csrp1a (in situ hybridization) and
+the neuronal marker neuronal nuclei (NeuN) (immunohistochemistry)
+was performed after signal development by in situ hybridization.
+Slides were rinsed in PBS three times (5 min per wash) and antigen
+retrieval for immunohistochemistry was performed by incubation of
+the slides with 10 mm citrate buffer (pH 6.0) at 95 C for 15 min as
+described previously (Ma et al., 2006). The slides were then allowed
+to cool to room temperature. After three washes with PBS, the slides
+were blocked with 1% bovine serum albumin and 3% goat serum in
+PBS, and incubated with mouse anti-NeuN antibody (1 : 150, A-60,
+Millipore, Billerica, MA, USA) at 4 C overnight. The slides were
+then washed three times in PBS and incubated with secondary
+antibody Alexa Fluor 555 (1 : 600, Invitrogen, Carlsbad, CA, USA).
+Application of morpholinos and biocytin
+Two different antisense MO oligonucleotides for zebrafish csrp1a
+(NM_205567) (csrp1a MO1: 5¢-GTTTCCACCCCCAAGAGGCATC
+CTG-3¢; csrp1a MO2: 5¢-CTGCTAGGTGTGTGGATATGAAGAG-3¢)
+were designed and synthesized by Gene Tools, LLC (Philomath, OR,
+USA). Both csrp1aMOs are directed to the start codon region to block
+translation. No significant similarity was found with other zebrafish
+genes, demonstrating their specificity for csrp1a. Csrp1a MO1 was
+tagged with carboxyfluorescein at the 3¢ end. The specificity of csrp1a
+MO2 has been previously demonstrated and its effects on zebrafish
+embryos can be rescued by coinjection of csrp1a mRNA (Miyasaka
+et al., 2007). Csrp1a MO2 could not be coupled with carboxyfluo-
+rescein due to its high G content, but was included to compare with
+previous studies. The sequence for the standard control MO, which
+was also tagged with carboxyfluorescein at the 3¢ end, was 5¢-
+CCTCTTACCTCAGTTACAATTTATA-3¢. The MOs were dissolved
+in Danieau solution [58 mm NaCl, 0.7 mm KCl, 0.4 mm MgSO4,
+0.6 mm Ca(NO3)2, 5 mm HEPES, pH 7.6] and applied as previously
+described (Becker et al., 2004; Guo et al., 2011; Yu et al., 2011a,b).
+Fish were treated with 600 ng MO (approximately 0.27 lL,
+absorbed into Gelfoam, Upjohn, Kalamazoo, MI, USA) at the lesion
+site immediately after transection. The MO is taken up by lesionedT
+a
+b
+l
+e
+1
+.
+L
+is
+t
+of
+se
+le
+ct
+ed
+ge
+ne
+s
+up
+re
+gu
+la
+te
+d
+in
+th
+ei
+r
+ex
+pr
+es
+si
+on
+in
+th
+e
+N
+M
+L
+F
+at
+11
+da
+ys
+af
+te
+r
+SC
+I
+Pr
+ob
+e
+se
+t
+ID
+G
+en
+e
+sy
+m
+bo
+l
+D
+es
+cr
+ip
+tio
+n
+4
+h
+12
+h
+11
+da
+ys
+C
+on
+tr
+ol
+In
+ju
+re
+d
+C
+on
+tr
+ol
+In
+ju
+re
+d
+C
+on
+tr
+ol
+In
+ju
+re
+d
+D
+r.9
+67
+.1
+.S
+1_
+at
+M
+m
+p9
+M
+at
+ri
+x
+m
+et
+al
+lo
+pr
+ot
+ei
+na
+se
+9
+1.
+00
+0
+±
+0.
+08
+4
+1.
+49
+3
+±
+0.
+56
+6
+1.
+00
+0
+±
+0.
+16
+2
+1.
+18
+6
+±
+0.
+21
+4
+1.
+00
+0
+±
+0.
+15
+7
+10
+.4
+38
+±
+2.
+92
+2
+D
+r.2
+68
+.1
+.S
+1_
+at
+ep
+d
+E
+pe
+nd
+ym
+in
+1.
+00
+0
+±
+0.
+67
+0
+0.
+76
+2
+±
+0.
+35
+0
+1.
+00
+0
+±
+0.
+16
+8
+2.
+20
+0
+±
+0.
+64
+0
+1.
+00
+0
+±
+0.
+32
+4
+8.
+40
+2
+±
+0.
+91
+9
+D
+r.2
+00
+19
+.1
+.S
+1_
+at
+T
+H
+Y
+1
+T
+hy
+-1
+ce
+ll
+su
+rf
+ac
+e
+an
+tig
+en
+1.
+00
+0
+±
+0.
+10
+6
+1.
+14
+1
+±
+0.
+06
+5
+1.
+00
+0
+±
+0.
+19
+8
+0.
+98
+0
+±
+0.
+12
+6
+1.
+00
+0
+±
+0.
+24
+3
+6.
+35
+8
+±
+2.
+13
+5
+D
+r.8
+23
+6.
+1.
+S1
+_a
+t
+w
+nt
+4b
+W
+in
+gl
+es
+s-
+ty
+pe
+m
+ou
+se
+m
+am
+m
+ar
+y
+tu
+m
+or
+vi
+ru
+s
+(M
+M
+T
+V
+)
+in
+te
+gr
+at
+io
+n
+si
+te
+fa
+m
+ily
+,
+m
+em
+be
+r
+4b
+1.
+00
+0
+±
+0.
+25
+8
+0.
+95
+1
+±
+0.
+36
+3
+1.
+00
+0
+±
+0.
+12
+1
+1.
+90
+3
+±
+0.
+83
+2
+1.
+00
+0
+±
+0.
+31
+6
+5.
+31
+1
+±
+0.
+78
+7
+D
+r.9
+61
+7.
+1.
+A
+1_
+at
+so
+cs
+3b
+Su
+pp
+re
+ss
+or
+of
+cy
+to
+ki
+ne
+si
+gn
+al
+in
+g
+3b
+1.
+00
+0
+±
+0.
+22
+9
+1.
+31
+0
+±
+0.
+07
+2
+1.
+00
+0
+±
+0.
+30
+0
+1.
+38
+5
+±
+0.
+41
+9
+1.
+00
+0
+±
+0.
+16
+2
+4.
+59
+4
+±
+0.
+51
+2
+D
+r.1
+42
+82
+.1
+.S
+1_
+at
+at
+f3
+A
+ct
+iv
+at
+in
+g
+tr
+an
+sc
+ri
+pt
+io
+n
+fa
+ct
+or
+3
+1.
+00
+0
+±
+0.
+14
+8
+1.
+76
+3
+±
+0.
+33
+5
+1.
+00
+0
+±
+0.
+16
+7
+1.
+68
+2
+±
+0.
+13
+4
+1.
+00
+0
+±
+0.
+33
+2
+3.
+90
+8
+±
+1.
+11
+5
+D
+r.4
+41
+6.
+1.
+A
+1_
+at
+T
+ub
+b5
+T
+ub
+ul
+in
+,
+be
+ta
+5
+1.
+00
+0
+±
+0.
+18
+3
+0.
+75
+6
+±
+0.
+13
+9
+1.
+00
+0
+±
+0.
+03
+3
+0.
+72
+3
+±
+0.
+12
+2
+1.
+00
+0
+±
+0.
+17
+7
+3.
+16
+2
+±
+0.
+30
+6
+D
+r.1
+03
+26
+.1
+.S
+1_
+at
+ju
+nb
+ju
+n
+B
+pr
+ot
+o-
+on
+co
+ge
+ne
+1.
+00
+0
+±
+0.
+13
+0
+1.
+54
+2
+±
+0.
+25
+2
+1.
+00
+0
+±
+0.
+13
+6
+1.
+05
+3
+±
+0.
+07
+4
+1.
+00
+0
+±
+0.
+18
+1
+2.
+83
+9
+±
+0.
+46
+0
+D
+r.8
+13
+4.
+1.
+S1
+_a
+t
+PS
+M
+E
+2
+Pr
+ot
+ea
+so
+m
+e
+ac
+tiv
+at
+or
+su
+bu
+ni
+t
+2
+1.
+00
+0
+±
+0.
+13
+4
+1.
+40
+4
+±
+0.
+09
+2
+1.
+00
+0
+±
+0.
+04
+3
+1.
+12
+1
+±
+0.
+10
+4
+1.
+00
+0
+±
+0.
+08
+4
+2.
+75
+3
+±
+0.
+32
+1
+D
+r.2
+64
+4.
+1.
+A
+1_
+at
+dh
+rs
+3a
+D
+eh
+yd
+ro
+ge
+na
+se
+⁄r
+ed
+uc
+ta
+se
+(s
+ho
+rt
+-c
+ha
+in
+de
+hy
+dr
+og
+en
+as
+e
+⁄r
+ed
+uc
+ta
+se
+(S
+D
+R
+)
+fa
+m
+ily
+)
+m
+em
+be
+r
+3a
+1.
+00
+0
+±
+0.
+13
+7
+1.
+64
+2
+±
+0.
+42
+2
+1.
+00
+0
+±
+0.
+15
+4
+1.
+60
+2
+±
+0.
+33
+5
+1.
+00
+0
+±
+0.
+22
+8
+2.
+72
+8
+±
+0.
+51
+7
+D
+r.9
+2.
+1.
+A
+1_
+at
+ga
+p4
+3
+G
+ro
+w
+th
+-a
+ss
+oc
+ia
+te
+d
+pr
+ot
+ei
+n
+43
+1.
+00
+0
+±
+0.
+18
+8
+0.
+90
+7
+±
+0.
+12
+6
+1.
+00
+0
+±
+0.
+02
+0.
+88
+4
+±
+0.
+01
+5
+1.
+00
+0
+±
+0.
+11
+1
+2.
+30
+4
+±
+0.
+15
+6
+D
+r.1
+58
+57
+.1
+.A
+1_
+at
+cs
+rp
+1a
+C
+ys
+te
+in
+e-
+an
+d
+gl
+yc
+in
+e-
+ri
+ch
+pr
+ot
+ei
+n
+1
+1.
+00
+0
+±
+0.
+13
+7
+1.
+20
+0
+±
+0.
+26
+4
+1.
+00
+0
+±
+0.
+02
+6
+1.
+00
+8
+±
+0.
+03
+5
+1.
+00
+0
+±
+0.
+14
+8
+1.
+71
+4
+±
+0.
+15
+8
+D
+r.1
+04
+28
+.1
+.S
+1_
+at
+IR
+F7
+In
+te
+rf
+er
+on
+re
+gu
+la
+to
+ry
+fa
+ct
+or
+7
+1.
+00
+0
+±
+0.
+05
+1
+1.
+37
+5
+±
+0.
+09
+5
+1.
+00
+0
+±
+0.
+03
+8
+1.
+15
+7
+±
+0.
+12
+1
+1.
+00
+0
+±
+0.
+11
+6
+1.
+68
+9
+±
+0.
+14
+9
+D
+r.1
+60
+78
+.1
+.S
+1_
+at
+D
+C
+N
+D
+ec
+or
+in
+1.
+00
+0
+±
+0.
+04
+7
+0.
+98
+6
+±
+0.
+11
+9
+1.
+00
+0
+±
+0.
+18
+3
+0.
+89
+3
+±
+0.
+13
+0
+1.
+00
+0
+±
+0.
+05
+9
+1.
+63
+4
+±
+0.
+10
+8
+D
+r.1
+25
+90
+.1
+.S
+1_
+at
+ja
+g1
+a
+Ja
+gg
+ed
+1a
+1.
+00
+0
+±
+0.
+13
+8
+0.
+88
+3
+±
+0.
+03
+2
+1.
+00
+0
+±
+0.
+01
+5
+0.
+97
+2
+±
+0.
+06
+1
+1.
+00
+0
+±
+0.
+06
+1
+1.
+53
+6
+±
+0.
+12
+7
+D
+r.8
+14
+5.
+1.
+S1
+_a
+t
+ig
+f2
+a
+In
+su
+lin
+-l
+ik
+e
+gr
+ow
+th
+fa
+ct
+or
+2a
+1.
+00
+0
+±
+0.
+07
+4
+0.
+99
+3
+±
+0.
+04
+0
+1.
+00
+0
+±
+0.
+07
+9
+1.
+23
+2
+±
+0.
+03
+3
+1.
+00
+0
+±
+0.
+03
+5
+1.
+50
+8
+±
+0.
+09
+5
+CRP1a is involved in spinal cord regeneration 355
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+axons and retrogradely transported to the cells of origin in the brain,
+where protein synthesis for the target gene is blocked. The MO-treated
+fish were allowed to survive for 6 weeks. The dosing of the MOs
+(600 ng ⁄ fish) was chosen based our previous publication showing that
+400 ng L1.1 MO is effective for knocking down protein expression
+and locomotor recovery in the identical zebrafish injury model (Becker
+et al., 2004). Also, the effectiveness of this dosing has been confirmed
+by several publications from our group (Guo et al., 2011; Yu et al.,
+2011a,b).
+At 6 weeks after the MO application, the neuronal tracer biocytin
+(Sigma)-saturated solution (approximately 0.27 lL, absorbed in
+Gelfoam) was applied to a secondary lesion site, which was 7 mm
+caudal to the brainstem–spinal cord junction, i.e. 3.5 mm caudal to the
+first spinal lesion site for MO application. Twenty-four hours later, the
+brains were dissected, embedded in optimal cutting temperature
+compound, and transversely frozen-sectioned. The biocytin was
+detected with the Vectastain ABC-DAB kit (Vector Laboratories,
+Burlingame, CA, USA) as previously described (Becker et al., 1997;
+Yu et al., 2011a). For profile counting, all positively stained neurons
+in the NMLF, IMRF, and SRF of each animal were counted with the
+experimenter blinded to the treatment of each fish.
+Locomotor analysis
+At 6 weeks after SCI and MO application (before the application of
+biocytin), the total distance moved by the MO-treated fish was
+measured to examine locomotor recovery. Tracking of freely moving
+fish was performed as previously described (Becker et al., 2004; Guo
+et al., 2011; Yu et al., 2011a,b). Each fish was placed in a glass tank
+(50 · 30 cm) and allowed to move freely for 5 min while a video
+recording was captured using a camera mounted above the tank. Swim
+paths were tracked and calculated with the ANY-maze video tracking
+system (Stoelting Co., Wood Dale, IL, USA).
+Western blot analysis
+At 11 days after SCI and MO application as described above, a 2 mm
+section of spinal cord tissue, centered on the transection site, was
+dissected and lysed in radioimmunoprecipitation assay buffer (Sigma)
+supplemented with protease inhibitors (Roche). After homogenization,
+the lysate was pelleted and the protein concentration was determined
+with the bicinchoninic acid protein assay kit (Promega, Madison, WI,
+USA). Proteins were resolved on a 4–12% NuPAGE Bis-Tris gel
+(Invitrogen) and transferred to a polyvinylidene difluoride membrane.
+The blot was probed by a polyclonal CRP1 antibody produced in
+rabbit against the C-terminal of rat CRP1 (PKGFGFGQGA-
+GALVHSE) at 1.12 lg ⁄mL. The antibody was a kind gift from Dr
+Greenwood (Oregon University, USA). a-Tubulin (1 : 1000, T9026,
+Sigma) served as a loading control on the same membrane after
+stripping. Horseradish peroxidase-conjugated goat anti-rabbit (Invi-
+trogen, 1 : 5000) or horseradish peroxidase-conjugated goat anti-
+mouse (Millipore, 1 : 5000) were used as secondary antibodies. The
+enhanced chemiluminescence detection system (Pierce, Rockford, IL,
+USA) was used for signal detection. Quantitative analysis was
+performed using Kodak molecular imaging software version 4.0
+(Carestream Molecular Imaging, New Haven, CT, USA).
+Statistical analysis
+Images were captured using a digital charge-coupled device camera
+attached to a microscope driven by AxioVision software (Zeiss). A
+two-tailed Student’s t-test was used for results of microarray and
+qPCR of GAP-43 and csrp1a in both NMLF and spinal cord, results of
+csrp1a-positive neuronal profiles in different regenerative nuclei at
+11 days after SCI, and results of fluorescein-positive cell profiles of
+control MO and csrp1a MO1 at 6 weeks after MO application. One-
+way anova followed by a Tukey’s post hoc test when appropriate was
+used for results of densitometric analysis of CRP1a expression after
+MO application, results of locomotor recovery of fish after MO
+application, and results of neuronal profiles retrogradely labeled after
+MO application in different regenerative nuclei. Two-way anova
+followed by a Tukey’s post hoc test when appropriate was used for
+results of csrp1a-positive neuronal profiles in different regenerative
+nuclei at different time points. The level of significance was set at
+P < 0.05 for all analyses. Data are shown as mean values ± SEM.
+Statistical analyses were performed using r 2.12.2 (a free statistical
+software from http://www.r-project.org).
+Results
+Gene expression profiling of regenerating neurons in the
+nucleus of the medial longitudinal fascicle
+In adult zebrafish, there are 20 distinct brain nuclei projecting to the
+spinal cord. Neurons in most brain nuclei grow axons beyond the
+transection site at 3.5 mm caudal to the brainstem–spinal cord
+transition zone (Becker et al., 1997). It has been reported that
+different nuclei with the capacity to regenerate their axons have similar
+expression patterns for growth-associated genes, suggesting a shared
+molecular mechanism (Becker et al., 1998). The NMLF neurons
+mount a robust regeneration response after SCI (Becker et al., 1997,
+1998, 2004; Yu et al., 2011a,b). In addition, the NMLF is anatom-
+ically well defined, making it an excellent candidate to perform a
+screening assay such as microarray analysis. Spinal cord transection
+was performed at 1 mm caudal to the brainstem–spinal cord junction
+(Fig. 1). As the distance between the spinal cord and brainstem–spinal
+cord junction increases, the number of neurons in the brain projecting
+to the spinal cord decreases (Becker et al., 1997). Thus, transection at
+the relatively rostral 1 mm level affects most neurons of the NMLF.
+Brain samples were collected at different time points to distinguish
+early (4 and 12 h) regulation in response to axotomy from regulation
+associated with the growth phase of descending axons (11 days). This
+time is when neurons increase the expression of growth-associated
+genes and exhibit active axon growth after SCI (Becker et al., 1998,
+2004). To concentrate the effect of injury response in relatively few
+cells within the region, laser capture microdissection was used to
+harvest NMLF from brain sections of sham-lesioned control or spinal
+cord-lesioned animals (Fig. 1). Because of the limited number of
+neurons in the NMLF and the small quantity of RNA recovered from
+captured NMLF, RNA amplification was performed and the resulting
+cDNA was used for microarray analysis (Fig. 1). Each condition
+(control or SCI) consisted of three microarrays, with the total RNA
+sample for each microarray prepared from laser-dissected NMLF
+tissues pooled from three animals.
+The Zebrafish GeneChip microarray from Affymetrix was used for
+microarray analysis. As changes in gene expression at 11 days after
+SCI associate with the growth phase of descending axons, we initially
+tested for mRNA regulation due to axotomy injury at 11 days. When
+using a two-way anova, no genes were found to be significantly
+affected by injury, probably due to the small fold changes and the
+limited number of arrays. However, to extract an exploratory list of
+potentially regulated genes, we selected 143 genes based solely on
+Student’s t-test at P £ 0.05 and a minimum 1.5-fold change
+356 L. Ma et al.
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+(Supporting Information Table S1). The gene symbols and descrip-
+tions were obtained with DAVID (http://david.abcc.ncifcrf.gov/)
+(Huang da et al., 2009a,b). The fold changes for gene expression in
+our microarray data were not as high as in, for instance, another study
+that used zebrafish retinal ganglion cells for microarray analysis
+(Veldman et al., 2007), the reason for this probably being the small
+number of NMLF neurons (about 60) in each brain, and the presence
+of non-neuronal cells in the laser-dissected NMLF nucleus and ⁄ or
+other neurons that are not capable of regenerating after SCI, like cells
+in the nucleus ruber (Becker et al., 1997). Table 1 lists a subset of
+upregulated genes from the exploratory list, selected based on
+published results linking their function to SCI or based on association
+with mechanisms thought to be prominent in SCI. As shown in
+Table 1, few of the genes upregulated at 11 days post-injury had
+changes in expression level in the early phase after axotomy,
+consistent with a specific role for those genes during the axon
+regeneration phase. This list contains several genes the roles of which
+have been reported in axon regeneration (outgrowth), including matrix
+metalloproteinase 9 (Vaillant et al., 2003), GAP-43 (Skene, 1989; Leu
+et al., 2010), activating transcription factor 3 (Seijffers et al., 2006)
+and decorin (Davies et al., 2004; Minor et al., 2008). We used
+antisense MOs to study the functional roles of several of these genes
+proposed to be important for spinal cord regeneration, including
+csrp1a. As only csrp1a MO reduced the recovery of locomotor
+function, we chose to focus on this molecule.
+Expression of csrp1a mRNA is upregulated in the nucleus of the
+medial longitudinal fascicle after spinal cord injury
+If CRP1a is a growth-associated protein it should be regulated in
+parallel with other genes known to participate in regenerative
+mechanisms. GAP-43 is a well-known marker of axonal growth
+(Skene, 1989) and its expression is upregulated in different
+regenerating models (Bormann et al., 1998; Costigan et al., 2002;
+Veldman et al., 2007). Expression of GAP-43 mRNA is also
+upregulated in neurons of the NMLF and other nuclei capable of
+regeneration after SCI in adult zebrafish (Becker et al., 1998). Here,
+GAP-43 is used as a positive control for genes that are upregulated
+after SCI. The microarray data showed that the normalized fold
+induction for GAP-43 mRNA at 11 days after SCI was 2.3
+(2.304 ± 0.156, n = 3 experiments, two-tailed t-test, P = 0.003)
+compared with the sham-lesioned control (CON), whereas the fold
+induction for csrp1a mRNA was 1.71 (1.714 ± 0.158, n = 3
+experiments, two-tailed t-test, P = 0.03) (Fig. 2A). The upregulation
+of GAP-43 and csrp1a expression in the microarray data was
+verified by qPCR, which showed that the fold induction values for
+GAP-43 and csrp1a expression were 3.45 (3.45 ± 0.7, n = 3
+experiments, two-tailed t-test, P = 0.03) and 1.44 (1.44 ± 0.1,
+n = 3 experiments, two-tailed t-test, P = 0.01), respectively
+(Fig. 2B). The discrepancy in the fold inductions between micro-
+array and qPCR could be due to the difference in the amplification
+methods and detection techniques used in those assays; however, the
+reproduction of the upregulation by qPCR agrees with the predicted
+change observed on microarrays. Csrp1a expression is increased in
+NMLF after spinal axotomy, at a time when regenerative growth is
+observed.
+In addition to neurons regenerating axons after SCI in the brain, the
+spinal cord region caudal to the lesion site, into which the regenerating
+axons must regrow, also contributes to the regenerative capacity
+(Becker et al., 1998, 2004; Guo et al., 2011). For example, expression
+of adhesion molecule L1.1 is upregulated in the caudal spinal cord
+after SCI and probably promotes spinal cord regeneration by acting
+not only in regrowing axons, but also in the caudal part of the injured
+spinal cord affecting, for instance, neuronal survival, axonal growth of
+interneurons and ⁄ or synaptic plasticity (Becker et al., 2004). The
+expression of csrp1a mRNA in the spinal cord region caudal to the
+lesion site was therefore examined using qPCR to determine if it also
+functions in the regenerative milieu. Unlike the response found in the
+NMLF, the expression of csrp1a caudal to the lesion site was slightly
+decreased at 11 days after SCI (0.79 ± 0.02, n = 3 experiments, two-
+Fig. 1. Diagram of the work flow for microarray analysis. SCI was performed
+with a complete transection at 1 mm caudal to the brainstem–spinal cord
+junction. Brains were removed at different time points after SCI and sections
+were collected. After staining with cresyl violet, laser capture microdissection
+was used to isolate the NMLF. Total RNA was extracted from the pooled
+NMLF tissue and was amplified. cDNA from amplified RNA was used for
+microarray analysis. Scale bar, 1 mm.
+CRP1a is involved in spinal cord regeneration 357
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+tailed t-test, P = 0.001) (Fig. 2C). The downregulation of csrp1a
+expression after injury in the caudal part of the spinal cord could be
+related to the possibility that reduced levels in the regeneration-
+conducive tissue are associated with regrowth of axons. As csrp1a
+expression is upregulated in the NMLF, we conclude that this
+upregulation is mainly associated with the intrinsic regenerative
+response of neurons.
+Csrp1a mRNA is upregulated in neurons of regenerative nuclei
+in the axon regeneration phase after spinal cord injury
+The upregulation of csrp1a mRNA in individual NMLF neurons after
+SCI was determined by in situ hybridization. With the sense probe, no
+significant signal was observed when sections from injured animals
+were used in parallel with the antisense probe, i.e. under the same
+conditions. The NMLF neurons can be easily identified by their
+typical location and large size (13–23 lm in diameter) (Fig. 3A)
+(Wullimann et al., 1996; Becker et al., 1998, 2004), distinguishing
+them from glial cells, which are characterized by their small size
+(Becker et al., 1998). Signal for csrp1a mRNA was observed in
+neurons in the NMLF (Figs 3 and 4). The expression of csrp1a in
+neurons was further confirmed by showing double labeling of csrp1a
+(in situ hybridization) and the neuronal marker NeuN (immunohisto-
+chemistry) in cells of the NMLF and the IMRF (Fig. 4). The number
+of csrp1a-positive neuronal profiles was strongly increased in the
+NMLF at 11 days after SCI (62.7 ± 5.7, n = 6 fish, two-tailed t-test,
+P = 0.001) (Fig. 3B) when compared with sham-lesioned control
+(12.7 ± 1, n = 6 fish). The expression of csrp1a mRNA was also
+studied in neurons from other nuclei capable of regeneration after SCI,
+such as the IMRF and SRF (Becker et al., 1997). At 11 days post-
+injury, the numbers of csrp1a-positive cell profiles were increased in
+both the IMRF (119.3 ± 6.1, n = 3 fish, two-tailed t-test, P = 0.001,
+Fig. 3) and SRF (59.3 ± 4.5, n = 3 fish, two-tailed t-test, P = 0.001,
+Fig. 3) compared with sham-lesioned control (IMRF, 22.7 ± 4.3,
+n = 3 fish; SRF, 16 ± 1.5, n = 3 fish). In addition to the neurons of the
+regenerating nuclei studied, the expression of csrp1a was also
+examined in neurons of other nuclei with no or limited capacity for
+regeneration after SCI, such as Mauthner cells (Becker et al., 1997).
+Interestingly, no significant upregulation of csrp1a expression was
+observed in Mauthner cells at 11 days after SCI (Fig. 4), similar to the
+observations on the adhesion molecule L1.1 (Becker et al., 1998),
+suggesting that upregulation of csrp1a expression is specifically
+associated with regeneration. The upregulation of csrp1a mRNA in
+different regenerative nuclei after SCI is consistent with the prediction
+that similar molecular mechanisms are shared by different nuclei for
+regeneration (Becker et al., 1998).
+Next, a study was performed to investigate the regulation of
+csrp1a mRNA expression over time following SCI. As shown in
+Table 1, the expression of csrp1a did not change from sham injury
+at 4 and 12 h after axotomy, indicating that it is probably not
+involved in the early response after SCI. The expression of csrp1a at
+an additional two time points, 3 and 21 days after SCI, was studied
+using in situ hybridization. The number of csrp1a-positive neuronal
+profiles in the NMLF was slightly increased at 3 days after SCI. The
+expression of csrp1a was highly upregulated at 11 days (Figs 3 and
+5). This upregulation continued to 21 days post-injury (Fig. 5A, SCI,
+44 ± 3.7, n = 3 fish, two-way anova followed by Tukey’s post hoc
+test, P = 0.002; CON, 12.3 ± 1.8, n = 3 fish), the longest time point
+studied, albeit to a lesser extent than that of 11 days post-injury.
+Other nuclei capable of regeneration showed similar regulation
+pattern of csrp1a expression after SCI (IMRF, Fig. 5B; SRF,
+Fig. 5C). The upregulation of csrp1a mRNA in the growth phase of
+descending axons suggests that it may be a critical component of the
+neuron intrinsic regeneration response.
+CRP1a is essential for spinal cord regeneration in zebrafish
+Antisense MO oligonucleotides have been used effectively to
+investigate the role of specific genes in zebrafish spinal cord
+regeneration (Becker et al., 2004; Guo et al., 2011; Yu et al.,
+2011a,b). Like conventional neuronal tracers, MO can be absorbed
+by the injured axons at the lesion site and retrogradely transported into
+neuronal somata where the protein translation of the target gene is
+blocked. In the zebrafish SCI model, this can be accomplished by
+placing MO-soaked Gelfoam into the spinal cord transection site. The
+inhibitory effect of MO can last for at least 6 weeks (the longest time
+point tested) (Becker et al., 2004). Gelfoam alone or with the standard
+control MO did not show any effect on neuronal viability or spinal
+cord regeneration (Becker et al., 2004).
+The role of a gene in zebrafish spinal cord regeneration has been
+evaluated by two definitive parameters: locomotor recovery and
+A
+B
+C
+Fig. 2. Csrp1amRNA expression is upregulated in the NMLF at 11 days after
+SCI. (A) Graph of normalized fold changes for GAP-43 and csrp1a from
+microarray analysis. (B) qPCR shows that both GAP-43 and csrp1a are
+upregulated in the NMLF at 11 days after SCI. (C) qPCR shows that csrp1a
+levels are slightly downregulated in the caudal part of the spinal cord at 11 days
+after SCI. n = 3 experiments. *P < 0.05, two-tailed t-test; mean values ± SEM
+are shown.
+358 L. Ma et al.
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+axonal regrowth (Becker et al., 2004; Yu et al., 2011a,b). The total
+distance moved by fish in 5 min is used to measure locomotor activity.
+The locomotor activity is reduced to approximately 5% of that in
+unlesioned fish at 1 week after SCI and generally recovers to 60% at
+6 weeks. No additional improvement is observed after this point
+(Becker et al., 2004). The identification of neurons that have
+regenerated their axons beyond the lesion site is performed by
+applying the retrograde tracer biocytin at 3.5 mm caudal to the
+transection site at 6 weeks after the lesion. The degree of locomotor
+recovery and the number of retrogradely labeled neurons reflect the
+extent of spinal cord regeneration and these two parameters are usually
+correlated (Becker et al., 2004).
+The role of CRP1a in spinal cord regeneration was investigated
+using two different MOs specific for csrp1a. The effectiveness of the
+two csrp1a MOs used was examined by western blot analysis. The
+CRP1 antibody used here detected only one band of the correct size
+for CRP1a, demonstrating its specificity (Fig. 6A). Signal for CRP1a
+was detected with samples from both brain and spinal cord, confirming
+the expression of csrp1a as shown by in situ hybridization. To test the
+effectiveness of csrp1a MOs, a 2 mm section of spinal cord tissue,
+centered on the transection site, was collected at 11 days after MO
+application and examined by western blot analysis. Both csrp1a MO1
+and csrp1a MO2 exhibited effective knockdown of CRP1a expression
+compared with the control MO, with a knockdown of 30% (n = 3
+experiments, one-way anova followed by Tukey’s post hoc test,
+P = 0.01) and 40% (n = 3 experiments, one-way anova followed by
+Tukey’s post hoc test, P = 0.01), respectively (Fig. 6B and C). Thus,
+both csrp1a MOs worked effectively in our system.
+At 6 weeks after SCI, fish treated with csrp1a MO1 showed a
+decrease in the total distance moved (278 ± 104 cm ⁄ 5 min, n = 12
+fish, one-way anova followed by Tukey’s post hoc test, P = 0.003,
+Fig. 6D) compared with fish treated with control MO (1108 ±
+365 cm ⁄ 5 min, n = 9 fish). Csrp1a MO2 treatment exhibited a
+similar effect (261 ± 97 cm ⁄ 5 min, n = 5 fish, one-way anova
+A
+B
+Fig. 3. Csrp1a mRNA expression is upregulated in the NMLF, IMRF and SRF at 11 days after SCI. (A) In situ hybridization was performed to study the
+expression of csrp1a in regenerative nuclei. Representative images depict csrp1a-positive neurons in the NMLF, IMRF and SRF at 11 days after SCI. Schematic
+drawings of the NMLF, IMRF and SRF are shown. Positive signal for csrp1a mRNA is observed in neurons, i.e. cells with a diameter of more than 13 lm. More
+positive neurons for csrp1a were observed in all three nuclei after SCI when compared with sham-lesioned control. With sense probe, no significant signal was
+observed. Arrows in the schematic drawings indicate the corresponding nucleus. Arrows in images indicate the brain midline. (B) Quantification shows that csrp1a is
+upregulated in the NMLF, IMRF and SRF at 11 days after SCI. NMLF, n = 6 fish; IMRF, n = 3 fish; SRF, n = 3 fish. *P < 0.05, two-tailed t-test; mean
+values ± SEM are shown. Scale bar, 50 lm.
+CRP1a is involved in spinal cord regeneration 359
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+followed by Tukey’s post hoc test, P = 0.008, Fig. 6D). Csrp1a MO2
+has been used to knockdown CRP1a expression and its specificity has
+been confirmed with a csrp1a mRNA rescue experiment (Miyasaka
+et al., 2007). These data indicate that csrp1aMOs impaired locomotor
+recovery. After locomotor analysis, the same fish were used to
+retrogradely label neurons that had regrown their axons 3.5 mm
+beyond the lesion site. The number of neuronal profiles retrogradely
+labeled in the NMLF was reduced in animals treated with csrp1aMO1
+(11 ± 2.3, n = 12 fish, one-way anova followed by Tukey’s post hoc
+test, P = 0.001) or csrp1a MO2 (13.2 ± 4.3, n = 5 fish, one-way
+anova followed by Tukey’s post hoc test, P = 0.01) compared with
+fish treated with control MO (27.7 ± 2.9, n = 10 fish) (Fig. 7A and
+Fig. 4. Csrp1a mRNA expression is upregulated in NeuN-positive neurons in regenerative nuclei after SCI. Double staining of csrp1a mRNA (in situ
+hybridization) and NeuN (immunohistochemistry) was performed to determine the identity of csrp1a-positive cells. The signal for NeuN locates in the nucleus and
+csrp1a locates in the cytoplasm. Cells positive for csrp1a mRNA are also labeled by NeuN, demonstrating that csrp1a is expressed by neurons. More double-
+labeling cells are observed at 11 days after SCI in regenerative nuclei, such as the NMLF (upper two rows) and IMRF (middle two rows), when compared with
+control, whereas no significant upregulation of csrp1a expression is found after SCI in Mauthner cells (lower two rows), which are not capable of regenerating after
+SCI. n = 3 experiments. Scale bar, 50 lm.
+360 L. Ma et al.
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+B). Csrp1a MOs treatments also reduced the number of neuronal
+profiles retrogradely labeled in the IMRF (Fig. 7A and B, csrp1a
+MO1, 15.3 ± 3.4, n = 4 fish, one-way anova followed by Tukey’s
+post hoc test, P = 0.02; csrp1a MO2, 13.8 ± 2.8, n = 5 fish, one-way
+anova followed by Tukey’s post hoc test, P = 0.01; CON MO,
+36 ± 6.8, n = 3 fish) and SRF (Fig. 7A and B, csrp1a MO1,
+6.8 ± 1.8, n = 4 fish, one-way anova followed by Tukey’s post
+hoc test, P = 0.02; csrp1a MO2, 9.4 ± 2.7, n = 5 fish, one-way
+anova followed by Tukey’s post hoc test, P = 0.03; CON MO,
+25 ± 6.6, n = 3 fish). These data suggest that knockdown of CRP1a
+inhibits locomotor recovery and axonal regrowth after SCI.
+We then asked whether the reduced number of neuronal profiles
+retrogradely labeled is due to reduced cell viability after MO
+application. In this study, both the standard MO and csrp1a MO1
+were tagged with fluorescein, which does not affect cell viability and
+spinal cord regeneration (Becker et al., 2004). No effect on cell
+viability by csrp1a MO2 has been reported (Miyasaka et al., 2007).
+Because of the inappropriateness of csrp1a MO2 being coupled with
+the fluorescein tag due to its high G content, it is not included in this
+experiment. In agreement with previous findings (Becker et al., 2004),
+A
+B
+C
+Fig. 5. Csrp1a mRNA expression is upregulated in the axon regeneration
+phase after SCI. In situ hybridization was performed to investigate the
+regulation pattern of csrp1a mRNA expression after SCI. Three different time
+points were included: 3, 11 and 21 days after SCI. Quantification shows that
+csrp1a mRNA is slightly upregulated at 3 days. The expression of csrp1a
+mRNA is highly induced at 11 days post-injury and this upregulation continues
+to 21 days, the longest time point tested. Similar regulation patterns of csrp1a
+expression are observed in the NMLF (A), IMRF (B) and SRF (C). n = 3 fish
+for each time point. *P < 0.05, two-way anova with Tukey’s post hoc test;
+mean values ± SEM are shown.
+A
+C
+D
+B
+Fig. 6. Application of csrp1a MOs inhibits locomotor recovery after SCI. (A)
+The CRP1a antibody used for western blot analysis only detects one band of the
+correct size for CRP1a, demonstrating the specificity of the antibody. Signal for
+CRP1a was detected with both samples from zebrafish spinal cord (SC) and
+brain. (B and C) Csrp1aMO1 and csrp1aMO2 knockdown CRP1a expression.
+A 2 mm section of SC tissue, centered on the transection site, was collected at
+11 days after SCI and MO application. a-tubulin serves as a loading control.
+Csrp1a MO1 and csrp1a MO2 exhibited 30 and 40% knockdown effect of
+CRP1a expression compared with control MO, respectively, as demonstrated
+by western blot analysis (B) and densitometric analysis (C). (D) Total distance
+moved by animals treated with CON MO, csrp1a MO1, or csrp1a MO2 was
+measured during 5 min trial periods by video recording at 6 weeks after MO
+application. csrp1a MO1 (n = 12 fish) or csrp1a MO2 (n = 5 fish) treatments
+reduce the total distance moved when compared with CON MO treatment
+(n = 9 fish). (A-C) n = 3 experiments. *P < 0.05, one-way anova with
+Tukey’s post hoc test; mean values ± SEM are shown.
+CRP1a is involved in spinal cord regeneration 361
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+the fluorescein tag signal on the MOs was still detectable in the NMLF
+neurons at 6 weeks after application. As standard control MO does not
+show an effect on cell viability (Becker et al., 2004), we compared the
+number of fluorescein-positive cell profiles from csrp1a MO1-treated
+fish with that from control MO-treated fish. No difference was found
+in the numbers of fluorescein-positive cell profiles in the NMLF
+between control and experimental animals (control MO, 25 ± 3.8,
+n = 3 fish; csrp1a MO1, 24 ± 4.8, n = 4 fish, two-tailed t-test,
+P = 0.85) (Fig. 8), indicating that neurons survived the csrp1a MO1
+and control MO applications equally well. Similar results were
+observed in the IMRF and SRF (data not shown). In all, the combined
+observations showed reduced locomotor recovery and reduced
+numbers of retrogradely labeled NMLF neurons in animals treated
+with csrp1a MO, indicating that CRP1a is required for successful
+spinal cord regeneration in zebrafish.
+Discussion
+Unlike mammals, adult zebrafish have the innate ability to (re)express
+growth-associated genes and regenerate descending axons after SCI
+leading to locomotor recovery (Becker et al., 1997, 1998, 2004;
+Bernhardt, 1999). However, the molecular mechanisms for successful
+spinal cord regeneration have not been fully explored. In the current
+study, microarray analysis was used to obtain an exploratory list of
+A
+B
+Fig. 7. Csrp1a MOs inhibit axon regeneration after SCI. (A) Representative images of retrogradely labeled neurons in the NMLF, IMRF and SRF. The number of
+retrogradely labeled neuronal profiles in the NMLF, IMRF and SRF (biocytin label) is measured at 6 weeks after SCI and MO application. Biocytin was applied at
+3.5 mm caudal to the lesion site and was detected 24 h later. Csrp1aMO1 and csrp1aMO2 treatments reduce the number of biocytin-labeled neuronal profiles in all
+nuclei studied when compared with the CON MO. Arrows in images indicate the brain midline. (B) Quantification shows a reduction in numbers of biocytin-labeled
+neuronal profiles in fish that received csrp1a MO1 or csrp1a MO2 compared with fish that received CON MO. *P < 0.05, one-way anova with Tukey’s post hoc
+test; mean values ± SEM are shown. Scale bar, 50 lm.
+362 L. Ma et al.
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+potential growth-associated genes from regenerating NMLF. Among
+the potentially upregulated genes during the axon regeneration phase,
+several have been reported to be induced during the regeneration period
+after nerve injury (Veldman et al., 2007; McCurley & Callard, 2010;
+Saul et al., 2010; Siebert et al., 2010), such as matrix metalloprotein-
+ase 9, GAP-43, activating transcription factor 3, tubulin beta 5 and
+suppressor of cytokine signaling 3b, supporting the validity of this
+analysis. Furthermore, some of the identified genes appear to be
+specifically regulated in adult vertebrates competent for spinal cord
+regeneration. Decorin is a small, leucine-rich proteoglycan that has
+previously been shown to promote axon growth across adult rat SCIs
+(Davies et al., 2004). Decorin also promotes robust axon growth on
+chondroitin sulfate proteoglycans and myelin (Minor et al., 2008), two
+major inhibitory factors for axon regeneration within the adult
+mammalian central nervous system (Morgenstern et al., 2002; Yiu &
+He, 2006). Our microarray shows that decorin is probably upregulated
+during the axonal regeneration period after SCI in adult zebrafish
+(11 days). However, to the best of our knowledge, the upregulation of
+decorin has not been reported in other microarray analysis after nerve
+injury in adult mammals (Veldman et al., 2007; McCurley & Callard,
+2010; Saul et al., 2010; Siebert et al., 2010; Gibbs et al., 2011),
+indicating it as one of the specific genes involved in spinal cord
+regeneration. However, L1.1, a well-known adhesion molecule for
+axon regeneration, was not found on our list. Although our microarray
+analysis showed a 1.82-fold change for L1.1 at 11 days after SCI, the
+result was not significant when compared with the control group (with
+0.42 for the P value), probably due to a combination of measurement
+variability, low signal, and the limited number of replicates. Variability
+could be due to the limited number of regenerative neurons in the tissue
+sample, the presence of other non-regenerative cells and the possible
+technical variation added by the two-step RNA amplification proce-
+dures involved in RNA preparation for microarray. Due to these
+limitations, our list may not include all of the upregulated mRNAs after
+SCI.
+Quantitative PCR confirms predictions from the microarray,
+showing that both GAP-43 and csrp1a are upregulated in the
+regenerating NMLF during the growth phase after SCI. Similarly,
+upregulation of CRP1 has also been reported in heart regeneration
+(Lien et al., 2006), fin regeneration (Schebesta et al., 2006) and optic
+nerve regeneration (McCurley & Callard, 2010), indicating CRP1
+expression as a common molecular mechanism for regeneration. The
+upregulation of csrp1a in neurons in several regenerative nuclei after
+axotomy was confirmed by in situ hybridization. In vivo knockdown
+of CRP1a expression with specific MOs impaired both locomotor
+recovery and axon regeneration, demonstrating that CRP1a upregu-
+lation is an essential part of the natural regeneration mechanism in
+spinal cord-injured adult zebrafish. Successful spinal cord regeneration
+requires at least two critical factors: the ability of an injured neuron to
+regrow its axon and a supportive extracellular environment for axon
+regeneration (Bulsara et al., 2002). In addition, rearrangements of the
+intraspinal connections of interneurons involving pre-synaptic and
+post-synaptic structures need to be considered (Guo et al., 2011).
+Interestingly, csrp1a levels are only upregulated in the cell bodies of
+neurons regenerating axons, but not in the caudal part of the spinal
+cord, into which the severed axons regrow. This suggests that the
+upregulation of CRP1a is only associated with the neuron-intrinsic
+regeneration response and its upregulation is not required in the
+extrinsic response that generates a permissive environment for axon
+regeneration. Thus, we propose that the effect of csrp1a MOs on
+spinal cord regeneration is mainly due to the loss of CRP1a expression
+in those neurons that regrow their severed axons.
+As a Lin11, Isl-1 and Mec-3-domain protein, CRP1 plays a role in
+many different functions, such as gene transcription, cell movements,
+and cell proliferation (Chang et al., 2003; Miyasaka et al., 2007;
+Latonen et al., 2008). The amino acid sequence of CRP1 is very
+similar among vertebrates with more than 80% identity between
+human, mouse, rat, chicken, quail and zebrafish, suggesting its
+conserved function over evolution (McLaughlin et al., 1994). It has
+been reported that CRP1 binds actin filaments directly and cross-links
+them to generate actin bundles (Tran et al., 2005; Jang & Greenwood,
+2009). Actin bundles are the major component of filopodia at the
+leading edge of growth cones. Filopodia formation is critical for
+neurite outgrowth, neuritogenesis, neurite branching and spine
+formation in neurons (Mattila & Lappalainen, 2008). Expression of
+CRP1 in filopodia of growth cones and colocalization with actin
+filaments was observed by indirect immunofluorescence in cultured rat
+hippocampal neurons (Ma et al., 2011), which is consistent with its
+reported actin-bundling ability (Tran et al., 2005; Jang & Greenwood,
+2009). Therefore, we propose that the role of CRP1a in spinal cord
+regeneration is probably due to its actin-bundling activity in filopodia
+formation. As filopodia formation affects several different aspects of
+neurite modeling, such as axon outgrowth (Kwiatkowski et al., 2007),
+neuritogenesis (Dent et al., 2007) and neurite branching (Dailey &
+Smith, 1996), one or more of the aspects mentioned above may
+contribute to the requirement of CRP1a in spinal cord regeneration in
+zebrafish.
+In addition to the interaction of CRP1 with the cytoskeleton, the
+involvement of CRP1 in other pathways has been reported. For
+example, it has been shown that CRP1 is involved in activation of the
+c-jun N-terminal kinase pathway and interacts with Diversin and
+A
+B
+Fig. 8. Csrp1a MO1 does not affect cell viability. (A) Representative images
+of neurons with fluorescein signal in the NMLF at 6 weeks after MO
+application. The standard control MO and csrp1a MO1 were tagged with
+fluorescein and this signal is still detectable at 6 weeks after MO application.
+No difference was found between the numbers of fluorescein-positive neuronal
+profiles in animals treated with CON MO or csrp1a MO1. Arrows in images
+indicate the brain midline. (B) Quantification shows no difference in the
+numbers of fluorescein-positive neuronal profiles in the NMLF in animals
+treated with CON MO (n = 3 fish) or csrp1a MO1 (n = 4 fish). Mean
+values ± SEM are shown. Scale bar, 50 lm.
+CRP1a is involved in spinal cord regeneration 363
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+Dishevelled 2 (Miyasaka et al., 2007). Moreover, it has been reported
+that CRP1 acts as a cofactor together with SRF to activate the
+transcription of target genes in smooth muscle (Chang et al., 2003).
+Further investigations are needed to elucidate whether these mecha-
+nisms of CRP1 underlie successful spinal cord regeneration in
+zebrafish.
+Supporting Information
+Additional supporting information can be found in the online version
+of this article:
+Table S1. List of potentially upregulated genes in the NMLF at 11
+days after SCI.
+Please note: As a service to our authors and readers, this journal
+provides supporting information supplied by the authors. Such
+materials are peer-reviewed and may be re organized for online
+delivery, but are not copy-edited or typeset by Wiley-Blackwell.
+Technical support issues arising from supporting information (other
+than missing files) should be addressed to the authors.
+Acknowledgements
+We are very grateful to K. M. Gibbs for his helpful comments on the
+manuscript and J. A. Greenwood for the kind gift of CRP1 antibody. We also
+thank Brian Siwek for his diligent care of the fish. This work was supported by
+a grant from the New Jersey Commission on Spinal Cord Research (05-3048-
+SCR-E-0 to M.S.). M.S. is New Jersey Professor of Spinal Cord Research and a
+consultant at the Center for Neuroscience of the Li Kashing Shantou University
+Medical College, China.
+Abbreviations
+CON, control; CRP, cysteine- and glycine-rich protein (CRP1a is encoded by
+the csrp1a gene in zebrafish); GAP-43, growth-associated protein 43; IMRF,
+intermediate reticular formation; MO, morpholino; NeuN, neuronal nuclei;
+NMLF, nucleus of the medial longitudinal fascicle; PBS, phosphate-buffered
+saline; qPCR, quantitative real-time polymerase chain reaction; SCI, spinal
+cord injury; SRF, superior reticular formation.
+References
+Becker, C.G. & Becker, T. (2008) Adult zebrafish as a model for successful
+central nervous system regeneration. Restor. Neurol. Neurosci., 26, 71–80.
+Becker, T., Wullimann, M.F., Becker, C.G., Bernhardt, R.R. & Schachner, M.
+(1997) Axonal regrowth after spinal cord transection in adult zebrafish.
+J. Comp. Neurol., 377, 577–595.
+Becker, T., Bernhardt, R.R., Reinhard, E., Wullimann, M.F., Tongiorgi, E. &
+Schachner, M. (1998) Readiness of zebrafish brain neurons to regenerate a
+spinal axon correlates with differential expression of specific cell recognition
+molecules. J. Neurosci., 18, 5789–5803.
+Becker, C.G., Lieberoth, B.C., Morellini, F., Feldner, J., Becker, T. &
+Schachner, M. (2004) L1.1 is involved in spinal cord regeneration in adult
+zebrafish. J. Neurosci., 24, 7837–7842.
+Bernhardt, R.R. (1999) Cellular and molecular bases of axonal regeneration in
+the fish central nervous system. Exp. Neurol., 157, 223–240.
+Bormann, P., Zumsteg, V.M., Roth, L.W. & Reinhard, E. (1998) Target contact
+regulates GAP-43 and alpha-tubulin mRNA levels in regenerating retinal
+ganglion cells. J. Neurosci. Res., 52, 405–419.
+Bulsara, K.R., Iskandar, B.J., Villavicencio, A.T. & Skene, J.H. (2002) A new
+millenium for spinal cord regeneration: growth-associated genes. Spine
+(Phila Pa 1976), 2002, 1946–1949.
+Cafferty, W.B., McGee, A.W. & Strittmatter, S.M. (2008) Axonal growth
+therapeutics: regeneration or sprouting or plasticity? Trends Neurosci., 31,
+215–220.
+Case, L.C. & Tessier-Lavigne, M. (2005) Regeneration of the adult central
+nervous system. Curr. Biol., 15, R749–R753.
+Chang, D.F., Belaguli, N.S., Iyer, D., Roberts, W.B., Wu, S.P., Dong, X.R.,
+Marx, J.G., Moore, M.S., Beckerle, M.C., Majesky, M.W. & Schwartz, R.J.
+(2003) Cysteine-rich LIM-only proteins CRP1 and CRP2 are potent smooth
+muscle differentiation cofactors. Dev. Cell, 4, 107–118.
+Costigan, M., Befort, K., Karchewski, L., Griffin, R.S., D’Urso, D., Allchorne,
+A., Sitarski, J., Mannion, J.W., Pratt, R.E. & Woolf, C.J. (2002) Replicate
+high-density rat genome oligonucleotide microarrays reveal hundreds of
+regulated genes in the dorsal root ganglion after peripheral nerve injury.
+BMC Neurosci., 3, 16.
+Dailey, M.E. & Smith, S.J. (1996) The dynamics of dendritic structure in
+developing hippocampal slices. J. Neurosci., 16, 2983–2994.
+David, S. & Aguayo, A.J. (1981) Axonal elongation into peripheral nervous
+system ‘‘bridges’’ after central nervous system injury in adult rats. Science,
+214, 931–933.
+Davies, J.E., Tang, X., Denning, J.W., Archibald, S.J. & Davies, S.J. (2004)
+Decorin suppresses neurocan, brevican, phosphacan and NG2 expression
+and promotes axon growth across adult rat spinal cord injuries. Eur. J.
+Neurosci., 19, 1226–1242.
+Dent, E.W., Kwiatkowski, A.V., Mebane, L.M., Philippar, U., Barzik, M.,
+Rubinson, D.A., Gupton, S., Van Veen, J.E., Furman, C., Zhang, J., Alberts,
+A.S., Mori, S. & Gertler, F.B. (2007) Filopodia are required for cortical
+neurite initiation. Nat. Cell Biol., 9, 1347–1359.
+Gibbs, K.M., Chittur, S.V. & Szaro, B.G. (2011) Metamorphosis and the
+regenerative capacity of spinal cord axons in Xenopus laevis. Eur. J.
+Neurosci., 33, 9–25.
+Goff, L.A., Bowers, J., Schwalm, J., Howerton, K., Getts, R.C. & Hart, R.P.
+(2004) Evaluation of sense-strand mRNA amplification by comparative
+quantitative PCR. BMC Genomics, 5, 76–84.
+Guo, Y., Ma, L., Cristofanilli, M., Hart, R.P., Hao, A. & Schachner, M. (2011)
+Transcription factor Sox11b is involved in spinal cord regeneration in adult
+zebrafish. Neuroscience, 172, 329–341.
+Henderson, J.R., Macalma, T., Brown, D., Richardson, J.A., Olson, E.N. &
+Beckerle, M.C. (1999) The LIM protein, CRP1, is a smooth muscle marker.
+Dev. Dyn., 214, 229–238.
+Huang da, W., Sherman, B.T. & Lempicki, R.A. (2009a) Bioinformatics
+enrichment tools: paths toward the comprehensive functional analysis of
+large gene lists. Nucleic Acids Res., 37, 1–13.
+Huang da, W., Sherman, B.T. & Lempicki, R.A. (2009b) Systematic and
+integrative analysis of large gene lists using DAVID bioinformatics
+resources. Nat. Protoc., 4, 44–57.
+Irizarry, R.A., Hobbs, B., Collin, F., Beazer-Barclay, Y.D., Antonellis, K.J.,
+Scherf, U. & Speed, T.P. (2003) Exploration, normalization, and summaries
+of high density oligonucleotide array probe level data. Biostatistics, 4, 249–
+264.
+Jain, M.K., Kashiki, S., Hsieh, C.M., Layne, M.D., Yet, S.F., Sibinga, N.E.,
+Chin, M.T., Feinberg, M.W., Woo, I., Maas, R.L., Haber, E. & Lee, M.E.
+(1998) Embryonic expression suggests an important role for CRP2 ⁄ SmLIM
+in the developing cardiovascular system. Circ. Res., 83, 980–985.
+Jang, H.S. & Greenwood, J.A. (2009) Glycine-rich region regulates cysteine-
+rich protein 1 binding to actin cytoskeleton. Biochem. Biophys. Res.
+Commun., 380, 484–488.
+Kwiatkowski, A.V., Rubinson, D.A., Dent, E.W., Edward van Veen, J., Leslie,
+J.D., Zhang, J., Mebane, L.M., Philippar, U., Pinheiro, E.M., Burds, A.A.,
+Bronson, R.T., Mori, S., Fassler, R. & Gertler, F.B. (2007) Ena ⁄VASP
+is required for neuritogenesis in the developing cortex. Neuron, 56,
+441–455.
+Latonen, L., Jarvinen, P.M. & Laiho, M. (2008) Cytoskeleton-interacting LIM-
+domain protein CRP1 suppresses cell proliferation and protects from stress-
+induced cell death. Exp. Cell Res., 314, 738–747.
+Leu, B., Koch, E. & Schmidt, J.T. (2010) GAP43 phosphorylation is critical for
+growth and branching of retinotectal arbors in zebrafish. Dev. Neurobiol., 70,
+897–911.
+Lieberoth, B.C., Becker, C.G. & Becker, T. (2003) Double labeling of neurons
+by retrograde axonal tracing and non-radioactive in situ hybridization in the
+CNS of adult zebrafish. Methods Cell Sci., 25, 65–70.
+Lien, C.L., Schebesta, M., Makino, S., Weber, G.J. & Keating, M.T. (2006)
+Gene expression analysis of zebrafish heart regeneration. PLoS Biol., 4,
+e260.
+Lilly, B., Clark, K.A., Yoshigi, M., Pronovost, S., Wu, M.L., Periasamy, M.,
+Chi, M., Paul, R.J., Yet, S.F. & Beckerle, M.C. (2010) Loss of the serum
+response factor cofactor, cysteine-rich protein 1, attenuates neointima
+formation in the mouse. Arterioscler. Thromb. Vasc. Biol., 30, 694–701.
+Liss, B., Haeckel, O., Wildmann, J., Miki, T., Seino, S. & Roeper, J. (2005) K-
+ATP channels promote the differential degeneration of dopaminergic
+midbrain neurons. Nat. Neurosci., 8, 1742–1751.
+364 L. Ma et al.
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365
+Louis, H.A., Pino, J.D., Schmeichel, K.L., Pomies, P. & Beckerle, M.C. (1997)
+Comparison of three members of the cysteine-rich protein family reveals
+functional conservation and divergent patterns of gene expression. J. Biol.
+Chem., 272, 27484–27491.
+Ma, L., Yin, M., Wu, X., Wu, C., Yang, S., Sheng, J., Ni, H., Fukuda, M.N. &
+Zhou, J. (2006) Expression of trophinin and bystin identifies distinct cell
+types in the germinal zones of adult rat brain. Eur. J. Neurosci., 23, 2265–
+2276.
+Ma, L., Greenwood, J.A. & Schachner, M. (2011) CRP1, a protein localized in
+filopodia of growth cones, is involved in dendritic growth. J. Neurosci., 31,
+16781–16791.
+Mattila, P.K. & Lappalainen, P. (2008) Filopodia: molecular architecture and
+cellular functions. Nat. Rev. Mol. Cell Biol., 9, 446–454.
+McCurley, A.T. & Callard, G.V. (2010) Time course analysis of gene
+expression patterns in zebrafish eye during optic nerve regeneration. J. Exp.
+Neurosci., 2010, 17–33.
+McLaughlin, C.R., Tao, Q. & Abood, M.E. (1994) Isolation and developmental
+expression of a rat cDNA encoding a cysteine-rich zinc finger protein. Nucl.
+Acids Res., 22, 5477–5483.
+Minor, K., Tang, X., Kahrilas, G., Archibald, S.J., Davies, J.E. &
+Davies, S.J. (2008) Decorin promotes robust axon growth on inhibitory
+CSPGs and myelin via a direct effect on neurons. Neurobiol. Dis., 32,
+88–95.
+Miyasaka, K.Y., Kida, Y.S., Sato, T., Minami, M. & Ogura, T. (2007) Csrp1
+regulates dynamic cell movements of the mesendoderm and cardiac
+mesoderm through interactions with Dishevelled and Diversin. Proc. Natl.
+Acad. Sci. USA, 104, 11274–11279.
+Morgenstern, D.A., Asher, R.A. & Fawcett, J.W. (2002) Chondroitin sulphate
+proteoglycans in the CNS injury response. Prog. Brain Res., 137,
+313–332.
+Pomies, P., Louis, H.A. & Beckerle, M.C. (1997) CRP1, a LIM domain protein
+implicated in muscle differentiation, interacts with alpha-actinin. J. Cell
+Biol., 139, 157–168.
+Sadler, I., Crawford, A.W., Michelsen, J.W. & Beckerle, M.C. (1992) Zyxin
+and cCRP: two interactive LIM domain proteins associated with the
+cytoskeleton. J. Cell Biol., 119, 1573–1587.
+Saul, K.E., Koke, J.R. & Garcia, D.M. (2010) Activating transcription factor 3
+(ATF3) expression in the neural retina and optic nerve of zebrafish during
+optic nerve regeneration. Comp. Biochem. Physiol. A Mol. Integr. Physiol.,
+155, 172–182.
+Schebesta, M., Lien, C.L., Engel, F.B. & Keating, M.T. (2006) Transcriptional
+profiling of caudal fin regeneration in zebrafish. Sci. World J., 6 (Suppl 1),
+38–54.
+Schmeichel, K.L. & Beckerle, M.C. (1998) LIM domains of cysteine-rich
+protein 1 (CRP1) are essential for its zyxin-binding function. Biochem. J.,
+331, 885–892.
+Schwab, M.E. & Bartholdi, D. (1996) Degeneration and regeneration of axons
+in the lesioned spinal cord. Physiol. Rev., 76, 319–370.
+Seijffers, R., Allchorne, A.J. & Woolf, C.J. (2006) The transcription factor
+ATF-3 promotes neurite outgrowth. Mol. Cell. Neurosci., 32, 143–154.
+Siebert, J.R., Middelton, F.A. & Stelzner, D.J. (2010) Intrinsic response of
+thoracic propriospinal neurons to axotomy. BMC Neurosci., 11, 69.
+Silver, J. & Miller, J.H. (2004) Regeneration beyond the glial scar. Nat. Rev.
+Neurosci., 5, 146–156.
+Skene, J.H. (1989) Axonal growth-associated proteins. Annu. Rev. Neurosci.,
+12, 127–156.
+Tran, T.C., Singleton, C., Fraley, T.S. & Greenwood, J.A. (2005) Cysteine-rich
+protein 1 (CRP1) regulates actin filament bundling. BMC Cell Biol., 6, 45–57.
+Vaillant, C., Meissirel, C., Mutin, M., Belin, M.F., Lund, L.R. & Thomasset, N.
+(2003) MMP-9 deficiency affects axonal outgrowth, migration, and apop-
+tosis in the developing cerebellum. Mol. Cell. Neurosci., 24, 395–408.
+Veldman, M.B., Bemben, M.A., Thompson, R.C. & Goldman, D. (2007) Gene
+expression analysis of zebrafish retinal ganglion cells during optic nerve
+regeneration identifies KLF6a and KLF7a as important regulators of axon
+regeneration. Dev. Biol., 312, 596–612.
+Wullimann, M.F., Rupp, B. & Reichert, H. (1996) Neuroanatomy of the
+Zebrafish Brain: A Topological Atlas. Birkhauser, Basel.
+Yiu, G. & He, Z. (2006) Glial inhibition of CNS axon regeneration. Nat. Rev.
+Neurosci., 7, 617–627.
+Yu, Y.M., Cristofanilli, M., Valiveti, A., Ma, L., Yoo, M.S., Morellini, F. &
+Schachner, M. (2011a) The extracellular matrix glycoprotein tenascin-C
+promotes locomotor recovery after spinal cord injury in adult zebrafish.
+Neuroscience, 183, 238–250.
+Yu, Y.M., Gibbs, K.M., Davila, J., Campbell, N., Sung, S., Todorova, T.I.,
+Otsuka, S., Sabaawy, H.E., Hart, R.P. & Schachner, M. (2011b) MicroRNA
+miR-133b is essential for functional recovery after spinal cord injury in adult
+zebrafish. Eur. J. Neurosci., 33, 1587–1597.
+Zheng, B., Ho, C., Li, S., Keirstead, H., Steward, O. & Tessier-Lavigne, M.
+(2003) Lack of enhanced spinal regeneration in Nogo-deficient mice.
+Neuron, 38, 213–224.
+CRP1a is involved in spinal cord regeneration 365
+ª 2012 The Authors. European Journal of Neuroscience ª 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 35, 353–365

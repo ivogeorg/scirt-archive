@@ -1,0 +1,943 @@
+VEGF and FGF-2 delivery from spinal cord bridges to enhance
+angiogenesis following injury
+Laura De Laporte1, Anne des Rieux2, Hannah M. Tuinstra1, Marina L. Zelivyanskaya1, Nora
+M. De Clerck3, Andrei A. Postnov3, Véronique Préat2, and Lonnie D. Shea1,*
+1Departments of Chemical and Biological Engineering, Northwestern University, 2145 Sheridan
+Rd E156 Evanston, IL 60208-3120
+2Université catholique de Louvain, LDRI, Unité de Pharmacie Galénique, Avenue E. Mounier
+73.20, UCL, 1200 Brussels, Belgium
+3Departments of Biomedical Sciences and Physics, University of Antwerp, Belgium
+Abstract
+The host response to spinal cord injury can lead to an ischemic environment that can induce cell
+death and limits cell transplantation approaches to promote spinal cord regeneration. Spinal cord
+bridges that provide a localized and sustained release of VEGF and FGF-2 were investigated for
+their ability to promote angiogenesis and nerve growth within the injury. Bridges were fabricated
+by fusion of poly(lactide-co-glycolide) microspheres using a gas foaming/particulate leaching
+technique, and proteins were incorporated by encapsulation into the microspheres and/or mixing
+with the microspheres before foaming. Compared to the mixing method, encapsulation reduced the
+losses during leaching and had a slower protein release, while VEGF was released more rapidly
+than FGF-2. In vivo implantation of bridges loaded with VEGF enhanced the levels of VEGF
+within the injury at one week, and bridges releasing VEGF and FGF-2 increased the infiltration of
+endothelial cells and the formation of blood vessel at 6 weeks post implantation. Additionally,
+substantial neurofilament staining was observed within the bridge; however, no significant
+difference was observed between bridges with or without protein. Bridges releasing angiogenic
+factors may provide an approach to overcome an ischemic environment that limits regeneration
+and cell transplantation based approaches.
+Keywords
+Spinal cord injury; angiogenesis; spinal cord bridges; PLG; protein delivery
+Introduction
+Drug delivery strategies are increasingly being investigated to address the limited
+regeneration that occurs following spinal cord injury. Spinal cord injury is characterized by
+an acute phase, which includes hemorrhage, the destruction of the blood brain barrier, and
+infiltration of inflammatory cells, followed by a sub-acute and chronic phase, which consists
+of secondary injury distinguished by the Wallerian axonal degeneration, and the formation
+of a cavity and glial scar surrounding this cavity [1]. The lack of neurotrophic factors,
+ischemia resulting from insufficient blood flow, and the presence of inhibiting factors, all
+contribute to an unfavorable microenvironment for spinal cord regeneration. Several
+*Address correspondence to: Lonnie D. Shea, Northwestern University, Department of Chemical Engineering, 2145 Sheridan Rd. /
+E156, Evanston, IL 60208-3120, Phone: 847-491-7043, Fax: 847-491-3728, l-shea@northwestern.edu.
+NIH Public Access
+Author Manuscript
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+Published in final edited form as:
+J Biomed Mater Res A. 2011 September 1; 98(3): 372–382. doi:10.1002/jbm.a.33112.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+neurotrophic factors have been investigated to promote neuronal survival and axonal
+regrowth through the injury site [2–4]. The delivery of these factors has typically been
+achieved using direct injection, osmotic pumps, or transplantation of genetically engineered
+cells. More recently, bridges have been implanted into spinal cord injuries to stabilize the
+injury site, promote cell infiltration, and limit cyst or cavity formation. These bridges have
+the potential to be used as vehicles for the sustained release of factors to target one or more
+processes that limit regeneration [5–11].
+Angiogenic factors, such as vascular endothelial growth factor (VEGF) and fibroblast
+growth factor 2 (FGF-2), have been proposed to address ischemia following injury, and were
+implicated in neuroprotection [1,12] and/or nerve regeneration [2,4,13,14] after spinal cord
+injury. The ischemic environment after spinal cord injury leads to limited neuron survival
+and has complicated the transplantation of cells designed to promote a permissive
+environment at the implant site [15,16]. The delivery of exogeneous VEGF can spare spinal
+cord tissue, reduce retrograde degeneration, increase blood vessel density, and reduce the
+number of apoptotic cells [12]. Transplantation of neural stem cells after spinal cord
+contusion that were genetically modified to produce VEGF enhanced stem cell
+differentiation into mature oligodendrocytes and improved endogenous gliogenesis,
+angiogenesis, and tissue sparing [17]. However, a significant challenge is to control the
+release of these factors, as there is the potential for increased microvascular permeability,
+associated with leukocyte infiltration and an increased lesion volume. In addition to
+enhancing vessel ingrowth, angiogenic factors may be able to promote axonal ingrowth.
+Both the vascular and neural networks are structurally similar complex branched systems
+that are wired by multiple regulatory factors [18,19]. Several axon guidance cues are
+involved in blood vessel guidance [19,20], while VEGF and FGF-2 have been suggested to
+play a role in nerve regeneration [2,4,21]. VEGF can pattern small arteries along peripheral
+nerves [22], stimulate neurogenesis of neural stem cells in the adult central nervous system
+[23], have a mitogenic effect on neural cell types, such as astrocytes [24] and Schwann cells
+[25,26], and induce limited regeneration of the corticospinal tract across the injury site [13].
+Although the delivery of angiogenic factors has many potential advantages after spinal cord
+injury, their controlled release from bridges has, to the best of our knowledge, not yet been
+investigated.
+In this report, we implanted poly(lactide-co-glycolide) (PLG) bridges with the ability to
+locally deliver VEGF and FGF-2 to a spinal cord injury and analyzed blood vessel
+formation, endothelial cell infiltration, and nerve growth. Bridges were fabricated using a
+gas foaming/particulate leaching process and have previously demonstrated good tissue
+apposition without cavity formation, cell ingrowth into the pores of the bridge, and the
+ingrowth of neurofilament-positive fibers [6,27], which contrasts with the insertion of
+Gelfoam that resulted in cavity formation. VEGF and FGF-2 were loaded into the bridge
+through either encapsulation into the microspheres and/or direct mixing of microspheres
+with protein before gas foaming. The encapsulation efficiency, release, and bioactivity of the
+released protein was characterized in vitro, while the presence of exogeneous VEGF at the
+injury site in vivo was analyzed 1 week post implantation in a rat spinal cord hemisection
+model. Non-invasive high resolution X-ray micro-computed tomography (micro-CT) was
+used to visualize the 3D position and formation of functional blood vessels for multiple
+protein doses in vivo [28]. Subsequent studies investigated two VEGF/FGF-2 combinations
+for the promotion of angiogenesis, and neurotrophic effects, such as axonal extension into
+the lesion. Angiogenic factor delivery may be employed to combat the ischemic
+environment that can induce cell death and limits cell transplantation approaches to promote
+spinal cord regeneration.
+De Laporte et al. Page 2
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Materials and methods
+Fabrication of protein loaded multiple channel bridges
+Protein loaded multiple channel bridges were made of PLG and fabricated using a
+combination of a cryogenic double emulsion technique and a gas foaming/particulate
+leaching technique, which have been previously described [29,30]. The technique in these
+reports was adapted to the fabrication techniques for multiple channel bridges, which have a
+more complex architecture based on its application to spinal cord regeneration [5,6,8,27]. A
+mixture of protein loaded microspheres (2.6 mg), lyophilized proteins, and salt as a porogen
+(10 mg, 63–106 µm) was mixed with 0.5 µL water using the wet granulation method [31],
+and deposited in a custom made mold layer-by-layer before gas foaming. This resulted in a
+porous 3D bridge after 1 h leaching in water, which is sufficient to leach out all the salt,
+based on the dry weight of the bridges [6]. The bridges contained 7 channels and were
+approximately 90% porous based on their volume, weight, and the density of PLG [6]. Their
+dimensions were 4 mm in length, 2.6 mm in width, and 1.5 mm in height, which matched
+the dimensions of the lateral hemisection created in the rat spinal cord [6,27]. Images of the
+bridges can be found in these previous reports and a schematic is provided in Fig. 4, A.
+Proteins were encapsulated into the microspheres by emulsifying a protein solution (17 µl),
+containing VEGF (recombinant mouse VEGF-165, Prospec, Rehovot, Israel) or FGF-2
+(recombinant human FGF-2, Chemicon, Billerica, Massachusetts), 700 µg bovine serum
+albumin (BSA), 50 mg/mL sucrose, and MgCO3 (3% wt of BSA), with 500 µL 3 wt% PLG
+in dichloromethane using sonication at 40 watt for 15 s on ice. This first emulsion was
+sequentially frozen in liquid nitrogen for 4 sec in order to freeze the aqueous protein solution
+part without freezing the polymer solution. In a second emulsion, the first protein/polymer
+emulsion was added to 25 mL of 5% poly (vinyl alcohol) (PVA, 88% hydrolyzed, average
+MW 22,000, Acros Organics, Morris Plains, NJ) containing 50 mg/mL sucrose, and
+homogenized at 7000 rpm for 45 s. The resulting solution was diluted in 15 mL 1% PVA
+with 50 mg/mL sucrose and stirred at room temperature for 3 h. Microspheres were
+collected by centrifugation, washed three times, and lyophilized overnight.
+For the mixing method, protein was lyophilized with 15 µL 1% alginate and mixed with the
+microspheres (5 wt% alginate to PLG [32]) and salt before loading into the mold for bridge
+fabrication. The initial amount of protein added to the protein solutions was based on the
+encapsulation efficiency and losses during leaching measured by radioactive I125-labeled
+VEGF and FGF-2.
+Protein encapsulation efficiency and release from bridge
+The release kinetics for VEGF and FGF-2 from multiple channel bridges was determined
+using radiolabeled protein. A total of approximately 0.1 µCu I125-labeled VEGF and FGF-2
+(Perkin Elmer, Waltham, MA) and 0.2 µg non-radiolabeled protein was either mixed with
+and/or encapsulated within the microspheres per bridge to quantify the encapsulation
+efficiency and losses during leaching. The growth factor was mixed with an excess of BSA
+(100 µg) for encapsulation; thus, small changes in growth factor loading were not expected
+to substantially alter the bioactivity or release profile [33]. To measure the encapsulation
+efficiency, a known amount of microspheres was dissolved in 5M NaOH to measure its
+radioactivity using a Gamma counter (Micromedic 4/600 Plus, Micromedic, Horsham, PA).
+The efficiency was calculated as the ratio of protein loading per mg microspheres and the
+maximum protein loading, which was calculated as the ratio of the initial amount of protein
+added to the PLG solution and the PLG weight in this solution. The losses during leaching
+were calculated by measuring the leaching fluid. After leaching, the bridges were dried,
+incubated in 1 mL phosphate buffered saline (PBS) at 37 °C, and transferred to fresh PBS at
+De Laporte et al. Page 3
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+specific time points. The activity of the PBS that contained the bridge for that specific time
+period was measured to quantify the amount of protein that was released. The cumulative
+release of VEGF and FGF-2 from the bridges was calculated by dividing the cumulative
+radioactivity released into the buffer by the total amount of radioactivity released over the
+course of the study plus the radioactivity that remained inside the bridge at the end of the
+study. The latter was analyzed by dissolving the bridges in 5M NaOH to measure its
+activity.
+Bioactivity of protein released from bridge
+The activity of released VEGF and FGF-2 was measured by their ability to phosphorylate
+the VEGF receptor 2 (R2) and FGF-2 receptor, respectively, of human umbilical vein
+endothelial cells (pre-screened HUVECs, ECACC, # S200-05n). Bridges containing 1 µg of
+VEGF or FGF-2 (encapsulated or mixed, n=3) were incubated in 500 µL of PBS at 37 °C.
+At day 1, 5, 10, 20 and 42, release solutions were collected and replaced by fresh PBS. Due
+to the low protein amount in release solutions, the release buffer of the triplicates were
+combined before incubation with HUVECs. HUVECs were first incubated 4 hours in serum-
+free medium, and then incubated with the release buffer for 5 minutes. Cells were washed
+with cold HBSS and lysed for 15 minutes in 50 µL of ice-cold RIPA buffer (50 mM Tris,
+pH 7.4, 150 mM NaCl, 1% Triton, 0.05 % sodium deoxycholate, 1 mM EDTA, 0.1 % SDS
+and protease inhibitors (Protease Inhibitor Cocktail, Sigma)). Cell debris was removed by
+centrifugation at 14,000 × g for 10 minutes at 4°C and protein concentrations were
+determined with the BCA protein assay (Pierce, Rockford, IL). Cell extracts (70 µL) were
+then resolved by 6% SDS-PAGE and transferred to PVDF membranes (Millipore, Billerica,
+MA). VEGF and FGF-2 that were not encapsulated within the bridge were used as positive
+controls.
+Membranes were blocked for 1 hour at room temperature in 5% non-fat dry milk powder in
+1 M Tris (pH 7.4), 5 m NaCl, and 0.05% Tween 20 (TBST), and incubated overnight at 4°C
+with the primary antibody rabbit anti-phospho-VEGFR2 (TYR1175) or rabbit anti-phospho-
+FGF R (TYR653) (Cell Signaling Technology, Beverly, MA) diluted 1/1000 in 1% nonfat
+dry milk powder in TBST. After washing in TBST (3 × 15 minutes), membranes were
+incubated for 1 hour at room temperature in peroxidase-conjugated anti-rabbit secondary
+antibody (0.1 µg/ml, Jackson ImmunoResearch Laboratories, Suffolk, UK). After washing
+in TBST, enhanced chemiluminescence was done according to the manufacturer’s
+recommendation (Immobilon™ Western, Millipore). Protein expression was analyzed via
+Geliance 600 (Perkin Elmer).
+Rat spinal cord hemisection model
+To analyze the performance of the bridges in vivo, bridges were implanted into a rat spinal
+cord hemisection model [5,6,27]. Thirty four female Long-Evans rats (Charles River, 180–
+200 g) were treated according to IACUC guidelines at Northwestern University, and pre-
+handled for two weeks pre-surgery. Rats were anaesthetized using a RC2 Rodent Anesthesia
+System (Colonial Medical Supply, Franconia, NH) with vaporized Isoflurane (Baxter,
+Deerfield, IL) to perform a laminectomy at T9–10 and expose the spinal cord. A lateral
+hemisection of 4 mm long up to the midline was created for bridge implantation, after which
+the injury site was covered with Gelfoam (Henry Schein, Melville, NY), the muscles were
+sutured together, and the skin stapled. Post-operative care included administring Baytril
+(Enrofloxacin 2.5 mg/kg s.c., once a day for 2 weeks), buprenorphine (0.01 mg/kg s.c., twice
+a day for 2 days), and lactate ringer solution (5 mL/100 g, once a day for 5 days), and
+bladder expression twice a day until bladder function recovered.
+De Laporte et al. Page 4
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+ELISA to quantify VEGF at the injury site
+An enzyme-linked immunosorbent assay (ELISA) was performed to analyze the presence of
+delivered VEGF at the injury site and its adjacent spinal cord segments 1 week post injury.
+The bridges (n=4) were fabricated with 0.5 µg rat VEGF (kindly provided by Prof.
+Carmeliet, Katholieke Universiteit Leuven, Belgium) encapsulated inside the microspheres
+plus 0.5 µg rat VEGF mixed with the microspheres. This loading of VEGF was sufficient to
+determine if VEGF delivery was increasing levels above background. Control implants
+(n=4) were done with bridges without VEGF. Upon removal of the spinal cord, the Gelfoam
+was removed from the cord and the cord was cut into 3 segments: the injury site and two 0.5
+cm long segments rostral and caudal of the injury site (Fig. 4, A). All segments were stored
+on dry ice until being thawed and cut into small pieces. Lysis buffer (100 µL) (Cell Culture
+Lysis Reagent 1X, Promega, Madison WI) was added, and the lysate was vortexed for 15
+sec, rotated for 30 min using a rotamix (Appropriate Technical Resources, Inc., Laurel MD),
+and centrifuged at 14,000 RPM for 10 min at 4°C to collect the supernatant. The supernatant
+was diluted (1/200) to perform the VEGF ELISA, according to supplier instructions (Rat
+VEGF ELISA kit for cell and tissue lysate, RayBio®, RayBiotech, Inc, Norcross GA). Note
+that this processing of the spinal cord does not solubilize the polymer; thus, the procedure
+measures the protein within the tissue and not within the polymer.
+Micro-computed tomography to analyze functional blood vessels
+MicroCT was performed as an initial qualitative screening for 5 different VEGF/FGF-2
+doses ranging from 1 to 2 µg of one or both proteins (n=3) to visualize the presence of
+functional blood vessels in the bridge after spinal cord injury and determine the doses for a
+more quantitative analysis of cell infiltration [34–36]. To analyze this functional response of
+protein delivery in vivo, greater protein amounts were used compared to the release studies.
+Fourteen rats (1 rat died) were euthanized at 6 weeks post implantation using a transcardiac
+perfusion to inject Microfil compounds (Flow Tech, Inc., Carver, MA) that cure to form a
+three-dimensional cast of the animal’s vasculature, which can then be imaged by microCT.
+Animals were deeply anesthetized using Euthasol to open the abdominal cavity, cut the
+diaphragm, and expose the heart. A perfusion needle was inserted into the left ventricle
+oriented to the ascending aorta, while the right atrium was opened using surgical
+microscissors. Animals were perfused at 20 mL per minute with phosphate buffered saline
+(PBS) (50 mL), followed by 4% phosphate buffered paraformaldehyde (300–400 mL) to fix
+the tissue, and 50 mL of PBS to rinse out paraformaldehyde.
+The Microfil injection compound (MV-122) was prepared by adding 500 µL of curing agent
+per 10 mL MV-122 and thorough mixing. It was sequentially manually injected at a slow
+rate into the animal’s vasculature, using a 10 mL syringe and a 21-gauge needle. This
+procedure fills blood vessels that connect to the animal vasculature, and are referred to as
+functional vessels. After curing, the spinal cords were removed for image analysis with a
+high-resolution in vitro micro-CT system, SkyScan 1072 (SkyScan, Kontich, Belgium). The
+scanner was equipped with a point X-ray source (8 micron focal spot) operating at 80kV and
+100µA and the study was performed with 10 micron pixel size without filter. These
+conditions allow imaging the smallest vessels with optimal contrast provided by the soft part
+of X-ray spectra. From the virtual cross-sections, 3D models were created using ANT
+software (Skyscan, Kontich, Belgium) in order to visualize the position of the blood vessels.
+Immunohistochemistry
+The effect of VEGF and FGF-2 delivery from the bridges on the presence of angiogenic
+markers, such as endothelial cells, and neurotrophic effects, such as nerve extension into the
+lesion, was sequentially investigated using immunohistochemistry for three different
+conditions: bridges containing 4 µg of VEGF encapsulated within their microspheres and 2
+De Laporte et al. Page 5
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+µg of FGF-2 and VEGF mixed (high protein dose, n=4), 4 µg of VEGF encapsulated within
+their microspheres and 1 µg of FGF-2 and VEGF mixed (medium protein dose, n=3), and
+bridges without protein loading (no protein, n=4).
+Rats (n=11) were sacrificed at 6 weeks post implantation to retrieve the spinal cords, and
+prepared for immunohistochemistry as described previously [27]. The tissue section
+containing the injury site (T8–T11) was frozen in isopentane (Fisher Scientific, Pittsburgh,
+PA), stored in siliconized eppendorf tubes at −80°C, cryopreserved in optimum cutting
+temperature (O.C.T.) compound, and sliced longitudinally in 10 µm thick sections using a
+cryostat (Micron, Microm HM 505 N). Every other section was collected on poly (L-lysine)
+coated glass slides (Fisher Scientific), post-fixed, and stained.
+Each 10th collected section was stained for a specific cell stain with primary IgG1
+antibodies against endothelial cells (mouse-anti-rat RECA-1, AbD Serotec, Raleigh, NC,
+1:150 dilution) and neurofilament (rabbit-anti-NF 200; Sigma-Aldrich; 1:5000 dilution) in
+combination with a secondary immunoperoxidase stain (biotinylated anti-mouse IgG
+(Vector Laboratories, Burlingame, CA, 1:200 dilution) and anti-rabbit IgG (Jackson Lab,
+West Grove, PA, 1:200 dilution), respectively). Negative controls were performed by
+eliminating the primary antibodies. Images were taken of the entire bridge section in phase
+(20X) and 6 sections per rat were analyzed for each stain in Photoshop. The results were
+reported as a percentage of the surface area of the entire bridge that was stained positive, and
+normalized to the results obtained for bridges without protein. The surface areas of the
+positive stain and the entire bridge were measured by selecting these areas and measuring
+their total amount of pixels using the histogram tool in Photoshop.
+Statistical analysis
+Statistical analyses were done using statistical package JMP (SAS, Cary, NC). For multiple
+pairs comparison, an ANOVA with post-hoc Tukey test was performed with a p-level of
+0.05. A t-test was performed to analyze differences between individual pairs. Error bars
+represent standard deviations in all figures.
+Results
+VEGF and FGF-2 encapsulation and release from bridges
+The encapsulation efficiency of the proteins within the bridge, losses during leaching, and
+release profile either by encapsulation within microspheres or mixing with microspheres was
+initially investigated. High molecular weight 75:25 PLG was used to encapsulate VEGF and
+FGF-2 into PLG microspheres, resulting in encapsulation efficiencies of 44 ± 16 and 56 ±
+14 %, respectively, which were not statistically different (Fig. 1, A). Varying the polymer
+solvent agent (ethylacetate and dichloromethane), the lactide to glycolide ratio (85:15,
+75:25, 65:35 PLG), or the PLG concentration (3, 5 %) did not enhance the encapsulation
+efficiency (data not shown). Protein incorporated inside the bridges through initial
+encapsulation into microspheres resulted in minimal protein losses during the leaching
+process, with protein retention of 93 ± 0% and 95 ± 2%, respectively, inside the bridge.
+Bridges fabricated by mixing the protein with the microspheres prior to gas foaming had a
+retention of 41 ± 5 and 52 ± 1%, respectively, after leaching (Fig. 1, B), which was
+statistically different for both proteins. Importantly, the total amount of protein that can be
+loaded inside the microspheres is limited due to the first emulsion volume and the initial
+protein concentration, which is not a limiting factor in the case of protein mixing with the
+microspheres.
+The release study was subsequently investigated, and release was a strong function of the
+incorporation method and the protein incorporated. All conditions had an initial rapid release
+De Laporte et al. Page 6
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+that persisted for 4 days, followed by a more gradual release. Bridges loaded with VEGF
+demonstrated a faster release compared to FGF-2 for both incorporation methods with a
+greater percentage released after 23 weeks. For bridges with mixed VEGF or FGF-2,
+respectively, the initial phase led to a release of 61 ± 9% and 27 ± 6%, while the second
+phase released 26 ± 6% and 36 ± 3% during the subsequent 157 days. For encapsulated
+VEGF or FGF-2, respectively, the initial phase had a release of 21 ± 4% and 12 ± 1%, and a
+sustained release during the subsequent 157 days with a maximal release of 57 ± 4% and 40
+± 2% of the encapsulated protein. Bridges that were loaded with protein by both mixing and
+encapsulation inside the microspheres had an intermediate release profile (Fig. 2).
+Bioactivity of protein released from bridge
+The bioactivity of VEGF and FGF-2 was subsequently determined for protein that was
+released from bridges in which the protein was encapsulated within the microspheres, or
+mixed with the microspheres. Phosphorylation of VEGF-R2 and FGF-R was observed for
+protein obtained following release for 24 hours, 5, 10, 20, and 42 days (Fig. 3), with activity
+observed for protein that was mixed with or encapsulated into the microspheres. Variations
+of intensity between samples are due to the variability in protein content for the release
+solutions. This activity of VEGF and FGF-2 was consistent with multiple reports involving
+the release of these proteins from PLG [35,37].
+VEGF localization at the injury site
+VEGF loaded bridges were subsequently implanted into the lateral hemisection. We have
+previously reported that these bridges prevent the formation of a cyst-like cavity typical of
+many spinal cord injuries, likely due to stabilizing the injury following implantation [6,27].
+Cells infiltrate into the pores and channels of the bridge within a week, with the channels
+aligning cells along the major axis of the channel. The presence of the delivered protein at
+the injury site was analyzed by quantifying the amount of protein in the injury site and in
+adjacent spinal cord segments (Fig. 4, A). Bridges were loaded with 0.5 µg VEGF inside
+microspheres and 0.5 µg VEGF mixed with microspheres, a loading that was sufficient for
+quantification by ELISA. VEGF levels at the injury site were 20-fold greater than for
+bridges without VEGF (Fig. 4, B). Additionally, for VEGF loaded bridges, VEGF levels at
+the injury site (4300 ± 1924 pg/mL) were significantly greater than the levels in the gelfoam
+covering the implant or in the segments rostral and caudal to the injury site. These results
+suggest that the delivered protein remained local at the injury site 1 week post implantation,
+with VEGF levels significantly greater than the endogenous VEGF levels after spinal cord
+injury.
+Functional blood vessels formed following protein delivery
+The presence of functional blood vessels in the bridge after implantation to the spinal cord
+hemisection was characterized by microCT. As a control, the vascular network of an
+uninjured spinal cord was filled with contrast agent to validate the technique (Fig. 5, A). The
+protein loadings that were employed were selected from literature reports in which PLG
+scaffolds were used to deliver VEGF in vivo [34–36]. The combinatorial delivery of VEGF
+and FGF-2 was investigated based on the potential for synergistic activity between the two
+factors to promote blood vessel development [38–41]. Following bridge implantation for 6
+weeks, a greater extent of blood vessels was visualized inside bridges when a high dose of
+VEGF (2 µg) was encapsulated within the microspheres and when FGF-2 (1 µg) was mixed
+with the microspheres (Fig. 5, B). Bridges with an intermediate VEGF dose (1 µg), or
+without the proteins did not demonstrate the same extent of blood vessel growth after spinal
+cord injury. Mixing FGF-2 with the microspheres in addition to VEGF encapsulation (1 µg)
+enhanced blood vessel ingrowth compared to VEGF mixed with the microspheres (Fig. 5,
+De Laporte et al. Page 7
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+B), while additional encapsulation of FGF-2 in the microspheres did not enhance blood
+vessel growth (data not shown).
+Infiltration of endothelial cells in bridge
+The presence of endothelial cells in the bridge was subsequently evaluated at 6 weeks post
+implantation by immunohistochemistry. Based on the qualitative microCT results, which
+demonstrated that bridges with intermediate doses of protein did not result in the same
+extent of blood vessel ingrowth as bridges with the maximal doses, and that bridges with
+FGF-2 mixed with the microspheres in addition to VEGF enhanced the presence of blood
+vessels at the injury site, the protein doses were increased to ensure that the protein loading
+was sufficient to promote endothelial cell infiltration and axonal extension into the bridge.
+The dose increase was also done to account for the flow of cerebrospinal fluid that may
+enable convective transport of the proteins from the implant [5]. Therefore, one dose of
+VEGF (4 µg) was encapsulated in microspheres and 2 different doses of VEGF and FGF-2
+were mixed within the bridge.
+For VEGF and FGF-2 releasing bridges, substantial RECA staining was observed within the
+bridge and adjacent tissue, (Fig. 6, A), while intact circular shaped blood vessels were
+detected adjacent to the bridge (Fig. 6, B). Bridges loaded with medium or high protein
+dosages had significantly greater RECA staining relative to bridges without protein (Fig 6,
+C). Bridges loaded with 4 µg of VEGF encapsulated within their microspheres and 2 µg of
+FGF-2 and VEGF mixed (high protein), had a 3.3 ± 1.0 fold greater RECA staining relative
+to bridges without protein. Bridges containing 4 µg of VEGF encapsulated within their
+microspheres and 1 µg of FGF-2 (medium protein) had a 2.5 ± 0.7 fold greater RECA
+staining. Differences between bridges with medium and high protein doses were not
+statistically significant.
+Neurite growth into the bridge
+The extent of neurite growth within the bridge at 6 weeks post implantation was
+subsequently characterized in order to investigate synergy between the endothelial cells and
+neurite outgrowth. Substantial neurofilament (NF) staining was present in all conditions
+(Fig. 7, A). For bridges without protein or with the intermediate levels of VEGF/FGF-2, the
+mean level of staining was similar (Fig. 7, B). For bridges loaded with the highest dose of
+VEGF and FGF-2, the mean staining level was greater (1.7-fold relative to no protein, Fig.
+7, B); however, this difference was not statistically significant.
+Discussion
+In this report, VEGF and FGF-2 were delivered to the injured spinal cord from a bridge to
+enhance blood vessel formation and reduce ischemia, and to investigate if the delivery of
+these factors impacts neurite outgrowth. Angiogenic factors, such as VEGF and FGF-2 have
+been delivered from PLG scaffolds formed by the gas foaming process in order to increase
+blood vessel formation locally [29,32,42–44], yet these strategies have not been applied to
+the spinal cord. The gas foaming process has been effective in previous reports at
+maintaining the bioactivity of both VEGF and FGF-2 [29,42,45]. Proteins were loaded into
+the bridge through i) encapsulation into the microspheres and/or ii) direct mixing with the
+microspheres, which were subsequently processed by gas foaming to create the bridge
+structure. The method of protein incorporation impacts the release profile [29], with
+encapsulation within the microspheres reducing the release rate relative to the mixing
+procedure. FGF-2 demonstrated a greater encapsulation efficiency and decreased release
+relative to VEGF. FGF-2 (17.2 kDa) has a smaller molecular weight than VEGF (38.2 kDa),
+yet has a greater isoelectric point that would impart a more positive charge than VEGF and
+De Laporte et al. Page 8
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+could enhance electrostatic interactions with the polymer. Both proteins retained their
+bioactivity after their release from the bridge up to 42 days.
+Delivery of angiogenic factors from a bridge was hypothesized to provide the combination
+of structural support and biochemical factors to promote revascularization of the injury. In
+the normal spinal cord, VEGF mRNA is not detectable; however, following spinal cord
+injury, VEGF expression is upregulated after 6 hrs with a peak at 24 hours [46]. Expression
+is restricted to the border of the injury, with new vessels present 24 h post injury that
+eventually disappears with cavity formation and glial scar deposition [46]. These previous
+studies suggested that delivery should maintain VEGF at the injury and avoid release to the
+uninjured tissue, and that limiting cavity formation may be essential for long-term vessel
+stability. Bridge implantation provides mechanical support to the injury and supports cell
+infiltration, whose combination prevents cavity formation and decreases the extent of glial
+scar formation [27]. Delivery of 1 µg of VEGF increased VEGF levels 20-fold at the injury
+site 1 week post implantation relative to bridges without VEGF. The delivered VEGF
+remained at the injury, as segments rostral and caudal to the injury and the gelfoam had
+VEGF levels comparable to levels observed with bridges without VEGF. With a VEGF half-
+life of 3 min in the circulation [47] and 6 min when bound to heparin [48], a 1 week time
+point suggests a local and sustained delivery of exogeneous VEGF from the bridge in vivo
+after implantation, which may have the potential to support the formation of mature blood
+vessels at the injury site, while avoiding blood vessel retraction.
+Localized delivery of angiogenic factors increased endothelial cell infiltration and also the
+presence of vessels in the adjacent tissue. Significant differences in endothelial cell
+infiltration into the bridges at 6 weeks post spinal cord injury were observed for bridges
+releasing VEGF and FGF-2 relative to bridges without proteins. Interestingly, endothelial
+cell infiltration was not significantly different between medium and high protein doses. This
+result suggests that a maximal dose was exceeded, or that the mixing process was ineffective
+at greater doses due to the rapid release. MicroCT analysis indicated the presence and
+position of functional vessels within the injury site. Furthermore, histological analysis
+indicated the presence of circular shaped blood vessels adjacent to the bridge in quantities
+that were increased for bridges containing VEGF and FGF-2 protein relative to no protein.
+Inside the bridges, however, few circular shaped blood vessels were detected, which may
+suggest that the pore structure and size might need to be re-evaluated to support blood vessel
+ingrowth [49,50]. In addition, the relationship between VEGF dosage and the morphology
+and function of newly formed blood vessels has previously been investigated, demonstrating
+that elevated VEGF levels can lead to abnormal blood vessels and hemangiomas [51,52].
+The studies reported here indicate the potential for localized VEGF delivery to promote
+angiogenesis locally in the spinal cord. A key challenge will be forming normal mature
+blood vessels that will restore the integrity of the blood brain barrier. To obtain more mature
+vessels, multiple research groups are currently investing a combination of multiple
+angiogenic factors (e.g., PDGF [53]), their doses, and the time frame of delivery. More
+research is necessary to overcome the challenges of controlling the time frame and doses of
+protein release, as parameters may have to be re-optimized for each protein or protein
+combination.
+VEGF has been proposed as a neurotrophin [54], while, more generally, delivery of
+angiogenic factors may lead to the simultaneous regeneration of blood vessels and nerves.
+Blood vessels and nerves may be congruent in order to provide nerves with oxygen and
+nutrients and allow vasoregulation of blood vessels [19]. Additionally, the blood vessels and
+nerve bundles may provide mechanical support for each other and thus orienting
+regeneration. In this report, substantial staining for neurofilament was observed in empty
+bridges (i.e., no protein release), for which there was limited staining for endothelial cells,
+De Laporte et al. Page 9
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+suggesting that there is endogenous neurotrophin production that is promoting neurite
+growth. Delivery of VEGF and FGF-2 increased the mean quantity of staining for
+neurofilament in the bridge; however, this increase was not statistically significant.
+Additionally, preliminary staining for astrocytes revealed that the delivery of VEGF and
+FGF-2 induced astrocytes infiltration into the pores and channels of the bridge (data not
+shown), which is not observed in the absence of this delivery. Without protein delivery, a
+dense layer of astrocytes is observed at the edge of the bridge without infiltration inside the
+bridge, consistent with previous reports [27]. Thus the delivery of angiogenic factors is
+impacting the local environment and stimulating cells other than endothelial cells.
+The significant increase in endothelial cell staining, yet insignificant change in
+neurofilament staining, with protein delivery may reflect that the pore structure of the
+scaffold or the quantity or duration of delivery may need to be altered. Although endothelial
+cell staining was increased within the bridge, the presence of organized vessel structures
+may be necessary to provide the mechanical support and orientation to promote
+complementary nerve growth. Altering the pore size has the potential to enhance the number
+of vessels within the bridge [49,50]. Importantly, the action of VEGF as a neurotrophin is
+proposed to require long-term VEGF production [13], and the concentration at which VEGF
+is neurotrophic may differ from the concentration at which it is angiogenic.
+Conclusion
+Bridges releasing angiogenic factors (VEGF, FGF-2) locally after spinal cord injury
+increased endothelial cell infiltration and blood vessel formation at the injury, while also
+supporting neurite outgrowth, which are both necessary to overcome ischemia and promote
+functional spinal cord regeneration. VEGF and FGF-2 were delivered from the bridge in a
+controlled manner using a combination of 2 methods of protein loading: encapsulation
+inside the microspheres and mixing with the microspheres before gas foaming. Bridges
+stabilized the injury to prevent cavity formation and localized release promoted a local
+increase of VEGF at the injury, increased endothelial cell infiltration, and enhanced the
+number of circular shaped blood vessels. This report demonstrates that implantation of
+bridges releasing proteins into the spinal cord can stabilize the injury while promoting and
+supporting processes critical to regeneration.
+Acknowledgments
+Financial support for this research was provided by the NIH (RO1 EB005678, R21 EB006520, RO1 EB 003806),
+and the Henri Benedictus Fellowship for Biomedical Engineering Research of the Belgium American Education
+Foundation (B.A.E.F) fellowship. Financial support for micro-CT was provided by the IBBT TIRPA project and
+IWT SBO Quantiviam project (Prof. J. Sijbers, VisionLab, University of Antwerp). The authors are grateful for the
+rat VEGF that was kindly provided by Prof. Carmeliet from the Katholieke Universiteit Leuven, Belgium. The
+authors thank Prof. O. Feron and L. Petit for their help with the protein bioactivity test and Samantha Holland for
+help with immunohistochemistry.
+References
+1. Storkebaum E, Lambrechts D, Carmeliet P. VEGF: once regarded as a specific angiogenic factor,
+now implicated in neuroprotection. Bioessays. 2004; 26(9):943–954. [PubMed: 15351965]
+2. Jimenez Hamann MC, Tator CH, Shoichet MS. Injectable intrathecal delivery system for localized
+administration of EGF and FGF-2 to the injured rat spinal cord. Exp. Neurol. 2005; 194(1):106–
+119. [PubMed: 15899248]
+3. Jones LL, Oudega M, Bunge MB, Tuszynski MH. Neurotrophic factors, cellular bridges and gene
+therapy for spinal cord injury. J Physiol. 2001; 533(Pt 1):83–89. [PubMed: 11351016]
+De Laporte et al. Page 10
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+4. Nakahara Y, Gage FH, Tuszynski MH. Grafts of fibroblasts genetically modified to secrete NGF,
+BDNF, NT-3, or basic FGF elicit differential responses in the adult spinal cord. Cell Transplant.
+1996; 5(2):191–204. [PubMed: 8689031]
+5. De Laporte L, Yan AL, Shea LD. Local gene delivery from ECM-coated poly(lactide-coglycolide)
+multiple channel bridges after spinal cord injury. Biomaterials. 2009; 30(12):2361–2368. [PubMed:
+19144400]
+6. De Laporte L, Yang Y, Zelivyanskaya ML, Cummings BJ, Anderson AJ, Shea LD. Plasmid
+releasing multiple channel bridges for transgene expression after spinal cord injury. Mol Ther.
+2009; 17(2):318–326. [PubMed: 19050701]
+7. Stokols S, Tuszynski MH. Freeze-dried agarose scaffolds with uniaxial channels stimulate and guide
+linear axonal growth following spinal cord injury. Biomaterials. 2006; 27(3):443–451. [PubMed:
+16099032]
+8. De Laporte L, Huang A, Ducommun MM, Zelivyanska ML, Aviles MO, Adler AF, Shea LD.
+Patterned transgene expression in multiple-channel bridges after spinal cord injury. Acta Biomater.
+6 Aug.:2889–2897.
+9. Biondi M, Ungaro F, Quaglia F, Netti PA. Controlled drug delivery in tissue engineering. Adv Drug
+Deliv Rev. 2008; 60(2):229–242. [PubMed: 18031864]
+10. Tessmar JK, Gopferich AM. Matrices and scaffolds for protein delivery in tissue engineering. Adv
+Drug Deliv Rev. 2007; 59(4–5):274–291. [PubMed: 17544542]
+11. Willerth SM, Sakiyama-Elbert SE. Approaches to neural tissue engineering using scaffolds for
+drug delivery. Adv Drug Deliv Rev. 2007; 59(4–5):325–338. [PubMed: 17482308]
+12. Widenfalk J, Lipson A, Jubran M, Hofstetter C, Ebendal T, Cao Y, Olson L. Vascular endothelial
+growth factor improves functional outcome and decreases secondary degeneration in experimental
+spinal cord contusion injury. Neuroscience. 2003; 120(4):951–960. [PubMed: 12927201]
+13. Facchiano F, Fernandez E, Mancarella S, Maira G, Miscusi M, D'Arcangelo D, Cimino-Reale G,
+Falchetti ML, Capogrossi MC, Pallini R. Promotion of regeneration of corticospinal tract axons in
+rats with recombinant vascular endothelial growth factor alone and combined with adenovirus
+coding for this factor. J Neurosurg. 2002; 97(1):161–168. [PubMed: 12134907]
+14. Ruiz de Almodovar C, Lambrechts D, Mazzone M, Carmeliet P. Role and therapeutic potential of
+VEGF in the nervous system. Physiol Rev. 2009; 89(2):607–648. [PubMed: 19342615]
+15. Sakakibara Y, Nishimura K, Tambara K, Yamamoto M, Lu F, Tabata Y, Komeda M.
+Prevascularization with gelatin microspheres containing basic fibroblast growth factor enhances
+the benefits of cardiomyocyte transplantation. J Thorac Cardiovasc Surg. 2002; 124(1):50–56.
+[PubMed: 12091808]
+16. Yau TM, Fung K, Weisel RD, Fujii T, Mickle DA, Li RK. Enhanced myocardial angiogenesis by
+gene transfer with transplanted cells. Circulation. 2001; 104(12 Suppl 1):I218–I222. [PubMed:
+11568059]
+17. Kim HM, Hwang DH, Lee JE, Kim SU, Kim BG. Ex vivo VEGF delivery by neural stem cells
+enhances proliferation of glial progenitors, angiogenesis, and tissue sparing after spinal cord
+injury. PLoS ONE. 2009; 4(3):e4987. [PubMed: 19319198]
+18. Carmeliet P, Tessier-Lavigne M. Common mechanisms of nerve and blood vessel wiring. Nature.
+2005; 436(7048):193–200. [PubMed: 16015319]
+19. Eichmann A, Le Noble F, Autiero M, Carmeliet P. Guidance of vascular and neural network
+formation. Curr Opin Neurobiol. 2005; 15(1):108–115. [PubMed: 15721752]
+20. Autiero M, De Smet F, Claes F, Carmeliet P. Role of neural guidance signals in blood vessel
+navigation. Cardiovasc Res. 2005; 65(3):629–638. [PubMed: 15664389]
+21. Sondell M, Lundborg G, Kanje M. Vascular endothelial growth factor has neurotrophic activity
+and stimulates axonal outgrowth, enhancing cell survival and Schwann cell proliferation in the
+peripheral nervous system. J Neurosci. 1999; 19(14):5731–5740. [PubMed: 10407014]
+22. Mukouyama YS, Shin D, Britsch S, Taniguchi M, Anderson DJ. Sensory nerves determine the
+pattern of arterial differentiation and blood vessel branching in the skin. Cell. 2002; 109(6):693–
+705. [PubMed: 12086669]
+De Laporte et al. Page 11
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+23. Shen Q, Goderie SK, Jin L, Karanth N, Sun Y, Abramova N, Vincent P, Pumiglia K, Temple S.
+Endothelial cells stimulate self-renewal and expand neurogenesis of neural stem cells. Science.
+2004; 304(5675):1338–1340. [PubMed: 15060285]
+24. Krum JM, Mani N, Rosenstein JM. Angiogenic and astroglial responses to vascular endothelial
+growth factor administration in adult rat brain. Neuroscience. 2002; 110(4):589–604. [PubMed:
+11934468]
+25. Sondell M, Lundborg G, Kanje M. Vascular endothelial growth factor stimulates Schwann cell
+invasion and neovascularization of acellular nerve grafts. Brain Res. 1999; 846(2):219–228.
+[PubMed: 10556639]
+26. Hobson MI, Green CJ, Terenghi G. VEGF enhances intraneural angiogenesis and improves nerve
+regeneration after axotomy. J Anat. 2000; 197 Pt 4:591–605. [PubMed: 11197533]
+27. Yang Y, De Laporte L, Zelivyanskaya M, Whittlesey KJ, Anderson A, Cummings BJ, Shea LD.
+Multiple Channel Bridges For Spinal Cord Injury: Cellular Characterization of Host Response.
+Tissue Eng Part A. 2009
+28. De Clerck, N.; Postnov, A. High resolution X-ray microtomography: applications in biomedical
+research. London: Wiley & Sons; 2007. p. 57-77.
+29. Ennett AB, Kaigler D, Mooney DJ. Temporally regulated delivery of VEGF in vitro and in vivo.
+Journal of Biomedical Materials Research Part A. 2006; 79A(1):176–184. [PubMed: 16788907]
+30. Yang Y, De Laporte L, Rives CB, Jang JH, Lin WC, Shull KR, Shea LD. Neurotrophin releasing
+single and multiple lumen nerve conduits. J Control Release. 2005; 104(3):433–446. [PubMed:
+15911044]
+31. Jang JH, Rives CB, Shea LD. Plasmid delivery in vivo from porous tissue-engineering scaffolds:
+transgene expression and cellular transfection. Mol. Ther. 2005; 12(3):475–483. [PubMed:
+15950542]
+32. Peters MC, Polverini PJ, Mooney DJ. Engineering vascular networks in porous polymer matrices. J
+Biomed Mater Res. 2002; 60(4):668–678. [PubMed: 11948526]
+33. Cleland JL, Duenas ET, Park A, Daugherty A, Kahn J, Kowalski J, Cuthbertson A. Development
+of poly-(D,L-lactide--coglycolide) microsphere formulations containing recombinant human
+vascular endothelial growth factor to promote local angiogenesis. J Control Release. 2001; 72(1–
+3):13–24. [PubMed: 11389981]
+34. Chen RR, Silva EA, Yuen WW, Mooney DJ. Spatio-temporal VEGF and PDGF delivery patterns
+blood vessel formation and maturation. Pharm Res. 2007; 24(2):258–264. [PubMed: 17191092]
+35. Kaigler D, Wang Z, Horger K, Mooney DJ, Krebsbach PH. VEGF scaffolds enhance angiogenesis
+and bone regeneration in irradiated osseous defects. J Bone Miner Res. 2006; 21(5):735–744.
+[PubMed: 16734388]
+36. Sun Q, Chen RR, Shen Y, Mooney DJ, Rajagopalan S, Grossman PM. Sustained vascular
+endothelial growth factor delivery enhances angiogenesis and perfusion in ischemic hind limb.
+Pharm Res. 2005; 22(7):1110–1116. [PubMed: 16028011]
+37. Golub JS, Kim YT, Duvall CL, Bellamkonda RV, Gupta D, Lin AS, Weiss D, Robert Taylor W,
+Guldberg RE. Sustained VEGF delivery via PLGA nanoparticles promotes vascular growth. Am J
+Physiol Heart Circ Physiol. 298(6):H1959–H1965. [PubMed: 20228260]
+38. Przybylski M. A review of the current research on the role of bFGF and VEGF in angiogenesis. J
+Wound Care. 2009; 18(12):516–519. [PubMed: 20081577]
+39. Pepper MS, Ferrara N, Orci L, Montesano R. Potent synergism between vascular endothelial
+growth factor and basic fibroblast growth factor in the induction of angiogenesis in vitro. Biochem
+Biophys Res Commun. 1992; 189(2):824–831. [PubMed: 1281999]
+40. Asahara T, Bauters C, Zheng LP, Takeshita S, Bunting S, Ferrara N, Symes JF, Isner JM.
+Synergistic effect of vascular endothelial growth factor and basic fibroblast growth factor on
+angiogenesis in vivo. Circulation. 1995; 92(9 Suppl):II365–II371. [PubMed: 7586439]
+41. Ferrara N, Alitalo K. Clinical applications of angiogenic growth factors and their inhibitors. Nat
+Med. 1999; 5(12):1359–1364. [PubMed: 10581076]
+42. Sheridan MH, Shea LD, Peters MC, Mooney DJ. Bioabsorbable polymer scaffolds for tissue
+engineering capable of sustained growth factor delivery. J Control Release. 2000; 64(1–3):91–102.
+[PubMed: 10640648]
+De Laporte et al. Page 12
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+43. Rives CB, des Rieux A, Zelivyanskaya M, Stock SR, Lowe WL Jr, Shea LD. Layered PLG
+scaffolds for in vivo plasmid delivery. Biomaterials. 2009; 30(3):394–401. [PubMed: 18929408]
+44. Murphy WL, Peters MC, Kohn DH, Mooney DJ. Sustained release of vascular endothelial growth
+factor from mineralized poly(lactide-co-glycolide) scaffolds for tissue engineering. Biomaterials.
+2000; 21(24):2521–2527. [PubMed: 11071602]
+45. Riddle KW, Kong HJ, Leach JK, Fischbach C, Cheung C, Anseth KS, Mooney DJ. Modifying the
+proliferative state of target cells to control DNA expression and identifying cell types transfected
+in vivo. Mol Ther. 2007; 15(2):361–368. [PubMed: 17235315]
+46. Bartholdi D, Rubin BP, Schwab ME. VEGF mRNA induction correlates with changes in the
+vascular architecture upon spinal cord damage in the rat. Eur J Neurosci. 1997; 9(12):2549–2560.
+[PubMed: 9517460]
+47. George ML, Eccles SA, Tutton MG, Abulafi AM, Swift RI. Correlation of plasma and serum
+vascular endothelial growth factor levels with platelet count in colorectal cancer: clinical evidence
+of platelet scavenging? Clin Cancer Res. 2000; 6(8):3147–3152. [PubMed: 10955796]
+48. Pantely GA, Porter JM. Therapeutic angiogenesis: time for the next phase. J Am Coll Cardiol.
+2000; 36(4):1245–1247. [PubMed: 11028478]
+49. Brauker JH, Carr-Brendel VE, Martinson LA, Crudele J, Johnston WD, Johnson RC.
+Neovascularization of synthetic membranes directed by membrane microarchitecture. J Biomed
+Mater Res. 1995; 29(12):1517–1524. [PubMed: 8600142]
+50. Lim TC, Chian KS, Leong KF. Cryogenic prototyping of chitosan scaffolds with controlled micro
+and macro architecture and their effect on in vivo neo-vascularization and cellular infiltration. J
+Biomed Mater Res A. 94 Apr.:1303–1311.
+51. Ozawa CR, Banfi A, Glazer NL, Thurston G, Springer ML, Kraft PE, McDonald DM, Blau HM.
+Microenvironmental VEGF concentration, not total dose, determines a threshold between normal
+and aberrant angiogenesis. J Clin Invest. 2004; 113(4):516–527. [PubMed: 14966561]
+52. von Degenfeld G, Banfi A, Springer ML, Wagner RA, Jacobi J, Ozawa CR, Merchant MJ, Cooke
+JP, Blau HM. Microenvironmental VEGF distribution is critical for stable and functional vessel
+growth in ischemia. Faseb J. 2006; 20(14):2657–2659. [PubMed: 17095533]
+53. Richardson TP, Peters MC, Ennett AB, Mooney DJ. Polymeric system for dual growth factor
+delivery. Nat Biotechnol. 2001; 19(11):1029–1034. [PubMed: 11689847]
+54. Van Den Bosch L, Storkebaum E, Vleminckx V, Moons L, Vanopdenbosch L, Scheveneels W,
+Carmeliet P, Robberecht W. Effects of vascular endothelial growth factor (VEGF) on motor
+neuron degeneration. Neurobiol Dis. 2004; 17(1):21–28. [PubMed: 15350962]
+De Laporte et al. Page 13
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1.
+Protein encapsulation efficiency and protein retention after leaching. A) VEGF and FGF-2
+encapsulation efficiency after microsphere encapsulation and collection. B) VEGF and
+FGF-2 retention after leaching bridges for 1 h. Proteins were incorporated using either the
+encapsulation only or mixing only approaches. Significant differences between protein
+conditions are denoted by an asterisk (p<0.05).
+De Laporte et al. Page 14
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2.
+Protein release from bridge. Bridges were fabricated with VEGF (filled line) or FGF-2
+(dotted line) in three different manners: mixing only (squares), encapsulation only
+(triangles), or a combination of both encapsulation and mixing (circles). The amount of
+protein left in the bridge after leaching was set as 100%.
+De Laporte et al. Page 15
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3.
+VEGF and FGF-2 activity during in vitro release. Phosphorylation of (A) VEGF and (B)
+FGF-2 receptors was assessed by western blot. Legend: 1. control (100 ng/ml VEGF or 50
+ng/ml FGF-2), 2. mixing 24 hours, 3. encapsulation 24 hours, 4. mixing 5 days, 5.
+encapsulation 5 days, 6. mixing 10 days, 7. encapsulation 10 days, 8. mixing 20 days, 9.
+encapsulation 20 days, 10. mixing 42 days, 11. encapsulation 42 days, 12. negative control
+(PBS).
+De Laporte et al. Page 16
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 4.
+ELISA for VEGF at the injury and in adjacent tissue at 1 week post implantation. A)
+Schematic of the spinal cord injury and segments that were analyzed for ELISA, adapted
+from De Laporte L, Yang Y, Zelivyanskaya ML, Cummings BJ, Anderson AJ, Shea LD.
+Plasmid releasing multiple channel bridges for transgene expression after spinal cord injury.
+Originally published in Molecular Therapy 2009;17(2):318–26 [6], with permission of the
+Nature Publishing Group. B) VEGF levels in different segments for bridges loaded with and
+without VEGF. Significant differences between conditions are denoted by an asterisk
+(p<0.05).
+De Laporte et al. Page 17
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 5.
+A) Cured Microfil injection compound that formed a three-dimensional cast of the rat’s
+spinal cord vasculature. From left to right: cross section and longitudinal view. B) 3D
+reconstructions of micro-CT scans of bridge implants in spinal cord hemisection model at 6
+weeks post implantation. From left to right: bridge implant without protein loading, bridge
+implant with 1 µg VEGF encapsulated and 1 µg VEGF mixed, bridge implant with 1 µg
+VEGF encapsulated and 1 µg FGF-2 mixed, bridge implant with 2 µg VEGF encapsulated
+and 1 µg VEGF mixed. The red dotted line marks the contours of the bridge at the implant
+site. The green dotted line marks the contour of some residual Gelfoam that appeared on
+microCT. The Gelfoam was used to cover the injury site, and mostly removed upon tissue
+retrieval.
+De Laporte et al. Page 18
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 6.
+Endothelial cell infiltration in bridge at 6 weeks post implantation. A) RECA stain (brown):
+from left to right: bridge containing 4 µg of VEGF encapsulated within microspheres and 2
+µg of FGF-2 and VEGF mixed (high protein), and bridge without protein. The red dotted
+line marks the contours of the bridge at the implant site. Scale bar: 200 µm. B) Blood
+vessels adjacent to the bridge containing 4 µg of VEGF encapsulated within microspheres
+and 1 µg of FGF-2 and VEGF mixed (medium protein). Scale bar: 200 µm. C) Quantifcation
+of RECA staining for the three conditions.
+De Laporte et al. Page 19
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 7.
+Neurite ingrowth with bridge at 6 weeks post implantation. A) Neurofilament stain (brown)
+of bridge implanted with the highest VEGF/FGF-2 protein dose. The red dotted line marks
+the contours of the bridge at the implant site. Scale bar: 500 µm. B) Quantification of
+positive NF stain for bridge implants without VEGF/FGF-2, and bridge implants with a
+medium and high dose of VEGF/FGF-2 protein.
+De Laporte et al. Page 20
+J Biomed Mater Res A. Author manuscript; available in PMC 2012 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript

@@ -1,0 +1,813 @@
+Non-viral gene therapy for spinal cord regeneration
+Li Yao1, Sheng Yao2, Bill Daly3, William Hendry1, Anthony Windebank4, and Abhay Pandit3
+1Department of Biological Sciences, Wichita State University, Wichita, KS, USA 2Section of
+Cellular Pathology and Molecular Genetics, Department of Molecular and Clinical Cancer
+Medicine, Institute of Translational Medicine, University of Liverpool, Liverpool, UK 3Network of
+Excellence for Functional Biomaterials, National University of Ireland, Galway, Ireland
+4Department of Neurobiology, Mayo Clinic, Rochester, MN, USA
+Abstract
+Spinal cord injury normally results in life-long disabilities and a broad range of secondary
+complications. Advances in therapeutic delivery during the past few decades offer hope for such
+victims. However, the limited functional improvement shown in in vivo studies hinders effective
+therapeutic application in clinical practice. Recent studies showed that gene vectors can transfect
+cells present in the lesion of an injured spinal cord (endogenous cells) and thereby produce
+therapeutic molecules with long-lasting biological effects that promote neural tissue regeneration.
+In this article we review recent advances in non-viral gene delivery into neural cells and their use
+for gene therapy in spinal cord injury.
+Keywords
+Spinal cord; gene therapy; delivery; biomaterials; regeneration
+Introduction
+Spinal cord injury (SCI) can cause life-long disabilities and a broad range of secondary
+complications. Primary trauma to the spinal cord causes secondary injuries due to a complex
+cascade of molecular and cellular events which lead to loss of neurons, demyelination, and
+formation of a glial scar [1]. Advances in therapeutic methods during the past a few decades
+offer hope for SCI victims. However, the limited evidence so far of functional improvement
+in in vivo studies has hindered the advancement of therapeutic applications in clinical
+practice.
+Cell therapy involves transplantation of a variety of cell types, such as Schwann cells [2],
+olfactory ensheathing glial cells [3] and neural stem cells [4]. Implantation of genetically
+engineered stem cells that secrete neurotrophic factors is a promising cell therapy approach.
+However, the behaviour of implanted cells is not well understood and not well controlled in
+© 2012 Elsevier Ltd. All rights reserved
+Corresponding author: Yao, L. (li.yao@wichita.edu).
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Teaser: Non-viral gene vectors can transfect cells present in the lesion of an injured spinal cord and thereby produce therapeutic
+molecules with long-lasting biological effects that promote neural tissue regeneration.
+NIH Public Access
+Author Manuscript
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+Published in final edited form as:
+Drug Discov Today. 2012 September ; 17(17-18): 998–1005. doi:10.1016/j.drudis.2012.05.009.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+a hostile microenvironment. Biomaterial scaffolds designed to reconstruct the architecture of
+an injured spinal cord can provide structural guidance for axonal regeneration and prevent
+scar tissue infiltration [5–9]. Despite recent advances, functional improvement is restricted
+when the regenerated axons reach the limits of their regrowth capacity in the channels of
+such engineered conduits. Also of limited effectiveness were molecular therapies designed
+to promote axonal regeneration, such as application of neurotrophins [10] and the targeting
+of inhibiting factors (such as chondroitinase ABC) [11,12]. Such molecules delivered
+directly into cerebrospinal fluid or into the intraparenchymal space functioned only
+transiently due to a short half-life and rapid elimination by a combination of cerebrospinal
+fluid flow and cell metabolism. In addition, repeated injection or continuous infusion of the
+therapeutic into the spinal cord often causes additional trauma and infection.
+Gene vectors that transfect cells present in the lesion of an injured spinal cord (endogenous
+cells) and thereby produce therapeutic molecules may create long-lasting biological effects.
+Although recombinant viral vectors are efficient for cell transduction and show promise for
+gene delivery into neurons, their therapeutic potential is limited by their immunogenicity
+[13,14], toxicity, and a high risk of insertional mutagenesis that may induce neoplasia
+[15,16]. Non-viral gene vectors provide a safer alternative approach for gene therapy.
+Therapeutic gene delivery by non-viral vectors generates functional proteins and the vectors
+remain episomal in the host cell. As non-viral gene vectors are not restricted to the size of
+delivered DNA [17], they have higher DNA-carrying capacity than viral vectors. Non-viral
+vectors can also be modified to target gene delivery to specific neuronal subpopulations
+[18,19].
+In the past two decades, nanocarriers were developed to improve gene transfection
+efficiency with lower cytotoxicity. Gene carriers based on the cationic lipid,
+polyethylenimine (PEI), and dendritic and hyperbranched polymer were investigated for
+their neural cell transfection ability in vitro. Cell transfection efficacy was enhanced by
+improving nuclear import of the plasmid DNA and by targeting the transfection at specific
+cell populations [18,19]. In vivo gene transfection of local reactive cells with non-viral
+vectors was assessed in a SCI model [6,7]. Vectors delivering therapeutic genes, such as B-
+cell lymphoma-2 (Bcl-2) and glial cell line-derived neurotrophic factor (GDNF) in vivo
+yielded neuroprotective effects and enhanced neurogenesis [20,21]. In addition, biomaterial
+scaffolds such as poly(lactide-co-glycolide) (PLG) bridges that provide structural guidance
+for spinal neural tissue regeneration and a reservoir for the sustained gene delivery have
+been investigated for spinal cord repair in recent years [6,7,22]. In this review we will focus
+on the recent advances of neural cell transfection using non-viral gene vectors and their use
+for gene delivery in spinal cord regeneration after injury.
+Pathology of SCI and cell targeting for gene therapy
+In primary SCI, mechanical trauma causes direct neurological damage that induces neural
+tissue necrosis at the point of injury. Then a secondary injury occurs by a cascade of cellular
+and molecular reactions that may progress over several days or weeks [23–25]. SCI quickly
+induces a series of cellular events that occurs at an early stage after injury that may persist
+for months. Several different cell types migrate to the site of SCI and contribute to the
+inflammatory response and scar tissue formation. Within a few minutes post-SCI, myeloid
+cells are activated and create a heterogeneous multifunctional network that can either cause
+damage or promote repair of spinal cord neural tissue [26]. Microglia are among the first
+such cells to migrate into the lesion from the surrounding tissue [27,28]. Neutrophils arrive
+between 3 and 24 hours [29–31] and monocytes are the next to arrive 2–3 days post-injury
+[31]. These cells damage the neural tissue by releasing proinflammatory cytokines and
+Yao et al. Page 2
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+proteases. However, they also help to remove injured tissue debris and they release
+protective cytokines that promote neuronal regeneration and tissue repair. In response to
+demyelination, oligodendrocyte progenitor cells that produce the proteoglycan neuroglycan
+2 (NG2) and express platelet-derived growth factor-α receptor on the cell membrane are
+recruited from the grey and white matter for remyelination of regenerated spinal cord axons
+at the site of injury [32,33]. Damage to the spinal cord meningeal surface also initiates
+invasion of fibroblastic meningeal cells that restore the continuous layer of cells around
+neural tissue. Multipotential progenitor cells line the central canal of the adult rodent spinal
+cord [34]. In response to SCI, these multipotential progenitor cells (also known as
+ependymal cells) proliferate dramatically and differentiate into astrocytes and
+oligodendrocytes [35]. Astrocytes become the main cellular component of the glial scar
+because they proliferate and migrate into the injured area to eventually fill the vacant space.
+Following SCI, therapeutic approaches strive to improve axonal regeneration by enhancing
+guided axonal growth and counter the influence of inhibitory factors. An axon growth-
+promoting molecule may directly promote axonal regrowth or indirectly enhance axonal
+regeneration by blocking inhibitory signals. The regenerated axons may subsequently
+establish new synapses to restore physiological function [36]. The strategy of non-viral gene
+therapy for regeneration of injured spinal cord is to transfect the endogenous cells with gene
+vectors that lead to the expression of functional molecules, such as growth factors, in a
+sustained fashion and thereby generate long-lasting biological effects (Figure 1). In a recent
+study, multichannelled neural conduits delivering plasmids encoding either firefly luciferase
+or EGFP[RE1] were implanted into the rat spinal cord after lateral hemisection surgery. Three
+days after implantation, the gene was expressed at the injury site. The endogenous cells in
+the lesion of an injured spinal cord, such as Schwann cells, oligodendrocytes, macrophages,
+reactive astrocytes, fibroblasts, and endothelial cells were seen in the pores and channels of
+the neural conduits and they did contain the plasmid-delivered genes [7]. This study
+demonstrated successful transfection of reactive and proliferative cells with non-viral
+vectors and that such delivery of a therapeutic gene may regulate cell and tissue organization
+and promote axonal growth.
+Non-viral vector gene transfection of glial cells
+Glial cells are the major endogenous cells involved in the host healing response associated
+with SCI. In vitro studies of gene transfection into glial cells provide important insights into
+how to accomplish the in vivo delivery of therapeutic genes to treat spinal cord injuries.
+Studies showed that nanocarriers promote the efficiency of gene transfection into cultured
+primary glial cells (Table 1) [37–40]. An early study showed that liposomes would enable
+transfection of mature astrocyte monolayers with efficiencies of 3.3% [37]. When the same
+astrocyte cultures were lipofected repeatedly, transfection efficiency of the β-galactosidase
+gene was improved from 2.6 to 17% [38]. The disulfide-containing cationic lipid, 1′,2′
+dioleoyl-sn-glycero-3′-succinyl-2-hydroxyethyl disulfide ornithine conjugate (DOGSDSO),
+improved gene transfection efficiency in astroglial and microglial cultures from newborn rat
+cerebral cortex. The reversible disulfide bond in DOGSDSO was cleaved by the relatively
+high intracellular concentrations of reductive substances in the cytoplasm. The rapid
+intracellular degradation of the lipid increased the content of free DNA and decreased the
+toxicity of the reagent [39]. A recent study reported a 65% transfection efficiency into a rat
+spinal cord-derived glial cell line on lipoplex [DOTAP:PC (10:1)-pGFP]-precoated
+coverslips [40].
+PEI-complexed DNA can transfect rat brain-derived glial and neuronal cell lines. A PEI
+with a molecular weight of 25 kDa is more effective than a PEI with a molecular weight of
+50–100 kDa for glial cell transfection. For neuronal cell transfection, PEI of 50–100 kDa is
+Yao et al. Page 3
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+more effective than PEI of 25 kDa [41]. When transfected with Lipofectamine or PEI-
+complexed plasmid DNA, rat C6 glial cells and primary astrocytes generated the same total
+level of transgene product. However, Lipofectamine transfected significantly more cells than
+PEI while the cells transfected with PEI produced more transgene products per cell [42].
+The negatively charged phosphate groups of the DNA backbone interact electrostatically
+with the positively charged amino groups of the dendritic or hyperbranched polymers and
+the DNA. This DNA–polymer interaction reorganized the DNA into small packets for
+efficient cellular delivery. A polyamidoamine (PAMAM) dendrimer grafted with arginine
+(Arg) for DNA delivery provided high transfection efficiency and low cytotoxicity in
+primary cortical cells, such as astrocytes, microglia, and oligodendrocytes compared with
+other gene carriers such as native PAMAM, PEI, and Lipofectamine. Efficient gene knock-
+down also resulted following transfection of cultured primary cortical cells with PAMAM-
+Arg polyplexed plasmid encoding HMGB1 shRNA [43]. These studies show that the
+transfection efficiency of glial cells was improved using synthetic gene vectors. Transfection
+of these cells with therapeutic genes and the expression of growth factors will provide
+neuroprotective effects and enhance axonal regeneration in the spinal cord repair.
+Non-viral vector gene transfection of neurons
+The transfection efficiency of primary neurons is normally low. Improvement of transfection
+efficiencies for neurons may significantly improve spinal cord axonal regeneration. Cationic
+lipids have been used extensively to transfect cultured neurons. In the earlier studies, neuron
+transfection efficiency was low (1–3%) for cultured primary neuronal cells [44–46]. Several
+experimental variables such as cell density, liposome-DNA concentrations, and liposome-
+DNA complexing time may affect the transfection efficiency and cell viability. The presence
+or absence of antibiotics and serum in the cell culture media can also affect cell transfection
+efficiency [47]. It was reported that Lipofectamine 2000 significantly improved transfection
+efficiency in primary neurons (20–25%) [48]. A recent study found low cytotoxicity and
+high transfection efficiency (16%) for the Arg-Glu2C(16) lipoplexes in neuronal SH-SY5Y
+cells. Because of the low cytotoxicity of Arg-Glu2C(16) lipoplexes, the proportion of
+transfected cells could be increased to 25% by increasing the concentration of lipoplexes
+applied to the cells [49]. Delivery of therapeutic genes by biomaterial scaffolds was also
+tested in vitro. In one study, PC12 cells were transfected with nerve growth factor (NGF)
+lipoplexes released from PLG scaffolds [50] and showed that biomaterials can act
+effectively as a carrier for non-viral gene vector delivery.
+Plasmid DNA polyplexed with PEI also yielded significant gene expression in cultured
+chick embryonic neurons and in newborn mouse brains. It is likely that PEI generates higher
+gene delivery efficiency than poly-l-lysine (PLL) because of its enhanced endosomal release
+capability [51,52]. Real-time confocal particle tracking showed that the intracellular
+transport properties of PEI/DNA polyplexes and adenoviral vectors were similar. After
+transfection into primary neurons, both PEI/DNA polyplexes and adenoviruses quickly
+accumulated near the cell nucleus. The PEI/DNA polyplexes moved slower in neurites than
+in the cell bodies, whereas adenoviruses moved at equal rates in both cell compartments.
+However, PEI/DNA polyplexes and adenoviruses followed different intracellular trafficking
+pathways. The majority of PEI/DNA polyplexes trafficked through the endolysosomal
+pathway and ended up in late endosomes or lysosomes, whereas adenoviruses efficiently
+escaped from endosomes [53]. When PEI-based polyplexes were grafted with the
+hydrophilic polymer poly(ethylene glycol) (PEG) and administered to the central nervous
+system (CNS), particle aggregation and cellular toxicity of the polymer was reduced [54,55].
+Both viral and non-viral vectors actively traffic toward the nucleus through the microtubule
+network and its associated motor proteins rather than by passive diffusion through the
+Yao et al. Page 4
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+cytoplasm [56,57]. Microtubule-based vector transport is a critical function for neuron
+transfection because it provides communication between the cell body and axon regions.
+Alternatively, retrograde transport of non-viral vectors following uptake into neuronal cells
+does occur [53,58] and PEI/DNA complexes undergo retrograde transport from axon
+terminals to the neuronal soma in primary neurons [53]. Although these studies demonstrate
+development of nanocarriers for the gene delivery into neurons, the transfection efficiency is
+still low and thus prevents its clinical application to the treatment of neurological disorders.
+The nuclear membrane is recognized as a major barrier to the transfection of non-dividing
+cells. Thus, improved designs of gene vectors targeting the mechanism of nuclear
+importation may significantly enhance neuron transfection.
+Neuron-specific gene transfection by cell receptor targeting
+Internalization of vectors into a cell requires that the vector first associates with the cell
+plasma membrane. By binding to cell membrane lipids, non-viral vectors can establish non-
+specific associations with most cell types. However, a strategy based on ligand binding to
+specific membrane receptor proteins would prevent widespread delivery to off-target cells.
+Vector expression in specific cell types can accurately regulate cellular functions and limit
+unnecessary host inflammatory responses. Neurons express various classes of receptors
+including those for neuropeptides, neurotrophins and neurotoxins. Targeting such receptors
+would likely facilitate specific non-viral gene delivery.
+Plasmid DNA polyplexed with PLL and conjugated with neurotensin (NT) underwent
+targeted uptake by cells expressing the high-affinity neurotensin receptor [19]. Neurotrophin
+receptors are expressed by specific neuron subtypes such as dorsal root ganglia (DRG)
+neurons, sympathetic neurons, and basal forebrain cholinergic neurons. When plasmid DNA
+and a targeting peptide containing the NGF loop 4 hairpin motif were complexed with PEI,
+they efficiently and specifically transfected DRG neurons expressing the NGF receptor
+TrkA [18]. Invasion of neurotoxins into the targeted neurons is an efficient process. After
+internalization of tetanus toxin into motor neuron presynaptic terminals, the molecules
+undergo efficient retrograde transport. After self-assembled vectors composed of PEI and
+tetanus toxin fragment c (TTC) were specifically transfected into cultured DRG neurons,
+they did express neurotrophic factor [59]. PEI was conjugated with Tet1 which mimics the
+receptor binding properties of TTC for specific cell transfection. The Tet1-modified PEI/
+DNA polyplexes were specifically taken up by cells expressing receptors for TTC [60,61].
+When plasmid DNA complexed with Tet1-PEG-PEI was injected into the lateral ventricle,
+only adult neural progenitor cells were specifically transfected whereas untargeted PEG-PEI
+complexes transfected a heterogeneous population of cells [62]. These works suggest that
+neuron receptor-targeted gene transfection can provide specific cellular internalization and
+avoid undesired gene expression in neighbouring tissues.
+Nuclear targeting of gene transfection
+Microinjection of plasmid DNA into the cell nucleus resulted in significantly higher
+transgene expression than a cytoplasmic injection [63]. The nuclear envelope is a major
+barrier to effective gene transfer and the efficacy of nuclear delivery determines the level of
+gene expression [63]. The processes of DNA replication and RNA transcription in the
+nucleus are separated from the translation of mRNA and protein production in the cytoplasm
+by the nuclear membrane. Breakdown of the nuclear membrane would enhance delivery of
+plasmids into a cell nucleus.
+Most non-viral gene transfection strategies depend on cell division. However, most tissue
+cells are non-dividing which presents a major barrier to therapeutic efficacy. It is recognized
+that the nuclear pore complex (NPC) regulates access of plasmid DNA to the nucleus
+Yao et al. Page 5
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+[63,64]. Proteins up to 40 kDa, particles of approximately 9 nm, or DNA molecules of 210–
+350 bp can passively diffuse into the nucleus through the NPC which is composed of 30
+different nucleoporins [65,66]. Thus the access of DNA complexes (100–500 nm) and
+plasmids to the nucleus is severely limited. However, the nuclear membrane is selectively
+permeable to molecules [i.e. heterogeneous nuclear ribonucleoprotein A1 (hnRNP),
+transcription factors, polymerase] containing nuclear localization signals (NLSs).
+Consequently, the incorporation of NLS peptides into non-viral gene carriers was
+investigated as a means to promote the nuclear uptake of DNA vectors [56].
+The first NLS peptide sequence discovered was the sequence PKKKRKV (a monopartite
+NLS) in the SV40 large T-antigen [67]. This sequence used for non-viral gene delivery was
+named DNA nuclear targeting sequence (DTS). Non-viral gene vectors conjugated with
+NLS peptide improved the efficiency of gene delivery into neurons and increased gene
+expression. The non-classical NLS of heterogeneous nuclear ribonucleoprotein (hnRNP) A1
+was termed M9 and M9-assisted plasmid delivery resulted in 20–100-fold higher
+transfection efficiency than lipofection alone. The enhanced gene transfection occurred after
+in vitro transfection into embryonic-derived retinal ganglion cells, rat pheochromocytoma
+(PC12) cells, embryonic rat ventral mesencephalon neurons, and the clinically relevant
+human NT2 cells or retinoic acid-differentiated NT2 neurons [68]. Those results suggest that
+the non-classical NLS is more potent than the classical NLS (SV40) for nuclear targeting in
+post-mitotic neurons.
+Although nuclear localization sequence [RE2]peptides can promote the nuclear uptake of
+DNA, the extent of uptake is highly variable and, to date, is generally disappointing.
+Although luciferase reporter activity increased significantly in one study [69], others [70,71]
+found no effect or only modest increases in gene expression following linkage of nuclear
+localization sequence peptides to the DNA vector. Further studies sought to optimize the
+DTS so as to improve non-viral gene delivery. For instance, consensus sequences for nuclear
+factor kappa B (NFκB) [72,73] and glucocorticoid responsive elements (GREs) [74] were
+introduced into the polyplexed plasmids to enhance nuclear uptake. Farrow [75] reported a
+hybrid mRNA/DNA gene delivery system that could bypass the nuclear barrier for neuron
+transfection and thus facilitate cytoplasmic gene expression. This study demonstrated that
+the co-delivery of mRNA encoding the T7 RNA polymerase (T7 RNAP) along with a T7-
+driven plasmid produced a 10–2,200 fold higher gene expression in primary dorsal root
+ganglion neuronal (DRGN) cultures compared to a cytomegalovirus (CMV)-driven plasmid.
+Improvement of neuronal regeneration in SCI with in vivo gene transfection
+Gene delivery into the spinal cord is a promising approach for treatment of spinal cord
+traumatic injury. SCI in adult mammals causes atrophy or loss of axotomized neurons.
+Injection of plasmids encoding a therapeutic gene had neuroprotective effects. In an adult
+Sprague-Dawley rat spinal cord hemisection study, axons from the right side of Clarke's
+Nucleus (CN) were cut unilaterally at the T8 level. A lipofectamine-complexed plasmid
+encoding Bcl-2 was injected into the right side of segment T8 in the normal spinal cord, or
+just caudal to the hemisection site. The atrophy and loss of axotomized Clarke's nucleus
+neurons in adult rats were reduced after intraspinal injection of the complexes [20]. Further
+studies assessed whether the same treatment protects axotomized red nucleus (RN) neurons.
+Plasmids encoding the human Bcl-2 gene were complexed with cationic lipids and then the
+complexes were injected just rostral to the hemisection site and 87% of RN neurons
+survived. These results indicate that intraspinal administration of complexed plasmids
+encoding the Bcl-2[RE3] gene can prevent retrograde cell loss and reduce atrophy of
+axotomized RN and Clarke's nucleus neurons [76]. Another study showed that in vivo
+transfer of lipoplexed plasmids encoding GDNF promoted axonal regeneration and
+Yao et al. Page 6
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+enhanced locomotion function recovery [16]. After lipoplexed plasmid encoding GDNF was
+injected into the injured spinal cord, GDNF expression increased in the injected areas 7 days
+post-injection. Four weeks later, anterograde tract tracing confirmed regeneration of the
+corticospinal tracts. Inclined plane test and Basso, Beattie, and Bresnahan (BBB) locomotor
+scores showed improved locomotion function of rat hind limbs. Insulin-like growth factor–I
+(IGF-I) is a neurotrophic factor that promotes the growth of projection neurons. Plasmids
+encoding IGF-I that were injected into the rat's tail vein 30 minutes after spinal cord
+hemisection induced a series of molecular events including improved activation of Akt and
+attenuated activation of GSK-3b, p35, and tau hyperphosphorylation [77]. The IGF-I gene
+transfer promoted motor recovery, anti-inflammatory responses, and antiapoptotic effects
+after SCI. Ultrasound microbubble-mediated transfection was applied to the spinal cord in
+adult rats to improve gene transfection efficiency. The naked plasmid DNA and microbubble
+mixture was injected into cerebrospinal fluid by lumbar puncture and then the spinal cord
+was exposed to ultrasound. The ultrasound treatment significantly increased luciferase
+expression compared with naked plasmid DNA alone [78].
+The pathological disorder of SCI progresses over long periods of time and it may need the
+stable expression of functional genes at therapeutic levels for months. To achieve prolonged
+transgene expression in the rat spinal cord, repeated intrathecal administration of PEI-
+complexed plasmid DNA was performed [55]. The polyplexes were injected into the lumbar
+subarachnoid space. Single injections of polyplexes generated transgene expression in the
+spinal cord at 40-fold higher levels than did naked plasmid DNA. Repeated injection
+reduced gene expression because of apoptotic cell death. However, polyethylene glycol
+(PEG)-grafted PEI polyplexed plasmids did not reduce gene expression after repeated
+intrathecal injections. Although lumbar puncture is a routine clinical procedure and repeated
+injection of plasmids complexed with PEG-grafted PEI into the spinal cord may prolong the
+time span of in vivo transgene expression, it increases the chance of infection and extra
+trauma to the spinal cord.
+Biomaterial scaffolds with optimized geometries provide guidance architecture to direct
+tissue formation after SCI and provide a reservoir for prolonged gene delivery (Figure 2).
+Lipoplexed plasmid DNA was immobilized onto the multichannel poly[lactide-co-glycolide]
+(PLG) neural conduits and the neural conduits were implanted in the hemisectioned rat
+spinal cord [6]. Transgene expression levels in the conduits delivering lipoplexes were
+twofold higher than that of naked plasmid and the expression persisted for three weeks. In a
+further study, multichannel neural conduits with encapsulated plasmids implanted into the
+hemisectioned spinal cord resulted in axon growth across the channels and high gene
+expression levels at the implant site. The synergy of gene delivery with scaffold architecture
+may induce improved tissue regeneration with complex architectures [7]. Autologous tissue
+derived from preligated peripheral nerves was fabricated as neural conduit to carry non-viral
+vector expressing brain-derived neurotrophic factor and the fabricated conduit was grafted
+into wounded rat spinal cord. The implanted conduit in spinal cord generated less immune-
+response and improved axonal regeneration and motor function recovery [79].
+In a recent study, we fabricated multichannel collagen conduits delivering plasmids
+encoding neurotrophin-3 polyplexed with PEGylated hyperbranched 2-
+(dimethylamino)ethyl methacrylate (DMAEMA) for implantation into the transected spinal
+cord. We observed aligned axon growth through the conduit channels one month post-
+surgery. The conduits delivering pNT-3 polyplexes induced significantly more axonal
+growth compared with control conduits (Figure 3). The increased NT-3 levels in the neural
+tissue implanted with conduits carrying pNT-3 polyplexes was measured using ELISA. Our
+results indicate that functionalized biomaterial scaffolds designed to improve axonal
+regeneration by enhancing guided axonal growth and by countering the influence of
+Yao et al. Page 7
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+inhibitory factors provide a promising approach for the repair of SCI. In addition to gene
+delivery by biomaterial scaffolds, the transplantation of gene-modified cells is another
+promising approach for gene therapy. Olfactory-ensheathing glia (OEG) transfected with
+cationic lipoplexed plasmids encoding NT3 was implanted into the rat spinal cord after
+contusion. Three months later, regeneration of axons was observed and hind limb function
+of rats was improved [80]. Because of the complex nature of injured spinal cord, an efficient
+therapeutic effect may be achieved by a combinatorial application of gene therapy with
+biomaterials and cell transplantation.
+Concluding remarks
+The target of spinal cord regeneration and functional recovery is to enhance axonal re-
+growth and control the inhibitory environment. Non-viral gene vectors that transfect the
+endogenous cells and produce therapeutic molecules may generate long-lasting biological
+effects. Recent advances in nanocarriers for gene delivery show promising results in both
+glial cell and neuronal transfection. However, to maximize the therapeutic potential of non-
+viral gene therapy, improved gene transfection efficiency is critical. Studies have focused on
+the major physical barriers encountered in non-viral gene delivery such as the cell and
+nuclear membrane and the latter seems to be the greater challenge in neural gene therapy.
+Implantation of engineered neural conduits in the injured spinal cord simultaneously
+provides structural guidance for neural tissue regeneration and acts as a reservoir for
+sustained gene delivery. The function of combinatorial application of biomaterial scaffolds
+and gene vectors may alleviate the low transfection efficiency of non-viral vectors.
+Delivered by the scaffolds, gene vectors may sustainably transfect endogenous cells and
+generate a long-lasting biological effect.
+References
+1. Profyris C, et al. Degenerative and regenerative mechanisms governing spinal cord injury.
+Neurobiol. Dis. 2004; 15:415–436. [PubMed: 15056450]
+2. Li Y, Raisman G. Schwann cells induce sprouting in motor and sensory axons in the adult rat spinal
+cord. J. Neurosci. 1994; 14:4050–4063. [PubMed: 8027762]
+3. Li Y, et al. Repair of adult rat corticospinal tract by transplants of olfactory ensheathing cells.
+Science. 1997; 277:2000–2002. [PubMed: 9302296]
+4. Ogawa Y, et al. Transplantation of in vitro-expanded fetal neural progenitor cells results in
+neurogenesis and functional recovery after spinal cord contusion injury in adult rats. J. Neurosci.
+2002; 69:925–933.
+5. Moore MJ, et al. Multiple-channel scaffolds to promote spinal cord axon regeneration. Biomaterials.
+2006; 27:419–429. [PubMed: 16137759]
+6. De Laporte L, et al. Local gene delivery from ECM-coated poly(lactide-co-glycolide) multiple
+channel bridges after spinal cord injury. Biomaterials. 2009; 30:2361–2368. [PubMed: 19144400]
+7. De Laporte L, et al. Plasmid releasing multiple channel bridges for transgene expression after spinal
+cord injury. Mol. Ther. 2009; 17:318–326. [PubMed: 19050701]
+8. Olson HE, et al. Neural stem cell- and Schwann cell-loaded biodegradable polymer scaffolds
+support axonal regeneration in the transected spinal cord. Tissue Eng. Part A. 2009; 15:1797–1805.
+[PubMed: 19191513]
+9. Chen BK, et al. Comparison of polymer scaffolds in rat spinal cord: a step toward quantitative
+assessment of combinatorial approaches to spinal cord repair. Biomaterials. 2011; 32:8077–8086.
+[PubMed: 21803415]
+10. Schnell L, et al. Neurotrophin-3 enhances sprouting of corticospinal tract during development and
+after adult spinal cord lesion. Nature. 1994; 367:170–173. [PubMed: 8114912]
+11. Jefferson SC, et al. Chondroitinase ABC promotes recovery of adaptive limb movements and
+enhances axonal growth caudal to a spinal hemisection. J. Neurosci. 2011; 31:5710–5720.
+[PubMed: 21490212]
+Yao et al. Page 8
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+12. Huang WC, et al. Gait analysis of spinal cord injured rats after delivery of chondroitinase ABC and
+adult olfactory mucosa progenitor cell transplantation. Neurosci. Lett. 2010; 472:79–84. [PubMed:
+20079803]
+13. Dewey RA, et al. Chronic brain inflammation and persistent herpes simplex virus 1 thymidine
+kinase expression in survivors of syngeneic glioma treated by adenovirus-mediated gene therapy:
+implications for clinical trials. Nat. Med. 1999; 5:1256–1263. [PubMed: 10545991]
+14. Peden CS, et al. Circulating anti-wild-type adeno-associated virus type 2 (AAV2) antibodies
+inhibit recombinant AAV2 (rAAV2)-mediated, but not rAAV5-mediated, gene transfer in the
+brain. J. Virol. 2004; 78:6344–6359. [PubMed: 15163728]
+15. Marshall E. Clinical research. Gene therapy a suspect in leukemia-like disease. Science. 2002;
+298:34–35. [PubMed: 12364755]
+16. Marshall E. Gene therapy. Second child in French trial is found to have leukemia. Science. 2003;
+299:320. [PubMed: 12531981]
+17. de Jong G, et al. Efficient in-vitro transfer of a 60-Mb mammalian artificial chromosome into
+murine and hamster cells using cationic lipids and dendrimers. Chromosome Res. 2001; 9:475–
+485. [PubMed: 11592482]
+18. Zeng J, et al. Self-assembled ternary complexes of plasmid DNA, low molecular weight
+polyethylenimine and targeting peptide for nonviral gene delivery into neurons. Biomaterials.
+2007; 28:1443–1451. [PubMed: 17156837]
+19. Arango-Rodriguez ML, et al. Biophysical characteristics of neurotensin polyplex for in vitro and in
+vivo gene transfection. Biochim. Biophys. Acta. 2006; 1760:1009–1020. [PubMed: 16730907]
+20. Takahashi K, et al. DNA plasmid that codes for human Bcl-2 gene preserves axotomized Clarke's
+nucleus neurons and reduces atrophy after spinal cord hemisection in adult rats. J. Comp. Neurol.
+1999; 404:159–171. [PubMed: 9934991]
+21. Lu KW, et al. Cationic liposome-mediated GDNF gene transfer after spinal cord injury. J.
+Neurotrauma. 2002; 19:1081–1090. [PubMed: 12482120]
+22. De Laporte L, et al. Patterned transgene expression in multiple-channel bridges after spinal cord
+injury. Acta Biomater. 2010; 6:2889–2897. [PubMed: 20167291]
+23. Privat A. Pathophysiology and treatment of spinal cord injury. Bull. Acad. Natl Med. 2005;
+189:1109–1117. [PubMed: 16433437]
+24. Schwab JM, et al. Experimental strategies to promote spinal cord regeneration–an integrative
+perspective. Prog. Neurobiol. 2006; 78:91–116. [PubMed: 16487649]
+25. Park E, et al. The role of excitotoxicity in secondary mechanisms of spinal cord injury: a review
+with an emphasis on the implications for white matter degeneration. J. Neurotrauma. 2004;
+21:754–774. [PubMed: 15253803]
+26. Hawthorne AL, Popovich PG. Emerging concepts in myeloid cell biology after spinal cord injury.
+Neurotherapeutics. 2011; 8:252–261. [PubMed: 21400005]
+27. Ransohoff RM, Cardona AE. The myeloid cells of the central nervous system parenchyma. Nature.
+2010; 468:253–262. [PubMed: 21068834]
+28. Dibaj P, et al. NO mediates microglial response to acute spinal cord injury under ATP control in
+vivo. Glia. 2010; 58:1133–1144. [PubMed: 20468054]
+29. Beck KD, et al. Quantitative analysis of cellular inflammation after traumatic spinal cord injury:
+evidence for a multiphasic inflammatory response in the acute to chronic environment. Brain. 010;
+133:433–447. [PubMed: 20085927]
+30. Saiwai H, et al. The LTB4-BLT1 axis mediates neutrophil infiltration and secondary injury in
+experimental spinal cord injury. Am. J. Pathol. 2010; 176:2352–2366. [PubMed: 20304963]
+31. Stirling DP, Yong VW. Dynamics of the inflammatory response after murine spinal cord injury
+revealed by flow cytometry. J. Neurosci. Res. 2008; 86:1944–1958. [PubMed: 18438914]
+32. Almad A, et al. Oligodendrocyte fate after spinal cord injury. Neurotherapeutics. 2011; 8:262–273.
+[PubMed: 21404073]
+33. Yang H, et al. Endogenous neurogenesis replaces oligodendrocytes and astrocytes after primate
+spinal cord injury. J. Neurosci. 2006; 26:2157–2166. [PubMed: 16495442]
+Yao et al. Page 9
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+34. Kulbatski I, et al. Oligodendrocytes and radial glia derived from adult rat spinal cord progenitors:
+morphological and immunocytochemical characterization. J. Histochem. Cytochem. 2007;
+55:209–222. [PubMed: 17101728]
+35. Meletis K, et al. Spinal cord injury reveals multilineage differentiation of ependymal cells. PLoS
+Biol. 2008; 6:E182. [PubMed: 18651793]
+36. Schwab ME. Repairing the injured spinal cord. Science. 2000; 295:1029–1031. [PubMed:
+11834824]
+37. McKalip D, et al. Liposomal mediated transfection of mature rat astrocytes in vitro: a comparison
+of ten reagents. Neurosci. Lett. 2000; 295:64–66. [PubMed: 11078937]
+38. Wu BY, et al. Multi-lipofection efficiently transfected genes into astrocytes in primary culture. J.
+Neurosci. Methods. 2000; 102:133–141. [PubMed: 11040410]
+39. Ajmani PS, et al. Enhanced transgene expression in rat brain cell cultures with a disulfide-
+containing cationic lipid. Neurosci. Lett. 1999; 277:141–144. [PubMed: 10626833]
+40. Rakotoarivelo C, et al. Mild surfection of neural cells, especially motoneurons, in primary culture
+and cell lines. Exp. Neurol. 2007; 204:118–130. [PubMed: 17125768]
+41. Zhang C, et al. Polyethylenimine strategies for plasmid delivery to brain-derived cells. Methods.
+2004; 33:144–150. [PubMed: 15121169]
+42. Tinsley RB, et al. Improved non-viral transfection of glial and adult neural stem cell lines and of
+primary astrocytes by combining agents with complementary modes of action. J. Gene Med. 2004;
+6:1023–1032. [PubMed: 15352075]
+43. Kim JB, et al. Enhanced transfection of primary cortical cultures using arginine-grafted PAMAM
+dendrimer, PAMAM-Arg. J. Control. Release. 2006; 114:110–117. [PubMed: 16842881]
+44. Kaech S, et al. Improved lipid-mediated gene transfer into primary cultures of hippocampal
+neurons. Mol. Brain Res. 1996; 35:344–348. [PubMed: 8717375]
+45. Wiesenhofer B, Humpel C. Lipid-mediated gene transfer into primary neurons using FuGene:
+comparison to C6 glioma cells and primary glia. Exp. Neurol. 2000; 164:38–44. [PubMed:
+10877913]
+46. da Cruz MT, et al. Improving lipoplex-mediated gene transfer into C6 glioma cells and primary
+neurons. Exp. Neurol. 2004; 187:65–75. [PubMed: 15081589]
+47. Dalby B, et al. Advanced transfection with Lipofectamine 2000 reagent: primary neurons, siRNA,
+and high-throughput applications. Methods. 2004; 33:95–103. [PubMed: 15121163]
+48. Ohki EC, et al. Improving the transfection efficiency of post-mitotic neurons. J. Neurosci.
+Methods. 2001; 112:95–99. [PubMed: 11716945]
+49. Obata Y, et al. Evaluation of cationic liposomes composed of an amino acid-based lipid for
+neuronal transfection. Nanomedicine. 2010; 6:70–77. [PubMed: 19447207]
+50. Whittlesey KJ, Shea LD. Nerve growth factor expression by PLG-mediated lipofection.
+Biomaterials. 27:2477–2486. [PubMed: 16316681]
+51. Boussif O, et al. A versatile vector for gene and oligonucleotide transfer into cells in culture and in
+vivo: polyethylenimine. Proc. Natl Acad. Sci. USA. 1995; 92:7297–7301. [PubMed: 7638184]
+52. Sonawane ND, et al. Chloride accumulation and swelling in endosomes enhances DNA transfer by
+polyamine-DNA polyplexes. J. Biol. Chem. 2003; 278:44826–44831. [PubMed: 12944394]
+53. Suk JS, et al. Quantifying the intracellular transport of viral and nonviral gene vectors in primary
+neurons. Exp. Biol. Med. (Maywood). 2007; 232:461–469. [PubMed: 17327481]
+54. Tang GP, et al. Polyethylene glycol modified polyethylenimine for improved CNS gene transfer:
+effects of PEGylation extent. Biomaterials. 2003; 24:2351–2362. [PubMed: 12699673]
+55. Shi L, et al. Repeated intrathecal administration of plasmid DNA complexed with polyethylene
+glycol-grafted polyethylenimine led to prolonged transgene expression in the spinal cord. Gene
+Ther. 2003; 10:1179–1188. [PubMed: 12833127]
+56. van der Aa MA, et al. The nuclear pore complex: the gateway to successful nonviral gene delivery.
+Pharm. Res. 2006; 23:447–459. [PubMed: 16525863]
+57. Dohner K, et al. Function of dynein and dynactin in herpes simplex virus capsid transport. Mol.
+Biol. Cell. 2002; 13:2795–2809. [PubMed: 12181347]
+Yao et al. Page 10
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+58. Suh J, et al. Efficient active transport of gene nanocarriers to the cell nucleus. Proc. Natl Acad. Sci.
+USA. 2003; 100:3878–3882. [PubMed: 12644705]
+59. Oliveira H, et al. Targeted gene delivery into peripheral sensorial neurons mediated by self-
+assembled vectors composed of poly(ethylene imine) and tetanus toxin fragment c. J. Control.
+Release. 2010; 143:350–358. [PubMed: 20093157]
+60. Liu JK, et al. A novel peptide defined through phage display for therapeutic protein and vector
+neuronal targeting. Neurobiol. Dis. 2005; 19:407–418. [PubMed: 16023583]
+61. Park IK, et al. Neuron-specific delivery of nucleic acids mediated by Tet1-modified
+poly(ethylenimine). J. Gene Med. 2007; 9:691–702. [PubMed: 17582226]
+62. Kwon EJ, et al. Targeted nonviral delivery vehicles to neural progenitor cells in the mouse
+subventricular zone. Biomaterials. 2010; 31:2417–2424. [PubMed: 20004466]
+63. Capecchi MR. High efficiency transformation by direct microinjection of DNA into cultured
+mammalian cells. Cell. 1980; 22:479–488. [PubMed: 6256082]
+64. Ludtke JJ, et al. The effect of cell division on the cellular dynamics of microinjected DNA and
+dextran. Mol. Ther. 2002; 5:579–588. [PubMed: 11991749]
+65. Luby-Phelps K. Cytoarchitecture and physical properties of cytoplasm: volume, viscosity,
+diffusion, intracellular surface area. Int. Rev. Cytol. 2000; 192:189–221. [PubMed: 10553280]
+66. Schaffer DV, et al. Vector unpacking as a potential barrier for receptor-mediated polyplex gene
+delivery. Biotechnol. Bioeng. 2000; 67:598–606. [PubMed: 10649234]
+67. Kalderon D, et al. A short amino acid sequence able to specify nuclear location. Cell. 1984;
+39:499–509. [PubMed: 6096007]
+68. Ma H, et al. Non-classical nuclear localization signal peptides for high efficiency lipofection of
+primary neurons and neuronal cell lines. Neuroscience. 2002; 112:1–5. [PubMed: 12044466]
+69. Zanta MA, et al. Gene delivery: a single nuclear localization signal peptide is sufficient to carry
+DNA to the cell nucleus. Proc. Natl Acad. Sci. USA. 1999; 96:91–96. [PubMed: 9874777]
+70. Bremner KH, et al. Factors influencing the ability of nuclear localization sequence peptides to
+enhance nonviral gene delivery. Bioconjug. Chem. 2004; 15:152–161. [PubMed: 14733595]
+71. van der Aa M, et al. Covalent attachment of an NLS-peptide to linear DNA does not enhance
+transfection efficiency of cationic polymer based gene delivery systems. J. Control. Release. 2005;
+101:395–397. [PubMed: 15822233]
+72. Breuzard G, et al. Nuclear delivery of NFkappaB-assisted DNA/ polymer complexes: plasmid
+DNA quantitation by confocal laser scanning microscopy and evidence of nuclear polyplexes by
+FRET imaging. Nucleic Acids Res. 2008; 36:E71. [PubMed: 18515353]
+73. van Gaal EV, et al. DNA nuclear targeting sequences for non-viral gene delivery. Pharm. Res.
+2011; 28:1707–1722. [PubMed: 21424159]
+74. Dames P, et al. Targeting of the glucocorticoid hormone receptor with plasmid DNA comprising
+glucocorticoid response elements improves nonviral gene transfer efficiency in the lungs of mice.
+J. Gene Med. 2007; 9:820–829. [PubMed: 17668918]
+75. Farrow PJ, et al. Cytoplasmic expression systems triggered by mRNA yield increased gene
+expression in post-mitotic neurons. Nucleic Acids Res. 2006; 34:E80. [PubMed: 16835307]
+76. Shibata M, et al. Single injections of a DNA plasmid that contains the human Bcl-2 gene prevent
+loss and atrophy of distinct neuronal populations after spinal cord injury in adult rats.
+Neurorehabil. Neural Repair. 2000; 14:319–330. [PubMed: 11402882]
+77. Hung KS, et al. Gene transfer of insulin-like growth factor-I providing neuroprotection after spinal
+cord injury in rats. J. Neurosurg. Spine. 2007; 6:35–46. [PubMed: 17233289]
+78. Shimamura M, et al. Gene transfer into adult rat spinal cord using naked plasmid DNA and
+ultrasound microbubbles. J. Gene Med. 2005; 7:1468–1474. [PubMed: 15991257]
+79. Tinsley RB, et al. Use of engineered peripheral nerve autografts for spinal cord repair.
+Neuroreport. 2006; 27:261–265. [PubMed: 16462594]
+80. Wu J, et al. Ex vivo non-viral vector-mediated neurotrophin-3 gene transfer to olfactory
+ensheathing glia: effects on axonal regeneration and functional recovery after implantation in rats
+with spinal cord injury. Neurosci. Bull. 2008; 24:57–65. [PubMed: 18369383]
+Yao et al. Page 11
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Highlights
+1. The development of nano-carriers improved neural cell transfection efficiency
+in vitro.
+2. Gene vectors can transfect endogenous cells and create long-lasting biological
+effects.
+3. Non-viral gene therapy enhanced neurogenesis after spinal cord injury.
+4. Biomaterials provide structural guidance for regeneration and a reservoir for
+gene delivery.
+Yao et al. Page 12
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1.
+Plasmid delivery using nanocarriers.
+Polyplexes, lipoplexes or PEI complexed plasmids can bind to specific receptors on the cell
+surface and then be internalized through endocytosis. The unbound DNA enters the nucleus
+through NPC, undergoes transcription in the nucleus, and eventual RNA translation and
+gene expression in the plasma.
+Abbreviations: NLS: xxx[RE4]; NPC: nuclear pore complex; PEG: polyethylene glycol; PEI:
+polyethylenimine.
+Yao et al. Page 13
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2.
+Neural conduit delivering plasmid polyplexes improves spinal cord axonal regeneration.
+(a,c) Inhibition of axonal regeneration by glial scar after spinal cord injury. (b) Neural
+conduit delivering plasmid polyplexes is implanted into the injured spinal cord. (d) Neural
+conduits simultaneously provide structural guidance for axonal regeneration and act as a
+reservoir for sustained gene delivery. Plasmid polyplexes released from neural conduit
+transfect the endogenous cells and secret growth factors which enhance axonal growth.
+Yao et al. Page 14
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3.
+Longitudinal sections and cross-sections show axonal growth in the channels of
+multichannel collagen conduits. (a) At the thoracic 8– 10 (T8–T10) vertebral levels, the
+spinal cord was completely transected and a 2 mm gap was created. A 2mm-long
+multichannel collagen conduit was implanted in the gap and aligned with the rostral and
+caudal spinal cord stumps. (b,c) Comparison of regenerated axons in a typical channel on
+the cross-sections of control conduit (b) or conduit treated with pNT-3 polyplexes (c). (d)
+The aligned regenerated axons in a channel of conduits. The histological sections were
+stained with antineurofilament monoclonal antibody (green) and DAPI (blue). Scale bar:
+50mm.
+Yao et al. Page 15
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Yao et al. Page 16
+Table 1
+Transfection efficiency of cationic lipid, PEI and dendrimeric systems for glial cell and neuron transfection in
+vitro.
+Vector Cell type Source of cells Transfection efficiency (%) Refs
+Cationic lipid Astrocyte Neonatal rat cortex 3.3 [37]
+Astrocyte Newborn mouse cerebral cortex 17 [38]
+Astrocyte, microglial Newborn rat cerebral cortex N/A [39]
+Glial cell Embryonic rat spinal cord 65 [40]
+Neuron Embryonic rat hippocampus 3 [44]
+Neuron Embryonic rat ventral mesencephalon 2.4 [45]
+Neuron Embryonic rat cortex and hippocampus 20–30 [48]
+SH-SY5Y cells Human neuroblastoma cell line 16–25 [49]
+PEI Rat C6 glial cells, astrocytes Adult rat hippocampus 14 [42]
+Dendrimer Neuron, astrocytes, microglia, and
+oligodendr ocytes
+Embryonic mouse cortices 40 [43]
+Drug Discov Today. Author manuscript; available in PMC 2013 September 01.

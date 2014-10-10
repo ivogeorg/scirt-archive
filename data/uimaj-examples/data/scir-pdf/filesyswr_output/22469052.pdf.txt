@@ -1,0 +1,997 @@
+In mammals, spinal cord injury results in gliosis and limited
+cellular regeneration, leading to devastating conditions
+(Thuret et al. 2006). In contrast, larval cyclostomes, some
+teleosts, and tailed amphibians keep substantial endogenous
+repair capabilities with restoration of locomotion after injury
+(Tanaka and Ferretti 2009). It is generally accepted that
+urodeles are the most evolved vertebrates with a robust
+regenerative potential of the adult spinal cord (Stensaas, 1983).
+However, we have shown (Rehermann et al. 2009) that
+freshwater turtles are able to reconnect their transected spinal
+cords, leading to some degree of recovery of motor functions.
+In contrast to mammals, no glial scar is observed in turtles but
+instead regenerating axons cross the injured site approximately
+20 days after the lesion. These regenerating axons travel on a
+scaffold formed by newly generated glial cells that express the
+brain lipid binding protein (BLBP) and/or the glial fibrillary
+acidic protein (GFAP) (Rehermann et al. 2009, 2011).
+The endogenous repair of the spinal cord in turtles may be
+linked to the existence of domains of progenitor cells lining the
+central canal (CC). These cells exhibit proliferative capacity,
+are coupled via connexin 43 (Cx43), and express both BLBP
+and the transcription factor Pax6 (Russo et al. 2008). It is
+believed that connexins play an important role in the regulation
+of proliferation, migration, and cell differentiation (Bruzzone
+andDermietzel 2006). In particular, Cx43 appears essential for
+maintaining neural progenitors in a proliferative state (Duval
+et al. 2002; Cheng et al. 2004). BLBP is a member of the large
+family of hydrophobic ligand-binding proteins that modulate
+transcription through their interactions with nuclear receptors
+(Haunerland and Spener 2004) and is required to induce
+Received January 26, 2012; revised manuscript received March 16,
+2012; accepted March 21, 2012.
+Address correspondence and reprint requests to Dr. Raúl E. Russo,
+Departamento de Neurofisiologı́a Celular y Molecular, Instituto de In-
+vestigaciones Biológicas, Clemente Estable, Avenida Italia 3318, CP
+11600, Montevideo, Uruguay. E-mail: rrusso@iibce.edu.uy
+Abbreviations used: BLBP, brain lipid binding protein; CC, central
+canal; Cx43, connexin 43; GFAP, glial fibrillary acidic protein; LDH,
+lactate dehydrogenase; PB, phosphate buffer; PK, pyruvate kinase; RG,
+radial glial.
+,
+*Neurofisiologı́a Celular y Molecular. Instituto de Investigaciones Biológicas Clemente Estable,
+Montevideo, Uruguay
+Unidad de Biologı́a Molecular, Institut Pasteur de Montevideo, Montevideo, Uruguay
+Departamento de Bioquı́mica, Facultad de Medicina, Montevideo, Uruguay
+Abstract
+The spinal cord of the freshwater turtle Trachemys dorbignyi
+regenerates after complete transection (Rehermann et al.
+J. Comp. Neurol. 515, 2009, 197–214). This remarkable ability
+may be related to the persistence around the central canal
+(CC) of progenitors functionally clustered via connexin 43
+(Cx43) that express brain lipid binding protein (BLBP) and the
+transcription factor Pax6 (Russo et al. J. Neurosci. 28, 2008,
+8510–8516). Indeed, because BLBP+ cells appear in the
+bridge joining the rostral and caudal stumps, we speculated
+that progenitors contacting the central canal may play a key
+part in spinal cord regeneration. To test this hypothesis, we
+designed degenerated primers pairing conserved regions for
+key proteins synthesized in progenitors (BLBP, Cx43, and
+Pax6) and the neuronal protein HuB. Fragments of these
+proteins were amplified, cloned, and sequenced. Based on
+these sequences, we analyzed the changes in the expression
+levels using quantitative real-time RT-PCR with specific
+primers, comparing the injured spinal cord at different times
+after injury (4, 12, 20, and 60 days) with uninjured spinal
+cords. We found a transient, early increase of BLBP, Cx43
+and HuB mRNA, with Pax6 remaining unchanged. These re-
+sults suggest that the selected genes – active in progenitor
+cells – play an important part in early mechanisms of spinal
+cord regeneration.
+Keywords: BLBP, connexin 43, Pax6, quantitative real-time
+PCR, regeneration, spinal cord.
+J. Neurochem. (2012) 121, 996–1006.
+JOURNAL OF NEUROCHEMISTRY | 2012 | 121 | 996–1006 doi: 10.1111/j.1471-4159.2012.07750.x
+996 Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+ 2012 The Authors
+morphological changes in radial glial (RG) in response to
+neuronal cues (Feng et al. 1994; Anton et al. 1997). Finally,
+the transcription factor Pax6 is expressed in RG lining the
+ventricle cavities and is an important regulator of the
+neurogenic capabilities of progenitors during development
+(Heins et al. 2002; Pinto and Götz 2007) and in neurogenic
+niches of the adult brain (Kohwi et al. 2005). In the spinal
+cord, Pax6 is part of the transcriptional code that determines
+subsets of progenitors giving rise to specific neuronal types
+(Lee and Pfaff 2001), controlling the tempo of neuronal
+differentiation (Bel-Vialar et al. 2007).
+Because the persistence of CC-contacting progenitors may
+be one of the central features supporting the outstanding
+regeneration capability in turtles (Rehermann et al. 2009,
+2011), we hypothesized that spinal cord injury may trigger
+changes in the expression of key genes that drive protein
+synthesis in these cells. To test this idea, we selected the
+BLBP, Pax6, and Cx43 genes expressed in CC-contacting
+progenitors and HuB, a gene active from the earliest stages of
+neuronal differentiation (Marusich et al. 1994). Because
+there is no information about the sequence of these genes in
+turtles, we first designed degenerate oligonucleotides priming
+conserved regions of the genes, together with specific
+primers for the putative control genes pyruvate kinase (PK)
+and lactate dehydrogenase (LDH). We next amplified
+fragments of these genes, cloned, and sequenced them.
+Based on these data, we analyzed the changes in mRNA
+expression levels using real-time RT-PCR with specific
+primers, comparing injured segments (T10-11) with their
+counterparts in control animals at different time points after
+spinal cord transection. To analyze the spatial profile of the
+change in gene expression, we performed immunohisto-
+chemistry in injured and normal animals. Our results
+revealed significant increments in the expression of BLBP,
+Cx43, and HuB genes 4 days after injury while Pax6
+remained unchanged at the same time point. However, BLBP
+and Cx43 returned to normal values around day 12, a time
+point when anatomical reconnection is still incipient (Reher-
+mann et al. 2009). Conversely, Hu remained underexpressed
+at 12, 20, and 60 days post injury. The immunohistochemical
+data showed that the spatial profile of expression of these
+genes was conserved in spinal cord stumps. Our findings
+suggest that modulation of BLBP and Cx43 gene expression
+is transiently involved in the early plasticity triggered by
+spinal cord injury. It remains to be clarified whether this early
+response is instrumental for later stages of post-transcrip-
+tional mechanisms commanding endogenous neural repair.
+Methods
+Animals
+Fresh-water turtles (Trachemys dorbignyi, 5–12 cm carapace length)
+were used (n = 22). These juvenile turtles (2 months to 1 year old)
+behave like fully mature animals in terms of their sensory-motor
+behavior. The animals were maintained in temperate aquaria (24–
+26C) under natural illumination and fed daily with small
+earthworms. The ARRIVE guidelines have been followed, and all
+experimental procedures were performed in accordance with the
+ethical guidelines established by our local Committee for Animal
+Care and Research at the Instituto de Investigaciones Biológicas
+Clemente Estable. Every precaution was taken to minimize animal
+stress and the number of animals used.
+Surgical procedures
+The detailed surgical procedures to lesion the spinal cord have been
+described elsewhere (Rehermann et al. 2009). Briefly, animals were
+sedated by intraperitoneal injection of ketamine chlorhydrate
+(40 mg/kg b.w.). Then, the legs were secured to a rigid support
+by means of rubber bands, and complete anesthesia was achieved by
+inhalation of isofluorane (1-chloro-2,2,2-trifluoroethyl difluorom-
+ethyl ether; Forane, Abbot Laboratories, Berkshire, UK). To prevent
+infection, we rubbed the carapace with a cotton pad previously
+immersed in an alcohol-iodine solution, and all surgical instruments
+were sterilized by using chemical procedures. After the animal was
+unresponsive to nociceptive stimuli, we opened a window in the
+carapace following the limits of the third dorsal scute to expose the
+spinal cord. Complete transection of the spinal cord (T10-11) was
+performed with a thin-blade scalpel. After washing the injured site
+with sterile saline, we replaced the lifted scute and sealed the injured
+carapace with cyanoacrylate adhesive.
+Post-operative care
+We identified spinalized turtles with indelible marks sculptured on
+their carapace. Turtles do not require special post-operative care
+because, as described for other non-mammalian vertebrates (Mount-
+castle 1980), spinal shock is very short. Because turtles have a
+primitive ‘‘allantoic bladder’’ opening into the cloaca (Parker and
+Harwell 1949), there is no noticeable urine retention. Despite their
+reduced motor capabilities, injured turtles were able to catch living
+worms a few days after surgery.
+Tissue preparation
+For the cloning and sequencing of the genes of interest, the whole
+spinal cords (n = 3) were rapidly removed and placed in RNAlater
+(Sigma) for storage at )80C. For quantitative real-time PCR
+analysis, we studied a total of 12 turtles that were examined using
+the following protocol: three turtles were killed 4 days after surgery;
+three turtles were killed 12 days after surgery; three turtles were
+killed 20 days after surgery; three turtles were killed 60 days after
+surgery. In all cases, a 4-mm long spinal cord segment centered on
+the lesion epicenter was quickly dissected out, placed in RNAlater
+(Sigma-Aldrich, St. Louis, MO, USA), and stored at )80C. The
+corresponding spinal cord segments of control-uninjured and sham-
+injured animals were processed in the same way.
+RNA extraction and reverse transcription
+The tissue was mechanically homogenized using a Cordless motor
+and pellet pestle (Sigma-Aldrich). Total RNA from the spinal cord
+was extracted and purified using TRIZOL reagent (Invitrogen,
+Carlsbad, CA, USA) following the manufacturer’s protocol. The
+concentrations of RNA samples were quantified using the Nanodrop
+(Nano-Drop Inc., Rockland, DE, USA). RNA integrity was
+determined using Bioanalyzer (Agilent Technologies, Santa Clara,
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+Gene expression during spinal cord regeneration | 997
+CA, USA), and only samples with a RNA Integrity Number (RIN)
+higher than 7 were used for reverse transcription (Figure S1). For
+spinal cord segments of injured and uninjured animals, cDNA
+synthesis was performed using the same amount of starting RNA
+(0.5 lg). The enzyme Superscript III was used (Invitrogen) primed
+with oligo(dT) according to the manufacturer’s instructions.
+Cloning and sequencing
+Degenerated and specific primers were designed to hybridize highly
+conserved regions of the genes of interest coding sequences
+(Table 1). The PCR products amplified from spinal cord cDNA
+were analyzed by agarose gel electrophoresis. When needed, gel
+purification was performed with the kit GenElute gel extraction kit
+(Sigma-Aldrich). PCR products were cloned using the pGEMT Easy
+Vector System (Promega, Madison, WI, USA). Colonies were
+selected and plasmids purified from 3 ml of liquid media LB. Inserts
+were sequenced with Sp6 and T7 universal primers using an
+ABI3130 (Applied Biosystems, Foster City, CA, USA) DNA
+automatic sequencer. Sequences from multiple clones were aligned
+to generate consensus sequences, which were then used in
+nucleotide basic local alignment search tool (BLAST) searches to
+retrieve orthologous ones.
+Alignment of amplified gene fragments with orthologs from other
+vertebrates was done online with ClustalW2 (http://www.ebi.ac.uk/
+Tools/msa/clustalw2/). We used the online ExPASy tool (http://
+ca.expasy.org/tools/dna.html) for in silico translation of nucleotide
+sequences to examine conservation at the amino acid level.
+Quantitative Real-time PCR Analysis
+Four-millimeter long segments of spinal cord centered on the lesion
+epicenter were compared with corresponding segments of control
+animals. Injured animals (n = 3 for each time point) were killed at
+different times post injury (4, 12, 20, and 60 days). With the cloned
+sequences, specific primers were designed for amplifying small
+fragments ( 200 pb, Table 2). Using a real-time cycler Rotor Gene
+6000 (Corbett Research, Bath, UK) and SYBR Green I, the genes of
+interest were amplified. Briefly, each reaction tube contained 5 lL
+of 2X SYBR Green Quantimix solution (Biotools), 250 nM of each
+forward and reverse primer, 0.5 lL of cDNA and water to bring the
+total reaction volume to 10 lL. The thermal profile was 95C for
+5 min followed by 40 cycles of three steps (95C for 15 s, 55C for
+20 s, and 72C for 20 s). The PCR for each cDNA sample and
+plasmid DNA standard was performed in duplicate.
+Control reactions were performed to verify the absence of
+genomic DNA and cross contamination of any other DNA source. A
+melting temperature analysis was added at the end of each real-time
+PCR to verify that a single product was amplified for each gene
+analyzed.
+Standard curve construction
+Because the intended housekeeping genes LDH and PK changed
+dramatically following spinal cord transection (data not shown), we
+used an absolute transcript quantification method. The plasmidic
+vectors pGEM-T easy (Promega) containing the sequences of interest
+used previously were also used for the construction of the standard
+curves which were based on real-time PCR of known quantities of
+plasmidic DNA. Each standard curve was generated based on five 10-
+fold serial dilutions of a starting concentration of DNA (100 pg/lL)
+converted to the number of copies using the molecular mass of the
+DNA: Attomoles (amoles) of input plasmid DNA = 1.52 · amount
+of input plasmid DNA/plasmid length, according toWu et al. (2005).
+A standard curve plotting CT values against the logarithm of input
+DNA copy quantity (log amoles) was constructed for each gene. The
+number of copies in the experimental samples was calculated from the
+equation of the line for the standard curve.
+Data analysis
+Standard DNAs, negative controls, and cDNA obtained from
+uninjured animals and samples obtained at different times after
+injury (4, 12, 20, and 60 days) were run simultaneously for each of
+Table 1. Sequence of degenerated and specific primer pairs used for
+RT-PCR
+Sequence 5¢-3¢
+Fragment
+size (bp)
+Connexin 43
+Forward primer GARCAYGGNAARGTNAARATG 495
+Reverse primer RTARTTNGCCCARTTYTGYC
+BLBP
+Forward primer RTARTTNGCCCARTTYTGYTC 240
+Reverse primer NARNGTCATNACCAT
+HuB
+Forward primer ATGACNATHGAYGGNATG 240
+Reverse primer GARATGCARCARATGGCNWSN
+PAX6
+Forward primer ATGGGNGCNGAYGGNATGTAY 750
+Reverse primer RTTCATRTGNGTYTGCATRTG
+LDH GenBank accession Number: L79954.1
+Forward primer GGCCAAGTTGGAATGGCCTGTG 439
+Reverse primer GCCATCAGATGGCGAAATCTAGC
+PK GenBank accession Number: AJ243137.1
+Forward primer GATGGGCTCATCTCCCCTGCTGG 432
+Reverse primer TTCCCGGCACGGTTGCAG
+Table 2. Sequence of primer pairs used for real-time RT-PCR
+Sequence 5¢-3¢
+Fragment
+size (bp)
+Connexin 43
+Forward primer TGGTACGTCTATGGGTTTAGC 214
+Reverse primer CTGGTTTTCCTTTCACACGA
+PAX6
+Forward primer AGAGCAAATTGAAGCCCTTG 238
+Reverse primer TGGTTGGTAGACACTTGTGC
+BLBP
+Forward primer AGGGCGACAAGGTCACTGTGA 171
+Reverse primer TGCCGTCCCATTTCTGCACA
+HuB
+Forward primer CCAGTTTGGCCGGAATTAATATC 155
+Reverse primer AGTCACGGATGACCTTCACGTTG
+GFAP
+Forward primer GCCAGTTACATCGAGAAGGT 554
+Reverse primer GTCAGGTCTGCAAACTTGGA
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+ 2012 The Authors
+998 | G. Garcı́a et al.
+the genes analyzed. The data for the uninjured controls were
+presented as amole/lg RNA ± SEM, and the relative gene expres-
+sion data for the different times after injury were expressed as the
+ratio to the amole/lg RNA of the sample divided by the same value
+in the control. Statistical significance was evaluated with the
+unpaired t-test at p < 0.05.
+Immunohistochemistry
+The spinal cords of anesthetized turtles (50 mg/kg pentobarbital)
+were fixed by intracardiac perfusion. For immunohistochemistry
+(n = 6 animals), we used 10% paraformaldehyde dissolved in 0.1 M
+phosphate buffer (PB; pH 7.4). Fixed material was sectioned in the
+transverse plane (60–80 lm) with a vibrating-blade microtome. We
+used the following primary antibodies: (i) anti-BLBP (rabbit
+polyclonal, 1:1000; Chemicon International Inc., Temecula, CA);
+(ii) anti-HuC/D (mouse monoclonal, 1:50; Molecular Probes,
+Eugene, OR), (iii) anti-Cx43 (rabbit polyclonal, 1:3000; kindly
+provided by Dr. J.C. Saez; PUC University, Santiago, Chile), and
+(iv) anti-GFAP (mouse monoclonal, 1:500, Sigma). Non-specific
+reactive sites were blocked with 0.5% bovine serum albumin in PB
+(1 h) followed by overnight incubation with the primary antibody in
+PB containing 0.3% Triton X-100. After blocking and washing, the
+tissues were incubated with goat anti-rabbit or goat anti-mouse
+secondary antibodies conjugated with Alexa 488 (1:1.000, 2 h;
+Invitrogen, Eugene, OR, USA). Finally, the sections were thor-
+oughly washed and mounted. Control experiments replacing
+antibodies with pre-immune serum and negative controls without
+primary antibodies were routinely performed.
+Since Cx43 immunohistochemistry revealed a dotted pattern, it
+was possible to use an automatic counting procedure. The number of
+punctae was quantified from four confocal optical sections of control
+animals and turtles with the transected spinal cord at 4 and 12 days
+post injury (DPI). For this purpose, we used the command Analyze
+particles of ImageJ (available at http://rsbweb.nih.gov/ij/), after
+setting appropriately the threshold level.
+Results
+Cloning and sequencing
+Because the complete genome of any chelonian has not been
+sequenced yet, there is no genetic information available for
+performing a BLAST analysis or for the design of specific
+primers. To overcome this limitation, we did multiple
+alignments of the sequences of interest (PAX6, Cx43, Hu
+protein and BLBP) and designed degenerated primers of
+highly conserved regions. For the fragments of housekeeping
+genes (LDH and PK), we designed specific primers based on
+sequences from Trachemys scripta (Table 1). With these
+primers, PCR was performed with cDNA under conditions
+optimized for each gene obtaining amplified PCR fragments
+of the expected size (Fig. 1).
+The PCR products were then purified and cloned in the
+pGEM-T vector, and multiple clones were sequenced and
+aligned to generate consensus sequences, which were then
+used in nucleotide BLAST searches to retrieve orthologous
+genes. The deduced aminoacidic sequences were aligned
+with orthologs from other organisms from different taxa.
+Interestingly, all the cloned genes exhibited a very high
+degree of conservation at the aminoacidic level. HuB
+displayed the highest level of conservation (Fig. 2): 100%
+when compared with a bird (Gallus gallus), 98% with two
+mammals (Mus musculus and Homo sapiens) and an
+amphibian (Xenopus laevis). PAX6 also presented a very
+high level of conservation, being more than 93%when
+compared with birds (Columba livia and G. gallus), mam-
+mals (Rattus norvergicus and H. sapiens), and amphibians
+(X. laevis) (Fig. 3). Moreover, Cx43 of T. dorbignyi
+exhibited an identity higher than 77% when compared with
+G. gallus, M. musculus, H. sapiens, and Danio rerio (Fig. 4).
+Finally for BLBP, the identity level was 76% with Salmo
+salar, 73% with G. gallus, 71% with X. laevis, 69% with
+H. sapiens, and 65% with R. norvergicus (Fig. 5).
+LDH and PK also displayed high conservation degrees
+when compared with other organisms (data not shown,
+accession numbers: JQ356536 and JQ356537, respectively).
+Standard curves for quantification and identification of
+the amplicons
+The standard curves for the genes of interest were appropri-
+ate for quantitative analyses (Figure S2). The average slope
+of the Ct versus initial template plots was )3.39 ± 0.05 SD
+and the mean of the efficiency was 97 ± 2% SD (n = 5).
+These values were similar to the predicted ones (slope and
+efficiency for the 10-fold dilutions, )3.3 and 100%), being
+the average correlation (r2) of all the standard curves
+0.993 ± 0.004. The melting curve analysis for each target
+gene showed a unique peak not observed in the correspond-
+ing negative control.
+Gel electrophoresis of real-time PCR products is shown in
+Fig. 6. A single band was detected at the expected size for
+each target gene, whereas no band was observed in the
+Fig. 1 Gel electrophoresis of PCR products from turtle spinal cord
+cDNA. A single band was detected near the expected size in bp for each
+target gene. No band was observed in the PCR products of negative
+controls. Lane 1, BLBP, expected size 240 pb; lane 2, negative control
+without cDNA; lane 3, Cx43, expected size 495 pb; lane 4, negative
+control without cDNA; and lane 5, molecular weight marker.
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+Gene expression during spinal cord regeneration | 999
+negative controls. To confirm that the expected genes were
+amplified, we sequenced the real-time PCR products,
+obtaining the expected sequences in all cases (data not
+shown). Thus, each target molecule was amplified and
+detected with the primer sets used.
+Gene expression in the uninjured spinal cord
+To analyze the possible changes in expression induced by
+injury, we first characterized the expression of the genes of
+interest in the normal spinal cord. We originally examined
+the expression relative to potential reference genes (LDH,
+PK), but as they changed dramatically after injury, we chose
+to express data as amole/lg RNA to reflect actual alterations
+in vivo following a strategy used by Wu et al. (2005).
+Figure 7 shows the absolute quantity of the mRNA for target
+genes in uninjured spinal cords. Cx43 was the most
+expressed gene with 244 ± 30 amole/lg RNA. BLBP
+mRNA was the next most abundant gene product with an
+expression of 52 ± 6 amole/lg RNA, followed by HuB
+(21 ± 2 amole/lg RNA). Finally, the mRNA for PAX6 was
+the least abundant: 11 ± 1 amole/lg RNA.
+Changes in gene expression levels after injury
+Real-time PCR with specific primers based in our sequences
+allowed us to identify differences in the expression level of
+Cx43, HuB, PAX6, and BLBP when compared with control.
+In each case, the data values were presented as the ratio to the
+amole/ug RNA of the sample divided by the same value in
+control (Fig 8). Cx 43 was the gene that showed the highest
+level of over-expression, being 1.7 ± 0.1 folds (p < 0.05)
+4 days after injury and decreasing to not significantly
+different levels in the other time points analyzed. BLBP
+was over-expressed 1.5 ± 0.1 times relative to control
+(p < 0.05) at 4 days after injury reaching normal levels from
+day 12. The expression of HuB also peaked at 4 days after
+injury (1.5 ± 0.1, p < 0.01) and significantly decreased
+below control levels in the next time point studied
+(0.5 ± 0.2, p < 0.05). This down-regulation was unchanged
+during the rest of the time course analyzed (0.6 ± 0.1 at 20
+and 60 days post injury, p < 0.05). PAX6 was the only gene
+that did not change significantly at any time point after
+injury. Gene expression for the explored genes in sham-
+injured animals – in which all surgical procedures were
+Fig. 2 Multiple alignments for the ELAV family protein HuB. The homology between the sequences of Mus musculus (NP_997568.1), Homo
+sapiens (BAD92531.1), Gallus gallus (XP_001233484.1), Xenopus tropicalis (NP_001025498.2), and Trachemys dorbignyi (JQ356535) is higher
+than 98%.
+Fig. 3 Multiple alignments of PAX6 amino-
+acidic sequence. There is a high homology
+(more than 93%) between species such as
+Columba (ABI98850), Rattus norvergicus
+(ADN04686.1), Gallus gallus (NP_990397.
+1), Homo sapiens (NP_000271), Xenopus
+laevis (AAB36681.1), and Trachemys dor-
+bignyi deduced aminoacidic sequence
+(JQ356533).
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+ 2012 The Authors
+1000 | G. Garcı́a et al.
+performed but the spinal cord was not transected – was not
+significantly different to control animals (n = 3; p > 0.2;
+4 days after sham injury; Figure S3). These results rule out
+an effect on the expression of these genes by the surgery
+itself.
+Spatial profile of Hu, BLBP, and Cx43 expression
+To test whether the changes in gene expression were
+accompanied by a change in the spatial profile of expression
+for the translated proteins, we did immunohistochemistry for
+Hu antigen, BLBP, and Cx43. Because our quantitative real-
+time PCR study did not reveal variations in PAX6 expres-
+sion, immunohistochemistry for this transcription factor was
+not performed.
+The expression pattern of Hu, BLBP, and Cx43 in the
+spinal cord of injured animals (4 and 12 days after lesion)
+and control animals is shown in Fig. 9. The monoclonal
+antibody HuC/D – which recognizes the three neuronal
+ribosome-associated Hu proteins HuB, HuC, and HuD
+(Marusich et al. 1994) – revealed that Hu was strongly
+expressed in the cell body around the nucleus of neurons in
+the gray matter, with a similar distribution within the gray
+Fig. 4 Multiple alignments for Cx43. The
+homology between the sequences of Gallus
+gallus (NP_989917), Homo sapiens
+(BAD97009.1), Danio rerio (AAH49297.1)
+and Mus musculus (AAA53027.1), and
+Trachemys dorbignyi (JQ356532) is higher
+than 77%.
+Fig. 5 Multiple alignments for BLBP. The
+homology between the sequences of Gallus
+gallus (NP_990639.1), Salmo salar (NP_
+001135371.1), Xenopus laevis (NP_00-
+1015907), Homo sapiens (NP_001437.1),
+Rattus norvergicus (NP_110459.1), and
+Trachemys dorbignyi (JQ356534) is higher
+than 65%.
+Fig. 6 Gel elctrophoresis of real-time RT-PCR products. A single
+band of the expected size was detected for all analyzed genes.
+Fig. 7 Quantitative gene expression of control tissue. The bars rep-
+resent the mean (n = 3) of absolute copy number (amoles) of each
+gene in 1 lg RNA. Data are represented as mean ± SEM.
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+Gene expression during spinal cord regeneration | 1001
+matter in control (Fig. 9A1) and injured (Fig. 9A2 and A3)
+animals.
+The spatial profile of BLBP expression was also similar in
+normal (Fig. 9B1) and injured (Fig. 9B2 and B3) animals,
+with most BLBP+ cells located on the lateral aspects of the
+CC (Fig. 9B1–3). However, at 4 days after injury many
+BLBP+ cells were observed outside this region (Fig. 9B2,
+arrows).
+Cx43 immunohistochemistry revealed punctae distributed
+widely in the white and gray matter of normal and injured
+spinal cords (Fig. 9C1–3). In line with the increased gene
+expression, the highest levels of Cx43 immunoreactivity
+Fig. 8 Relative changes of mRNA expres-
+sion of BLBP, HuB, Cx43, and Pax6 genes
+in injured tissue at different time points after
+spinal cord transection as compared with
+the values in control animals. Data are
+mean ± SEM (n = 3 for each time point).
+Significantly different from controls,
+*p < 0.05; **p < 0.01.
+(A1) (A2) (A3)
+(B1) (B2) (B3)
+(C1) (C2) (C3)
+Fig. 9 Immunohistochemistry for Hu, brain
+lipid binding protein (BLBP) and connexin
+43 in control tissue and the rostral stump of
+the regenerating spinal cord at 4 and
+12 days post injury (DPI). A: Immunoreac-
+tivity for the Hu antigen in control (1) and
+after 4 DPI (2) and 12 DPI (3). B: BLBP
+expression in control (1) and at 4 DPI (2)
+and 12 DPI (3). The arrows indicate BLBP+
+cells outside their common placements
+close to the CC; the asterisk in 2 indicates
+the collapsed lumen of the CC C: Expres-
+sion of connexin 43 in control animals is
+shown in panel 1. The highest immuno-
+reactivity was detected by day 4 (2) and
+reached normal levels by day 12 (3).
+Punctae quantification showed more parti-
+cles at this time point when compared with
+control (see Figure S3). Calibration bars:
+25 lm.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+ 2012 The Authors
+1002 | G. Garcı́a et al.
+were observed at 4 DPI. (Fig. 9C2). Although 12 days after
+injury the Cx43 immunoreactivity decayed (Fig. 9C3), the
+number of punctae was still higher than control (Figure S4).
+Because reactive astrogliosis may partly account for the
+increased expression of Cx43 around the CC, we did
+immunohistochemistry for GFAP in control and injured
+animals (4 DPI). Although the ependyma remained negative
+for GFAP, the expression of this protein in the region
+surrounding the CC seemed up-regulated at 4 DPI (Fig-
+ure S5A). In line with these findings, the expression of the
+GFAP gene at 4 DPI was significantly increased compared
+with uninjured animals (Figure S5B).
+Discussion
+Turtles are amniote vertebrates that – unlike mammals – are
+able of a substantial degree of endogenous repair, probably
+because they retained multi-potent progenitor cells around
+the CC (Trujillo-Cenóz et al. 2007; Russo et al. 2008;
+Rehermann et al. 2009, 2011). Understanding the molecular
+mechanisms involved in injury induced plasticity in new
+model systems with efficient self-repair mechanisms may
+give important clues for the design of new therapies for
+treatment of spinal cord diseases (Tanaka and Ferretti 2009).
+A disadvantage of the turtle spinal cord as a model system to
+study regeneration is that no genomic resources from
+chelonians are available. In the present study, we used a
+cloning and sequencing strategy through gene amplification
+by degenerated primers design and described the partial
+sequences of genes that our previous studies pointed as
+potentially important for spinal cord regeneration in turtles
+(Rehermann et al. 2009). Surprisingly, our data show a high
+level of conservation of the analyzed genes among evolu-
+tionary distant organisms, validating the strategy and the
+biological model used in this study.
+The analysis of mRNA expression changes after spinal
+cord transection has been a valuable approach to elucidate
+the underlying mechanisms of neural repair (Wu et al. 2005;
+Fujiyoshi et al. 2010; Arocho et al. 2011; Kuo et al. 2011;
+Nash et al. 2011). A key difference between spinal cord self-
+repair capabilities between mammals and turtles may be
+related with the persistence of progenitors functionally
+clustered via Cx43 and with a molecular phenotype charac-
+terized by the expression of BLBP and Pax6 (Russo et al.
+2008). By applying quantitative RT-PCR – a highly sensitive
+technique allowing the quantification of small changes in
+gene expression (Wu et al. 2005) – we found that BLBP and
+Cx43 gene expression increased transiently, whereas Pax6
+remained unchanged.
+The increase in Cx43 mRNA expression induced by injury
+in our study resembles the elevation in Cx43 expression after
+a complete transection of the spinal cord of the rat as
+evaluated by in situ hybridization (Lee et al. 2005). Unlike
+the transient increase observed in turtles, Cx43 up-regulation
+in the rat increases progressively up to 4 weeks (Lee et al.
+2005). The role played by Cx43 in response to injury of the
+nervous system is controversial, with some reports suggest-
+ing that increased levels are detrimental (Frantseva et al.
+2002a,b), whereas others claim that Cx43 down-regulation
+results in an expansion in the lesion size (Siushansian et al.
+2001; Nakase et al. 2004). The interference with Cx43
+function after spinal cord injury reduces the reactive
+astrogliosis and neuronal death (O’Carroll et al. 2008) and
+improves functional recovery (Cronin et al. 2008). Our
+findings suggest that in turtles, the rapid decline of the initial
+up-regulation of Cx43 may minimize the detrimental effects
+of Cx43 mentioned above, possibly by avoiding the spread of
+injury.
+It is not clear whether the increased expression of Cx43
+reported here results in an increased number of hemichannels
+or functional gap junctions. Hemichannels have been postu-
+lated to mediate a component of ATP release (Garré et al.
+2010) that acts on P2X7 channels during spinal cord injury
+(Peng et al. 2009). A role for hemichannels in early stages of
+spinal cord injury is suggested by the fact that low
+concentrations of a Cx43 mimetic peptide reduce hemichan-
+nel opening and prevent neuronal loss (O’Carroll et al.
+2008).
+The increased number of Cx43 punctae both in the white
+and gray matter suggests that the enhancement of Cx43
+mRNA in the turtle spinal cord may be accounted by reactive
+astrocytes, as suggested by the increased expression of
+GFAP close to the CC at 4 DPI (see Figure S5). Although it
+is a reasonable assumption that Cx43 mRNA in CC-
+contacting progenitors is increased, a lack of variation or
+even a decreased expression in these cells could be masked
+by the over-expression in astrocytes. Single cell RT-PCR
+would be necessary to test whether CC-contacting progen-
+itors react to injury by increasing Cx43 gene expression. In
+addition, given the role of electrical coupling in regulating
+the biology of progenitor cells (Duval et al. 2002; Bruzzone
+and Dermietzel 2006), it will be also important to test
+whether the changes in Cx43 mRNA match an increased
+electrical and metabolic coupling among BLBP/Pax6 pro-
+genitors.
+The increased expression of BLBP seems to be an
+evolutionary preserved reaction to spinal injury because it
+is observed in salamanders (Monaghan et al. 2007), turtles
+(Rehermann et al. 2009 and this study), and mammals
+(White et al. 2010). In mammals, BLBP is not expressed in
+ependymal cells under normal conditions, but is transiently
+re-expressed after spinal cord injury (White et al. 2010). This
+suggests that when challenged, some cells in the mammalian
+ependyma are transformed into a phenotype of progenitors
+observed in the normal cord of turtles (Russo et al. 2008).
+BLBP expression in the ependyma of the mammalian cord
+returns to control levels 7 days after injury (White et al.
+2010), paralleling the time course of the increased BLBP
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+Gene expression during spinal cord regeneration | 1003
+mRNA in the turtle spinal cord. In mammals, however, the
+expression of BLBP continues in cells that co-express GFAP
+in the spared white matter and the lesion border, suggesting
+these cells are progenitors generating reactive astrocytes
+(White et al. 2010). Although BLBP+/GFAP+ cells are
+components of the cellular bridge that reconnects the severed
+spinal cord in turtles, they do not form a scar but provide a
+scaffold for regenerating axons (Rehermann et al. 2009).
+Thus, although BLBP signaling in mammals and turtles seem
+to share some common features, it is possible that the
+expression of BLBP after injury in turtles is linked to more
+adaptive mechanisms. The actual function of BLBP during
+repair is still unknown. BLBP belongs to the family of fatty
+acid binding proteins that regulate various metabolic pro-
+cesses and ligand trafficking in the CNS (Feng et al. 1994;
+Haunerland and Spener 2004). Interestingly, lipid turnover
+has been associated with axonal growth and nerve regener-
+ation (Vance et al. 2010).
+Our immunocytochemical study showed a tissue cytoar-
+chitecture within the spinal cord stumps resembling that of the
+uninjured spinal cord, with BLBP+ progenitors still restricted
+to the lateral aspects of the CC. However, after injury there
+were BLBP+ cells at some distance from the CC raising the
+possibility they may have detached from the main clusters of
+progenitors. Themigration of ependymal cells to the injury site
+has been shown in the spinal cord of rats (Mothe and Tator
+2005) and mice (Meletis et al. 2008). However, the factors
+driving the migration of these cells to the injured zone are not
+clear. Reelin is up-regulated in the injured adult brain and has
+been proposed to drive subventricular progenitor cells away
+from the rostral migratory stream toward the lesion site
+(Courtès et al. 2011). The stromal cell derived factor-1 has
+been also proposed to attract ependymal cells and macro-
+phages to the injury site (Tysseling et al. 2011). It remains to
+be demonstrated whether BLBP progenitors respond to these
+signals and migrate to the cellular bridge filling the gap
+between stumps (Rehermann et al. 2009).
+Unlike the other genes explored in this study, Pax6
+expression did not change significantly after injury. This is
+in striking contrast with the situation reported for the
+mammalian spinal cord in which Pax6 is not expressed in
+ependymal cells of the normal adult spinal cord but is
+transiently expressed in vimentin+/nestin+ ependymal cells
+after spinal cord injury (Yamamoto et al. 2001). The tran-
+scription factor Pax6 has been shown to regulate the prolif-
+eration of progenitors (Maekawa et al. 2005; Buffo 2007) and
+is a key neurogenic determinant both during development and
+in adult neurogenic niches (Kohwi et al. 2005; Bel-Vialar
+et al. 2007). The fact that BLBP up-regulation is not paralleled
+with an increase in Pax6 may imply that in the turtle, the
+progenitors are biased to generate glial cells during the initial
+stages of repair. This possibility is in line with our previous
+studies showing that newly generated cells express glial but
+not neuronal markers during spinal cord regeneration in the
+turtle (Rehermann et al. 2009). In amphibians and fishes,
+however, the mechanisms for endogenous repair include the
+generation of new neurons (Benraiss et al. 1999; Reimer et al.
+2008; Tanaka and Ferretti 2009). Thus, although turtles are
+able to achieve some degree of functional regeneration after
+spinal cord injury, the reaction of the cord in terms of the
+generated cell lineages is more similar to mammals (Meletis
+et al. 2008) than to other low vertebrates. It has been proposed
+that the inability for neurogenesis after injury in the mamma-
+lian cortex arise from the antagonism of the pro-neural factor
+Pax6 by Olig2 (Buffo 2007). It remains to be explored the
+contribution of other transcription factors to set the lineage
+potential of progenitors after injury in the turtle spinal cord.
+Hu expression exhibited a slight up-regulation 4 days after
+injury to reach half its normal expression levels at 12, 20, and
+60 days post injury. The Hu family of neuronal proteins (HuB,
+HuC and HuD) exhibit a high degree of sequence homology
+(Okano and Darnell 1997) playing important roles in neuronal
+differentiation and plasticity by affecting post-transcriptional
+aspects of RNA metabolism (Hinman and Lou 2008). For
+example, over-expression of HuD increases the neurite
+outgrowth (Anderson et al. 2000, 2001) and knockdown of
+HuC results in impaired spatial learning in mice (Quattrone
+et al. 2001). The increase in HuB mRNA after spinal cord
+injury in turtles is because of up-regulation of gene expression
+in pre-existent neurons because our previous studies did not
+show evidence of neurogenesis induced by injury (Rehermann
+et al. 2011). Because Hu proteins are important to stabilize
+targetmRNAs, it is possible that the increasedHu transcription
+is a homeostatic adjustment to spare neuronal elements
+challenged by the insult. Although Hu proteins have been
+shown to be transiently over-expressed after injury of periph-
+eral nerves (Anderson et al. 2003), their role in healing is not
+clear. The late reduction in Hu mRNA levels may reflect the
+loss of neurons in the stumps. In mammals (Profyris et al.
+2004) and in salamander (Monaghan et al. 2007), neuronal-
+related genes also appeared down-regulated after injury. In the
+rat, the decline in the expression of neural-specific transcripts
+is accompanied by a significant rise in tissue repairing genes
+that are remarkably similar to those acting in dermal wound
+healing (Velardo et al. 2004).
+The time course of the change in gene expression implies
+that the genes selected in this study participate mostly of the
+early response to injury. It is noteworthy that at this time, the
+bridge linking the rostral and caudal stumps is not fully
+developed yet, and from a functional point of view, motor
+activity is only limited to segmental spinal reflex movements
+as stepping patterns appear no less than 60 days after injury
+(Rehermann et al. 2009). This implies that the endogenous
+repair mechanisms involve a more complex set of genes
+turning on and off at different stages of repair. Future studies
+should explore the genes involved in later stages of
+regeneration of the turtle spinal cord leading to some degree
+of functional recovery.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+ 2012 The Authors
+1004 | G. Garcı́a et al.
+Concluding, our study shows that molecular and bioinfor-
+matics tools can be used to associate gene expression changes
+with cellular and functional aspects of spinal cord regener-
+ation. The high conservation degree found for the selected
+genes in this study validates our biological model and
+illustrates the utility of T. dorbignyi for identifying the genes
+and gene functions that sustain the remarkable self-repair
+mechanisms within the spinal cord of some vertebrates.
+Acknowledgments
+We thank M.I. Rehermann for technical assistance and Dr. J Sáez
+for the generous gift of the antibody against connexin 43. The work
+described here was supported by Grant # FCE_2920 from ANII and
+Grant Number R01NS048255 from the National Institute of
+Neurological Disorders and Stroke to R.E.R. The content is solely
+the responsibility of the authors and does not necessarily represent
+the official views of the National Institute of Neurological Disorders
+and Stroke or the National Institutes of Health. The authors declare
+no conflicts of interest.
+GG, GL, CR, OTC, and RER contributed to the conception and
+design of the experimental approach; GG, GL, and CR acquired,
+analyzed, and interpreted data; GG and RER drafted the paper; all
+authors revised the paper for important intellectual content and
+approved the final version of the manuscript.
+Supporting information
+Additional supporting information may be found in the
+online version of this article.
+Figure S1. Bioanalyzer electrophoresis.
+Figure S2. Standard curve for Connexin 43.
+Figure S3. Relative changes of mRNA expression for Cx43,
+BLBP, Pax6, and HuB genes 4 days after a sham injury as
+compared with values in control animals.
+Figure S4. Quantification of Cx43 punctae in the normal and
+injured cord.
+Figure S5. Expression of GFAP in control and 4 DPI animals.
+As a service to our authors and readers, this journal provides
+supporting information supplied by the authors. Such materials are
+peer-reviewed and may be re-organized for online delivery, but are
+not copy-edited or typeset. Technical support issues arising from
+supporting information (other than missing files) should be
+addressed to the authors.
+References
+Anderson K. D., Morin M. A., Beckel-Mitchener A., Mobarak C. D.,
+Neve R. L., Furneaux H. M., Burry R. and Perrone-Bizzozero N. I.
+(2000) Overexpression of HuD, but not of its truncated form HuD
+I+II, promotes GAP-43 gene expression and neurite outgrowth in
+PC12 cells in the absence of nerve growth factor. J. Neurochem.
+75, 1103–1114.
+Anderson K. D., Sengupta J., Morin M., Neve R. L., Valenzuela C. F.
+and Perrone-Bizzozero N. I. (2001) Overexpression of HuD
+accelerates neurite outgrowth and increases GAP-43 mRNA
+expression in cortical neurons and retinoic acid-induced embryonic
+stem cells in vitro. Exp. Neurol. 168, 250–258.
+Anderson K. D., Merhege M. A., Morin M., Bolognani F. and Perrone-
+Bizzozero N. I. (2003) Increased expression and localization of the
+RNA-binding protein HuD and GAP-43 mRNA to cytoplasmic
+granules in DRG neurons during nerve regeneration. Exp. Neurol.
+183, 100–108.
+Anton E.S., Marchionni M. A., Lee K. F. and Rakic P. (1997) Role of
+GGF/neuregulin signaling in interactions between migrating neu-
+rons and radial glia in the developing cerebral cortex. Development
+124, 3501–3510.
+Arocho L. C., Figueroa J. D., Torrado A. I., Santiago J. M., Vera A. E.
+and Miranda J. D. (2011) Expression profile and role of EphrinA1
+Ligand after spinal cord injury. Cell. Mol. Neurobiol. 31, 1057–
+1069.
+Bel-Vialar S., Medevielle F. and Pituello F. (2007) The on/off of Pax6
+controls the tempo of neuronal differentiation in the developing
+spinal cord. Dev. Biol. 305, 659–673.
+Benraiss A., Arsanto J. P., Coulon J. and Thouveny Y. (1999) Neuro-
+genesis during caudal spinal cord regeneration in adult newts. Dev.
+Genes. Evol. 209, 363–369.
+Bruzzone R. and Dermietzel R. (2006) Structure and function of gap
+junctions in the developing brain. Cell Tissue Res. 326, 239–248.
+Buffo A. (2007) Fate determinant expression in the lesioned brain: Olig2
+induction and its implications for neuronal repair. Neurodegener.
+Dis. 4, 328–332.
+Cheng A., Tang H., Cai J., Zhu M., Zhang X., Rao M. and Mattson M.
+P. (2004) Gap junctional communication is required to maintain
+mouse cortical neural progenitor cells in a proliferative state. Dev.
+Biol. 272, 203–216.
+Courtès S., Vernerey J., Pujadas L., Magalon K., Cremer H., Soriano E.,
+Durbec P. and Cayre M. (2011) Reelin controls progenitor cell
+migration in the healthy and pathological adult mouse brain. PLoS
+ONE 6, e20430.
+Cronin M., Anderson P. N., Cook J. E., Green C. R. and Becker D. L.
+(2008) Blocking connexin43 expression reduces inflammation and
+improves functional recovery after spinal cord injury. Mol. Cell.
+Neurosci. 39, 152–160.
+Duval N., Gomes D., Calaora V., Calabrese A., Meda P. and Bruzzone
+R. (2002) Cell coupling and Cx43 expression in embryonic mouse
+neural progenitor cells. J. Cell Sci. 115, 3241–3251.
+Feng L., Hatten M. E. and Heintz N. (1994) Brain lipid-binding protein
+(BLBP): a novel signaling system in the developing mammalian
+CNS. Neuron 12, 895–908.
+Frantseva M. V., Kokarovtseva L., Naus C. G., Carlen P. L., MacFabe
+D. and Perez Velazquez J. L. (2002a) Specific gap junctions en-
+hance the neuronal vulnerability to brain traumatic injury.
+J. Neurosci. 22, 644–653.
+Frantseva M. V., Kokarovtseva L. and Perez Velazquez J. L. (2002b)
+Ischemia-induced brain damage depends on specific gap-junctional
+coupling. J. Cereb. Blood Flow Metab. 22, 453–62.
+Fujiyoshi T., Kubo T., Chan C. C., Koda M., Okawa A., Takahashi K.
+and Yamazaki M. (2010) Interferon-c decreases chondroitin sulfate
+proteoglycan expression and enhances hindlimb function after
+spinal cord injury in mice. J.Neurotrauma 27, 2283–94.
+Garré J. M., Retamal M. A., Cassina P., Barbeito L., Bukauskas F. F.,
+Sáez J. C., Bennett M. V. and Abudara V. (2010) FGF-1 induces
+ATP release from spinal astrocytes in culture and opens pannexin
+and connexinhemichannels. PNAS 107, 22659–22664.
+Haunerland N. H. and Spener F. (2004) Fatty acid-binding proteins-
+insights from genetic manipulations. Prog. Lipid Res. 43, 328–
+349.
+Heins N., Malatesta P., Cecconi F., Nakafuku M., Tucker K. L., Hack M.
+A., Chapouton P., Barde Y. A. and Götz M. (2002) Glial cells
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+Gene expression during spinal cord regeneration | 1005
+generate neurons: the role of the transcription factor Pax6. Nat.
+Neurosci. 5, 308–315.
+Hinman M. N. and Lou H. (2008) Diverse molecular functions of Hu
+proteins. Cell. Mol. Life Sci. 65, 3168–3181.
+KohwiM., OsumiN., Rubenstein J. L. andAlvarez-Buylla A. (2005) Pax6
+is required for making specific subpopulations of granule and peri-
+glomerularneurons in theolfactorybulb. J.Neurosci.25, 6997–7003.
+Kuo H. S., Tsai M. J., Huang M. C., Chiu C. W., Tsai C. Y., Lee M. J.,
+Huang W. C., Lin Y. L., Kuo W. C. and Cheng H. (2011) Acid
+fibroblast growth factor and peripheral nerve grafts regulate Th2
+cytokine expression, macrophage activation, polyamine synthesis,
+and neurotrophin expression in transected rat spinal cords.
+J. Neurosci. 31, 4137–4147.
+Lee S. K. and Pfaff S. L. (2001) Transcriptional networks regulating
+neuronal identity in the developing spinal cord. Nat. Neurosci. 4,
+1183–1191.
+Lee I. H., Lindqvist E., Kiehn O., Widenfalk J. and Olson L. (2005)
+Glial and neuronal connexin expression patterns in the rat spinal
+cord during development and following injury. J. Comp. Neurol.
+489, 1–10.
+Maekawa M., Takashima N., Arai Y., Nomura T., Inokuchi K., Yuasa S.
+and Osumi N. (2005) Pax6 is required for production and main-
+tenance of progenitor cells in postnatal hippocampal neurogenesis.
+Genes Cells 10, 1001–1014.
+Marusich M. F., Furneaux H. M., Henion P. D. and Weston J. A. (1994)
+Hu neuronal proteins are expressed in proliferating neurogenic
+cells. J. Neurobiol. 25, 143–155.
+Meletis K., Barnabé-Heider F., Carlen M., Evergren E., Tomilin N.,
+Shupliakov O. and Frisén J. (2008) Spinal cord injury reveals
+multilineage differentiation of ependymal cells. PLoS Biol. 6, e182.
+Monaghan J. R., Walker J. A., Page R. B., Putta S., Beachy C. K. and
+Voss S. R. (2007) Early gene expression during natural spinal cord
+regeneration in the salamander Ambystomamexicanum. J. Neuro-
+chem. 101, 27–40.
+Mothe A. J. and Tator C. H. (2005) Proliferation, migration, and dif-
+ferentiation of endogenous ependymal region stem/progenitor cells
+following minimal spinal cord injury in the adult rat. Neuroscience
+131, 177–187.
+Mountcastle V.B. (1980). Effects of spinal transection, in: Medical
+physiology V1 (Mountcastle V. B., ed), pp. 781–785. CV Mosby
+Company, St. Louis, MO, USA.
+NakaseT., SöhlG., TheisM.,WilleckeK. andNausC.C. (2004) Increased
+apoptosis and inflammation after focal brain ischemia in mice lack-
+ing connexin43 in astrocytes. Am. J. Pathol. 164, 2067–2075.
+Nash B., Thomson C. E., Linington C., Arthur A. T., McClure J. D.,
+McBride M. W. and Barnett S. C. (2011) Functional duality of
+astrocytes in myelination. J. Neurosci. 31, 13028–13038.
+O’Carroll S. J., Alkadhi M., Nicholson L. F. and Green C. R. (2008)
+Connexin 43 mimetic peptides reduce swelling, astrogliosis, and
+neuronal cell death after spinal cord injury. Cell. Commun. Adhes.
+15, 27–42.
+Okano H. J. and Darnell R. B. (1997) A hierarchy of Hu RNA binding
+proteins indevelopingandadultneurons.J.Neurosci.17,3024–3037.
+Parker T. J. and Harwell W. A. (1949) A text-book of zoology. Mac-
+Millan and Co., London.
+PengW.,CotrinaM.L.,HanX.,YuH.,Bekar L., BlumL., TakanoT., Tian
+G. F., Goldman S. A. and Nedergaard M. (2009) Systemic admin-
+istration of an antagonist of the ATP-sensitive receptor P2X7 im-
+proves recovery after spinal cord injury. PNAS 106, 12489–12493.
+Pinto L. and Götz M. (2007) Radial glial cell heterogeneity—the source
+of diverse progeny in the CNS. Prog. Neurobiol. 83, 2–23.
+Profyris C., Cheema S. S., Zang D., Azari M. F., Boyle K. and Petratos
+S. (2004) Degenerative and regenerative mechanisms governing
+spinal cord injury. Neurobiol. Dis. 15, 415–436.
+Quattrone A., Pascale A., Nogues X., Zhao W., Gusev P., Pacini A. and
+Alkon D. L. (2001) Posttranscriptional regulation of gene expres-
+sion in learning by the neuronal ELAV-like mRNA-stabilizing
+proteins. PNAS 98, 11668–11673.
+Rehermann M. I., Marichal N., Russo R. E. and Trujillo-Cenóz O.
+(2009) Neural reconnection in the transected spinal cord of
+the freshwater turtle Trachemys dorbignyi. J. Comp. Neurol. 515,
+197–214.
+Rehermann M. I., Santiñaque F., López-Carro B., Russo R. E. and
+Trujillo-Cenóz O. (2011) Cell proliferation and cytoarchitectural
+remodeling during spinal cord reconnection in the fresh-water
+turtle Trachemys dorbignyi. Cell Tissue Res. 344, 415–433.
+Reimer M. M., Sörensen I., Kuscha V., Frank R. E., Liu C., Becker C.
+and Becker T. (2008) Motor neuron regeneration in adult zebrafish.
+J. Neurosci. 28, 8510–8516.
+Russo R. E., Reali C., Radmilovich M., Fernández A. and Trujillo-Cenóz
+O. (2008) Connexin 43 delimits functional domains of neurogenic
+precursors in the spinal cord. J. Neurosci. 28, 3298–3309.
+Siushansian R., Bechberger J. F., Cechetto D. F., Hachinski V. C. and
+Naus C. C. (2001) Connexin43 null mutation increases infarct size
+after stroke. J Comp Neurol. 440, 387–394.
+Stensaas L. J. (1983) Regeneration in the spinal cord of the newt Not-
+opthalmus (Triturus) pyrrhogaster, in Spinal cord reconstruction
+(Kao C.C., Bunge R.P. and Reier P.J., eds), pp. 121–149. Raven,
+New York.
+Tanaka E. M. and Ferretti P. (2009) Considering the evolution of
+regeneration in the central nervous system. Nat. Rev. Neurosci. 10,
+713–723.
+Thuret S., Moon L. D. and Gage F. H. (2006) Therapeutic interventions
+after spinal cord injury. Nat. Rev. Neurosci. 7, 628–643.
+Trujillo-Cenóz O., Fernández A., Radmilovich M., Reali C. and Russo
+R. E. (2007) Cytological organization of the central gelatinosa in
+the turtle spinal cord. J. Comp. Neurol. 502, 291–308.
+Tysseling V.M., Mithal D., Sahni V., Birch D., Jung H., Belmadani A.,
+Miller R.J. and Kessler J.A. (2011) SDF1 in the dorsal corticosp-
+inal tract promotes CXCR4 + cell migration after spinal cord in-
+jury. J. Neuroinflammation. 8, 16.
+Vance J. A., Campenot R. B. and Vance D. E. (2010) The synthesis and
+transport of lipids for axonal growth and nerve regeneration. Bio-
+chim. Biophys. Acta 1486, 84–96.
+Velardo M. J., Burger C., Williams P. R., Baker H. V., López M. C.,
+Mareci T. H., White T. E., Muzyczka N. and Reier P. J. (2004)
+Patterns of Gene Expression Reveal a Temporally Orchestrated
+Wound Healing Response in the Injured Spinal Cord. J. Neurosci.
+24, 8562–8576.
+White R. E., McTigue D. M. and Jakeman L. B. (2010) Regional het-
+erogeneity in astrocyte responses following contusive spinal cord
+injury in mice. J. Comp. Neurol. 518, 1370–1390.
+Wu X., Yoo S. and Wrathall J. R. (2005) Real-time quantitative PCR
+analysis of temporal–spatial alterations in gene expression after
+spinal cord contusion. J. Neurochem. 93, 943–952.
+Yamamoto S., Nagao M., Sugimori M. et al. (2001) Transcription factor
+expression and Notchdependent regulation of neural progenitors in
+the adult rat spinal cord. J. Neurosci. 21, 9814–9823.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 121, 996–1006
+ 2012 The Authors
+1006 | G. Garcı́a et al.

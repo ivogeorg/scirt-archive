@@ -1,0 +1,208 @@
+T1	Gene 774 799	endothelial growth factor
+T2	Gene 801 805	VEGF
+T3	Gene 828 841	growth factor
+T4	Gene 843 847	FGF2
+T5	Gene 1004 1008	VEGF
+T6	Gene 1320 1336	Recombinant VEGF
+T7	Gene 1341 1345	FGF2
+T8	Gene 2028 2061	vascular endothelia growth factor
+T9	Gene 2063 2067	VEGF
+T10	Gene 2073 2097	fibroblast growth factor
+T11	Gene 2101 2105	FGF2
+T12	Gene 2224 2240	plasmid pEGFP-N2
+T13	Gene 2242 2246	EGFP
+T14	Gene 2499 2503	pBud
+T15	Gene 2504 2508	VEGF
+T16	Gene 2509 2513	FGF2
+T17	Gene 2876 2880	VEGF
+T18	Gene 2884 2888	FGF2
+T19	Gene 3087 3091	VEGF
+T20	Gene 3093 3097	FGF2
+T21	Gene 3959 3963	EGFP
+T22	Gene 4391 4397	PDGFβR
+T23	Gene 4811 4815	EGFP
+T24	Gene 5062 5066	pBud
+T25	Gene 5067 5071	VEGF
+T26	Gene 5072 5076	FGF2
+T27	Gene 5488 5492	VEGF
+T28	Gene 5497 5501	FGF2
+T29	Gene 6313 6317	pBud
+T30	Gene 6318 6322	VEGF
+T31	Gene 6323 6327	FGF2
+T32	Gene 6336 6339	ani
+T33	Gene 6870 6895	green fluorescent protein
+T34	Gene 6897 6901	EGFP
+T35	Gene 7683 7687	VEGF
+T36	Gene 7688 7692	FGF2
+T37	Gene 8176 8180	pBud
+T38	Gene 8181 8185	VEGF
+T39	Gene 8186 8190	FGF2
+T40	Gene 8971 9005	platelet growth factor β receptors
+T41	Gene 9007 9013	PDGFβR
+T42	Gene 10154 10157	cau
+T43	Gene 10870 10874	pBud
+T44	Gene 10875 10879	VEGF
+T45	Gene 10880 10884	FGF2
+T46	Gene 11354 11358	EGFP
+T47	Gene 11837 11841	EGFP
+T48	Gene 11935 11939	EGFP
+T49	Gene 12078 12082	EGFP
+T50	Gene 12140 12144	EGFP
+T51	Gene 12373 12377	pBud
+T52	Gene 12378 12382	VEGF
+T53	Gene 12383 12387	FGF2
+T54	Gene 12585 12589	VEGF
+T55	Gene 12591 12595	FGF2
+T56	Gene 12983 12987	VEGF
+T57	Gene 12989 12993	FGF2
+T58	Gene 13284 13287	ros
+T59	Gene 13791 13813	anti-PDGFβR antibodies
+T60	Gene 14288 14292	pBud
+T61	Gene 14293 14297	VEGF
+T62	Gene 14298 14302	FGF2
+T63	Gene 15211 15215	EGFP
+T64	Gene 15505 15509	EGFP
+T65	Gene 15898 15901	neu
+T66	Gene 15965 15969	FGF2
+T67	Gene 16143 16152	VEGF gene
+T68	Gene 16594 16600	PDGF-B
+T69	Gene 16610 16626	PDGFβR receptors
+T70	Gene 16678 16684	PDGFβR
+T71	Gene 16827 16833	PDGF-B
+T72	Gene 16838 16844	PDGFβR
+T73	Gene 17096 17100	VEGF
+T74	Gene 17212 17216	VEGF
+T75	Gene 17221 17225	FGF2
+T76	Gene 18280 18284	VEGF
+T77	Gene 18289 18324	basic fibroblast growth factor FGF2
+T78	Gene 19480 19489	VEGF gene
+T79	Gene 19960 19966	PDGF-B
+T80	Gene 20126 20130	VEGF
+T81	Gene 20135 20142	L(1)CAM
+T82	Gene 20836 20840	CD34
+T83	Species 1270 1275	Human
+T84	Species 1396 1400	Rats
+T85	Species 1848 1852	rats
+T86	Species 1927 1932	human
+T87	Species 3967 3972	human
+T88	Species 4435 4438	rat
+T89	Species 4542 4547	human
+T90	Species 4671 4674	rat
+T91	Species 4744 4749	human
+T92	Species 5152 5157	human
+T93	Species 5275 5278	rat
+T94	Species 5346 5351	human
+T95	Species 5455 5460	human
+T96	Species 5595 5599	rats
+T97	Species 5877 5881	Rats
+T98	Species 6130 6135	human
+T99	Species 7504 7509	Human
+T100	Species 8022 8025	rat
+T101	Species 8093 8098	human
+T102	Species 10899 10903	rats
+T103	Species 15024 15027	rat
+T104	Species 15291 15295	rats
+T105	Species 15315 15320	human
+T106	Species 16261 16266	human
+T107	Species 17238 17243	human
+T108	Species 17715 17720	human
+T109	Species 17759 17763	rats
+T110	Species 18349 18354	human
+T111	Species 18651 18656	Human
+T112	Species 19977 19981	mice
+T113	Species 20074 20079	Human
+T114	Species 20488 20493	human
+T115	Species 20842 20847	human
+T116	Species 20952 20956	rats
+T117	Species 21034 21039	Human
+T118	InteractionKeyword 85 96	stimulating
+T119	InteractionKeyword 150 157	induced
+T120	InteractionKeyword 1009 1017	promotes
+T121	InteractionKeyword 1042 1049	effects
+T122	InteractionKeyword 1875 1882	effects
+T123	InteractionKeyword 1962 1973	transformed
+T124	InteractionKeyword 2577 2586	increased
+T125	InteractionKeyword 2737 2745	increase
+T126	InteractionKeyword 2782 2792	expressing
+T127	InteractionKeyword 2953 2963	stimulated
+T128	InteractionKeyword 5099 5108	expresses
+T129	InteractionKeyword 5304 5311	effects
+T130	InteractionKeyword 5395 5403	modified
+T131	InteractionKeyword 5428 5438	expressing
+T132	InteractionKeyword 6861 6869	enhanced
+T133	InteractionKeyword 7883 7890	control
+T134	InteractionKeyword 9564 9571	results
+T135	InteractionKeyword 9844 9851	changes
+T136	InteractionKeyword 9906 9914	affected
+T137	InteractionKeyword 10370 10379	decreased
+T138	InteractionKeyword 10385 10395	increasing
+T139	InteractionKeyword 11332 11342	decreasing
+T140	InteractionKeyword 11590 11596	formed
+T141	InteractionKeyword 11890 11899	increased
+T142	InteractionKeyword 11910 11919	resulting
+T143	InteractionKeyword 11925 11934	increased
+T144	InteractionKeyword 11978 11987	increases
+T145	InteractionKeyword 12090 12099	decreased
+T146	InteractionKeyword 12433 12442	increased
+T147	InteractionKeyword 12880 12888	decrease
+T148	InteractionKeyword 13401 13410	increased
+T149	InteractionKeyword 13483 13490	results
+T150	InteractionKeyword 13575 13584	resulting
+T151	InteractionKeyword 13639 13649	increasing
+T152	InteractionKeyword 13866 13876	associated
+T153	InteractionKeyword 14382 14392	expressing
+T154	InteractionKeyword 14472 14481	increased
+T155	InteractionKeyword 14539 14548	influence
+T156	InteractionKeyword 14714 14720	depend
+T157	InteractionKeyword 14904 14911	results
+T158	InteractionKeyword 14963 14971	modified
+T159	InteractionKeyword 15151 15160	expressed
+T160	InteractionKeyword 15343 15349	result
+T161	InteractionKeyword 15395 15404	increases
+T162	InteractionKeyword 15680 15683	led
+T163	InteractionKeyword 15971 15980	increases
+T164	InteractionKeyword 16601 16606	binds
+T165	InteractionKeyword 16628 16639	stimulating
+T166	InteractionKeyword 16710 16719	resulting
+T167	InteractionKeyword 16736 16745	influence
+T168	InteractionKeyword 16863 16871	increase
+T169	InteractionKeyword 16958 16966	increase
+T170	InteractionKeyword 17052 17058	effect
+T171	InteractionKeyword 17070 17076	result
+T172	InteractionKeyword 17101 17109	produced
+T173	InteractionKeyword 17152 17159	results
+T174	InteractionKeyword 17273 17278	leads
+T175	InteractionKeyword 17282 17291	decreases
+T176	InteractionKeyword 17352 17362	stimulates
+T177	InteractionKeyword 18700 18706	induce
+T178	InteractionKeyword 18742 18749	promote
+T179	InteractionKeyword 19272 19277	leads
+T180	InteractionKeyword 19750 19757	depends
+T181	InteractionKeyword 20181 20190	transform
+T182	InteractionKeyword 20542 20549	induced
+R183	Partner1 Arg1:T122 Arg2:T10
+R184	Partner2 Arg1:T122 Arg2:T11
+R185	Partner1 Arg1:T124 Arg2:T16
+R186	Partner2 Arg1:T124 Arg2:T14
+R187	Partner1 Arg1:T127 Arg2:T17
+R188	Partner2 Arg1:T127 Arg2:T18
+R189	Partner1 Arg1:T128 Arg2:T26
+R190	Partner2 Arg1:T128 Arg2:T24
+R191	Partner1 Arg1:T129 Arg2:T27
+R192	Partner2 Arg1:T129 Arg2:T28
+R193	Partner1 Arg1:T132 Arg2:T33
+R194	Partner2 Arg1:T132 Arg2:T34
+R195	Partner1 Arg1:T141 Arg2:T48
+R196	Partner2 Arg1:T141 Arg2:T47
+R197	Partner1 Arg1:T146 Arg2:T51
+R198	Partner2 Arg1:T146 Arg2:T52
+R199	Partner1 Arg1:T147 Arg2:T56
+R200	Partner2 Arg1:T147 Arg2:T57
+R201	Partner1 Arg1:T163 Arg2:T65
+R202	Partner2 Arg1:T163 Arg2:T66
+R203	Partner1 Arg1:T165 Arg2:T70
+R204	Partner2 Arg1:T165 Arg2:T68
+R205	Partner1 Arg1:T173 Arg2:T74
+R206	Partner2 Arg1:T173 Arg2:T75
+R207	Partner1 Arg1:T181 Arg2:T80
+R208	Partner2 Arg1:T181 Arg2:T81

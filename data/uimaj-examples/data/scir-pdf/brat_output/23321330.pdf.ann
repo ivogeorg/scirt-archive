@@ -1,0 +1,163 @@
+T1	Gene 485 488	SCI
+T2	Gene 540 542	DH
+T3	Gene 1369 1372	SCI
+T4	Gene 4113 4117	XUE1
+T5	Gene 4119 4128	LING ZHU1
+T6	Gene 4490 4495	Neuro
+T7	Gene 4843 4867	human MSC serum-freebone
+T8	Gene 4915 4928	Human UC-MSCs
+T9	Gene 5362 5366	CD73
+T10	Gene 5368 5373	CD105
+T11	Gene 5375 5380	SSEA4
+T12	Gene 5382 5386	CD29
+T13	Gene 5388 5392	CD44
+T14	Gene 5397 5402	HLA-A
+T15	Gene 5404 5409	HLA-B
+T16	Gene 5463 5469	HLA-DR
+T17	Gene 5760 5763	SCI
+T18	Gene 5858 5861	SCI
+T19	Gene 9314 9332	0.2% collagenase I
+T20	Gene 9433 9440	trypsin
+T21	Gene 11359 11376	aline phosphatase
+T22	Gene 11378 11381	ALP
+T23	Gene 11950 11981	8 L1 Y 104 108 104 108 76 84 45
+T24	Gene 12579 12605	N 102 102 102 102 75 94 44
+T25	Gene 12889 12892	SCI
+T26	Gene 15533 15536	SCI
+T27	Gene 17015 17018	SCI
+T28	Gene 17335 17338	SCI
+T29	Gene 17734 17737	SCI
+T30	Gene 18620 18623	SCI
+T31	Gene 19019 19036	L1 vertebral body
+T32	Gene 19148 19153	CD34þ
+T33	Gene 19158 19172	UC matrix MSCs
+T34	Gene 19858 19861	SCI
+T35	Gene 20118 20122	MSCs
+T36	Gene 20696 20698	MH
+T37	Gene 20700 20706	Hsu SY
+T38	Gene 20708 20715	Cheng H
+T39	Gene 20717 20722	Fu YS
+T40	Gene 20909 20915	Lin SZ
+T41	Gene 20917 20925	Chang YC
+T42	Gene 20998 21003	beta1
+T43	Gene 21004 21012	integrin
+T44	Gene 21117 21123	Koh SH
+T45	Gene 21125 21131	Kim KS
+T46	Gene 21133 21140	Choi MR
+T47	Gene 21142 21149	Jung KH
+T48	Gene 21151 21158	Park KS
+T49	Gene 21160 21167	Chai YG
+T50	Gene 21340 21342	KH
+T51	Gene 21344 21351	Jang IK
+T52	Gene 21353 21359	Lee MW
+T53	Gene 21361 21367	Kim HE
+T54	Gene 22470 22473	MSC
+T55	Gene 22725 22733	Martin P
+T56	Gene 22735 22742	Davis D
+T57	Gene 23605 23610	CD105
+T58	Gene 23703 23708	Int J
+T59	Gene 23739 23746	Wang HS
+T60	Gene 23748 23774	Hung SC, Peng ST, Huang CC
+T61	Gene 23776 23782	Wei HM
+T62	Gene 23921 23923	EJ
+T63	Gene 23925 23932	Kang HJ
+T64	Gene 23934 23942	Zhang SY
+T65	Gene 23944 23950	Kim JH
+T66	Gene 24092 24097	Fu YS
+T67	Gene 24099 24106	Shih YT
+T68	Gene 24108 24116	Cheng YC
+T69	Gene 24118 24121	Min
+T70	Gene 24398 24408	Chin Med J
+T71	Gene 24439 24444	Fu YS
+T72	Gene 24446 24454	Cheng YC
+T73	Gene 24456 24459	Lin
+T74	Gene 25028 25034	Lee PH
+T75	Gene 25036 25040	Park
+T76	Gene 25140 25143	Par
+T77	Gene 25272 25277	Lo DP
+T78	Gene 25415 25420	Jan M
+T79	Gene 25734 25739	Wu KH
+T80	Gene 25741 25747	Zhou B
+T81	Gene 25749 25762	Lu SH, Feng B
+T82	Species 335 339	rats
+T83	Species 2833 2838	human
+T84	Species 2915 2919	rats
+T85	Species 4843 4848	human
+T86	Species 4915 4920	Human
+T87	Species 7148 7153	human
+T88	Species 7194 7199	human
+T89	Species 8545 8550	human
+T90	Species 9108 9113	human
+T91	Species 20743 20748	human
+T92	Species 20836 20839	rat
+T93	Species 21016 21021	human
+T94	Species 21192 21197	human
+T95	Species 21298 21302	rats
+T96	Species 22641 22646	human
+T97	Species 23076 23081	human
+T98	Species 23265 23270	human
+T99	Species 23415 23420	Human
+T100	Species 23852 23857	human
+T101	Species 24144 24149	human
+T102	Species 24291 24296	Human
+T103	Species 24511 24516	human
+T104	Species 25518 25523	human
+T105	Species 25826 25831	human
+T106	InteractionKeyword 200 207	effects
+T107	InteractionKeyword 543 554	contributed
+T108	InteractionKeyword 840 847	promote
+T109	InteractionKeyword 873 881	limiting
+T110	InteractionKeyword 893 902	promoting
+T111	InteractionKeyword 1153 1159	effect
+T112	InteractionKeyword 1230 1237	promote
+T113	InteractionKeyword 1282 1289	follows
+T114	InteractionKeyword 1384 1392	increase
+T115	InteractionKeyword 1608 1616	enhanced
+T116	InteractionKeyword 1742 1749	control
+T117	InteractionKeyword 1951 1958	effects
+T118	InteractionKeyword 2468 2472	lead
+T119	InteractionKeyword 2553 2563	contribute
+T120	InteractionKeyword 3026 3037	accompanied
+T121	InteractionKeyword 3041 3050	increased
+T122	InteractionKeyword 4217 4223	effect
+T123	InteractionKeyword 4936 4943	induced
+T124	InteractionKeyword 5352 5361	expressed
+T125	InteractionKeyword 5455 5462	express
+T126	InteractionKeyword 5470 5480	associated
+T127	InteractionKeyword 5679 5685	effect
+T128	InteractionKeyword 5785 5794	recruited
+T129	InteractionKeyword 6258 6264	causes
+T130	InteractionKeyword 6548 6559	suppressing
+T131	InteractionKeyword 6678 6688	contribute
+T132	InteractionKeyword 7445 7451	formed
+T133	InteractionKeyword 9610 9620	suppressed
+T134	InteractionKeyword 9777 9784	prevent
+T135	InteractionKeyword 10156 10163	prevent
+T136	InteractionKeyword 11532 11538	effect
+T137	InteractionKeyword 13838 13845	effects
+T138	InteractionKeyword 14020 14027	effects
+T139	InteractionKeyword 14325 14332	effects
+T140	InteractionKeyword 14409 14417	followed
+T141	InteractionKeyword 16419 16426	effects
+T142	InteractionKeyword 16907 16914	leading
+T143	InteractionKeyword 16915 16920	cause
+T144	InteractionKeyword 17301 17308	limited
+T145	InteractionKeyword 17524 17531	results
+T146	InteractionKeyword 17626 17632	caused
+T147	InteractionKeyword 17738 17744	caused
+T148	InteractionKeyword 17781 17789	involved
+T149	InteractionKeyword 17950 17955	limit
+T150	InteractionKeyword 18402 18409	promote
+T151	InteractionKeyword 18635 18642	limited
+T152	InteractionKeyword 18901 18911	associated
+T153	InteractionKeyword 19295 19302	effects
+T154	InteractionKeyword 20407 20416	targeting
+T155	InteractionKeyword 22121 22131	inhibiting
+T156	InteractionKeyword 22426 22433	results
+T157	InteractionKeyword 22796 22800	form
+R158	Partner1 Arg1:T122 Arg2:T5
+R159	Partner2 Arg1:T122 Arg2:T4
+R160	Partner1 Arg1:T124 Arg2:T14
+R161	Partner2 Arg1:T124 Arg2:T11
+R162	Partner1 Arg1:T136 Arg2:T24
+R163	Partner2 Arg1:T136 Arg2:T23

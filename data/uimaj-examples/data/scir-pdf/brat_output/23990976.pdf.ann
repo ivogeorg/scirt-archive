@@ -1,0 +1,556 @@
+T1	Gene 167 181	Mark Züchner1
+T2	Gene 1403 1406	SCC
+T3	Gene 1743 1746	SCC
+T4	Gene 1949 1952	SCC
+T5	Gene 2804 2814	Züchner M
+T6	Gene 5185 5188	SCI
+T7	Gene 5364 5373	SCI cases
+T8	Gene 5915 5918	SCI
+T9	Gene 6182 6185	SCI
+T10	Gene 9081 9084	SCI
+T11	Gene 11604 11615	ref. FE681K
+T12	Gene 16535 16538	SCC
+T13	Gene 19040 19052	SHAM .10 5 5
+T14	Gene 19091 19097	SHAM 3
+T15	Gene 19100 19107	SCC 6 6
+T16	Gene 19165 19175	SHAM 4 7 6
+T17	Gene 19225 19229	SHAM
+T18	Gene 19256 19264	SHAM 3 3
+T19	Gene 19267 19274	SCC 5 4
+T20	Gene 19302 19307	SCC 5
+T21	Gene 19331 19341	SHAM 1 2 3
+T22	Gene 19342 19347	SCC 2
+T23	Gene 20532 20535	SCC
+T24	Gene 20605 20611	NeuN 1
+T25	Gene 20735 20739	NeuN
+T26	Gene 21472 21475	SCC
+T27	Gene 21878 21897	Spinal Interneurons
+T28	Gene 27345 27347	C1
+T29	Gene 29140 29142	Nu
+T30	Gene 31317 31328	Human Fetal
+T31	Gene 31442 31449	laminin
+T32	Gene 31503 31528	Green Fluorescent Protein
+T33	Gene 31530 31535	EmGFP
+T34	Gene 33589 33611	Anti-NeuN-biotinylated
+T35	Gene 36981 36986	dIINs
+T36	Gene 37782 37790	hindlimb
+T37	Gene 37841 37844	SCC
+T38	Gene 37846 37849	red
+T39	Gene 38022 38025	bin
+T40	Gene 38283 38286	SCC
+T41	Gene 39453 39456	SCC
+T42	Gene 39693 39696	SCC
+T43	Gene 39726 39748	neuronal proteins NeuN
+T44	Gene 42687 42707	RDA application site
+T45	Gene 42709 42716	Fig. 4A
+T46	Gene 43226 43229	Fig
+T47	Gene 43231 43233	S1
+T48	Gene 43396 43399	Fig
+T49	Gene 43427 43432	aIINs
+T50	Gene 43576 43581	dIINs
+T51	Gene 47887 47889	D2
+T52	Gene 48695 48702	LMC MNs
+T53	Gene 48718 48720	VF
+T54	Gene 49096 49106	L5 MMC MNs
+T55	Gene 49122 49124	VF
+T56	Gene 50726 50729	SCC
+T57	Gene 50850 50853	Fig
+T58	Gene 50855 50858	6B1
+T59	Gene 50860 50862	C1
+T60	Gene 51345 51348	Fig
+T61	Gene 51350 51353	6B1
+T62	Gene 51401 51404	Fig
+T63	Gene 51406 51409	6B2
+T64	Gene 52715 52717	VF
+T65	Gene 53107 53118	VIII N Stim
+T66	Gene 53939 53941	VF
+T67	Gene 53993 53996	SCC
+T68	Gene 53998 54001	Fig
+T69	Gene 54665 54667	VF
+T70	Gene 55961 55964	Fig
+T71	Gene 55966 55969	7B1
+T72	Gene 56172 56175	Fig
+T73	Gene 56177 56180	7B2
+T74	Gene 56393 56396	SCC
+T75	Gene 56705 56708	Fig
+T76	Gene 56710 56713	7C1
+T77	Gene 56857 56860	Fig
+T78	Gene 56862 56865	7C1
+T79	Gene 56985 56988	Fig
+T80	Gene 56990 56993	7C1
+T81	Gene 57663 57670	LMC MNs
+T82	Gene 58383 58386	GFP
+T83	Gene 59504 59507	GFP
+T84	Gene 59844 59847	GFP
+T85	Gene 64357 64360	SCI
+T86	Gene 65533 65544	Spinal Cord
+T87	Gene 65688 65696	hindlimb
+T88	Gene 67070 67073	SCC
+T89	Gene 69476 69479	SCC
+T90	Gene 74626 74646	RDA application site
+T91	Gene 74840 74860	RDA application site
+T92	Gene 75312 75321	SCC mouse
+T93	Gene 75323 75326	red
+T94	Gene 78163 78190	Chondroitinase ABC promotes
+T95	Gene 78355 78361	Nogo-A
+T96	Gene 81872 81888	hindlimb muscles
+T97	Gene 83397 83404	Ann N Y
+T98	Gene 85451 85476	glutamine transporter SN1
+T99	Gene 85712 85721	Exp Brain
+T100	Gene 85722 85729	Res 214
+T101	Gene 86757 86764	Juvin L
+T102	Gene 88157 88163	Myelin
+T103	Gene 88234 88237	MBP
+T104	Gene 88238 88241	Lac
+T105	Gene 88335 88362	myelin basic protein exon 1
+T106	Gene 88808 88818	tenascin-R
+T107	Species 11 16	Mouse
+T108	Species 92 97	Human
+T109	Species 1057 1062	mouse
+T110	Species 1297 1302	human
+T111	Species 2313 2317	mice
+T112	Species 2339 2344	human
+T113	Species 2546 2551	mouse
+T114	Species 2688 2693	human
+T115	Species 2854 2859	Mouse
+T116	Species 2935 2940	Human
+T117	Species 4174 4178	cats
+T118	Species 4691 4696	human
+T119	Species 6501 6506	mouse
+T120	Species 6745 6750	mouse
+T121	Species 7372 7377	mouse
+T122	Species 7772 7777	human
+T123	Species 7979 7984	human
+T124	Species 9750 9755	human
+T125	Species 9877 9882	mouse
+T126	Species 10570 10575	human
+T127	Species 10659 10664	mouse
+T128	Species 10960 10965	human
+T129	Species 11101 11106	mouse
+T130	Species 11766 11770	mice
+T131	Species 12249 12253	mice
+T132	Species 12386 12390	mice
+T133	Species 13103 13108	mouse
+T134	Species 13550 13555	Mouse
+T135	Species 14835 14840	Mouse
+T136	Species 15469 15473	mice
+T137	Species 15721 15725	mice
+T138	Species 16547 16551	mice
+T139	Species 18272 18276	mice
+T140	Species 18349 18353	mice
+T141	Species 18454 18458	Mice
+T142	Species 18833 18837	mice
+T143	Species 19445 19450	Mouse
+T144	Species 19708 19712	mice
+T145	Species 21338 21343	Mouse
+T146	Species 21749 21754	Mouse
+T147	Species 29199 29204	Mouse
+T148	Species 29929 29934	mouse
+T149	Species 30321 30326	Mouse
+T150	Species 31317 31322	Human
+T151	Species 33358 33362	goat
+T152	Species 33753 33757	goat
+T153	Species 33763 33769	rabbit
+T154	Species 34249 34254	Mouse
+T155	Species 34413 34418	mouse
+T156	Species 34640 34644	rats
+T157	Species 34710 34714	mice
+T158	Species 35527 35531	mice
+T159	Species 35828 35832	mice
+T160	Species 35849 35853	mice
+T161	Species 35915 35919	mice
+T162	Species 35961 35965	mice
+T163	Species 37293 37298	Mouse
+T164	Species 37613 37617	mice
+T165	Species 37866 37870	mice
+T166	Species 38210 38214	mice
+T167	Species 38295 38299	mice
+T168	Species 38673 38677	mice
+T169	Species 38809 38813	mice
+T170	Species 39032 39037	Mouse
+T171	Species 42506 42511	mouse
+T172	Species 42516 42519	rat
+T173	Species 43413 43417	mice
+T174	Species 43971 43975	mice
+T175	Species 44122 44126	mice
+T176	Species 44527 44531	mice
+T177	Species 44606 44610	mice
+T178	Species 44906 44910	mice
+T179	Species 45100 45104	mice
+T180	Species 45197 45201	mice
+T181	Species 45239 45243	mice
+T182	Species 45536 45540	mice
+T183	Species 46094 46098	mice
+T184	Species 46386 46390	mice
+T185	Species 46488 46493	Mouse
+T186	Species 47385 47389	mice
+T187	Species 47709 47713	mice
+T188	Species 48037 48042	Mouse
+T189	Species 48816 48820	mice
+T190	Species 48855 48859	mice
+T191	Species 49171 49175	mice
+T192	Species 49806 49811	Mouse
+T193	Species 50066 50070	mice
+T194	Species 50438 50442	mice
+T195	Species 51235 51239	mice
+T196	Species 52790 52794	mice
+T197	Species 53421 53426	mouse
+T198	Species 53444 53448	mice
+T199	Species 53820 53825	Mouse
+T200	Species 54042 54046	mice
+T201	Species 54188 54192	mice
+T202	Species 54355 54359	mice
+T203	Species 54733 54737	mice
+T204	Species 55588 55592	mice
+T205	Species 56739 56743	mice
+T206	Species 57176 57180	mice
+T207	Species 57842 57846	mice
+T208	Species 58153 58158	human
+T209	Species 58593 58598	Mouse
+T210	Species 58912 58917	Human
+T211	Species 59159 59164	human
+T212	Species 59302 59307	human
+T213	Species 59408 59412	mice
+T214	Species 59517 59522	human
+T215	Species 60043 60048	mouse
+T216	Species 60112 60117	human
+T217	Species 62187 62192	human
+T218	Species 62298 62303	mouse
+T219	Species 63954 63959	mouse
+T220	Species 64313 64318	mouse
+T221	Species 64988 64992	rats
+T222	Species 64997 65001	cats
+T223	Species 65063 65067	rats
+T224	Species 65414 65419	mouse
+T225	Species 65553 65557	mice
+T226	Species 66053 66058	Mouse
+T227	Species 66181 66185	mice
+T228	Species 66534 66538	mice
+T229	Species 67259 67263	mice
+T230	Species 69105 69109	Mice
+T231	Species 69165 69169	rats
+T232	Species 69496 69501	mouse
+T233	Species 72918 72923	mouse
+T234	Species 73875 73880	Mouse
+T235	Species 74677 74682	mouse
+T236	Species 74932 74936	mice
+T237	Species 74972 74976	mice
+T238	Species 75142 75146	mice
+T239	Species 75220 75224	mice
+T240	Species 75316 75321	mouse
+T241	Species 75349 75354	mouse
+T242	Species 75462 75466	mice
+T243	Species 75836 75841	mouse
+T244	Species 75872 75877	mouse
+T245	Species 76221 76226	mouse
+T246	Species 76254 76259	mouse
+T247	Species 77000 77004	rats
+T248	Species 77491 77494	cat
+T249	Species 78810 78815	mouse
+T250	Species 80038 80042	rats
+T251	Species 80557 80560	rat
+T252	Species 80803 80807	rats
+T253	Species 81024 81028	rats
+T254	Species 81315 81320	mouse
+T255	Species 81896 81901	mouse
+T256	Species 82110 82115	mouse
+T257	Species 82155 82160	Mouse
+T258	Species 82415 82420	mouse
+T259	Species 82676 82681	mouse
+T260	Species 82860 82865	mouse
+T261	Species 83187 83192	mouse
+T262	Species 83197 83200	rat
+T263	Species 83320 83325	mouse
+T264	Species 83743 83746	cat
+T265	Species 84126 84131	mouse
+T266	Species 84610 84613	rat
+T267	Species 85149 85156	chicken
+T268	Species 85707 85710	rat
+T269	Species 86012 86019	Pollock
+T270	Species 86110 86115	human
+T271	Species 86372 86377	human
+T272	Species 86907 86910	rat
+T273	Species 87110 87115	mouse
+T274	Species 87256 87259	rat
+T275	Species 87671 87675	rats
+T276	Species 87807 87812	mouse
+T277	Species 87984 87990	Suzuki
+T278	Species 88079 88083	mice
+T279	Species 88213 88218	mouse
+T280	Species 88432 88435	rat
+T281	Species 88826 88829	rat
+T282	Species 88996 88999	rat
+T283	Species 89090 89094	rats
+T284	Species 89650 89655	Human
+T285	Species 89976 89981	mouse
+T286	Species 90032 90037	human
+T287	Species 90339 90344	Mouse
+T288	InteractionKeyword 626 633	limited
+T289	InteractionKeyword 761 769	mediated
+T290	InteractionKeyword 1411 1420	generated
+T291	InteractionKeyword 2211 2218	control
+T292	InteractionKeyword 2305 2312	control
+T293	InteractionKeyword 3851 3860	competing
+T294	InteractionKeyword 3931 3942	contributed
+T295	InteractionKeyword 4091 4101	increasing
+T296	InteractionKeyword 4208 4217	following
+T297	InteractionKeyword 4271 4279	promoted
+T298	InteractionKeyword 4363 4371	involves
+T299	InteractionKeyword 4469 4476	promote
+T300	InteractionKeyword 4498 4507	depending
+T301	InteractionKeyword 4861 4868	involve
+T302	InteractionKeyword 5005 5014	governing
+T303	InteractionKeyword 5035 5044	following
+T304	InteractionKeyword 5139 5148	following
+T305	InteractionKeyword 5305 5311	causes
+T306	InteractionKeyword 5762 5767	cause
+T307	InteractionKeyword 5893 5901	involved
+T308	InteractionKeyword 6200 6209	generated
+T309	InteractionKeyword 6602 6610	involved
+T310	InteractionKeyword 6673 6680	control
+T311	InteractionKeyword 7920 7928	promotes
+T312	InteractionKeyword 8139 8146	control
+T313	InteractionKeyword 8255 8261	impair
+T314	InteractionKeyword 8267 8274	control
+T315	InteractionKeyword 8504 8515	facilitates
+T316	InteractionKeyword 8778 8787	determine
+T317	InteractionKeyword 8796 8806	augmenting
+T318	InteractionKeyword 8825 8833	targeted
+T319	InteractionKeyword 8874 8881	effects
+T320	InteractionKeyword 9154 9164	generating
+T321	InteractionKeyword 9290 9296	raised
+T322	InteractionKeyword 11670 11678	modified
+T323	InteractionKeyword 11707 11715	generate
+T324	InteractionKeyword 12047 12054	prevent
+T325	InteractionKeyword 12931 12940	initiated
+T326	InteractionKeyword 14135 14144	following
+T327	InteractionKeyword 15831 15837	reduce
+T328	InteractionKeyword 16092 16101	following
+T329	InteractionKeyword 16278 16285	control
+T330	InteractionKeyword 16463 16471	modified
+T331	InteractionKeyword 16526 16533	control
+T332	InteractionKeyword 17077 17087	stimulated
+T333	InteractionKeyword 17122 17132	facilitate
+T334	InteractionKeyword 17368 17371	led
+T335	InteractionKeyword 17424 17433	involving
+T336	InteractionKeyword 18256 18263	control
+T337	InteractionKeyword 18511 18520	following
+T338	InteractionKeyword 18689 18699	determined
+T339	InteractionKeyword 20766 20776	diminished
+T340	InteractionKeyword 21485 21492	control
+T341	InteractionKeyword 21586 21593	control
+T342	InteractionKeyword 22656 22664	controls
+T343	InteractionKeyword 23141 23149	controls
+T344	InteractionKeyword 23853 23862	generated
+T345	InteractionKeyword 23924 23932	produced
+T346	InteractionKeyword 24537 24545	controls
+T347	InteractionKeyword 24642 24650	followed
+T348	InteractionKeyword 25130 25134	lead
+T349	InteractionKeyword 25931 25940	activated
+T350	InteractionKeyword 26116 26125	activated
+T351	InteractionKeyword 26249 26258	activated
+T352	InteractionKeyword 26262 26273	stimulating
+T353	InteractionKeyword 26668 26675	signals
+T354	InteractionKeyword 27283 27290	reduced
+T355	InteractionKeyword 27366 27375	following
+T356	InteractionKeyword 27519 27527	mediated
+T357	InteractionKeyword 28265 28272	control
+T358	InteractionKeyword 29382 29391	following
+T359	InteractionKeyword 30059 30067	controls
+T360	InteractionKeyword 30897 30904	changes
+T361	InteractionKeyword 31065 31074	generated
+T362	InteractionKeyword 32617 32626	eliminate
+T363	InteractionKeyword 32658 32664	caused
+T364	InteractionKeyword 32981 32990	increases
+T365	InteractionKeyword 33240 33246	formed
+T366	InteractionKeyword 33300 33307	blocked
+T367	InteractionKeyword 33323 33330	binding
+T368	InteractionKeyword 34285 34295	determined
+T369	InteractionKeyword 34912 34918	reduce
+T370	InteractionKeyword 35763 35771	controls
+T371	InteractionKeyword 35976 35984	controls
+T372	InteractionKeyword 36234 36243	following
+T373	InteractionKeyword 36447 36457	recognized
+T374	InteractionKeyword 37010 37017	control
+T375	InteractionKeyword 37439 37448	following
+T376	InteractionKeyword 37597 37604	control
+T377	InteractionKeyword 37664 37672	controls
+T378	InteractionKeyword 37824 37831	control
+T379	InteractionKeyword 37900 37909	expressed
+T380	InteractionKeyword 38162 38171	increased
+T381	InteractionKeyword 38194 38201	control
+T382	InteractionKeyword 38274 38281	control
+T383	InteractionKeyword 38350 38358	controls
+T384	InteractionKeyword 38657 38664	control
+T385	InteractionKeyword 38788 38795	control
+T386	InteractionKeyword 39488 39494	formed
+T387	InteractionKeyword 39848 39858	diminished
+T388	InteractionKeyword 40028 40035	limited
+T389	InteractionKeyword 40956 40964	controls
+T390	InteractionKeyword 41260 41268	controls
+T391	InteractionKeyword 41592 41601	disrupted
+T392	InteractionKeyword 42594 42604	diminished
+T393	InteractionKeyword 42857 42865	decrease
+T394	InteractionKeyword 43212 43220	controls
+T395	InteractionKeyword 43244 43252	controls
+T396	InteractionKeyword 43323 43333	decreasing
+T397	InteractionKeyword 43486 43494	controls
+T398	InteractionKeyword 43496 43506	decreasing
+T399	InteractionKeyword 43757 43767	diminished
+T400	InteractionKeyword 43818 43826	controls
+T401	InteractionKeyword 44032 44038	effect
+T402	InteractionKeyword 44093 44101	modified
+T403	InteractionKeyword 44164 44174	stimulated
+T404	InteractionKeyword 44448 44456	controls
+T405	InteractionKeyword 44690 44698	controls
+T406	InteractionKeyword 44898 44905	control
+T407	InteractionKeyword 44924 44932	increase
+T408	InteractionKeyword 45051 45060	following
+T409	InteractionKeyword 45473 45481	controls
+T410	InteractionKeyword 46370 46377	control
+T411	InteractionKeyword 46670 46679	following
+T412	InteractionKeyword 47244 47251	control
+T413	InteractionKeyword 47332 47339	control
+T414	InteractionKeyword 47564 47573	following
+T415	InteractionKeyword 47678 47685	control
+T416	InteractionKeyword 47900 47909	increased
+T417	InteractionKeyword 48219 48228	following
+T418	InteractionKeyword 48808 48815	control
+T419	InteractionKeyword 48987 48993	change
+T420	InteractionKeyword 49145 49152	control
+T421	InteractionKeyword 50430 50437	control
+T422	InteractionKeyword 50447 50457	stimulated
+T423	InteractionKeyword 50739 50747	controls
+T424	InteractionKeyword 51573 51581	controls
+T425	InteractionKeyword 52163 52171	followed
+T426	InteractionKeyword 52385 52394	increased
+T427	InteractionKeyword 52413 52423	increasing
+T428	InteractionKeyword 52455 52461	change
+T429	InteractionKeyword 52782 52789	control
+T430	InteractionKeyword 52967 52976	following
+T431	InteractionKeyword 53413 53420	control
+T432	InteractionKeyword 53516 53522	change
+T433	InteractionKeyword 54034 54041	control
+T434	InteractionKeyword 54260 54269	following
+T435	InteractionKeyword 54429 54437	affected
+T436	InteractionKeyword 54565 54572	altered
+T437	InteractionKeyword 54725 54732	control
+T438	InteractionKeyword 55185 55193	mediated
+T439	InteractionKeyword 55213 55224	facilitates
+T440	InteractionKeyword 55538 55547	following
+T441	InteractionKeyword 55580 55587	control
+T442	InteractionKeyword 55593 55602	activated
+T443	InteractionKeyword 55816 55822	target
+T444	InteractionKeyword 55950 55959	abolished
+T445	InteractionKeyword 56162 56170	controls
+T446	InteractionKeyword 56231 56239	affected
+T447	InteractionKeyword 56383 56389	effect
+T448	InteractionKeyword 56536 56545	following
+T449	InteractionKeyword 56731 56738	control
+T450	InteractionKeyword 57168 57175	control
+T451	InteractionKeyword 57420 57429	following
+T452	InteractionKeyword 57653 57662	activates
+T453	InteractionKeyword 57834 57841	control
+T454	InteractionKeyword 58061 58071	eliminated
+T455	InteractionKeyword 58189 58198	following
+T456	InteractionKeyword 58897 58906	following
+T457	InteractionKeyword 59834 59843	expressed
+T458	InteractionKeyword 61239 61248	promoting
+T459	InteractionKeyword 61424 61436	upregulating
+T460	InteractionKeyword 61762 61768	direct
+T461	InteractionKeyword 62825 62836	facilitates
+T462	InteractionKeyword 62931 62937	target
+T463	InteractionKeyword 63304 63314	facilitate
+T464	InteractionKeyword 64026 64034	increase
+T465	InteractionKeyword 65353 65359	target
+T466	InteractionKeyword 65647 65655	involved
+T467	InteractionKeyword 66173 66180	control
+T468	InteractionKeyword 66921 66928	targets
+T469	InteractionKeyword 67060 67069	following
+T470	InteractionKeyword 67326 67334	controls
+T471	InteractionKeyword 67466 67470	lead
+T472	InteractionKeyword 67574 67584	generating
+T473	InteractionKeyword 67775 67781	follow
+T474	InteractionKeyword 67862 67871	determine
+T475	InteractionKeyword 68046 68054	diminish
+T476	InteractionKeyword 68201 68211	contribute
+T477	InteractionKeyword 68215 68223	limiting
+T478	InteractionKeyword 68327 68332	limit
+T479	InteractionKeyword 68457 68462	limit
+T480	InteractionKeyword 68617 68626	determine
+T481	InteractionKeyword 68678 68685	effects
+T482	InteractionKeyword 68834 68847	downregulated
+T483	InteractionKeyword 68854 68864	contribute
+T484	InteractionKeyword 68978 68986	targeted
+T485	InteractionKeyword 69177 69185	modified
+T486	InteractionKeyword 69317 69325	generate
+T487	InteractionKeyword 69465 69475	generating
+T488	InteractionKeyword 69502 69510	involves
+T489	InteractionKeyword 69731 69739	generate
+T490	InteractionKeyword 69766 69774	required
+T491	InteractionKeyword 69811 69814	led
+T492	InteractionKeyword 69895 69898	led
+T493	InteractionKeyword 69907 69917	controlled
+T494	InteractionKeyword 70315 70322	results
+T495	InteractionKeyword 70376 70383	affects
+T496	InteractionKeyword 70576 70584	modified
+T497	InteractionKeyword 70774 70782	changing
+T498	InteractionKeyword 71103 71109	change
+T499	InteractionKeyword 71297 71307	increasing
+T500	InteractionKeyword 71414 71422	decrease
+T501	InteractionKeyword 71466 71473	affects
+T502	InteractionKeyword 71912 71921	promoting
+T503	InteractionKeyword 71949 71960	stimulating
+T504	InteractionKeyword 72360 72367	results
+T505	InteractionKeyword 72877 72884	signals
+T506	InteractionKeyword 73019 73026	express
+T507	InteractionKeyword 74924 74931	control
+T508	InteractionKeyword 75341 75348	control
+T509	InteractionKeyword 75793 75803	generating
+T510	InteractionKeyword 75828 75835	control
+T511	InteractionKeyword 76213 76220	control
+T512	InteractionKeyword 76959 76964	forms
+T513	InteractionKeyword 77797 77804	control
+T514	InteractionKeyword 78182 78190	promotes
+T515	InteractionKeyword 78231 78239	enhances
+T516	InteractionKeyword 78718 78727	following
+T517	InteractionKeyword 78759 78765	alters
+T518	InteractionKeyword 79224 79233	following
+T519	InteractionKeyword 79327 79336	promoting
+T520	InteractionKeyword 80284 80293	influence
+T521	InteractionKeyword 81653 81661	involved
+T522	InteractionKeyword 81829 81834	drive
+T523	InteractionKeyword 82015 82023	mediated
+T524	InteractionKeyword 82034 82042	produced
+T525	InteractionKeyword 83844 83851	control
+T526	InteractionKeyword 84549 84558	modulates
+T527	InteractionKeyword 85847 85854	changes
+T528	InteractionKeyword 86861 86869	diminish
+T529	InteractionKeyword 88790 88794	link
+T530	InteractionKeyword 90038 90045	induced
+R531	Partner1 Arg1:T379 Arg2:T37
+R532	Partner2 Arg1:T379 Arg2:T38
+R533	Partner1 Arg1:T392 Arg2:T44
+R534	Partner2 Arg1:T392 Arg2:T45
+R535	Partner1 Arg1:T394 Arg2:T46
+R536	Partner2 Arg1:T394 Arg2:T47
+R537	Partner1 Arg1:T418 Arg2:T53
+R538	Partner2 Arg1:T418 Arg2:T52
+R539	Partner1 Arg1:T420 Arg2:T54
+R540	Partner2 Arg1:T420 Arg2:T55
+R541	Partner1 Arg1:T423 Arg2:T59
+R542	Partner2 Arg1:T423 Arg2:T57
+R543	Partner1 Arg1:T433 Arg2:T66
+R544	Partner2 Arg1:T433 Arg2:T67
+R545	Partner1 Arg1:T444 Arg2:T70
+R546	Partner2 Arg1:T444 Arg2:T71
+R547	Partner1 Arg1:T445 Arg2:T72
+R548	Partner2 Arg1:T445 Arg2:T73
+R549	Partner1 Arg1:T448 Arg2:T75
+R550	Partner2 Arg1:T448 Arg2:T76
+R551	Partner1 Arg1:T449 Arg2:T78
+R552	Partner2 Arg1:T449 Arg2:T79
+R553	Partner1 Arg1:T466 Arg2:T86
+R554	Partner2 Arg1:T466 Arg2:T87
+R555	Partner1 Arg1:T508 Arg2:T92
+R556	Partner2 Arg1:T508 Arg2:T93

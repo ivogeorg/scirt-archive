@@ -1,0 +1,614 @@
+Neurosci Bull    August 1, 2013, 29(4): 460–466. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1364-5460
+·Review·
+Polyethylene glycol repairs membrane damage and enhances 
+functional recovery: a tissue engineering approach to spinal 
+cord injury
+Riyi Shi
+Department of Basic Medical Sciences, School of Veterinary Medicine, Weldon School of Biomedical Engineering, Purdue 
+University, West Lafayette, IN 47907, USA
+Corresponding author: Riyi Shi. E-mail: riyi@purdue.edu
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+The integrity of the neuronal membrane is crucial for its function and cellular survival; thus, ineffective repair 
+of damaged membranes may be one of the key elements underlying the neuronal degeneration and overall 
+functional loss that occurs after spinal cord injury (SCi). it has been shown that polyethylene glycol (PEG) can 
+reseal axonal membranes following various injuries in multiple in vitro and in vivo injury models. in addition, 
+PEG may also directly prevent the effects of mitochondria-derived oxidative stress on intracellular components. 
+Thus, PEG repairs mechanically injured cells by at least two distinct pathways: resealing of the disrupted 
+plasma membrane and direct protection of mitochondria. Besides repairing primary membrane damage, 
+PEG treatment also results in significant attenuation of oxidative stress, likely due to its capacity to reseal 
+the membrane, thereby breaking the cycle of cellular damage and free-radical production. Based on this, in 
+addition to the practicality of its application, we expect that PEG may be established as an effective treatment 
+for SCi where membrane disruption and mitochondrial damage are implicated. 
+Keywords: axolemmal; reseal; fusogen; cutaneous trunci muscle; somatosensory evoked potential; 
+neuroprotection 
+Introduction
+Membrane disruption is common during all mechanical 
+injuries to cells, and repair of the damaged membrane is 
+essential for functional recovery[1-4]. This article reviews the 
+significance of membrane disruption and the development 
+of an effective membrane-repair agent, polyethylene glycol 
+(PEG), in treating mechanically injured neurons, specifically 
+pertaining to spinal cord injury (SCi). 
+Membrane Disruption Leads to Functional Deficits
+The plasma membrane serves many functions, including 
+protecting the cell from extracellular environment and 
+maintaining a functional intracellular environment. Selective 
+permeability and membrane ion pumps maintain an 
+unequal distribution of ions across the membrane and the 
+resulting resting membrane potential. When the integrity 
+of the neuronal membrane is disrupted, ions and other 
+molecules immediately leak into and out of the cell down 
+their electrochemical gradients. influx of extracellular 
+molecules such as Ca2+ can have lethal effects on the 
+cell by activating proteases, generating free oxidative 
+radicals, disrupting mitochondrial metabolism, and 
+activating apoptotic pathways[5-12]. influx of Na+ leads to 
+the functional loss of neurons as the membrane can no 
+longer be polarized or excited. intracellular accumulation of 
+Ca2+ and Na+ also leads to formation of the mitochondrial 
+permeability transition pore, release of cytochrome 
+C, liberation of reactive oxidative species (RoS) from 
+mitochondria, loss of mitochondrial membrane potential, 
+and inhibition of ATP synthesis[6-9]. 
+Riyi Shi.    PEG repairs membrane damage and enhances functional recovery 461
+The effects of mechanical disruption on neuronal 
+membranes have been extensively studied both in 
+vitro and in vivo[4,11,13-24]. A strong correlation between 
+membrane resealing and functional recovery, as well as 
+neuronal survival, has long been established[4,13,17,18]. it has 
+been shown that enhancing membrane repair in rodent 
+spinal cord axons using various physical, chemical, and 
+biochemical interventions is associated with significant 
+functional recovery[4,18,19,25-27]. Membrane resealing is 
+required for both the long-term survival of the cell as well 
+as the prevention of further degeneration in severed axons 
+or those crushed axons progressing to secondary axotomy. 
+Early repair increases the prospect that the neuron will 
+survive and functionally recover; however, if the axon is 
+severed, recovery may require axonal regrowth or plasticity. 
+Shi, in previous studies, found that significant 
+membrane damage exists in the spinal cord axons at 1 h, 
+3 days, and 7 days after controlled compression injury 
+in vivo[28]. More importantly, the location of axonal injury 
+expands from the original 2 mm crush site to a distance 
+of 20 mm in each direction at 7 days post-compression[28]. 
+These observations further highlight the importance of 
+axonal membrane disruption in traumatic SCi. 
+Unfortunately, in vivo tissue conditions produced 
+by SCi are not conducive to membrane repair. it is well 
+established that membrane repair is a Ca2+-dependent 
+process. Specifically, membrane resealing is significantly 
+inhibited when Ca2+ falls below 0.5 mmol/L[17]. Young and 
+co-workers[29] showed three decades ago that extracellular 
+Ca2+ activity ([Ca2+]o) decreases from 1.2 mmol/L before 
+injury, to between 0.01 and 0.1 mmol/L within minutes after 
+SCi in cats. This low level of Ca2+ persists for several hours, 
+especially evident in the central region of a compression 
+lesion. Similar [Ca2+]o changes were reported in a dog SCi 
+model[30]. The reduction of [Ca2+]o resulting from SCi may 
+prevent damaged axons from resealing. on the other hand, 
+the reduced [Ca2+]o, though unable to trigger membrane 
+repair, is still several magnitudes higher than the level of 
+intracellular Ca2+ ([Ca2+]i). This likely supports a prolonged 
+influx of Ca2+ into injured cells with disrupted membranes 
+causing consequent axonal degeneration. if axonal injury 
+is physically close to the cell body, this may ultimately 
+lead to the death of the cell itself, as has been shown 
+through in vitro studies[31,32]. Therefore, the inability of the 
+membrane to reseal following injury may, in part, contribute 
+to the progressive degeneration that has been reported 
+in mammalian SCi; thus, it is reasonable to suggest that 
+accelerating membrane resealing might prove to be an 
+effective acute treatment for SCi.
+PEG-mediated Membrane Repair
+PEG as a Cell Fusogen
+PEG, a hydrophilic polymer, is a known fusogen[33]. For 
+example, PEG has been used to fuse PC-12 cells to form 
+giant cells and facilitate electrophysiological recordings[34]. 
+PEG has also been used to fuse the ends of severed 
+invertebrate giant axons in vitro[35]. The ability of PEG to 
+fuse cell membranes is attributed to its hydrophilic nature. 
+The mechanism by which it acts is not well understood, 
+but it is thought to dehydrate cell membranes, allowing for 
+protein and lipid structural elements to resolve into each 
+other and therefore eliminating membrane breaches[36-
+38]. in addition, as a surfactant, PEG may also encourage 
+membrane resealing by reducing membrane surface 
+tension and enhancing membrane fluidity, conditions 
+favorable for membrane resealing[4]. 
+PEG-mediated Membrane Repair of in vitro 
+Primary Spinal Cord Injury
+Based on the ability of PEG to fuse the cell membrane, 
+we theorized that PEG is capable of fusing completely 
+severed strips of spinal cord white matter. Although this 
+may not be very clinically relevant, it would be a proof-of-
+principle demonstrating PEG’s ability to repair damaged 
+membranes in a simple injury model. The highly sensitive 
+double sucrose gap recording (DSGR) device has been 
+an indispensable technique for monitoring acute recovery 
+after SCi[17,25,39]. This method has allowed unprecedented 
+resolution in recording compound action potentials (CAPs) 
+using isolated strips of ventral white matter from adult 
+guinea pig spinal cord[25,40]. 
+Here is a brief description of the technique used to 
+evaluate impulse conduction using the DSGR device[40]. A 
+strip of ventral white matter, ~38 mm long, is isolated from 
+guinea pigs weighing ~400 g. once the cord is mounted on 
+the recording device and the CAP recording has stabilized, 
+the cord is completely transected between the stimulating 
+and recording electrodes, eliminating the propagation of 
+CAPs. The two segments of spinal cord are then carefully 
+aligned and gently pressed together. PEG (MW ~2 000, 
+Neurosci Bull     August 1, 2013, 29(4): 460–466462
+50% w/w in distilled water) is applied directly to the injury 
+site for ~2 min in a continuous stream. While the transected 
+untreated cord (aligned and pressed together without PEG) 
+never recovers CAP conduction, the PEG-treated cord 
+typically recovers within 5 min of PEG application[40]. An 
+identical procedure has been used to treat the compressed 
+cord. Similar to a transection injury, a severe compression 
+completely eliminates the CAP. A small and variable level 
+of spontaneous recovery occurs within ~1 h in the absence 
+of PEG. However, CAP amplitude in the PEG-treated 
+cord is 7 times that recorded from injured but untreated 
+preparations[25]. 
+in spinal cord transection experiments, the anatomic 
+continuity of fused axons has been examined by injecting 
+intracellular markers (fluorescently labeled dextrans) into 
+each end of the spinal cord strip. in PEG-fused cords, 
+variable numbers of labeled axons are continuous across 
+the original transection plane, while such a phenomenon 
+is never observed in control (injured without PEG) cords. 
+High-resolution light microscopy (1-µm plastic sections) 
+has also revealed axonal continuity across the transection 
+plane in PEG-treated cords[40]. These observations 
+demonstrate that the restoration of physiological function is 
+accompanied by axonal reconnection. 
+in addition to reconnecting severed axons, PEG 
+has also been shown to repair membrane damage in 
+compressed or crushed axons, a more clinically-relevant 
+injury. Anatomical sealing of PEG-treated compression 
+injuries to spinal cord nerve fibers was assessed using 
+a dye exclusion test[17,18]. When the high-molecular 
+weight label, horseradish peroxidase (HRP; 40K MW), 
+is administered to the extracellular milieu it diffuses into 
+injured axons wherever there is a break in the membrane. 
+The cord crush procedure results in numerous labeled 
+axons, while the density of HRP-labeled axons is 
+significantly reduced in crushed cords treated with PEG[18]. 
+This morphological evidence of axolemmal resealing 
+is associated with significantly enhanced recovery of 
+physiological conduction in compressed cords following 
+PEG treatment[41]. 
+Furthermore, it has been shown that PEG enhances 
+the resealing of the cut end of a completely transected 
+axon, a mechanical injury that produces a much larger 
+membrane breach at the focus of the injury than a 
+compression injury[4]. Specifically, PEG appears to be able 
+to promote resealing of membrane disruptions that are 
+equivalent to the diameters of axons that range from less 
+than 1 mm to several micrometers[4]. it is understandable 
+that severed axons have to first seal the membrane of the 
+proximal stump to stop the degeneration and survive the 
+injury, an indispensable step to allow subsequent axonal 
+regeneration. in light of this, it is reasonable to state 
+that PEG-mediated axolemmal resealing ensures and 
+contributes to axonal regeneration. 
+it is worth pointing out that although PEG is capable 
+of reconnecting severed axons in ex vivo preparations, it 
+is unlikely that this mechanism plays a major role during 
+in vivo SCi. This is because, as described by Shi and 
+colleagues[26], such axonal reconnection after transection 
+requires manipulation (aligning and gently pressing 
+together at the two cut ends), which is not possible in vivo. 
+Therefore, PEG-mediated repair of membrane breaches, 
+as well as resealing of the proximal cut end is likely to be 
+the main mechanisms underlying the beneficial effects 
+seen in PEG treatment in vivo. Since compression and 
+transection usually coexist following physical insults in SCi, 
+these findings further underscore the effectiveness of PEG 
+in repairing membrane damage and promoting structural 
+and functional recovery in CNS trauma.
+PEG Reduces Secondary Spinal Cord Injury
+We have shown that PEG not only repairs membrane 
+disruption, primary damage, but also strikingly reduces 
+the elevation of RoS secondary to mechanical injury. 
+Specifically, application of PEG significantly reduces 
+superoxide production at 1 h post-injury. The level of lipid 
+peroxidation is also significantly decreased as a result 
+of PEG treatment[42-44]. This is important since oxidative 
+injury is a key component of secondary cascades in the 
+pathogenesis of traumatic spinal cord and brain injury[45-48]. 
+We have shown that PEG has no intrinsic free radical-
+scavenging abilities[42]. Therefore it is probable that PEG-
+mediated reduction in oxidative stress is dependent on 
+its capacity to seal the membrane, thereby breaking the 
+cycle of cellular damage and free-radical production. in this 
+interpretation, PEG repairs membrane damage, reducing 
+Ca2+ influx, inhibiting the formation of the mitochondrial 
+permeability transition pore and associated oxidative 
+stress, thereby preventing further increased membrane 
+permeability that would be linked to the production of o2
+- 
+and H2o2
+[7, 49]. 
+Riyi Shi.    PEG repairs membrane damage and enhances functional recovery 463
+PEG Repairs Spinal Cord Injury in vivo
+The effects of PEG have also been examined after in 
+vivo SCi[50-52]. In vivo testing allows for the assessment 
+o f  recovery f rom behaviora l  def ic i ts ,  as wel l  as  
+long-term studies. These studies were carried out 
+using a well-established guinea-pig SCi model[50-53]. 
+Specifically, PEG was applied topically for 2 min to 
+completely exposed compression injuries in the mid-
+thoracic region, either within 30 min or ~8 h following injury. 
+A standardized compression injury to the cord completely 
+abolished the cutaneous trunci muscle (CTM) reflex in 
+all animals on both sides below the level of the crush. 
+The somatosensory evoked potential (SSEP) was also 
+completely eliminated in all animals. Recovery of SSEP 
+conduction was not observed in any control injured animals 
+in up to one month of monitoring. All of the guinea-pigs 
+treated with PEG, either within 30 min or 8 h post-SCi, 
+showed measurable SSEP conduction. Less than 17% of 
+the control animals recovered any level of CTM reflex after 
+SCi while 100% of the PEG-treated animals recovered 
+variable levels of CTM function, regardless of when the 
+PEG was applied[50]. in addition to behavioral recovery, 
+PEG treatment also resulted in significant reduction of 
+injury size[53]. The fact that the delayed application of PEG 
+(8 h post-injury) still leads to significant functional and 
+anatomical recovery is consistent with an earlier study 
+which showed that membrane damage continues to exist 
+up to 7 days after spinal cord compression in vivo[28]. Thus, 
+PEG-mediated axonal repair would be possible for an 
+extended period of time post-injury. in addition to guinea-
+pig, significant beneficial behavioral and anatomical results 
+of PEG have been found in several rat SCi models[54-56] 
+which further highlights the effectiveness of PEG in treating 
+traumatic SCi in different animal models. 
+in addition to the beneficial effect in the acute stage 
+described above, we have found that apoptosis, a major 
+component of secondary injury, is also suppressed after 
+PEG treatment. Specifically, when applied locally and 
+immediately following compression injury, PEG significantly 
+reduces the number of apoptotic cells at 1 and 7 days 
+following injury and treatment. Consistent with these 
+findings, caspase-3 activity and cytochrome C release 
+are also markedly reduced in PEG-treated compared to 
+untreated groups[57]. This is consistent with our findings 
+that PEG reduces oxidative stress, which is known to 
+cause apoptosis after traumatic SCi[42-44]. This indicates 
+that cells rescued by PEG at the acute stage do not later 
+die by apoptosis. Since continuing cellular destruction 
+through apoptotic cell death may play a critical role in the 
+pathophysiology of SCi[58-60], these findings emphasize the 
+importance of early intervention in modifying long-term 
+biochemical and functional recovery after SCi. 
+Several additional findings have emerged from in 
+vivo studies: (1) Although the original experiments used 
+local application, it is now clear that intravenous and 
+subcutaneous injection of PEG are also effective, greatly 
+enhancing the practicality of the treatment approach[51,52]. 
+(2) When applied systemically, either by intravenous, 
+intraperitoneal, or subcutaneous injection, fluorescein-
+conjugated PEG specifically localizes to the site of injury in 
+the guinea-pig spinal cord[52]. We hypothesize that there are 
+probably at least two mechanisms for this phenomenon. 
+First, PEG can gain access to the injury site through the 
+ruptured blood vessels. Second, PEG may have a higher 
+affinity for injured cells because the ruptured membrane 
+may create an environment that attracts PEG. Regardless 
+of the mechanisms, this phenomenon highlights several 
+potential advantages in the use of PEG. one is that PEG 
+can be used as a drug-carrier to deliver effective agents to 
+the injury site in both SCi and traumatic brain injury. This 
+can be accomplished by conjugating PEG to the desired 
+compounds. Furthermore, a PEG-conjugated compound 
+may retain its ability to reseal membranes in addition to the 
+effect exerted by the compound to which it is conjugated. 
+Veterinary clinical trials using naturally injured and 
+neurologically complete paraplegic dogs have been 
+completed[61]. intravenous injection of PEG (30% w/w) 
+demonstrated noticeable improvements in voluntary 
+ambulation, deep and superficial pain perception, 
+proprioceptive placing of hindlimbs, and SSEP conduc-
+tion compared to historical controls. The outcome 
+measurements were monitored for 6–8 weeks. The results 
+of this pilot trial provide evidence consistent with the notion 
+that the injection of polymers in acute neurotrauma may be 
+a simple and effective intervention during the acute phase 
+of the injury. 
+Two points related to the breadth of application of 
+PEG in various nervous injuries are worth mentioning 
+here. First, though most of our published work is geared 
+Neurosci Bull     August 1, 2013, 29(4): 460–466464
+towards spinal cord axons, PEG has also been shown 
+to repair peripheral nerves both in vitro and in vivo[62]. 
+Specifically, PEG treatment greatly enhances functional 
+recovery following compression injury of sciatic nerves in 
+vivo. Second, since many similarities exist between brain 
+and spinal cord traumatic injury, it is perhaps not surprising 
+that PEG has been recently shown to significantly alleviate 
+anatomical and functional loss in traumatic brain injury[63]. 
+This suggests that PEG may be an effective agent for many 
+other mechanical injuries where membrane disruption is 
+implicated. 
+Multiple Targets of PEG Treatment
+in addition to repairing the plasma membrane, we have 
+recently shown that PEG is also capable of directly 
+repairing damaged mitochondria[43,64]. This conclusion is 
+based on the following results. First, confocal microscopy 
+using fluorescein-conjugated PEG revealed that PEG 
+enters the cells of the injured spinal cord, placing the 
+polymer in a position to directly interact with cellular 
+organelles such as mitochondria [43].  Second, PEG 
+attenuates the Ca2+-induced functional compromise of 
+isolated normal spinal cord mitochondria in vitro[64,65]. The 
+PEG-mediated effects include preventing oxidation of 
+glutathione and mitochondrial swelling[43]. These results 
+indicate that PEG may exert its neuroprotective effect 
+through direct interaction with mitochondria in addition to its 
+ability to rescue neurons and their axons by repairing the 
+plasma membranes. 
+in summary, based on our findings, we propose a 
+hypothetical model for the neuroprotective action of PEG 
+in the spinal cord after traumatic injury. Traumatic injury 
+to the cord causes breaches in the neuronal membrane, 
+allowing extracellular ions (such as Ca2+ and Na+) to enter 
+the injured cells. This results in rapid organelle damage 
+and possible acute cell death. The primary action of PEG is 
+to immediately seal and progressively eliminate membrane 
+disruptions. in the meantime, some PEG molecules enter 
+the cell through openings in the membrane and interact 
+with mitochondria, preventing formation of the mitochondrial 
+permeability transition pore. This in turn prevents or 
+reduces mitochondrial swelling, allows for maintenance 
+of the mitochondrial membrane potential, and inhibits 
+cytochrome C release and the consequent depletion of 
+antioxidant systems. Thus, PEG repairs mechanically-
+injured cells by at least two distinct pathways: resealing of 
+the disrupted plasma membrane and direct protection of 
+mitochondria. 
+Concluding Remarks and Suggestions of Future 
+Research
+Membrane disruption has serious downstream structural 
+and functional consequences in the mechanical injury 
+of neuronal tissue. PEG-mediated resealing of cell 
+membranes is a practical method to repair or reverse 
+the continuous cellular damage subsequent to injury and 
+enhance functional recovery. A brief application of PEG 
+not only reduces acute necrosis, but also apoptosis. in 
+addition to the plasma membrane, PEG also directly 
+protects mitochondria and preserves their function. Based 
+on this, as well as the practicality of application, we expect 
+that PEG may be established as an effective treatment 
+not only for SCi, but also for mechanical injuries in other 
+tissue types where membrane disruption and mitochondrial 
+damage are implicated. 
+Perhaps other beneficial therapies applied to the 
+early injury may also enhance PEG’s benefits through 
+separate and synergistic mechanisms of action[25]. Since 
+the loss of the plasma membrane is not the only pathology 
+present during traumatic injuries, future development of 
+combination therapy, such as PEG combined with other 
+recovery-promoting agents would prove beneficial for 
+therapeutic efficacy. For example, PEG could be combined 
+with agents that combat known secondary injuries 
+such as demyelination, oxidative stress, and glutamate 
+excitotoxicity. 
+ACKNOWLEDGEMENTS
+This review was supported by the NiH and the State of indiana. 
+Received date: 2013-05-02;  Accepted date: 2013-06-14
+REFERENCES
+[1] McNeil PL, Kirchhausen T. An emergency response team for 
+membrane repair. Nat Rev Mol Cell Biol 2005, 6: 499–505.
+[2] Bansal D, Miyake K, Vogel SS, Groh S, Chen CC, Williamson 
+R, et al. Defective membrane repair in dysferlin-deficient 
+Riyi Shi.    PEG repairs membrane damage and enhances functional recovery 465
+muscular dystrophy. Nature 2003, 423: 168–172.
+[3] McNeil PL, Steinhardt RA. Plasma membrane disruption: 
+repair, prevention, adaptation. Annu Rev Cell Dev Biol 2003, 
+19: 697–731.
+[4] Nehrt A, Hamann K, ouyang H, Shi R. Polyethylene glycol 
+enhances axolemmal resealing following transection in 
+cultured cells and in ex vivo spinal cord. J Neurotrauma 
+2010, 27: 15–61.
+[5] Schlaepfer WW. Calcium-induced degeneration of axoplasm 
+in isolated segments of rat peripheral nerve. Brain Res 1974, 
+69: 203–215.
+[6] Fiskum G. Mitochondrial participation in ischemic and 
+traumatic neural cell death. J Neurotrauma 2000, 17: 843–855.
+[7] Lewen A, Matz P, Chan PH. Free radical pathways in CNS 
+injury. J Neurotrauma 2000, 17: 871–890.
+[8] Wieloch T. Mitochondrial involvement in acute neurode-
+generation. iUBMB Life 2001, 52: 247–254.
+[9] Ray SK, Hogan EL, Banik NL. Calpain in the pathophysiology 
+of spinal cord injury: neuroprotection with calpain inhibitors. 
+Brain Res Brain Res Rev 2003, 42: 169–185.
+[10] Wingrave JM, Schaecher KE, Sribnick EA, Wilford GG, Ray 
+SK, Hazen-Martin DJ, et al. Early induction of secondary 
+injury factors causing activation of calpain and mitochondria-
+mediated neuronal apoptosis following spinal cord injury in 
+rats. J Neurosci Res 2003, 73: 95–104.
+[11] Borgens RB, Jaffe LF, Cohen MJ. Large and persistent 
+electrical currents enter the transected lamprey spinal cord. 
+Proc Natl Acad Sci U S A 1980, 77: 1209–1213.
+[12] Howard AC, McNeil AK, McNeil PL. Promotion of plasma 
+membrane repair by vitamin E. Nat Commun 2011, 2: 597.
+[13] Xie X, Barrett JN. Membrane resealing in cultured rat septal 
+neurons after neurite transection: evidence for enhancement 
+by Ca2+-triggered protease activity and cytoskeletal 
+disassembly. J Neurosci 1991, 11: 3257–3267.
+[14] Spira ME, Benbassat D, Dormann A. Reseal ing of 
+the proximal and distal cut ends of transected axons: 
+electrophysiological and ultrastructural analysis. J Neurobiol 
+1993, 24: 300–316.
+[15] Krause TL, Fishman HM, Ballinger ML, Bittner GD. Extent 
+and mechanism of sealing in transected giant axons of squid 
+and earthworms. J Neurosci 1994, 14: 6638–6651.
+[16] Eddleman CS, Ballinger ML, Smyers ME, Godell CM, 
+Fishman HM, Bittner GD. Repair of plasmalemmal lesions by 
+vesicles. Proc Natl Acad Sci U S A 1997, 94: 4745–4750.
+[17] Shi R, Asano T, Vining NC, Blight AR. Control of membrane 
+sealing in injured mammalian spinal cord axons. J Neuro-
+physiol 2000, 84: 1763–1769.
+[18] Shi R, Borgens RB. Anatomical repair of nerve membranes 
+in crushed mammalian spinal cord with polyethylene glycol. J 
+Neurocytol 2000, 29: 633–643.
+[19] Shi R, Pryor JD. Temperature dependence of membrane 
+sealing following transection in mammalian spinal cord 
+axons. Neuroscince 2000, 98: 157–166.
+[20] Pettus EH, Christman CW, Giebel ML, Povlishock JT. 
+Traumatically induced altered membrane permeability: its 
+relationship to traumatically induced reactive axonal change. 
+J Neurotrauma 1994, 11: 507–522.
+[21] Pettus EH, Povlishock JT. Characterization of a distinct 
+set of intra-axonal ultrastructural changes associated with 
+traumatically induced alteration in axolemmal permeability. 
+Brain Res 1996, 722: 1–11.
+[22] Yawo H, Kuno M. How a nerve fiber repairs its cut end: 
+involvement of phospholipase A2. Science 1983, 222: 1351–
+1352.
+[23] Smith DH, Wolf JA, Lusardi TA, Lee VM, Meaney DF. High 
+tolerance and delayed elastic response of cultured axons to 
+dynamic stretch injury. J Neurosci 1999, 19: 4263–4269.
+[24] Geddes DM, Cargill RS 2nd, LaPlaca MC. Mechanical stretch 
+to neurons results in a strain rate and magnitude-dependent 
+increase in plasma membrane permeability. J Neurotrauma 
+2003, 20: 1039–1049.
+[25] Shi R, Borgens RB. Acute repair of crushed guinea pig spinal 
+cord by polyethylene glycol. J Neurophysiol 1999, 81: 2406–
+2414.
+[26] Shi R, Borgens RB, Blight AR. Functional reconnection of 
+severed mammalian spinal cord axons with polyethylene 
+glycol. J Neurotrauma 1999, 16: 727–738.
+[27] Shi R, Qiao X, Emerson N, Malcom A. Dimethylsulfoxide 
+enhances CNS neuronal plasma membrane resealing after 
+injury in low temperature or low calcium. J Neurocytol 2001, 
+30: 829–839.
+[28] Shi R. The dynamics of axolemmal disruption in guinea pig 
+spinal cord following compression. J Neurocytol 2004, 33: 
+203–211.
+[29] Young W, Yen V, Blight A. Extracellular calcium ionic activity 
+in experimental spinal cord contusion. Brain Res 1982, 253: 
+105–113.
+[30] Stokes BT, Fox P, Hollinden G. Extracellular calcium activity 
+in the injured spinal cord. Exp Neurol 1983, 80: 561–572.
+[31] Lucas JH, Gross GW, Emery DG, Gardner CR. Neuronal 
+survival or death after dendrite transection close to the 
+perikaryon: correlation with electrophysiologic, morphologic, 
+and ultrastructural changes. Cent Nerv Syst Trauma 1985, 2: 
+231–255.
+[32] Lucas JH, Gross GW. Cellular and molecular recovery 
+responses. J Neurotrauma 1988, 5: 223–225.
+[33] Davidson RL, o'Malley KA, Wheeler TB. induction of 
+mammalian somatic cell hybridization by polyethylene glycol. 
+Somat. Cell Genet 1976, 2: 271–280.
+[34] o'Lague PH, Huttner SL. Physiological and morphological 
+studies of rat pheochromocytoma cells (PC12) chemically 
+fused and grown in culture. Proc Nat Acad Sci U S A 1980, 
+Neurosci Bull     August 1, 2013, 29(4): 460–466466
+77: 1701–1705.
+[35] Krause TL, Bittner GD. Rapid morphological fusion of 
+severed myelinated axons by polyethylene glycol. Proc Natl 
+Acad Sci U S A 1990, 87: 1471–1475.
+[36] Lee J, Lentz BR. Evolution of lipidic structures during model 
+membrane fusion and the relation of this process to cell 
+membrane fusion. Biochemistry 1997, 36: 6251–6259.
+[37] Lentz BR. Polymer-induced membrane fusion: potential 
+mechanism and relation to cell fusion events. Chem Phys 
+Lipids 1994, 73: 91–106.
+[38] Lentz BR, Lee JK. Poly(ethylene glycol) (PEG)-mediated 
+fusion between pure lipid bilayers: a mechanism in common 
+with viral fusion and secretory vesicle release? Mol Membr 
+Biol 2000, 16: 279–296.
+[39] Shi R, Blight AR. Differential effects of low and high concen-
+trations of 4-aminopyridine on axonal conduction in normal 
+and injured spinal cord. Neuroscience 1997, 77: 553–562.
+[40] Shi R, Borgens RB, Blight AR. Functional reconnection of 
+severed mammalian spinal cord axons with polyethylene 
+glycol. J Neurotrauma 1999, 16: 727–738.
+[41] Shi R, Borgens RB. Acute repair of crushed guinea pig spinal 
+cord by polyethylene glycol. J Neurophysiol 1999, 81: 2406–
+2414.
+[42] Luo J, Borgens RB, Shi R. Polyethylene glycol immediately 
+repairs neuronal membranes and inhibits free radical 
+production after acute spinal cord injury. J Neurochem 2002, 
+83: 471–480.
+[43] Luo J, Borgens R, Shi R. Polyethylene glycol improves 
+function and reduces oxidative stress in synaptosomal 
+preparations following spinal cord injury. J Neurotrauma 
+2004, 21: 994–1007.
+[44] Luo J, Shi R. Diffusive oxidative stress following acute spinal 
+cord injury in guinea pigs and its inhibition by polyethylene 
+glycol. Neurosci Lett 2004, 359: 167–170.
+[45] Hall ED. Free radicals and CNS injury. Crit Care Clin 1989, 5: 
+793–805.
+[46] Hall ED, Yonkers PA, Andrus PK, Cox JW, Anderson DK. 
+Biochemistry and pharmacology of lipid antioxidants in acute 
+brain and spinal cord injury. J Neurotrauma 1992, 9: S425–442.
+[47] Hall ED. inhibition of lipid peroxidation in central nervous 
+system trauma and ischemia. J the Neurol Sci 1995, 134: 
+79–83.
+[48] Hamann K, Shi R. Acrolein scavenging: a potential novel 
+mechanism of attenuating oxidative stress following spinal 
+cord injury. J Neurochem 2009, 111: 1348–1356.
+[49] Young W. Role of calcium in central nervous system injuries. 
+J Neurotrauma 1992, 9: S9–S25.
+[50] Borgens RB, Shi R. immediate recovery from spinal cord 
+injury through molecular repair of nerve membranes with 
+polyethylene glycol. FASEB J 2000, 14: 27–35.
+[51] Borgens RB, Shi R, Bohnert D. Behavioral recovery 
+from spinal cord injury following delayed application of 
+polyethylene glycol. J Exp Biol 2002, 205: 1–12.
+[52] Borgens RB, Bohnert D. Rapid recovery from spinal cord 
+injury following subcutaneously administered polyethylene 
+glycol. J Neurosci Res 2001, 66: 1179–1186.
+[53] Duerstock BS, Borgens RB. Three-dimentional morphometry 
+of spinal cord injury follow polyethylene glycol treatment. J 
+Exp Biol 2002, 205: 13–24.
+[54] Detloff MR, Lavik E, Fisher LC, Langer R, Basso DM. 
+Polyethylene glycol administration after moderate spinal 
+cord injury decreases lesionsize and improves locomotor 
+recovery. J Neurotrauma 2005, 22: 1219.
+[55] Baptiste DC, Austin JW, Zhao W, Nahirny A, Sugita S, 
+Fehlings MG. Systemic polyethylene glycol promotes neuro-
+logical recovery and tissue sparing in rats after cervical spinal 
+cord injury. J Neuropathol Exp Neurol 2009, 68: 661–676.
+[56] Ditor DS, John SM, Roy J, Marx JC, Kittmer C, Weaver 
+LC. Effects of polyethylene glycol and magnesium sulfate 
+administration on clinically relevant neurological outcomes 
+after spinal cord injury in the rat. J Neurosci Res 2007, 85: 
+1458–1467.
+[57] Luo J, Shi R. Polyethylene glycol inhibits apoptotic cell death 
+following traumatic spinal cord injury. Brain Res 2007, 1155: 
+10–16.
+[58] Beattie MS, Farooqui AA, Bresnahan JC. Review of current 
+evidence for apoptosis after spinal cord injury. J Neurotrauma 
+2000, 17: 915–925.
+[59] Crowe MJ, Bresnahan JC, Shuman SL, Masters JN, Beattie 
+MS. Apoptosis and delayed degeneration after spinal cord 
+injury in rats and monkeys. Nat Med 1997, 3: 73–76.
+[60] Li QM, Tep C, Yune TY, Zhou XZ, Uchida T, Lu KP, et al. 
+opposite regulation of oligodendrocyte apoptosis by JNK3 
+and Pin1 after spinal cord injury. J Neurosci 2007, 27: 8395–
+8404.
+[61] Laverty PH, Leskovar A, Breur GJ, Coates JR, Bergman 
+RL, Widmer WR, et al. A preliminary study of intravenous 
+surfactants in paraplegic dogs: polymer therapy in canine 
+clinical SCi. J Neurotrauma 2004, 21: 1767–1777.
+[62] Donaldson J, Shi R, Borgens R. Polyethylene glycol rapidly 
+restores physiological functions in damaged sciatic nerves 
+of guinea pigs. Neurosurgery 2002, 50: 147–156; discussion 
+156–157.
+[63] Koob Ao, Duerstock BS, Babbs CF, Sun Y, Borgens RB. 
+intravenous polyethylene glycol inhibits the loss of cerebral 
+cells after brain injury. J Neurotrauma 2005, 22: 1092–1111.
+[64] Chen H, Shi R. Polyethylene glycol improves function of 
+isolated brain mitochondria: implication in central nervous 
+system trauma. J. Neurotrauma 2004, 21: 1303.
+[65] Chen H, Quick E, Leung G, Hamann K, Fu Y, Cheng JX, et al. 
+Polyethylene glycol protects injured neuronal mitochondria. 
+Pathobiology 2009, 76: 117–128.

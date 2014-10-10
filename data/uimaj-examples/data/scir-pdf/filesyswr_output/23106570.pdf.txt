@@ -1,0 +1,1040 @@
+NEUROSYSTEMS
+Major vault protein promotes locomotor recovery and
+regeneration after spinal cord injury in adult zebrafish
+Hong-Chao Pan,1 Jin-Fei Lin,1 Li-Ping Ma,2 Yan-Qin Shen1 and Melitta Schachner1,2
+1Center for Neuroscience, Shantou University Medical College, Shantou, 515041, Guangdong, China
+2W. M. Keck Center for Collaborative Neuroscience, Department of Cell Biology and Neuroscience, Rutgers University,
+Piscataway, NJ, 08854, USA
+Keywords: major vault protein, neural stem cell, regeneration, spinal cord injury, zebrafish
+Abstract
+In contrast to mammals, adult zebrafish recover locomotor functions after spinal cord injury (SCI), in part due to axonal regrowth
+and regeneration permissivity of the central nervous system. Upregulation of major vault protein (MVP) expression after spinal
+cord injury in the brainstem of the adult zebrafish prompted us to probe for its contribution to recovery after SCI. MVP is a multi-
+functional protein expressed not only in many types of tumours but also in the nervous system, where its importance for regener-
+ation is, however, unclear. Using an established zebrafish SCI model, we found that MVP mRNA and protein expression levels
+were increased in ependymal cells in the spinal cord caudal to the lesion site at 6 and 11 days after SCI. Double immunolabelling
+showed that MVP was co-localised with Islet-1 or tyrosine hydroxylase around the central canal of the spinal cord in sham-injured
+control fish and injured fish 11 days after surgery. MVP co-localised with the neural stem cell marker nestin in ependymal cells
+after injury. By using an in vivo morpholino-based knock-down approach, we found that the distance moved by MVP morpholino-
+treated fish was reduced at 4, 5 and 6 weeks after SCI when compared to fish treated with standard control morpholino. Knock-
+down of MVP resulted in reduced regrowth of axons from brainstem neurons into the spinal cord caudal to the lesion site. These
+results indicate that MVP supports locomotor recovery and axonal regrowth after SCI in adult zebrafish.
+Introduction
+Spinal cord injury (SCI) is a central nervous system (CNS) lesion
+that leads to severe and often permanent disability in mammals
+(Karnezis et al., 2004; Silver & Miller, 2004; Harel & Strittmatter,
+2006; Schwab et al., 2006). In contrast to mammals, adult zebrafish
+have a remarkable capacity for functional recovery after injury to
+parts of the nervous system such as spinal cord, brain and optic
+nerve (Bernhardt et al., 1996; Becker et al., 1997, 2004; Guo et al.,
+2011; Kroehne et al., 2011; Baumgart et al., 2012). The ability to
+move partly depends on networks of rhythmically active neurons in
+the spinal cord, and their activation relies on descending inputs from
+the brain or on sensory inputs (McLean & Fetcho, 2009; Kyriakatos
+et al., 2011). After SCI, neurons in adult zebrafish can regenerate
+axons which reconnect to their appropriate targets, and the injured
+fish regain swimming function several weeks later (Becker et al.,
+1997, 1998, 2004; Bhatt et al., 2004; Becker & Becker, 2008). In
+the complex regeneration process, intrinsic molecules operant in the
+brainstem and molecules in the microenvironment of the de-affer-
+ented spinal cord play important roles in recovery (Becker et al.,
+2004; Abdesselem et al., 2009; Yu et al., 2011a,b). The zebrafish
+has, thus, become an important model for exploring the molecular
+mechanisms underlying functional recovery after SCI.
+To search for molecules involved in successful regeneration we
+have analysed, by expression profiling, the mRNA levels in the
+nucleus of the medial longitudinal fascicle (NMLF) as an indicator
+for nuclei with regenerative capacities after SCI (Ma et al., 2012).
+One of the molecules found to be upregulated in its expression was
+the 100-kDa major vault protein (MVP), the predominant compo-
+nent of vaults which contain a small untranslated vault RNA, telo-
+merase-associated protein-1 and vault poly (ADP-ribose) polymerase.
+MVP accounts for up to 75% of the total complex and is highly
+conserved from mammals to fungi (Kedersha et al., 1986, 1990;
+Vasu & Rome, 1995; Herrmann et al., 1996, 1998; Kickhoefer
+et al., 1998; Yoshinari et al., 2009). MVP is identical to the human
+lung resistance protein, and its expression is increased in tumours
+and multiple drug resistance models (Scheffer et al., 1995, 2000;
+Mossink et al., 2003; Lloret et al., 2008). Interestingly, MVP is also
+widely expressed in the nervous system of different species (Herr-
+mann et al., 1996; Aronica et al., 2003; Komori et al., 2007; Paspa-
+las et al., 2009; Liu et al., 2011). The wide expression of MVP in
+various cell types and considerable phylogenetic conservation point
+to its important cellular functions (Kedersha et al., 1990).
+In this report, we use a zebrafish SCI model and show that
+mRNA and protein levels of MVP are upregulated at 6 and 11 days
+after SCI. Morpholino (MO)-mediated knock-down of MVP blocked
+Correspondences: Yan-Qin Shen and Melitta Schachner, as above.
+E-mails: yqshen@stu.edu.cn and schachner@stu.edu.cn
+Received 3 August 2012, revised 19 September 2012, accepted 23 September 2012
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, Vol. 37, pp. 203–211, 2013 doi:10.1111/ejn.12038
+European Journal of Neuroscience
+re-acquisition of swimming motility after SCI and was associated
+with reduced axonal regrowth. Our data indicate that MVP is benefi-
+cial for functional recovery and axonal regrowth after SCI in adult
+zebrafish.
+Materials and methods
+Animals
+Adult zebrafish (Danio rerio, 6 months old) were purchased from
+Huiyuan Aquatic Animals Company (Shantou, Guangdong, China).
+Fish were kept on a 14-h light and 10-h dark cycle at 28 °C and fed
+twice a day. All animal experiments were approved by the Animal
+Ethics Committee of Shantou University Medical College.
+Spinal cord injury
+Spinal cord transection was performed as described (Becker et al.,
+2004; Guo et al., 2011; Yu et al., 2011a). Briefly, fish were anes-
+thetised by immersion in 0.033% aminobenzoic acid ethylmethylest-
+er (MS222; Sigma, St Louis, MO, USA) in phosphate-buffered
+saline (PBS), pH 7.4, for 5 min. A longitudinal incision was made
+at the side of the fish to expose the vertebral column. The spinal
+cord was cut between two vertebrae, ~4 mm caudal to the brainstem
+–spinal cord transitional junction. Wounds were sealed with Histo-
+acryl (B. Braun, Melsungen, Germany), and the injured fish were
+kept individually at 28 °C. A sham-injured control had the incision
+but without spinal cord transection. All surgical procedures were
+performed on ice under a microscope.
+Real-time quantitative RT-PCR (qPCR)
+To study the expression of MVP mRNA in the spinal cord caudal
+to the lesion site, total RNA was extracted from the 4-mm pieces of
+spinal cord directly caudal to the lesion site at different time points
+after SCI. First-strand cDNA was generated using random primers
+and ReverTraAceR qPCR RT Kit (Toyobo, Osaka, Japan). qPCR
+was performed with SYBRR Green Real Time PCR Master Mix
+(Toyobo) as described (Goff et al., 2004). Primers for qPCR were
+designed using Primer Express 5.0 software (Applied Biosystems,
+Foster City, CA, USA). All assays were performed in duplicate sam-
+ples, and assay products were validated using melting curves to con-
+firm the presence of single PCR products. GAPDH served as the
+internal control. The following primer sequences were used: zebra-
+fish MVP forward, GGAAAGTCGGGCTAAGAA; reverse,
+ATCACAGCACGCACCTTT. GAPDH forward, GTGTAGGCGT
+GGACTGTGGT; reverse, TGGGAGTCAACCAGGACAAATA (Pei
+et al., 2007).
+In situ hybridization
+In situ hybridization probes (sense and antisense) for MVP mRNA
+(NM_201325) were transcribed in vitro. Purified PCR fragments
+were cloned into the pGM-T vector (Tiangen, Beijing, China), and
+the sequences were verified by sequencing. Digoxigenin (DIG)-
+labelled sense and antisense RNA probes were generated using the
+Megascript system (Ambion, Austin, TX, USA) according to the
+manufacturer’s instructions. Non-radioactive detection of mRNA in
+sections of adult zebrafish CNS was performed as described (Bern-
+hardt et al., 1996). The spinal cords were fixed for 24 h in 4% para-
+formaldehyde in PBS at 4 °C, followed by incubation in 15%
+sucrose in PBS overnight at 4 °C. Then, 16-lm-thick sections of
+spinal cords were cut from fresh-frozen tissue on a cryostat, pre-
+hybridised for 2 h at 55 °C and hybridised with the DIG-labelled
+probes at 55 °C overnight. After extensive washings at 50 °C, alka-
+line phosphatase-coupled anti-DIG fragment antibodies (Fabs;
+Roche, Indianapolis, IN, USA) were applied at room temperature
+for 1 h. Antibody binding was detected using an alkaline phospha-
+tase reaction with nitro-blue-tetrazolium and 5-bromo-4-chloro-
+3-indolyl phosphate (NBT/BCIP; Roche) as substrates. For negative
+control, sense probes were developed in parallel under the same
+conditions as the antisense probes. The sense probe showed no reac-
+tivity (data not shown). Sections from sham-injured control and
+injured fish were analysed on the same slides. Sections were viewed
+and photographed using an epifluorescence microscope (Axio Ima-
+ger Z1; Zeiss, Oberkochen, Germany).
+Immunohistochemistry
+All tissues were processed for immunofluorescence after fixation in
+4% formaldehyde in PBS at 4 °C overnight. Serial sections (16 lm
+thick) from spinal cord (longitudinal, 0–4 mm caudal to lesion site)
+were used. Sections were prepared as described above and processed
+for immunostaining (Guo et al., 2011). The primary antibodies were
+rabbit anti-MVP (1 : 200; Bioss, Beijing, China), mouse anti-Islet-1
+(1 : 100; Developmental Studies Hybridoma Bank, University of
+Iowa, Iowa City, IA, USA), mouse anti-tyrosine hydroxylase (TH+;
+1 : 400; Millipore), Rabbit anti-nestin (1 : 200; Boster, Wuhan,
+China) and mouse anti-synaptic vesicle protein 2 (SV2; 1 : 200;
+Developmental Studies Hybridoma Bank). Secondary antibodies
+were Alexa Fluor CY3 goat antirabbit IgG (1 : 800; Jackson Immu-
+noResearch) and FITC goat antimouse IgG (1 : 800; Jackson Immu-
+noResearch). Fluorescence images were collected using an
+epifluorescence microscope (Axio Imager Z1; Zeiss).
+Western blot analysis
+Total protein was extracted by homogenizing the spinal cord tissue
+(0–4 mm caudal to lesion site) in RIPA buffer (Soliba, Beijing,
+China). After centrifugation of the homogenate at 14 000 g and 4 °C
+for 5 min, the protein concentration in the supernatant was deter-
+mined with a BCA kit (Pierce, Rockford, IL, USA). The supernatant
+was denatured by boiling for 5 min in SDS sample buffer. Fifty
+micrograms of total protein were then subjected to SDS-PAGE on
+8% gels. Proteins were transferred to a polyvinylidene difluoride
+membrane and probed with the following antibodies: rabbit anti-
+MVP (1 : 200; Bioss) and mouse anti-GAPDH (1 : 1000; Beyotime,
+Haimen, China). Goat antirabbit IgG and goat antimouse IgG
+(1 : 1000; Jackson ImmunoResearch) conjugated to horseradish per-
+oxidase were used as secondary antibodies. The grey value of
+each band was measured and normalised to that of the GAPDH b
+and by IMAGEJ software (NIH).
+MO treatment
+MOs are synthetic molecules that are the product of a redesign of
+natural nucleic acid structures. MOs targeting the start codon region
+can interfere with the progression of the ribosomal initiation com-
+plex from the 5′ cap to the start codon and prevent translation of the
+coding region of the targeted transcript, thus decreasing the protein
+expression level (Summerton & Weller, 1997). Previous data from
+our lab showed that the fluorescein-tagged MOs are still detectable
+6 weeks after application, indicating that MOs can reduce protein
+levels for as long as 6 weeks after SCI (Becker et al., 2004).
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+204 H.-C. Pan et al.
+MVP antisense MO 5′-GATCAGCGTCCATGTTTCTTCCTAC-3′
+and standard control MO 5′-CCTCTTACCTCAGTTACAATTTA-
+TA-3′ vivo-porter coupled (Gene Tools, Philomath, OR, USA) were
+dissolved in Danieau solution (Nasevicius & Ekker, 2000) and
+soaked onto small pieces of Gelfoam (Upjohn, Kalamazoo, MI,
+USA). The pieces were divided into smaller pieces to yield 600 ng of
+MO, ~0.22 lL per piece, and allowed to dry. One piece was applied
+to the transection site immediately after spinal cord transection.
+Swim tracking
+Swimming capabilities of injured fish were assessed each week after
+MO application for 6 weeks in two trials of 5 min each (trial inter-
+val, 4 h). In each trial, a zebrafish was placed in a brightly illumi-
+nated (100 lux) tank (42 9 30 9 30 cm) filled with aquarium water
+(5 cm deep) at 25 °C. A video camera recorded the trials from
+above the tank. Swim paths were tracked with ETHOVISION software
+(Noldus, Wageningen, the Netherlands). Mean lengths of the swim
+paths (total distance moved) of the two trials were used for graphi-
+cal presentation and statistical analysis. The experimenter was
+blinded to the treatment of the animals.
+Retrograde tracing
+Retrograde axonal tracing was performed by application of tracer bio-
+cytin (Sigma) 4 mm caudal to the spinal lesion site 6 weeks after
+transection (see Fig. 5 for illustration; Becker et al., 1997, 2004; Yu
+et al., 2011a). In brief, Gelfoam pieces soaked in a saturated solution
+of biocytin or rhodamine dextran amine were left at the lesion site for
+the tracer to be retrogradely transported. Twenty-four hours after
+application, brains were dissected and fixed in 4% formaldehyde in
+PBS overnight and embedded in 15% sucrose at 4 °C. Serial coronal
+brain sections (20 lm thick) were obtained using a cryostat. Biocytin
+labelling in the sections was detected with Streptavidin-Cy3 (1 : 200;
+Bioss). Labelled neurons in the whole NMLF were counted in brain-
+stem sections using an epifluorescence microscope (Axio Imager Z1;
+Zeiss) by an investigator blind to treatment. Three animals were in
+each group (treated with control MO and MVP MO).
+Anterograde tracing
+To study presynaptic endings from regenerating axons past the
+lesion site, biocytin was applied at the brainstem–spinal cord junc-
+tion through a second surgery 6 weeks after SCI (see Fig. 6 for
+illustration; Becker et al., 1997, 2004; Yu et al., 2011a). After 24 h,
+spinal cords were removed, and tissue 0–4 mm in length caudal to
+the original spinal lesion site was fixed in 4% formaldehyde in PBS
+at 4 °C overnight, embedded in 15% sucrose, and sectioned (20-
+lm-thick sections) coronally on a cryostat. Biocytin labelling was
+detected with Streptavidin-Cy3. Fluorescence intensity is presented
+as the mean intensity evaluated by IMAGEJ software (NIH) from 12
+randomly counterpart selected sections of spinal cords 0–4 mm cau-
+dal to the lesion site from each group. Three animals were in each
+group (treated with control MO or MVP MO).
+Statistical analysis
+Using SPSS 13.0 software, Student′s t-test was used for comparing
+two treatment groups, and one-way ANOVA was used for multiple
+group comparisons. All data are presented as means ± SEM.
+P < 0.05 is set as indicating significance (*P < 0.05, **P < 0.01).
+All experiments were performed three times independently.
+Results
+MVP mRNA expression levels were increased caudal to the
+lesion site
+To measure the levels of MVP mRNA after SCI, we collected
+spinal cord tissue extending 4 mm caudally from the lesion site at
+4, 12 h, 6 and 11 days after SCI. The 4- and 12-h time points rep-
+resent the acute response phase while those of 6 and 11 days after
+SCI represent the chronic response phase (see, for instance, Guo
+et al., 2011). At 4 and 12 h after SCI, MVP mRNA expression lev-
+els (with 1.16 ± 0.14 and 1.38 ± 0.18-fold increases, respectively;
+one-way ANOVA with Tukey’s post hoc test, P > 0.05, n = 6) were
+not different from those of sham-injured controls, while significant
+upregulation was observed at 6 days, with a 1.74 ± 0.098-fold
+increase (one-way ANOVA with Tukey’s post hoc test, **P < 0.01,
+n = 6), and at 11 days, with a 1.82 ± 0.226-fold increase (one-way
+ANOVA with Tukey’s post hoc test, *P < 0.05, n = 6) after SCI
+(Fig. 1A).
+To analyse the cells that express MVP in the spinal cord caudal
+to the lesion site, we performed in situ hybridization (Fig. 1B).
+MVP mRNA-positive signals were limited to the ependymal cells
+lining the central canal and the area surrounding the central canal
+corresponding to the gray matter (Fig. 1B). More cells expressed
+MVP at 6 and 11 days after SCI than at 4 and 12 h after SCI or
+in the sham-injured control groups. Uninjured fish were not differ-
+ent from the sham-injured control fish (data not shown). The
+MVP sense probe showed no reactivity (data not shown). These
+observations are in agreement with the levels of mRNA expression
+seen by qPCR, suggesting that MVP mRNA levels are not chan-
+ged in the acute phase after SCI but are increased in the chronic
+phase.
+MVP protein expression levels were increased caudal to the
+lesion site
+To investigate whether the increase in MVP mRNA levels corre-
+sponds to an increase in protein expression, we performed immuno-
+blotting of the 100-kDa MVP with spinal cord tissue harvested at 4
+and 12 h and at 6 and 11 days after SCI (Fig. 2A). No significant
+differences in MVP expression levels were observed at 4 or 12 h
+after SCI (Fig. 2B) between lesioned fish and sham-injured controls.
+Uninjured fish showed expression levels not different from those of
+sham-injured fish (not shown). Consistent with the mRNA data, lev-
+els of MVP protein were increased in the spinal cord caudal to the
+lesion site at 6 and 11 days after SCI (Fig. 2A and B). Densitomet-
+ric analysis showed an increase in MVP protein levels at 6 days
+(1.602 ± 0.072, one-way ANOVA with Tukey’s post hoc test,
+**P < 0.01; n = 4) and 11 days (1.798 ± 0.136, one-way ANOVA
+with Tukey’s post hoc test, **P < 0.01; n = 4) after SCI compared
+to sham-injured controls (Fig. 2B).
+To further study MVP protein expression and distribution, we
+performed immunofluorescence staining on spinal cord sections.
+MVP-positive cells were located predominantly in the area sur-
+rounding the central canal at 11 days after SCI (Fig. 2C), and MVP
+protein was mainly detectable in the cytoplasm. MVP protein
+expression levels in injured fish were increased at 6 and 11 days
+after SCI in cells surrounding the central canal when compared to
+the sham-injured controls (Fig. 2D, m–x), but were similar in sham-
+injured controls and injured fish at earlier time points (Fig. 2D, a–i).
+Uninjured fish were not different from the sham-injured control fish
+(data not shown, but see Supplemental Fig. 1 in EJN blog for the
+time point of 4 hours).
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+MVP promotes spinal cord regeneration 205
+MVP co-localised with Islet-1, tyrosine hydroxylase (TH) and
+nestin caudal to the lesion site
+To examine which type of neurons expresses MVP we performed
+double immunofluorescence labelling for MVP and the motor neuro-
+nal marker Islet-1 or the noradrenergic and dopaminergic neuronal
+marker TH. The results showed that MVP is expressed in motor
+neurons and noradrenergic and dopaminergic neurons at 11 days
+after SCI (Fig. 3A and B). MVP-immunopositive cells were limited
+to the area surrounding the central canal, which prompted us to
+identify whether MVP is expressed in nestin-positive stem cells.
+Double immunostaining for MVP and nestin showed that MVP and
+nestin are coexpressed in ependymal cells lining the central canal
+and in some cells distributed in the spinal cord parenchyma
+(Fig. 3C).
+MVP promoted locomotor recovery after SCI
+To investigate whether application of an antisense MVP MO to the
+freshly injured spinal cord affects MVP protein expression in vivo,
+Western blot analysis was performed 11 days after SCI. MVP pro-
+tein levels were reduced by 75% in the MVP MO-treated group at
+this time point after SCI compared to standard control MO (Fig. 4A
+and B).
+To examine the swimming ability of adult zebrafish treated with
+MVP MO at the lesion site and at the time of SCI, we analysed
+locomotor recovery weekly by measuring the distance swum in
+5 min. No differences were observed between the groups treated
+with MVP MO and standard control MO up to 3 weeks after SCI
+(Fig. 4C). However, reduced locomotor recovery of MVP MO vs.
+standard control MO-treated fish was found at 4, 5 and 6 weeks
+(Fig. 4C). At 4 weeks after SCI, the total distance moved by fish
+treated with MVP MO (1376.1 ± 214.4 cm, n = 11, one-way ANOVA
+with post hoc Student–Newman–Keuls test, *P < 0.05) was reduced
+to 67.7% of that of fish treated with standard control MO
+(2032.7 ± 201.9 cm, n = 11). Similarly, the total distance moved by
+fish treated with MVP MO (5 weeks, 1323.6 ± 149.6 cm, n = 11,
+one-way ANOVA with post hoc Student–Newman–Keuls test,
+*P < 0.05; 6 weeks, 1557.5 ± 205.2 cm, n = 11, one-way ANOVA
+with post hoc Student–Newman–Keuls test, *P < 0.05) was
+decreased to 66.2 and 71.7% of that from the control group
+(5 weeks, 1998.7 ± 140.8 cm, n = 11; 6 weeks, 2171.4 ± 183.4 cm,
+n = 11) at 5 and 6 weeks, respectively. Standard control MO did
+not affect locomotor recovery as swim distance between spinal cord-
+injured fish and spinal cord-injured fish treated with standard control
+MO were not different at 6 weeks after SCI, as observed previously
+(Becker et al., 2004). Thus, MVP MO treatment significantly
+impaired locomotor recovery, indicating a requirement for MVP in
+spinal cord regeneration.
+MVP MO application reduced the number of NMLF neurons
+with regenerated axons
+NMLF neurons play a critical role in swimming activity and can
+regrow axons to the ipsilateral spinal cord after SCI (Uematsu &
+Todo, 1997; Takeda et al., 2007). To investigate whether MVP MO
+treatment affects axon regrowth after SCI, we performed retrograde
+tracing by applying biocytin 6 weeks after the lesion, 4 mm caudal
+to the lesion site in the same fish tested for locomotor function
+A
+B
+2.5
+Sham (n = 6)
+Injury (n = 6)
+S
+ha
+m
+In
+ju
+ry
+* *
+*2
+1.5
+M
+V
+P 
+m
+R
+N
+A
+no
+rm
+al
+iz
+ed
+ to
+ s
+ha
+m
+ c
+on
+tro
+l
+1
+0.5
+0
+4 h
+4 h
+12 h
+12 h
+6 day
+6 day
+11 day
+11 day
+Fig. 1. Time course of MVP mRNA expression after SCI. (A) MVP mRNA expression levels were determined by qPCR in the spinal cord caudal to the lesion
+site at four time points after SCI. Significant upregulation was observed at 6 days (**P < 0.01, one-way ANOVA with Tukey’s post hoc test; n = 6 animals per
+group) and 11 days, (*P < 0.05, one-way ANOVA with Tukey’s post hoc test; n = 6 animals per group) after SCI when compared to sham-injured controls.
+GAPDH was used as an internal control. Values are means ± SEM. (B) In situ hybridization shows expression of MVP mRNA in representative longitudinal
+sections of the spinal cord 3 caudal mm to the lesion site at 4 and 12 h, and at 6 and 11 days after SCI compared to sham-injured controls (n = 3 animals per
+group); *Central canal. Scale bar, 100 lm.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+206 H.-C. Pan et al.
+(Fig. 5A). Brain sections from fish treated with MVP and control
+MO were probed for the biocytin tracer using streptavidin-Cy3. Fish
+treated with MVP MO showed a reduced number of biocytin-
+labelled NMLF neurons (Fig. 5B and C), indicating impaired re-
+growth of the axons from NMLF neurons following MVP knock-
+down. The number of retrogradely labelled neurons was significantly
+reduced, by 60.3% in MVP MO-treated fish (15 ± 0.58 cells, n = 3)
+relative to the number in control MO-treated fish (25 ± 0.89 cells,
+n = 3; t-test, *P < 0.05; Fig. 5D).
+MVP MO treatment reduced the number of synapses caudal
+to the lesion site
+The reformation of functional synapses is essential for locomotor
+recovery after SCI (Becker et al., 2004). To label synapses formed
+by regrown axons of supraspinal origin caudal to the injury site, bio-
+cytin was applied at the brainstem–spinal cord transition after MO
+treatment, and co-localization of the tracing signals with the synaptic
+marker SV2 was analysed 6 weeks after SCI (Fig. 6A). The extent
+of anterograde tracing (red) was considerably higher in sections of
+control MO-treated fish (Fig. 6B), with a 2.17-fold increase (t-test,
+*P < 0.05, n = 3) compared to MVP MO-treated fish (Fig. 6C and
+D), indicating that knock-down of MVP reduces numbers of syn-
+apses caudal to the injury site. Few co-localization signals were
+observed in MVP MO-treated fish when compared to control MO-
+treated fish (Fig. 6E), confirming that knock-down of MVP pre-
+vented regrowth of axons in parallel with a reduction in number of
+new synapses caudal to the lesion site.
+Discussion
+Zebrafish have the remarkable ability to regenerate injured tissue
+compared to many higher vertebrates (Becker et al., 1997; Raya
+et al., 2003; Reimer et al., 2008; Stewart et al., 2009; Guo et al.,
+2011; Kroehne et al., 2011). Using an adult zebrafish spinal cord
+injury model, we demonstrate for the first time that both MVP
+A
+C
+D
+B
+a b c g h i
+d e f j k l
+m n o s t u
+p q r v w x
+100 kD
+36 kD
+Sham SCI
+4 h 12 h
+4 h 12 h
+4 h
+S
+ha
+m
+S
+ha
+m
+In
+ju
+ry
+In
+ju
+ry
+12 h
+6 day 11 day
+6 day
+**
+**
+11 day
+6 day 11 day
+MVP
+2.4
+1.8
+1.2
+M
+V
+P
+(r
+at
+io
+ to
+ s
+ha
+m
+ c
+on
+tro
+l)
+0.6
+0
+GAPDH
+Sham
+Fig. 2. Time course of MVP protein expression after SCI. (A) MVP protein expression in the spinal cord caudal to the lesion site as detected by immunoblot-
+ting at different time points after SCI. MVP corresponds to the band with 100-kDa apparent molecular weight. GAPDH was used as loading control.
+(B) Change in MVP levels was quantified by IMAGEJ software. The lesion-induced increase in MVP expression achieved significance at 6 days (**P < 0.01,
+one-way ANOVA with Tukey’s post hoc test; n = 4 animals per group) and 11 days (**P < 0.01, one-way ANOVA with Tukey’s post hoc test; n = 4 animals per
+group) after SCI. Values are means ± SEM. (C) MVP-immunopositive cells and DAPI-stained nuclei are shown in a coronal section of the spinal cord 3 mm
+below the injury site at 11 days after SCI. MVP expression was mainly detected in the cytoplasm; *Central canal. (D) MVP expression was examined by im-
+munohistology at 4 and 12 h, and at 6 and 11 days after SCI. MVP expression was increased surrounding the central canal at 6 and 11 days after SCI when
+compared to the sham-injured control. MVP (red), DAPI (blue); *Central canal. Scale bars, 50 lm (C), 200 lm (D). [Color version of figure available online]
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+MVP promotes spinal cord regeneration 207
+mRNA and protein expression levels are increased at 6 and 11 days,
+but not at 4 and 12 h, after SCI, using qPCR and Western blot anal-
+ysis, suggesting that MVP plays a critical role in spinal cord regen-
+eration in the chronic phase but not in the early phase of recovery
+after SCI.
+Double immunostaining of MVP with Islet-1 or TH at 11 days
+after SCI supports the view that subpopulations of neurons express
+MVP. These neurons have been shown previously to be newly
+formed neurons around the injury site 10 days after SCI in adult
+zebrafish (Hui et al., 2010). Expression of MVP in different types
+of neurons is in agreement with reports showing MVP expression in
+the nervous system of humans, non-human primates, rodents and
+electric fish (Herrmann et al., 1996; Aronica et al., 2003; van Vliet
+et al., 2004; Paspalas et al., 2009; Liu et al., 2011). In addition to
+being expressed by newly formed neurons in the vicinity of the cen-
+tral canal, MVP is also expressed by nestin-immunoreactive neural
+stem cells that comprise the radial glia-type progenitor cells lining
+the central canal as ependymal cells. These ependymoradial glial
+cells are progenitor cells for motor neurons after SCI (Reimer et al.,
+2008). Radial glial cells in the ependymal layer begin to migrate
+away from the lesion site at 3 days after injury, and accumulation in
+the parenchyma around the injury site continues till 7 days (Hui
+et al., 2010). Extending these time points we found that, at 11 days
+after SCI, MVP and nestin double-immunopositive cells were still
+observed. Indeed, a recent study on brain stab lesions in adult zebra-
+fish shows that, during the recovery phase, ventricular radial glial
+progenitor cells that had proliferated and migrated to the lesion site
+contributed to the population of newly generated neurons which
+could survive for > 3 months (Kroehne et al., 2011). Spinal cord
+motor neurons in zebrafish derive from the progenitor domain and
+differentiate into motor neurons by mechanisms that appear to be
+highly conserved between mammals and zebrafish (Kimmel et al.,
+1994; William et al., 2003; Cheesman et al., 2004; Park et al.,
+2004; Reimer et al., 2008). Similarly, we found that MVP expres-
+sion is upregulated in motor neurons identified with the marker
+Islet-1 after SCI.
+MVP is expressed not only in motor neurons but also in TH-
+immunoreactive noradrenergic and dopaminergic neurons around the
+central canal after SCI. Dopaminergic innervation of the spinal cord
+is important for locomotion (Sallinen et al., 2009). For example,
+MPTP, a neurotoxin ablating TH+ neurons in mammals, destroys
+~50% TH+ neurons in larval fish, leading to impairment of their
+swimming capacities at 5, 6 and 7 days post-fertilization (Sallinen
+et al., 2009). Thus, reinnervation of the caudal spinal cord by axons
+regrown from intraspinal TH+ neurons may be important for recov-
+ery after SCI, with uninjured spinal intrinsic neurons compensating
+for lost synaptic contacts resulting from plasticity of the intraspinal
+circuitry caudal to the lesion site.
+Upregulation of MVP levels has been reported in the nervous sys-
+tem for different injury models and species. For instance, MVP was
+found to be upregulated at 7 days after spinal nerve ligation injury
+in rats (Komori et al., 2007). In the electric ray, MVP expression is
+also increased in neurons following injury (Li et al., 1999). Expres-
+sion of MVP is not limited to neurons in the CNS; it is also present
+in reactive astrocytes and microglia, which may provide a supportive
+and/or hostile microenvironment for regeneration (Prewitt et al.,
+1997; Berger et al., 2001; Aronica et al., 2003; Faulkner et al.,
+2004; van Vliet et al., 2004).
+MVP protein expression was decreased by MO application, lead-
+ing to impaired functional recovery as measured by distance swum
+at 4–6 weeks after SCI, being most likely at least in part based on
+reduced axonal regrowth of injured axons and formation of func-
+tional synapses by the regrown axons (Zottoli et al., 1994; Becker
+et al., 1997). The axonal contribution to regeneration and locomotor
+recovery is associated with an upregulation of MVP expression in
+the brain stem comprising the NMLF as shown by microarray analy-
+sis (Ma et al., 2012). MVP MO is indeed taken up by axons of
+NMLF neurons that are severed by the transection injury and are
+therefore considered to be directly affected by the MO treatment.
+Thus, the tracing studies reveal the effects of the MO treatment on
+both CNS regions in combination – the NMLF neurons into which
+the MO is retrogradely transported via the severed axons and the
+spinal cord where MOs are taken up by severed and non-severed
+cells. Anterograde tracing experiments showed that in the caudal
+part of the spinal cord axonal regrowth and number of synapses was
+reduced when MVP expression in the spinal cord was reduced.
+A
+B
+C
+Fig. 3. Double immunolabelling for MVP with markers for two neuronal
+cell types 11 days after SCI. (A) Double labelling for MVP and Islet-1 (mar-
+ker for motor neurons) in longitudinal sections of spinal cord 3 mm caudal
+to the lesion site after SCI and sham injury. (B) MVP and TH (a marker for
+noradrenergic and dopaminergic neurons) in longitudinal sections of the
+spinal cord after SCI and sham-injury. (C) MVP and nestin in longitudinal
+sections of spinal cord after SCI and sham-injury (adjacent sections had to
+be stained due to the identical species origin of the primary antibodies);
+*Central canal. All scale bars, 50 lm.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+208 H.-C. Pan et al.
+Retrograde tracing experiments showed that the number of NMLF
+neurons projecting beyond the injury site was reduced when MVP
+expression in the spinal cord and in the NMLF was reduced. These
+combined results support the view that expression of MVP both in
+the spinal cord and in the NMLF is beneficial to axon regrowth.
+Interestingly, MVP is found not only in axons but also in dendrites
+(Paspalas et al., 2009). Thus, not only descending and ascending
+axons regrown by several weeks after SCI, but also reformation
+and/or reshuffling of dendrites in the spinal cord caudal to the lesion
+site may contribute to functional recovery (Becker et al., 1997,
+1998, 2004; Hanna et al., 1998; Becker & Becker, 2001; Schweitzer
+et al., 2003, 2007). Neurons can axonally transport MVP to accu-
+mulate in nerve terminals presynaptically (Herrmann et al., 1996; Li
+et al., 1999; Paspalas et al., 2009). Whether MVP also plays a sig-
+nificant role in the elaboration of new dendrites and/or reshuffling of
+existing ones to new targets after SCI in zebrafish remains to be
+seen. The fact that MVP is upregulated in the second response phase
+after injury and remains upregulated until 3 weeks after injury (data
+not shown, please see Supplemental Fig. 2 in EJN blog) would
+favour the interpretation that its major function is not in acute neu-
+roprotection after injury by counteracting apoptotic and/or necrotic
+cell death, but by sustained neuroprotection and by allowing sup-
+raspinal axons to regrow and form synapses, while also allowing
+neurons to be generated from ependymoradial glial cells, with their
+neurites elaborating to form new synaptic contacts. It is noteworthy
+in this context that MOs remain detectable until at least 6 weeks
+after application (Becker et al., 2004).
+MVP is also considered to be important for cell survival (Schroeij-
+ers et al., 2002; Kolli et al., 2004). For example, serum deprivation of
+MVP-deficient mouse embryonic fibroblasts (MEFs) leads to signifi-
+cantly increased cell death compared to normal MEFs (Kolli et al.,
+2004). MVP enhances expression of the anti-apoptotic protein bcl-2 in
+senescent human fibroblasts (Ryu et al., 2008). Recently, several
+A
+C
+B
+100 kD
+Co
+ntr
+ol 
+MO
+MV
+P M
+O
+MVP
+1.5
+**
+M
+V
+P 
+pr
+ot
+ei
+n 
+ex
+pr
+es
+si
+on
+ le
+ve
+l
+(fo
+ld
+ c
+ha
+ng
+e) 1.2
+0.9
+0.6
+0.3
+0
+2500
+2000
+1500
+To
+ta
+l d
+is
+ta
+nc
+e 
+(c
+m
+/5
+ m
+in
+)
+1000
+500
+0
+1 2 3 4 5 6
+(Week)
+Control MO
+Control MO (n = 11)
+MVP MO (n = 11)
+* *
+*
+MVP MO
+GAPDH36 kD
+11 Days after SCI
+Fig. 4. Inhibition of MVP protein expression reduced locomotor recovery after SCI. (A) MVP protein expression level was reduced 11 days after SCI after
+application of MVP antisense MO. GAPDH was used as a loading control. (B) Change in MVP protein levels after application of MVP MO was quantified by
+IMAGEJ software. MVP protein levels were reduced by 75% after application of MVP MO compared to standard control MO (**P < 0.01, t-test; n = 3 animals
+per group). Values are means ± SEM. (C) Total distance moved by zebrafish treated with MVP MO or standard control MO was studied every week after SCI.
+At 4, 5 and 6 weeks after SCI the total distance moved by fish was reduced in the MVP MO-treated group (*P < 0.05, one-way ANOVA with post hoc Student–
+Newman–Keuls test. Tukey’s post hoc test did not yield significant differences; n = 11 animals per group). Values are means ± SEM.
+A
+B C
+D
+Retrograde tracing
+30
+*
+25
+20
+15
+5
+10
+0
+Control MO MVP MO
+N
+um
+be
+r o
+f r
+et
+ro
+gr
+ad
+el
+y
+la
+be
+le
+d 
+ne
+ur
+on
+s
+First injury
+Second injury
+Gelfoam
+(Biocytin)
+6 weeks later
+Fig. 5. MVP MO reduced the numbers of NMLF neurons retrogradely
+labelled 6 weeks after SCI. (A) Schematic illustration of the experiment. Bio-
+cytin was applied for retrograde tracing at the site indicated as the second
+injury at 6 weeks after SCI (first injury). (B) Biocytin-labelled neurons in the
+NMLF of fish treated with standard control MO. (C) Biocytin-labelled neu-
+rons in the NMLF of fish treated with MVP MO. (D) Reduction in numbers
+of retrogradely labelled neurons in the NMLF after application of MVP MO
+(*P < 0.05, t-test; n = 3 animals per group). In (B, C) the NMLF area in a
+coronal section is shown. Scale bar, 50 lm (B, C).
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+MVP promotes spinal cord regeneration 209
+studies have shown that MVP modulates cellular signalling pathways
+which are related to cell survival and proliferation, pathways such as
+the Ras–ERK, PI3K–Akt and JAK–STAT signalling pathways (Kolli
+et al., 2004; Minaguchi et al., 2006; Steiner et al., 2006; Berger
+et al., 2009). It thus conceivable that MVP is involved not only in
+functional recovery after injury but also in maintenance of the cir-
+cuitry governing swim behaviour in uninjured fish. The contribution
+of MVP-triggered signalling pathways to functional recovery after
+SCI in adult zebrafish remains to be studied. Future investigations on
+the functions of MVP after SCI in fish and mammals are expected to
+yield insights into potential strategies for SCI therapy in humans.
+Conflict of interests
+The authors declare no conflict of interests.
+Acknowledgements
+The authors are grateful to Dr Stanley Lin for helpful discussions and critical
+text editing, Dr Yu-Ji Guo for instructions on the surgery, and the Li Ka-
+Shing Foundation (LB0103 to M.S.), NNSF, China (81072622 and 31271580
+to Y.-Q.S.), Guangdong Natural Science Foundation (S2012010009480 to
+Y.-Q.S.) and SRF for ROCS, China (2010-1561 to Y.-Q.S.) for support.
+Abbreviations
+CNS, central nervous system; MO, morpholino; MVP, major vault protein;
+NMLF, nucleus of the medial longitudinal fascicle; PBS, phosphate-buffered
+saline; qPCR, quantitative RT-PCR; SCI, spinal cord injury; SV2, Synaptic
+vesicle glycoprotein 2; TH, tyrosine hydroxylase.
+References
+Abdesselem, H., Shypitsyna, A., Solis, G.P., Bodrikov, V. & Stuermer, C.A.
+(2009) No Nogo66- and NgR-mediated inhibition of regenerating axons in
+the zebrafish optic nerve. J. Neurosci., 29, 15489–15498.
+Aronica, E., Gorter, J.A., van Vliet, E.A., Spliet, W.G., van Veelen, C.W.,
+van Rijen, P.C., Leenstra, S., Ramkema, M.D., Scheffer, G.L., Scheper,
+R.J., Sisodiya, S.M. & Troost, D. (2003) Overexpression of the human
+major vault protein in gangliogliomas. Epilepsia, 44, 1166–1175.
+Baumgart, E.V., Barbosa, J.S., Bally-Cuif, L., Götz, M. & Ninkovic, J.
+(2012) Stab wound injury of the zebrafish telencephalon: a model for com-
+parative analysis of reactive gliosis. Glia, 60, 343–357.
+Becker, C.G. & Becker, T. (2008) Adult zebrafish as a model for success-
+ful central nervous system regeneration. Restor. Neurol. Neurosci., 26,
+71–80.
+Becker, C.G., Lieberoth, B.C., Morellini, F., Feldner, J., Becker, T. &
+Schachner, M. (2004) L1.1 is involved in spinal cord regeneration in adult
+zebrafish. J. Neurosci., 24, 7837–7842.
+Becker, T. & Becker, C.G. (2001) Regenerating descending axons preferen-
+tially reroute to the gray matter in the presence of a general macrophage/
+microglial reaction caudal to a spinal transection in adult zebrafish. J.
+Comp. Neurol., 433, 131–147.
+Becker, T., Wullimann, M.F., Becker, C.G., Bernhardt, R.R. & Schachner,
+M. (1997) Axonal regrowth after spinal cord transection in adult zebrafish.
+J. Comp. Neurol., 377, 577–595.
+Becker, T., Bernhardt, R.R., Reinhard, E., Wullimann, M.F., Tongiorgi, E. &
+Schachner, M. (1998) Readiness of zebrafish brain neurons to regenerate a
+spinal axon correlates with differential expression of specific cell recogni-
+tion molecules. J. Neurosci., 18, 5789–5803.
+Berger, W., Spiegl-Kreinecker, S., Buchroithner, J., Elbling, L., Pirker, C.,
+Fischer, J. & Micksche, M. (2001) Overexpression of the human major
+vault protein in astrocytic brain tumor cells. Int. J. Cancer, 94, 377–382.
+Berger, W., Steiner, E., Grusch, M., Elbling, L. & Micksche, M. (2009)
+Vaults and the major vault protein: novel roles in signal pathway regula-
+tion and immunity. Cell. Mol. Life Sci., 66, 43–61.
+Bernhardt, R.R., Tongiorgi, E., Anzini, P. & Schachner, M. (1996) Increased
+expression of specific recognition molecules by retinal ganglion cells and
+by optic pathway glia accompanies the successful regeneration of retinal
+axons in adult zebrafish. J. Comp. Neurol., 376, 253–264.
+Bhatt, D.H., Otto, S.J., Depoister, B. & Fetcho, J.R. (2004) Cyclic AMP-
+induced repair of zebrafish spinal circuits. Science, 305, 254–258.
+Cheesman, S.E., Layden, M.J., Von Ohlen, T., Doe, C.Q. & Eisen, J.S.
+(2004) Zebrafish and fly Nkx6 proteins have similar CNS expression
+patterns and regulate motoneuron formation. Development, 131,
+5221–5232.
+Faulkner, J.R., Herrmann, J.E., Woo, M.J., Tansey, K.E., Doan, N.B. & So-
+froniew, M.V. (2004) Reactive astrocytes protect tissue and preserve func-
+tion after spinal cord injury. J. Neurosci., 24, 2143–2155.
+Goff, L.A., Bowers, J., Schwalm, J., Howerton, K., Getts, R.C. & Hart, R.P.
+(2004) Evaluation of sense-strand mRNA amplification by comparative
+quantitative PCR. BMC Genomics, 5, 76.
+Guo, Y., Ma, L., Cristofanilli, M., Hart, R.P., Hao, A. & Schachner, M.
+(2011) Transcription factor Sox11b is involved in spinal cord regeneration
+in adult zebrafish. Neuroscience, 172, 329–341.
+Hanna, G.F., Nawar, N.N. & Sharma, S.C. (1998) Regeneration of ascending
+spinal axons in goldfish. Brain Res., 791, 235–245.
+Harel, N.Y. & Strittmatter, S.M. (2006) Can regenerating axons recapitulate
+developmental guidance during recovery from spinal cord injury? Nat.
+Rev. Neurosci., 7, 603–616.
+Herrmann, C., Volknandt, W., Wittich, B., Kellner, R. & Zimmermann, H.
+(1996) The major vault protein (MVP100) is contained in cholinergic
+nerve terminals of electric ray electric organ. J. Biol. Chem., 271, 13908–
+13915.
+Herrmann, C., Kellner, R. & Volknandt, W. (1998) Major vault protein of
+electric ray is a phosphoprotein. Neurochem. Res., 23, 39–46.
+Hui, S.P., Dutta, A. & Ghosh, S. (2010) Cellular response after crush injury
+in adult zebrafish spinal cord. Dev. Dyn., 239, 2962–2979.
+A
+B
+C
+D E
+Anterograde tracing
+First injurySecond injury
+Gelfoam
+(Biocytin)
+Control MO
+MVP MO
+Control MO MVP MO
+Control MO
+6
+*
+5
+4
+3
+Fl
+uo
+re
+sc
+en
+ce
+ in
+te
+ns
+ity
+2
+1
+0
+MVP MO
+6 weeks later
+Fig. 6. MVP MO reduced the numbers of regrown descending axons and
+synapses at 6 weeks after SCI. (A) Schematic illustration of the experiment.
+Biocytin was applied for anterograde tracing at the site indicated as the second
+injury at 6 weeks after SCI (first injury). (B, C) Structures, anterogradely
+labelled with biocytin, in the spinal cord of fish treated with (B) standard con-
+trol MO and (C) MVP MO. (D) Relative fluorescence intensity was analysed
+with IMAGEJ software. A 2.17-fold higher intensity was observed with standard
+control MO application than with MVP MO application (*P < 0.05, t-test;
+n = 3 animals per group). (E) Images of coronal sections of spinal cord co-
+labelled for SV2 and anterogradely labelled for biocytin tracing. Arrows
+indicate co-labelled signals for SV2 (green) and biocytin (red). DAPI (blue)
+indicates nuclear staining; *Central canal. Scale bar, 50 lm (B, C), 5 lm (E).
+[Color version of figure available online]
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+210 H.-C. Pan et al.
+Karnezis, T., Mandemakers, W., McQualter, J.L., Zheng, B., Ho, P.P., Jor-
+dan, K.A., Murray, B.M., Barres, B., Tessier-Lavigne, M. & Bernard, C.C.
+(2004) The neurite outgrowth inhibitor Nogo A is involved in autoimmune
+mediated demyelination. Nat. Neurosci., 7, 736–744.
+Kedersha, N.L., Hill, D.F., Kronquist, K.E. & Rome, L.H. (1986) Subpopula-
+tions of liver coated vesicles resolved by preparative agarose gel electro-
+phoresis. J. Cell Biol., 103, 287–297.
+Kedersha, N.L., Miquel, M.C., Bittner, D. & Rome, L.H. (1990) Vaults. II.
+Ribonucleoprotein structures are highly conserved among higher and lower
+eukaryotes. J. Cell Biol., 110, 895–901.
+Kickhoefer, V.A., Rajavel, K.S., Scheffer, G.L., Dalton, W.S., Scheper, R.J.
+& Rome, L.H. (1998) Vaults are up-regulated in multidrug-resistant cancer
+cell lines. J. Biol. Chem., 273, 8971–8974.
+Kimmel, C.B., Warga, R.M. & Kane, D.A. (1994) Cell cycles and clonal
+strings during formation of the zebrafish central nervous system. Develop-
+ment, 120, 265–276.
+Kolli, S., Zito, C.I., Mossink, M.H., Wiemer, E.A. & Bennett, A.M. (2004)
+The major vault protein is a novel substrate for the tyrosine phosphatase
+SHP-2 and scaffold protein in epidermal growth factor signalling. J. Biol.
+Chem., 279, 29374–29385.
+Komori, N., Takemori, N., Kim, H.K., Singh, A., Hwang, S.H., Foreman,
+R.D., Chung, K., Chung, J.M. & Matsumoto, H. (2007) Proteomics study
+of neuropathic and nonneuropathic dorsal root ganglia: altered protein reg-
+ulation following segmental spinal nerve ligation injury. Physiol. Genom-
+ics, 29, 215–230.
+Kroehne, V., Freudenreich, D., Hans, S., Kaslin, J. & Brand, M. (2011)
+Regeneration of the adult zebrafish brain from neurogenic radial glia-type
+progenitors. Development, 138, 4831–4841.
+Kyriakatos, A., Mahmood, R., Ausborn, J., Porres, C.P., Büschges, A. & El
+Manira, A. (2011) Initiation of locomotion in adult zebrafish. J. Neurosci.,
+31, 8422–8431.
+Li, J.Y., Volknandt, W., Dahlstrom, A., Herrmann, C., Blasi, J., Das, B. &
+Zimmermann, H. (1999) Axonal transport of ribonucleoprotein particles
+(vaults). Neuroscience, 91, 1055–1065.
+Liu, B., Wang, T., Wang, L., Wang, C., Zhang, H. & Gao, G.D. (2011) Up-
+regulation of major vault protein in the frontal cortex of patients with
+intractable frontal lobe epilepsy. J. Neurol. Sci., 308, 88–93.
+Lloret, M., Lara, P.C., Bordón, E., Rey, A., Falcón, O., Apolinario, R.M.,
+Clavo, B. & Ruiz, A. (2008) MVP expression is related to IGF1-R in cer-
+vical carcinoma patients treated by radiochemotherapy. Gynecol. Oncol.,
+110, 304–307.
+Ma, L., Yu, Y.M., Guo, Y., Hart, R.P. & Schachner, M. (2012) Cysteine-
+and glycine- rich protein 1a is involved in spinal cord regeneration in adult
+zebrafish. Eur. J. Neurosci., 35, 353–365.
+McLean, D.L. & Fetcho, J.R. (2009) Spinal interneurons differentiate sequen-
+tially from those driving the fastest swimming movements in larval zebra-
+fish to those driving the slowest ones. J. Neurosci., 29, 13566–13577.
+Minaguchi, T., Waite, K.A. & Eng, C. (2006) Nuclear localization of PTEN is
+regulated by Ca2+ through a tyrosil phosphorylation-independent conforma-
+tional modification in major vault protein. Cancer Res., 66, 11677–11682.
+Mossink, M.H., Van Zon, A., Scheper, R.J., Sonneveld, P. & Wiemer, E.A.
+(2003) Vaults: a ribonucleoprotein particle involved in drug resistance?
+Oncogene, 22, 7458–7467.
+Nasevicius, A. & Ekker, S.C. (2000) Effective targeted gene ‘knockdown’ in
+zebrafish. Nat. Genet., 26, 216–220.
+Park, K., Luo, J.M., Hisheh, S., Harvey, A.R. & Cui, Q. (2004) Cellular
+mechanisms associated with spontaneous and ciliary neurotrophic factor-
+cAMP-induced survival and axonal regeneration of adult retinal ganglion
+cells. J. Neurosci., 24, 10806–10815.
+Paspalas, C.D., Perley, C.C., Venkitaramani, D.V., Goebel-Goody, S.M.,
+Zhang, Y.F., Kurup, P., Mattis, J.H. & Lombroso, P.J. (2009) Major vault
+protein is expressed along the nucleus-neurite axis and associates with
+mRNAs in cortical neurons. Cereb. Cortex, 19, 1666–1677.
+Pei, D.S., Sun, Y.H., Chen, S.P., Wang, Y.P., Hu, W. & Zhu, Z.Y. (2007)
+Zebrafish GAPDH can be used as a reference gene for expression analysis
+in cross-subfamily cloned embryos. Anal. Biochem., 363, 291–293.
+Prewitt, C.M., Niesman, I.R., Kane, C.J. & Houlé, J.D. (1997) Activated
+macrophage/microglial cells can promote the regeneration of sensory axons
+into the injured spinal cord. Exp. Neurol., 148, 433–443.
+Raya, A., Koth, C.M., Büscher, D., Kawakami, Y., Itoh, T., Raya, R.M.,
+Sternik, G., Tsai, H.J., Rodríguez-Esteban, C. & Izpisúa-Belmonte, J.C.
+(2003) Activation of notch signalling pathway precedes heart regeneration
+in zebrafish. Proc. Natl. Acad. Sci. USA, 100(Suppl 1), 11889–11895.
+Reimer, M.M., Sörensen, I., Kuscha, V., Frank, R.E., Liu, C., Becker, C.G.
+& Becker, T. (2008) Motor neuron regeneration in adult zebrafish. J. Neu-
+rosci., 28, 8510–8516.
+Ryu, S.J., An, H.J., Oh, Y.S., Choi, H.R., Ha, M.K. & Park, S.C. (2008) On
+the role of major vault protein in the resistance of senescent human diploid
+fibroblasts to apoptosis. Cell Death Differ., 15, 1673–1680.
+Sallinen, V., Torkko, V., Sundvik, M., Reenilä, I., Khrustalyov, D., Kaslin,
+J. & Panula, P. (2009) MPTP and MPP+ target specific aminergic cell
+populations in larval zebrafish. J. Neurochem., 108, 719–731.
+Scheffer, G.L., Wijngaard, P.L., Flens, M..J., Izquierdo, M.A., Slovak, M.L.,
+Pinedo, H.M., Meijer, C.J., Clevers, H.C. & Scheper, R.J. (1995) The drug
+resistance-related protein LRP is the human major vault protein. Nat.
+Med., 1, 578–582.
+Scheffer, G.L., Schroeijers, A.B., Izquierdo, M.A., Wiemer, E.A. & Scheper,
+R.J. (2000) Lung resistance-related protein/major vault protein and vaults
+in multidrug-resistant cancer. Curr. Opin. Oncol., 12, 550–556.
+Schroeijers, A.B., Reurs, A.W., Scheffer, G.L., Stam, A.G., de Jong, M.C.,
+Rustemeyer, T., Wiemer, E.A., de Gruijl, T.D. & Scheper, R.J. (2002) Up-
+regulation of drug resistance-related vaults during dendritic cell develop-
+ment. J. Immunol., 168, 1572–1578.
+Schwab, J.M., Brechtel, K., Mueller, C.A., Failli, V., Kaps, H.P., Tuli, S.K.
+& Schluesener, H.J. (2006) Experimental strategies to promote spinal cord
+regeneration-an integrative perspective. Prog. Neurobiol., 78, 91–116.
+Schweitzer, J., Becker, T., Becker, C.G. & Schachner, M. (2003) Expression
+of protein zero is increased in lesioned axon pathways in the central ner-
+vous system of adult zebrafish. Glia, 41, 301–317.
+Schweitzer, J., Gimnopoulos, D., Lieberoth, B.C., Pogoda, H.M., Feldner, J.,
+Ebert, A., Schachner, M., Becker, T. & Becker, C.G. (2007) Contactin1a
+expression is associated with oligodendrocyte differentiation and axonal
+regeneration in the central nervous system of zebrafish. Mol. Cell. Neuro-
+sci., 35, 194–207.
+Silver, J. & Miller, J.H. (2004) Regeneration beyond the glial scar. Nat. Rev.
+Neurosci., 5, 146–156.
+Steiner, E., Holzmann, K., Pirker, C., Elbling, L., Micksche, M., Sutterlüty,
+H. & Berger, W. (2006) The major vault protein is responsive to and inter-
+feres with interferon-c-mediated STAT1 signals. J. Cell Sci., 119, 459–
+469.
+Stewart, S., Tsuna, Z.Y. & Izpisua Belmonte, J.C. (2009) A histone demeth-
+ylase is necessary for regeneration in zebrafish. Proc. Natl. Acad. Sci.
+USA, 106, 19889–19894.
+Summerton, J. & Weller, D. (1997) Morpholino antisense oligomers: design,
+preparation, and properties. Antisense Nucleic Acid Drug Dev., 7, 187–
+195.
+Takeda, A., Goris, R.C. & Funakoshi, K. (2007) Regeneration of descending
+projections to the spinal motor neurons after spinal hemisection in the
+goldfish. Brain Res., 1155, 17–23.
+Uematsu, K. & Todo, T. (1997) Identification of the midbrain locomotor
+nuclei and their descending pathways in the teleost carp, Cyprinus carpio.
+Brain Res., 773, 1–7.
+Vasu, S.K. & Rome, L.H. (1995) Dictyostelium vaults: disruption of the
+major proteins reveals growth and morphological defects and uncovers a
+new associated protein. J. Biol. Chem., 270, 16588–16594.
+van Vliet, E.A., Aronica, E., Redeker, S. & Gorter, J.A. (2004) Expression
+and cellular distribution of major vault protein: a putative marker for phar-
+maco resistance in a rat model for temporal lobe epilepsy. Epilepsia, 45,
+1506–1516.
+William, C.M., Tanabe, Y. & Jessell, T.M. (2003) Regulation of motor neu-
+ron subtype identity by repressor activity of Mnx class homeodomain pro-
+teins. Development, 130, 1523–1536.
+Yoshinari, N., Ishida, T., Kudo, A. & Kawakami, A. (2009) Gene expression
+and functional analysis of zebrafish larval fin fold regeneration. Dev. Biol.,
+325, 71–81.
+Yu, Y.M., Cristofanilli, M., Valiveti, A., Ma, L., Yoo, M.S., Morellini, F. &
+Schachner, M. (2011a) The extracellular matrix glycoprotein tenascin-C
+promotes locomotor recovery after spinal cord injury in adult zebrafish.
+Neuroscience, 183, 238–250.
+Yu, Y.M., Gibbs, K.M., Davila, J., Campbell, N., Sung, S., Todorova, T.I.,
+Otsuka, S., Sabaawy, H.E., Hart, R.P. & Schachner, M. (2011b) MicroR-
+NA miR-133b is essential for functional recovery after spinal cord injury
+in adult zebrafish. Eur. J. Neurosci., 33, 1587–1597.
+Zottoli, S.J., Bentley, A.P., Feiner, D.G., Hering, J.R., Prendergast, B.J. &
+Rieff, H.I. (1994) Spinal cord regeneration in adult goldfish: implications
+for functional recovery in vertebrates. Prog. Brain Res., 103, 219–228.
+ 2012 Federation of European Neuroscience Societies and Blackwell Publishing Ltd
+European Journal of Neuroscience, 37, 203–211
+MVP promotes spinal cord regeneration 211

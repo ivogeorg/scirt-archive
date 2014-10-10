@@ -1,0 +1,342 @@
+Microtubule stabilization reduces scarring and enables axon
+regeneration after spinal cord injury
+Farida Hellal1, Andres Hurtado2, Jörg Ruschel1, Kevin Flynn1, Martina Umlauf1, Lukas
+Kapitein3, Dinara Strikis4, Vance Lemmon4, John Bixby4, Casper Hoogenraad3, and Frank
+Bradke1,*
+1 Axonal Growth and Regeneration Group, Max Planck Institute of Neurobiology, Am Klopferspitz
+18, 82152 Martinsried, Germany 2 International Center for Spinal Cord Injury, Hugo W. Moser
+Research Institute at Kennedy Krieger, Department of Neurology, Johns Hopkins University, 707
+N Broadway, Suite 523, Baltimore MD, 21205, USA 3 Department of Neuroscience, Erasmus
+Medical Center, P.O. Box 2040, 3000 CA Rotterdam, The Netherlands 4 The Miami Project to
+Cure Paralysis, University of Miami Miller School of Medicine, 1095 NW 14th Terrace, Miami FL
+33136, USA
+Abstract
+Hypertrophic scarring and poor intrinsic axon growth capacity constitute major obstacles for
+spinal cord repair. These processes are tightly regulated by microtubule dynamics. We found that
+moderate microtubule stabilization decreased scar formation after spinal cord injury (SCI) in
+rodents via various cellular mechanisms, including dampening of TFG-β signalling. It prevented
+the accumulation of chondroitin sulfate proteoglycans (CSPGs) and rendered the lesion site
+permissive for axon regeneration of growth competent sensory neurons. Additionally, microtubule
+stabilization promoted growth of CNS axons of the Raphe-spinal tract and led to functional
+improvement. Thus, microtubule stabilization reduces fibrotic scarring and enhances the capacity
+of axons to grow. Manipulation of microtubules may offer the basis for a multi-targeted therapy
+after SCI.
+Microtubule dynamics regulate key processes during scarring, including cell proliferation,
+migration and differentiation as well as intracellular trafficking and secretion of extracellular
+matrix (ECM) molecules (1-2). Moreover, moderate microtubule stabilization prevents
+axonal retraction and swelling of the axon tip after CNS injury (3), and stimulates axon
+growth of cultured neurons (4) enabling them to overcome the growth inhibitory effect of
+CNS myelin (3). We therefore hypothesized that moderate microtubule stabilization with
+Taxol would facilitate axonal regeneration after SCI by decreasing scar formation and
+enhancing intrinsic axonal growth.
+To test this, we first examined whether Taxol treatment reduces scarring after SCI. Adult
+rats underwent a dorsal hemisection at the 8th thoracic spinal cord level. Taxol was
+continuously delivered at the injury site using an intrathecal catheter connected to an
+osmotic minipump. Seven days post-injury, the lesions of vehicle-treated animals were filled
+with laminin, fibronectin and collagen IV, hallmarks of a fibrotic scar (n=10; Fig. 1B and
+fig. S1), which is a major impediment for axon regeneration (5-7). In contrast, in the lesions
+* Contact: fbradke@neuro.mpg.de Tel: (+49-89) 8578 3641 Fax: (+49-89) 8578 3240.
+Competing interests statement
+The authors declare that they have no competing interest.
+NIH Public Access
+Author Manuscript
+Science. Author manuscript; available in PMC 2012 April 20.
+Published in final edited form as:
+Science. 2011 February 18; 331(6019): 928–931. doi:10.1126/science.1201148.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+of animals treated with Taxol at 256 ng/day, a much lower dose than used for chemotherapy
+(8), fibronectin, laminin, and collagen IV were strongly reduced (percentage of control:
+51.9% ± 6.1% (fibronectin) and 41.2 ± 11.4% (laminin); n= 12; p= 0.002; Fig. 1C,D and fig.
+S1). At this Taxol concentration, astrocytes surrounded the injury as in vehicle controls (Fig.
+1B,F); the injury size was equivalent in both groups (1.18 ± 0.09 versus 1.19 ± 0.12 mm2 for
+the control, n= 7-10 animals/group p= 0.951; Fig. 1E) which suggest that astrocytes isolated
+the lesion from undamaged CNS tissue (9). Phosphohistone-H3 immunostaining and
+TUNEL labelling showed that the numbers of proliferating and apoptotic cells were similar
+between Taxol and vehicle-treated animals (n= 7 animals/group; fig. S2, S3). Hence, Taxol
+at low doses reduced fibrotic scarring by mechanisms independent of cell proliferation or
+apoptosis.
+A key event in fibrotic scarring after CNS injury is the activation of transforming growth
+factor (TGF)-ß signalling. Following SCI, the expression of TGF-ß dramatically increases,
+which favours fibrosis (10-12). Integrity of the microtubule network is crucial for the
+transduction of this signal (13). Smad2, the downstream effector of the TGF- ß receptor
+pathway, binds to microtubules via conventional kinesin-1 (14). We therefore asked whether
+stabilizing the microtubule network hinders TGF-ß signalling and attenuates fibrogenesis. In
+extracts from the injury site, Taxol treatment increased the level of detyrosinated
+microtubules (Fig. 2C), which enables kinesin-1 to bind tightly to microtubules (15). Indeed
+in Taxol-treated animals, kinesin-1 was enriched in the microtubule fraction of the injury
+site extracts (Fig. 2D). Far western blot analysis showed that Smad2 directly bound to
+kinesin-1 from brain and spinal cord extracts (Fig. 2E). This interaction was corroborated by
+coimmunoprecipitation experiments, which showed that Smad2 and kinesin-1 formed a
+complex in spinal cord extracts (Fig. 2F). Interestingly, Taxol strongly reduced cargo
+transport by KIF-5, the motor domain of kinesin-1, as well as by the dynein motor domain
+BICDN (fig. S4A Fig. 2G,H), suggesting that Taxol would interfere with Smad2 trafficking.
+In fact, in cultured astrocytes, TGF-ß1 induced nuclear translocation of Smad 2/3 (Fig. 2A);
+Taxol inhibited 70% of this TGF-ß1-induced nuclear translocation (p= 0.04; Fig. 2A,B) and
+Smad2/3 colocalized with microtubules (fig. S4B). Time-lapse microscopy showed that
+overexpressed Smad2-PAGFP moves into the nucleus within minutes after TGF-ß1
+stimulation, while Taxol treatment abolished this movement (movie S1, S2). In vivo, 7 days
+after spinal cord injury, phosphorylated Smad2/3 was located inside the nucleus in 95% of
+vehicle-treated animals while this translocation only occurred in 30% of the Taxol-treated
+animals (n= 13 animals/group; Fig 2I). This suggests that Taxol could impair TGF-ß
+signalling-dependent processes. In fact, in cultured meningeal cells, Taxol reduced the TGF-
+ß1-stimulated production of fibronectin (Fig. 3C) and markedly impaired TGF-ß1-
+stimulated migration (90 ± 29% and 103 ± 15% of cell free area in TGF-ß1 plus Taxol 1 and
+10 nM, respectively, versus 38 ± 14% in the TGF-ß1 alone; p= 0.003; Fig. 3A,B). Thus, low
+doses of Taxol interfere with Smad-dependent TGF-ß signalling, reduce extracellular matrix
+secretion and cell migration, and prevent fibrotic scarring after SCI.
+Given the reduced expression of ECM proteins at lesion sites in Taxol-treated animals, we
+asked whether Taxol also affects the production of CSPGs, which are known inhibitors of
+axon growth. At 7 days post-injury, Taxol decreased the amount of NG2, one of the most
+abundant CSPGs (16) (fig. S1). Axon growth inhibitory activities of CSPGs mainly reside in
+their Glycosaminoglycan (GAG) side chains (17-19). Lesion site extracts from Taxol-treated
+animals showed a significant reduction of GAGs compared to controls (2.4 ± 0.35 versus 4 ±
+0.70 μg/mg of tissue; p= 0.026; n= 9 animals/group; Fig. 3F). Consistently, the conditioned
+medium of cultured meningeal cells and astrocytes treated with 10 nM Taxol showed a 35%
+and 32% decrease of GAG levels, respectively (p= 0.008 and p= 0.02 respectively; Fig.
+3D,E). Moreover, the CSPGs expressed in the Taxol-treated animals localized to the
+intracellular space instead of scaffolding the cells as observed in the vehicle-treated animals
+Hellal et al. Page 2
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+(Fig. 3G). Together, these results demonstrate that administration of low doses of Taxol
+decreases CSPG expression at the lesion site after SCI.
+We next asked whether the Taxol-treated lesion site becomes permissive for regenerating
+axons in vivo by evaluating the regenerative response of dorsal root ganglion (DRG)
+neurons. These neurons are set into a growth competent state by injury of their peripheral
+axons (conditioning), which allows them to regenerate their CNS axons, but only in a scar-
+free environment (20). We therefore assessed whether the reduction of the scar induced by
+Taxol is permissive for conditioned axons to grow. Taxol was applied at the lesion for 4
+weeks as aforementioned; two weeks after central injury, we conditioned the lumbar L4-6
+DRG neurons by transecting the sciatic nerve. Consistent with previous reports (20), 76% of
+the vehicle-treated animals had no regenerative response but rather showed fiber retraction
+(Fig. 4A,B). In contrast in Taxol-treated animals, regenerative fibers grew along the edge of
+the lesion cavity into the lesion site and beyond (Fig. 4A). The longest axons per animal
+grew an average of 1199 ± 250 μm in the Taxol-treated group versus 176 ± 225 μm in the
+vehicle-treated animals (Fig. 4B; n= 13 animals/group; p= 0.002). Thus, taxol treatment of
+the developing scar provides a favourable environment in the CNS for axonal regeneration
+of growth competent neurons.
+Since Taxol also enhanced intrinsic axon growth (4) and the elongation of cultured neurons
+plated on CSPG or CNS myelin components (fig. S5)(3), we assessed whether Taxol
+treatment alone is sufficient to promote growth of injured CNS axons. To this end, we
+examined the effect of 4-week continuous Taxol treatment on axonal growth of the Raphe-
+spinal tract after dorsal hemi-section (21-22). Immunostaining revealed a five-fold increase
+in the number of serotonin (5HT)-positive fibers in the spinal cord caudal to the lesion in the
+Taxol-treated animals compared to vehicle (69 ± 12 fibers versus 13± 3 fibers respectively;
+p= 0.0001; n= 16/group; Fig. 4C-D). The caudal edge of the lesion was enriched in 5HT-
+positive axons (Fig. 4C,D). Axonal tips showed an increase in number of growth cones
+compared to retraction bulbs (data not shown) and frequently, out of the retraction bulbs a
+new process emanated (fig. S6). Additionally, we observed an ectopic distribution of 5HT-
+fibers coursing along the dorsal part of the cord in Taxol-treated animals. Thus, Taxol
+induces growth of 5HT-axons after SCI.
+We next examined whether Taxol treatment leads to functional recovery after moderate
+spinal cord contusion (23). Similarly to the hemisection injury, Taxol treatment increased
+the number of 5HT-positive fibers caudal to the lesion 8 weeks after injury (167 ± 19 fibers
+versus 88 ± 8 fibers respectively; p= 0.002; n= 10/group; Fig. 4E). We tested locomotor
+performance by analysing voluntary paw placement using a gridwalk (24). After 2 and 4
+weeks, Taxol and vehicle treated animals performed equally on the gridwalk (Fig. 4F).
+Importantly, however, while vehicle treated animals did not show any additional recovery,
+Taxol treated animals improved further with only a 5% misstep frequency after 6 and 8
+weeks resulting in a 3.4-fold improvement in performance (p= 0.001; Fig. 4F; movies S3,
+S4). Thus, Taxol-induced functional recovery correlates with its axon growth inducing
+effect.
+Current attempts to elicit axonal regeneration in the injured spinal cord include interference
+with extrinsic growth inhibitory factors present in CNS myelin and scar tissue (17-18, 25),
+or interference with their receptors or their signalling pathways (26-29). While these
+approaches aim to interfere with single inhibitory factors, here, we targeted the cytoskeleton,
+onto which growth inhibitory signalling pathways converge (27). Our data show that
+moderate stabilization of microtubules after CNS injury interferes with multiple intracellular
+processes that prevent axon regeneration. We conclude that Taxol has the potential to offer a
+multi-targeted therapy for spinal cord injury.
+Hellal et al. Page 3
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This work was supported by the Max-Planck-Society, DFG, IFP, the NIH, and the HFSP. We would like to thank
+Drs. Caroline Hill for the SMAD2-PAGFP plasmid, Axel Ullrich for the HaCaT cells, Klaus Dornmair, Mark
+Hübener, Rüdiger Klein, Dorothee Neukirchen, Michael Stiess, Sabina Tahirovic, Hartmut Wekerle for critically
+reading the manuscript, Mr. Van Duc Ha, Mrs. Tanja Irl and the Animal Injury and Repair Core facility from the
+International Center for Spinal Cord Injury for technical assistance.
+References
+1. Liu X, et al. PLoS Med. Dec.2005 2:e354. [PubMed: 16250671]
+2. Westermann S, Weber K. Nat Rev Mol Cell Biol. Dec.2003 4:938. [PubMed: 14685172]
+3. Erturk A, Hellal F, Enes J, Bradke F. J Neurosci. Aug 22.2007 27:9169. [PubMed: 17715353]
+4. Witte H, Neukirchen D, Bradke F. J Cell Biol. Feb 11.2008 180:619. [PubMed: 18268107]
+5. Klapka N, Muller HW. J Neurotrauma. Mar-Apr;2006 23:422. [PubMed: 16629627]
+6. Shearer MC, et al. Mol Cell Neurosci. Dec.2003 24:913. [PubMed: 14697658]
+7. Silver J, Miller JH. Nat Rev Neurosci. Feb.2004 5:146. [PubMed: 14735117]
+8. Rowinsky EK, Cazenave LA, Donehower RC. J Natl Cancer Inst. Aug 1.1990 82:1247. [PubMed:
+1973737]
+9. Okada S, et al. Nat Med. Jul.2006 12:829. [PubMed: 16783372]
+10. Schachtrup C, et al. J Neurosci. Apr 28.2010 30:5843. [PubMed: 20427645]
+11. Moses HL, Coffey RJ Jr. Leof EB, Lyons RM, Keski-Oja J. J Cell Physiol Suppl Suppl. 1987; 5:1.
+12. Lindholm D, Castren E, Kiefer R, Zafra F, Thoenen H. J Cell Biol. Apr.1992 117:395. [PubMed:
+1560032]
+13. Batut J, Howell M, Hill CS. Dev Cell. Feb.2007 12:261. [PubMed: 17276343]
+14. Dong C, Li Z, Alvarez R Jr. Feng XH, Goldschmidt-Clermont PJ. Mol Cell. Jan.2000 5:27.
+[PubMed: 10678166]
+15. Dunn S, et al. J Cell Sci. Apr 1.2008 121:1085. [PubMed: 18334549]
+16. Jones LL, Yamaguchi Y, Stallcup WB, Tuszynski MH. J Neurosci. Apr 1.2002 22:2792. [PubMed:
+11923444]
+17. Bradbury EJ, et al. Nature. Apr 11.2002 416:636. [PubMed: 11948352]
+18. Hurtado A, Podinin H, Oudega M, Grimpe B. Brain. Oct.2008 131:2596. [PubMed: 18765417]
+19. Laabs TL, et al. J Neurosci. Dec 26.2007 27:14494. [PubMed: 18160657]
+20. Ylera B, et al. Curr Biol. Jun 9.2009 19:930. [PubMed: 19409789]
+21. Dill J, Wang H, Zhou F, Li S. J Neurosci. Sep 3.2008 28:8914. [PubMed: 18768685]
+22. Pearse DD, et al. Nat Med. Jun.2004 10:610. [PubMed: 15156204]
+23. Scheff SW, Rabchevsky AG, Fugaccia I, Main JA, Lumpp JE Jr. J Neurotrauma. Feb.2003 20:179.
+[PubMed: 12675971]
+24. Behrmann DL, Bresnahan JC, Beattie MS, Shah BR. J Neurotrauma. 1992; 9:197. Fall. [PubMed:
+1474608]
+25. Freund P, et al. Nat Med. Jul.2006 12:790. [PubMed: 16819551]
+26. Dergham P, et al. J Neurosci. Aug 1.2002 22:6570. [PubMed: 12151536]
+27. Yiu G, He Z. Nat Rev Neurosci. Aug.2006 7:617. [PubMed: 16858390]
+28. Neumann S, Bradke F, Tessier-Lavigne M, Basbaum AI. Neuron. Jun 13.2002 34:885. [PubMed:
+12086637]
+29. Qiu J, et al. Neuron. Jun 13.2002 34:895. [PubMed: 12086638]
+Hellal et al. Page 4
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1. Taxol decreases scarring induced by spinal cord injury
+(A) Representation of lesioned spinal cord (box). (B-C) Mid-saggital sections of lesion site
+from rats treated with (B) vehicle or (C) 256 ng/day 7 days post-injury. Scale bars, 300 μm.
+(D) Taxol significantly decreases fibrotic scarring (expressed as % of vehicle control; ** p=
+0.002) without affecting wound size (E). Taxol does not affect glial compaction at 28 dpi
+(F). Data expressed as mean ± SEM.
+Hellal et al. Page 5
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2. Taxol dampens TGF-ß signalling
+(A-B) In cultured astrocytes, Taxol counteracts the TGF-ß1 induced-nuclear translocation of
+Smad2/3 (arrowheads) causing cytoplasmic Smad2/3 accumulation (arrow). Results in (B)
+are mean ± SD (3 independent experiments, * p= 0.041). (C-F) Representative
+immunoblots. (C) Taxol treament increases total tubulin and decreases tyrosinated tubulin in
+the lesion site. (D) Kinesin-1 enrichment in microtubule fraction of Taxol-treated lesion site.
+(E) His-Smad2 binds to kinesin-1 of brain and spinal cord extracts. (F) Smad2 co-
+immunoprecipitates with kinesin-1. (G) Overlay of sequential binarized peroxisome images,
+color-coded by time as indicated, for a time series in which KIF5-FRB was recruited to
+peroxisomes upon addition of rapalog with (right) or without (left) 100 nM Taxol. Blue
+marks the initial distribution, whereas red marks regions targeted. Scale bars, 10 μm. (H)
+Time traces of the R90% (see online methods) KIF5-FRB and BICDN-FRB with or without
+100 nM Taxol (D). Rapalog is added at 0:00 minutes. Time traces show average ± SEM of 5
+(KIF5), 6 (KIF+Taxol), 3 (BICDN), and 8 (BICDN+Taxol) cells. (I) At 7 dpi, Taxol
+treatment interferes with the nuclear translocation of phospho-Smad 2/3 induced by SCI.
+Scale bar, 20 μm.
+Hellal et al. Page 6
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3. Taxol decreases meningeal cell migration and glycosaminoglycan release in vitro and in
+vivo
+(A-B) 3 DIV, Taxol (1 and 10 nM) decreases meningeal cell migration induced by TGF-ß1.
+Scale bar, 300 μm; results in (B) are means ± SD from 3 independent experiments; * p=
+0.003. (C) Taxol decreases fibronectin deposits induced by TGF-ß1 in meningeal cells.
+Scale bar, 300 μm. Taxol decreases GAGs released from control and TGF-ß1 stimulated
+meningeal cells (D) and astrocytes (E) . Results are means ± SD from 3 independent
+experiments; ** p= 0.008: * p=0.03). (F) Taxol treatment decreases the amount of GAGs
+induced by SCI. Results are means ± SEM, * p= 0.02. (G) Carbohydrate epitopes of CSPGs
+(CS-56) are abundant within the ECM in the control group. After Taxol treatment, CSPGs
+remain cytoplasmic. Scale bar, 75 μm.
+Hellal et al. Page 7
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 4. Taxol promotes axonal regeneration and functional recovery
+(A) Spinal cord horizontal sections of L4-L6 DRG axons labelled with CTB, 6 weeks after
+injury. Taxol treatment promotes regeneration of growth competent neurons (A,
+arrowheads). Scale bars, 50 μm. (B) Longest regenerating axon per animal ± SEM (** p=
+0.002). (C) Spinal cord saggital sections stained with anti-5HT antibody 4 weeks after
+injury. After Taxol treatment, the caudal part of the cord is enriched in serotonergic fibers
+(C, arrowheads). Scale bars, 75 μm. (D-E) Quantification of 5HT-positive fibers caudal to
+the lesion ± SEM (*** p= 0.0001 (D) and ** p= 0.002 (E)). (F) Taxol treatment improves
+locomotor performance over the time.
+Hellal et al. Page 8
+Science. Author manuscript; available in PMC 2012 April 20.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript

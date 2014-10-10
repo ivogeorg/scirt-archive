@@ -1,0 +1,701 @@
+Neurosci Bull    August 1, 2013, 29(4): 402–410. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1361-8402
+·Review·
+Axonal regeneration after spinal cord injury in zebrafish and 
+mammals: differences, similarities, translation
+Katarina Vajn1, Jeffery A Plunkett4, Alexis Tapanes-Castillo4, Martin oudega1,2,3
+Departments of 1Physical Medicine & Rehabilitation, 2Neurobiology, and 3Bioengineering, University of Pittsburgh, 
+Pittsburgh, PA, USA
+4School of Science, Technology and Engineering Management, St. Thomas University, Miami Gardens, FL, USA
+Corresponding authors: Katarina Vajn and Martin oudega. E-mail: kav31@pitt.edu, moudega@pitt.edu
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+Spinal cord injury (SCI) in mammals results in functional deficits that are mostly permanent due in part to the 
+inability of severed axons to regenerate. Several types of growth-inhibitory molecules expressed at the injury 
+site contribute to this regeneration failure. The responses of axons to these inhibitors vary greatly within and 
+between organisms, reflecting axons’ characteristic intrinsic propensity for regeneration. In the zebrafish (Danio 
+rerio) many but not all axons exhibit successful regeneration after SCi. This review presents and compares the 
+intrinsic and extrinsic determinants of axonal regeneration in the injured spinal cord in mammals and zebrafish. 
+A better understanding of the molecules and molecular pathways underlying the remarkable individualism 
+among neurons in mature zebrafish may support the development of therapies for SCI and their translation to 
+the clinic. 
+Keywords: spinal cord injury; axonal regeneration; growth inhibition; functional recovery; zebrafish
+Introduction
+Spinal cord injury (SCi) in mammals typically results in 
+permanent neurological deficits below the level of the 
+lesion. Neurological deficits are primarily caused by the 
+injury-induced interruption of ascending and descending 
+axonal tracts and can be worsened by secondary injury-
+related events[1, 2]. in the central nervous system (CNS), 
+the distal part of a severed axon undergoes Wallerian 
+degeneration, while the proximal part typically retracts to 
+some degree and forms a ‘retraction bulb’. Some types 
+of neurons are intrinsically unable to re-grow their axons 
+after damage, while others do have some intrinsic 
+growth ability[3, 4]. However, the regeneration attempts of 
+the latter typically fail because, at least in part, of growth-
+inhibiting molecules in the milieu of the injury site. The 
+balance between intrinsic and extrinsic molecular events 
+determines the overall axonal regeneration response. 
+A better understanding of this balance may support the 
+development and clinical translation of effective therapies 
+for SCi that involve axonal regeneration.  
+in contrast to the mammalian CNS, axons of 
+embryonic neurons, axons in peripheral nervous system 
+(PNS), and axons in some non-mammalian species 
+regenerate after severance[5-7].  While all these models are 
+useful for studying the mechanisms of axon regeneration, 
+here we focus on the zebrafish (Danio rerio) due to the 
+many recent studies that have elucidated some of the key 
+molecules in this process.
+In the adult zebrafish, many brainstem neurons are 
+able to regenerate axons across an injury in the spinal 
+cord and extend caudally[3]. This process is typically 
+accompanied by anatomical restoration at the lesion 
+site and impressive functional (swimming) recovery[4]. 
+interestingly, not all axons that normally project into the 
+spinal cord in adult zebrafish regenerate after SCI. The 
+mechanisms underlying this remarkable difference between 
+zebrafish axons are incompletely understood. Comparison 
+Katarina Vajn, et al.    Axonal regeneration after SCI in zebrafish and mammals 403
+of the molecules fundamental to this largely variable 
+ability to regenerate axons may provide clues about which 
+signaling pathways are involved. 
+The zebrafish gives us the unique opportunity to 
+investigate the individual mechanisms underlying 
+successful and failed axon regeneration while extrinsic 
+parameters within CNS milieu remain constant. The 
+sequencing of the zebrafish genome has provided several 
+molecular tools (microarray, next-generation sequencing, 
+transgenic animals, morpholinos) to perform functional 
+studies that can verify the level of involvement of certain 
+molecules and/or pathways in axonal regeneration. in 
+addition, the transparency of zebrafish embryos, larvae, 
+and the adult Casper strain, enables in vivo studies of 
+axonal regeneration using two-photon microscopy, laser 
+ablation, and Ca2+ imaging. 
+Axonal Regeneration in Mammals
+Adult mammalian CNS axons do not spontaneously 
+regenerate after a lesion. The mechanisms preventing 
+successful regeneration can be environmental (extrinsic) 
+or within the axon/neuron (intrinsic). Extrinsic mechanisms 
+include the relative lack of growth-promoting molecules 
+and/or the surplus of growth-inhibitory molecules expressed 
+in the injury milieu. intrinsic mechanisms involve molecules 
+expressed within the neuron that limit or prevent regeneration.
+Axonal Regeneration in Zebrafish
+Adult zebrafish have 20 brainstem nuclei that project 
+axons into the spinal cord[3]. Becker and collaborators 
+found that after a complete transection at the level of the 
+brainstem-spinal cord transition zone, 32–51% of neurons 
+in the nucleus of the medial longitudinal fascicle (NMLF), 
+magnocellular octaval nuclei, and intermediate reticular 
+nuclei regenerate axons across the lesion and up to 4 
+mm into the caudal stump[8]. However, neurons in other 
+brainstem nuclei that project into the spinal cord, such 
+as the red nucleus, nucleus of the lateral lemniscus, and 
+tangential nucleus, as well as Mauthner neurons and dorsal 
+root ganglion neurons, fail to regenerate axons after SCi[9, 10]. 
+Molecular Determinants of Axonal Regeneration
+Animal experiments have led to the discovery of several 
+intrinsic and extrinsic mechanisms responsible for the 
+axonal regeneration response in the injured CNS. 
+Extrinsic Factors Involved in Axonal Regeneration 
+in Mammals and Zebrafish
+Axonal growth inhibitors bind to receptors on neurons 
+and initiate a signaling cascade that leads to regeneration 
+failure. There are two major sources of inhibitory molecules 
+that prevent axonal regeneration in the injured mammalian 
+spinal cord. Scar tissue at the injury site contains reactive 
+astrocytes expressing growth-inhibitory chondroitin sulfate 
+proteoglycans (CSPGs). Myelin debris at the site of 
+injury expresses neurite outgrowth inhibitor A (Nogo-A or 
+reticulon-4), myelin-associated glycoprotein (MAG), and 
+oligodendrocyte myelin glycoprotein (oMgp) (Fig. 1)[11].
+CSPGs  The glial scar contains reactive astrocytes that 
+create a physical barrier to axonal regeneration. in addition, 
+reactive astrocytes secrete CSPGs, which are a diverse 
+group of molecules comprised of a core proteoglycan 
+with sulfated glycosaminoglycan (GAG) chains. in 
+mammals, GAG chains bind to the receptor protein tyrosine 
+phosphatase sigma (RPTPσ) and leukocyte common 
+antigen-related phosphatase on neurons, resulting in the 
+inhibition of axonal regeneration[12, 13]. Depolymerization 
+of GAG chains by chondroitinase ABC or inhibition of 
+their synthesis using DNA enzymes improves axonal 
+regeneration that is accompanied by improved functional 
+recovery in rats[14, 15]. in the normal, uninjured mammalian 
+CNS, CSPGs with hyaluronan and link proteins form the 
+perineuronal net which regulates synaptic stabilization[16]. 
+Different types of mammalian neurons are differently 
+inhibited by CSPGs in vitro[17] and the composition of 
+perineuronal nets differs between neurons[16], resulting 
+in variability among neurons in their ability to regenerate 
+severed axons. 
+The SCI site in zebrafish differs markedly from that 
+of mammals. In zebrafish, reactive astrocytes have not 
+been observed. After a complete transection, ependymo-
+radial glial cells proliferate and extend across the lesion 
+site thereby forming a ‘bridge’ between the spinal cord 
+stumps[18]. While CSPGs are normally expressed in the 
+zebrafish CNS, it is unknown whether their presence is 
+increased after injury. However, during regeneration of 
+the optic pathway, CSPGs and tenascin-R prevent axons 
+from making aberrant connections with neurons in the 
+pretectum, demonstrating the ability of zebrafish CSPGs to 
+Neurosci Bull     August 1, 2013, 29(4): 402–410404
+inhibit axonal growth[19].
+Nogo-A  Nogo-A is a member of the reticulon family of 
+proteins that are mainly found in the endoplasmic reticulum. 
+its C-terminus contains two transmembrane hydrophobic 
+regions flanking an extracellular hydrophilic loop of 66 
+amino-acids (Nogo-66) that inhibits neurite outgrowth in 
+mammals by binding to Nogo receptor 1. its N-terminus 
+contains another neurite outgrowth inhibitory domain 
+termed Nogo-A delta20[20] for which the receptor is currently 
+unknown. Nogo-A is expressed in oligodendrocytes, 
+immature neurons, and adult neurons in the cortex, 
+hippocampus, and dorsal root ganglia[21]. Neuronal Nogo-A 
+plays a role in synaptic plasticity and protection against 
+reactive oxygen species in mammals[22] and is involved 
+in zebrafish PNS axon outgrowth and pathfinding [23]. 
+Treatment with anti-Nogo-A antibody leads to axonal 
+regeneration and collateral sprouting of spared axons in the 
+rat and primate corticospinal and raphespinal tracts[24] and 
+this has recently been tested in a Phase i clinical trial (anti-
+human Nogo-A antibody ATi355, Novartis Pharma, http://
+www.clinicaltrials.gov/ct/show/NCT00406016). Anti-Nogo-A 
+treatment fails to improve the regeneration of ascending 
+sensory axons in adult rats[25]. In zebrafish, Nogo-A lacks 
+the N-terminus neurite inhibitory domain (i.e. Nogo-A 
+delta20 in mammals). The Nogo-66 sequence in zebrafish, 
+in contrast to mammals, is growth-permissive to both 
+zebrafish and mouse axons in vitro[26]. 
+MAG  MAG is a sialic acid binding immunoglobulin (ig)-
+like lectin (Siglec-4) composed of five igG-like domains, 
+a transmembrane domain and a shorter or longer 
+cytoplasmic domain (S-MAG or L-MAG). The neuronal 
+receptors for MAG are the gangliosides GD1a and GT1b 
+and Nogo receptors 1 and 2 (NgR1 and NgR2)[27]. Recent 
+in vitro experiments revealed the existence of cell-specific 
+mechanisms involved in MAG-mediated inhibition of axonal 
+regeneration. While cerebellar granule neurons respond 
+to MAG mainly through ganglioside-dependent pathways, 
+dorsal root ganglion neurons, hippocampal neurons, 
+and retinal ganglion cells respond through NgR1/2[28, 29]. 
+In zebrafish, MAG is present in myelin in three different 
+splice variants and its cytoplasmic tail sequence is largely 
+different from mammalian MAG, suggesting that it might 
+have different intracellular signaling pathways[30]. The 
+axonal outgrowth of cultured zebrafish spinal neurons is 
+decreased in the presence of mammalian MAG, however 
+similar experiments using zebrafish MAG have not been 
+done yet. The same neurons have been shown to express 
+NgR[31]. A study by Viljetic et al. showed that neurons in the 
+granule cell layer of the zebrafish cerebellum express the 
+gangliosides GD1a and GT1b, while Purkinje neurons do 
+Fig. 1. Myelin inhibitors of axon regeneration. Myelin-associated glycoprotein (MAG) halts axonal regrowth by binding to the gangliosides 
+GD1a or GT1b and/or Nogo receptors 2 and 1 (NgR 2/1). Neurite outgrowth inhibitor A (Nogo-A) contains two axonal outgrowth 
+inhibitory domains, Nogo-66 and Nogo-A delta20. The receptor for Nogo-66 is NgR1, while the receptor for Nogo-A delta20 is 
+unknown. Oligodendrocyte myelin glycoprotein (OMgp) inhibits axonal regrowth by binding to NgR as well. 
+Katarina Vajn, et al.    Axonal regeneration after SCI in zebrafish and mammals 405
+not[32].  it is also worth mentioning that Schwann cells, which 
+weakly or do not express Nogo-A and MAG, proliferate and 
+remyelinate zebrafish CNS axons after SCI[4].
+Although many in vitro and in vivo studies have shown 
+the involvement of Nogo-A, MAG, and oMgp in axonal 
+regeneration, there are still conflicting results. For instance, 
+spinalized triple-mutant mice deficient in Nogo-A,B,C, MAG, 
+and oMgp show neither enhanced axonal regeneration 
+nor improved functional recovery[33]. it is possible that 
+constitutive knockout mice have compensatory mechanisms 
+that overcome such a triple deletion. However, inducible 
+knockout mice may show enhanced axonal regeneration 
+similar to pharmacological inhibition of these inhibitors. 
+Further studies of the physiological and developmental 
+roles of these molecules are needed to elucidate their 
+functions in the CNS.
+A direct comparison of mammalian and zebrafish 
+extrinsic factors involved in axonal regeneration indicates 
+that the CNS in zebrafish is more permissive to axonal 
+growth. Still, even with a relatively permissive environment, 
+more than half of zebrafish spinal axons do not regenerate 
+after SCi. This suggests that the difference in axonal 
+regeneration ability between non-regenerating and 
+regenerating axons in the adult zebrafish lies in their 
+intrinsic propensity for axonal growth.
+Intrinsic Factors Involved in Axonal Regeneration 
+in Mammals and Zebrafish
+When presented with a permissive growth substrate such as 
+a Schwann cell-containing peripheral nerve graft or embryonic 
+nervous tissue, certain CNS neurons fail to regenerate 
+damaged axons, while others regenerate to some degree. 
+For instance, Purkinje neurons, but not inferior olive 
+neurons, are unable to regenerate axons into an embryonic 
+nervous tissue graft[34]. Another study showed that Purkinje 
+neurons also fail to regenerate axons into a peripheral 
+nerve graft while neurons of the reticular nucleus in the 
+thalamus are able to do so[35]. Clearly, axons are intrinsically 
+predetermined to grow or not after an injury. Several key 
+molecules determine this intrinsic axon growth ability. 
+Growth-associated protein-43 (GAP-43)   GAP-43 is a 
+cytoplasmic protein that can be inserted into membrane 
+by palmytoil anchors on cysteines 3 and 4. it is a well-
+characterized protein that has been associated with 
+successful axonal regeneration in different types of 
+neurons and in different species, including mammals[36]. it is 
+localized in axonal terminals, and highly expressed during 
+CNS development, PNS regeneration, and the regeneration 
+of mammalian CNS axons into permissive grafts (Fig. 2). 
+In the zebrafish, brainstem nuclei with high regenerative 
+capacity express GAP-43 in 84–92% of their neurons at 6 
+days post-SCi, while nuclei with low regenerative capacity 
+express GAP-43 in 49–63% of their neurons. In the latter 
+nuclei, GAP-43 expression decreases dramatically within 
+2–3 weeks post-injury[8, 10].
+L1 cell adhesion molecule (L1CAM)  L1CAM is an 
+axonal transmembrane protein with an extracellular domain 
+that contains several immunoglobulin-like domains and 
+fibronectin-like repeats (type iii). L1CAM is important for 
+Fig. 2. Growth-associated protein 43 (GAP-43) is expressed 
+in different types of neurons during successful axonal 
+outgrowth. GAP-43 (red circles) is expressed in growth 
+cones of: mammalian embryonic neurons in vivo and in vitro (A), 
+mammalian peripheral nerve axons during regeneration 
+into a Schwann cell canal (green semi-ovals) (B), 
+mammalian inferior olivary axons during regeneration into 
+an embryonic nervous tissue graft (yellow cylinder) (C), and 
+zebrafish nucleus of the medial longitudinal fascicle (NMLF) 
+axons during regeneration after spinal cord injury (D). 
+Neurosci Bull     August 1, 2013, 29(4): 402–410406
+CNS development, neuronal migration and differentiation, 
+and axonal regeneration[37, 38]. In zebrafish, there are two 
+homologs of L1: L1.1 and L1.2. L1.1 is expressed in 84–86% 
+of neurons in nuclei of high regenerative capacity and in 
+40% of neurons in nuclei of low regenerative capacity[8-10].
+Cysteine- and glycine-rich protein 1a (CRP1)  in a recent 
+study, Ma and colleagues performed a temporal analysis 
+using a microarray on the NMLF dissected by laser-capture 
+from uninjured and SCI zebrafish[39] and showed increased 
+expression of crp1 mRNA after SCi. Several other mRNAs 
+were also increased: matrix metalloproteinase-9 (mmp9), 
+suppressor of cytokine signaling 3b (socs3b), gap43, 
+contactin-2 and major vault protein (mvp). Quantitative-PCR 
+and in situ hybridization validated the increased expression 
+of crp1 at 11 days post-SCi. in addition, using two different 
+morpholino-knockdown approaches by which the protein 
+expression of CRP1 was decreased, the researchers found 
+impaired swimming recovery and decreased number of 
+axons that regenerated[39]. CRP1 is also known to be up-
+regulated during optic nerve regeneration in zebrafish[40]. 
+The function of CRP1 appears to be in actin bundling[41] and 
+its expression is high in the filopodia of cultured mammalian 
+hippocampal neurons[42].
+Contactin-2 Contactin-2 (axonin-1, transient axonal 
+glycoprotein, TAG-1) is a glycosylphosphatidylinositol-
+anchored protein that is either membrane-bound or 
+secreted into the cerebrospinal fluid. The membrane-bound 
+contactin-2 functions as a cell-adhesion molecule, while 
+the soluble form promotes neurite outgrowth from cultured 
+mammalian neurons[43]. its expression in adult mouse 
+brain is restricted to the olfactory bulb and hippocampus, 
+which suggests that it might play a role in plasticity-
+related events within the CNS[44]. Microarray revealed 
+increased expression of contactin-2 mRNA in zebrafish 
+NMLF neurons after SCi[38], which was further verified by 
+qPCR and morpholino-mediated knockdown of contactin-2 
+mRNA, which caused decreased bulbo-spinal axonal 
+regeneration[45].
+Suppressor of cytokine signaling 3 (SOCS3)  Deletion of 
+SoCS3 in adult mouse retinal ganglion neurons improves 
+axonal regeneration[46]. SoCS3 negatively regulates the 
+gp130-dependent JAK/STAT pathway, and when gp130 
+is deleted the effects of SoCS3 deletion are abolished, 
+indicating that SoCS3 is a major intrinsic mechanism 
+that limits successful axonal regeneration. interestingly, 
+microarray analysis by Ma and colleagues showed that 
+expression of socs3b mRNA is increased in the NMLF after 
+SCI in zebrafish. So far functional studies have not been 
+performed[39]. 
+PI3K/AKT/mTOR pathway  Recently, it was demonstrated 
+that deletion of the phosphatase and tensin homolog 
+(PTEN) gene improves axonal regeneration and prevents 
+apoptosis in mouse retinal ganglion neurons. PTEN is a 
+known inhibitor of the Pi3K/AKT/mToR pathway. Direct 
+inhibition of mToR by rapamycin abolishes the effects 
+of PTEN deletion in retinal ganglion neurons[47]. In vivo 
+experiments have shown that PTEN deletion leads to 
+sprouting and regeneration in the mouse corticospinal 
+tract and dorsal root ganglion neurons[48, 49]. During 
+development, the expression of mToR decreases in most 
+retinal ganglion neurons, and axotomy further decreases 
+its expression, suggesting that inactivation of mToR is a 
+major intrinsic mechanism that limits axonal regeneration. 
+one of the functions of mToR is the regulation of protein 
+synthesis which is needed after axotomy to synthesize 
+new organelles (cytoskeleton) in the extending axon. in 
+zebrafish, the functions of PTEN and mTOR in axonal 
+regeneration have not been studied.
+Major vault protein (MVP)  MVP is part of a vault 
+cytoplasmic ribonucleoprotein, which is an organelle 
+with a somewhat elusive function in eukaryotic cells. 
+The vaults are involved in the transport of mRNA from 
+nucleus to cytoplasm[50]. MVP accounts for 75% of the 
+total vault complex which contains small un-translated 
+vault RNA, telomerase-associated protein-1 and vault poly 
+(ADP-ribose) polymerase. In zebrafish spinal cord, the 
+expression of MVP mRNA and protein increases at six and 
+11 days post-SCI as evidenced by microarray, qPCR and 
+immunohistochemistry. Knockdown by morpholino against 
+mvp mRNA decreased MVP protein expression in spinal 
+cord tissue, impaired swimming recovery, reduced bulbo-
+spinal axonal regeneration, and caused fewer synapses 
+below the SCi site[51]. MVP is up-regulated in dorsal root 
+ganglion neurons after spinal nerve ligation in rats[52] as well 
+as in neurons of the electric ray following injury[53]. MVP 
+has been shown to regulate the Pi3K/Akt and JAK–STAT 
+pathways in cancer cells[54, 55]. These pathways are involved 
+in the intrinsic inhibition of axonal regeneration in mammals 
+(see above). it would be of great interest to investigate 
+whether MVP influences these pathways during axonal 
+Katarina Vajn, et al.    Axonal regeneration after SCI in zebrafish and mammals 407
+regeneration in the zebrafish after SCI. 
+miR-133b  MicroRNAs (miRNAs) are small, non-coding 
+RNA molecules that regulate gene expression by modifying 
+translation and mRNA degradation. A single miRNA can 
+have multiple target mRNAs and a single mRNA can have 
+multiple targeting miRNAs. Recently, Yu et al. found that 
+miR-133b is expressed in the NMLF, superior reticular 
+formation, intermediate reticular formation, magnocellular 
+octaval nuclei and spinal grey matter in normal zebrafish[56]. 
+At one and seven days post-SCi, the number of NMLF 
+neurons expressing miR-133b increases 5–6 times as 
+compared to sham-injured fish. Morpholino-mediated 
+knockdown of miR-133b expression decreases the number 
+of NMLF neurons exhibiting axonal regeneration and 
+increases RhoA expression. in rat, miR-133b expression is 
+up-regulated at 4 h but dramatically decreases at one day 
+post-SCi[57]. There are several targets in the mammalian 
+CNS for miR-133b including RhoA[58], calcineurin[59] and 
+caspase-9[60] which play different roles in regeneration. 
+Rho GTPase is involved in axonal growth inhibition; a RhoA 
+inhibitor is currently being tested in phase i/iia clinical trials 
+for SCi[61]. Calcineurin and caspase-9 are pro-apoptotic 
+molecules and their inhibition results in improved functional 
+recovery after spinal cord and brain trauma[62, 63].
+Axonal regeneration in the adult mammalian CNS is 
+limited even when certain inhibitors of axonal regrowth 
+are removed. Study is further complicated by the fact 
+that not all neurons respond the same way to treatment. 
+The zebrafish offers a unique opportunity to study the 
+differences between successful and unsuccessful axonal 
+regeneration while the extrinsic factors are constant. 
+The expression of GAP-43 and L1CAM is higher in 
+highly-regenerative brainstem nuclei in zebrafish than 
+in low-regenerative nuclei, which is similar to certain 
+mammalian neurons presented with a permissive 
+substrate. Recent studies in zebrafish have revealed 
+several new intrinsic factors involved in successful axonal 
+regeneration, such as CRP1, contactin-2, MVP and miR-
+133b, whose functions in mammalian neurons need to be 
+further investigated. 
+Lessons Learned from Zebrafish That Can Be 
+Applied to Mammalian SCI
+A typical spinal cord contusion damages axonal pathways 
+originating from different nuclei in the brain. The neurons 
+vary in how their signaling pathways respond to axonal 
+growth-inhibitors in the injury milieu[28, 29] and have different, 
+unique, intrinsic axonal growth properties [34, 35] (Fig. 3). 
+A better understanding of the individual characteristics 
+of neurons with regard to their regenerative propensity 
+may point at the necessity for interventions in more 
+common mechanisms or multiple interventions in separate 
+mechanisms to achieve significant axonal regeneration 
+and thus functional restoration after SCi. Studies of axonal 
+regeneration-competent organisms such as zebrafish 
+contribute to elucidating common and unique molecules 
+and molecular pathways involved in successful and failed 
+axonal regeneration after SCi.
+About 30–50% of brainstem neurons in zebrafish 
+regenerate axons after a complete spinal cord transection 
+and this results in basic locomotor (swimming) recovery. 
+Fig. 3. Differential mechanisms involved in axonal regeneration. 
+Most axons are inhibited from regenerating by a 
+combination of extrinsic and intrinsic factors (A). 
+Elimination of extrinsic inhibitors alone is sufficient to 
+promote regeneration of certain axons (B), while others 
+require up-regulation of growth-associated molecules 
+(GAMs) (C) or a combination of up-regulation of GAMs 
+and down-regulation of growth-inhibitory molecules 
+(GIMs) along with elimination of extrinsic inhibitors for 
+successful regeneration (D). CSPGs, chondroitin-sulfate 
+proteoglycans; MI, myelin inhibitors of axonal regeneration.
+Neurosci Bull     August 1, 2013, 29(4): 402–410408
+Most axons, including ascending axons, fail or do not 
+attempt to regenerate. Comprehensive answers about 
+what is necessary for functional repair and if there is 
+any reorganization of neuronal circuitry that contributes 
+to functional repair will most likely come from a better 
+understanding of the mechanisms crucial for regeneration 
+as well as those for failed and no regeneration. Studies 
+revealing the gene and protein expression profiles in axon 
+populations with different regenerative responses following 
+SCi are important in providing target genes/molecules for 
+the design of future therapies. 
+The zebrafish is an excellent model in which to study 
+the mechanisms underlying successful and failed axonal 
+regeneration after SCi. Due to embryo transparency, the 
+zebrafish has been established as a model of vertebrate 
+development for several decades and sequencing of 
+its genome has made many molecular tools available, 
+including morpholinos, transgenic fish, and microarrays/ 
+next-generation sequencing. A recent study by Goldshmit 
+and colleagues used different techniques, including 
+transgenic zebrafish and time-lapse imaging, to study 
+the influence of fibroblast growth factor signaling on 
+the formation of the glial cell bridge and its association 
+with regenerating axons[18]. This is a nice example of 
+how currently-available zebrafish research tools can 
+help in unraveling the mechanisms that drive successful 
+anatomical recovery after SCi. Similar tools can be used 
+to discover mechanisms that determine the individual 
+characteristics of zebrafish neurons in their propensity for 
+axonal regeneration after CNS injury as well as the extent 
+of functional repair controlled by supraspinal pathways. 
+Subsequently, such information may lead to an improved 
+understanding of axonal regeneration responses in the 
+mammalian spinal cord and serve to develop effective 
+therapies for SCi.
+ACKNOWLEDGEMENTS
+This review was supported by United States Department of 
+Defense grant W81XWH-11-1-0645.
+Received date: 2013-03-25; Accepted date: 2013-06-09
+REFERENCES
+[1] Schwab ME, Bartholdi D. Degeneration and regeneration 
+of axons in the lesioned spinal cord. Physiol Rev 1996, 76: 
+319–370.
+[2] Cao HQ, Dong ED. An update on spinal cord injury research. 
+Neurosci Bull 2013, 29: 94–102.
+[3] Becker T, Wullimann MF, Becker CG, Bernhardt RR, 
+Schachner M. Axonal regrowth after spinal cord transection 
+in adult zebrafish. J Comp Neurol 1997, 377: 577–595.
+[4] Hui SP, Dutta A, Ghosh S. Cellular response after crush 
+injury in adult zebrafish spinal cord. Dev Dyn 2010, 239: 
+2962–2979.
+[5] ten Donkelaar HJ. Development and regenerative capacity 
+of descending supraspinal pathways in tetrapods: a 
+comparative approach. Adv Anat Embryol Cell Biol 2000, 
+154: iii–ix, 1–145.
+[6] Becker CG, Becker T (eds). Model organisms in Spinal Cord 
+Regeneration. 1st ed.  Weinheim, Germany:  Wiley-VCH 
+Verlag GmbH, 2007.
+[7] Hui SP, Monaghan JR, Voss SR, Ghosh S. Expression 
+pattern of Nogo-A, MAG, and NgR in regenerating urodele 
+spinal cord. Dev Dyn 2013, 242(7): 847–860.
+[8] Becker T, Bernhardt RR, Reinhard E, Wullimann MF, 
+Tongiorgi E, Schachner M. Readiness of zebrafish brain 
+neurons to regenerate a spinal axon correlates with 
+differential expression of specific cell recognition molecules. 
+J Neurosci 1998, 18: 5789–5803.
+[9] Becker CG, Lieberoth BC, Morellini F, Feldner J, Becker T, 
+Schachner M. L1.1 is involved in spinal cord regeneration in 
+adult zebrafish. J Neurosci 2004, 24: 7837–7842.
+[10] Becker T, Lieberoth BC, Becker CG, Schachner M. 
+Differences in the regenerative response of neuronal cell 
+populations and indications for plasticity in intraspinal 
+neurons after spinal cord transection in adult zebrafish. Mol 
+Cell Neurosci 2005, 30: 265–278.
+[11] Mei F, Christin Chong SY, Chan JR. Myelin-based inhibitors 
+of oligodendrocyte myelination: clues from axonal growth and 
+regeneration. Neurosci Bull 2013, 29: 177–188.
+[12] Shen Y, Tenney AP, Busch SA, Horn KP, Cuascut FX, Liu 
+K, et al. PTPsigma is a receptor for chondroitin sulfate 
+proteoglycan, an inhibitor of neural regeneration. Science 
+2009, 326: 592–596.
+[13] Fisher D, Xing B, Dill J, Li H, Hoang HH, Zhao Z, et al. 
+Leukocyte common antigen-related phosphatase is a 
+functional receptor for chondroitin sulfate proteoglycan axon 
+growth inhibitors. J Neurosci 2011, 31: 14051–14066.
+[14] Garcia-Alias G, Fawcett JW. Training and anti-CSPG 
+combination therapy for spinal cord injury. Exp Neurol 2012, 
+235: 26–32.
+[15] oudega M, Chao oY, Avison DL, Bronson RT, Buchser WJ, 
+Hurtado A, et al. Systemic administration of a deoxyribozyme 
+to xylosyltransferase-1 mRNA promotes recovery after a 
+Katarina Vajn, et al.    Axonal regeneration after SCI in zebrafish and mammals 409
+spinal cord contusion injury. Exp Neurol 2012, 237: 170–179.
+[16] Galtrey CM, Kwok JC, Carulli D, Rhodes KE, Fawcett 
+JW. Distribution and synthesis of extracellular matrix 
+proteoglycans, hyaluronan, link proteins and tenascin-R in 
+the rat spinal cord. Eur J Neurosci 2008, 27: 1373–1390.
+[17] Snow DM, Letourneau PC. Neurite outgrowth on a step 
+gradient of chondroitin sulfate proteoglycan (CS-PG). J 
+Neurobiol 1992, 23: 322–336.
+[18] Goldshmit Y, Sztal TE, Jusuf PR, Hall TE, Nguyen-Chi M, 
+Currie PD. Fgf-dependent glial cell bridges facilitate spinal 
+cord regeneration in zebrafish. J Neurosci 2012, 32: 7477–
+7492.
+[19] Becker CG, Becker T. Repellent guidance of regenerating 
+optic axons by chondroitin sulfate glycosaminoglycans in 
+zebrafish. J Neurosci 2002, 22: 842–853.
+[20] oertle T, van der Haar ME, Bandtlow CE, Robeva A, Burfeind 
+P, Buss A, et al. Nogo-A inhibits neurite outgrowth and cell 
+spreading with three discrete regions. J Neurosci 2003, 23: 
+5393–5406.
+[21] Huber AB, Weinmann o, Brosamle C, oertle T, Schwab 
+ME. Patterns of Nogo mRNA and protein expression in the 
+developing and adult rat and after CNS lesions. J Neurosci 
+2002, 22: 3553–3567.
+[22] Pernet V, Schwab ME. The role of Nogo-A in axonal plasticity, 
+regrowth and repair. Cell Tissue Res 2012, 349: 97–104.
+[23] Brosamle C, Halpern ME. Nogo-Nogo receptor signalling 
+in PNS axon outgrowth and pathfinding. Mol Cell Neurosci 
+2009, 40: 401–409.
+[24] Gonzenbach RR, Schwab ME. Disinhibition of neurite growth 
+to repair the injured adult CNS: focusing on Nogo. Cell Mol 
+Life Sci 2008, 65: 161–176.
+[25] oudega M, Rosano C, Sadi D, Wood PM, Schwab ME, Hagg 
+T. Neutralizing antibodies against neurite growth inhibitor NI-
+35/250 do not promote regeneration of sensory axons in the 
+adult rat spinal cord. Neuroscience 2000, 100: 873–883.
+[26] Abdesselem H, Shypitsyna A, Solis GP, Bodrikov V, Stuermer 
+CA. No Nogo66- and NgR-mediated inhibition of regenerating 
+axons in the zebrafish optic nerve. J Neurosci 2009, 29: 
+15489–15498.
+[27] Schnaar RL, Lopez PH. Myelin-associated glycoprotein and 
+its axonal receptors. J Neurosci Res 2009, 87: 3267–3276.
+[28] Mehta NR, Lopez PH, Vyas AA, Schnaar RL. Gangliosides 
+and Nogo receptors independently mediate myelin-
+associated glycoprotein inhibition of neurite outgrowth in 
+different nerve cells. J Biol Chem 2007, 282: 27875–27886.
+[29] Venkatesh K, Chivatakarn o, Sheu SS, Giger RJ. Molecular 
+dissection of the myelin-associated glycoprotein receptor 
+complex reveals cell type-specific mechanisms for neurite 
+outgrowth inhibition. J Cell Biol 2007, 177: 393–399.
+[30] Lehmann F, Gathje H, Kelm S, Dietz F. Evolution of sialic 
+acid-binding proteins: molecular cloning and expression of 
+fish siglec-4. Glycobiology 2004, 14: 959–968.
+[31] Chen Z, Lee H, Henle SJ, Cheever TR, Ekker SC, Henley 
+JR. Primary neuron culture for nerve growth and axon 
+guidance studies in zebrafish (Danio rerio). PLoS one 2013, 
+8: e57539.
+[32] Viljetic B, Labak i, Majic S, Stambuk A, Heffer M. Distribution 
+of mono-, di- and trisialo gangliosides in the brain of 
+Actinopterygian fishes. Biochim Biophys Acta 2012, 1820: 
+1437–1443.
+[33] Lee JK, Geoffroy CG, Chan AF, Tolentino KE, Crawford 
+MJ, Leal MA, et al. Assessing spinal axon regeneration and 
+sprouting in Nogo-, MAG-, and OMgp-deficient mice. Neuron 
+2010, 66: 663–670.
+[34] Rossi F, Jankovski A, Sotelo C. Differential regenerative 
+response of Purkinje cell and inferior olivary axons confronted 
+with embryonic grafts: environmental cues versus intrinsic 
+neuronal determinants. J Comp Neurol 1995, 359: 663–677.
+[35] Vaudano E, Campbell G, Hunt SP, Lieberman AR. Axonal 
+injury and peripheral nerve grafting in the thalamus and 
+cerebellum of the adult rat: upregulation of c-jun and 
+correlation with regenerative potential. Eur J Neurosci 1998, 
+10: 2644–2656.
+[36] Benowitz LI, Routtenberg A. GAP-43: an intrinsic determinant 
+of neuronal development and plasticity. Trends Neurosci 
+1997, 20: 84–91.
+[37] Zhang Y, Campbell G, Anderson PN, Martini R, Schachner 
+M, Lieberman AR. Molecular basis of interactions between 
+regenerating adult rat thalamic axons and Schwann cells in 
+peripheral nerve grafts i. Neural cell adhesion molecules. J 
+Comp Neurol 1995, 361: 193–209.
+[38] Kamiguchi H, Hlavin ML, Lemmon V. Role of L1 in neural 
+development: what the knockouts tell us. Mol Cell Neurosci 
+1998, 12: 48–55.
+[39] Ma L, Yu YM, Guo Y, Hart RP, Schachner M. Cysteine- and 
+glycine-rich protein 1a is involved in spinal cord regeneration 
+in adult zebrafish. Eur J Neurosci 2012, 35: 353–365.
+[40] McCurley AT, Callard GV. Time course analysis of gene 
+expression patterns in zebrafish eye during optic nerve 
+regeneration. J Exp Neurosci 2010, 2010: 17–33.
+[41] Tran TC, Singleton C, Fraley TS, Greenwood JA. Cysteine-
+rich protein 1 (CRP1) regulates actin filament bundling. BMC 
+Cell Biol 2005, 6: 45.
+[42] Ma L, Greenwood JA, Schachner M. CRP1, a protein 
+localized in filopodia of growth cones, is involved in dendritic 
+growth. J Neurosci 2011, 31: 16781–16791.
+[43] Stoeckli ET, Kuhn TB, Duc Co, Ruegg MA, Sonderegger P. 
+The axonally secreted protein axonin-1 is a potent substratum 
+for neurite growth. J Cell Biol 1991, 112: 449–455.
+[44] Wolfer DP, Giger RJ, Stagliar M, Sonderegger P, Lipp HP. 
+Neurosci Bull     August 1, 2013, 29(4): 402–410410
+Expression of the axon growth-related neural adhesion 
+molecule TAG-1/axonin-1 in the adult mouse brain. Anat 
+Embryol (Berl) 1998, 197: 177–185.
+[45] Lin JF, Pan HC, Ma LP, Shen YQ, Schachner M. The cell 
+neural adhesion molecule contactin-2 (TAG-1) is beneficial 
+for functional recovery after spinal cord injury in adult 
+zebrafish. PLoS One 2012, 7(12): e52376.
+[46] Smith PD, Sun F, Park KK, Cai B, Wang C, Kuwako K, et al. 
+SoCS3 deletion promotes optic nerve regeneration in vivo. 
+Neuron 2009, 64: 617–623.
+[47] Park KK, Liu K, Hu Y, Smith PD, Wang C, Cai B, et al. 
+Promoting axon regeneration in the adult CNS by modulation 
+of the PTEN/mToR pathway. Science 2008, 322: 963–966.
+[48] Liu K, Lu Y, Lee JK, Samara R, Willenberg R, Sears-
+Kraxberger i, et al. PTEN deletion enhances the regenerative 
+ability of adult corticospinal neurons. Nat Neurosci 2010, 13: 
+1075–1081.
+[49] Abe N, Borson SH, Gambello MJ, Wang F, Cavalli V. 
+Mammalian target of rapamycin (mToR) activation increases 
+axonal growth capacity of injured peripheral nerves. J Biol 
+Chem 2010, 285: 28034–28043.
+[50] Chugani DC, Rome LH, Kedersha NL. Evidence that vault 
+ribonucleoprotein particles localize to the nuclear pore 
+complex. J Cell Sci 1993, 106 (Pt 1): 23–29.
+[51] Pan HC, Lin JF, Ma LP, Shen YQ, Schachner M. Major vault 
+protein promotes locomotor recovery and regeneration after 
+spinal cord injury in adult zebrafish. Eur J Neurosci 2013, 37: 
+203–211.
+[52] Komori N, Takemori N, Kim HK, Singh A, Hwang SH, 
+Foreman RD, et al. Proteomics study of neuropathic and 
+nonneuropathic dorsal root ganglia: altered protein regulation 
+following segmental spinal nerve ligation injury. Physiol 
+Genomics 2007, 29: 215–230.
+[53] Li JY, Volknandt W, Dahlstrom A, Herrmann C, Blasi J, Das B, 
+et al. Axonal transport of ribonucleoprotein particles (vaults). 
+Neuroscience 1999, 91: 1055–1065.
+[54] Steiner E, Holzmann K, Pirker C, Elbling L, Micksche M, 
+Sutterluty H, et al. The major vault protein is responsive 
+to and interferes with interferon-gamma-mediated STAT1 
+signals. J Cell Sci 2006, 119: 459–469.
+[55] Minaguchi T, Waite KA, Eng C. Nuclear localization of PTEN 
+is regulated by Ca(2+) through a tyrosil phosphorylation-
+independent conformational modification in major vault 
+protein. Cancer Res 2006, 66: 11677–11682.
+[56] Yu YM, Gibbs KM, Davila J, Campbell N, Sung S, Todorova 
+Ti, et al. MicroRNA miR-133b is essential for functional 
+recovery after spinal cord injury in adult zebrafish. Eur J 
+Neurosci 2011, 33: 1587–1597.
+[57] Liu NK, Wang XF, Lu QB, Xu XM. Altered microRNA 
+expression following traumatic spinal cord injury. Exp Neurol 
+2009, 219: 424–429.
+[58] Carè A, Catalucci D, Felicetti F, Bonci D, Addario A, Gallo P, 
+et al. MicroRNA-133 controls cardiac hypertrophy. Nat Med 
+2007, 13: 613–618.
+[59] Dong DL, Chen C, Huo R, Wang N, Li Z, Tu YJ, et al. 
+Reciprocal repression between microRNA-133 and 
+calcineurin regulates cardiac hypertrophy: a novel mechanism 
+for progressive cardiac hypertrophy. Hypertension 2010, 55: 
+946–952.
+[60] Xu C, Lu Y, Pan Z, Chu W, Luo X, Lin H, et al. The muscle-
+specific microRNAs miR-1 and miR-133 produce opposing 
+effects on apoptosis by targeting HSP60, HSP70 and 
+caspase-9 in cardiomyocytes. J Cell Sci 2007, 120: 3045–
+3052.
+[61] McKerracher L, Ferraro GB, Fournier AE. Rho signaling and 
+axon regeneration. int Rev Neurobiol 2012, 105: 117–140.
+[62] Diaz-Ruiz A, Vergara P, Perez-Severiano F, Segovia J, 
+Guizar-Sahagún G, Ibarra A, et al. Cyclosporin-A inhibits 
+constitutive nitric oxide synthase activity and neuronal and 
+endothelial nitric oxide synthase expressions after spinal cord 
+injury in rats. Neurochem Res 2005, 30: 245–251.
+[63] Colak A, Karaoğlan A, Barut S, Köktürk S, Akyildiz AI, 
+Taşyürekli M. Neuroprotection and functional recovery after 
+application of the caspase-9 inhibitor z-LEHD-fmk in a rat 
+model of traumatic spinal cord injury. J Neurosurg Spine 
+2005, 2: 327–334.

@@ -1,0 +1,628 @@
+ui a,
+Ishikawa 920-0942, Japan
+cDepartment of Molecular Neurobiology, Graduate School of Medical Science, Kanazawa University, 13-1 Takaramachi, Kanazawa, Ishikawa 920-8640, Japan
+a r t i c l e i n f o
+Article history:
+Received 30 May 2012
+neurons in the spinal cord become apoptotic and are lost within
+1 week after spinal cord injury (SCI) (Hains et al., 2003).
+Conversely, zebrafish can regenerate axons of motor neurons and
+(Reimer et al., 2008). These neurons extend axons to reinnervate
+their target organs. A pioneering work by Becker et al. (1997)
+reported that the neurons in about 20 brain regions were retro-
+gradely labeled with a tracer injected into the lesion site of the
+spinal cord. Among the 20 brain regions, there were brain nuclei
+with a high axonal regenerative capacity, such as the nucleus of
+the medial longitudinal fasciculus (NMLF) and the intermediate
+reticular formation (IMRF). In these brain nuclei, 32–51% of the
+neurons regenerate their axons into the spinal cord. In brain nuclei
+of lower axonal regenerative capacity, such as the nucleus ruber
+and the nucleus of the lateral lemniscus, only 11–15% of the
+Abbreviations: Bcl-2, B-cell lymphoma 2; BrdU, 5-bromo-20-deoxyuridine; CNS,
+central nervous system; DAPI, 40 ,6-diamidino-2-phenylindole; dpl, day(s) post-
+lesion; dUTP, deoxyuridine triphosphate; GAP43, growth associated protein 43;
+IMRF, intermediate reticular formation; NMLF, nucleus of medial longitudinal
+fasciculus; RDA, rhodamine dextran amine; SCI, spinal cord injury; TUNEL, terminal
+deoxynucleotidyl transferase-mediated dUTP nick end labeling.
+⇑ Corresponding author. Tel.: +81 76 265 2450; fax: +81 76 234 4235.
+Neurochemistry International 61 (2012) 1202–1211
+Contents lists available at
+Neurochemistry
+journal homepage: www.E-mail address: satoru@med.kanazawa-u.ac.jp (S. Kato).4–6 weeks after SCI. These long-distance descending axons from originally axotomized neurons have a
+major role in restoration of motor function after SCI.
+ 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+In general, mammalian central neurons cannot repair after
+nerve injury, whereas fish central neurons can regrow their axons
+and restore function even after nerve transection. In the rat model
+of spinal cord lesion, primary cortical motor neurons and motor
+recover motor function 6–8 weeks after SCI (Van Raamsdonk
+et al., 1998; Becker et al., 2004). Similar to mammals, motor func-
+tion in zebrafish is controlled by motor neurons from two distinct
+populations, the brainstem and the spinal cord. Recently, it was re-
+ported that motor neurons in the spinal cord are newly-generated
+from progenitor cells located around the central canal after SCIReceived in revised form 21 August 2012
+Accepted 30 August 2012
+Available online 8 September 2012
+Keywords:
+Spinal cord regeneration
+Zebrafish
+Upper motor neuron
+Bcl-2
+p-Akt
+Cell survival0197-0186/$ - see front matter  2012 Elsevier Ltd. A
+http://dx.doi.org/10.1016/j.neuint.2012.08.015a b s t r a c t
+Unlike mammals, fish motor function can recover within 6–8 weeks after spinal cord injury (SCI). The
+motor function of zebrafish is regulated by dual control; the upper motor neurons of the brainstem
+and motor neurons of the spinal cord. In this study, we aimed to investigate the framework behind the
+regeneration of upper motor neurons in adult zebrafish after SCI. In particular, we investigated the cell
+survival of axotomized upper motor neurons and its molecular machinery in zebrafish brain. As represen-
+tative nuclei of upper motor neurons, we retrogradely labeled neurons in the nucleus of medial longitu-
+dinal fasciculus (NMLF) and the intermediate reticular formation (IMRF) using a tracer injected into the
+lesion site of the spinal cord. Four to eight neurons in each thin sections of the area of NMLF and IMRF
+were successfully traced at least 1–15 days after SCI. TUNEL staining and BrdU labeling assay revealed
+that there was no apoptosis or cell proliferation in the axotomized neurons of the brainstem at various
+time points after SCI. In contrast, axotomized neurons labeled with a neurotracer showed increased
+expression of anti-apoptotic factors, such as Bcl-2 and phospho-Akt (p-Akt), at 1–6 days after SCI. Such
+a rapid increase of Bcl-2 and p-Akt protein levels after SCI was quantitatively confirmed by western blot
+analysis. These data strongly indicate that upper motor neurons in the NMLF and IMRF can survive and
+regrow their axons into the spinal cord through the rapid activation of anti-apoptotic molecules after SCI.
+The regrowing axons from upper motor neurons reached the lesion site at 10–15 days and then crossed ataDivision of Health Sciences, Graduate School of Medical Science, Kanazawa University, 5-11-80 Kodatsuno, Kanazawa, Ishikawa 920-0942, Japan
+bDepartment of Laboratory Sciences, School of Health Sciences, College of Medical, Pharmaceutical and Health Sciences, Kanazawa University, 5-11-80 Kodatsuno, Kanazawa,Upregulation of anti-apoptotic factors in
+cord injury in adult zebrafish
+Kazuhiro Ogai a, Suguru Hisano b, Kazuhiro Mawatar
+Hiroshi Nakashima a, Satoru Kato c,⇑ll rights reserved.pper motor neurons after spinal
+Kayo Sugitani a, Yoshiki Koriyama c,
+SciVerse ScienceDirect
+International
+elsevier .com/locate /nc i
+ylindole (DAPI; Wako Pure Chemical Industries, Osaka, Japan). Po-
+chemistry (see Section 2.8).
+ascending series of ethanol concentrations from 50% to 100%, sec-
+tions at 121 C for 20 min in 0.01 M citrate buffer (pH 6.0) for Bcl-2,
+nter2.3. Tissue preparation
+At appropriate time points, the brain and the spinal cord were
+exposed under deep anesthesia (0.1% MS222 in PBS) and fixed with
+4% paraformaldehyde in PBS, overnight at 4 C. They were then
+incubated in an ascending series of sucrose concentrations from
+5% to 20%, and embedded in optimal cutting temperature (OCT)
+compound (Sakura Finetek, Tokyo, Japan). Subsequently, cryosec-
+tions were prepared at 12 or 20 lm thickness. The coronal sections
+were used for all experiments of the brainstem and the longitudi-
+nal sections were used for experiments of the spinal cord. To deter-
+mine the anatomical structure of the adult zebrafish brainstem, we
+referred to the zebrafish brain atlas (Wullimann et al., 1996).
+2.4. Retrograde tracing
+To label brainstem neurons projecting into the spinal cord,
+retrograde tracing from the lesion site of the spinal cord was per-
+formed as described previously (Becker et al., 1997). In brief, a
+small piece of gelatin foam (Spongel; Astellas, Tokyo, Japan) soakedneurons regenerate their spinal axons (Becker et al., 1997). They
+also reported that zebrafish brainstem neurons, which were retro-
+gradely double-labeled by tracers, could be observed 6 weeks after
+SCI. These data indicate that upper motor neurons in the brainstem
+can survive for a long time and then regrow their axons to the
+spinal cord after SCI. However, there are three questions that
+should be solved in more detail: (1) Are the regenerating axons de-
+rived only from originally axotomized and survived neurons or in
+part from newly-generated neurons? (2) Do the cell apoptosis
+and/or cell proliferation in the brainstem occur during the axonal
+regeneration process? (3) What kind of molecule is responsible
+for cell survival of upper motor neurons after SCI? In the present
+study, therefore, we focused on these specific questions, especially
+on elucidating the molecular machinery for cell survival of upper
+motor neurons following SCI. To answer these questions, we con-
+ducted terminal deoxynucleotidyl transferase-mediated dUTP nick
+end labeling (TUNEL) assay, 5-bromo-20-deoxyuridine (BrdU)
+labeling and immunohistochemical staining of anti-apoptotic fac-
+tors (Bcl-2 and phospho-Akt) in combination with retrograde trac-
+ing technique in adult zebrafish after SCI.
+2. Materials and methods
+2.1. Animals
+Adult zebrafish (Danio rerio; 3–4 cm in body length) were used
+throughout this study. The experiments were performed in accor-
+dance with the Committee on Animal Experimentation of the
+Kanazawa University, and all attention was paid to minimize pain
+and the numbers of fish used.
+2.2. Spinal cord injury
+As described previously (Reimer et al., 2009), fish were anesthe-
+tized by immersion in 0.033% ethyl 3-aminobenzoate methanesulf-
+onic acid (MS222; Sigma–Aldrich, St. Louis, MO, USA) in 0.01 M
+phosphate buffered saline (PBS; pH 7.4), and the spinal cord was
+transected 4 mm caudal to the brainstem-spinal cord junction, un-
+less otherwise specified. After surgery, the incision was sealed with
+histoacryl (B. Braun Melsungen AG, Melsungen, Germany) and the
+fish were reared in 26 C water until appropriate time points.
+K. Ogai et al. / Neurochemistry Iwith 25 mg/ml biocytin (Sigma–Aldrich, St. Louis, MO, USA) or
+50 mg/ml rhodamine dextran amine (RDA, Fluororuby; Fluoro-
+chrome, Denver, CO, USA) was applied to the transected spinalp-Akt and GAP43 immunohistochemistry, or incubating sections
+with 2 M HCl at 37 C for 30 min for BrdU immunohistochemistry.
+Sections were then washed, blocked and incubated with primary
+antibodies overnight at 4 C. After washing, sections were incu-
+bated with the appropriate Alexa Fluor 488-conjugated secondary
+antibodies at 23 C for 1 h, followed by washing and nuclear stain-
+ing with 2 lg/ml DAPI. The sections were then observed by fluores-tions were cleared in xylene and mounted with MGK-S (Matsun-
+ami Glass, Osaka, Japan). The sections were then observed by
+bright field microscopy (VB-7000).
+2.8. Immunohistochemistry
+Primary antibodies used were as follows; mouse anti-BrdU
+(Sigma–Aldrich; 1:500), rabbit anti-Bcl-2 (Santa Cruz Biotechnol-
+ogy, Santa Cruz, CA, USA; 1:300), rabbit anti-phospho-Akt (p-Akt;
+pSer473) (Sigma–Aldrich; 1:500) andmouse anti-GAP43 (Santa Cruz
+Biotechnology; 1:300). Immunohistochemistry was performed as
+described previously (Matsukawa et al., 2004; Nagashima et al.,
+2009). In brief, antigen retrieval was performed by autoclaving sec-2.7. Hematoxylin–eosin staining
+Hematoxylin–eosin staining was carried out to show the struc-
+ture of lesioned spinal cord as follows. Sections were stained with
+Mayer’s hematoxylin (Wako Pure Chemical Industries) for 3 min
+followed by washing and counter-staining with 1% eosin-Y (Wako
+Pure Chemical Industries) for 10 min. After dehydration in ansitive cells were visualized by fluorescence microscopy. For the
+positive control, 100 U/ml DNase I (Takara Bio, Shiga, Japan) was
+applied to the sections prior to TUNEL staining.
+2.6. Intraperitoneal application of BrdU
+BrdU incorporation assay was performed to visualize cell prolif-
+eration, as described previously (Reimer et al., 2008). In brief, fish
+were anesthetized and intraperitoneally injected with 50 ll of
+2.5 mg/ml BrdU (Sigma–Aldrich) at 0, 2 and 4 days post-lesion
+(dpl). Cells incorporating BrdU were visualized by immunohisto-cord. The tracer was allowed to be transported to the brainstem
+neurons for at least 1 day (biocytin), or 3–6 days (RDA). Biocytin
+was detected with DyLight 594-conjugated NeutrAvidin (Thermo
+Scientific, Waltham, MA, USA) along with the appropriate second-
+ary antibody for immunohistochemistry (see Section 2.8). RDA was
+directly detected by fluorescence microscopy (VB-7000; Keyence,
+Osaka, Japan).
+2.5. TUNEL assay
+Apoptotic cells were detected by TUNEL technology using In Situ
+Cell Death Detection Kit, Fluorescein (Roche Applied Science,
+Mannheim, Germany) according to the manufacturer’s instruc-
+tions. In brief, sections were microwaved in 0.01 M citrate buffer,
+washed, blocked and incubated with terminal deoxynucleotidyl
+transferase and fluorescein-conjugated dUTP at 37 C overnight,
+followed by counter-staining with 2 lg/ml 40,6-diamidino-2-phen-
+national 61 (2012) 1202–1211 1203cence microscopy. Obtained images were contrast-adjusted and
+color-overlaid using Photoshop CS5 software (Adobe Systems, San
+Jose, CA, USA).
+At 6 weeks post-lesion, the spinal cord was transected 4 mm
+nter2.9. Western blot analysis
+At appropriate time-points, the brains minus the telencephalon
+and the optic tectum, where the projections to the spinal cord
+were absent (Becker et al., 1997), were extracted and sonicated
+in 100 ll lysis buffer (10 mM 4-(2-hydroxyethyl)-1-piperazine-
+ethanesulfonic acid (HEPES; pH 7.4), 150 mM NaCl, 0.5% Triton
+X-100, 50 mM sodium fluoride and 1 mM sodium orthovanadate:
+purchased from Wako Pure Chemical Industries or Nacalai Tesque,
+Kyoto, Japan). The supernatants were collected and the protein
+concentration was measured using the Bradford method (Bio-
+Rad, Hercules, CA, USA). Thirty micrograms of total protein was
+loaded in each lane of a 15% sodium dodecyl sulfate polyacryl-
+amide gel, and transferred to a nitrocellulose membrane (What-
+man, Maidstone, UK). The membrane was cut at the 47 kDa
+protein marker (Nacalai Tesque) and separated into two parts to
+probe for Bcl-2 (1:500, 26 kDa) and p-Akt (1:500, 56 kDa). Primary
+antibodies used were the same as those used in the immunohisto-
+chemistry (see Section 2.8). After washing and incubation with
+alkaline phosphatase-conjugated secondary antibody (Sigma), the
+signals were visualized by BCIP/NBT Phosphatase Substrate System
+(KPL, Gaithersburg, MD, USA). Densitometrical analysis was per-
+formed using ImageJ software (National Institutes of Health,
+Bethesda, MD, USA).
+2.10. Cell counting
+The number of Bcl-2- or p-Akt-immunoreactive cells in the
+NMLF and IMRF was counted after immunohistochemistry (see
+Section 2.8) using serial brain sections in which the whole region
+of the NMLF and IMRF was included. We used 20 lm-thick sections
+to minimize double-counting due to the cell splitting, because the
+cell diameter of upper motor neurons was not much larger than
+20 lm (Becker et al., 1997). In addition, the cells without DAPI sig-
+nal (i.e., counterpart of the split cell) were excluded from the
+counting. The anatomical position was determined by the same
+procedure as in Section 2.3. For counting, at least 3 animals in each
+group were recruited. After counting the cells, means and SEMs
+were calculated on all animals (nP 3).
+2.11. Behavioral analysis
+To quantify the restoration of motor function, behavioral analy-
+sis was performed with a slight modification of previously
+described method (Kato et al., 1996, 2004; Kaneda et al., 2008).
+In brief, a single zebrafish was placed in a water tank
+(370  240 mm, water depth = 80 mm) and its spontaneous move-
+ment was captured by two video cameras (EVI-1011; Sony, Tokyo,
+Japan) placed both on the top and at the side of the tank for 5 min
+at 30 frames/s. The position of the fish in each frame was deter-
+mined, and the three-dimensional coordination of the fish was
+then reconstructed by combining two images (from the top and
+side view) with previously developed software (Kato et al., 1996,
+2004; Kaneda et al., 2008) on a computer (Precision 490; Dell,
+Round Rock, TX, USA). The total distance of swimming was calcu-
+lated as described in Kato et al. (1996). At least 3 fish were re-
+cruited for each time point after SCI.
+2.12. Statistical analysis
+The levels of Bcl-2 or p-Akt protein in brainstem neurons at var-
+ious time points after SCI were quantified densitometrically and
+expressed as a ratio compared with an unlesioned fish. The number
+1204 K. Ogai et al. / Neurochemistry Iof Bcl-2- and p-Akt-positive cells was expressed as the mean-
+s ± SEM, and statistical significance was evaluated by the Student’s
+t-test using Origin software (version 8; OriginLab, Northampton,caudal to the primary lesion site to retrogradely label brainstem
+neurons with biocytin. Brain sections were prepared 1 day after
+labeling and immunohistochemistry was performed for BrdU
+detection along with biocytin tracing (Fig. 3H and I). Neither BrdU+
++ +MA, USA). Total distance of swimming for 5 min was expressed
+as the means ± SEM, and statistical significance was evaluated
+using the one-way ANOVA followed by Tukey’s post hoc test using
+Origin software.
+3. Results
+3.1. Stability of neurotracers in brainstem neurons after SCI
+In this study, we transected the spinal cord of zebrafish 4 mm
+caudal to brainstem-spinal cord junction, unless otherwise speci-
+fied. Retrograde labeling of the NMLF and IMRF nuclei in the brain-
+stem was performed by placing gelatin foam soaked with
+rhodamine dextran amine (RDA) or biocytin at the transection site
+in the spinal cord (Becker et al., 2004). In the area of NMLF (Fig. 1A),
+approximately 10 RDA-labeled neurons were seen at 1 day post-le-
+sion (dpl). The intense signal of RDA was sustained for at least 3–
+6 dpl (Fig. 1B–D). In the area of IMRF (Fig. 1E), similar stable label-
+ing of RDA could be seen in 1–6 dpl (Fig. 1F–H). In both areas, ret-
+rogradely labeled neurons were detected even at 15 dpl (data not
+shown). In contrast, retrograde labeling with biocytin was a
+slightly more labile. Stable labeling with biocytin could be seen
+only to 3 dpl in the NMLF and IMRF (data not shown). Therefore,
+we used RDA for long-term experiments over 6 dpl and biocytin
+for short-term experiments up to 3 dpl. The long-term presence
+of neurons in the NMLF and IMRF labeled by the retrograde tracer
+strongly indicates that these neurons survive after SCI.
+3.2. Absence of apoptosis in axotomized brainstem neurons following
+SCI
+To further elucidate the survival of brainstem neurons after SCI,
+we conducted TUNEL assay in NMLF and IMRF neurons identified
+by retrograde labeling with RDA at 6 dpl. In these neurons, there
+were no double positive neurons with TUNEL-positive (TUNEL+)
+and tracer+ at 6 dpl (Fig. 2). The positive control treated with DNase
+I yielded clearly positive cells (data not shown). Thus, axotomized
+neurons in the NMLF and IMRF could avoid undergoing apoptosis
+at least 6 days after SCI.
+3.3. Absence of cell proliferation in the brainstem following SCI
+In axonal regeneration of the central nervous system (CNS),
+there are two possibilities for the cellular origin of regenerating ax-
+ons after nerve injury. They can either be derived from newly-gen-
+erated neurons or the neurons themselves could have survived
+after nerve injury. To determine which cell types are present in
+the brainstem of adult zebrafish during axonal regeneration after
+SCI, we performed a BrdU incorporation assay. BrdU was intraper-
+itoneally injected at 0, 2 and 4 dpl (Fig. 3A and H). To confirm suc-
+cessful incorporation of BrdU, we chose the paraventricular zone in
+the telencephalon as a positive control, as many neural precursor
+cells are present even in the adult zebrafish (Kizil et al., 2012).
+BrdU+ cells could be detected in this region at 7 dpl (Fig. 3B and
+C) and at 6 weeks post-lesion (Fig. 3J and K). However, no BrdU+
+neurons were seen both in the NMLF (Fig. 3D and E) and IMRF
+(Fig. 3F and G) at 7 dpl.
+national 61 (2012) 1202–1211neurons nor BrdU /biocytin double-positive neurons could be ob-
+served both in the NMLF (Fig. 3L–N) and IMRF (Fig. 3O–Q) at
+6 weeks after SCI.
+Fig. 1. Stable retrograde labeling of brainstem neurons after SCI in adult zebrafish. (A) Sagittal and coronal schemes of the adult zebrafish brain. Shaded areas depict the
+position of the NMLF. (B–D) Rhodamine dextran amine (RDA), a neurotracer, could be detected at 1 (B), 3 (C) and 6 dpl (D) in coronal sections of the NMLF. About 10 neurons
+were retrogradely labeled from the lesion site. (E) The position of the IMRF. (F–H) Approximately 8–10 neurons were labeled in the coronal section of the IMRF at 1 (F), 3 (G)
+and 6 dpl (H). Scale bars, 100 lm for B–D and F–H.
+Fig. 2. Absence of apoptosis in axotomized brainstem neurons of the NMLF and IMRF after SCI in adult zebrafish. TUNEL assay images, with retrograde tracer and TUNEL/
+tracer/DAPI overlay in the NMLF (A–C) and IMRF (D–F) at 6 dpl are shown. A number of tracer+ neurons could be seen in the NMLF (B) and IMRF (E), whereas no TUNEL+ signal
+was detected in these nuclei (A, C, D and F). Solid arrowheads highlight the TUNEL/tracer+ neurons, and open arrowheads highlight the non-specific signals. The image in the
+open square was enlarged and placed as an inset image for each panel. Scale bars, 50 lm (inset, 10 lm).
+K. Ogai et al. / Neurochemistry International 61 (2012) 1202–1211 1205
+nter1206 K. Ogai et al. / Neurochemistry I3.4. Upregulation of anti-apoptotic factors in axotomized brainstem
+neurons after SCI
+To ascertain the molecules regulating cell-survival of zebrafish
+brainstem neurons after SCI, we performed a western blot analysis
+of the anti-apoptotic factors Bcl-2 and phospho-Akt (p-Akt) in the
+total protein extracts from the brainstem, including the NMLF and
+IMRF. In parallel, we performed immunohistochemistry for Bcl-2
+and p-Akt in the NMLF and IMRF along with retrograde labeling
+at 3 and 6 dpl. Bcl-2 protein levels in the brainstem, including
+Fig. 3. Absence of cell proliferation in the area of the NMLF and IMRF after SCI in adu
+intraperitoneally at 0, 2 and 4 dpl and immunohistochemistry for BrdU was performed a
+of neurogenesis can be seen even in the adult, there were a number of BrdU+ cells, indica
+IMRF (F and G) of the same subject as (B) and (C), there were no BrdU+ cells. (H and I) T
+6 weeks (42 days) after SCI, biocytin was applied 4 mm caudal to the initial lesion site to
+after tracer application. (J and K) BrdU incorporation was confirmed by the positive sign
+NMLF (L) and IMRF (O). However, many tracer+ neurons could be seen in these areas (M
+tracer+ neurons, and open arrowheads mark the non-specific signals. The image in the
+50 lm (inset, 10 lm).national 61 (2012) 1202–1211the NMLF and IMRF, increased 1.8- to 1.9-fold between 1–6 dpl
+(Fig. 4A). One to five neurons in the area of NMLF were Bcl-2+/
+tracer+ double-positive at 3 and 6 dpl (Fig. 4C–H) compared with
+unlesioned NMLF neurons (Fig. 4B). In the area of IMRF, 3–7 Bcl-
+2+/tracer+ double-positive neurons could be seen at 3 and 6 dpl
+(Fig. 4J–O) compared with unlesioned IMRF neurons (Fig. 4I). In
+addition, the number of Bcl-2+ neurons was significantly increased
+at 3 dpl compared with unlesioned brainstem; from 8.7 ± 2.9
+(n = 3) to 32.8 ± 2.2 (n = 4) in the NMLF (p < 0.01), and from
+16.7 ± 3.3 (n = 3) to 55.8 ± 2.9 (n = 4) in the IMRF (p < 0.001).
+lt zebrafish. (A) The time course of the short-term experiment. BrdU was injected
+t 7 dpl. (B and C) In the paraventricular zone of the telencephalon, where the signals
+ting that the incorporation of BrdU was successful. (D–G) In the NMLF (D and E) and
+he layout of the long-term experiment. BrdU was injected at 0, 2 and 4 dpl, and at
+label the neurons in the NMLF and IMRF. The sections were prepared at 43 dpl, 1 day
+als in the telencephalic area. (L–Q) Even at 42 dpl, there were no BrdU+ cells in the
+and P), and all of which were BrdU (N and Q). Solid arrowheads mark the BrdU/
+open square was enlarged and placed as an inset image for each panel. Scale bars,
+nterK. Ogai et al. / Neurochemistry IA similar result was obtained for p-Akt in western blot analysis
+and immunohistochemistry. The expression of p-Akt protein in the
+brainstem increased approximately 2-fold between 1–6 dpl
+(Fig. 5A). In the area of NMLF and IMRF, 2–3 and 4–8 neurons were
+p-Akt+/tracer+ double-positive at 3 and 6 dpl, respectively,
+compared with unlesioned NMLF and IMRF neurons (Fig. 5B–O).
+At 3 dpl, the number of p-Akt+ neurons significantly increased
+from 3.0 ± 0.6 (n = 3) to 26.0 ± 4.0 (n = 4) in the NMLF (p < 0.01),
+and from 8.3 ± 0.7 (n = 3) to 43.0 ± 9.4 (n = 4) in the IMRF
+(p < 0.05). These results showed that axotomized brainstem
+Fig. 4. Upregulation of the anti-apoptotic factor Bcl-2 in axotomized brainstem neurons
+protein revealed that expression of Bcl-2 increased approximately 1.8-fold at 1–6 dpl. Eq
+Brilliant Blue (CBB) staining. (B–H) Images of Bcl-2 immunohistochemistry and retrograd
+G), and these neurons were colocalized with Bcl-2 (C, E, F and H) compared with the unle
+the NMLF, there were 3–7 tracer+ neurons (K and N) with Bcl-2+ (J, L, M and O) compared w
+Neurons in an open square were magnified and placed as the inset. Scale bars, 100 lmnational 61 (2012) 1202–1211 1207neurons survived for a long period owing to the increased expres-
+sion of anti-apoptotic factors (Bcl-2 and p-Akt) over 3–6 dpl.
+3.5. Axonal regeneration into the caudal part to the lesion site after SCI
+To examine the capacity of axonal regeneration in zebrafish
+upper motor neurons after SCI, we made longitudinal sections
+(Fig. 6A-2) of the spinal cord at various time points after SCI, and
+performed hematoxylin-eosin (HE) staining and immunohisto-
+chemistry of GAP43 which is a maker of extending axons (Skene,
+of the NMLF and IMRF after SCI in adult zebrafish. (A) Western blot analysis of Bcl-2
+ual amounts of protein were loaded in each lane of the gel, confirmed by Coomassie
+e tracing in the NMLF. At 3 and 6 dpl, 1–5 neurons were retrogradely labeled (D and
+sioned NMLF neurons (B). (I–O) Bcl-2 immunohistochemistry in the IMRF. Similar to
+ith unlesioned IMRF neurons (I). Solid arrowheads mark the Bcl-2+/tracer+ neurons.
+(inset, 20 lm).
+nter1208 K. Ogai et al. / Neurochemistry I1989; Kaneda et al., 2008). HE staining revealed that thin fibers ap-
+peared to reconnect the transected spinal cord at 30 and 60 dpl
+(Fig. 6F and J). In the unlesioned spinal cord, no GAP43 immunore-
+activity could be seen (Fig. 6A-1). At 15 dpl, a small number of
+GAP43+ fibers were observed in the rostral part to the lesion site
+(Fig. 6B and D), but not in the caudal part (Fig. 6C and E). At
+30 dpl, many GAP43+ fibers were detected in the rostral part
+(Fig. 6G and H), with a few fibers in the caudal part (Fig. 6G and
+I). At 60 dpl, GAP43+ axons increased both in the rostral and caudal
+parts (Fig. 6K–M) to the lesion site compared with those at 30 dpl.
+Fig. 5. Upregulation of the anti-apoptotic factor p-Akt in axotomized brainstem neurons
+levels of approximately 2-fold occurred from 1 dpl compared with the unlesioned b
+retrogradely labeled neurons in the NMLF (D and G) which were also p-Akt+ (C, E, F and
+were retrogradely labeled with the tracer (K and N), were also p-Akt+ (J, L, M and O). So
+magnified and placed as the inset. Scale bars, 100 lm (inset, 20 lm).national 61 (2012) 1202–12113.6. Recovery of motor function of zebrafish after SCI
+To evaluate the recovery of motor function in zebrafish after
+SCI, we measured moving behavior in a three-dimensional fashion
+with a computer image processing system (Kato et al., 1996, 2004;
+Kaneda et al., 2008). The unlesioned fish can swim freely in an
+aquarium without any limitation (Fig. 7A). At 1 and 17 dpl, fish
+movement was dramatically impaired to 7% and 15% of the unle-
+sioned fish, respectively (Fig. 7B and C). At 29 dpl, the swimming
+behavior increased to 31% of the unlesioned fish (Fig. 7D). At
+of the NMLF and IMRF after SCI in adult zebrafish. (A) The increase in p-Akt protein
+rainstem. (B–H) Immunohistochemistry of p-Akt in the NMLF. There were 2–3
+H). (I–O) Immunohistochemistry of p-Akt in the IMRF. Four to eight neurons, which
+lid arrowheads mark the p-Akt+/tracer+ neurons. Neurons in an open square were
+nterK. Ogai et al. / Neurochemistry I53 dpl, the swimming behavior further increased to 54% of the
+unlesioned fish (Fig. 7E). Fig. 7F shows a temporal change of fish
+moving behavior between 1–52 dpl. The experiment was repeated
+3–5 times.
+4. Discussion
+4.1. Long-term survival of upper motor neurons in the NMLF and IMRF
+of the adult zebrafish brainstem after SCI
+Adult zebrafish are able to regenerate various tissues, including
+the CNS. In CNS regeneration, there are two cell sources of
+regenerating axons after injury. One is neurons differentiated from
+multipotent precursor cells, the other is the surviving neurons
+post-injury. In the present study using adult zebrafish, upper
+Fig. 6. Regeneration of descending axons extending beyond the lesion site of the spin
+immunohistochemistry were performed in longitudinal sections of unlesioned (A-1) and
+(A-2). (A-1) In unlesioned spinal cord, there were no GAP43+ fibers. At 15 dpl, a few GAP
+GAP43+ fibers were detected in the caudal part (C and E). At 30 dpl, there were more GAP
+a few GAP43+ fibers in the caudal part (G and I). At 60 dpl, there were a number of GAP4
+revealed that a thin ‘‘bridge’’ was formed at the lesion site at 30 and 60 dpl (F and J). Arrow
+for A, B, C, F, G, J and K, 100 lm for D, E, H, I, L and M.national 61 (2012) 1202–1211 1209motor neurons in the NMLF and IMRF that were labeled by a neu-
+rotracer showed the upregulation of survival signaling for a long
+time after SCI. The survival of axotomized neurons was further
+confirmed by the absence of cell apoptosis and cell proliferation
+at any time after SCI (Figs. 2 and 3). Our data were in good agree-
+ment with previous findings in the adult zebrafish brain, reporting
+that the number of newly-generated neurons is extremely low in
+the region where descending neurons exist (Zupanc et al., 2005;
+Hinsch and Zupanc, 2007). In contrast to the upper motor neurons
+in the brainstem, motor neurons in the spinal cord become apopto-
+tic after SCI, and neurogenesis from the ependymal zone around
+the central canal is activated via sonic hedgehog and/or Notch
+signaling (Reimer et al., 2008, 2009; Dias et al., 2012).
+In adult zebrafish retina, we have reported that the optic nerve
+can be regenerated, even after optic nerve transection, and visual
+function can be almost fully recovered within 90–100 days after
+al cord after SCI in adult zebrafish. Hematoxylin–eosin (HE) staining and GAP43
+lesioned (B–M) spinal cord. The orientation of the longitudinal section is shown in
+43+ fibers could be seen in the rostral part to the lesion site (B and D), whereas no
+43+ fibers in the rostral part (G and H) compared with 15 dpl. In addition, there were
+3+ fibers both in the rostral and the caudal part to the lesion site (K–M). HE staining
+s indicate the lesion site, and arrowheads indicate GAP43+ fibers. Scale bars, 500 lm
+ntan
+ed fi
+obs
+im
+ime
+nteraxotomy (Kato et al., 2007; Kaneda et al., 2008). Similar to these
+studies, we have investigated the regenerative capacity of retinal
+ganglion cells (RGCs) after axotomy in the adult zebrafish, by com-
+paring with the rat retina which cannot be regenerated. We have
+shown that there are no TUNEL+ RGCs in the fish retina for at least
+20 days after axotomy, whereas many TUNEL+ RGCs were observed
+in the rat retina at 6 days after optic nerve crush (Koriyama et al.,
+2007; Homma et al., 2007). Furthermore, the anti-apoptotic factors
+Bcl-2 and p-Akt are upregulated in the fish retina 2–5 days after
+axotomy, whereas these anti-apoptotic proteins are rapidly down-
+regulated in the rat retina after nerve crush. The upregulation of
+Bcl-2 and p-Akt in the fish retina is mediated by the activation of
+the phosphatidylinositol-3-kinase/Akt signaling pathway through
+insulin-like growth factor-1 (IGF-1) (Koriyama et al., 2007; Jantas
+et al., 2009). In this study, we found that the levels of Bcl-2 and
+Fig. 7. Three-dimensional behavior analysis of freely-moving zebrafish after SCI. Spo
+calculated. (A–E) Representative three-dimensional trackings of the fish. The unlesion
+impaired at 1, 17 and 29 dpl (B, C and D, respectively), although gradual recovery was
+the unlesioned fish, which is not significantly different. (F) Temporal changes of sw
+⁄⁄p < 0.01, compared with the unlesioned fish. n. s.: not significant. n = 3–5 in each t
+1210 K. Ogai et al. / Neurochemistry Ip-Akt increased rapidly in the brainstem approximately 2-fold be-
+tween 1–6 days after SCI in adult zebrafish (Figs. 4 and 5), which
+was consistent with the increase in the number of Bcl-2- or p-
+Akt-positive cells in the NMLF and IMRF at 3 dpl compared with
+the unlesioned brainstem. And the increased expression of these
+anti-apoptotic factors was detected in retrogradely labeled neu-
+rons in the NMLF and IMRF. From these findings, it is suggested
+that axotomized neurons in the brainstem of adult zebrafish can
+survive after SCI through the upregulation of the anti-apoptotic
+factors, Bcl-2 and p-Akt. This is a new and convincing explanation
+for the survival of upper motor neurons following SCI in adult
+zebrafish.
+4.2. Long distance regeneration of descending axons from upper motor
+neurons of the brainstem after SCI in adult zebrafish
+In this study, we showed that long-distance regenerating axons
+descended beyond the lesion site of the spinal cord after SCI in
+adult zebrafish by three distinct methods. The first method is the
+double lesion test with a retrograde labeling: In this experiment,
+the fish received a primary lesion 4 mm caudal to the brainstem-
+spinal cord junction, and received a second lesion 4 mm caudal
+to the primary lesion site, to inject the retrograde tracer at 6 weeks
+after the initial lesion (Fig. 3H and I). A number of neurons in the
+NMLF and IMRF were labeled with a tracer injected at the second
+lesion site (Fig. 3M and P; Becker et al., 1997). The second method
+was more direct: we used histology of longitudinal sections of thespinal cord to show that thin fibers connected the lesion site be-
+tween 30–60 days after SCI (Fig. 6). In these longitudinal sections,
+we could see that there was an increase in the number of GAP43+
+axons in proportion to days after SCI. The third method used was to
+measure swimming behavior of zebrafish following SCI: Swimming
+behavior was measured three-dimensionally using a computer im-
+age processing system, which revealed that the temporal pattern of
+recovery of motor function is biphasic, with a slow recovery rate
+observed for first 2 weeks and a relatively fast recovery rate ob-
+served from 3–8 weeks after SCI (Fig. 7F). The turning point of
+these slow and fast phases is around 2 weeks after SCI, which cor-
+responds well to the time taken for regenerating axons to reach the
+lesion site (Fig. 6). This three-dimensional behavior analysis re-
+vealed the recovery of motor function after SCI in more detail as
+compared to the previous study in which the two-dimensional
+eous swimming of the fish was traced for 5 min, and total swimming distance was
+sh can swim unrestrictedly (A). However, the swimming capability was significantly
+erved. At 53 dpl (E), there was a steep recovery in the distance swam to about 54% of
+ming distance after SCI. Values in (F) are expressed as the means ± SEM. ⁄p < 0.05,
+point. Scale bars (shown next to the scheme (A)) for A–E, 10 cm in each direction.
+national 61 (2012) 1202–1211tracking of fish was used (Becker et al., 2004). The biphasic pattern
+of behavioral recovery may be due to the increase in the number of
+GAP43+ descending axons. Becker et al. (2005) further demon-
+strated that not only axotomized upper motor neurons but also
+intraspinal neurons upregulate GAP43 in response to SCI. At pres-
+ent, therefore, we cannot rule out the possibility that some of
+GAP43+ axons shown in Fig. 6 are confused with regenerating
+intraspinal axons. However, as mentioned above, upper motor neu-
+rons could be retrogradely labeled from more caudal part to the le-
+sion site at 6 weeks after SCI (Fig. 3M and P). Moreover, the
+swimming behavior was recovered in accordance with the increase
+of GAP43+ axons in caudal part to the lesion site (Fig. 7). From these
+findings, it is certain that upper motor neurons can regenerate
+their axons across the lesion site following SCI. In spinal cord
+regeneration of adult zebrafish, it is known that motor neurons
+have regenerative capacity, but sensory neurons (e.g., dorsal root
+ganglia) do not (Becker et al., 2005). It needs to be elucidated
+whether descending or ascending axons are present in the ‘‘bridge’’
+connecting the proximal and distal segments in the vicinity of the
+lesion site. Furthermore, the exact molecular mechanism behind
+the axonal regeneration of brainstem neurons after SCI remains
+to be determined.
+In optic nerve regeneration, we previously identified a variety of
+regeneration-associated genes and pathways involved in axonal
+elongation, such as retinoic acid signaling, retinal transglutamin-
+ase, and nitric oxide synthetase/NO signaling (Matsukawa et al.,
+2004; Sugitani et al., 2006, 2012; Koriyama et al., 2009; Nagashima
+et al., 2009). The next goal is to determine such regeneration-
+associated genes enabling upper motor neurons to regenerate their
+axons.
+Acknowledgments
+We would like to thank Ms. Sachiko Higashi and Ms. Tomoko
+Kano for their administrative and technical assistance. We also
+appreciate Drs. Catherina G. Becker, Thomas Becker and Tatyana
+B. Dias (Centre for Neuroregeneration, University of Edinburgh)
+for their expert technical advice. This work was supported in part
+by research Grants from the Ministry of Education, Culture, Sports,
+Science and Technology, Japan (No. 23618006 to KS, No. 22791651
+to YK and Nos. 22300109 and 23650163 to SK), and by Institutional
+Program for Young Researcher Overseas Visit Program of the Japan
+Society for the Promotion of Science (to KO).
+References
+Becker, T., Wullimann, M.F., Becker, C.G., Bernhardt, R.R., Schachner, M., 1997.
+Axonal regrowth after spinal cord transection in adult zebrafish. J. Comp.
+Neurol. 377, 577–595.
+Becker, C.G., Lieberoth, B.C., Morellini, F., Feldner, J., Becker, T., Schachner, M., 2004.
+L1.1 is involved in spinal cord regeneration in adult zebrafish. J. Neurosci. 24,
+7837–7842.
+Mawatari, Kato, S., 2008. Changes of phospho-growth-associated protein 43
+(phospho-GAP43) in the zebrafish retina after optic nerve injury: a long-term
+observation. Neurosci. Res. 61, 281–288.
+Kato, S., Tamada, K., Shimada, Y., Chujo, T., 1996. A quantification of goldfish
+behavior by an image processing system. Behav. Brain. Res. 80, 51–55.
+Kato, S., Nakagawa, T., Ohkawa, M., Muramoto, K., Oyama, O., Watanabe, A.,
+Nakashima, H., Nemoto, T., Sugitani, K., 2004. A computer image
+processing system for quantification of zebrafish behavior. J. Neurosci.
+Methods 134, 1–7.
+Kato, S., Koriyama, Y., Matsukawa, T., Sugitani, K., 2007. Optic nerve regeneration in
+goldfish. In: Becker, C.G., Becker, T. (Eds.), Model Organisms in Spinal Cord
+Regeneration. Wiley-VCH, Germany, pp. 355–372.
+Kizil, C., Kaslin, J., Kroehne, V., Brand, M., 2012. Adult neurogenesis and brain
+regeneration in zebrafish. Dev. Neurobiol. 72, 429–461.
+Koriyama, Y., Homma, K., Sugitani, K., Higuchi, Y., Matsukawa, T., Murayama, D.,
+Kato, S., 2007. Upregulation of IGF-I in the goldfish retinal ganglion cells during
+the early stage of optic nerve regeneration. Neurochem. Int. 50, 749–756.
+Koriyama, Y., Ohno, M., Kimura, T., Kato, S., 2009. Neuroprotective effects of 5-S-
+GAD against oxidative stress-induced apoptosis in RGC-5 cells. Brain Res. 1296,
+187–195.
+Matsukawa, T., Sugitani, K., Mawatari, K., Koriyama, Y., Liu, Z., Tanaka, M., Kato, S.,
+2004. Role of purpurin as a retinol-binding protein in goldfish retina during the
+early stage of optic nerve regeneration: its priming action on neurite outgrowth.
+J. Neurosci. 24, 8346–8353.
+Nagashima, M., Sakurai, H., Mawatari, K., Koriyama, Y., Matsukawa, T., Kato, S.,
+2009. Involvement of retinoic acid signaling in goldfish optic nerve
+regeneration. Neurochem. Int. 54, 229–236.
+Reimer, M.M., Sörensen, I., Kuscha, V., Frank, R.E., Liu, C., Becker, C.G., Becker, T.,
+2008. Motor neuron regeneration in adult zebrafish. J. Neurosci. 28,
+K. Ogai et al. / Neurochemistry International 61 (2012) 1202–1211 1211Becker, T., Lieberoth, B.C., Becker, C.G., Schachner, M., 2005. Differences in the
+regenerative response of neuronal cell populations and indications for plasticity
+in intraspinal neurons after spinal cord transection in adult zebrafish. Mol. Cell.
+Neurosci. 30, 265–278.
+Dias, T.B., Yang, Y.J., Ogai, K., Becker, T., Becker, C.G., 2012. Notch signaling controls
+generation of motor neurons in the lesioned spinal cord of adult zebrafish. J.
+Neurosci. 32, 3245–3252.
+Hains, B.C., Black, J.A., Waxman, S.G., 2003. Primary cortical motor neurons undergo
+apoptosis after axotomizing spinal cord injury. J. Comp. Neurol. 462, 328–341.
+Hinsch, K., Zupanc, G.K., 2007. Generation and long-term persistence of new
+neurons in the adult zebrafish brain: a quantitative analysis. Neuroscience 146,
+679–696.
+Homma, K., Koriyama, Y., Mawatari, K., Higuchi, Y., Kosaka, J., Kato, S., 2007. Early
+downregulation of IGF-I decides the fate of rat retinal ganglion cells after optic
+nerve injury. Neurochem. Int. 50, 741–748.
+Jantas, D., Szymanska, M., Budziszewska, B., Lason, W., 2009. An involvement of
+BDNF and PI3-K/Akt in the anti-apoptotic effect of memantine on
+staurosporine-evoked cell death in primary cortical neurons. Apoptosis 14,
+900–912.
+Kaneda, M., Nagashima, M., Nunome, T., Muramatsu, T., Yamada, Y., Kubo, M.,
+Muramoto, K., Matsukawa, T., Koriyama, Y., Sugitani, K., Vachkov, I.H.,8510–8516.
+Reimer, M.M., Kuscha, V., Wyatt, C., Sörensen, I., Frank, R.E., Knüwer, M., Becker, T.,
+Becker, C.G., 2009. Sonic hedgehog is a polarized signal for motor neuron
+regeneration in adult zebrafish. J. Neurosci. 29, 15073–15082.
+Skene, J.H., 1989. Axonal growth-associated proteins. Annu. Rev. Neurosci. 12, 127–
+156.
+Sugitani, K., Matsukawa, T., Koriyama, Y., Shintani, T., Nakamura, T., Noda, M., Kato,
+S., 2006. Upregulation of retinal transglutaminase during the axonal
+elongation stage of goldfish optic nerve regeneration. Neuroscience 142,
+1081–1092.
+Sugitani, K., Ogai, K., Hitomi, K., Nakamura-Yonehara, K., Shintani, T., Noda, M.,
+Koriyama, Y., Matsukawa, T., Kato, S., 2012. A distinct effect of transient and
+sustained upregulation of cellular factor XIII in the goldfish retina and optic
+nerve on optic nerve regeneration. Neurochem. Int. 61, 423–432.
+Van Raamsdonk, W., Maslam, S., de Jong, D.H., Smit-Onel, M.J., Velzing, E., 1998.
+Long term effects of spinal cord transection in zebrafish: swimming
+performances, and metabolic properties of the neuromuscular system. Acta
+Histochem. 100, 117–131.
+Wullimann, M.F., Rupp, B., Reichert, H., 1996. Neuroanatomy of the Zebrafish Brain:
+A Topological Atlas, first ed. Birkhäuser Basel, Berlin.
+Zupanc, G.K., Hinsch, K., Gage, F.H., 2005. Proliferation, migration, neuronal
+differentiation, and long-term survival of new cells in the adult zebrafish
+brain. J. Comp. Neurol. 488, 290–319.

@@ -1,0 +1,568 @@
+T1	Gene 1449 1453	Fish
+T2	Gene 2072 2075	neu
+T3	Gene 3210 3213	neu
+T4	Gene 4253 4256	ver
+T5	Gene 4842 4845	neu
+T6	Gene 7916 7919	tri
+T7	Gene 9310 9313	RBC
+T8	Gene 9579 9582	com
+T9	Gene 10944 10953	HUI ET AL
+T10	Gene 11367 11370	mam
+T11	Gene 11732 11734	Hu
+T12	Gene 11790 11793	Fig
+T13	Gene 11795 11797	6H
+T14	Gene 13467 13470	sug
+T15	Gene 14884 14888	BrdU
+T16	Gene 15022 15032	BrdU incor
+T17	Gene 15095 15106	BrdU uptake
+T18	Gene 18683 18687	BrdU
+T19	Gene 18973 18976	Fig
+T20	Gene 18985 18989	BrdU
+T21	Gene 20934 20945	neutrophils
+T22	Gene 20947 20950	neu
+T23	Gene 21088 21097	HUI ET AL
+T24	Gene 21880 21894	BrdU incorpora
+T25	Gene 21975 21979	BrdU
+T26	Gene 23357 23361	BrdU
+T27	Gene 23614 23628	BrdU pulse con
+T28	Gene 24265 24269	BrdU
+T29	Gene 24676 24680	BrdU
+T30	Gene 24900 24904	BrdU
+T31	Gene 25219 25223	BrdU
+T32	Gene 26255 26259	GFAP
+T33	Gene 26428 26432	GFAP
+T34	Gene 26754 26758	GFAP
+T35	Gene 27257 27262	BrdUþ
+T36	Gene 27263 27268	GFAPþ
+T37	Gene 27276 27280	GFAP
+T38	Gene 27286 27290	BrdU
+T39	Gene 27291 27296	GFAPþ
+T40	Gene 27495 27499	GFAP
+T41	Gene 27501 27505	BrdU
+T42	Gene 27506 27511	GFAPþ
+T43	Gene 28197 28201	BrdU
+T44	Gene 28220 28223	H3P
+T45	Gene 29257 29260	H3P
+T46	Gene 29429 29432	mag
+T47	Gene 29860 29869	HUI ET AL
+T48	Gene 30237 30246	GFAP nega
+T49	Gene 30353 30358	BrdUþ
+T50	Gene 30359 30363	GFAP
+T51	Gene 30482 30486	GFAP
+T52	Gene 30491 30495	BrdU
+T53	Gene 30797 30801	GFAP
+T54	Gene 30927 30931	GFAP
+T55	Gene 30968 30972	GFAP
+T56	Gene 31120 31124	GFAP
+T57	Gene 31125 31130	BrdUþ
+T58	Gene 31161 31166	GFAPþ
+T59	Gene 31167 31171	BrdU
+T60	Gene 31403 31407	GFAP
+T61	Gene 31498 31502	GFAP
+T62	Gene 31615 31619	GFAP
+T63	Gene 31801 31805	GFAP
+T64	Gene 31806 31811	BrdUþ
+T65	Gene 31889 31893	GFAP
+T66	Gene 31957 31961	GFAP
+T67	Gene 32062 32067	GFAPþ
+T68	Gene 32068 32073	BrdUþ
+T69	Gene 32079 32083	GFAP
+T70	Gene 32084 32089	BrdUþ
+T71	Gene 32108 32113	GFAPþ
+T72	Gene 32115 32119	BrdU
+T73	Gene 32184 32189	GFAPþ
+T74	Gene 32190 32195	BrdUþ
+T75	Gene 32255 32259	BrdU
+T76	Gene 32294 32298	GFAP
+T77	Gene 33228 33232	BrdU
+T78	Gene 33234 33239	GFAPþ
+T79	Gene 33265 33269	unin
+T80	Gene 33347 33351	BrdU
+T81	Gene 33352 33357	GFAPþ
+T82	Gene 33797 33813	beta III tubulin
+T83	Gene 34007 34011	unin
+T84	Gene 34241 34248	tubulin
+T85	Gene 35002 35009	tubulin
+T86	Gene 35086 35088	Hu
+T87	Gene 35093 35099	NeuroD
+T88	Gene 35167 35169	Hu
+T89	Gene 35309 35315	NeuroD
+T90	Gene 35330 35333	neu
+T91	Gene 35524 35534	Hu protein
+T92	Gene 35536 35539	Fig
+T93	Gene 35541 35545	6D–F
+T94	Gene 35547 35551	6H–J
+T95	Gene 35556 35559	Fig
+T96	Gene 35582 35584	Hu
+T97	Gene 35763 35766	Fig
+T98	Gene 35768 35773	S2P–U
+T99	Gene 36298 36301	Fig
+T100	Gene 36303 36306	S2R
+T101	Gene 36426 36429	Fig
+T102	Gene 36466 36470	BrdU
+T103	Gene 36541 36544	Fig
+T104	Gene 36546 36549	S2R
+T105	Gene 36740 36746	NeuroD
+T106	Gene 37123 37126	Fig
+T107	Gene 37128 37133	S2D–F
+T108	Gene 37323 37329	NeuroD
+T109	Gene 37333 37337	tran
+T110	Gene 37406 37412	NeuroD
+T111	Gene 37417 37427	Hu protein
+T112	Gene 37634 37637	Huþ
+T113	Gene 37638 37645	NeuroDþ
+T114	Gene 37805 37808	Fig
+T115	Gene 37810 37815	S2G–I
+T116	Gene 38162 38165	cas
+T117	Gene 38237 38240	SCI
+T118	Gene 39046 39049	Cit
+T119	Gene 39121 39124	cas
+T120	Gene 39355 39364	HUI ET AL
+T121	Gene 39724 39727	rec
+T122	Gene 39762 39765	apo
+T123	Gene 40135 40148	b-III tubulin
+T124	Gene 40168 40171	H–J
+T125	Gene 40976 40987	Huþ neurons
+T126	Gene 41485 41487	Hu
+T127	Gene 41489 41495	NeuroD
+T128	Gene 41501 41505	BrdU
+T129	Gene 42641 42644	Huþ
+T130	Gene 42645 42649	BrdU
+T131	Gene 42668 42676	Hu/BrdUþ
+T132	Gene 43604 43613	HUI ET AL
+T133	Gene 44154 44157	mam
+T134	Gene 44376 44385	caspase-3
+T135	Gene 44468 44477	caspase-3
+T136	Gene 45224 45233	caspase-3
+T137	Gene 45593 45610	caspase-3 protein
+T138	Gene 50454 50457	cas
+T139	Gene 51842 51845	spi
+T140	Gene 52276 52285	HUI ET AL
+T141	Gene 52701 52705	Unin
+T142	Gene 53043 53047	BrdU
+T143	Gene 53812 53815	spi
+T144	Gene 53919 53922	mor
+T145	Gene 54680 54684	GFAP
+T146	Gene 54686 54689	How
+T147	Gene 55091 55096	GFAPþ
+T148	Gene 55182 55186	GFAP
+T149	Gene 55251 55255	GFAP
+T150	Gene 55474 55478	GFAP
+T151	Gene 55757 55767	GFAP/BrdUþ
+T152	Gene 55883 55886	fol
+T153	Gene 55918 55922	GFAP
+T154	Gene 56366 56370	GFAP
+T155	Gene 56472 56476	GFAP
+T156	Gene 56653 56658	GFAPþ
+T157	Gene 56659 56663	BrdU
+T158	Gene 56823 56827	GFAP
+T159	Gene 56828 56833	BrdUþ
+T160	Gene 57598 57601	hap
+T161	Gene 57899 57902	neu
+T162	Gene 58027 58035	Fish CNS
+T163	Gene 58714 58724	Hu protein
+T164	Gene 60610 60613	com
+T165	Gene 61364 61367	neu
+T166	Gene 61855 61858	SCI
+T167	Gene 62102 62105	sig
+T168	Gene 62476 62480	Fish
+T169	Gene 63161 63164	28C
+T170	Gene 63169 63172	dif
+T171	Gene 63476 63486	BrdU pulse
+T172	Gene 63897 63911	BrdU immunohis
+T173	Gene 64197 64202	Sigma
+T174	Gene 64879 64881	Af
+T175	Gene 64997 65006	HUI ET AL
+T176	Gene 65058 65072	Araldite CY212
+T177	Gene 65642 65653	III Tubulin
+T178	Gene 65696 65730	anti-BrdU (1:400, Sigma), anti cas
+T179	Gene 65848 65854	Hu C/D
+T180	Gene 66665 66668	IgG
+T181	Gene 66686 66700	Jackson Immuno
+T182	Gene 66929 66954	BrdU immunohistochemistry
+T183	Gene 68609 68618	Zeiss LSM
+T184	Gene 68623 68627	Meta
+T185	Gene 68771 68788	Caspase-3 protein
+T186	Gene 69528 69531	Rad
+T187	Gene 70349 70353	unin
+T188	Gene 70573 70577	BrdU
+T189	Gene 70906 70910	GFAP
+T190	Gene 70915 70919	BrdU
+T191	Gene 71014 71032	Zeiss LSM 510 Meta
+T192	Gene 71299 71303	GFAP
+T193	Gene 71664 71667	Stu
+T194	Gene 71988 71991	Min
+T195	Gene 72216 72232	NG2 proteoglycan
+T196	Gene 72839 72842	Rec
+T197	Gene 73398 73400	ap
+T198	Gene 73436 73441	J Neu
+T199	Gene 74988 74997	caspase-3
+T200	Gene 75450 75453	oxy
+T201	Gene 75711 75736	Dutta A, Sen T, Banerji A
+T202	Gene 75738 75743	Das S
+T203	Gene 75745 75749	Chat
+T204	Gene 75840 75866	matrix metalloproteinase-2
+T205	Gene 76390 76400	Ferretti P
+T206	Gene 76402 76409	Zhang F
+T207	Gene 76952 76955	Fox
+T208	Gene 77551 77557	Ann NY
+T209	Gene 77599 77601	KE
+T210	Gene 77603 77609	Zhao C
+T211	Gene 77852 77862	CNS precur
+T212	Gene 77864 77867	sor
+T213	Gene 78053 78056	HRP
+T214	Gene 78182 78186	GFAP
+T215	Gene 78546 78555	HUI ET AL
+T216	Gene 78741 78747	Kim CH
+T217	Gene 78785 78787	SY
+T218	Gene 78789 78795	Huh TL
+T219	Gene 78821 78825	elav
+T220	Gene 78826 78829	HuC
+T221	Gene 78985 78989	ngn1
+T222	Gene 78994 79005	nrd defines
+T223	Gene 79431 79441	Acta Neuro
+T224	Gene 79470 79475	Xu XM
+T225	Gene 79477 79487	Hu R, Du C
+T226	Gene 79489 79497	Zhang SX
+T227	Gene 79532 79534	GS
+T228	Gene 79536 79546	Jacquin MF
+T229	Gene 79548 79554	Hsu CY
+T230	Gene 79556 79563	Choi DW
+T231	Gene 79661 79672	Malatesta P
+T232	Gene 79876 79885	caspase-3
+T233	Gene 79951 79967	tochemCytochem53
+T234	Gene 80050 80052	ra
+T235	Gene 80283 80288	J Neu
+T236	Gene 80414 80417	Neu
+T237	Gene 80589 80595	neuroD
+T238	Gene 80597 80600	nrd
+T239	Gene 80607 80609	Hu
+T240	Gene 80806 80808	ap
+T241	Gene 80917 80919	JK
+T242	Gene 80921 80936	Zhao X, Pike BR
+T243	Gene 81503 81508	J Neu
+T244	Gene 81605 81608	spi
+T245	Gene 81851 81862	Dev Dyn 193
+T246	Gene 81873 81880	Park HC
+T247	Gene 81882 81889	Hong SK
+T248	Gene 81891 81897	Kim HS
+T249	Gene 81899 81905	Kim SH
+T250	Gene 81916 81922	Kim CH
+T251	Gene 81924 81930	Miki N
+T252	Gene 81932 81938	Huh TL
+T253	Gene 81971 81976	zebra
+T254	Gene 81983 81987	Elav
+T255	Gene 81988 81990	Hu
+T256	Gene 82047 82050	Neu
+T257	Gene 82538 82543	sen I
+T258	Gene 82545 82553	Frank RE
+T259	Gene 82555 82563	Knuwer M
+T260	Gene 82565 82573	Becker T
+T261	Gene 82679 82684	J Neu
+T262	Gene 82985 83006	Pluchino S, Martino G
+T263	Gene 83008 83014	Jung S
+T264	Gene 83299 83302	fol
+T265	Gene 83334 83341	Soc Neu
+T266	Gene 83707 83721	Nat Neurosci 5
+T267	Gene 84144 84151	Caspase
+T268	Gene 84715 84729	Dev Growth Dif
+T269	Gene 84794 84799	FGF-2
+T270	Gene 84929 84948	Zhang F, Ferretti P
+T271	Gene 85051 85058	Dev Dyn
+T272	Gene 85337 85339	GK
+T273	Gene 85448 85450	GK
+T274	Gene 85598 85600	GK
+T275	Gene 85623 85626	neu
+T276	Gene 85745 85747	GK
+T277	Gene 85896 85898	GK
+T278	Gene 85900 85908	Clint SC
+T279	Gene 85910 85920	Takimoto N
+T280	Gene 86168 86170	GK
+T281	Species 65 74	Zebrafish
+T282	Species 143 152	Zebrafish
+T283	Species 973 982	zebrafish
+T284	Species 1376 1385	zebrafish
+T285	Species 1649 1654	human
+T286	Species 4367 4376	zebrafish
+T287	Species 4998 5007	zebrafish
+T288	Species 6831 6840	zebrafish
+T289	Species 7699 7708	zebrafish
+T290	Species 8410 8415	horse
+T291	Species 15193 15202	zebrafish
+T292	Species 18469 18478	zebrafish
+T293	Species 19304 19313	zebrafish
+T294	Species 19960 19969	zebrafish
+T295	Species 24768 24777	zebrafish
+T296	Species 25087 25096	zebrafish
+T297	Species 30499 30508	zebrafish
+T298	Species 35256 35265	zebrafish
+T299	Species 38244 38253	zebrafish
+T300	Species 38589 38593	bers
+T301	Species 39835 39839	mito
+T302	Species 40080 40089	zebrafish
+T303	Species 40241 40250	zebrafish
+T304	Species 41550 41559	zebrafish
+T305	Species 45636 45645	zebrafish
+T306	Species 45659 45664	Mouse
+T307	Species 45993 46002	zebrafish
+T308	Species 47129 47138	zebrafish
+T309	Species 47412 47421	zebrafish
+T310	Species 47522 47531	zebrafish
+T311	Species 48120 48129	zebrafish
+T312	Species 49400 49408	goldfish
+T313	Species 49693 49702	zebrafish
+T314	Species 50135 50144	zebrafish
+T315	Species 51511 51520	zebrafish
+T316	Species 51832 51841	zebrafish
+T317	Species 53802 53811	zebrafish
+T318	Species 54617 54626	zebrafish
+T319	Species 57080 57089	zebrafish
+T320	Species 59914 59923	zebrafish
+T321	Species 60075 60084	zebrafish
+T322	Species 61538 61547	zebrafish
+T323	Species 62348 62357	Zebrafish
+T324	Species 65512 65517	human
+T325	Species 65572 65578	rabbit
+T326	Species 65655 65660	mouse
+T327	Species 65739 65743	goat
+T328	Species 66102 66106	goat
+T329	Species 66107 66113	rabbit
+T330	Species 66114 66120	donkey
+T331	Species 66512 66516	goat
+T332	Species 66522 66528	rabbit
+T333	Species 66580 66586	donkey
+T334	Species 66592 66596	goat
+T335	Species 66648 66652	goat
+T336	Species 66658 66664	rabbit
+T337	Species 66762 66766	goat
+T338	Species 66773 66778	mouse
+T339	Species 67243 67247	goat
+T340	Species 67303 67308	mouse
+T341	Species 67492 67497	mouse
+T342	Species 69218 69222	goat
+T343	Species 72264 72267	rat
+T344	Species 72547 72555	canaries
+T345	Species 72986 72995	zebrafish
+T346	Species 73587 73596	zebrafish
+T347	Species 73844 73853	zebrafish
+T348	Species 74868 74874	Citron
+T349	Species 75001 75004	rat
+T350	Species 75477 75487	guinea pig
+T351	Species 75745 75749	Chat
+T352	Species 75907 75912	human
+T353	Species 76039 76046	axolotl
+T354	Species 76653 76668	oyster toadfish
+T355	Species 78693 78698	mouse
+T356	Species 78811 78820	Zebrafish
+T357	Species 78964 78973	zebrafish
+T358	Species 79184 79188	bers
+T359	Species 79206 79221	Dasyatis sabina
+T360	Species 79414 79417	rat
+T361	Species 79938 79942	rats
+T362	Species 80262 80281	Ambystoma mexicanum
+T363	Species 80683 80692	zebrafish
+T364	Species 81076 81079	rat
+T365	Species 81223 81231	goldfish
+T366	Species 81754 81761	axolotl
+T367	Species 82320 82324	rats
+T368	Species 82465 82474	zebrafish
+T369	Species 82668 82677	zebrafish
+T370	Species 83165 83169	mice
+T371	Species 83799 83811	teleost fish
+T372	Species 83813 83838	Apteronotus leptorhynchus
+T373	Species 84229 84233	mice
+T374	Species 84497 84506	zebrafish
+T375	Species 84699 84713	Xenopus leavis
+T376	Species 85287 85299	teleost fish
+T377	Species 85412 85424	teleost fish
+T378	Species 86082 86107	Apteronotus leptorhynchus
+T379	Species 86300 86309	zebrafish
+T380	InteractionKeyword 393 402	following
+T381	InteractionKeyword 519 526	involve
+T382	InteractionKeyword 683 687	lead
+T383	InteractionKeyword 888 898	contribute
+T384	InteractionKeyword 1542 1549	complex
+T385	InteractionKeyword 1668 1675	limited
+T386	InteractionKeyword 1745 1750	leads
+T387	InteractionKeyword 1921 1928	complex
+T388	InteractionKeyword 3034 3040	induce
+T389	InteractionKeyword 3067 3077	generating
+T390	InteractionKeyword 3243 3252	generated
+T391	InteractionKeyword 3384 3390	target
+T392	InteractionKeyword 4320 4328	generate
+T393	InteractionKeyword 4490 4497	targets
+T394	InteractionKeyword 4622 4630	generate
+T395	InteractionKeyword 5558 5565	results
+T396	InteractionKeyword 8084 8091	results
+T397	InteractionKeyword 9446 9455	decreased
+T398	InteractionKeyword 9720 9727	reduced
+T399	InteractionKeyword 10193 10201	initiate
+T400	InteractionKeyword 10510 10519	involving
+T401	InteractionKeyword 10658 10663	forms
+T402	InteractionKeyword 11069 11076	reduces
+T403	InteractionKeyword 11549 11555	formed
+T404	InteractionKeyword 11941 11947	formed
+T405	InteractionKeyword 12158 12166	followed
+T406	InteractionKeyword 13508 13516	involved
+T407	InteractionKeyword 13993 14000	control
+T408	InteractionKeyword 14469 14478	increased
+T409	InteractionKeyword 14836 14839	led
+T410	InteractionKeyword 15691 15700	disrupted
+T411	InteractionKeyword 16738 16744	formed
+T412	InteractionKeyword 17970 17980	associated
+T413	InteractionKeyword 21444 21452	involves
+T414	InteractionKeyword 21754 21763	increased
+T415	InteractionKeyword 22329 22338	increases
+T416	InteractionKeyword 22521 22530	increases
+T417	InteractionKeyword 22942 22950	increase
+T418	InteractionKeyword 27001 27009	increase
+T419	InteractionKeyword 27057 27065	followed
+T420	InteractionKeyword 28423 28431	increase
+T421	InteractionKeyword 28537 28545	increase
+T422	InteractionKeyword 28614 28623	increased
+T423	InteractionKeyword 28817 28825	decrease
+T424	InteractionKeyword 30091 30099	increase
+T425	InteractionKeyword 30294 30302	increase
+T426	InteractionKeyword 32247 32254	reduced
+T427	InteractionKeyword 32838 32847	decreased
+T428	InteractionKeyword 33335 33343	decrease
+T429	InteractionKeyword 33572 33581	decreased
+T430	InteractionKeyword 33582 33591	following
+T431	InteractionKeyword 34311 34320	generated
+T432	InteractionKeyword 34671 34677	formed
+T433	InteractionKeyword 35013 35022	expressed
+T434	InteractionKeyword 35200 35209	expressed
+T435	InteractionKeyword 35343 35353	determined
+T436	InteractionKeyword 35443 35449	formed
+T437	InteractionKeyword 35516 35523	express
+T438	InteractionKeyword 36483 36493	recognized
+T439	InteractionKeyword 36644 36650	formed
+T440	InteractionKeyword 37157 37163	result
+T441	InteractionKeyword 38012 38021	generated
+T442	InteractionKeyword 38637 38646	decreases
+T443	InteractionKeyword 38902 38909	results
+T444	InteractionKeyword 38983 38992	expressed
+T445	InteractionKeyword 41159 41165	formed
+T446	InteractionKeyword 41976 41985	generated
+T447	InteractionKeyword 43192 43198	formed
+T448	InteractionKeyword 43284 43290	formed
+T449	InteractionKeyword 43732 43741	following
+T450	InteractionKeyword 43860 43869	following
+T451	InteractionKeyword 45704 45711	control
+T452	InteractionKeyword 46101 46111	decreasing
+T453	InteractionKeyword 46151 46159	involved
+T454	InteractionKeyword 46310 46317	causing
+T455	InteractionKeyword 46394 46402	enhances
+T456	InteractionKeyword 46489 46498	generated
+T457	InteractionKeyword 47610 47617	involve
+T458	InteractionKeyword 48156 48164	involves
+T459	InteractionKeyword 48191 48196	cause
+T460	InteractionKeyword 48490 48502	contributing
+T461	InteractionKeyword 48510 48517	leading
+T462	InteractionKeyword 48859 48868	following
+T463	InteractionKeyword 48877 48884	causing
+T464	InteractionKeyword 49275 49286	contributed
+T465	InteractionKeyword 49919 49923	lead
+T466	InteractionKeyword 49952 49962	contribute
+T467	InteractionKeyword 50218 50227	following
+T468	InteractionKeyword 50383 50390	reduced
+T469	InteractionKeyword 50806 50814	involves
+T470	InteractionKeyword 51142 51150	required
+T471	InteractionKeyword 51154 51161	control
+T472	InteractionKeyword 51341 51346	leads
+T473	InteractionKeyword 51411 51421	augmenting
+T474	InteractionKeyword 51576 51584	involves
+T475	InteractionKeyword 51664 51672	inhibits
+T476	InteractionKeyword 51807 51814	induced
+T477	InteractionKeyword 51953 51960	induced
+T478	InteractionKeyword 52083 52090	induced
+T479	InteractionKeyword 52646 52653	involve
+T480	InteractionKeyword 52766 52772	causes
+T481	InteractionKeyword 52957 52965	involves
+T482	InteractionKeyword 53304 53312	involves
+T483	InteractionKeyword 53560 53567	induced
+T484	InteractionKeyword 54169 54179	increasing
+T485	InteractionKeyword 54672 54679	express
+T486	InteractionKeyword 54740 54750	recognized
+T487	InteractionKeyword 55170 55178	decrease
+T488	InteractionKeyword 55523 55531	followed
+T489	InteractionKeyword 55538 55547	increased
+T490	InteractionKeyword 56096 56103	express
+T491	InteractionKeyword 56922 56930	followed
+T492	InteractionKeyword 57337 57347	generating
+T493	InteractionKeyword 57468 57476	generate
+T494	InteractionKeyword 57840 57848	generate
+T495	InteractionKeyword 57875 57879	form
+T496	InteractionKeyword 58362 58370	produced
+T497	InteractionKeyword 59175 59187	contributing
+T498	InteractionKeyword 59268 59278	determined
+T499	InteractionKeyword 59378 59388	determined
+T500	InteractionKeyword 59822 59831	generated
+T501	InteractionKeyword 60142 60150	generate
+T502	InteractionKeyword 60264 60273	generates
+T503	InteractionKeyword 60441 60449	generate
+T504	InteractionKeyword 60507 60513	formed
+T505	InteractionKeyword 60930 60940	determined
+T506	InteractionKeyword 61122 61128	formed
+T507	InteractionKeyword 61357 61363	formed
+T508	InteractionKeyword 61608 61618	contribute
+T509	InteractionKeyword 61708 61718	contribute
+T510	InteractionKeyword 61863 61867	lead
+T511	InteractionKeyword 65203 65207	lead
+T512	InteractionKeyword 65428 65437	following
+T513	InteractionKeyword 65481 65490	recognize
+T514	InteractionKeyword 66071 66079	blocking
+T515	InteractionKeyword 66449 66458	following
+T516	InteractionKeyword 67125 67133	followed
+T517	InteractionKeyword 67220 67227	blocked
+T518	InteractionKeyword 67432 67440	followed
+T519	InteractionKeyword 68250 68257	changes
+T520	InteractionKeyword 68547 68554	express
+T521	InteractionKeyword 69005 69012	blocked
+T522	InteractionKeyword 69018 69023	block
+T523	InteractionKeyword 69789 69796	changes
+T524	InteractionKeyword 69860 69864	form
+T525	InteractionKeyword 71635 71645	determined
+T526	InteractionKeyword 71891 71899	generate
+T527	InteractionKeyword 72234 72244	expressing
+T528	InteractionKeyword 72338 72347	following
+T529	InteractionKeyword 74056 74063	induced
+T530	InteractionKeyword 75366 75373	changes
+T531	InteractionKeyword 75439 75446	induced
+T532	InteractionKeyword 75796 75802	effect
+T533	InteractionKeyword 78625 78632	effects
+T534	InteractionKeyword 78633 78640	causing
+T535	InteractionKeyword 79147 79155	increase
+T536	InteractionKeyword 79897 79906	following
+T537	InteractionKeyword 80989 80996	changes
+T538	InteractionKeyword 81023 81029	follow
+T539	InteractionKeyword 81035 81045	controlled
+T540	InteractionKeyword 81055 81061	impact
+T541	InteractionKeyword 81463 81472	determine
+T542	InteractionKeyword 81788 81795	changes
+T543	InteractionKeyword 82622 82628	signal
+T544	InteractionKeyword 84197 84206	following
+R545	Partner1 Arg1:T403 Arg2:T12
+R546	Partner2 Arg1:T403 Arg2:T13
+R547	Partner1 Arg1:T425 Arg2:T51
+R548	Partner2 Arg1:T425 Arg2:T52
+R549	Partner1 Arg1:T426 Arg2:T76
+R550	Partner2 Arg1:T426 Arg2:T75
+R551	Partner1 Arg1:T428 Arg2:T80
+R552	Partner2 Arg1:T428 Arg2:T81
+R553	Partner1 Arg1:T433 Arg2:T86
+R554	Partner2 Arg1:T433 Arg2:T87
+R555	Partner1 Arg1:T435 Arg2:T89
+R556	Partner2 Arg1:T435 Arg2:T90
+R557	Partner1 Arg1:T437 Arg2:T92
+R558	Partner2 Arg1:T437 Arg2:T95
+R559	Partner1 Arg1:T487 Arg2:T148
+R560	Partner2 Arg1:T487 Arg2:T149
+R561	Partner1 Arg1:T491 Arg2:T159
+R562	Partner2 Arg1:T491 Arg2:T158
+R563	Partner1 Arg1:T512 Arg2:T179
+R564	Partner2 Arg1:T512 Arg2:T177
+R565	Partner1 Arg1:T515 Arg2:T180
+R566	Partner2 Arg1:T515 Arg2:T181
+R567	Partner1 Arg1:T520 Arg2:T183
+R568	Partner2 Arg1:T520 Arg2:T184

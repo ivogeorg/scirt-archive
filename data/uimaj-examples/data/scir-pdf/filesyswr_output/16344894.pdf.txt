@@ -1,0 +1,680 @@
+705Acta Physiologica Sinica, December 25, 2005, 57 (6): 705-713
+http://www.actaps.com.cn
+Research Paper
+cDNA microarray analysis of spinal cord injury and regeneration related
+genes in rat
+XIAO Lin, MA Zhen-Lian, LI Xin, LIN Qiu-Xia, QUE Hai-Ping, LIU Shao-Jun*
+Department of Neurobiology, Institute of Basic Medical Sciences, Academy of Military Medical Sciences, Beijing 100850, China
+Abstract: The acute traumatic spinal cord injury (SCI) is a commonly seen and severe case in clinic. However, the repair and
+regeneration of injured spinal cord is limited. This is likely due to that different kinds of factors are involved in regeneration after SCI.
+In the present study, we used complementary DNA microarray consisting of 4 041 specific probes from rat to identify genes that were
+differentially expressed after SCI. The animals were subjected to complete transection injury of the thoracic spinal cord (T8-T9). Sham
+operated animals received only a laminectomy. Four and a half days later, rat spinal cord was dissected out for total RNA isolation. The
+fluorescent (Cy3 and Cy5) labeled probes were prepared and hybridized to the microarray. Genes that showed 2-fold difference in SCI
+tissue were identified. Sixty-five up-regulated genes consisted of 21 known genes, 30 known expressed sequence tags (ESTs) and 14
+unknown genes. Seventy-nine down-regulated genes comprised 20 known genes, 42 known ESTs and 17 unknown genes. In 41
+differentially expressed known genes, 5 up-regulated genes, i.e., tissue inhibitor of metalloproteinase 1 (Timp1), transgelin (Tagln),
+vimentin (Vim), Fc gamma receptor, cathepsin S (Ctss), and 3 down-regulated genes, i.e.,  stearyl-CoA desaturase, coagulation factor II
+(F2), endosulfin alpha (Ensa), were further confirmed by reverse transcription polymerase chain reaction (RT-PCR). These genes may
+play a role in the response to tissue damage or repair following SCI and characterization of them might be helpful to elucidate the
+molecular mechanisms of spinal cord injury and regeneration.
+Key words: spinal cord; gene expression; cDNA microarray; RT-PCR
+应用 cDNA 微阵列技术筛选大鼠脊髓损伤修复相关基因
+肖 林，马振莲，李 欣，林秋霞，阙海萍，刘少君 *
+军事医学科学院基础医学研究所神经生物学研究室，北京 100850
+摘 要：脊髓损伤是一类常见的、高致残率的中枢神经系统疾病，由于多种复杂因素影响其损伤后的修复过程，损伤脊髓
+的再生能力非常有限。本研究采用 cDNA微阵列技术筛选大鼠脊髓损伤后出现的差异表达基因。实验组动物在 T8-T9进行脊
+髓全横断手术，对照组动物只打开椎板；4.5 d后取脊髓进行RNA提取并在反转录过程中进行Cy3/Cy5标记，然后与预制的、
+带有 4 041条特异性探针的芯片进行杂交。Cy5/Cy3信号比值≥ 2.0视为脊髓损伤后出现差异表达的基因。通过筛选，我们
+得到了 65个上调表达基因(21个已知基因，30个已知 EST和 14个未知基因)和 79个下调基因(20个已知基因，42个已知 EST
+和 17个未知基因)。进一步通过半定量RT-PCR对其中的 5个上调已知基因(Timp1, Tagln, Vim, Fc gamma receptor, Ctss)和三个下
+调已知基因(stearyl-CoA desaturase, F2, Ensa)的表达情况进行了验证，结果显示与芯片结果一致。这些基因可能在脊髓损伤后
+的修复过程中起一定的作用，对其深入研究将有助于揭示脊髓损伤修复的分子机制。
+关键词：脊髓；基因表达；c D N A 微阵列；反转录 P C R
+中图分类号：Q 4 2
+     Received 2005-05-31     Accepted 2005-09-29
+     This work was supported by the National Natural Science Foundation of China (No. 30200094), National Basic Research Priorities
+Programme of China (No.001CB510206), and National Key Project of Chinese Sanitation Miministries (No. WKZ-2001-1-18).
+     *Corresponding author. Tel : +86-10-66931304; Fax: +86-10-68213039 ; E-mail: Liusj@nic.bmi.ac.cn
+Acute traumatic spinal cord injury (SCI) is an unexpected,
+devastating event, the consequences of which often per-
+sist for the life of the patients and influence in diverse ways
+not only the patients, but also family members and society
+Acta Physiologica Sinica, December 25, 2005, 57 (6): 705-713706
+at large. In most countries, acute SCI occurs at an annual
+rate of 20~40 persons per million[1]. Although prevention
+programs have been initiated, there is no evidence that the
+incidence is declining. The initial costs of hospitalization
+are high, and subsequent medical care is expensive. Thus,
+the development of effective treatments for SCI will have
+great benefits. The trauma to the spinal cord can result in
+the destruction of neurons, nerve fibers passing through
+the spinal cord, supporting glial cells and blood vessels, at
+the site of injury. At the site of mechanical insult, approxi-
+mately 30% of the neurofilament proteins were degraded
+within 1 h, and 70% of them were lost within 4 h after
+injury. At the same time, the trauma to the spinal cord
+gives rise to changes of many genes’ expression level. These
+altered genes may lead to damage to the injured spinal cord
+or lack of regeneration in the injured spinal cord and per-
+manent functional impairment. SCI induced by trauma is a
+consequence of an initial physical insult and a subsequent
+progressive injury process that involves various
+pathochemical events leading to tissue destruction. The
+response to SCI is known to occur in two phases. The
+first phase, the primary injury, is the mechanical trauma
+initially sustained. The second phase, termed secondary
+injury, is posttraumatic tissue damage. The neurological
+deficits caused by secondary injury occur within minutes
+of the injury and continue for days, weeks or longer[2].
+The second phase is an autodestructive process that in-
+cludes physiological, biological and metabolic changes.
+These changes result in axonal damage and cell loss. So,
+the second phase should be a target of pharmacological
+treatment. But despite intensive treatment efforts, the prog-
+nosis in acute SCI remains a pessimistic one. The injured
+spinal cord fails to regenerate due to two reasons, lack of
+regeneration promoters and production of regeneration
+inhibitors. The injured mammalian neurons can success-
+fully regenerate in the peripheral nervous system (PNS).
+This regenerative capacity has been attributed to produc-
+tion of a variety of secreted polypeptides known as neu-
+rotrophic factors during the regeneration process[3]. In
+2000, scientists found that Nogo protein may inhibit axon
+regeneration[4]. In addition, it has become increasingly rec-
+ognized that the nervous system also initiates reactive pro-
+cess in response to trauma that are neuroprotective and
+regenerative[5]. All these responses to SCI are, in part, due
+to changes at the gene expression level.
+To further understand the molecular regulation of com-
+plex process of injury and regeneration after SCI, many
+genes have been isolated and extensively studied with con-
+ventional methods. Previous studies identified several SCI-
+related gene expression and protein changes using in situ
+hybridization, RT-PCR, Western blotting and immunohis-
+tochemistry[6-11]. However, these techniques are slow and
+laborious thereby enabling only a few genes to be investi-
+gated at a time. In order to identify more genes at the same
+time, many new technologies have been developed in re-
+cent years. GeneChip® is one of the newest technologies.
+It provides insights into changes of global gene expression
+at a time. GeneChip® or microarrays are constructed ei-
+ther with thousands of immobilized cDNAs or with photo-
+chemically synthesized oligonucleotides within 1 cm2 on a
+glass or a plastic slide[12]. The development of GeneChip®
+and related techniques has enabled researchers to profile
+the expression of thousands of genes simultaneously,
+providing an effective tool for large-scale gene expression
+studies. Song et al. analyzed changes in the mRNA
+abundance at 3 and 24 h after SCI in adult rats using
+GeneChip®[13]. Fan et al. identified and compared the genes
+that were differentially expressed in the periphery nervous
+systems and central nervous systems following injury by
+microarray techniques[14]. So microarray analysis is a pow-
+erful tool to quickly examine expression of thousands of
+genes at a time.
+In the present study, we tried to analyze the changes in
+mRNA abundance at 4.5 d after traumatic injury to rat
+spinal cord by microarray techniques. Our results demon-
+strate that SCI causes a significant change in the expres-
+sion of genes, the products of which are involved in signal
+transduction, inflammation, apoptosis, lipid metabolism,
+acute phase reaction, remodeling injured tissue. Changes
+observed by microarray analysis for representative genes
+were also confirmed by RT-PCR.
+1  MATERIALS  AND METHODS
+1.1  Animals
+Six adult littermate male Wistar rats, bought from the Ex-
+periment Animal Center of Academy of Military Medical
+Sciences, were used in this investigation. The animals,
+weighing 200~300 g, were divided randomly into two
+groups, injured and control. All rats were anesthetized with
+intraperitoneal injections of sodium pentobarbital (40 mg/
+kg). The skin was surgically scrubbed with ethanol and
+the hair at the surgical field was removed. The rats in in-
+jured group were subjected to a complete transection in-
+jury of the thoracic spinal cord (T8-T9). The control group
+received only a laminectomy. The animals, survived for
+another 4.5 d, were killed by decapitation. The whole spi-
+nal cord of each rat was dissected out for total RNA
+707XIAO Lin et al: cDNA Microarray Analysis of Spinal Cord Injury and Regeneration Related Genes in Rat
+extraction.
+1.2  Total RNA extraction
+We used RNeasy Mini Kit (Qiagen, Germany) to extract
+total RNA. The spinal cords were homogenized using a
+conventional rotor-stator homogenizer. Then total RNA was
+extracted according to the protocol described by the
+manufacturer. The purity of the isolated total RNA was
+analyzed by absorption at 260 nm and 280 nm with ultra-
+violet spectrophotometry Unicam 330. The integrity of the
+total RNA was assessed with TAE agarose gel electro-
+phoresis.
+1.3  Preparation of probes
+Total RNA (30 µg) of each group was converted to cDNA
+probes by reverse transcription with oligodT as primer.
+The cDNA probes were labeled with Cy3-dCTP for con-
+trol group and Cy5-dCTP for injured group, respectively.
+Two kinds of cDNA probes were mixed up and dissolved
+in the hybridization solution.
+1.4  Hybridization and washing
+The cDNA microarray including 4 041 spots was obtained
+from the BioStar Genechip, Inc., Shanghai. The 4 041 rat
+specific probes on the cDNA microarray were obtained by
+subtraction hybridization between rat tissues. The probes
+were denatured at 95ºC for 2 min and chilled on the ice
+quickly. The cDNA microarray (prehybridization
+processed) were denatured in 95ºC water for 30 s and
+then put into water-free ethanol. The denatured probes were
+added to region of chip and then sealed with a cover glass.
+Hybridization reaction lasted for 18 h at 42ºC. Then the
+cDNA microarray were washed with 0.5% washing solu-
+tion 1, following with the solution containing 0.5% wash-
+ing solution 1 and 2% washing solution 2 for 10 min at
+60ºC and then with 5% washing solution 3 for 10 min at
+60ºC. The chip was washed with 0.5% washing solution 1
+again and then dried at room temperature. All hybridization
+solutions and washing solutions were provided by BioStar
+Genechip.
+1.5  Data analysis
+The cDNA micrparray used contained several probes spe-
+cific for rat housekeepers (β-actin, γ-actin, GAPDH, 5 S
+rRNA, and so on), which served as positive controls. Sev-
+eral rice probes on the chip severed as negative controls
+and several probes severed as blank controls for back-
+ground subtraction. The specific probes on the chip are
+products of PCR from subtraction hybridization of rat
+tissues, that is, these probes are specific for each tissue.
+The cDNA microarray was scanned with ScanArray4000
+and the images were processed by GenePix 3.0 software.
+At first, the values of Cy3 or Cy5 were obtained after back-
+ground subtraction. The values of Cy5 under 200 were
+replaced with 200. The number of effective genes was
+counted. The effective genes, valued according to both
+values of Cy3 and Cy5, are beyond 200 or either beyond
+800 and Ri (Cy5/Cy3) is between 0.1 and 10. The average
+of the natural logarithm of Ri was computed, i.e. R’. The
+normalization index (ND) equals EXP(R’). Second, the
+adjusted value of Cy3, which multiply ND by Cy3, is Cy3*.
+The values of Cy3* under 200 were replaced with 200. At
+last, the value of Cy5/Cy3* of all genes were computed.
+The genes that ratio (Cy5/Cy3*) is beyond 2 or under 0.5
+are differentially expressed in injured group and control
+group.
+1.6  Confirmation of differential expression by semi-
+quantitative RT-PCR
+The semi-quantitative PCR protocols were employed to
+further confirm the cDNA microarray results. We chose
+five up-regulated known genes and three down-regulated
+known genes, they were, cathepsin S (Ctss), Fc gamma
+receptor, vimentin (Vim), Transgelin (Tagln), tissue inhibi-
+tor of metalloproteinase 1 (Timp1) and stearyl-CoA
+desaturase, coagulation factor II (F2), endosulfine alpha
+(Ensa) respectively. At the same time, glyceraldehyde 3-
+phosphate dehydrogenase (GAPDH) was amplified as an
+internal control. Total RNA (2 µg) from each group sample
+was reversely transcribed with oligo(dT)15  primers using
+Superscipt II reverse transcriptase (Gibco-BRL). RT-PCR
+was performed in the Gene Amp PCR System 9700 (Applied
+Biosystems, USA). Briefly, 2 µl cDNA and gene specific
+primers (Table 1) were added to TaKaRa PCR Mix (TaKaRa
+Taq DNA polymerase, dNTPs, optimal buffer components;
+TaKaRa) and subjected to PCR amplification. PCR prod-
+ucts were analyzed by electrophoresis on 1.5% agarose
+gels. Images of ethidium-bromide-stained bands were
+scaned with ImageMaster VDS (Amersham Pharmacia
+Biotech).
+2  RESULTS
+2.1  Results of extraction of total RNA
+The total RNA isolated from spinal cords was evaluated
+with ultraviolet analysis and agarose gel electrophoresis.
+The values of OD260/OD280 of the total RNA from injury
+group and control group were 1.905 and 2.087 with ultra-
+violet analysis, respectively. The electrophoresis result
+showed that the ratio of 18 S/28 S was approximately 1/2
+and the bands from low to high molecular weight appeared
+smear (Fig. 1). The data indicated that the total RNA iso-
+Acta Physiologica Sinica, December 25, 2005, 57 (6): 705-713708
+lated bears higher purity and integrity.
+2.2  Differentially expressed genes between the in-
+jured and the control groups
+The hybridized cDNA microarray were scaned with
+ScanArray4000. The obtained images were analyzed with
+GenePix Pro 3.0. 3 913 spots were effective genes. Our
+experiment revealed that the expression of 144 genes
+changed significantly at 4.5 d after SCI as compared with
+control spinal cord tissue, including up-regulation of 65
+genes and down-regulation of 79 genes. The 144 differen-
+tially expressed genes included 41 known genes (Table 2),
+72 known ESTs and 31 unknown genes. A scatter diagram
+(Fig. 2) was made and the spots near the 45º straight line
+represented the genes without change in expression level,
+while those genes far away from the 45º straight line rep-
+resented the genes with differential expression.
+Fig. 1.  Total RNA electrophoresis figure of control group and injured
+group. The left is the control group and the right is the injured group.
+Fig. 2.  A scatter diagram with X axis reflecting the intensity of
+hybridization signal of Cy3 and Y axis reflecting that of Cy5. Each
+spot stands for hybridized signal of a gene. The red spots indicate
+that value Y/value X are between 0.5 and 2.0 and belong to
+undifferentially expressed genes. The yellow spots indicate that the
+ratio of value Y to value X is beyond 2.0 or under 0.5 and likely to be
+differentially expressed genes.
+Table 1.  Sequences of primer pairs used for semi-quantitative RT-PCR
+   Gene (GenBank accession #) 
+                     　　                 Primer pairs                                                                      Product
+                                                                        Bases　                                   Sequence (5’-3’)                                      size (bp)
+Timp 1(NM_053819)    135 - 163 GCTTTCTGCAACTCGGACCTGGTTA
+   488 - 513 AAGGGATGGCTGAACAGGGAAACAC 378
+Tagln (NM_031549)    529 - 554 ATGGCAGCAGTGCAGAGGACTGTAA
+   833 - 858 TACCTCAAAGCTGTCCGGGCTAAGA 329
+Ctss (NM_017320)    860 - 880 GTGTTCTCGTGGTTGGCTAT
+1 179 - 1 199 GCGTCCTTGCTTACAGACTT 339
+Vim (NM_031140)    715 - 740 ATGCTTCTCTGGCACGTCTTGACCT
+1 028 - 1 053 ACTGCACCTGTCTCCGGTATTCGTT 338
+Fc gamma receptor (X73371)    388 - 413 GTTTAAGGCCACAGTCAATGATAGT
+   807 - 832 GACCAAGGATACCAGGATAATAACA 444
+F2 (NM_022924) 1 137 - 1 162 GATTCTTACATAGATGGGCGCATCG
+1 464 - 1 489 AAGGGCACTGGCTTCTTTAGCTTGA 352
+Ensa (NM_021842)      48 - 73 GGAGAAGCAGGATACACAGGAGAAA
+   224 - 249 CGGTAGCTGCTTGTTCTTCATCTTG 201
+Stearyl-CoA desaturase (J02585) 1 624 - 1 644 AGGCAACCTTTCTGCTTTCT
+2 001 - 2 021 TTTCCCATTCCCTTCACTCT 397
+GAPDH(NM_017008)    451 - 470 TCCCTCAAGATTGTCAGCAA
+   739 - 758 AGATCCACAACGGATACATT 308
+709XIAO Lin et al: cDNA Microarray Analysis of Spinal Cord Injury and Regeneration Related Genes in Rat
+Table 2.  Known genes differentially expressed at 4.5 d after SCI
+No.　GenBank 　　　　　　　　　  Gene name　　　　　　　　　　　　　　　        Fold 　　    Function
+　　  number 　　　　　　　　　　　　　　　　　　　　　　　 　  change
+Up-regulated
+1 NM_019358 Glycoprotein 38 (Gp38) 2.011 Membrane transport
+2 V01222 Preproalbumin 2.059 Albumin precursor
+3 Z49761 RT1.Ma 2.123 Unknown
+4 NM_031083 Phosphatidylinositol 4-kinase( Pik4cb) 2.124 Signal transduction
+5 NM_012679 Clusterin (Clu) 2.181 Antiapoptotic protein
+6 NM_019289 Actin-related protein complex 1b (Arpc1b) 2.197 Cytoplasm transport
+7 AF154572 ERG2 protein 2.207 Control of cellular excitability
+8 Y09111 tMDC IV protein 2.274 Unknown
+9 NM_053538 Lysosomal-associated protein transmembrane 5 (Laptm5) 2.382 Protein degradation
+10 AJ223184 DORA protein 2.425 Cell surface receptor
+11 X82669 RT1.Au 2.471 MHC class molecule
+12 AF065438 Mama 2.525 Unknown
+13 NM_012771 Lysozyme (Lyz) 2.549 Metabolism
+14 AF370882 TORID 2.660 Membrane component
+15 NM_022597 Cathepsin B (Ctsb) 2.739 Inflammation factor
+16 AB023781 Cathepsin Y 2.786 Inflammation factor
+17 NM_017320 Cathepsin S (Ctss) 2.973 Inflammation factor
+18 X73371 Fc gamma receptor 3.161 Receptor
+19 NM_031140 Vimentin (Vim) 3.306 Cytoskeletal elements
+20 NM_031549 Transgelin(Smooth muscle 22 protein) (Tagln) 3.403 Actin cross-linking protein
+21 NM_053819 Tissue inhibitor of metalloproteinase1 (Timp1) 4.575 Tissue reconstruction
+Down-regulated
+1 J02585 Stearyl-CoA desaturase 0.197 Lipid metabolism
+2 NM_053389 Survival of motor neuron protein interacting protein1 0.358 Splicing pre-mRNA
+3 NM_022924 Coagulation factor II (F2) 0.390 Apoptosis
+4 NM_021842 Endosulfine alpha (Ensa) 0.411 Inhibitor of voltage-gated
+Ca2+ channels
+5 NM_012681 Transthyretin (prealbumin,amyloidosis type I) (Ttr) 0.425 Acute-phase response
+6 NM_053917 Inositol polyphosphate-4-phosphatase type II 0.447 Signal transduction
+7 NM_012598 Lipoprotein lipase (Lpl) 0.456 Lipid metabolism
+8 NM_022629 Gamma-butyrobetaine hydroxylase (Bbox) 0.458 Lipid metabolism
+9 U94856 Paraoxonase 0.465 Antioxidant
+10 NM_032083 Chimerin (chimaerin)1 (Chn1) 0.465 Cell differentiation
+11 M31109 UDP-glucuronosyltransferase 0.467 Metabolism
+12 NM_012559 Fibrinogen, gamma polypeptide (Fgg) 0.475 Cellular and matrix interactions
+13 NM_017096 C-reactive protein (Crp) 0.478 Inflammatory response
+14 NM_017268 3-hydroxy-3-methylglutaryl-Coenzyme A synthase1 (HmgcN-14-7) 0.479 Lipid metabolism
+15 AF084933 ClassII MHC RT1.D(n) beta chain precursor (RT1.D(n)) 0.480 MHC molecule
+16 NM_017300 Bile acid-CoenzymeA dehydrogenase:amino acid n-acyltransferase 0.482 Lipid metabolism
+(Baat)
+17 NM_053348 Fetuin beta (Fetub) 0.486 Antagonist of cytokines
+18 NM_053356 Procollagen type I alpha2 (Col1a2) 0.490 Cell adhesion
+19 NM_017342 Surfactant protein C (SP-C) 0.492 Lipid mixing
+20 NM_024382 Leuserpin-2 (Serpind1) 0.495 Inhibitor of apoptosis
+Acta Physiologica Sinica, December 25, 2005, 57 (6): 705-713710
+2.3  Results of RT-PCR
+The agarose gel electrophoresis of RT-PCR products also
+showed significantly increasing expression of Timp 1, Vim,
+Tagln, Ctss, and Fc gamma receptor, decreasing expres-
+sion of stearyl-CoA desaturase, F2 and Ensa at 4.5 d after
+SCI, compared with control group (Fig. 3).
+Fig. 3.  Electrophoresis figure of RT-PCR.  1, 3, 5, 7, 9,11,13,15,17 are samples of control group and 2, 4, 6, 8, 10,12,14,16,18 are samples of
+injured group. 1 and 2 are Timp 1; 3 and 4 are Tagln; 5 and 6 are Vim; 7 and 8 are Fc gamma receptor; 9 and 10 are Ctss; 11 and 12 are stearyl-
+CoA desaturase; 13 and 14 are Ensa; 15 and 16 are F2; 17 and 18 are GAPDH; 19 is negative control; 20 is DL2000 marker.
+3  DISCUSSION
+We used RNeasy Mini Kit to isolate total RNA from the rat
+spinal cord tissue. The isolated total RNA from injured and
+control groups were of higher quality in purity and integrity,
+which assured the success of cDNA microarray. In this
+cDNA microarray, normalization index (ND=1.0907) is
+between 0.4 and 2.5 and the average ratios of signal den-
+sity from injured group or control group to background
+are not less than 3. These data indicate that our experiment
+is in conformance with the successful standard of cDNA
+microarray. The RT-PCR results of eight selected genes
+further confirmed that cDNA microarray results are
+credible.
+Using GeneChip® protoclos, Song et al. had reported
+the changes of mRNA abundance at 3 and 24 h after SCI
+in adult rats. Nesic et al. had reported that SCI, 1 h after
+trauma, induced change in mRNA levels of 165 genes and
+ESTs[15].  Zhang et al. investigated gene expression pro-
+files at 14 d after a complete spinal transection at the 11th
+thoracic level in adult rats using cDNA microarray. Among
+7 523 genes and ESTs examined, 444 transcripts, includ-
+ing 218 genes and 226 ESTs, were identified to be either
+up-regulated (373 of 444) or down-regulated (71 of 444)
+greater than 2.0-fold in the spinal cord, which were cat-
+egorized into seven classes which included cell division-
+related protein, channels and receptors, cytoskeletal
+elements, extracellular matrix proteins, metalloproteinases
+and inhibitors, growth-associated molecules, metabolism,
+intracellular transducers and transcription factors, as well
+as others[16]. By interrogating Affymetrix U34A rat genome
+GeneChip microarrays, Velardo et al. defined the transcrip-
+tional expression patterns in midcervical contusion lesion
+sites between 1 and 90 d postinjury of athymic nude (AN)
+and Sprague- Dawley (SD) strains. Stringent statistical
+analyses detected significant changes in 3 638 probe sets,
+with 80 genes differing between the AN and SD
+groups[17]. Tachibana et al. analyzed changes in the mRNA
+abundance at 24 h after SCI in adult rats using cDNA
+microarray. However, their data were related to within one
+day after SCI. The injured spinal cord evaluated during 8
+weeks by the inclined plane test showed that the motor
+disturbances peaked within 24 h after injury and were not
+completely recovered after 56 d. However, there was a
+striking enhancement phase at motor function recovery,
+that was, from the first day to the seventh day after SCI [18].
+So, it is likely to find some genes related to regeneration
+after SCI at this phase.
+It was accepted that the injury reactions mainly occurred
+in the first 2 d after SCI. And beginning from 3 d after
+injury, the regeneration became actively, predominant, and
+arrived the top at 4~5 d. So in the present study we chose
+4.5 d postinjury to screen differentially expressed genes
+that highly related to the repair and regeneration process of
+the injured spinal cord. There are different animal models
+used to investigate SCI. Many scientists use physically
+transected spinal cord for studying spinal cord regenera-
+tion and the high reproduction and easy standardization are
+features of this model.
+Concerted expression of thousands of genes in a con-
+trolled manner is essential for spinal cord function. Trau-
+matic injury to the spinal cord causes the altered expres-
+sion of many genes. The results of the present study found
+altered mRNA abundance (>2.0) of 144 genes at 4.5 d
+711XIAO Lin et al: cDNA Microarray Analysis of Spinal Cord Injury and Regeneration Related Genes in Rat
+after SCI, compared with sham control. The 144 changed
+genes include 79 up-regulated genes and 65 down-regu-
+lated genes. The up-regulated genes consist of 20 known
+genes, 42 known ESTs and 17 unknown genes. The down-
+regulated genes comprise 21 known genes, 30 known ESTs
+and 14 unknown genes. Some of 41 known genes (Vim,
+Timp 1, Coagulation factor II, Clusterin) were previously
+reported. However, many changes observed presently are
+first-time reports. The changed genes are involved in two
+types of molecules. One is promoter and the other is in-
+hibitor for regeneration after SCI. The regeneration after
+SCI is mediated by the two types of molecules together.
+The spinal regeneration is highly dependent on intracel-
+lular calcium concentration[19]. Alpha-endosulphine, a pro-
+tein that belongs to the cAMP-regulated-phosphoprotein
+family, has been detected in a wide variety of tissues, con-
+centrated particularly in the central nervous system. Under
+physiological conditions, alpha-endosulphine mainly acts
+to block voltage-gated Ca2+-channels[20]. The level of
+phosphatidylinositol 4-kinases (PiK4cb) is up-regulated and
+that of inositol polyphosphate 4-phosphatase (Inpp4b) is
+down-regulated at 4.5 d after SCI PiK4cb catalyze the first
+step in the synthesis of an important information transmit-
+tance regulator — phosphatidylinositol 4,5-bisphosphate[21].
+Inpp4b catalyzes the hydrolysis of the 4-position phos-
+phate of inositol 3,4-bisphosphate [Ins(3,4)P2], inositol
+1,3,4-trisphosphate [Ins(1,3,4)P3], and to a greater de-
+gree phosphatidylinositol 3,4-bisphosphate [PtdIns(3,4)P2][22].
+The first two substrates are intermediates in the break-
+down of inositol 1,4,5-trisphosphate [Ins(1,4,5)P3] to
+inositol, the former being important for Ca2+ release via
+calcium channel. The common function of PiK4cb and
+Inpp4b is to promote Ca2+ concentration in the cytoplasm.
+Meanwhile, the phospholipid substrate of Inpp4b,
+PtdIns(3,4)P2, has been shown to increase following stimu-
+lation of cells by growth factors that activate phospholipid
+3-kinase (PI3-K)[23]. [Ins(3,4)P2] has been shown to di-
+rectly bind and activate the Akt protooncogene, which is
+involved in cell proliferation.
+Alpha-chimaerin (Table 2) occurs as alpha 1- and alter-
+natively spliced Src homology 2 (SH2) domain-containing
+alpha2-isoforms. Alpha2-chimaerin mRNA was highly ex-
+pressed in the rat embryonic nervous system, especially in
+early postmitotic neurons. Alpha2-chimaerin protein local-
+ized to neuronal perikaryons, dendrites, and axons. The
+overall pattern of alpha2-chimaerin mRNA expression re-
+sembles that of cyclin-dependent kinase regulator p35,
+which participates in neuronal differentiation and with which
+chimaerin interacts. The transfection experiments of N1E-
+115 neuroblastoma cells demonstrated that alpha2-
+chimaerin transfectants generated neurites and alpha1-
+chimaerin transfectants displayed numerous microspikes
+and containing F-actin clusters, but generated few
+neurites[24].
+Vimentin (Table 2) is one of the members of intermedi-
+ate filaments. It exists in mesenchyme cells, chondrocyte
+and endothelial cells, particularly in fibroblast and differen-
+tiating cells. Many experiments showed that there was a
+large increase in vimentin (+) cells at the lesion site[25,26].
+Dervan and Roberts observed that the newly formed canal
+was greatly enlarged and was dominated by ependymocytes
+that are vimentin immunopositive after the spinal cord
+transection of eel Anguilla whose injured spinal cord can
+quickly regrow, reconnect and recover function. Vimentin
+may play an important role in regeneration of spinal cord[27].
+Cysteine lysosomal proteases are essential for turnover
+of intracellular and extracellular proteins. These enzymes
+are strongly implicated in normal and pathological processes
+involving tissue remodeling[28]. Cathepsin B, cathepsin S
+and cathepsin Y are the members of cysteine lysosomal
+proteases which belong to papain superfamily. Cathepsin
+B can degrade myelin basic protein[29] and cathepsin Y can
+produce bradykinin potentiating peptide[30]. Cathepsin S can
+degrade a number of extracellular matrix molecules at neu-
+tral pH since it remains most of its enzymatic activity at
+neutral pH. Inflammatory mediators can stimulate secre-
+tion of cathepsin S from the microglia and macro-phages.
+The survival of motor neuron (SMN) protein is expressed
+in all tissues of mammalian organisms, but particularly high
+levels are expressed in motor neurons. SMN and SMN
+interacting protein 1 (SIP1) are found both in the nucleus
+and cytoplasm of somatic cells. The interaction of SMN
+and SIP1 plays a crucial role in the biogenesis of
+spliceosomal small nuclear ribonucleoproteins (snRNPs)
+which function in pre-mRNA splicing[31]. The impaired pro-
+duction of snRNPs may contribute to motoneuron
+degeneration.
+Clusterin is a glycoprotein that has been implicated in a
+number of cellular processes, such as lipid transfer, cell-
+cell interaction, apoptosis and inhibition of the terminal
+complement complex formation. Analysis of the promoter
+region of the TRPM-2 gene demonstrated that the putative
+control region contains several potential regulatory elements
+that may regulate the complex tissue-specific control of a
+gene which must be constitutively expressed in some tis-
+sues but repressed in others until induced during active
+cell death[32].
+Gamma-butyrobetaine hydroxylase (Bbox), lipoprotein
+Acta Physiologica Sinica, December 25, 2005, 57 (6): 705-713712
+lipase (LPL), 3-hydroxy-3-methylglutaryl-coenzyme A syn-
+thase 1 (Hmgcs1), bile acid-coenzyme A dehydrogenase:
+amino acid n-acyltransferase (Baat) and stearyl-CoA
+desaturase play important roles in the lipid metabolism. Bbox
+catalyzes conversion of gamma-butyrobetaine to carnitine.
+The carnitine system plays a key role in beta-oxidation of
+long-chain fatty acids by permitting their transport into the
+mitochondrial matrix. LPL is a key enzyme involved in the
+metabolism of lipoproteins. Spinal cord of the rat contains
+more lipoprotein lipase than other brain regions. LPL-me-
+diated hydrolysis of exogenous triacylglycerol is an impor-
+tant source of free fatty acids for the Schwann cell[33].
+Hmgcs1 is responsible for 3-hydrox-3-methylglutaryl CoA
+biosynthesis in the cell. The 3-hydrox-3-methylglutaryl CoA
+is an important mediator in synthesis of cholesterol and
+ketone bodies. Baat catalyzes the conjugation of bile acids
+with glycine or taurine. The level of Baat deceased at 6 and
+12 h in the regenerating liver after partial hepatectomy[34].
+The Baat may play a role in acute-phase reactions. The
+clinic evidence showed that the ratio of Baat quantity in
+tumorous tissue to nontumorous is positive relative to prog-
+nosis of hepatocellular carcinoma patients after partial
+hepatectomy. Stearyl-CoA desaturase is expressed by oli-
+godendrocytes as well as Schwann cells. It is involved in
+the synthesis and regulation of long-chain unsaturated fatty
+acids essential for myelination[35].
+In addition to the above discussed genes, there are some
+genes, such as RT1.D(n), RT1.Ma and RT1.Au genes en-
+coding MHC class I and MHC class II molecules are also
+differentially expressed 4.5 d after SCI. The function of
+these genes in the regeneration after SCI is not clear and
+they maybe play roles in the cell-cell recognition and
+communication. So, we should strive to explore the func-
+tion of these altered expression genes and identify some
+targets for clinic treatment. At the same time, we should
+realize that molecular mechanism of regeneration after SCI
+is very complex. There will be a farther way to go in this
+region.
+ REFERENCES
+1 Shingu H, Ohama M, Ikata T, Katoh S, Akatsu T. A nationwide
+epidemiological survey of spinal cord injuries in Japan from
+January 1990 to December 1992. Paraplegia 1995; 33(4): 183-
+188.
+2 Bowtell DD. Options available — from start to finish — for
+obtaining expression data by microarray. Nat Genet 1999; 21(1
+Suppl): 25-32.
+3 Funakoshi H, Risling M, Carlstedt T, Lendahl U, Timmusk T,
+Metsis M, Yamamoto Y, Ibanez CF. Targeted expression of a
+multifunctional chimeric neurotrophin in the lesioned sciatic nerve
+accelerates regeneration of sensory and motor axons. Proc Natl
+Acad Sci USA 1998; 95(9): 5269-5274.
+4 GrandPre T, Nakamura F, Vartanian T, Strittmatter SM. Identi-
+fication of the Nogo inhibitor of axon regeneration as a Reticulon
+protein. Nature 2000; 403(6768): 439-444.
+5 Namiki J, Tator CH. Cell proliferation and nestin expression in
+the ependyma of the adult rat spinal cord after injury. J
+Neuropathol Exp Neurol 1999; 58(5): 489-498.
+6 Hamada Y, Ikata T, Katoh S, Nakauchi K, Niwa M, Kawai Y,
+Fukuzawa K. Involvement of an intercellular adhesion molecule
+1-dependent pathway in the pathogenesis of secondary changes
+after spinal cord injury in rats. J Neurochem 1996; 66(4): 1525-
+1531.
+7 Bartholdi D, Schwab ME. Expression of pro-inflammatory
+cytokine and chemokine mRNA upon experimental spinal cord
+injury in mouse: an in situ hybridization study. Eur J Neurosci
+1997; 9(7): 1422-1438.
+8 Grossman SD, Wolfe BB, Yasuda RP, Wrathall JR. Alterations
+in AMPA receptor subunit expression after experimental spinal
+cord contusion injury. J Neurosci 1999; 19(14): 5711-5720.
+9 Hayashi M, Ueyama T, Nemoto K, Tamaki T, Senba E.  Sequen-
+tial mRNA expression for immediate early genes, cytokines, and
+neurotrophins in spinal cord injury. J Neurotrauma 2000; 17(3):
+203-218.
+10 Lee YL, Shih K, Bao P, Ghirnikar RS, Eng LF. Cytokine
+chemokine expression in contused rat spinal cord. Neurochem
+Int 2000; 36(4-5): 417-425.
+11 Mautes AE, Noble LJ. Co-induction of HSP70 and heme oxyge-
+nase-1 in macrophages and glia after spinal cord contusion in the
+rat. Brain Res 2000; 883: 233-237.
+12 Lockhart DJ, Dong H, Byrne MC, Follettie MT, Gallo MV,
+Chee MS, Mittmann M, Wang C, Kobayashi M, Horton H,
+Brown EL. Expression monitoring by hybridization to high-
+density oligonucleotide arrays. Nat Biotechnol 1996; 14(13):
+1675-1680.
+13 Song G, Cechvala C, Resnick DK, Dempsey RJ, Rao VL.
+GeneChip analysis after acute spinal cord injury in rat. J
+Neurochem 2001; 79(4): 804-815.
+14 Fan M, Mi R, Yew DT, Chan WY. Analysis of gene expression
+following sciatic nerve crush and spinal cord hemisection in the
+mouse by microarray expression profiling. Cell Mol Neurobiol
+2001; 21(5): 497-508.
+15 Nesic O, Svrakic NM, Xu GY, McAdoo D, Westlund KN,
+Hulsebosch CE, Ye Z, Galante A, Soteropoulos P, Tolias P,
+Young W, Hart RP, Perez-Polo JR. DNA microarray analysis of
+the contused spinal cord: effect of NMDA receptor inhibition. J
+Neurosci Res 2002; 68(4): 406-423.
+16 Zhang KH, Xiao HS, Lu PH, Shi J, Li GD, Wang YT, Han S,
+Zhang FX, Lu YJ, Zhang X, Xu XM. Differential gene expres-
+713XIAO Lin et al: cDNA Microarray Analysis of Spinal Cord Injury and Regeneration Related Genes in Rat
+sion after complete spinal cord transection in adult rats: an analysis
+focused on a subchronic post-injury stage. Neuroscience 2004;
+128(2): 375-388.
+17 Velardo MJ, Burger C, Williams PR, Baker HV, Lopez MC,
+Mareci TH, White TE, Muzyczka N, Reier PJ. Patterns of gene
+expression reveal a temporally orchestrated wound healing re-
+sponse in the injured spinal cord. J Neurosci 2004; 24(39): 8562-
+8576.
+18 Taoka Y, Okajima K, Uchiba M, Murakami K, Harada N, Johno
+M, Naruo M. Activated protein C reduces the severity of com-
+pression-induced spinal cord injury in rats by inhibiting activa-
+tion of leukocytes. J Neurosci 1998; 18(4): 1393-1398.
+19 Unlu A, Hariharan N, Iskandar BJ. Spinal cord regeneration in-
+duced by a voltage-gated calcium channel agonist. Neurol Res
+2002; 24(7): 639-642.
+20 Virsolvy A, Smith P, Bertrand G, Gros L, Heron L, Salazar G,
+Puech R, Bataille D. Block of Ca2+-channels by alpha-
+endosulphine inhibits insulin release. Br J Pharmacol 2002; 135
+(7): 1810-1818.
+21 Zhao X, Varnai P, Tuymetova G, Balla A, Toth ZE, Oker-Blom
+C, Roder J, Jeromin A, Balla T. Interaction of neuronal calcium
+sensor-1 (NCS-1) with phosphatidylinositol 4-kinase beta stimu-
+lates lipid kinase activity and affects membrane trafficking in
+COS-7 cells. J Biol Chem 2001; 276(43): 40183-40189.
+22 Norris FA, Auethavekiat V, Majerus PW. The isolation and char-
+acterization of cDNA encoding human and rat brain inositol
+polyphosphate 4-phosphatase. J Biol Chem 1995; 270(27):
+16128-16133.
+23 Franke TF, Kaplan DR, Cantley LC, Toker A. Direct regulation
+of the Akt proto-oncogene product by phosphatidylinositol-3,4-
+bisphosphate. Science 1997; 275(5300): 665-668.
+24 Hall C, Michael GJ, Cann N, Ferrari G, Teo M, Jacobs T, Monfries
+C, Lim L. Alpha2-chimaerin, a Cdc42/Rac1 regulator, is selec-
+tively expressed in the rat embryonic nervous system and is
+involved in neuritogenesis in N1E-115 neuroblastoma cells. J
+Neurosci 2001; 21(14): 5191-5202.
+25 Raginov IS, Chelyshev IuA, Shagidullin TF. Interaction of sen-
+sory neurons and satellite cells during stimulation of the nerve
+regeneration. Morfologiia 2002; 122(4): 37-39.
+26 Wang X, Messing A, David S. Axonal and nonneuronal cell re-
+sponses to spinal cord injury in mice lacking glial fibrillary acidic
+protein. Exp Neurol 1997; 148(2): 568-576.
+27 Dervan AG, Roberts BL. Reaction of spinal cord central canal
+cells to cord transection and their contribution to cord
+regeneration. J Comp Neurol 2003; 458(3): 293-306.
+28 Petanceska S, Canoll P, Devi LA. Expression of rat cathepsin S
+in phagocytic cells. J Biol Chem 1996; 271(8): 4403-4409.
+29 Banik NL, Matzelle D, Terry E, Gantt-Wilford G, Hogan EL.
+Inhibition of proteolysis by a cyclooxygenase inhibitor,
+indomethacin. Neurochem Res 2000; 25(11): 1509-1515.
+30 Sakamoto E, Sakao Y, Taniguchi Y, Yamafuji K. Cathepsin Y (a
+novel thiol enzyme) produces kinin potentiating peptide from
+the component protein of rat plasma. Immunopharmacol 1999;
+45(1-3): 207-214.
+31 Fischer U, Liu Q, Dreyfuss G. The SMN-SIP1 complex has an
+essential role in spliceosomal snRNP biogenesis. Cell 1997; 90
+(6): 1023-1029.
+32 Wong P, Taillefer D, Lakins J, Pineault J, Chader G, Tenniswood
+M. Molecular characterization of human TRPM-2/clusterin, a
+gene associated with sperm maturation, apoptosis and
+neurodegeneration. Eur J Biochem 1994; 221(3): 917-925.
+33 Paradis E, Clement S, Julien P, Ven Murthy MR. Lipoprotein
+lipase affects the survival and differentiation of neural cells ex-
+posed to very low density lipoprotein. J Biol Chem 2003; 278
+(11): 9698-9705.
+34 Furutani M, Arii S, Higashitsuji H, Mise M, Fukumoto M,
+Takano S, Nakayama H, Imamura M, Fujita J. Reduced expres-
+sion of kan-1 (encoding putative bile acid-CoA-amino acid N-
+acyltransferase) mRNA in livers of rats after partial hepatec-
+tomy and during sepsis. Biochem J 1995; 311: 203-208.
+35 Furutani M, Arii S, Higashitsuji H, Mise M, Niwano M, Harada
+T, Nakayama H, Fukumoto M, Imamura M, Fujita J. kan-1 (bile
+acid CoA:amino acid N-acyltransferase) messenger RNA as a
+novel predictive indicator for prognosis of hepatocellular carci-
+noma patients after partial hepatectomy. Hepatology 1996; 24
+(6): 1441-1445.

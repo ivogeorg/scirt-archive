@@ -1,0 +1,68 @@
+T1	Gene 0 3	S 4
+T2	Gene 8 19	N A T U R E
+T3	Gene 24 51	V O L  5 0 3  |  1 4  N O V
+T4	Gene 54 70	M B E R  2 0 1 3
+T5	Gene 71 102	C A S S A N D R A  W I L LY A R
+T6	Gene 2163 2166	S T
+T7	Gene 2169 2179	M  C E L L
+T8	Gene 2677 2685	4  N O V
+T9	Gene 2688 2721	M B E R  2 0 1 3  |  V O L  5 0 3
+T10	Gene 2726 2735	N A T U R
+T11	Gene 2739 2743	|  S
+T12	Gene 2881 2888	Geron’s
+T13	Gene 4317 4320	neu
+T14	Gene 5105 5127	Thomas Okarma, Geron’s
+T15	Gene 6670 6677	Geron’s
+T16	Gene 7422 7425	neu
+T17	Gene 8840 8843	S 6
+T18	Gene 8848 8859	N A T U R E
+T19	Gene 8864 8891	V O L  5 0 3  |  1 4  N O V
+T20	Gene 8894 8910	M B E R  2 0 1 3
+T21	Gene 10990 10993	Neu
+T22	Gene 12487 12492	Repro
+T23	Gene 15890 15895	‘It’s
+T24	Gene 16771 16777	B Y  L
+T25	Gene 16780 16796	G A L  O R D E R
+T26	Species 8100 8105	Mouse
+T27	Species 8537 8540	rat
+T28	Species 9639 9643	rats
+T29	Species 9926 9930	rats
+T30	Species 10388 10392	Mani
+T31	Species 12765 12770	human
+T32	InteractionKeyword 479 486	driving
+T33	InteractionKeyword 2512 2519	control
+T34	InteractionKeyword 3309 3319	recruiting
+T35	InteractionKeyword 3349 3356	induced
+T36	InteractionKeyword 4149 4153	form
+T37	InteractionKeyword 4187 4194	signals
+T38	InteractionKeyword 4489 4496	signals
+T39	InteractionKeyword 4543 4548	forms
+T40	InteractionKeyword 5000 5006	direct
+T41	InteractionKeyword 5560 5564	form
+T42	InteractionKeyword 5640 5645	forms
+T43	InteractionKeyword 5835 5839	form
+T44	InteractionKeyword 5858 5865	promote
+T45	InteractionKeyword 6232 6236	form
+T46	InteractionKeyword 6418 6424	affect
+T47	InteractionKeyword 6696 6702	caused
+T48	InteractionKeyword 7380 7387	limited
+T49	InteractionKeyword 7417 7421	form
+T50	InteractionKeyword 8152 8156	form
+T51	InteractionKeyword 8612 8616	form
+T52	InteractionKeyword 9504 9511	effects
+T53	InteractionKeyword 9601 9606	forms
+T54	InteractionKeyword 9794 9804	controlled
+T55	InteractionKeyword 9902 9905	led
+T56	InteractionKeyword 10769 10775	effect
+T57	InteractionKeyword 10876 10882	impact
+T58	InteractionKeyword 11133 11140	recruit
+T59	InteractionKeyword 11191 11198	respond
+T60	InteractionKeyword 11531 11539	required
+T61	InteractionKeyword 12473 12478	cause
+T62	InteractionKeyword 12517 12521	form
+T63	InteractionKeyword 12715 12721	impact
+T64	InteractionKeyword 12794 12798	form
+T65	InteractionKeyword 12857 12864	results
+T66	InteractionKeyword 13953 13957	form
+T67	InteractionKeyword 15172 15178	result
+T68	InteractionKeyword 15838 15844	change

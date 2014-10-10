@@ -1,0 +1,1389 @@
+Development/Plasticity/Repair
+p53 Regulates the Neuronal Intrinsic and Extrinsic
+Responses Affecting the Recovery of Motor Function
+following Spinal Cord Injury
+Elisa M. Floriddia,1,2 Khizr I. Rathore,1 Andrea Tedeschi,1,3 Giorgia Quadrato,1 AnjaWuttke,1 Jan-Matthis Lueckmann,1
+Kristina A. Kigerl,4 Phillip G. Popovich,4 and Simone Di Giovanni1
+1Laboratory for NeuroRegeneration and Repair, Center for Neurology, Hertie Institute for Clinical Brain Research, University of Tübingen, and 2Graduate
+School for Cellular and Molecular Neuroscience, University of Tübingen, D-72076 Tübingen, Germany, 3Axonal Growth and Regeneration Laboratory,
+German Center for Neurodegenerative Disease, D-53175 Bonn, Germany, and 4Center for Brain and Spinal Cord Repair, The Ohio State University,
+Columbus, Ohio 43210
+Following spinal trauma, the limitedphysiological axonal sprouting that contributes topartial recoveryof function isdependentupon the
+intrinsic properties of neurons as well as the inhibitory glial environment. The transcription factor p53 is involved in DNA repair, cell
+cycle, cell survival, and axonal outgrowth, suggesting p53 as key modifier of axonal and glial responses influencing functional recovery
+following spinal injury. Indeed, in a spinal cord dorsal hemisection injury model, we observed a significant impairment in locomotor
+recovery in p53/ versus wild-typemice. p53/ spinal cords showed an increased number of activatedmicroglia/macrophages and a
+larger scar at the lesion site. Loss- and gain-of-function experiments suggested p53 as a direct regulator of microglia/macrophages
+proliferation. At the axonal level, p53/ mice showed a more pronounced dieback of the corticospinal tract (CST) and a decreased
+sprouting capacity of both CST and spinal serotoninergic fibers. In vivo expression of p53 in the sensorimotor cortex rescued and
+enhanced the sproutingpotential of theCST inp53/mice,while, similarly, p53expression inp53/ culturedcorticalneurons rescued
+a defect in neurite outgrowth, suggesting a direct role for p53 in regulating the intrinsic sprouting ability of CNS neurons. In conclusion,
+we show that p53 plays an important regulatory role at both extrinsic and intrinsic levels affecting the recovery of motor function
+following spinal cord injury. Therefore, we propose p53 as a novel potential multilevel therapeutic target for spinal cord injury.
+Introduction
+Following spinal cord trauma, there is a very limited potential for
+axonal sprouting and regeneration as well as related functional
+recovery due to the formation of a spinal glial inhibitory environ-
+ment and to deficient intrinsic pro-regenerative properties of
+neurons (Yiu andHe, 2006; Giger et al., 2008; Di Giovanni, 2009;
+Liu et al., 2011). However, in the case of incomplete lesions of the
+spinal cord, some physiological axonal sprouting and plasticity
+that contribute to partial recovery of motor function does occur
+(Raineteau and Schwab, 2001; Raineteau et al., 2002; Bareyre et
+al., 2004). The identification of factors that play a role in both the
+neuronal intrinsic and extrinsic spinal environment after lesion
+may affect the proaxonal regenerative response and functional
+recovery. Recently, we have shown that the transcription factor
+p53 is required for axonal regeneration of the injured facial nerve
+and for neurite outgrowth of cultured cortical and dorsal root
+ganglia neurons (Di Giovanni et al., 2006; Tedeschi et al.,
+2009a,b; Floriddia et al., 2011).
+In mitotic cells and in cancer, p53 has been shown (1) to
+negatively regulate cell proliferation through the transcriptional
+regulation of cell cycle arrest genes, such as p21 (Liebermann et
+al., 2007; Abbas andDutta, 2009), and (2) tomediate cell death in
+highly damaged cells following a variety of stressors, including
+oxidative stress, DNA damage, and growth factor deprivation
+(Aloyz et al., 1998; Sakaguchi et al., 1998; Culmsee and Mattson,
+2005).
+Previous reports have suggested that p53 (Saito et al., 2000)
+and p53-dependent signaling (Carmel et al., 2001; Di Gio-
+vanni et al., 2003; Byrnes et al., 2006) are activated in both
+neuronal and glial cells following spinal cord injury (SCI). In
+addition, we previously found that p53-dependent target
+genes, including DNA damage, cell cycle, and axonal plasticity-
+related molecules are triggered mainly between 1 and 7 d
+following injury (Di Giovanni et al., 2005a,b). Thus, we hy-
+pothesize that p53 may be important for the regulation of
+axonal sprouting in the injured spinal cord, for physiological
+recovery of locomotion, as well as for the establishment of the
+postinjury glial environment.
+Received April 20, 2012; revised July 5, 2012; accepted Aug. 10, 2012.
+Author contributions: E.M.F., A.T., and S.D.G. designed research; E.M.F., K.I.R., A.T., G.Q., A.W., J.-M.L., andK.A.K.
+performed research; E.M.F., K.I.R., and S.D.G. analyzed data; E.M.F., K.I.R., P.G.P., and S.D.G. wrote the paper.
+This work was supported by The Hertie Foundation, Deutsche Forschungsgemeinschaft Grants DI 1497/1-1 and
+DI 1497/3-1, and Wings for Life (S.D.G.). We thank Uli Nauman for the production of the p53 adenovirus; Roberta
+Brambilla, Lisa Schnell, and Miriam Gullo for invaluable scientific and technical support; and Samuel David for the
+comments on this manuscript.
+Correspondence should be addressed to Dr. Simone Di Giovanni, Laboratory for NeuroRegeneration and Repair,
+Hertie Institute for Clinical and Brain Research, University of Tübingen, Otfried-Mueller Strasse 27, D-72076 Tübin-
+gen, Germany. E-mail: simone.digiovanni@medizin.uni-tuebingen.de.
+DOI:10.1523/JNEUROSCI.1925-12.2012
+Copyright © 2012 the authors 0270-6474/12/3213956-15$15.00/0
+13956 • The Journal of Neuroscience, October 3, 2012 • 32(40):13956–13970
+To this end, we performed a T10 bilateral dorsal hemisec-
+tion of the spinal cord in wild-type (wt) and p53/ mice.
+Strikingly, we found that physiological recovery of motor
+function was impaired in p53/mice, which showed a more
+pronounced dieback of the corticospinal tracts (CST) as well
+as a clear impairment of serotoninergic (5-HT) and CST
+sprouting. In addition, p53/mice displayed a larger fibrotic
+scar and an increased number of activated microglia/macro-
+phages at the lesion site, due to aberrant proliferation. More-
+over, the impairment in CST sprouting in p53/ mice could
+be rescued by p53 gain of function, supporting a direct role for
+p53 in the modulation of the intrinsic neuronal response of
+the CST.
+Together, these data suggest that p53 affects the natural neu-
+ronal and glial adaptive response to spinal injury that leads to
+partial spontaneous recovery of motor function.
+Materials andMethods
+Mice
+Mice were purchased from The Jackson Laboratory. Wild-type and
+p53/, B6.129S2-Trp53 tm1Tyj/J (Jacks et al., 1994) mice used in this
+study were male and strain matched. The age of the mice used for exper-
+iments was 8 weeks. p53/ mice did not show any visible phenotype.
+We did not observe any behavioral or learning difference compared with
+wild type during the training for the behavioral assessments.
+Surgical procedure and postoperative care
+Mice were kept under anesthesia with 2% isoflurane/1% O2 mixture.
+Body temperature was maintained by keeping the mice on a heating pad
+(37°C) during the whole procedure. The skin over the thoracic area was
+shaved and cleaned three times with Softasep N (Braun). The skin was
+incised, the superficial fat shifted apart, and themuscle tissue dissected to
+expose laminae T9–T11. A T10 laminectomy was performed, the dura
+materwas removed, taking care not to damage the spinal cord during this
+procedure. A dorsal hemisection until the central canal was performed
+with a microknife (FST). To ensure that the lesion was complete, the
+microknife was passed throughout the dorsal part of the spinal cord
+several times. This kind of injury damages the dorsal and lateral CST, the
+dorsal columns, the rubrospinal, the dorsal and lateral raphe-spinal, and
+part of the reticulospinal tracts. For the laminectomy control surgery, the
+dura mater was removed, but the dorsal hemisection was not performed.
+After surgery, mice were placed back in their cages warmed up with an
+infrared light to prevent hypothermia.Mice underwent daily check for gen-
+eral health, mobility within the cage, wounds, swelling, infections, or au-
+tophagy of the toes throughout the experiment. The animals showedneither
+skin lesions nor autophagy throughout the study.Micewere injected subcu-
+taneously with 1 ml of 0.9% saline twice daily for 3 d and once daily from
+days4 to7after surgery.Bladdersweremanually expressed twicedaily for the
+first week after operation and once daily until needed.
+Tracer and virus injections
+To trace the CST, biotinylated dextran amine (BDA) mini-ruby (10% in
+0.01 M PBS; 10,000MW; Invitrogen) injectionwas performed in the right
+sensorimotor cortex (SMC) 14 dbefore killing. To infect layerVneurons,
+Adeno-GFP or Adeno-GFP-p53 dual promoter viral constructs (5.3 
+107 pfu) were injected through a glass capillary connected with a 5 l
+Hamilton syringe in the right sensorimotor cortex on the day of the
+spinal injury. Mice were anesthetized, and the head was shaved and
+cleaned as above. Mice were placed on a stereotaxic device, the scalp was
+incised, and a craniotomy on the right sensorimotor cortex was per-
+formed with a drill. The viruses or the tracer were injected in a total of
+four sites (0.4l per site over a period of 3–5 min, plus 3 min of the glass
+capillary in place to avoid spillover), coordinates were 1.0mm lateral, 0.5
+mm deep, and 0.5, 0.2, 0.7, and 1 mm with respect to bregma
+(Steward et al., 2008).
+Tissue preparation and sectioning
+At the end of the survival period, the animals were deeply anesthetized
+with ketamine (120 mg/kg body weight) and xylazine (14 mg/kg body
+weight) and perfused transcardially with 0.1 M PBS, pH 7.4, and 4% PFA
+in PBS, pH 7.4. Dissected brains and spinal cords were further postfixed
+in 4% PFA in PBS at 4°C overnight and cryoprotected in 30% sucrose for
+at least 48 h. After embedding in Tissue-Tek OCT compound, sagittal or
+coronal spinal cord and coronal brain sections were cut to a thickness of
+20 m. Sections were stored at20°C until further use.
+Behavioral assessments
+Training. All animals received training before surgery. The animals
+were gently handled and then acclimated to the open field for the
+locomotor test once daily for 10 sessions. They were also trained on
+the grid walk and CatWalk runaway once daily for seven sessions;
+each animal repeated three to four runs per session for each appara-
+tus. For acclimation in the plantar heat test, each animal was allowed
+to remain in an acrylic box (11.5 11.5 14 cm) on a glass floor for
+10 min daily for four sessions.
+Open-field test. The Basso Mouse Scale (BMS) (Basso et al., 2006) was
+used to assess open-field locomotion for all injury group. Each animal
+Table 1. Antibodies
+Primary antibody Supplier Catalog # Host Application
+5-HT ImmunoStar 20080 Rabbit 1:8000 IHC
+Caspase-3 (H-277) Santa Cruz sc-7148 Rabbit 1:500 WB
+Caspase-3 (cleaved) Cell Signaling 9661 Rabbit 1:200 ICC
+CD11b AbD Serotec MCA711 Rat 1:200 IHC; 1:500 ICC
+CD16/32 BD Biosciences Pharmingen 553142 Rat 1:800 IHC
+CD206 R&D Systems AF2535 Goat 1:100 IHC
+Fibronectin Sigma-Aldrich F3648 Rabbit 1:500 IHC
+GAPDH Millipore MAB374 Mouse 1:200 WB
+GFAP Invitrogen 13-0300 Rat 1:500 IHC
+GFAP Millipore AB5804 Rabbit 1:2000 WB
+Iba1 Wako Chemicals 019-19741 Rabbit 1:500 IHC
+Ki67 BD Biosciences Pharmingen 550609 Mouse 1:50 IHC
+p53 (CM5) Leica NCL-p53-CM5p Rabbit 1:400 IHC; 1:400 ICC
+PCNA Merck NA-03 Mouse 1:250 WB
+Table 2. Primers
+Gene Primer forward Primer reverse
+Collagen 12 GTAAACACCCCAGCGAAGAACTC TCAAACTGGCTGCCACCAT
+Collagen 41 TTCAGATTCCGCAGTGCCCTA TTCTCATGCACACTTGGCAGC
+Fibronectin ACAGAAATGACCATTGAAGG TGTCTGGAGAAAGGTTGATT
+GADD45 CAGGGGAGGGACTCGCACTT CGGGGTCTACGTTGAGCAGC
+GAP-43 CAGGAAAGATCCCAAGTCCA GAACGGAACATTGCACACAC
+GAPDH GCTTAAGAGACAGCCGCATCT CGACCTTCACCATTTTGTCTACA
+p21 CGGTGGAACTTTGACTTCGT AGAGTGCAAGACAGCGACAA
+p53 AGAGACCGCCGTACAGAAGA CTGTAGCATGGGCATCCTTT
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13957
+was allowed to freely move in the open field for 4 min while two inde-
+pendent investigators blinded to the genotype scored it. The BMS score
+and subscore were given. Mice were tested before the surgery and 1, 3, 7,
+14, 21, and 28 d following injury. Only the animals that showed frequent
+or consistent plantar stepping in the open field (BMS score 5) were
+tested on the grid walk, CatWalk, and heat plantar test.
+Grid walk. The grid walk test was used to evaluate the sensorimotor
+coordination of the hindlimbs (Behrmann et al., 1992; Ma et al., 2001).
+The animals were allowed to cross a 50 cmmetal grid of 1.2 1.2 cm grid
+spaces for three times for each testing day. The number of missteps was
+counted for each run. A misstep occurs when the animal cannot find or
+properly position his paw on the grid and his foot slips through the grid.
+Mice were tested before surgery and 14, 17, 21, 23, and 28 d following the
+injury.
+CatWalk automated quantitative gait analysis test. The CatWalk test was
+used to evaluate basal motor behavior and coordination during continuous
+locomotion along a walkway (Hamers et al., 2001). The CatWalk apparatus
+andCatWalkXT 8.1 software (Noldus) were used. Each animal was allowed
+to cross the runway, 8 50 cmwide with a glass floor, in a darkened room.
+The green LED light internally reflected in the glass floor illuminates the
+animal’s paws at the contact area only, producing a footprint. The CatWalk
+apparatus also presents an illuminated ceiling with a red LED light that
+makes thebodycontourof theanimalvisible.Ontheexperimentalday, three
+runs for each animal were recorded from below the glass by a digital video
+camera [50 (PAL) fields per second]. The runs were then analyzed to mea-
+sure the average speed, the step length, and the stand time parameters. Ani-
+mals were tested before surgery and 14, 21, and 28 d following injury.
+Plantar heat test. This test was used to measure basal sensitivity to
+noxious thermal stimulation. Thermal sensitivity of the plantar hind-
+paws was tested according to Hargreaeves’ method (Hargreaves et al.,
+1988; Mogil et al., 1999), with a plantar test device (Ugo Basile).
+On the experimental days, the animals were handled and placed unre-
+strained in an acrylic box for 10–15 min to acclimate before testing. An
+infrared radial source (26W)was applied through a glass floor to themiddle
+of theplantar surfaceof thehindpaw,between the footpads,when theanimal
+was stationary. Eachmouse was tested for five times for each hindpaw, with
+at least 30 s between trials, in a randomized order of testing to minimize
+avoidance behavior. A 30 s cutoffwas set to avoid tissue damage. The timeof
+withdrawals and any other behavior indicating a supraspinal response, such
+as licking, looking at the affected paw, or attacking the stimulus, were re-
+corded. Highest and lowest latencies for each paw were dropped, and the
+remaining six latencies for each mouse were averaged. Animals were tested
+before surgery, at 22, and 29 d following injury.
+Histology
+Antibody control experiments. Control experiments for antibody specificity
+were performed using secondary antibody alone for each staining per-
+formed. For the rabbit anti-p53 (CM5; Leica) antibody, spinal cord and
+brain sections fromp53/micewere also stained. No specific stainingwas
+seen in any condition. Full details of the primary antibodies used are re-
+ported in Table 1.
+Immunofluorescent staining. Sections of wt and p53/ spinal cords
+were blocked with 10% bovine serum albumin (BSA) in TBS for 1 h at
+room temperature and then incubated with rat anti-GFAP (Invitrogen)
+or rabbit anti-fibronectin (Sigma-Aldrich) antibodies in 2% BSA, 0.2%
+TBS–Triton at 4°C overnight. This was followed by incubation with Al-
+exa Flour 488-conjugated goat anti-rat or anti-rabbit antibodies at room
+temperature for 1 h. Counterstaining was performed with DAPI (1:
+10,000) (Invitrogen) in PBS, and sections were coverslipped.
+Immunofluorescent double staining. Spinal cord sections from wt
+and p53/ mice were blocked with 10% BSA in TBS at room tem-
+perature for 1 h and then incubated with rat anti-GFAP (Invitrogen)
+in 2% BSA, 0.2% TBS–Triton or rat anti-CD11b (AbD Serotec) in 2%
+BSA in TBS antibodies at 4°C, overnight. This was followed by incu-
+bation with rabbit anti-rat biotinylated antibody (1:200) (Vector Lab-
+oratories) in 2% BSA in TBS at room temperature for 1 h and
+protection with Alexa Fluor 488-conjugated streptavidin (1:500) (In-
+vitrogen) in 2% BSA in TBS at room temperature for 1 h. Antigen
+retrieval with 0.1 M citrate buffer, pH 6.2, at 98°C for 20 min was
+performed, followed by blocking in 10% BSA in 0.2% TBS–Triton for
+1 h at room temperature and incubation with mouse anti-Ki67 (BD
+Biosciences Pharmingen) or rabbit anti-p53 (CM5; Novacastra) an-
+tibodies in 2% BSA in 0.2% TBS–Triton at 4°C, overnight. Then the
+sections were incubated with Alexa Fluor 568-conjugated goat anti-
+mouse or anti-rabbit antibodies (1:1500) in 2% BSA in TBS for 1 h at
+room temperature. Counterstaining was performed with DAPI (1:
+10,000) (Invitrogen) in PBS, and sections were coverslipped. For p53
+immunostaining, the antigen retrieval with 0.1 M citrate buffer, pH
+6.2, was followed by proteinase K treatment at 37°C for 15 min.
+Immunofluorescent staining for CD16/32, CD206, and Iba1. Spinal cord
+sections from wt and p53/mice were blocked in 4% BSA, 0.1% TBS–
+Triton X-100 for 1 h at room temperature, and then incubated with rat
+anti-CD16/32 (BD Biosciences Pharmingen), goat anti-CD206 (R&D
+Systems), or rabbit anti-Iba1 (Wako Chemicals) in 2% BSA, 0.1% TBS–
+Triton X-100 overnight at room temperature. This was followed by se-
+quential incubation with Alexa Fluor 546-conjugated donkey anti-goat
+or anti-rat or Alexa Fluor 488-conjugated goat anti-rabbit (1:1000) (In-
+vitrogen) for 1 h at room temperature. Slides were counterstained with
+DAPI (1:10,000) for 15 min and coverslipped.
+DAB immunostaining. Spinal cord or brain sections from wt and
+p53/ mice were used. Antigen retrieval with 0.1 M citrate buffer, pH
+6.2, at 98°C for 20min, followed by proteinase K treatment at 37°C for 15
+min were performed in case of p53 staining. The peroxidase activity was
+blocked in 0.3% H2O2 in TBS for 15 min at room temperature, the
+sections were incubated in 10% BSA in TBS for 1 h at room temperature
+and then with rabbit anti-p53 (CM5; Leica) antibody in 2% BSA 0.3%
+TBS–Triton or rat anti-CD11b antibody (AbD Serotec) in 2% BSA TBS
+at 4°C overnight. This was followed by incubation in biotinylated goat
+anti-rabbit or rabbit anti-rat secondary antibodies (1:200) (Vector Lab-
+oratories) in 2% BSA TBS for 1 h at room temperature, followed by
+incubation in ABC complex for 90 min at room temperature. Staining
+was revealed with DAB. Counterstaining was performed with hematox-
+ylin/eosin. Sections were dehydrated and coverslipped.
+5-HT immunostaining.We followed a protocol for the detection of the
+serotoninergic fibers optimized byMüllner et al. (2008). In brief, follow-
+ing a second postfixation of the sections on slide (4% paraformaldehyde,
+0.1% glutaraldehyde), antigen retrieval in citrate buffer (0.1 M), pH 4.5,
+by microwave irradiation was performed. The sections were incubated
+with rabbit anti-5-HT (4% normal goat serum in 0.3% TBS-TX; Immu-
+noStar) antibody for 4 d at 4°C, followed by ABC complex and secondary
+biotinylated goat anti-rabbit antibody (1:300; 2% normal goat serum in
+0.3% TBS-TX) incubations. Then, the signal was further amplified with
+biotinylated tyramide [50 mM borate buffer, pH 8.0, 0.25% biotin (long
+arm) NHS; Vector Laboratories]. The signal was detected by incubation
+in diaminobenzidine tetrahydrochloride (DAB) (Vector Laboratories),
+and the slides were dehydrated and coverslipped.
+Reverse transcriptase qPCR. The lesion sites of the spinal cords fromwt
+and p53/ mice were collected separately and snap frozen in liquid
+nitrogen. The frozen tissues were ground with a pestle to a fine powder.
+TotalRNAwasextractedwith theHighPureRNAParaffinkit (Roche).After
+RNAquantification,1gof totalRNAforeachsamplewas retro-transcribed
+into cDNA with the SuperScript II Reverse Transcriptase system (Invitro-
+gen). The cDNAobtained from this reactionwas diluted 1:5, and 1l of the
+diluted cDNA was used as template for each qPCR. Primers for p53, p21,
+GAP-43, GADD45, Fibronectin, Collagen 12 and 41, and GAPDHwere
+used (primer sequences are reported in Table 2). qPCRs were run in tripli-
+cates using SYBRGreen probe (Thermo Fisher Scientific) and anABI Prism
+7500system(AppliedBiosystems).Meltingcurveanalysiswasperformed for
+each reaction to ensure single amplified products. Expression of the genes of
+interest following the injurywas calculatedwith theCts analysis, normal-
+izing to GAPDH and to the expression of the genes of interest in laminec-
+tomy control operation for each gene.
+Western blotting. The lesion sites of the spinal cords from wt and
+p53/ mice were collected separately in RIPA buffer supplemented
+with protease inhibitorsmixture (Roche) and sonicated. Protein concen-
+tration was then determined by BCA assay kit (Pierce). Protein extracts
+were subjected to SDS-PAGE and blotted onto nitrocellulose membrane
+(Invitrogen). Membranes were blocked with 8% skimmed milk or 5%
+13958 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury
+BSA in 0.1% TBS-T, accordingly to the first antibody used. Incubation
+with rabbit anti-GFAP (Millipore) in 5% skimmed milk TBS, rabbit
+anti-caspase-3 (Santa Cruz) in 2% BSA, 0.1% TBS-T, mouse anti-
+proliferating cell nuclear antigen (PCNA) (Merck) in 3% BSA in 0.1%
+TBS-T, mouse anti-GAPDH (Millipore) in 3% skimmed milk TBS anti-
+bodies was performed at 4°C overnight. This was followed by incubation
+with HRP-conjugated anti-rabbit or anti-mouse antibodies (Thermo Fisher
+Scientific) at room temperature for 1 h. Protein bands were visualized on film
+(GE Healthcare) using ECL-detecting reagents (Pierce). Full details of the pri-
+mary antibodies used are reported inTable 1.
+Anatomical analysis
+All anatomical analyses were performed in a
+blinded fashion.
+Quantification of the lesion core and reactive
+astrocytic areas. The area of the digitally ac-
+quired images was determined with the mea-
+sure outline option of the AxioVision software
+(Zeiss). Three to five sagittal sections for each
+spinal cord for each animal were analyzed. Sec-
+tions were serially chosen (1:12) in the medial
+part of the spinal cord, where the lesion tends
+to be more consistent. The lesion core and the
+reactive astrocytes area were identified as
+fibronectin-, GFAP-immunopositive areas, re-
+spectively. GFAP-negative tissue was defined as
+tissue that shows absent or little GFAP immuno-
+reactivity with only sparse GFAP-positive cells or
+processes (Camand et al., 2004; Park et al., 2005).
+Stereological analysis of activated microglia/
+macrophages. Ten to 11 sagittal sections for
+each spinal cord for each animalwere analyzed.
+Sections were serially chosen (1:8), and the Ste-
+reoInvestigator 7 (MBF Bioscience) software
+was used to stereologically estimate the num-
+ber of CD11b cells with the optical fractiona-
+tor probe. Cells were counted within the lesion
+site in anunbiased fashionby ablinded investiga-
+tor. Inclusion criteria to determine activated
+macrophage/microglia cells were the CD11b im-
+munoreactivity and the round shape.
+Quantification of proliferating astrocytes and
+microglia/macrophages. Five to six sagittal sec-
+tions for each spinal cord for each animal were
+analyzed. Sections were serially chosen (1:8) as
+representative of the most ventral part of the
+lesion for consistency reasons. Photomicro-
+graphs in z-stack were acquired with the Axio-
+Vision software (Zeiss) through the Imager.Z1
+microscope equipped with Apotome (Zeiss).
+GFAP or CD11b positive and double positive
+for Ki67 cells were counted within the reactive
+astrocytic area at the lesion site.
+Analysis ofM1/M2macrophagepopulations.To
+determine the percentage of Iba1macrophages
+thatwere expressingCD16/32orCD206, fluores-
+cent images were collected at 20 on a Zeiss Ax-
+ioScope2 equipped with Apotome. Two images
+were collected per section (from five to six sec-
+tions per animal) from regions just rostral and
+caudal to the injury center. Total target areas of
+Iba1, CD206, and CD16/32 staining were quan-
+tified for each image using theMCIDElite image
+analysis software (InterFocus Imaging). Target
+area for CD206 and CD16/32 was normalized to
+Iba1 target area for each image to calculate the
+proportion of double-labeled cells.
+Densitometry analysis of 5-HT immunoreactiv-
+ity. Bright-field pictures were taken from four to
+six random sections for each distance (2mmros-
+tral, 1, 3, and5mmcaudal to the injury site) from
+each spinal cord for each animal at constant illumination intensity (Faden et
+al., 1988;Saruhashi et al., 1996;Oatwayetal., 2005).For laminaeVII–IX, care
+was taken to exclude any fibers from the intermediolateral nucleus (IML) to
+avoid redundant quantification. The digitalized images were converted in
+grayscale format (8 bit), and the densitometry analysis was performed with
+the software ImageJ (NIH). The area measured was held constant and the
+background level was determined from an area of the ventral funiculus that
+did not exhibit immunoreactivity. This background level was used to set the
+threshold between labeled and background pixels.
+Figure 1. p53 is required for the recovery ofmotor function following spinal cord injury.A, Representativemicrophotograph of
+hematoxylin/eosin staining showing the morphology of the lesion, which reaches beyond the central canal after a T10 bilateral
+dorsal hemisection. Shown is a coronal spinal cord section at 28 d postoperation (dpo). Scale bar, 500m. B, C, In the open field,
+p53/mice show an impairedmotor function, especially in parameters such as coordination, paw position, and trunk stability,
+as shown by the BMS subscore (C). Repeated-measurements ANOVA, p 0.01. D, In the grid walk, p53/ mice perform a
+greater number ofmissteps comparedwithwtmice following spinal cord injury at all timepoints tested. Repeated-measurements
+ANOVA, p 0.01. E, F, In the automated CatWalk gait analysis, p53/micewalk slower (E) and perform shorter steps (F ) at all
+time points tested. Repeated-measurements ANOVA, p 0.01 (E), and p 0.05 (F ). G, In the Hargraeves’ heat plantar test, the
+time ofwithdrawal from the heating sourcewas comparable betweengenotypes. No differences betweengenotypes before injury
+were observed. Before surgery, 10 animals for each genotype were tested in each task. Following the injury, 10 animals for each
+genotypewere tested in the open field andwhen the animals show frequent or consistent plantar stepping (BMS score 5)were
+tested in the other tasks (n 6–10 for each genotype). During test, scoring was performed by two investigators blinded to the
+genotype. All measures are averages SEM.
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13959
+Quantification of CST dieback, sprouting, and end bulbs. For each animal,
+four to six consecutive sagittal sections from the most ventral part of the
+spinal cord using the central canal as landmark were chosen and analyzed
+with the software AxioVision (Zeiss) tomeasure the CST dieback or Stereo-
+Investigator 7 (MBF Bioscience) to count axons, sprouts, and end bulbs.
+Dieback of the dorsomedial CST was measured as the distance be-
+tween the axon bundle and the border of the lesion site identified by
+GFAP immunoreactivity (Shen et al., 2009). The quantification of the
+sprouting and end-bulb indexes of the dorsomedial CST was performed
+proximal to the lesion site at rostral and caudal level. For each section, the
+BDA-labeled sprouts, end bulbs, and axons were counted live. The sum
+of the total number of labeled sprouts or bulbs was normalized to the
+total number of labeled axons above the lesion site counted in all the
+analyzed sections for each animal, obtaining an interanimal comparable
+ratio considering the individual tracing variability (Schnell and Schwab,
+1993; Simonen et al., 2003). Sprouts and regrowing fibers were defined
+following the anatomical criteria reported by Steward et al. (2003).
+Briefly, we considered as a sprout or a regrowing axon fibers that origi-
+nate at or near an amputation site, take unusual paths through the tissue
+environment, are tipped with growth cones, or present unusual mor-
+phology (e.g., unusual branching pattern).
+Primary microglia cultures
+Purified microglia was prepared from neonatal P1–P3 wt and p53/
+mice as described previously (Saura et al., 2003). Briefly, cortices were
+dissected out, the meninges were carefully removed, and the tissue was
+mincedwithmicroscissors. After incubationwith 0.125% trypsin EDTA/
+HBSS for 10–15 min at 37°C, a single-cell suspension was obtained by
+trituration through a fire-polished glass pipette. The suspension was fil-
+tered through a 40 m filter to remove debris. After a subsequent wash,
+cells were plated in 25 cm2 tissue culture flasks at 62,500 cells per cm2.
+Cultures were incubated in standard cell culture conditions until conflu-
+ency. At this stage, flasks were maintained for an additional 2 weeks.
+Cultures maintained for 20–25 DIV were incubated with 0.25% tryp-
+sin in DMEM/F-12 (1:4) until the top layer of cells has detached. The
+remaining microglia were detached with undiluted trypsin and vigorous
+pipetting. These cells were used for all subsequent assays and were typi-
+cally95% microglia as assessed by CD11b staining.
+Proliferation assay
+In vitro cell proliferation was assessed in microglia cultures by using a
+fluorometric BrdU cell proliferation assay (Calbiochem). The assay was
+performed per the manufacturer’s protocol. Briefly, freshly purified cells
+were plated at 8000 cells/well in a 96-well plate. BrdU was added to the
+cell culturemedium (10%FBS/DMEM) for a period of 48 h, at the end of
+which the plate was processed to read in a fluorescence plate reader.
+Proliferation assay with adenovirus infection
+For these experiments, freshly isolated cells were plated at 5000 cells per
+well in 96-well plates and incubated in standard cell culture conditions
+for 24 h. Cells were then infected with Adeno-GFP virus or Adeno-p53
+virus at 100 MOI. A no-virus control was also included. After an addi-
+tional 24 h, BrdU was added to the cell culture medium for 24 h, and the
+plate was processed at the end of this 24 h period.
+Cell survival
+In vitro cell death was assessed using the Annexin V-FITC apoptosis
+detection kit (Calbiochem) per the manufacturer’s protocol. Briefly,
+Figure 2. p53/mice display reduced spinal 5-HT sprouting following spinal cord injury.A, Scheme of a spinal cord coronal section. Inwhite and gray, thewhite and graymatter, respectively,
+with the central canal in themiddle of the graymatter. The red square highlights the analyzed region of interest.B–D, Representative pictures (B) and quantification (C,D) of 5-HT immunopositive
+fibers in laminae VII and IX and IML inwt and p53/mice following spinal cord injury. Pixel intensity quantification of density and distribution of 5-HT fibers show reduced sprouting in p53/
+comparedwith wtmice below, but not above the injury site (C,D) (n 6wt and 7 p53/mice). InB, cc, Central canal; 7 and 9, laminae 7 and 9; IML, intromediolateral cell column. Scale bar:B,
+Lower magnification, 50m; higher magnification, 20m. All tissues were collected at 28 dpo. All measures are averages SEM. Student’s t test, *p 0.05, **p 0.01.
+13960 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury
+freshly purified microglia was plated at 150,000 cells per well in a 24-well
+plate. Cells were incubated under standard cell culture conditions for
+48 h similar to the proliferation assay. At the end of this time period, the
+apoptosis assaywas performed.Wellmedia containing floating dead cells
+were removed and kept. Cells were detached after an incubation with
+0.25% trypsin and the suspension added to the media from before. The
+staining protocol allows identification of Annexin V (early apoptotic)
+and AxV/PI double-positive cells (late apoptotic and necrotic cells) by
+FACS analysis.
+Immunocytochemistry
+For immunocytochemistry, cells were plated in 96-well plates or 12 mm
+coverslips in 24-well platesmaintained in standard culture conditions for
+24 h. Cell were fixedwith 4%PFA and permeabilizedwith 0.1%TritonX.
+After several PBS washes, cells were incubated with primary antibody for
+30 min at room temperature or in some cases
+90 min at 4°C. After subsequent PBS washes,
+cells were incubated with secondary antibody
+for 30 min at room temperature. Cells were
+washed and stained with DAPI to visualize nu-
+clei, and coverslips were mounted. The follow-
+ing antibodies were used: rat anti-CD11b
+(Serotec), rabbit anti-p53 (Novocastra), and
+rabbit anti-cleaved caspase (Cell Signaling).
+Primary cortical neurons and transfections
+Briefly, cortices from 17- to 18-d-old embryos
+were cleaned from their meninges and blood
+vessels in Krebs’–Ringer’s bicarbonate buffer
+containing 0.3% BSA. Cortices were minced
+and dissociated in the same buffer with 1800
+U/ml trypsin at 37°C for 20 min. Following the
+addition of 200 U/ml DNase I and 3600 U/ml
+soybean trypsin inhibitor to the suspension,
+cells were triturated through a 5 ml pipette.
+After the tissue was allowed to settle for 5–10
+min, the supernatant was collected, and the re-
+maining tissue pellet was retitrated. The com-
+bined supernatants were centrifuged through a
+4% BSA layer, and the cell pellet was resus-
+pended in NSM (neuronal seeding medium),
+which consisted of B27–Neurobasal medium
+(Invitrogen) supplemented with 1.1% 100
+antibiotic–antimycotic solution, 25 M Na-
+glutamate, 0.5 mM L-glutamine, and 2% B27
+supplement (Invitrogen). Cells were seeded
+at a density of 5  10 5 cells/ml onto poly-D-
+lysine-coated (70–150 kDa) 96-well plates
+(Corning) or 60mmPetri dishes (Falcon; BD
+Biosciences Discovery Labware). Arabino-
+furanosyl cytidine (Ara-C) was added 24 h
+after plating (5 M). Briefly, transfections
+with CMV GFP or CMV p53-GFP plasmid
+DNA were performed using Lipofectamine
+2000 (Invitrogen) 24 h after plating follow-
+ing standard procedures. Cells were fixed
+72 h following transfection.
+Neurite outgrowth
+Neurite outgrowth in cortical neurons was eval-
+uatedby calculating the lengthof the longest pro-
+cess per cell. Measurements were taken from
+three individual experimentsby twodifferentop-
+erators. For each experimental condition, at least
+30–40 cells were counted. Cells were viewed us-
+ing a CCD camera and analyzed with the image
+analysis software AxioVision 3.1 (Zeiss). Trans-
+fected neurons and neurites were identified by
+double labeling for GFP and 3-tubulin.
+Statistical analysis
+Statistical analysis was performed using PASW
+Statistics 18 software. Student’s t test with or without Bonferroni’s cor-
+rection or repeated-measurement ANOVA was used as indicated.
+Results
+p53/mice show impaired recovery of motor functions
+following spinal cord injury
+To investigate whether the transcription factor p53 plays a rele-
+vant role in the pathophysiological response following SCI, we
+first evaluated the effect of the absence of p53 on the recovery of
+motor functions following SCI in mice. wt and p53/ mice
+underwent a T10 spinal cord bilateral dorsal hemisection (Fig.
+1A) and their functional recovery was evaluated for 4 weeks with
+a set of motor and sensory behavioral tasks, including the open
+Figure 3. p53/ mice show impaired CST sprouting and enhanced dieback following spinal cord injury. Representative
+photomicrographs (A,B) and quantification (C–E) of BDAmini-ruby-labeled CST in proximity of the lesion site of wt and p53/
+mice following spinal cord injury.A, ImpairedCST sprouting in coronal sections 5mmrostral to the lesion site inp53/ compared
+withwtmice is shown. Highermagnification images show CST labeling and sprouting in wtmice (a, b), which is strongly reduced
+in p53/ (c). B, Photomicrographs of spinal cord parasagittal sections show CST collateral sprouting and retraction bulbs in the
+vicinity of the lesion in wt and p53/ mice. Collateral sprouting is impaired while retraction bulbs are enhanced in p53/
+mice.High-magnification images showaxonal sprouts inwt (a, arrows) and retractionbulbs (b, short arrows; c). GFAP stainingwas
+used to determine the lesion border. Thewhite dashed lines inB show the lesion border. Quantification of selected CST parameters
+displays a more pronounced dieback of p53/ CST from the lesion site compared with wt mice (C); a decreased collateral
+sprouting (D); and increased number of collapsing axons (E) before the lesion site. All measurements were performed in tissues
+collected 28 d following spinal cord lesion.n 6wt and 7p53/ animals. Scale bar:A,B, Lowermagnification, 500m;higher
+magnification, 40m. InB, D, Dorsal; V, ventral; R, rostral; C, caudal. For CST sprouting and bulbs indexes, valueswere normalized
+to the total number of BDA mini-ruby-labeled axons and expressed as averages SEM. Student’s t test, *p 0.05.
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13961
+field, scored with the BMS (Basso et al., 2006), the grid walk, the
+automated CatWalk, and the Hargraeves’ plantar heat test. Al-
+though p53/ mice were indistinguishable from wt during the
+training period and the preinjury test sessions, they showed a
+significant impairment in the recovery of motor functions fol-
+lowing spinal cord injury (Fig. 1B–F).
+Specifically, in the open-field task, p53/ mice scored signifi-
+cantly worse than wt at 21 and 28 d following SCI. The impairment
+was mainly due to the frequency of plantar stepping, the grade of
+coordination, the paw position during stance, and the degree of
+trunk instability (Fig. 1B,C). In the grid walk, p53/mice placed
+the hindpaws less accurately than wt when crossing the grid, result-
+ing in statistically significantlymoremistakes at all timepoints tested
+afterSCI (Fig. 1D). Furthermore, takingadvantageof theautomated
+CatWalk, we also analyzed parameters that allowed us to evaluate
+finer locomotor functions. In particular, the average speed of the
+walkway crossing aswell as the average stride length of the hindpaws
+were significantly reduced in p53/ compared with wt mice fol-
+lowing SCI (Fig. 1E,F). Finally, to determine whether p53 was in-
+volved in the postinjury adaptation of the sensory response, we used
+theHargraeves’ heat plantar test.We did not observe a difference in
+the hindpaw withdrawal time between the two genotypes and be-
+tween preoperation or postoperation at the tested time points (Fig.
+1G), suggesting that p53 does not play amajor role in the rearrange-
+ment of the sensory fibers following SCI. The absence of a difference
+in wtmice between preoperative and postoperative time points is in
+accordance with the observation of Hill et al. (2009) for the dorsal
+spinal cord hemisection.
+p53/mice show increased CST dieback and reduced CST
+and 5-HT sprouting following spinal cord injury
+The degree of functional recovery following SCI depends on the
+reorganization and the formation of new circuits due to synaptic
+plasticity and collateral sprouting of lesioned and unlesioned de-
+scending tracts (Raineteau and Schwab, 2001; Cafferty et al.,
+2008).
+Since the absence of p53 leads to a significant impairment in
+functional recovery following SCI, we investigated the role of p53
+Figure 4. p53 is transcriptionally active and p53/ mice display larger lesion core and reactive astrocyte area following spinal cord injury. A, GADD45, p21, and GAP-43 mRNA levels are
+increased at the lesion site following spinal cord injury in wt compared with p53/mice. B, Scheme of a spinal cord sagittal section. The yellow and blue forms represent the lesion core and the
+reactive astrocyte-positive areas, respectively. C, Representative pictures of fibronectin-immunopositive lesion core of wt and p53/ mice following spinal cord injury (dashed lines mark
+fibronectin-positive lesion site within the cord). E, Quantification of fibronectin-immunopositive area shows a larger scar in p53/ compared with wt mice following spinal cord injury. D,
+Representative pictures of GFAP immunostaining show the reactive astrocytic area around the lesion core in p53/ and wt mice (dashed lines mark reactive astrocyte-positive area). F–H,
+Quantification of GFAP-immunopositive area (F ) andprotein expression by immunoblotting analysis (G,H ) showgreater activation of astrocytes andGFAP expression, respectively, at the lesion site
+in p53/ compared with wt mice following spinal cord injury, but not laminectomy. I, Fibronectin, collagen 12, and collagen 41mRNA levels are increased at the lesion site following spinal
+cord injury in wt compared with p53/mice. Histological analysis was performed on five animals for each genotype. Western blot analysis was performed on pools of three animals for each
+genotype for each condition in triplicate. GAPDHprotein expression levelswere used for normalization in pixel intensity analysis. Both analyseswere performed on tissues collected 28 d after injury.
+RT-qPCR fold change values are fromsixmice (lesion sites) for each condition andnormalized toGAPDHand laminectomy control for eachgenotypebefore comparisonbetweengenotypes following
+the injury. Tissues were collected at 3 dpo. All values are averages SEM. Student’s t test, *p 0.05, ***p 0.001. In B, D, Dorsal; V, ventral; R, rostral; C, caudal. Scale bar: C, D, 500m.
+13962 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury
+on axonal sprouting of the functionally relevant serotoninergic
+(5-HT) fibers and the CST (Faden et al., 1988; Bregman et al.,
+1995; Saruhashi et al., 1996; Maier et al., 2009). Indeed, by 5-HT
+immunostaining, we observed a significant reduction in sprout-
+ing of the 5-HTaxons in the laminaeVII and IXof the graymatter
+and in the IML at 1, 3, and 5mm below, but not 2 mm above, the
+injury site in p53/ compared with wt mice (Fig. 2A–D). The
+layer V neurons were labeled by BDA tracer injection in the SMC,
+and, at the spinal cord level, the CST sprouting and retraction
+bulb indexes were calculated normalizing the total number of
+sprouts or retraction bulbs to the total number of labeled axons,
+since the total number of BDA-labeled axons varies from animal
+to animal (Schnell and Schwab, 1993; Simonen et al., 2003). We
+first found that p53/mice displayed reduced CST sprouting 5
+mm above the injury site, suggesting impaired axonal plasticity
+compared with wt (Fig. 3A). Then, we observed a more pro-
+nounced dieback of the CST, decreased sprouting, and an in-
+creased number of retraction bulbs just rostral to the lesion site in
+p53/mice (Fig. 3B–E).
+Collectively, these data support a role for p53 in the regulation of
+5-HT and CST sprouting following SCI and partially explain the
+impairment in the recovery of motor function following SCI in ab-
+sence of p53. However, they do not exclude that p53 may influence
+the inhibitory extrinsic response to the injury, which affects growth
+cone collapse and retraction of the damaged axons and therefore the
+degree of axonal dieback and sprouting (Yiu andHe, 2006).
+p53/mice display increased number of activated
+microglia/macrophages and enhanced scar formation
+following spinal cord injury
+Given the role of p53 in the cell cycle arrest checkpoint in dividing
+cells and in apoptosis in cells under several stressors (Pietenpol
+and Stewart, 2002; Oren, 2003), we hypothesized that p53 would
+also affect the formation of the glial scar. The glial scar is in fact
+highly dependent upon the proliferation of reactive astrocytes
+and microglia/blood-derived macrophages as well as on the de-
+gree of cell death at the lesion site (Tian et al., 2006, 2007; Wu et
+al., 2011).
+In accordance with previous data (Saito et al., 2000), high
+nuclear expression of p53 in the spinal cord is induced following
+injury in a time-dependent manner, with a peak between 2 and
+3 d after injury, in several glial cells such as astrocytes and acti-
+vated microglia/macrophages (data not shown). More impor-
+tantly, we ascertained by RT-qPCR that p53was transcriptionally
+active, as shown by an enhanced expression of p53 target genes
+p21 (cell cycle arrest gene), GADD-45 (DNA damage sensor),
+and GAP-43 (axonal outgrowth and regeneration gene) in wt
+versus p53/ cords after SCI (Fig. 4A).
+To investigate the role of p53 on the scar formation, we per-
+formed immunohistochemistry (IHC) for fibronectin and GFAP
+on spinal cord sections from p53/ versus wtmice, 28 d follow-
+ing SCI. We observed an enlarged deposition of fibronectin re-
+sulting in a bigger lesion core area and a larger area of reactive
+astrocytes surrounding the lesion borders in p53/ compared
+with wt spinal cords (Fig. 4B–F). Furthermore, immunoblot
+analysis of the lesion site showed an increased expression of
+GFAP in absence of p53 comparedwith wt following SCI, but not
+in laminectomy control conditions (Fig. 4G,H).
+As observed by RT-qPCR analysis of spinal cord lesion site,
+the absence of p53 resulted in an increased gene expression of
+several scar-related genes, including fibronectin, collagen 12
+and collagen 41 (Fig. 4 I), but not of others such as TGF1,
+tenascin-c, or neurocan 3 d following SCI (data not shown). Fur-
+thermore, immunoblot analysis of the protein expression levels
+of the abundant chondroitinase sulfate proteoglycan (CSPG) ag-
+grecan was not significantly different between the two genotypes
+at 3 and 28 d after SCI (data not shown). These data suggest an
+involvement of p53 in regulation of the expression of fibrotic
+scar-associated extracellular matrix components but not of pro-
+teoglycans (Moore and Goldberg, 2011).
+Given that glial scar formation is in part dependent upon the
+postinjury inflammatory response, including the contribution of
+rapidly dividing activatedmicroglia andmacrophages, and the rele-
+vance of this response in the recovery ofmotor functions (Popovich
+et al., 1999; Jones et al., 2005; Loane and Byrnes, 2010), we assessed
+Figure 5. The absence of p53 results in an increased number of activated microglia/macro-
+phages and does not change the ratio of M1/M2 populations at the lesion site following spinal
+cord injury.A, Scheme of a spinal cord sagittal section. The green area represents the lesion site
+and the area of interest analyzed.B, Representative pictures of CD11b-immunopositive cells at
+the lesion site ofwt andp53/mice following spinal cord injury. The dashed line delimits the
+lesion core border.a andb are highermagnifications of the boxed areas inB ofwt and p53/
+cords, respectively.C, Stereological estimation of thenumber of CD11b-immunopositive cells at
+the lesion site shows a bigger population in p53/ compared with wt mice following spinal
+cord injury, but not in laminectomy control condition.D, Thebar graph shows thequantification
+of the expression of the antigens CD16/32 (M1) and CD206 (M2) relative to the expression of
+Iba1 inwt andp53/mice at the lesion site following SCI. InA, D, Dorsal; V, ventral; R, rostral;
+C, caudal. Scale bars: B, Low-magnification pictures, 50m; high-magnification pictures, 20
+m. All tissues were collected 28 dpo. All values are averages SEM, and the analysis was
+performedon three animals for eachgenotype for each condition in ablinded fashion. Student’s
+t test with Bonferroni’s correction, *p 0.05, ***p 0.001.
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13963
+the potential influence of p53 on the num-
+ber of activatedmicroglia andmacrophages
+following SCI. To this end, we performed
+anti-CD11b IHC on spinal cord sections of
+p53/ and wt mice, 28 d following SCI,
+and we stereologically counted the number
+of activated microglia/macrophages. Im-
+portantly, we found a significant increase in
+the number of these cells at the lesion site in
+p53/ versus wt spinal cords (Fig. 5A–C),
+suggesting the presence of amore aggressive
+postinjury inflammatory response.Notably,
+we did not observe any difference in the
+number of CD11b cells between geno-
+types following laminectomy control sur-
+gery (Fig. 5C). As the polarization of
+microglia/macrophages toward an M1 or
+M2 phenotype can influence their proin-
+flammatory properties (Kigerl et al., 2009),
+we investigated whether p53 may regulate
+the commitment toward M1 versus M2
+phenotype of microglia/macrophages fol-
+lowing SCI. To this end, we quantified the
+percentage of the CD16/32- and CD206-
+positive cells at the lesion site 28 d following
+SCI. We did not observe any difference be-
+tween p53/ and wt mice, ruling out a
+possible role of p53 in regulating the polar-
+ization ofmicroglia/macrophages following
+SCI (Fig. 5D).
+p53 regulates glial proliferation at the
+lesion site following spinal cord injury
+Furthermore, we investigated the poten-
+tial role of p53 in the regulation of the
+proliferation of astrocytes and microglia/
+macrophages in vivo. We performed im-
+munoblotting for the cell proliferation
+marker PCNA and double immunofluo-
+rescent staining for GFAP/Ki67 and
+CD11b/Ki67 at 3 d following SCI on wt
+and p53/ spinal cords, a time point at
+which nuclear p53 is highly expressed
+(Saito et al., 2000). We observed an in-
+creased protein expression of PCNAat the
+lesion site in p53/ compared with wt
+mice following SCI, but not following
+laminectomy (Fig. 6A,B), and an in-
+creased number of CD11b/Ki67, but not
+GFAP/Ki67 double-positive cells in
+p53/ comparedwithwt spinal cords af-
+ter SCI (Fig. 6E–J). Importantly, PCNA
+expression was not detectable by Western
+blotting (WB) analysis at 28 d after injury,
+when the number of double-positive GFAP/Ki67 and CD11b/
+Ki67 cells was also dramatically reduced in a comparable fashion
+in both genotypes (data not shown), supporting the concept that
+p53 is transiently activated in proliferating cells in the injured
+spinal cord.
+In addition, to assess a role for p53 in the regulation of cell
+death at the lesion site following SCI, we performed immuno-
+blotting analysis for procaspase-3 and cleaved caspase-3 on pro-
+tein extracts form the lesion site fromp53/ andwt spinal cords
+at 1 and 3 d following SCI, a time window of high expression of
+cleaved caspase-3 (Knoblach et al., 2005).We did not observe any
+difference in caspase-3 protein expression levels between the two
+genotypes at 1 d (Fig. 6C,D), while we did not detect cleaved
+caspase-3 at 3 d after injury (data not shown), supporting a spe-
+cific role for p53 in the regulation of cell proliferation rather than
+apoptosis in this spinal cord injury model.
+So far, we have shown that p53 plays an important role in
+regulating axonal sprouting and glial proliferation as well as in
+Figure6. p53 regulatesproliferationofmicroglia/macrophagesbutnot of astrocytesnor apoptosis at the lesion site in theacute
+phase following spinal cord injury. A, B, Following spinal cord injury, PCNA protein expression is enhanced in p53/ mice
+comparedwithwt as shownby immunoblotting (A) and its quantification (B). Following laminectomy, PCNAprotein expression is
+comparable between genotypes (A, B). C, D, Immunoblotting (C) and its quantification (D) show that procaspase-3 and cleaved
+caspase-3 protein expression is comparable between genotypes following spinal cord injury. E–J, Double immunofluorescence for
+GFAP/Ki67 and CD11b/Ki67 in p53/ and wt spinal cords at 3 d postinjury. GFAP (E, G) and CD11b (F, H ) cells
+show coexpression of the proliferationmarker Ki67. CD11b/Ki67 (J ) but not GFAP/Ki67 (I ) cells aremore numerous in
+p53/ compared with wt mice. n 3–4 for each genotype and condition. Tissues for analysis of proliferation and apoptosis
+were collected 3 and 1 d following surgery, respectively. Cell counting was performed in blinded fashion. Values are averages
+SEM, and relative pixel intensity and percentage values were normalized to GAPDH or the total number of counted GFAP or
+CD11b, respectively. Student’s t test (with Bonferroni’s correction in B): *p 0.05, **p 0.01. Scale bar: E–H, 20m.
+13964 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury
+scar formation following SCI. However, it is not clear yet whether
+p53 is able to directly control axonal sprouting following spinal
+cord injury or whether impairment in sprouting and enhanced
+axonal dieback are only due to the increased glial scar.
+p53 regulates microglial proliferation but not apoptosis
+To clarify the cellular mechanisms through which p53 may reg-
+ulate the number of microglia/macrophages after SCI, we de-
+cided to investigate the role of p53 in the regulation of their
+proliferation and survival. To this end, we cultured primary mi-
+croglia from wt and p53/mice and performed BrdU incorpo-
+ration experiments. We observed an increase in proliferation of
+p53/ cells that could be significantly reduced by viral expres-
+sion of Adeno-p53 in p53/ cells (Fig.
+7A,B), showing a relevant p53-dependent
+effect on the proliferation of microglia.
+Furthermore, FACS analysis of apoptotic
+Annexin V-positive microglial cells ex-
+cluded a role for p53 in apoptosis of cul-
+tured microglia (Fig. 7C). Similarly, viral
+expression of p53 in p53/ cells did not
+affect apoptosis of those cells (Fig. 7D),
+but only decreased their proliferation
+(Fig. 7A,B). In immunocytochemistry ex-
+periments, we also assessed that p53 was
+expressed in cultured microglia in basal
+conditions and that the expression was
+strongly enhanced by p53 adenoviral in-
+fection (data not shown).
+Importantly, to evaluate p53 tran-
+scriptional activity in cultured micro-
+glia, we measured the expression of p21,
+a readout of p53 transcription and a cell
+cycle arrest gene (el-Deiry et al., 1993).
+We found a significant reduction of p21
+expression in p53/ microglia, which
+was significantly rescued by expression
+of p53, paralleling the observed arrest in
+cell proliferation (Fig. 7E).
+Viral expression of p53 in layer V
+neurons enhances CST sprouting
+following spinal cord injury
+To assess whether the more pronounced
+impairment in axonal sprouting of su-
+praspinal descending fibers following SCI
+observed in p53/mice was at least par-
+tially due to a direct role of p53 in the
+outgrowth of CST axons, we reintroduced
+p53 in the SMC of p53/ mice. A dual
+CMV promoter adenovirus driving p53
+and GFP or a control GFP adenovirus
+were stereotaxically injected in the SMC
+of p53/mice at the time of a T10 spinal
+cord bilateral dorsal hemisection (Fig.
+8A). CST axons were traced with BDA,
+and the CST sprouting was evaluated at
+28 d following SCI. p53 viral expression,
+as detected by the reporter gene GFP, was
+visible as early as at 72 h in the layer V
+neurons (Fig. 8B) and lasted until 28 d
+after injury (Fig. 8C).
+The reintroduction of p53 in the SMC
+of p53/mice resulted in a significant increased CST sprouting
+5mm above the lesion site, suggesting enhanced axonal plasticity
+(Fig. 8D). Importantly, p53 overexpression increased the num-
+ber of axonal collateral sprouts rostral to the lesion site (Fig. 8E),
+also resulting in an intricate net of sprouts, mostly in the white
+matter (Fig. 8D). The observed sprouts rostral to the lesion often
+showed a growth cone at the end and a tortuous course, accord-
+ing to some of the criteria to identify regrowing axons (Steward et
+al., 2003). However, in this rescue experiment on a p53/ back-
+ground, we did not observe a statistically significant difference in
+the number of axonal sprouts below the injury site compared
+with p53/mice injected with the control GFP adenovirus (Fig.
+8F). The inability of these mice to significantly regrow the CST
+Figure 7. p53 controls microglia proliferation but not apoptosis in vitro. A, Representative micrographs of CD11bmicroglia
+show increasedproliferationof p53/ cells in basal culture conditions. Reconstitutionof p53expression inp53/microglia by
+AV-p53GFP inhibits the increase in proliferation. Scale bar, 100m. B, BrdU incorporation is significantly increased in p53/
+microglia comparedwithwt, andAV-p53GFP significantly inhibits this increase comparedwithAV-GFP.C, Bar graphof percentage
+of Annexin V-positive microglia in cultures does not show significantly different apoptosis in wt compared with p53/ cells, as
+determined by FACS analysis. D, Overexpression of p53 via AV-p53GFP in p53/microglia does not induce significant levels of
+apoptosis compared with AV-GFP-infected cells. Graphs showing number of cells with condensed nuclei and positive for cleaved
+caspase-3.n3–4 for eachgenotypeandeach condition. Allmeasures aremeanvaluesSEM.E, qRT-PCRanalysis of p53 target
+gene p21 shows a significantly downregulation of mRNA expression of this gene in cultured p53/microglia. AV-p53 infection
+increases p21mRNA level to that of wt controls. Mean fold change above wt controls SEM; n 3. Student’s t test, *p 0.05.
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13965
+below the lesion site could be due to the
+highly inhibiting environment that devel-
+ops in the absence of p53. Importantly,
+this experiment suggests that p53 is re-
+quired to directly modulate CST axonal
+sprouting in vivo following SCI.
+Finally, to further ascertain whether res-
+cue of p53 expression on a p53/ back-
+ground leads to recovery of neurite
+outgrowth through the modulation of a
+neuronal intrinsic mechanism, we per-
+formed p53 rescue experiments in cultured
+primary cortical neurons. Embryonic corti-
+calneurons (E18) fromwtandp53/mice
+were transfected with GFP (wt), p53-GFP,
+or GFP (p53/), and neurite length was
+analyzed 72 h after transfection. Measure-
+ment of neurite outgrowth in transfected
+GFP-positive cells showed thatp53/neu-
+rons had an impairment in neurite length
+(length of longest neurite) that could be
+fully rescued by overexpression of p53-GFP
+(Fig. 9A,B).
+Overall, our data support a model in
+which p53 plays a dual role in the regula-
+tion of both the neuronal intrinsic and
+glial extrinsic responses following SCI.
+Discussion
+Poor functional recovery following SCI is
+due to both the development of an inhib-
+itory glial environment that limits axonal
+Figure 8. CST sprouting can be rescued in p53/mice by viral expression of p53 in the SMC following spinal cord injury. A,
+Scheme of stereotaxic delivery of BDA and viral construct in the mouse SMC. B, Representative immunofluorescence micrograph
+shows expression of p53-GFP in the SMC 72 h after stereotaxic viral injection (white arrowhead, injection site). C, Immunoperox-
+idase staining shows p53 expression in the SMC of p53/ mice 28 d after stereotaxic p53 viral delivery. The arrows show
+4
+p53-immunopositive layer V neurons. Counterstaining, Eosin.
+D, Coronal sections 5mmrostral to the lesion site showingBDA
+mini-ruby-labeled CST in p53/mice following spinal cord
+lesion. p53/mice were stereotaxically injected in the SMC
+with AV-p53 or a AV-GFP control virus. Shown is an increased
+CST sprouting in p53/ mice injected with AV-p53 com-
+pared with AV-GFP. E, Photomicrographs of spinal cord para-
+sagittal sections in p53/ mice injected with AV-GFP or
+AV-p53 following spinal cord injury. Representativepictures of
+BDA-labeled CST in proximity of the lesion site showenhanced
+CST collateral sprouting inp53/mice injectedwithAV-p53
+compared with AV-GFP. Lesion borders were identified by
+GFAP staining. a–g, High magnifications showing collateral
+sprouting of boxed areas of the CST of a p53/ mouse in-
+jected with AV-GFP or AV-p53. Of note, in c is displayed a very
+dense net of collateral sprouts running above the main CST
+bundle. The arrows indicate collateral sprouts. The dashed
+white lines mark the lesion borders. Scale bars: D, E, Lower
+magnification, 500m;highermagnification, 30m. In E, D,
+Dorsal; V, ventral; R, rostral; C, caudal. F, G, Quantification of
+sprouting index shows an increased collateral sprouting (F)
+above the lesion site, while the sprouting index 1 mm below
+the injury site (G) does not statistically significantly change in
+AV-p53 versus AV-GFP-injected p53/ mice. All measure-
+ments were performed from tissues collected 28 d following
+spinal cord lesion and viral injection in the SMC. CST sprouting
+was evaluated on sevenAV-GFP andAV-p53-injected animals,
+respectively. All measurements were normalized to the total
+number of BDA mini-ruby-labeled axons, and quantification
+was performed in blinded fashion. Values are expressed as av-
+erages SEM. Student’s t test, *p 0.05.
+13966 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury
+sprouting and regeneration (Silver andMiller, 2004; Yiu and He,
+2006) and to the limited intrinsic neuronal capacity to regrow
+damaged axons (Di Giovanni, 2009;Moore andGoldberg, 2011).
+Our findings suggest that the transcription factor p53 modulates
+both the extrinsic spinal inhibitory environment and the intrinsic
+capacity of CNSneurons affecting the recovery ofmotor function
+in response to a traumatic event.
+We have previously found that p53 can occupy the promoters
+and drive the expression of a number of genes involved in neurite
+and axonal outgrowth such asCoronin 1b, Rab13 (DiGiovanni et
+al., 2006), and GAP-43 (Tedeschi et al., 2009a; Floriddia et al.,
+2011). Moreover, p53 transcriptionally enhances the expression
+of cGKI, thereby inhibiting semaphorin 3A-dependent growth
+cone collapse in primary cortical and dorsal root ganglia neurons
+(Tedeschi et al., 2009b). p53 also mediates transcription-
+independent pro-outgrowth pathways, by inhibiting local ROCK
+(Rho-associated protein kinase) activity at the growth cone coun-
+teracting growth cone collapse (Qin et al., 2009). Interestingly,
+semaphorin 3A-mediated growth cone collapse leads to trunca-
+tion of phosphorylated active p53 via m-calpain, leading to Rho
+kinase activation, which is antagonized by phosphorylated p53
+(Qin et al., 2010).
+Here, we show for the first time that p53 is needed for physi-
+ological sprouting of 5-HT and corticospinal axons following
+SCI. p53/mice display amore pronounced dieback of the CST
+axon bundle and a reduced collateral sprouting compared with
+the already limited spontaneous sprouting response of the CST
+that occurs in adult wild-type animals after transection (Schnell
+and Schwab, 1993). We also found that sprouting of 5-HT fibers
+below the lesion site is reduced in absence of p53. As previously
+described, the degree of 5-HT spinal sprouting as well as sero-
+toninergic transmission below the injury
+site strongly correlate with the recovery of
+locomotor function of the hindlimbs fol-
+lowing experimental SCI (Faden et al.,
+1988; Bregman et al., 1995; Saruhashi et
+al., 1996; Maier et al., 2009). Together
+with our data, this suggests a role for p53
+in the regulation of axonal regrowth and
+plasticity remodeling of the damaged spi-
+nal cord that leads to partial recovery of
+motor function.
+The impaired sprouting of supraspinal
+descending fibers in p53/mice is likely
+both a consequence of the abnormal in-
+hibitory glial scar at the lesion site and of a
+role for p53 in the intrinsic neuronal plas-
+tic response to injury, as our gain-of-
+function experiments both in cultured
+neurons and in vivo in the SMC suggest. In
+fact, delivery of p53 in neurite outgrowth-
+deficient p53/ cultured cortical neurons
+restores physiological neurite outgrowth,
+and more importantly, viral overexpres-
+sion of p53 in the SMC of p53/ mice
+reestablishes and boosts the physiological
+sprouting plastic response that is very lim-
+ited in wild-type CST. In fact, following
+rescue of p53 expression, transected CST
+axons show more sprouts and branches
+near the amputation site preferentially
+but not exclusively in the white matter
+facing the upper part of the cordwhere the
+dorsal columns physiologically run. Importantly, as expected
+from such a rescue experiment on a null background, we did not
+observe CST regeneration nor significantly enhanced axonal
+sprouting below the injury site. Nevertheless, the CST collateral
+sprouting above the injury site suggests an important role for p53
+in axonal plasticity following SCI.
+After spinal cord injury, cell cycle activation in neurons and
+glial cells is a crucial event that contributes to secondary damage,
+such as tissue loss and activation of astrocytes and microglia,
+negatively affecting the recovery of motor function (Di Giovanni
+et al., 2003; Byrnes et al., 2007). Here, we report that p53 is re-
+quired to maintain the proliferation of microglia/macrophages
+under check, providing evidence for a further novel non-
+neuronal role for p53 following SCI. This effect on cell cycle is
+specifically dependent upon p53 as demonstrated by the gain-of-
+function experiments in which p53 overexpression can restore
+microglia proliferation to wt levels in p53/ cells. The main
+contribution of p53 to the control of proliferation is likely due to
+the marked downregulation of p21 in p53/ cells, which p53
+overexpression promptly rescues along with reducing prolifera-
+tion. Indeed, p21 is a well established specific p53-transcriptional
+target in a variety of cell types and tissues (el-Deiry et al., 1993;
+Missero et al., 1996) and a powerful cell cycle inhibitor via antag-
+onism of CDK 2/4/6 (Johnson and Walker, 1999). Importantly,
+p53 does not seem to affect cell survival in these cells as shown by
+in the analysis of apoptotic nuclei and caspase-3 expression. This
+is in agreementwith the evidence that p53-dependent cell death is
+typically present only in highly damaged cells, for example fol-
+lowing high levels of genotoxic and oxidative stress or growth
+factor deficiency, which are known to trigger p53-dependent ap-
+Figure 9. Rescue of p53 expression in p53/ primary cortical neurons enhances neurite outgrowth. A, Cultured primary
+mouse cortical neurons (E18) fromwt or p53/micewere transfected at day 1 in vitro for 72 hwith either GFP (wt), p53-GFP, or
+GFP (p53/). Both GFP and anti-3-tubulin immunostaining were used to detect transfected neurons. Representative images
+of transfected neurons show that p53/ neurons have impaired neurite outgrowth compared with wt and that overexpression
+of p53-GFP on a p53/ background restores neurite outgrowth to wt levels. B, Bar graphs show quantification of neurite
+outgrowth (length of the longest neurite) following transfection expressed as average percentage values of control GFP-
+transfected cells. Data were obtained from three different experiments for90 neurons total counted for each condition. Stu-
+dent’s t test, **p 0.01.
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13967
+optosis (Aloyz et al., 1998; Sakaguchi et al., 1998; Culmsee and
+Mattson, 2005; Liebermann et al., 2007).
+Following spinal cord injury, the inflammatory response plays
+a pivotal role in contributing to secondary damage and crafting
+the lesion environment (Alexander and Popovich, 2009). In fact,
+activatedmicroglia/macrophages can be detrimental by releasing
+proinflammatory cytokines, reactive oxygen species, and axonal
+outgrowth inhibitory keratane sulfate proteoglycans (Jones and
+Tuszynski, 2002; Bareyre and Schwab, 2003; Jones et al., 2005;
+David andKroner, 2011). The increased proliferation of activated
+microglia/macrophages at the lesion site after SCI in p53/mice
+could lead to an aberrant inflammatory response, exacerbated
+secondary degeneration, and the formation of a more aggressive
+inhibitory environment, contributing to a more pronounced
+motor impairment. The inhibition of glial proliferation by sev-
+eral pharmacological strategies including the use of cell cycle in-
+hibitors (Wu et al., 2011), such as Ara-C and Flavopiridol
+(Rhodes et al., 2003;DiGiovanni et al., 2005c; Byrnes et al., 2007),
+or the depletion of hematogenous macrophages by liposome-
+encapsulated clodronate (Popovich et al., 1999), has been shown
+to enhance axonal sprouting and functional recovery after both
+brain and spinal cord injury.
+The role of p53 in regulating microglia/macrophage activity
+has not been extensively studied. A previous study suggested an
+increase inNF-B-dependent transcription of several proinflam-
+matory targets in p53/macrophages (Komarova et al., 2005);
+however, we found that the postinjury gene expression of IL-1,
+IL-6, and TNF in the spinal cord was not affected by the absence
+of p53 (data not shown). Recent reports have indicated that, in a
+contusion spinal injury model, there is a predominance of classi-
+cally activated orM1macrophages at chronic stages after SCI and
+they contribute to the inhibition of axon regrowth (Kigerl et al.,
+2009) and to increased axon dieback (Horn et al., 2008), while
+M2 macrophages were shown to be neuroprotective in compar-
+ison. Interestingly, certainM2 subtypes have been associatedwith
+wound healing, matrix remodeling, and fibrosis (Wynn and Bar-
+ron, 2010). Therefore, an aberrant M2 response could generate
+an environment that exacerbates scar formation after SCI. How-
+ever, our data show that the absence of p53 does not alterM1/M2
+polarization after SCI.
+The glial and fibrotic scar formation is another crucial event in
+the response after SCI. Indeed, several components from the dis-
+ruptedmyelin and extracellularmatrix components produced by
+reactive astrocytes, microglia, and fibrocytes show strong inhib-
+itory properties on axonal outgrowth and regeneration, limiting
+the recovery of motor function after injury (Savio and Schwab,
+1990; Schnell and Schwab, 1990; McKerracher et al., 1994; Breg-
+man et al., 1995; Davies et al., 1999; Chen et al., 2000; Bradbury et
+al., 2002; GrandPré et al., 2002; Kottis et al., 2002; Sroga et al.,
+2003; Silver andMiller, 2004; Yiu andHe, 2006;Hellal et al., 2011;
+Wang et al., 2011). In p53/ injured cords, aberrant glial pro-
+liferation is accompanied by enhanced glial scar formation, as
+shown by GFAP- and fibronectin-positive scar tissue revealing a
+bigger reactive astrocyte area around the lesion site and an en-
+larged lesion core. Furthermore, mRNA expression analysis of
+the lesion site shows that genes associated with the fibrotic scar,
+including fibronectin, collagen 12, and collagen 41 (Stichel et
+al., 1999; Klapka et al., 2005; Moore and Goldberg, 2011) are
+differentially expressed in the absence of p53 following SCI.
+This observation gives us an insight of additional possible
+molecular components andmechanisms that contribute to the
+limited locomotor functional recovery we observed in p53/
+mice after SCI.
+Together, our data show that p53 is involved in the regulation
+of axonal sprouting and plasticity, glial and fibrotic scar forma-
+tion, and proliferation of microglia/macrophages affecting the
+recovery of motor function following SCI; in summary, we pro-
+pose that, in response to a trauma, p53 plays a dual role at neu-
+ronal intrinsic and glial extrinsic levels. This suggests the
+modulation of p53 as a potential multilevel therapeutic strategy,
+which could be achieved by fine-tuning p53 at posttranslational
+or expression levels.
+However, complementary studies with a compressive/contu-
+sive lesionmodel in p53mutant mice would also be warranted to
+provide more convincing evidence of a translationally relevant
+role for p53.
+References
+Abbas T, Dutta A (2009) p21 in cancer: intricate networks and multiple
+activities. Nat Rev Cancer 9:400–414.
+Alexander JK, Popovich PG (2009) Neuroinflammation in spinal cord in-
+jury: therapeutic targets for neuroprotection and regeneration. Prog
+Brain Res 175:125–137.
+Aloyz RS, Bamji SX, Pozniak CD, Toma JG, Atwal J, Kaplan DR, Miller FD
+(1998) p53 is essential for developmental neuron death as regulated by
+the TrkA and p75 neurotrophin receptors. J Cell Biol 143:1691–1703.
+Bareyre FM, Schwab ME (2003) Inflammation, degeneration and regener-
+ation in the injured spinal cord: insights from DNA microarrays. Trends
+Neurosci 26:555–563.
+Bareyre FM, Kerschensteiner M, Raineteau O, Mettenleiter TC, Weinmann
+O, Schwab ME (2004) The injured spinal cord spontaneously forms a
+new intraspinal circuit in adult rats. Nat Neurosci 7:269–277.
+BassoDM, Fisher LC, Anderson AJ, Jakeman LB,McTigueDM, Popovich PG
+(2006) BassoMouse Scale for locomotion detects differences in recovery
+after spinal cord injury in five common mouse strains. J Neurotrauma
+23:635–659.
+Behrmann DL, Bresnahan JC, Beattie MS, Shah BR (1992) Spinal cord in-
+jury produced by consistent mechanical displacement of the cord in rats:
+behavioral and histologic analysis. J Neurotrauma 9:197–217.
+Bradbury EJ, Moon LD, Popat RJ, King VR, Bennett GS, Patel PN, Fawcett
+JW,McMahon SB (2002) Chondroitinase ABC promotes functional re-
+covery after spinal cord injury. Nature 416:636–640.
+Bregman BS, Kunkel-Bagden E, Schnell L, Dai HN, Gao D, Schwab ME
+(1995) Recovery from spinal cord injury mediated by antibodies to neu-
+rite growth inhibitors. Nature 378:498–501.
+Byrnes KR, Garay J, Di Giovanni S, De Biase A, Knoblach SM, Hoffman EP,
+Movsesyan V, Faden AI (2006) Expression of two temporally distinct
+microglia-related gene clusters after spinal cord injury. Glia 53:420–433.
+Byrnes KR, Stoica BA, Fricke S, Di Giovanni S, Faden AI (2007) Cell cycle
+activation contributes to post-mitotic cell death and secondary damage
+after spinal cord injury. Brain 130:2977–2992.
+CaffertyWB,McGee AW, Strittmatter SM (2008) Axonal growth therapeu-
+tics: regeneration or sprouting or plasticity? TrendsNeurosci 31:215–220.
+Camand E, Morel MP, Faissner A, Sotelo C, Dusart I (2004) Long-term
+changes in the molecular composition of the glial scar and progressive
+increase of serotoninergic fibre sprouting after hemisection of the mouse
+spinal cord. Eur J Neurosci 20:1161–1176.
+Carmel JB, Galante A, Soteropoulos P, Tolias P, Recce M, YoungW, Hart RP
+(2001) Gene expression profiling of acute spinal cord injury reveals
+spreading inflammatory signals and neuron loss. Physiol Genomics
+7:201–213.
+Chen MS, Huber AB, van der Haar ME, Frank M, Schnell L, Spillmann AA,
+Christ F, SchwabME (2000) Nogo-A is amyelin-associated neurite out-
+growth inhibitor and an antigen for monoclonal antibody IN-1. Nature
+403:434–439.
+Culmsee C, Mattson MP (2005) p53 in neuronal apoptosis. Biochem Bio-
+phys Res Commun 331:761–777.
+David S, Kroner A (2011) Repertoire of microglial and macrophage re-
+sponses after spinal cord injury. Nat Rev Neurosci 12:388–399.
+Davies SJ, Goucher DR, Doller C, Silver J (1999) Robust regeneration of
+adult sensory axons in degenerating white matter of the adult rat spinal
+cord. J Neurosci 19:5810–5822.
+Di Giovanni S (2009) Molecular targets for axon regeneration: focus on the
+intrinsic pathways. Expert Opin Ther Targets 13:1387–1398.
+13968 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury
+Di Giovanni S, Knoblach SM, Brandoli C, Aden SA, Hoffman EP, Faden AI
+(2003) Gene profiling in spinal cord injury shows role of cell cycle in
+neuronal death. Ann Neurol 53:454–468.
+Di Giovanni S, Faden AI, Yakovlev A, Duke-Cohan JS, Finn T, Thouin M,
+Knoblach S, De Biase A, Bregman BS, Hoffman EP (2005a) Neuronal
+plasticity after spinal cord injury: identification of a gene cluster driving
+neurite outgrowth. FASEB J 19:153–154.
+DiGiovanni S, De Biase A, Yakovlev A, FinnT, Beers J, HoffmanEP, FadenAI
+(2005b) In vivo and in vitro characterization of novel neuronal plasticity
+factors identified following spinal cord injury. J Biol Chem
+280:2084–2091.
+Di Giovanni S, Movsesyan V, Ahmed F, Cernak I, Schinelli S, Stoica B, Faden
+AI (2005c) Cell cycle inhibition provides neuroprotection and reduces
+glial proliferation and scar formation after traumatic brain injury. Proc
+Natl Acad Sci U S A 102:8333–8338.
+Di Giovanni S, Knights CD, Rao M, Yakovlev A, Beers J, Catania J, Avantag-
+giatiML, FadenAI (2006) The tumor suppressor protein p53 is required
+for neurite outgrowth and axon regeneration. EMBO J 25:4084–4096.
+el-DeiryWS, Tokino T, Velculescu VE, Levy DB, Parsons R, Trent JM, Lin D,
+Mercer WE, Kinzler KW, Vogelstein B (1993) WAF1, a potential medi-
+ator of p53 tumor suppression. Cell 75:817–825.
+Faden AI, Gannon A, Basbaum AI (1988) Use of serotonin immunocyto-
+chemistry as a marker of injury severity after experimental spinal trauma
+in rats. Brain Res 450:94–100.
+Floriddia E, Nguyen T, Di Giovanni S (2011) Chromatin immunoprecipi-
+tation from dorsal root ganglia tissue following axonal injury. J Vis Exp
+pii:2803.
+Giger RJ, Venkatesh K, Chivatakarn O, Raiker SJ, Robak L, Hofer T, Lee H,
+Rader C (2008) Mechanisms of CNS myelin inhibition: evidence for
+distinct and neuronal cell type specific receptor systems. Restor Neurol
+Neurosci 26:97–115.
+GrandPré T, Li S, Strittmatter SM (2002) Nogo-66 receptor antagonist pep-
+tide promotes axonal regeneration. Nature 417:547–551.
+Hamers FP, Lankhorst AJ, van Laar TJ, Veldhuis WB, Gispen WH (2001)
+Automated quantitative gait analysis during overground locomotion in
+the rat: its application to spinal cord contusion and transection injuries.
+J Neurotrauma 18:187–201.
+Hargreaves K, Dubner R, Brown F, Flores C, Joris J (1988) A new and sen-
+sitive method for measuring thermal nociception in cutaneous hyperal-
+gesia. Pain 32:77–88.
+Hellal F, Hurtado A, Ruschel J, Flynn KC, Laskowski CJ, Umlauf M, Kapitein
+LC, Strikis D, Lemmon V, Bixby J, Hoogenraad CC, Bradke F (2011)
+Microtubule stabilization reduces scarring and causes axon regeneration
+after spinal cord injury. Science 331:928–931.
+Hill RL, Zhang YP, Burke DA, Devries WH, Zhang Y, Magnuson DS, Whit-
+temore SR, Shields CB (2009) Anatomical and functional outcomes fol-
+lowing a precise, graded, dorsal laceration spinal cord injury in C57BL/6
+mice. J Neurotrauma 26:1–15.
+Horn KP, Busch SA, Hawthorne AL, van Rooijen N, Silver J (2008) Another
+barrier to regeneration in the CNS: activated macrophages induce exten-
+sive retraction of dystrophic axons through direct physical interactions.
+J Neurosci 28:9330–9341.
+Jacks T, Remington L, Williams BO, Schmitt EM, Halachmi S, Bronson RT,
+Weinberg RA (1994) Tumor spectrum analysis in p53-mutant mice.
+Curr Biol 4:1–7.
+Johnson DG, Walker CL (1999) Cyclins and cell cycle checkpoints. Annu
+Rev Pharmacol Toxicol 39:295–312.
+Jones LL, TuszynskiMH (2002) Spinal cord injury elicits expression of kera-
+tan sulfate proteoglycans by macrophages, reactive microglia, and oligo-
+dendrocyte progenitors. J Neurosci 22:4611–4624.
+Jones TB, McDaniel EE, Popovich PG (2005) Inflammatory-mediated in-
+jury and repair in the traumatically injured spinal cord. Curr Pharm Des
+11:1223–1236.
+Kigerl KA, Gensel JC, Ankeny DP, Alexander JK, Donnelly DJ, Popovich PG
+(2009) Identification of two distinct macrophage subsets with divergent
+effects causing either neurotoxicity or regeneration in the injured mouse
+spinal cord. J Neurosci 29:13435–13444.
+Klapka N, Hermanns S, Straten G, Masanneck C, Duis S, Hamers FP, Müller
+D, ZuschratterW,Müller HW (2005) Suppression of fibrous scarring in
+spinal cord injury of rat promotes long-distance regeneration of cortico-
+spinal tract axons, rescue of primarymotoneurons in somatosensory cor-
+tex and significant functional recovery. Eur J Neurosci 22:3047–3058.
+Knoblach SM, Huang X, VanGelderen J, Calva-Cerqueira D, Faden AI
+(2005) Selective caspase activation may contribute to neurological dys-
+function after experimental spinal cord trauma. J Neurosci Res
+80:369–380.
+Komarova EA, Krivokrysenko V, Wang K, Neznanov N, Chernov MV,
+Komarov PG, Brennan ML, Golovkina TV, Rokhlin OW, Kuprash DV,
+Nedospasov SA, Hazen SL, Feinstein E, Gudkov AV (2005) p53 is a sup-
+pressor of inflammatory response in mice. FASEB J 19:1030–1032.
+Kottis V, Thibault P, Mikol D, Xiao ZC, Zhang R, Dergham P, Braun PE
+(2002) Oligodendrocyte-myelin glycoprotein (OMgp) is an inhibitor of
+neurite outgrowth. J Neurochem 82:1566–1569.
+Liebermann DA, Hoffman B, Vesely D (2007) p53 induced growth arrest
+versus apoptosis and its modulation by survival cytokines. Cell Cycle
+6:166–170.
+Liu K, Tedeschi A, Park KK, He Z (2011) Neuronal intrinsic mechanisms of
+axon regeneration. Annu Rev Neurosci 34:131–152.
+Loane DJ, Byrnes KR (2010) Role of microglia in neurotrauma. Neuro-
+therapeutics 7:366–377.
+MaM, Basso DM,Walters P, Stokes BT, Jakeman LB (2001) Behavioral and
+histological outcomes following graded spinal cord contusion injury in
+the C57BL/6 mouse. Exp Neurol 169:239–254.
+Maier IC, Ichiyama RM, Courtine G, Schnell L, Lavrov I, Edgerton VR,
+Schwab ME (2009) Differential effects of anti-Nogo-A antibody treat-
+ment and treadmill training in rats with incomplete spinal cord injury.
+Brain 132:1426–1440.
+McKerracher L, David S, Jackson DL, Kottis V, Dunn RJ, Braun PE (1994)
+Identification of myelin-associated glycoprotein as a major myelin-
+derived inhibitor of neurite growth. Neuron 13:805–811.
+Missero C, Di Cunto F, Kiyokawa H, Koff A, Dotto GP (1996) The absence
+of p21Cip1/WAF1 alters keratinocyte growth anddifferentiation andpro-
+motes ras-tumor progression. Genes Dev 10:3065–3075.
+Mogil JS, Wilson SG, Bon K, Lee SE, Chung K, Raber P, Pieper JO, Hain HS,
+Belknap JK, Hubert L, Elmer GI, Chung JM, Devor M (1999) Heritabil-
+ity of nociception I: responses of 11 inbred mouse strains on 12 measures
+of nociception. Pain 80:67–82.
+Moore DL, Goldberg JL (2011) Multiple transcription factor families regu-
+late axon growth and regeneration. Dev Neurobiol 71:1186–1211.
+Müllner A, Gonzenbach RR, Weinmann O, Schnell L, Liebscher T, Schwab
+ME (2008) Lamina-specific restoration of serotonergic projections after
+Nogo-A antibody treatment of spinal cord injury in rats. Eur J Neurosci
+27:326–333.
+Oatway MA, Chen Y, Bruce JC, Dekaban GA, Weaver LC (2005) Anti-
+CD11d integrin antibody treatment restores normal serotonergic projec-
+tions to the dorsal, intermediate, and ventral horns of the injured spinal
+cord. J Neurosci 25:637–647.
+Oren M (2003) Decision making by p53: life, death and cancer. Cell Death
+Differ 10:431–442.
+Park JB, Yiu G, Kaneko S, Wang J, Chang J, He XL, Garcia KC, He Z (2005)
+A TNF receptor family member, TROY, is a coreceptor with Nogo recep-
+tor in mediating the inhibitory activity of myelin inhibitors. Neuron 45:
+345–351.
+Pietenpol JA, Stewart ZA (2002) Cell cycle checkpoint signaling: cell cycle
+arrest versus apoptosis. Toxicology 181–182:475–481.
+Popovich PG, Guan Z, Wei P, Huitinga I, van Rooijen N, Stokes BT (1999)
+Depletion of hematogenous macrophages promotes partial hindlimb re-
+covery and neuroanatomical repair after experimental spinal cord injury.
+Exp Neurol 158:351–365.
+Qin Q, Baudry M, Liao G, Noniyev A, Galeano J, Bi X (2009) A novel func-
+tion for p53: regulation of growth cone motility through interaction with
+Rho kinase. J Neurosci 29:5183–5192.
+Qin Q, Liao G, Baudry M, Bi X (2010) Role of calpain-mediated p53 trun-
+cation in semaphorin 3A-induced axonal growth regulation. Proc Natl
+Acad Sci U S A 107:13883–13887.
+Raineteau O, Schwab ME (2001) Plasticity of motor systems after incom-
+plete spinal cord injury. Nat Rev Neurosci 2:263–273.
+Raineteau O, Fouad K, Bareyre FM, Schwab ME (2002) Reorganization of
+descending motor tracts in the rat spinal cord. Eur J Neurosci 16:1761–
+1771.
+Rhodes KE, Moon LD, Fawcett JW (2003) Inhibiting cell proliferation dur-
+ing formation of the glial scar: effects on axon regeneration in the CNS.
+Neuroscience 120:41–56.
+Saito N, Yamamoto T, Watanabe T, Abe Y, Kumagai T (2000) Implications
+Floriddia et al. • p53 in Spinal Cord Injury J. Neurosci., October 3, 2012 • 32(40):13956–13970 • 13969
+of p53 protein expression in experimental spinal cord injury. J Neu-
+rotrauma 17:173–182.
+Sakaguchi K, Herrera JE, Saito S, Miki T, Bustin M, Vassilev A, Anderson CW,
+Appella E (1998) DNA damage activates p53 through a phosphorylation-
+acetylation cascade. Genes Dev 12:2831–2841.
+Saruhashi Y, YoungW, Perkins R (1996) The recovery of 5-HT immunore-
+activity in lumbosacral spinal cord and locomotor function after thoracic
+hemisection. Exp Neurol 139:203–213.
+Saura J, Tusell JM, Serratosa J (2003) High-yield isolation of murinemicro-
+glia by mild trypsinization. Glia 44:183–189.
+Savio T, SchwabME (1990) Lesioned corticospinal tract axons regenerate in
+myelin-free rat spinal cord. Proc Natl Acad Sci U S A 87:4130–4133.
+Schnell L, Schwab ME (1990) Axonal regeneration in the rat spinal cord
+produced by an antibody againstmyelin-associated neurite growth inhib-
+itors. Nature 343:269–272.
+Schnell L, SchwabME (1993) Sprouting and regeneration of lesioned corti-
+cospinal tract fibres in the adult rat spinal cord. Eur J Neurosci
+5:1156–1171.
+Shen Y, Tenney AP, Busch SA, Horn KP, Cuascut FX, Liu K, He Z, Silver J,
+Flanagan JG (2009) PTPsigma is a receptor for chondroitin sulfate pro-
+teoglycan, an inhibitor of neural regeneration. Science 326:592–596.
+Silver J, Miller JH (2004) Regeneration beyond the glial scar. Nat Rev Neu-
+rosci 5:146–156.
+Simonen M, Pedersen V, Weinmann O, Schnell L, Buss A, Ledermann B,
+Christ F, Sansig G, van der Putten H, SchwabME (2003) Systemic dele-
+tion of the myelin-associated outgrowth inhibitor Nogo-A improves re-
+generative and plastic responses after spinal cord injury. Neuron
+38:201–211.
+Sroga JM, Jones TB, Kigerl KA, McGaughy VM, Popovich PG (2003) Rats
+and mice exhibit distinct inflammatory reactions after spinal cord injury.
+J Comp Neurol 462:223–240.
+Steward O, Zheng B, Tessier-Lavigne M (2003) False resurrections: distin-
+guishing regenerated from spared axons in the injured central nervous
+system. J Comp Neurol 459:1–8.
+Steward O, Zheng B, Tessier-Lavigne M, Hofstadter M, Sharp K, Yee KM
+(2008) Regenerative growth of corticospinal tract axons via the ventral
+column after spinal cord injury in mice. J Neurosci 28:6836–6847.
+Stichel CC, Hermanns S, Luhmann HJ, Lausberg F, Niermann H, D’Urso D,
+Servos G, Hartwig HG, Müller HW (1999) Inhibition of collagen IV
+deposition promotes regeneration of injured CNS axons. Eur J Neurosci
+11:632–646.
+Tedeschi A, Nguyen T, Puttagunta R, Gaub P, Di Giovanni S (2009a) A
+p53-CBP/p300 transcription module is required for GAP-43 expression,
+axon outgrowth, and regeneration. Cell Death Differ 16:543–554.
+Tedeschi A, Nguyen T, Steele SU, Feil S, Naumann U, Feil R, Di Giovanni S
+(2009b) The tumor suppressor p53 transcriptionally regulates cGKI ex-
+pression during neuronal maturation and is required for cGMP-
+dependent growth cone collapse. J Neurosci 29:15155–15160.
+Tian DS, Yu ZY, XieMJ, Bu BT,Witte OW,WangW (2006) Suppression of
+astroglial scar formation and enhanced axonal regeneration associated
+with functional recovery in a spinal cord injury rat model by the cell cycle
+inhibitor olomoucine. J Neurosci Res 84:1053–1063.
+Tian DS, Xie MJ, Yu ZY, Zhang Q, Wang YH, Chen B, Chen C, Wang W
+(2007) Cell cycle inhibition attenuates microglia induced inflammatory
+response and alleviates neuronal cell death after spinal cord injury in rats.
+Brain Res 1135:177–185.
+Wang D, Ichiyama RM, Zhao R, Andrews MR, Fawcett JW (2011) Chon-
+droitinase combined with rehabilitation promotes recovery of forelimb
+function in rats with chronic spinal cord injury. J Neurosci 31:9332–9344.
+Wu J, Stoica BA, Faden AI (2011) Cell cycle activation and spinal cord in-
+jury. Neurotherapeutics 8:221–228.
+Wynn TA, Barron L (2010) Macrophages: master regulators of inflamma-
+tion and fibrosis. Semin Liver Dis 30:245–257.
+Yiu G, He Z (2006) Glial inhibition of CNS axon regeneration. Nat Rev
+Neurosci 7:617–627.
+13970 • J. Neurosci., October 3, 2012 • 32(40):13956–13970 Floriddia et al. • p53 in Spinal Cord Injury

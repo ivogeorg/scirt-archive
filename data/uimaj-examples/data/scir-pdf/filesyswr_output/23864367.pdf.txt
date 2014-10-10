@@ -1,0 +1,1304 @@
+Neurosci Bull    August 1, 2013, 29(4): 445–459. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1362-7 445
+·Review·
+Biomaterials for spinal cord repair
+Agnes E. Haggerty1,4, Martin oudega1,2,3,4
+Departments of 1Bioengineering, 2Physical Medicine and Rehabilitation, 3Neurobiology, and the 4Center for the Neural Basis 
+of Cognition, University of Pittsburgh, Pittsburgh, PA, USA
+Corresponding author: Martin oudega. E-mail: moudega@pitt.edu
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+Spinal cord injury (SCi) results in permanent loss of function leading to often devastating personal, economic 
+and social problems. A contributing factor to the permanence of SCi is that damaged axons do not regenerate, 
+which prevents the re-establishment of axonal circuits involved in function. Many groups are working to 
+develop treatments that address the lack of axon regeneration after SCi. The emergence of biomaterials for 
+regeneration and increased collaboration between engineers, basic and translational scientists, and clinicians 
+hold promise for the development of effective therapies for SCi. A plethora of biomaterials is available and has 
+been tested in various models of SCi. Considering the clinical relevance of contusion injuries, we primarily 
+focus on polymers that meet the specific criteria for addressing this type of injury. Biomaterials may provide 
+structural support and/or serve as a delivery vehicle for factors to arrest growth inhibition and promote 
+axonal growth. Designing materials to address the specific needs of the damaged central nervous system 
+is crucial and possible with current technology. Here, we review the most prominent materials, their optimal 
+characteristics, and their potential roles in repairing and regenerating damaged axons following SCi. 
+Keywords: spinal cord injury; axon regeneration; biodegradable materials; extracellular matrix proteins; functional 
+recovery; growth factor; guidance; injury and repair; spinal motor neuron
+Introduction
+Spinal cord injury (SCi) causes loss of neurons and axons 
+resulting in motor and sensory function impairments. There 
+are thousands of new cases of SCi in the world annually[1, 
+2] occurring often in young adults. The lack of endogenous 
+repair and the significant costs to the individual, family and 
+society[1] are important motivations behind the continuing 
+efforts to develop effective therapies. Promoting axonal 
+regeneration is considered a potential repair strategy 
+because it could lead to recovery of axonal circuits involved 
+in motor and/or sensory function[3]. 
+The central nervous system (CNS) neurons are intrinsically 
+capable of some regeneration of damaged axons[4] but their 
+attempts after SCi are frustrated by structural and chemical 
+obstructions in the damaged nervous tissue[5]. Spinal 
+cord repair approaches typically lead to small functional 
+gains. one feature that most of these approaches have 
+in common is a poor axonal regeneration response, 
+suggesting that promoting axonal regeneration, including 
+synapse formation, is essential to achieve substantial 
+functional repair after SCi. if so, it is rational to anticipate 
+that effective spinal cord therapies will need to include 
+interventions addressing the axon growth-inhibition that 
+leads to the poor axonal growth responses.  
+over the last decades, bioengineering principles have 
+been introduced into the field of spinal cord injury and repair 
+through collaborative efforts between basic, translational, 
+and clinical researchers. This review focuses on the 
+potential application of synthetic and natural biomaterials to 
+modify growth-inhibitory terrain in the injured spinal cord to 
+elicit axonal regeneration and foster functional restoration. 
+Repair-supporting Biomaterials—Polymers
+in general, biomaterials for spinal cord repair are used 
+Neurosci Bull     August 1, 2013, 29(4): 445–459446
+for their ability to provide passive structural or active 
+growth support to damaged axons; some offer both 
+through functionalization with biologically-active peptide 
+sequences. Numerous natural and artificial materials 
+have been tested for their efficacy in repairing the injured 
+spinal cord. Application of some of these has resulted in 
+functional improvements, indicating their repair potential. 
+As introduced above, axonal regeneration is considered 
+an important repair mechanism for the injured spinal 
+cord. Therefore, this review focuses on materials that 
+have shown most promise to elicit an axonal regeneration 
+response to foster functional restoration after SCi.
+Most biomaterials designed and produced in the 
+laboratory and tested for their efficacy to repair the injured 
+spinal cord are polymers. Polymers have numerous 
+biomedical applications due to their vastly diverse 
+properties. Typically, polymers are large two- or three-
+dimensional molecules composed of repeating units[6, 7]. 
+Polymers can be obtained from natural sources including 
+plants, animals, and DNA, or be fabricated synthetically in a 
+laboratory. Natural polymers are widely available and tend 
+to undergo highly-controlled synthesis resulting in regular 
+structures; however, they often contain contaminating 
+molecules and are difficult to sterilize[7]. Synthetic polymers 
+are easier to sterilize, but are typically susceptible to 
+the chosen process of synthesis which often causes 
+irregularities in structure and composition[7].  
+Currently, there is no consensus in the literature on 
+what constitutes the optimal characteristics of biomaterials 
+for spinal cord regeneration and repair. However, there 
+is increasing theoretical and experimental evidence for 
+the use of polymers for the repair of soft tissue such as 
+nervous tissue. An important advantage of some polymers 
+for spinal cord repair is that they can be designed for in 
+situ polymerization and/or cross-linking, therefore needing 
+minimally-invasive approaches (injection) to be applied. 
+A variety of techniques have been developed and used to 
+characterize material properties, optimizing biomaterials 
+for use in a tissue-specific repair application. Figure 
+1 illustrates some examples of these characterization 
+techniques. Using these techniques, biomaterials can 
+be fabricated to degrade within a specific window of 
+opportunity, be non-cytotoxic, and have mechanical 
+properties similar to those of the native tissue to decrease 
+fibrolysis[8]. Hydrogels, a category of polymer that are 
+highly water-sequestering, specifically seem to fulfill many 
+of these requirements that could support the repair of 
+damaged nervous tissue.
+Hydrogels
+Most SCis in humans are contusions[1] that result in an 
+irregular-shaped cavity surrounded by spared white matter. 
+The preferable way to introduce a biomaterial for repair 
+would be injection into the cavity, which would minimize 
+additional damage to the nervous tissue. Therefore, a 
+number of research groups have investigated injectable, 
+in-situ gelling substrates for spinal cord repair[9-11]. Many of 
+these substrates are hydrogels, water-swollen cross-linked 
+polymer networks capable of imitating the mechanical and, 
+to some degree, the architecture of the soft spinal cord 
+tissue[12]. Some characteristics of hydrogels that can be 
+considered for optimizing their application in spinal cord 
+repair are their porosity, degradation, functionalizability, 
+biocompatibility, in situ gelling, and elastic modulus.  
+Mammalian Extracellular Matrix-based Natural 
+Polymers
+A variety of natural biomaterials mostly present within 
+the extracellular matrix (ECM) provide both structural 
+and growth support to axons during development[13, 14] 
+and maturity[15] as well as after injury[16]. Collagen, 
+laminin, fibronectin, vitronectin, and proteoglycans/
+glycosaminoglycans[14] are all members of this particular 
+group of materials. Most ECM components signal their 
+axonal growth-promotion through integrin receptors[17] that 
+bind, in many, the Arg-Gly-Asp (RGD) peptide sequence[18]. 
+our continuously increasing understanding of the role of 
+ECM in axonal growth has fueled many studies of these 
+materials to investigate their efficacy for repair (i.e. [19]).  For 
+an overview of recent studies that have used mammalian 
+ECM materials, the injury models chosen, and the outcome 
+measures, see Table 1.
+Collagen  Collagen is found naturally as a triple-helical 
+protein in mammals[20]. it is the most abundant protein in 
+the human body and the main component of the ECM[21]. 
+Collagen self-polymerizes in a two-phase process 
+(nucleation/growth[20, 22]) which is determined by pH, 
+temperature, and polymerization rate[23-26]. The highly-
+tunable mechanical properties[27, 28] and swelling of fibers[28] 
+allow collagen to form a hydrogel. Collagen signals its 
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 447
+Fig. 1. Overview of general techniques for the characterization of hydrogels for use in spinal cord repair. The scanning electron 
+microscope image is a decellularized extracellular matrix (ECM) hydrogel derived from urinary bladder matrix (ECM concentration 
+8 mg/mL; courtesy of Matthew Wolf and Stephen Badylak, University of Pittsburgh).
+biological actions through α1β1 (monomers) and α2β1 
+(fibrils) integrins[29] as well as discoidin domain receptors 
+and glycoprotein Vi[30]. in nervous tissue regeneration, 
+collagen has been used in scaffolds[31, 32], magnetically-
+aligned fibrils[33-36], gels[34, 37], and cell-delivery vehicles[38]. 
+Collagen has the innate ability to form magnetically-
+responsive fibrils which are capable of directing neurite 
+growth and delivering growth factors, both of which can 
+be advantages for spinal cord repair. However, if the 
+mechanical properties are not properly tuned for the 
+environment, collagen may act as a physical barrier for 
+regenerating growth cones[39]. Also, one group found a high 
+mortality rate (40%) with implanted collagen filaments, 
+suggesting that it has potential cytotoxicity[40].  
+Laminin  Laminin is a heterotrimeric glycoprotein consisting 
+of α, β, and γ subunits that self-assemble in a temperature-, 
+pH- and concentration-dependent manner[41, 42]. As a 
+major component of basement membrane ECM, laminin 
+has frequently been shown to influence neurite outgrowth 
+both in vitro[42-45] and in vivo[44, 46-49]. Laminin forms a sheet-
+like polymer that is best known for its critical involvement 
+in basal membrane formation. Laminin signals through 
+a variety of integrins[50]. integrin activation influences 
+neurite outgrowth via the formation of a focal adhesion 
+complex and the activation of focal adhesion kinase and 
+the mitogen-activated protein kinase kinase/extracellular 
+Neurosci Bull     August 1, 2013, 29(4): 445–459448
+signal-regulated kinase signaling pathways[51].
+Laminin does not provide structural support and, 
+therefore, is not often introduced alone as a biomaterial 
+for SCi regeneration. instead, it is combined with other 
+supportive materials to enhance growth promotion[35, 39, 52, 53] 
+and cell differentiation[54]. Recently, it was shown that the 
+Table 1.  Mammalian-derived natural polymers for spinal cord repair
+Material
+Collagen
+Laminin
+Fibronectin
+Hyaluronan
+Combination
+ECM
+Tests
+Wrathall motor scale[86]
+iHC[31, 32, 38]
+Bladder function[31, 32]
+BBB[87]
+inclined plane[87]
+Walking movements[40]
+Reflexive behaviors[40]
+Climbing ability[40]
+Electrophysiology[40]
+BBB[49, 88]
+Combined behavior score[88]
+iHC[49, 88]
+Robotic recording[88]
+Von Frey filaments[89]
+iHC[62, 89-91]
+Horizontal ladder[91]
+Beamwalk[91]
+BBB[70, 71, 92]
+inclined plane[70]
+Von Frey[70]
+iHC[70, 92, 93]
+Electrophysiology[70, 72]
+Structural MRi[70]
+BBB[85, 94, 95]
+iHC[85, 94, 95]
+Electrophysiology[94, 95]
+SCi Model 
+Acute hemi-resection[31, 87] with semi-
+cylindrical scaffold[31];
+Acute complete transection[32]
+Contusion followed by complete 
+transection and collagen filaments[40]
+Complete transection[49, 88]
+Contusion[49]
+Dorsal hemisection[49]
+Dorsal column crush[89]
+Hemisection[91]
+Compression injury[70, 71, 92]
+Dorsal hemisection[93]
+Complete transection[72]
+Lateral hemisection[85, 95]
+Complete transection[94]
+Main findings
+Some motor function benefit when combined with 
+cells[31, 38, 87] or ChABC[31]
+Increased neurofilament staining[31]
+Decreased cyst size[32]
+increased synapse formation and neuronal 
+differentiation[87]
+45% of rats died within one month; survivors had 
+improved walking, coordination, axon regeneration 
+and electrophysiology[40]
+increased axon regeneration[49, 88]
+increased motor recovery[49]
+Blocked development of mechanical allodynia[89]
+Attenuated blood-spinal cord barrier leakage to 
+decrease inflammation[89]
+improved sensory-motor function[91]
+Neuroprotective[62, 90, 91]
+Axon regeneration[62, 90]
+improved[70, 71] or no improvement[72, 92] in locomotion
+improved[70] or no improvement[72] in electrophysiology
+Decreased mechanical allodynia[70]
+Decreased lesion size[70]
+No change in lesion size[92]
+Decreased CSPGs[93] and cytokines[70]
+Increased inflammatory response[72]
+increased axon regeneration[85, 94, 95]
+improved locomotion alone[85] or when combined 
+with cells[95]
+Remyelination with cell transplant[85]
+increased angiogenesis[94]
+improved electrophysiology[94, 95]
+BBB, Basso, Beattie and Bresnahan score test; ChABC, chondroitinase ABC; CSPG, chondroitin-sulfate proteoglycans; iHC, immunohistochemical 
+staining; MRi, magnetic resonance imaging.
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 449
+structure of the laminin polymer may be tied to its signaling 
+capabilities. Certain structural configurations can induce 
+regeneration and functional recovery when injected alone 
+directly into the spinal cord following injury[49].
+Fibronectin  Fibronectin is a high molecular weight 
+glycoprotein that binds to integrins and to other ECM 
+proteins such as collagen[17, 55-57]. Soluble fibronectin 
+circulates in the blood and is involved in clot formation, 
+while insoluble fibronectin is found in the ECM. Unlike 
+some other ECM proteins, fibronectin does not undergo 
+spontaneous polymerization, but rather does so via a 
+highly-regulated, cell-mediated process[58]. The biological 
+activity of fibronectin is mediated by RGD-integrin α5β1 
+binding, and also has an additional integrin-binding 
+site[59], PHRSN[60, 61], that results in a synergistic effect on 
+cell adhesion and the activation of a variety of pathways 
+leading to changes in >30 genes[59].  
+Although incapable of forming a hydrogel on its own, 
+as a potential treatment strategy, it has been used in 
+combination with hydrogels for spinal cord repair due to its 
+cell-signaling properties through RGD-integrin binding[62]. 
+After injury, it has been shown to elicit neurite outgrowth[57]. 
+Fibronectin may be most relevant for regenerating 
+damaged blood vessels via the α5β1 integrin receptor, 
+which in turn could improve nutrient delivery to cells and 
+reduce the infiltration of circulating macrophages following 
+SCi[63]. Fibronectin has also been used in biosynthetic 
+conduits for regeneration in a complete spinal transection 
+model[64].
+Hyaluronan/Hyaluronic Acid   Hyaluronan/hyaluronic 
+acid (HA) is a high molecular weight non-sulfated 
+glycosaminoglycan that occurs naturally in the ECM in the 
+adult CNS. it plays a major role as the structural component 
+in brain ECM[65]. Due to its ability to sequester large 
+amounts of water, it readily forms hydrogels both alone[66] 
+and (often) in combination with other natural materials such 
+as fibronectin[67] and methylcellulose[68] or methacrylate[69]. it 
+is biodegradable and functionalizable, and therefore, when 
+combined with materials that are not readily degraded, 
+it permits tunable concentration-dependent degradation 
+rates. HA binds to a variety of membrane-associated 
+proteins including versican, aggrecan and  glial HA-
+binding protein[65]. Modified HA supports cell attachment 
+and migration, and when combined with brain-derived 
+neurotrophic factor, may improve regeneration and motor 
+function as an implanted scaffold after SCi[70, 71]. Due to 
+its natural role as a structural component in the CNS, it 
+has been used both alone as well as in functionalized and 
+combination formats to provide structure and guidance for 
+regenerating axons after injury[71, 72].
+Combination ECM-derived Polymers  Recently, some 
+groups have focused on creating a more complete 
+ECM environment containing multiple molecules from 
+native ECM[19]. Previously, it was shown that various 
+basement membranes containing a full arsenal of ECM 
+molecules enhance neurite outgrowth in vitro[73, 74] and 
+axonal extension in the lesioned adult brain[74]. Basement 
+membrane is a specific type of ECM secreted by support 
+cells and composed of >20 different molecules[75]. They are 
+of specific interest for axon regeneration due to their crucial 
+role in regeneration in the damaged peripheral nerve[76]. 
+Although it is typically difficult to isolate and manipulate 
+these fragile substrates without causing damage, recent 
+advances have made successful isolation of various 
+basement membranes possible[75]. Several combination 
+ECM materials isolated from mammalian sources are 
+commercially available[52, 77], while others are in various 
+stages of development and characterization[19, 78-80].
+MatrigelTM is a well-characterized, commercially 
+available ECM-derived hydrogel that is a gelatinous mixture 
+of proteins secreted by tumor cells[52]. The abundance 
+of proteins secreted by this particular cell type makes 
+MatrigelTM an easy-to-obtain source of hydrogel-resembling 
+natural ECM[52]. Previous studies have indicated its ability 
+to promote neurite outgrowth[35, 53] and to serve as a cell-
+delivery vehicle[81]. it has been used in a variety of studies 
+and in many different combination treatments, with groups 
+reporting mostly positive results; however, in some studies, 
+axonal regeneration occurred with significant tissue 
+loss when MatrigelTM was used to fill a conduit following 
+complete spinal transection[82, 83].     
+in addition, non-tumor-related sources of ECM have 
+also become available. ECM isolated from de-cellularized 
+pig bladder was shown to have regenerative potential in a 
+variety of organs including esophagus[84] and ligament[78]. 
+This potential is likely due to its ability to provide structural 
+support, growth factors, and a variety of signaling 
+molecules to regenerating tissues[19]. Recently, several 
+groups have started to isolate ECM from CNS to study its 
+potential as a regenerative substrate for SCi[80,85].
+Neurosci Bull     August 1, 2013, 29(4): 445–459450
+Non-mammalian Natural Polymers
+Natural polymers for neural tissue engineering and 
+regeneration can also be obtained from non-mammalian 
+sources such as algae, crustaceans, plants, and 
+bacteria. An important aspect of these polymers is their 
+biocompatibility, i.e., how the mammalian body responds to 
+these foreign materials. They typically do not have ligand-
+associated interactions with mammalian cells and therefore 
+may serve primarily as a supportive matrix. Some of the 
+most investigated non-mammalian natural polymers that 
+have shown some benefits for nervous tissue repair are 
+listed in Table 2.
+Synthetic Polymers
+Synthetic polymers are championed due to their ability to 
+be modified and designer-made with optimal mechanical 
+properties and functional sequences for cell signaling and 
+controlled degradation. They are also easy to sterilize[7] in 
+contrast to natural polymers. The selection discussed here 
+has been chosen as a representative subset of the most 
+common synthetic polymers that have been used for CNS 
+repair (Table 3).
+Poly(2-hydroxyethyl methacylate) (PHEMA) or poly 
+(2-hydroxyethylmethacrylate-co-methylmethacrylate) 
+(PHEMA-MMA)  PHEMA and PHEMA-MMA are probably 
+the most studied water-swelling biomaterials. PHEMA is a 
+non-biodegradable, functionalizable hydrogel with many 
+medical applications such as contact lenses. Some studies 
+suggest it may actively increase axon regeneration[53]. 
+PHEMA easily forms designer conduits[114], but these 
+are structurally weak with a risk of collapse[115]. Typically, 
+copolymerization with methyl methacrylate (PHEMA-MMA) 
+offers structurally-stronger scaffolds[114]. The biocompatibility 
+of PHEMA has been recognized as a potential problem in 
+CNS repair studies.     
+Table 2.  Non-mammalian-derived natural polymers for spinal cord repair
+Material
+Chitosan
+Agarose
+Alginate
+Xyloglucan
+Gellam gum
+Methylcellulose
+Type
+Polysaccharide 
+Linear 
+polysaccharide 
+Linear 
+polysaccharide
+Structural 
+polysaccharide
+Polysaccharide
+Cellulose
+Source
+Crustaceans
+Red algae
+Brown algae
+Cell wall of plants
+Bacteria
+Plant cellulose 
+treated with methyl 
+chloride
+Benefits
+improves neuronal survival[96]
+Potentially increases axonal growth[97]
+Biocompatible; thermal gelling; 
+improves neurite extension[104, 105];
+flexible and stable in culture
+conditions[106]
+Enhances cell resistance to oxidative 
+stress[108];
+increases neuronal regeneration[108];
+negatively charged[109];
+biocompatible; biodegradable
+Directs stem cells to a neuronal 
+lineage[111]
+Promotes axon regeneration across 
+injury site[113]
+FDA-approved for use in brain, non-toxic, 
+thermally sensitive, functionalizable
+Limitations
+No increase[97] or  increase in axonal 
+outgrowth[97, 98]; increases inflammatory 
+response[99, 100];  breakdown controlled to 
+some degree by level of de-acetylation[100-103] 
+Biodegradation depends on composition 
+with other materials (i.e. HA)[107]; biologically 
+inert unless modified[106]
+Low cell adhesion without addit ion of 
+functional groups (i.e. RGD)[110]
+Increased astrocyte infiltration[112]
+Not gel-forming, incompatible with contusion 
+injury
+Non-biodegradable unless combined with 
+other materials such as hyaluronic acid
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 451
+P o l y [ N - ( 2 - h y d r o x y p r o p y l ) m e t h a c r y l a m i d e ] 
+(PHPMA)  PHPMA is non-biodegradable but has better 
+biocompatibility than PHEMA because of its modified 
+chemical structure[116]. it was developed for drug delivery/
+gene therapy. in chronic SCi, PHPMA was shown to reduce 
+the lesion cavity volume and induce axon regrowth[116]. one 
+disadvantage compared to PHEMA is that PHPMA shows 
+an increase in regeneration-blocking connective tissue after 
+SCi[117], which suggests it may work more efficiently when 
+coupled with a drug (such as an matrix metalloproteinase) 
+Table 3.  Synthetic polymers for spinal cord repair
+Material
+PHEMA/PHEMA-MMA
+PHPMA
+PEG/PEo
+PVA
+PGA/PLA/PLGA/PLCL
+Tests used
+iHC[53, 140, 141]
+MRi[140]
+BBB[140]
+iHC[116, 142]
+EM[116, 142]
+Visual examination of 
+movement[116]
+Treadmill walking[142]
+Histology[129, 143]
+Antioxidant assay[129]
+HRP uptake[129]
+Cutaneous trunci muscle 
+function[119, 123, 124]
+Electrophysiology[119, 123, 124] 
+iHC[134]
+iHC[133, 139, 145, 146]
+BBB[92, 145]
+inclined plane[145]
+Mechanical allodynia[145]
+Gridwalk[146]
+Beamwalk[146]
+SCi model used
+Complete transection[53, 140]
+Partial hemisection[141]
+Complete transection[116, 142]
+Hemisection[116]
+Compression injury[119, 123, 124, 143]
+PEG administered directly into cord[119, 123]
+PEG administered subcutaneously[124]
+organotypic SC culture[129]
+Compression injury[134]
+Laminectomy only[144]
+Complete transection[139]
+Lateral hemisection[145]
+Dorsal hemisection[146]
+Clip compression[92]
+Contusion[133]
+Main findings
+improved axon regeneration from vestibular 
+and red nucleus[53]
+Decreased cyst volume[140]
+Increased cell infiltration into scaffold[140]
+Moderate inflammatory response[141]
+Angiogenesis[141]
+Axon regeneration[116, 142]
+Qualitative motor  improvement[116, 142]
+New synapse formation[116]
+Angiogenesis[142]
+Reduction of glial scar[142]
+Decreased membrane permeability[129]
+Decreased reactive oxygen species[129]
+Decreased apoptosis[143]
+improved muscle function[119, 123, 124]
+improved electrophysiology[119, 123, 124]
+As a drug-releasing thin film, well-tolerated, 
+does not incorporate with tissue and preserves 
+bioactivity of drug[134]
+Protects cord after laminectomy[144]
+Prevents scar formation[144]
+As drug-releasing nanopart icles, wel l-
+tolerated with optimal release characteristics 
+and preserved bioactivity of drug[92, 133, 146]
+As scaffold for NSCs, increased sensory, 
+motor and reflex function, increased axon 
+regeneration and non-cytotoxic[145]
+As conduit, increased axon regeneration, 
+but over time collapse/breakdown of tubes 
+hindered axon survival[139]
+BBB, Basso, Beattie and Bresnahan score test; iHC, immunohistochemical staining; MRi, magnetic resonance imaging; EM, electron microscopy.
+Neurosci Bull     August 1, 2013, 29(4): 445–459452
+or therapy to counter the connective tissue deposition.
+Poly-ethylene-glycol (PEG)/poly-ethylene oxide (PEO) 
+PEG is a water-soluble hydrogel and can be designed to 
+be hydrolytically unstable, i.e., biodegradable, or inert, 
+i.e., non-degradable[7]. This is an attractive property, 
+especially for drug delivery, because it allows for controlled 
+degradation. Another quality is that PEG gels can be 
+modified to be thermally activated so that they are liquid 
+at room temperature but quickly gel in situ[118].  Due to its 
+hydrophilic properties, PEG has been useful in repairing 
+damaged neuronal membranes when applied directly to 
+the injury site immediately following a crush injury[119-122], 
+in a delayed application[123], or as a subcutaneous application[124]. 
+PEG is favorable as it is functionalizable and groups have 
+incorporated cell-binding domains such as RGD[125] and 
+iKVAV[126]. it can be used for cell immobilization[127] and drug 
+release[128].  Another interesting capability of PEG is that 
+it has anti-oxidant actions[129, 130], which may limit secondary 
+injury. PEG hydrogels have been used alone[119-123, 129, 130] 
+and as factors[128] or cellular carriers[131] after SCi and they 
+are generally considered promising candidates for nervous 
+tissue repair.
+Poly(vinyl alcohol) (PVA)  PVA is a degradable, 
+biocompatible, non-toxic, carbon-carbon backbone 
+polymer[132], which makes it an attractive option for 
+biomedical applications.  it is nontoxic, hydrophilic, and has 
+good adhesion properties. PVA is commonly used for drug 
+delivery directly to the injury site after SCi[133, 134]. PVA forms 
+hydrogels with varied mechanical properties based on the 
+water-content of the gel[7]. Unless it is functionalized, PVA 
+does not directly bind to cell surface receptors and causes 
+little immune response[134]. Therefore, unmodified PVA does 
+not elicit axonal growth responses. 
+Poly(α-hydroxyacids)  Poly(α-hydroxyacids)[135] include 
+poly(glycolic acid) (PGA), poly(lactic acid) (PLA), their co-
+polymer poly(lactic-co-glycolic acid) (PLGA) and poly(lactic-
+co-caprolactone) (PLCL). Varying the composition of these 
+co-polymers allows for precise control of degradation and 
+mechanical properties[136]; however, this class of polymers 
+does not form hydrogels. Therefore their use is limited to 
+conduits for complete transection. An important advantage 
+over other candidates is that they are FDA-approved for 
+use in the peripheral nervous system. They have been 
+shown to support regeneration after complete spinal 
+transection when combined with either growth factors[137] or 
+cell transplants[138, 139].  
+Axonal Regeneration: A Balance between Growth-
+Promoters and Growth-Inhibitors
+Many molecules at an injury site directly influence the 
+conduciveness of the environment for axonal regeneration. 
+Balancing these signals in ways that lead to axonal 
+regeneration is an important challenge in the field of spinal 
+cord repair. in essence, there are two ways to influence 
+this balance in favor of axonal growth: (1) remove/degrade 
+growth-inhibitory molecules, such as chondroitin-sulfate 
+proteoglycans (CSPGs), myelin-associated glycoproteins, 
+and others, and (2) introduce growth-promoting molecules, 
+such as neurotrophins (for review see[147]). An important 
+role for biomaterials is that of a delivery vehicle for factors 
+that, when released in a controlled fashion, may affect the 
+growth-inhibition balance so that axonal regeneration is 
+achieved.   
+Functionalizing Biomaterials to Tip the Balance
+Although intrinsically capable of regeneration[4], one reason 
+that CNS neurons fail to do so is the excess of inhibitory 
+signals within and around the injury site in the spinal cord[5]. 
+Many groups address this issue by incorporating molecules 
+into biomaterials to counter these injury-related signals over 
+a controlled period of time. The enzymes chondroitinase 
+(ChABC) (for review see[148]) and sialidase[149, 150], or a 
+combination of the two were shown to decrease growth 
+inhibition[151]. Many groups have shown that administration of 
+ChABC is associated with sensory axonal regeneration[152] 
+and functional recovery[148, 152, 153] when experimentally 
+introduced following SCi. When comparing the two, one 
+group found that sialidase increases axonal regeneration 
+and functional recovery[149-151] to a greater degree than 
+either ChABC alone or a sialidase/ChABC combination[151].
+Alternatively, groups have addressed this issue by 
+incorporating growth-promoting molecules into biomaterials. 
+Largely, this approach involves either presenting cell-
+matrix-binding ligands or growth factors to enhance 
+regeneration and encourage infiltration of growing axons 
+into and through the lesion site[154].  often, the cell-matrix-
+binding ligands are covalently attached to the material 
+itself, while growth factors are incorporated during the 
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 453
+polymerization phase and slowly released as the material 
+degrades. Growth factors often used in combination with 
+biomaterials are brain-derived neurotrophic factor[71, 155-159], 
+neurotrophin-3[156, 159], nerve growth factor[160-162], and ciliary 
+neurotrophic factor[155, 159, 163]. These factors appear to act 
+on both specific and shared target neurons and affect the 
+regeneration of different axonal tracts. This argues for the 
+careful choice of growth factor, depending on the deficit 
+and measure of recovery. With damage to multiple tracts, a 
+combination of factors may be necessary.  
+one technique to deliver multiple growth factors from 
+a biomaterial is to incorporate stem cells and stem cell-like 
+cells that secrete a growth-promoting cocktail of factors to 
+the damaged cells within an injury site (for review see[164, 165]). 
+Using biomaterials as a vehicle for transplants may offer 
+the protection and cues needed to increase survival of the 
+transplants in order to prolong their therapeutic effects and 
+provide meaningful regeneration and functional recovery. 
+in order to best enhance the survival of transplanted cells 
+in spinal cord repair, materials should protect the cells 
+from sources of cytotoxicity within the injury environment 
+(i.e., macrophages and reactive oxygen species), while 
+maintaining biologically-active interactions with the 
+transplant as a pseudo-ECM. Functionalizing biomaterials 
+with specific binding motifs could aid in providing a pseudo-
+ECM environment and protect cell transplants from anoikis 
+(a form of apoptotic death due to loss of attachment). These 
+cell-binding motifs include laminin-associated peptides[166, 167] 
+and more generally RGDs[165, 167, 168] and have shown some 
+improvements in transplant survival[165-169].
+Concluding Remarks
+Currently, a plethora of biomaterials is available and many 
+more are in development for use in spinal cord repair. Each 
+material has benefits and pitfalls when incorporated into 
+the injury site. in this review, a subset of materials widely 
+used in the field of spinal cord regeneration is presented. 
+When testing any biomaterial for spinal cord repair, the type 
+of material chosen should depend on the specific needs 
+of the injury. The most clinically-relevant injury in humans 
+is contusion, which occurs in >75% of all SCi cases. 
+Therefore, we argue that injectable, in situ gelling materials 
+hold the greatest clinically-relevant treatment potential. 
+injectable materials can be delivered either directly to 
+the epicenter or adjacent to the lesion site while causing 
+little additional damage. of the in situ gelling materials, 
+it is necessary that the immunogenicity of the material is 
+low and reliable sterilization techniques exist. Currently, 
+there is still some concern over the reliable sterilization of 
+natural polymers while more techniques are available to 
+safely sterilize synthetic polymers. The material should also 
+be biodegradable, preferably in such a way that it slowly 
+degrades as it is replaced by the naturally-regenerated 
+environment. Considering all of this, PEG-based hydrogels 
+meet many of these criteria, and when combined with the 
+innate ability to sequester reactive oxygen species, it is 
+reasonable to expect advances in this particular group of 
+in situ gelling materials which could make an important 
+contribution to the development of therapies for spinal cord 
+repair.
+ACKNOWLEDGEMENTS
+We would like to thank Matthew Wolf and Dr. Stephen Badylak for 
+their contribution to Figure 1. This review was supported by the 
+Wings for Life Foundation, Contract #: WFL-US-004/12. 
+Received date: 2013-03-26; Accepted date: 2013-06-14
+REFERENCES
+[1] one Degree of Separation: Paralysis and Spinal Cord injury 
+in the United States.  Christopher & Dana Reeve Foundation, 
+2010.
+[2] Cao HQ, Dong ED. An update on spinal cord injury research. 
+Neurosci Bull 2013, 29: 94–102.
+[3] Ramon Y Cajal S. Degeneration and Regeneration of the 
+Nervous System. London: oxford University Press, 1928.
+[4] von Euler M, Janson AM, Larsen Jo, Seiger A, Forno L, 
+Bunge MB, et al. Spontaneous axonal regeneration in rodent 
+spinal cord after ischemic injury. J Neuropathol Exp Neurol 
+2002, 61: 64–75.
+[5] Bunge MB. Bridging areas of injury in the spinal cord. 
+Neuroscientist 2001, 7: 325–339.
+[6] Jenkins AD, Kratochvil P, Stepto RFT, Suter UW. Glossary of 
+basic terms in polymer science. Pure Appl Chem 1996, 68: 
+2287–2311.
+[7] Ratner BD, Lemons J, Schoen F, Hoffman AS. Biomaterials 
+Science: An introduction to Materials in Medicine. 2nd ed. 
+San Diego: Academic Press, 2004.
+[8] Williams DF. on the mechanisms of biocompatibility. 
+Biomaterials 2008, 29: 2941–2953.
+Neurosci Bull     August 1, 2013, 29(4): 445–459454
+[9] Hiemstra C, Aa LJ, Zhong Z, Dijkstra PJ, Feijen J. Rapidly 
+in situ-forming degradable hydrogels from dextran thiols 
+through Michael addition. Biomacromolecules 2007, 8: 1548–
+1556.
+[10] Hiemstra C, Zhou W, Zhong Z, Wouters M, Feijen J. Rapidly 
+in situ forming biodegradable robust hydrogels by combining 
+stereocomplexation and photopolymerization. J Am Chem 
+Soc 2007, 129: 9918–9926.
+[11] Jain A, Kim YT, McKeon RJ, Bellamkonda RV. In situ gelling 
+hydrogels for conformal repair of spinal cord defects, and 
+local delivery of BDNF after spinal cord injury. Biomaterials 
+2006, 27: 497–504.
+[12] Slaughter BV, Khurshid SS, Fisher oZ, Khademhosseini A, 
+Peppas NA. Hydrogels in regenerative medicine. Adv Mater 
+2009, 21: 3307–3329.
+[13] Sanes JR. Extracellular matrix molecules that influence 
+neural development. Annu Rev Neurosci 1989, 12: 491–516.
+[14] Reichardt LF, Tomaselli KJ. Extracellular matrix molecules 
+and their receptors: functions in neural development. Annu 
+Rev Neurosci 1991, 14: 531–570.
+[15] Calof AL, Lander AD. Relationship between neuronal 
+migration and cell-substratum adhesion: laminin and merosin 
+promote olfactory neuronal migration but are anti-adhesive. J 
+Cell Biol 1991, 115: 779–794.
+[16] Busch SA, Silver J. The role of extracellular matrix in CNS 
+regeneration. Curr opin Neurobiol 2007, 17: 120–127.
+[17] Tomaselli KJ. Beta 1-integrin-mediated neuronal responses 
+to extracellular matrix proteins. Ann N Y Acad Sci 1991, 633: 
+100–104.
+[18] Ruoslahti E. RGD and other recognition sequences for 
+integrins. Annu Rev Cell Dev Biol 1996, 12: 697–715.
+[19] Badylak SF. The extracellular matrix as a scaffold for tissue 
+reconstruction. Semin Cell Dev Biol 2002, 13: 377–383.
+[20] Evans CH, Drouven BJ. The promotion of col lagen 
+polymerization by lanthanide and calcium ions. Biochem J 
+1983, 213: 751–758.
+[21] Di Lullo G, Sweeney S, Korkko J, Ala-Kokko L, San Antonio 
+J. Mapping the ligand-binding sites and disease-associated 
+mutations on the most abundant protein in the human, type i 
+collagen. J Biol Chem 2002, 277: 4223–4231.
+[22] Yurchenco PD, Furthmayr H. Self-assembly of basement 
+membrane collagen. Biochemistry 1984, 23: 1839–1850.
+[23] Wood GC. The formation of fibrils from collagen solutions. 
+3. Effect of chondroitin sulphate and some other naturally 
+occurring polyanions on the rate of formation. Biochem J 
+1960, 75: 605–612.
+[24] Wood GC. The formation of fibrils from collagen solutions. 2. 
+A mechanism of collagen-fibril formation. Biochem J 1960, 
+75: 598–605.
+[25] Wood GC, Keech MK. The formation of fibrils from collagen 
+solutions. 1. The effect of experimental conditions: kinetic and 
+electron-microscope studies. Biochem J 1960, 75: 588–598.
+[26] Sung KE, Su G, Pehlke C, Trier SM, Eliceiri KW, Keely PJ, et 
+al. Control of 3-dimensional collagen matrix polymerization 
+for reproducible human mammary fibroblast cell culture in 
+microfluidic devices. Biomaterials 2009, 30: 4833–4841.
+[27] Velegol D, Lanni F. Cell traction forces on soft biomaterials. 
+i. Microrheology of type i collagen gels. Biophysi J 2001, 81: 
+1786–1792.
+[28] Marriott RH. The swelling of single collagen fibre-bundles. 
+Biochem J 1932, 26: 46–53.
+[29] Jokinen J, Dadu E, Nykvist P, Kapyla J, White DJ, ivaska J, 
+et al. Integrin-mediated cell adhesion to type I collagen fibrils. 
+J Biol Chem 2004, 279: 31956–31963.
+[30] Vogel WF. Collagen-receptor signaling in health and disease. 
+Eur J Dermatol 2001, 11: 506–514.
+[31] Cholas R, Hsu HP, Spector M. Col lagen scaffo lds 
+incorporating select therapeutic agents to facilitate a 
+reparative response in a standardized hemiresection defect 
+in the rat spinal cord. Tissue Eng Part A 2012, 18: 2158–
+2172.
+[32] Cholas RH, Hsu HP, Spector M. The reparative response to 
+cross-linked collagen-based scaffolds in a rat spinal cord gap 
+model. Biomaterials 2012, 33: 2050–2059.
+[33] Dubey N, Letourneau PC, Tranquillo RT. Guided neurite 
+elongation and schwann cell invasion into magnetically 
+aligned collagen in simulated peripheral nerve regeneration. 
+Exp Neurol 1999, 158: 338–350.
+[34] Ceballos D, Navarro X, Dubey N, Wendelschafer-Crabb G, 
+Kennedy WR, Tranquillo RT. Magnetically aligned collagen 
+gel filling a collagen nerve guide improves peripheral nerve 
+regeneration. Exp Neurol 1999, 158: 290–300.
+[35] Verdu E, Labrador Ro, Rodriguez FJ, Ceballos D, Fores 
+J, Navarro X. Alignment of collagen and laminin-containing 
+gels improve nerve regeneration within silicone tubes. Restor 
+Neurol Neurosci 2002, 20: 169–179.
+[36] Torbet J, Malbouyres M, Builles N, Justin V, Roulet M, 
+Damour o, et al. orthogonal scaffold of magnetically 
+aligned collagen lamellae for corneal stroma reconstruction. 
+Biomaterials 2007, 28: 4268–4276.
+[37] Ma W, Fitzgerald W, Liu QY, o'Shaughnessy T, Maric D, Lin 
+H, et al. CNS stem and progenitor cell differentiation into 
+functinoal neuronal circuits in three-dimensional collagen 
+gels. Exp Neurol 2004, 190: 276–288.
+[38] Hatami M, Mehrjardi NZ, Kiani S, Hemmesi K, Azizi H, 
+Shahverdi A, et al. Human embryonic stem cell-derived 
+neural precursor transplants in collagen scaffolds promote 
+recovery in injured rat spinal cord. Cytotherapy 2009, 11: 
+618–630.
+[39] Labrador Ro, Buti M, Navarro X. influence of collagen 
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 455
+and laminin gels concentration on nerve regeneration after 
+resection and tube repair. Exp Neurol 1998, 149: 243–252.
+[40] Yoshii S, oka M, Shima M, Akagi M, Taniguchi A. Bridging a 
+spinal cord defect using collagen filament. Spine (Phila Pa 
+1976) 2003, 28: 2346–2351.
+[41] Colognato H, Winkelmann D, Yurchenco P. Laminin 
+polymerization induces a receptor-cytoskeleton network. J 
+Cell Biol 1999, 145: 619–631.
+[42] Freire E, Gomes F, Linden R, Neto V, Coelho-Sampaio T. 
+Structure of laminin substrates modulates cellular signaling 
+for neuritogenesis. J Cell Sci 2002, 115: 4867–4876.
+[43] Tomaselli K, Hall D, Flier L, Gehlsen K, Turner D, Carbonetto 
+S, et al. A neuronal cell line (PC12) expresses two b1 class 
+integrins a1b1 and a3b1-that recognize different neurite 
+outgrowth-promoting domains in laminin. Neuron 1990, 5: 
+651–662.
+[44] Cornbrooks CJ, Carey DJ, McDonald JA, Timpl R, Bunge 
+RP. In vivo and in vitro observations on laminin production 
+by Schwann cells. Proc Natl Acad Sci U S A 1983, 80: 3850–
+3854.
+[45] Plantman S, Patarroyo M, Fried K, Domogatskaya A, 
+Tryggvason K, Hammarberg H, et al. integrin-laminin 
+interactions controlling neurite outgrowth from adult DRG 
+neurons in vitro. Mol Cell Neurosci 2008, 39: 50–62.
+[46] Liesi P. Do neurons in the vertebrate CNS migrate on 
+laminin? EMBo J 1985, 4: 1163–1170.
+[47] Liesi P. Laminin-immoreactive glia distinguish regenerative 
+adult CNS systems from non-regenerative ones. EMBo J 
+1985, 4: 2505–2511.
+[48] Tate C, Shear D, Tate M, Archer D, Stein D, LaPlaca 
+M. Laminin and fibronectin scaffolds enhance neural 
+stem cell transplantation into the injured brain. J Regen 
+Med Tissue Eng  2009, 3: 208–217.
+[49] Menezes K, Lacerda de Menezes J, Nascimento M, de 
+Siqueira Santos R, Coelho-Sampaio T. Polylaminin, a 
+polymeric form of laminin, promotes regeneration after spinal 
+cord injury. FASEB J 2010, 24(11): 4513–4522. 
+[50] Colognato H, Yurchenco P. Form and function: the laminin 
+family of heterotrimers. Dev Dyn 2000, 218: 213–234.
+[51] Mruthyunjaya S, Manchanda R, Godbole R, Pujari R, Shiras 
+A, Shastry P. Laminin-1 induces neurite outgrowth in human 
+mesenchymal stem cells in serum/differentiation factors-free 
+conditions through activation of FAK-MEK/ERK signaling 
+pathways. Biochem Biophys Res Commun 2010, 391: 43–48.
+[52] Kleinman HK, Martin GR. Matrigel: basement membrane 
+matrix with biological activity. Semin Cancer Biol 2005, 15: 
+378–386.
+[53] Tsai EC, Dalton PD, Shoichet MS, Tator CH. Matrix inclusion 
+within synthetic hydrogel guidance channels improves 
+specific supraspinal and local axonal regeneration after 
+complete spinal cord transection. Biomaterials 2006, 27: 
+519–533.
+[54] Tate MC, Garcia AJ, Keselowsky BG, Schumm MA, Archer 
+DR, LaPlaca MC. Specific beta1 integrins mediate adhesion, 
+migration, and differentiation of neural progenitors derived 
+from the embryonic striatum. Mol Cell Neurosci 2004, 27: 
+22–31.
+[55] Giancotti FG, Ruoslahti E. integrin signaling. Science 1999, 
+285: 1028–1032.
+[56] Hodde J, Record R, Tullius R, Badylak S. Fibronectin 
+peptides mediate HMEC adhesion to porcine-derived 
+extracellular matrix. Biomaterials 2002, 23: 1841–1848.
+[57] Bozyczko D, Horwitz A. The participation of putative cell 
+surface receptor for laminin and fibronectin in peripheral 
+neurite extension. J Neurosci 1986, 6(5): 1241–1251.
+[58] Magnusson MK, Mosher DF. Fibronectin: structure, assembly, 
+and cardiovascular implications. Arterioscler Thromb Vasc 
+Biol 1998, 18: 1363–1370.
+[59] Miyamoto S, Katz BZ, Lafrenie RM, Yamada KM. Fibronectin 
+and integrins in cell adhesion, signaling, and morphogenesis. 
+Ann N Y Acad Sci 1998, 857: 119–129.
+[60] Aota S, Nomizu M, Yamada KM. The short amino acid 
+sequence Pro-His-Ser-Arg-Asn in human fibronectin 
+enhances cell-adhesive function. J Biol Chem 1994, 269: 
+24756–24761.
+[61] Redick SD, Settles DL, Briscoe G, Erickson HP. Defining 
+fibronectin's cell adhesion synergy site by site-directed 
+mutagenesis. J Cell Biol 2000, 149: 521–527.
+[62] Novikov LN, Novikova LN, Mosahebi A, Wiberg M, Terenghi 
+G, Kellerth Jo. A novel biodegradable implant for neuronal 
+rescue and regeneration after spinal cord injury. Biomaterials 
+2002, 23: 3369–3376.
+[63] oudega M. Molecular and cellular mechanisms underlying 
+the role of blood vessels in spinal cord injury and repair. Cell 
+Tissue Res 2012, 349: 269–288.
+[64] Novikova LN, Novikov LN, Kellerth Jo. Biopolymers and 
+biodegradable smart implants for tissue regeneration after 
+spinal cord injury. Curr opin Neurol 2003, 16: 711–715.
+[65] Bignami A, Hosley M, Dahl D. Hyaluronic acid and hyaluronic 
+acid-binding proteins in brain extracellular matrix. Anat 
+Embryol (Berl) 1993, 188: 419–433.
+[66] Cui FZ, Tian WM, Hou SP, Xu QY, Lee iS. Hyaluronic acid 
+hydrogel immobilized with RGD peptides for brain tissue 
+engineering. J Mater Sci Mater Med 2006, 17: 1393–1401.
+[67] Fuqua J, Stokols D, Gress J, Phil l ips K, Harvey R. 
+Transdisciplinary collaboration as a basis for enhancing the 
+science and prevention of Substance use and "Abuse". Subst 
+Use Misuse 2004, 39: 1457–1514.
+[68] Caicco MJ, Zahir T, Mothe AJ, Ballios BG, Kihm AJ, Tator 
+CH, et al. Characterization of hyaluronan-methylcellulose 
+Neurosci Bull     August 1, 2013, 29(4): 445–459456
+hydrogels for cell delivery to the injured spinal cord. J Biomed 
+Mater Res A 2013, 101(5): 1472–1477. 
+[69] Leach  JB ,  B ivens  KA,  Pa t r i ck  CW,  Schmid t  CE. 
+Photocrosslinked hyaluronic acid hydrogels: Natural, 
+biodegradable tissue engineering scaffolds. Biotechnol 
+Bioeng 2003, 82: 578–589.
+[70] Aust in  JW, Kang CE,  Baumann MD, DiDiodato L, 
+Satkunendrarajah K, Wilson JR, et al. The effects of 
+intrathecal injection of a hyaluronan-based hydrogel on 
+inflammation, scarring and neurobehavioural outcomes 
+in a rat model of severe spinal cord injury associated with 
+arachnoiditis. Biomaterials 2012, 33: 4555–4564.
+[71] Park J, Lim E, Back S, Na H, Park Y, Sun K. Nerve 
+regeneration following spinal cord injury using matrix 
+metal loproteinase-sensit ive, hyaluronic acid-based 
+biomimetic hydrogel scaffold containing brain-derived 
+neurotrophic factor. J Biomed Mater Res A 2010, 93: 1091–
+1099.
+[72] Horn EM, Beaumont M, Shu XZ, Harvey A, Prestwich GD, 
+Horn KM, et al. influence of cross-linked hyaluronic acid 
+hydrogels on neurite outgrowth and recovery from spinal cord 
+injury. J Neurosurg Spine 2007, 6: 133–140.
+[73] Halfter W, Reckhaus W, Kroger S. Nondirected axonal 
+growth on basal lamina from avian embryonic neural retina. J 
+Neurosci 1987, 7: 3712–3722.
+[74] Davis GE, Blaker SN, Engvall E, Varon S, Manthorpe M, 
+Gage FH. Human amnion membrane serves as a substratum 
+for growing axons in vitro and in vivo. Science 1987, 236: 
+1106–1109.
+[75] Halfter W, Candiello J, Hu H, Zhang P, Schreiber E, 
+Balasubramani M. Protein composition and biomechanical 
+properties of in vivo-derived basement membranes. Cell Adh 
+Migr 2013, 7: 64–71.
+[76] Bunge MB, Bunge RP, Kleitman N, Dean AC. Role of 
+peripheral nerve extracellular matrix in Schwann cell function 
+and in neurite regeneration. Dev Neurosci 1989, 11: 348–
+360.
+[77] Gilbert TW, Freund JM, Badylak SF. Quantification of DNA in 
+biologic scaffold materials. J Surg Res 2009, 152: 135–139.
+[78] Badylak S, Arnoczky S, Plouhar P, Haut R, Mendenhall V, 
+Clarke R, et al. Naturally occurring extracellular matrix as a 
+scaffold for musculoskeletal repair. Clin orthop Relat Res 
+1999, 367: S333–343.
+[79] Gilbert TW, Stolz DB, Biancaniello F, Simmons-Byrd A, 
+Badylak SF. Production and characterization of ECM powder: 
+implications for tissue engineering applications. Biomaterials 
+2005, 26: 1431–1435.
+[80] Medberry CJ, Crapo PM, Siu BF, Carruthers CA, Wolf MT, 
+Nagarkar SP, et al. Hydrogels derived from central nervous 
+system extracellular matrix. Biomaterials 2013, 34: 1033–
+1040.
+[81] Laflamme MA, Chen KY, Naumova AV, Muskheli V, Fugate 
+JA, Dupras SK, et al. Cardiomyocytes derived from human 
+embryonic stem cells in pro-survival factors enhance function 
+of infarcted rat hearts. Nat Biotechnol 2007, 25: 1015–1024.
+[82] Xu XM, Chen A, Guenard V, Kleitman N, Bunge MB. Bridging 
+Schwann cell transplants promote axonal regeneration from 
+both the rostral and caudal stumps of transected adult rat 
+spinal cord. J Neurocytol 1997, 26: 1–16.
+[83] Xu XM, Guenard V, Kleitman N, Bunge MB. Axonal 
+regeneration into Schwann cell-seeded guidance channels 
+grafted into transected adult rat spinal cord. J Comp Neurol 
+1995, 351: 145–160.
+[84] Badylak SF, Vorp DA, Spievack AR, Simmons-Byrd A, Hanke 
+J, Freytes Do, et al. Esophageal reconstruction with ECM 
+and muscle tissue in a dog model. J Surg Res 2005, 128: 
+87–97.
+[85] Liu J, Chen J, Liu B, Yang C, Xie D, Zheng X, et al. Acellular 
+spinal cord scaffold seeded with mesenchymal stem cells 
+promotes long-distance axon regeneration and functional 
+recovery in spinal cord injured rats. J Neurol Sci 2013, 325: 
+127–136.
+[86] Wrathall JR, Pettegrew RK, Harvey F. Spinal cord contusion 
+in the rat: production of graded, reproducible, injury groups. 
+Exp Neurol 1985, 88: 108–122.
+[87] Li X, Xiao Z, Han J, Chen L, Xiao H, Ma F, et al. Promotion 
+of neuronal differentiation of neural progenitor cells by using 
+EGFR antibody functionalized collagen scaffolds for spinal 
+cord injury repair. Biomaterials 2013, 34: 5107–5116.
+[88] Cheng H, Huang YC, Chang PT, Huang YY. Laminin-
+incorporated nerve conduits made by plasma treatment for 
+repairing spinal cord injury. Biochem Biophys Res Commun 
+2007, 357: 938–944.
+[89] Lin CY, Lee YS, Lin VW, Silver J. Fibronectin inhibits chronic 
+pain development after spinal cord injury. J Neurotrauma 
+2012, 29: 589–599.
+[90] King VR, Alovskaya A, Wei DY, Brown RA, Priestley JV. The 
+use of injectable forms of fibrin and fibronectin to support 
+axonal ingrowth after spinal cord injury. Biomaterials 2010, 
+31: 4447–4456.
+[91] King VR, Hewazy D, Alovskaya A, Phillips JB, Brown RA, 
+Priestley JV. The neuroprotective effects of fibronectin mats 
+and fibronectin peptides following spinal cord injury in the rat. 
+Neuroscience 2010, 168: 523–530.
+[92] Baumann MD, Kang CE, Tator CH, Shoichet MS. intrathecal 
+delivery of a polymeric nanocomposite hydrogel after spinal 
+cord injury. Biomaterials 2010, 31: 7631–7639.
+[93] Khaing ZZ, Milman BD, Vanscoy JE, Seidlits SK, Grill RJ, 
+Schmidt CE. High molecular weight hyaluronic acid limits 
+astrocyte activation and scar formation after spinal cord 
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 457
+injury. J Neural Eng 2011, 8: 046033.
+[94] Li C, Zhang X, Cao R, Yu B, Liang H, Zhou M, et al. Allografts 
+of the acellular sciatic nerve and brain-derived neurotrophic 
+factor repair spinal cord injury in adult rats. PLoS one 2012, 7: 
+e42813.
+[95] Xue H, Zhang XY, Liu JM, Song Y, Li  YF, Chen D. 
+Development of a chemically extracted acellular muscle 
+scaffold seeded with amniotic epithelial cells to promote 
+spinal cord repair. J Biomed Mater Res A 2013, 101: 145–
+156.
+[96] Bozkurt G, Mothe AJ, Zahir T, Kim H, Shoichet MS, Tator 
+CH. Chitosan channels containing spinal cord-derived stem/
+progenitor cells for repair of subacute spinal cord injury in the 
+rat. Neurosurgery 2010, 67: 1733–1744.
+[97] Haipeng G, Yinghui Z, Jianchun L, Yandao G, Nanming Z, 
+Xiufang Z. Studies on nerve cell affinity of chitosan-derived 
+materials. J Biomed Mater Res 2000, 52: 285–295.
+[98] Nomura H, Baladie B, Katayama Y, Morshead CM, Shoichet 
+MS, Tator CH. Delayed implantation of intramedullary 
+chitosan channels containing nerve grafts promotes extensive 
+axonal regeneration after spinal cord injury. Neurosurgery 
+2008, 63: 127–141; discussion 141–123.
+[99] Peluso G, Petil lo o, Ranieri M, Santin M, Ambrosio 
+L, Calabro D, et al. Chitosan-mediated stimulation of 
+macrophage function. Biomaterials 1994, 15: 1215–1220.
+[100] Crompton KE, Tomas D, Finkelstein Di, Marr M, Forsythe JS, 
+Horne MK. Inflammatory response on injection of chitosan/
+GP to the brain. J Mater Sci Mater Med 2006, 17: 633–639.
+[101] Varum KM, Myhr MM, Hjerde RJ, Smidsrod o. In vitro 
+degradation rates of partially N-acetylated chitosans in 
+human serum. Carbohydr Res 1997, 299: 99–101.
+[102] Lim SM, Song DK, oh SH, Lee-Yoon DS, Bae EH, Lee JH. In 
+vitro and in vivo degradation behavior of acetylated chitosan 
+porous beads. J Biomater Sci Polym Ed 2008, 19: 453–466.
+[103] Pangburn SH, Trescony PV, Heller J. Lysozyme degradation 
+of partially deacetylated chitin, its films and hydrogels. 
+Biomaterials 1982, 3: 105–108.
+[104] Luo Y, Shoichet MS. A photolabile hydrogel for guided three-
+dimensional cell growth and migration. Nat Mater 2004, 3: 
+249–253.
+[105] Bellamkonda R, Ranieri JP, Bouche N, Aebischer P. 
+Hydrogel-based three-dimensional matrix for neural cells. J 
+Biomed Mater Res 1995, 29: 663–671.
+[106] Stokols S, Tuszynski MH. The fabrication and characterization 
+of linearly oriented nerve guidance scaffolds for spinal cord 
+injury. Biomaterials 2004, 25: 5839–5846.
+[107] Zhang  B ,  Wang  Y,  Gao  M ,  Gu  M ,  Wang  C .  Tr i s  
+(hydroxymethyl)aminomethane-functionalized agarose 
+particles: parameters affecting the binding of bovine serum 
+albumin. J Sep Sci 2012, 35: 1406–1410.
+[108] Matyash M, Despang F, Mandal R, Fiore D, Gelinsky M, 
+ikonomidou C. Novel soft alginate hydrogel strongly supports 
+neurite growth and protects neurons against oxidative stress. 
+Tissue Eng Part A 2012, 18: 55–66.
+[109] Dillon GP, Yu X, Sridharan A, Ranieri JP, Bellamkonda RV. 
+The influence of physical structure and charge on neurite 
+extension in a 3D hydrogel scaffold. J Biomater Sci Polym Ed 
+1998, 9: 1049–1069.
+[110] Rowley JA, Madlambayan G, Mooney DJ. Alginate hydrogels 
+as synthetic extracellular matrix materials. Biomaterials 1999, 
+20: 45–53.
+[111] Nisbet DR, Crompton KE, Horne MK, Finkelstein Di, Forsythe 
+JS. Neural tissue engineering of the CNS using hydrogels. J 
+Biomed Mater Res B Appl Biomater 2008, 87: 251–263.
+[112] Nisbet DR, Rodda AE, Horne MK, Forsythe JS, Finkelstein 
+Di. implantation of functionalized thermally gelling xyloglucan 
+hydrogel within the brain: associated neurite infiltration and 
+inflammatory response. Tissue Eng Part A 2010, 16: 2833–
+2842.
+[113] oliveira AL, Sousa EC, Silva NA, Sousa N, Salgado AJ, Reis 
+RL. Peripheral mineralization of a 3D biodegradable tubular 
+construct as a way to enhance guidance stabilization in 
+spinal cord injury regeneration. J Mater Sci Mater Med 2012, 
+23: 2821–2830.
+[114] Dalton PD, Flynn L, Shoichet MS. Manufacture of poly(2-
+hydroxyethyl methacrylate-co-methyl methacrylate) hydrogel 
+tubes for use as nerve guidance channels. Biomaterials 
+2002, 23: 3843–3851.
+[115] Belkas JS, Munro CA, Shoichet MS, Johnston M, Midha 
+R. Long-term in vivo  biomechanical propert ies and 
+biocompatibility of poly(2-hydroxyethyl methacrylate-co-
+methyl methacrylate) nerve conduits. Biomaterials 2005, 26: 
+1741–1749.
+[116] Woerly S, Pinet E, de Robertis L, Van Diep D, Bousmina M. 
+Spinal cord repair with PHPMA hydrogel containing RGD 
+peptides (NeuroGel). Biomaterials 2001, 22: 1095–1111.
+[117] Lesny P, De Croos J, Pradny M, Vacik J, Michalek J, Woerly 
+S, et al. Polymer hydrogels usable for nervous tissue repair. 
+J Chem Neuroanat 2002, 23: 243–247.
+[118] Park D, Wu W, Wang Y. A functionalizable reverse thermal gel 
+based on polyurethane/PEG block copolymer. Biomaterials 
+2011, 32: 777–786.
+[119] Borgens RB, Shi R. immediate recovery from spinal cord 
+injury through molecular repair of nerve membranes with 
+polyethylene glycol. FASEB J 2000, 14: 27–35.
+[120] Shi R, Borgens RB. Anatomical repair of nerve membranes 
+in crushed mammalian spinal cord with polyethylene glycol. J 
+Neurocytol 2000, 29: 633–643.
+[121] Shi R, Borgens RB. Acute repair of crushed guinea pig spinal 
+cord by polyethylene glycol. J Neurophysiol 1999, 81: 2406–
+Neurosci Bull     August 1, 2013, 29(4): 445–459458
+2414.
+[122] Shi R, Borgens RB, Blight AR. Functional reconnection of 
+severed mammalian spinal cord axons with polyethylene 
+glycol. J Neurotrauma 1999, 16: 727–738.
+[123] Borgens RB, Shi R, Bohnert D. Behavioral recovery 
+from spinal cord injury following delayed application of 
+polyethylene glycol. J Exp Biol 2002, 205: 1–12.
+[124] Borgens RB, Bohnert D. Rapid recovery from spinal cord 
+injury after subcutaneously administered polyethylene glycol. 
+J Neurosci Res 2001, 66: 1179–1186.
+[125] Mann BK, Gobin AS, Tsai AT, Schmedlen RH, West JL. 
+Smooth muscle cell growth in photopolymerized hydrogels 
+with cell adhesive and proteolytically degradable domains: 
+synthetic ECM analogs for tissue engineering. Biomaterials 
+2001, 22: 3045–3051.
+[126] Park D, Wu W, Wang Y. A functionalizable reverse thermal gel 
+based on a polyurethane/PEG block copolymer. Biomaterials 
+2011, 32: 777–786.
+[127] Chen N, Zhang Z, Soontornworajit B, Zhou J, Wang Y. Cell 
+adhesion on an artificial extracellular matrix using aptamer-
+functionalized PEG hydrogels. Biomaterials 2012, 33: 1353–
+1362.
+[128] Lin CC, Anseth KS. PEG hydrogels for the controlled release 
+of biomolecules in regenerative medicine. Pharm Res 2009, 
+26: 631–643.
+[129] Luo J, Borgens R, Shi R. Polyethylene glycol immediately 
+repairs neuronal membranes and inhibits free radical 
+production after acute spinal cord injury. J Neurochem 2002, 
+83: 471–480.
+[130] Luo J, Borgens R, Shi R. Polyethylene glycol improves 
+function and reduces oxidative stress in synaptosomal 
+preparations following spinal cord injury. J Neurotrauma 
+2004, 21: 994–1007.
+[131] Royce Hynes S, McGregor LM, Ford Rauch M, Lavik EB. 
+Photopolymerized poly(ethylene glycol)/poly(L-lysine) 
+hydrogels for the delivery of neural progenitor cells. J 
+Biomater Sci Polym Ed 2007, 18: 1017–1030.
+[132] Chiellini E, Corti A, D'Antone S, Solaro R. Biodegradation of 
+poly (vinyl alcohol) based materials. Prog Polym Sci 2003, 
+28: 963–1014.
+[133] Chvatal SA, Kim YT, Bratt-Leal AM, Lee H, Bellamkonda 
+RV. Spatial distribution and acute anti-inflammatory effects 
+of Methylprednisolone after sustained local delivery to the 
+contused spinal cord. Biomaterials 2008, 29: 1967–1975.
+[134] Comolli N, Donaldson o, Grantier N, Zhukareva V, Tom VJ. 
+Polyvinyl alcohol-polyvinyl pyrrolidone thin films provide local 
+short-term release of anti-inflammatory agents post spinal 
+cord injury. J Biomed Mater Res B Appl Biomater 2012, 
+100B: 1867–1873.
+[135] Chen BK, Knight AM, de Ruiter GC, Spinner RJ, Yaszemski 
+MJ, Currier BL, et al. Axon regeneration through scaffold into 
+distal spinal cord after transection. J Neurotrauma 2009, 26: 
+1759–1771.
+[136] Straley KS, Foo CW, Heilshorn SC. Biomaterial design 
+strategies for the treatment of spinal cord injuries. J 
+Neurotrauma 2010, 27: 1–19.
+[137] Patist CM, Mulder MB, Gautier SE, Maquet V, Jerome R, 
+oudega M. Freeze-dried poly(D,L-lactic acid) macroporous 
+guidance scaffolds impregnated with brain-derived 
+neurotrophic factor in the transected adult rat thoracic spinal 
+cord. Biomaterials 2004, 25: 1569–1582.
+[138] Gautier SE, oudega M, Fragoso M, Chapon P, Plant GW, 
+Bunge MB, et al. Poly(alpha-hydroxyacids) for application in 
+the spinal cord: resorbability and biocompatibility with adult 
+rat Schwann cells and spinal cord. J Biomed Mater Res 
+1998, 42: 642–654.
+[139] oudega M, Gautier SE, Chapon P, Fragoso M, Bates ML, 
+Parel JM, et al. Axonal regeneration into Schwann cell grafts 
+within resorbable poly(alpha-hydroxyacid) guidance channels 
+in the adult rat spinal cord. Biomaterials 2001, 22: 1125–
+1136.
+[140] Hejcl A, Urdzikova L, Sedy J, Lesny P, Pradny M, Michalek 
+J, et al. Acute and delayed implantation of positively charged 
+2-hydroxyethyl methacrylate scaffolds in spinal cord injury in 
+the rat. J Neurosurg Spine 2008, 8: 67–73.
+[141] Bakshi A, Fisher o, Dagci T, Himes BT, Fischer i, Lowman 
+A. Mechanically engineered hydrogel scaffolds for axonal 
+growth and angiogenesis after transplantation in spinal cord 
+injury. J Neurosurg Spine 2004, 1: 322–329.
+[142] Woerly S, Doan VD, Sosa N, de Vellis J, Espinosa-Jeffrey 
+A. Prevention of gliotic scar formation by NeuroGel allows 
+partial endogenous repair of transected cat spinal cord. J 
+Neurosci Res 2004, 75: 262–272.
+[143] Luo J, Shi R. Polyethylene glycol inhibits apoptotic cell death 
+following traumatic spinal cord injury. Brain Res 2007, 1155: 
+10–16.
+[144] Hiraizumi Y, Transfeldt EE, Fujimaki E, Nambu M. Application 
+of polyvinyl alcohol hydrogel membrane as anti-adhesive 
+interposition after spinal surgery. Spine (Phila Pa 1976) 1995, 
+20: 2272–2277.
+[145] Teng YD, Lavik EB, Qu X, Park Ki, ourednik J, Zurakowski 
+D, et al. Functional recovery following traumatic spinal cord 
+injury mediated by a unique polymer scaffold seeded with 
+neural stem cells. Proc Natl Acad Sci U S A 2002, 99: 3024–
+3029.
+[146] Kim YT, Caldwell JM, Bellamkonda RV. Nanoparticle-
+mediated local delivery of Methylprednisolone after spinal 
+cord injury. Biomaterials 2009, 30: 2582–2590.
+[147] Jones LL,  oudega M,  Bunge MB,  Tuszynsk i  MH. 
+Neurotrophic factors, cellular bridges and gene therapy for 
+Agnes E. Haggerty, et al.    Biomaterials for spinal cord repair 459
+spinal cord injury. J Physiol 2001, 533: 83–89.
+[148] Bradbury EJ, Carter LM. Manipulating the glial scar: 
+chondroitinase ABC as a therapy for spinal cord injury. Brain 
+Res Bull 2011, 84: 306–316.
+[149] Mountney A, Zahner MR, Lorenzini i, oudega M, Schramm 
+LP, Schnaar RL. Sialidase enhances recovery from spinal 
+cord contusion injury. Proc Natl Acad Sci U S A 2010, 107: 
+11561–11566.
+[150] Yang LJ, Lorenzini i, Vajn K, Mountney A, Schramm LP, 
+Schnaar RL. Sialidase enhances spinal axon outgrowth in 
+vivo. Proc Natl Acad Sci U S A 2006, 103: 11057–11062.
+[151] Mountney A, Zahner MR, Sturgill ER, Riley CJ, Aston 
+JW, oudega M, et al. Sialidase, chondroitinase ABC, and 
+combination therapy after spinal cord contusion injury. J 
+Neurotrauma 2013, 30: 181–190.
+[152] Steinmetz MP, Horn KP, Tom VJ, Miller JH, Busch SA, Nair D, 
+et al. Chronic enhancement of the intrinsic growth capacity of 
+sensory neurons combined with the degradation of inhibitory 
+proteoglycans allows functional regeneration of sensory 
+axons through the dorsal root entry zone in the mammalian 
+spinal cord. J Neurosci 2005, 25: 8066–8076.
+[153] Bradbury EJ, Moon LD, Popat RJ, King VR, Bennett GS, 
+Patel PN, et al. Chondroitinase ABC promotes functional 
+recovery after spinal cord injury. Nature 2002, 416: 636–640.
+[154] He L, Lu QR. Coordinated control of oligodendrocyte 
+development by extrinsic and intrinsic signaling cues. 
+Neurosci Bull 2013, 29: 129–143.
+[155] Bregman BS, McAtee M, Dai HN, Kuhn PL. Neurotrophic 
+factors increase axonal growth after spinal cord injury and 
+transplantation in the adult rat. Exp Neurol 1997, 148: 475–494.
+[156] Brock JH, Rosenzweig ES, Blesch A, Moseanko R, Havton 
+LA, Edgerton VR, et al. Local and remote growth factor 
+effects after primate spinal cord injury. J Neurosci 2010, 30: 
+9728–9737.
+[157] Novikova LN, Novikov LN, Kellerth Jo. Differential effects of 
+neurotrophins on neuronal survival and axonal regeneration 
+after spinal cord injury in adult rats. J Comp Neurol 2002, 
+452: 255–263.
+[158] Xu XM, Guenard V, Kleitman N, Aebischer P, Bunge MB. A 
+combination of BDNF and NT-3 promotes supraspinal axonal 
+regeneration into Schwann cell grafts in adult rat thoracic 
+spinal cord. Exp Neurol 1995, 134: 261–272.
+[159] Ye JH, Houle JD. Treatment of the chronically injured 
+spinal cord with neurotrophic factors can promote axonal 
+regeneration from supraspinal neurons. Exp Neurol 1997, 
+143: 70–81.
+[160] Namiki J, Kojima A, Tator CH. Effect of brain-derived 
+neurotrophic factor, nerve growth factor, and neurotrophin-3 
+on functional recovery and regeneration after spinal cord 
+injury in adult rats. J Neurotrauma 2000, 17: 1219–1231.
+[161] oudega M, Hagg T. Nerve growth factor promotes 
+regeneration of sensory axons into adult rat spinal cord. Exp 
+Neurol 1996, 140: 218–229.
+[162] M c Ti g u e  D M ,  H o r n e r  P J ,  S t o k e s  B T,  G a g e  F H . 
+Neurotrophin-3 and brain-derived neurotrophic factor induce 
+oligodendrocyte proliferation and myelination of regenerating 
+axons in the contused adult rat spinal cord. J Neurosci 1998, 
+18: 5354–5365.
+[163] Albrecht PJ, Dahl JP, Stoltzfus oK, Levenson R, Levison SW. 
+Ciliary neurotrophic factor activates spinal cord astrocytes, 
+stimulating their production and release of fibroblast growth 
+factor-2, to increase motor neuron survival. Exp Neurol 2002, 
+173: 46–62.
+[164] Ritfeld GJ, Roos RA, oudega M. Stem cells for central 
+nervous system repair and rehabilitation. PM R 2011, 3: 
+S117–122.
+[165] Cooke MJ, Vulic K, Shoichet MS. Design of biomaterials 
+to enhance stem cell survival when transplanted into the 
+damaged central nervous system. Soft Matter 2010, 6: 4988–
+4998.
+[166] Munoz J, Zhou Y, Jarrett HW. LG4-5 domains of laminin-211 
+binds alpha-dystroglycan to allow myotube attachment and 
+prevent anoikis. J Cell Physiol 2010, 222: 111–119.
+[167] Kim H, Cooke MJ, Shoichet MS. Creating permissive 
+microenvironments for stem cell transplantation into the 
+central nervous system. Trends Biotechnol 2012, 30: 55–63.
+[168] Silva NA, Cooke MJ, Tam RY, Sousa N, Salgado AJ, Reis 
+RL, et al. The effects of peptide modified gellan gum and 
+olfactory ensheathing glia cells on neural stem/progenitor cell 
+fate. Biomaterials 2012, 33: 6345–6354.
+[169] Cooke MJ, Zahir T, Phillips SR, Shah DS, Athey D, Lakey 
+JH, et al. Neural differentiation regulated by biomimetic 
+surfaces presenting motifs of extracellular matrix proteins. J 
+Biomed Mater Res A 2010, 93: 824–832.

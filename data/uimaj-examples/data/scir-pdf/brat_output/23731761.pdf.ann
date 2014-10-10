@@ -1,0 +1,177 @@
+T1	Gene 1626 1637	thyrotropin
+T2	Gene 1921 1933	neurotrophin
+T3	Gene 4513 4515	I2
+T4	Gene 4517 4531	ALI-REZA ZALI1
+T5	Gene 4533 4545	AMIR ATASHI2
+T6	Gene 5309 5312	MSC
+T7	Gene 5317 5341	SC transplantation alone
+T8	Gene 6863 6871	Few clin
+T9	Gene 7700 7704	M 17
+T10	Gene 7750 7754	M 15
+T11	Gene 7760 7764	M 25
+T12	Gene 8324 8327	SCI
+T13	Gene 9433 9439	T9 T10
+T14	Gene 9443 9448	T6 T7
+T15	Gene 9452 9457	T3 T5
+T16	Gene 9461 9467	T12 L1
+T17	Gene 9471 9478	T11 T12
+T18	Gene 9482 9487	T8 T9
+T19	Gene 9491 9496	T1 T2
+T20	Gene 9500 9505	C4 C5
+T21	Gene 9976 9985	anti-S100
+T22	Gene 9989 9997	anti-P75
+T23	Gene 10877 10880	SCs
+T24	Gene 11766 11777	collagenase
+T25	Gene 13873 13877	CD45
+T26	Gene 13879 13883	CD73
+T27	Gene 13939 13943	CD90
+T28	Gene 14326 14333	Win MDI
+T29	Gene 15192 15199	trypsin
+T30	Gene 16093 16100	Win MDI
+T31	Gene 16326 16339	P-75 antibody
+T32	Gene 16800 16807	insulin
+T33	Gene 17743 17757	S-100 antibody
+T34	Gene 17954 17958	P-75
+T35	Gene 18187 18191	CD90
+T36	Gene 18196 18201	CD105
+T37	Gene 18219 18223	CD45
+T38	Gene 19138 19143	CD 73
+T39	Gene 19145 19149	CD90
+T40	Gene 19154 19159	CD105
+T41	Gene 19177 19181	CD45
+T42	Gene 21726 21734	Table II
+T43	Gene 24398 24401	SCs
+T44	Gene 32335 32340	Jan M
+T45	Gene 34312 34348	Controlled release of neurotrophin-3
+T46	Gene 34389 34395	fibrin
+T47	Gene 34576 34578	SH
+T48	Gene 34580 34585	Lee D
+T49	Gene 34587 34593	Choi K
+T50	Gene 34595 34598	Kim
+T51	Gene 34968 34971	Med
+T52	Gene 36355 36375	Lo TP Jr, Barakat DJ
+T53	Gene 36752 36753	P
+T54	Gene 36755 36766	Ruzicková K
+T55	Gene 36768 36778	Arboleda D
+T56	Gene 36780 36788	Syková E
+T57	Gene 37852 37856	Case
+T58	Gene 38450 38458	collagen
+T59	Gene 38924 38940	Hao J, Spenger C
+T60	Species 9901 9905	goat
+T61	Species 11298 11302	calf
+T62	Species 11887 11893	bovine
+T63	Species 13867 13872	human
+T64	Species 15073 15078	tetra
+T65	Species 16193 16198	human
+T66	Species 19023 19028	human
+T67	Species 23701 23706	human
+T68	Species 26616 26619	rat
+T69	Species 26756 26760	rats
+T70	Species 29963 29968	human
+T71	Species 31817 31822	human
+T72	Species 32438 32443	human
+T73	Species 32663 32667	Ruff
+T74	Species 33954 33957	rat
+T75	Species 34658 34662	dogs
+T76	Species 35404 35409	human
+T77	Species 35908 35913	human
+T78	Species 36695 36699	rats
+T79	Species 36937 36940	rat
+T80	Species 39203 39208	human
+T81	InteractionKeyword 333 339	causes
+T82	InteractionKeyword 447 453	raised
+T83	InteractionKeyword 1680 1687	limited
+T84	InteractionKeyword 1725 1735	facilitate
+T85	InteractionKeyword 1814 1821	express
+T86	InteractionKeyword 2833 2839	change
+T87	InteractionKeyword 2908 2915	changes
+T88	InteractionKeyword 4751 4757	raised
+T89	InteractionKeyword 4983 4990	promote
+T90	InteractionKeyword 5056 5063	produce
+T91	InteractionKeyword 5619 5626	effects
+T92	InteractionKeyword 6137 6144	results
+T93	InteractionKeyword 7831 7839	resulted
+T94	InteractionKeyword 8641 8649	followed
+T95	InteractionKeyword 9086 9096	determined
+T96	InteractionKeyword 9885 9892	blocked
+T97	InteractionKeyword 10454 10461	changes
+T98	InteractionKeyword 10653 10660	changes
+T99	InteractionKeyword 11349 11357	modified
+T100	InteractionKeyword 12009 12018	increased
+T101	InteractionKeyword 13581 13587	formed
+T102	InteractionKeyword 14072 14079	control
+T103	InteractionKeyword 14101 14108	binding
+T104	InteractionKeyword 14240 14246	formed
+T105	InteractionKeyword 14583 14590	induced
+T106	InteractionKeyword 14702 14712	determined
+T107	InteractionKeyword 15204 15215	neutralized
+T108	InteractionKeyword 15613 15619	formed
+T109	InteractionKeyword 16025 16035	determined
+T110	InteractionKeyword 16115 16122	results
+T111	InteractionKeyword 16210 16217	control
+T112	InteractionKeyword 16889 16894	limit
+T113	InteractionKeyword 17088 17095	prevent
+T114	InteractionKeyword 17772 17779	control
+T115	InteractionKeyword 18732 18739	results
+T116	InteractionKeyword 19219 19227	produced
+T117	InteractionKeyword 19554 19561	effects
+T118	InteractionKeyword 20727 20734	control
+T119	InteractionKeyword 20792 20802	determined
+T120	InteractionKeyword 21327 21334	changes
+T121	InteractionKeyword 21583 21590	changes
+T122	InteractionKeyword 21763 21769	change
+T123	InteractionKeyword 21983 21990	changes
+T124	InteractionKeyword 22127 22135	required
+T125	InteractionKeyword 22198 22206	increase
+T126	InteractionKeyword 22244 22252	required
+T127	InteractionKeyword 22334 22343	decreased
+T128	InteractionKeyword 22458 22465	control
+T129	InteractionKeyword 22656 22663	control
+T130	InteractionKeyword 23117 23124	changes
+T131	InteractionKeyword 23224 23231	changes
+T132	InteractionKeyword 23312 23319	involve
+T133	InteractionKeyword 23673 23680	promote
+T134	InteractionKeyword 24802 24811	increased
+T135	InteractionKeyword 25359 25366	results
+T136	InteractionKeyword 25479 25486	results
+T137	InteractionKeyword 25828 25838	recognized
+T138	InteractionKeyword 26591 26598	effects
+T139	InteractionKeyword 26994 27000	change
+T140	InteractionKeyword 27156 27162	caused
+T141	InteractionKeyword 27368 27371	led
+T142	InteractionKeyword 27563 27570	control
+T143	InteractionKeyword 27884 27891	control
+T144	InteractionKeyword 28059 28068	decreases
+T145	InteractionKeyword 28310 28317	results
+T146	InteractionKeyword 28894 28902	increase
+T147	InteractionKeyword 29255 29264	increased
+T148	InteractionKeyword 29670 29677	effects
+T149	InteractionKeyword 29999 30005	caused
+T150	InteractionKeyword 30032 30038	effect
+T151	InteractionKeyword 30123 30130	limited
+T152	InteractionKeyword 30227 30237	controlled
+T153	InteractionKeyword 30597 30605	required
+T154	InteractionKeyword 30647 30654	effects
+T155	InteractionKeyword 31299 31306	results
+T156	InteractionKeyword 31463 31472	increases
+T157	InteractionKeyword 31564 31572	required
+T158	InteractionKeyword 32737 32744	promote
+T159	InteractionKeyword 32756 32765	following
+T160	InteractionKeyword 33308 33319	stimulating
+T161	InteractionKeyword 34443 34451	enhances
+T162	InteractionKeyword 36573 36582	activated
+T163	InteractionKeyword 36897 36904	effects
+T164	InteractionKeyword 37857 37864	control
+T165	InteractionKeyword 38417 38423	effect
+T166	InteractionKeyword 38582 38590	inhibits
+T167	InteractionKeyword 38770 38779	following
+T168	InteractionKeyword 38959 38965	limits
+T169	InteractionKeyword 39021 39029	directed
+R170	Partner1 Arg1:T88 Arg2:T3
+R171	Partner2 Arg1:T88 Arg2:T4
+R172	Partner1 Arg1:T116 Arg2:T41
+R173	Partner2 Arg1:T116 Arg2:T38
+R174	Partner1 Arg1:T161 Arg2:T45
+R175	Partner2 Arg1:T161 Arg2:T46
+R176	Partner1 Arg1:T163 Arg2:T54
+R177	Partner2 Arg1:T163 Arg2:T55

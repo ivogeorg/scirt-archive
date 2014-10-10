@@ -1,0 +1,999 @@
+Neural stem cells constitutively secrete neurotrophic factors and
+promote extensive host axonal growth after spinal cord injury
+P. Lu,a L.L. Jones,a E.Y. Snyder,b and M.H. Tuszynskia,c,*
+a Department of Neurosciences, University of California at San Diego, La Jolla, CA 92093-0626, USA
+b Departments of Pediatrics, Neurosurgery, and Neurology, Children’s Hospital, Boston, Harvard Medical School, Boston, MA 02115, USA
+c Veterans Administration Medical Center, San Diego, CA 92165, USA
+Received 29 May 2002; revised 30 September 2002; accepted 5 December 2002
+Abstract
+Neural stem cells (NSCs) offer the potential to replace lost tissue after nervous system injury. This study investigated whether grafts of
+NSCs (mouse clone C17.2) could also specifically support host axonal regeneration after spinal cord injury and sought to identify
+mechanisms underlying such growth. In vitro, prior to grafting, C17.2 NSCs were found for the first time to naturally constitutively secrete
+significant quantities of several neurotrophic factors by specific ELISA, including nerve growth factor, brain-derived neurotrophic factor,
+and glial cell line-derived neurotrophic factor. When grafted to cystic dorsal column lesions in the cervical spinal cord of adult rats, C17.2
+NSCs supported extensive growth of host axons of known sensitivity to these growth factors when examined 2 weeks later. Quantitative
+real-time RT-PCR confirmed that grafted stem cells expressed neurotrophic factor genes in vivo. In addition, NSCs were genetically
+modified to produce neurotrophin-3, which significantly expanded NSC effects on host axons. Notably, overexpression of one growth factor
+had a reciprocal effect on expression of another factor. Thus, stem cells can promote host neural repair in part by secreting growth factors,
+and their regeneration-promoting activities can be modified by gene delivery.
+© 2003 Elsevier Science (USA). All rights reserved.
+Keywords: Neural stem cells; Neurotrophins; Axonal growth; Spinal cord injury; Transplantation; Ex vivo gene therapy
+Introduction
+The natural capacity of the central nervous system (CNS)
+to recover from injury is limited (Ramon y Cajal, 1928/
+1991), thus most research into spinal cord injury (SCI)
+focuses upon promoting axonal growth and reducing neu-
+ronal degeneration. Multipotent neural stem cells (NSCs)
+could enhance neural repair after SCI either by replacing
+host cells that have died or, perhaps more importantly, by
+promoting host axonal regeneration. Stem cells could pro-
+mote axonal regeneration either by reconstituting a “bridge”
+through a lesion site capable of supporting axonal attach-
+ment and growth or by secreting diffusible molecules such
+as growth factors to attract injured axons. Previous studies
+have reported the feasibility of transplantation of neural
+stem cells or fetal spinal cord cells into intact or injured
+spinal cords and reported limited stem cell differentiation
+(Cao et al., 2001; Chow et al., 2000; Hammang et al., 1997;
+Liu et al., 1999; McDonald et al., 1999; Onifer et al., 1997;
+Shihabuddin et al., 2000; Zompa et al., 1997; for review see
+Cao et al., 2002; Keirstead, 2001). Among these studies,
+McDonald et al. demonstrated that transplantation of em-
+bryonic stem cells promotes functional recovery after SCI,
+yet mechanisms underlying this beneficial effect have not
+been fully defined. Remyelination of host axons by neural
+stem cells may be one mechanism generating functional
+recovery (Liu et al., 2000), but whether stem cells also
+promote host axonal regeneration is unknown.
+The murine C17.2 clone is a prototypical, stable, and
+extensively characterized NSC line. Originally derived from
+neonatal mouse cerebellum, it evinces the prototypical and
+defining features of a stem cell: multipotency, self-renewal,
+* Corresponding author. Department of Neurosciences-0626, Univer-
+sity of California, San Diego, La Jolla, CA 92093. Fax: 1-858-534-5220.
+E-mail address: mtuszynski@ucsd.edu (M.H. Tuszynski).
+R
+Available online at www.sciencedirect.com
+Experimental Neurology 181 (2003) 115–129 www.elsevier.com/locate/yexnr
+0014-4886/03/$ – see front matter © 2003 Elsevier Science (USA). All rights reserved.
+doi:10.1016/S0014-4886(03)00037-2
+self-maintenance, expression of stem cell antigens, and re-
+sponsiveness to various stem cell trophins (Ryder et al.,
+1990; Snyder et al., 1992). Importantly, as required of a
+stem cell, C17.2 NSCs contribute to the development of the
+organism throughout the neuraxis and across developmental
+time periods, from fetal to adult (Lacorazza et al., 1996;
+Snyder et al., 1992). In addition, it has been reported that
+grafting these cells to the nervous system corrects various
+abnormalities in models of abnormal CNS development or
+injury (Rosario et al., 1997; Snyder et al., 1995, 1997a,
+1997b; Yandava et al., 1999).
+The present study investigated whether grafts of NSCs
+(as modeled by clone C17.2) could support host axonal
+growth after SCI and sought to identify potential mecha-
+nisms underlying such growth. We examined the hypothesis
+that NSCs constitutively produce and secrete neurotrophic
+factors, which could promote the growth of host spinal
+axons after injury. In addition, we hypothesized that genet-
+ically modifying NSCs to produce augmented levels of
+growth factors, in this case neurotrophin-3 (NT-3), would
+enhance their growth, differentiation, and regeneration-pro-
+moting activities. Findings of this study indicate that grafts
+of neural stem cells to sites of spinal cord injury promote
+robust axonal growth, that intrinsic growth factor produc-
+tion by NSCs corresponds to observed patterns of axonal
+growth, and that augmentation of natural growth factor
+production by transduction with NT-3 extends the spectrum
+of host axon sensitivity to stem cell grafts.
+Materials and methods
+Cell culture
+The C17.2 cell line was generated as previously de-
+scribed (Ryder et al., 1990; Snyder et al., 1992). Cells were
+grown in high-glucose DMEM with 10% fetal bovine serum
+(Sigma), 5% horse serum (Gibco), and 2 mM glutamine, on
+poly-L-lysine- or poly-L-ornithine-coated (10 g/ml, Sigma)
+tissue culture dishes in standard humidified 5% CO2 at
+37°C. Cells were maintained in culture either by splitting
+1:10 into fresh medium or by feeding twice weekly with a
+1:1 mixture of conditioned medium from confluent C17.2
+cultures and fresh medium. Primary cultures of Fisher 344
+rat fibroblasts (FF227, FF501) were generated from skin
+biopsies as previously described (Tuszynski et al., 1996a)
+and maintained in standard medium containing 10% fetal
+bovine serum.
+Transduction of C17.2 NSCs and rat primary fibroblasts
+with the green fluorescent protein (GFP) reporter gene
+To track grafted cells in vivo, C17.2 NSCs and rat
+primary fibroblasts were transduced with the GFP reporter
+gene. The GFP cDNA was obtained from phGFP–S65T
+(Clontech, Palo Alto, CA) by digestion with XbaI and
+HindIII. The digested GFP plasmid termini were blunted
+with Klenow polymerase and ligated into the HpaI-di-
+gested, dephosphorlated plasmid pLXSN vector (Clontech).
+Recombinant clones were identified by EcoRI and BamHI
+double digestion and the orientation of the insert was ex-
+amined by NotI and EcoRI digestion. The plasmid pLXSN–
+GFP was then transfected into the stable viral producer line
+PA317 utilizing the ecotropic packaging cell line psi-2 as
+described previously (Blesch et al., 1999; Tuszynski et al.,
+1996a). Virus-containing medium from the producer cells
+was collected and used to infect C17.2 cells and rat primary
+fibroblasts. GFP-expressing C17.2 NSCs were analyzed and
+sorted following standard procedures by a FACS scan with
+a standard excitation wavelength of 488 nm. GFP-trans-
+duced rat primary fibroblasts were selected using medium
+containing G418 (400 g/ml, Sigma), as previously de-
+scribed (Tuszynski et al., 1996a).
+Transfection of C17.2 NSCs with the NT-3 gene
+A previously generated C17.2 subclone (Liu et al., 1999)
+was genetically modified to produce and secrete large quan-
+tities of NT-3 using the 950-bp human NT-3 gene (gift of
+Genentech). A new retroviral vector (pLXIE) was generated
+by digesting the plasmid pLNCX (Milter and Rosman,
+1989, Clontech) with BclI and HpaI to substitute the NeoR
+gene and CMV promoter with a BglII–HpaI fragment con-
+taining multiple clone sites, an internal ribosome entry site
+(IRES), and the enhanced green fluorescent protein (EGFP)
+gene derived from the plasmid pIRES2–EGFP (Clontech).
+Human NT-3 cDNA was amplified by PCR using the 5
+NT-3 primer GTGCTCGAGGTGATGTCCATCTTGTTT
+containing a XhoI site and the 3 NT-3 primer TGTG-
+GATCCTCATGTTCTTCCGATTTTTCT containing a
+BamHI site from a plasmid containing human NT-3 (pRK5–
+hu-NT-3). The human NT-3 PCR product was digested with
+XhoI and BamHI and ligated into the plasmid pLXIE. The
+plasmid was transfected into the Phoenix producer cell line
+(Kinsella and Nolan, 1996) and NT-3-transduced C17.2
+NSCs (“C17.2-NT-3”) were fluorescently sorted as de-
+scribed above.
+Differentiation of NSCs in vitro
+C17.2 and NT-3-transduced C17.2 NSCs were tested for
+their differentiation potential in vitro. Cells were seeded
+onto 12-mm circular coverslips coated with poly-L-lysine or
+poly-L-ornithine (10 g/ml, Sigma) and cultured for up to 3
+weeks. Cells were then fixed on coverslips with 4% para-
+formaldehyde in 0.1 M phosphate buffer (pH 7.2) and la-
+beled with cell-specific markers for undifferentiated stem
+cells (nestin), neural progenitors (MAP-2, -III tubulin),
+neurons (Neu N, neurofilament), astrocytes (GFAP), and
+oligodendrocytes (APC), as listed below. The number of
+labeled cells was then quantified in three randomly selected
+fields at 200 under a fluorescence microscope and divided
+116 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+by the total number of cells in that field as determined by
+phase optics to obtain the mean percentage of labeled cells.
+Enzyme-linked immunosorbent assay (ELISA)
+Neurotrophic factor production by C17.2 and C17.2–
+NT-3 NSCs in vitro was measured by two-site ELISA as
+described (Conner and Varon, 1996). Conditioned medium
+from 24-h. cultures was collected after cells were confluent
+for 2 days, and EIA/RIA plates (Costar 3590) were coated
+with capture antibodies: anti-NGF (polyclonal, 215/11[Con-
+ner and Varon, 1996], 1:500); anti-BDNF (gift of Amgen,
+polyclonal, 1:20,000); anti-NT-3 (Chemicon, polyclonal,
+1:4000); or anti-GDNF (gift of Amgen, monoclonal,
+1:1000). Plates were incubated with secondary antibodies
+(mouse anti-NGF, Boehringer Mannheim, 1:100; chicken
+anti-BDNF, Promega, 1:2500; chicken anti-NT-3, Promega,
+1:1000; chicken anti-GDNF, Promega, 1:1000) and then
+with peroxidase-conjugated anti-mouse IgG (Dako, for
+NGF detection) or anti-chicken IgY (Promega, for BDNF,
+NT-3, and GDNF detection). Soluble colorimetric product
+was measured.
+Surgery
+A total of 44 adult female Fisher 344 rats (160–200 g)
+were subjects of this study. NIH guidelines for laboratory
+animal care and safety were strictly followed. Animals had
+free access to food and water throughout the study. All
+surgery was done under anesthesia with a combination (2
+ml/kg) of ketamine (25 mg/ml), rompun (1.3 gm/ml), and
+acepromazine (0.25 mg/ml).
+A spinal cord dorsal column lesion was made at the
+cervical (C3) level using a Kopf microwire knife (Kopf
+Instruments, Tujunga, CA), as previously described
+(Weidner et al., 1999). Briefly, after fixation in a spinal
+stereotaxic unit, a C3 dorsal laminectomy was performed
+and the microwire knife was stereotaxically positioned at
+the spinal cord midline. A small dural incision was made,
+and the wire knife was lowered into the spinal cord to a
+depth of 1.1 mm ventral to the cord dorsal surface and 0.6
+mm to the left of the midline. The tip of the wire knife was
+then extruded, forming a 1.5-mm-wide wire arc that was
+then raised to the dorsal surface of the cord. To ensure
+complete axotomy of the dorsal columns, including corti-
+cospinal tract and dorsal funicular sensory ascending pro-
+jections, spinal tissue was compressed against the micro-
+wire knife surface using a microaspiration pipette until all
+visible white matter was transected. Complete axotomy
+using the wire knife device requires this additional axonal
+compression and visual verification. The wire arc was then
+retracted back into the wire knife device, and the instrument
+was removed from the spinal cord.
+After the lesion was completed, 2.5 l of C17.2 NSCs (n
+ 16 animals), C17.2–NT-3 NSCs (n  16 animals), or
+control GFP-expressing rat fibroblasts (FF227, FF501, n 
+8 animals, Table 1), resuspended in PBS at a concentration
+of 4  104 cells/l, was injected into the epicenter of the
+lesion using a PicoSpritzer II (General Valve, Fairfield, NJ).
+In addition, 4 animals underwent lesions only (Table 1).
+Cyclosporin A (10 mg/kg, Sandoz Pharmaceuticals, East
+Hanover, NJ) was injected intraperitoneally 1 day before
+surgery and continued daily in all subjects until sacrifice.
+The corticospinal tract (CST) was anterogradely labeled
+with biotinylated dextran amine (BDA, MW 10,000, Mo-
+lecular Probes, Eugene, OR) immediately after cell grafting
+in eight animals with C17.2 NSC grafts, eight with NT-3-
+transduced C17.2 NSC grafts, four with fibroblast grafts,
+and four with lesions only (Table 1) as previously described
+(Blesch et al., 1999; Grill et al., 1997). A total of 100 nl of
+a 10% solution of BDA dissolved in H2O was injected into
+each of 18 sites spanning the rostral-to-caudal extent of the
+motor cortex with a PicoSpritzer (General Valve, Inc.) using
+methods and injection coordinates previously reported (Ble-
+sch et al., 1999). Animals were perfused 2 weeks after
+injections. In addition, ascending dorsal column sensory
+axons were transganglionically labeled with cholera toxin B
+subunit (CTB, List Biological Lab, CA) injected into both
+sciatic nerves 2 weeks after spinal cord lesions, as previ-
+ously described (Bradbury et al., 1999). Briefly, 2 l of a
+1% solution of CTB dissolved in H2O was injected into
+each sciatic nerve using a Hamilton syringe (4 l total per
+animal). CTB was injected in four animals with C17.2 NSC
+grafts and four with NT-3-transduced C17.2 NSC grafts
+(Table 1), and subjects were perfused 4 days later.
+Histology and immunocytochemistry
+Rats were perfused with 4% paraformaldehyde in 0.1 M
+phosphate buffer (pH 7.2). Spinal cords were dissected free,
+postfixed overnight at 4°C, and then transferred to 30%
+sucrose for 72 h. Sagittal sections (35 m) of spinal cords
+from the cervical lesion site were cut on a cryostat, and one
+of every seven sections was mounted on gelatin-coated
+slides for Nissl staining. The remaining sections were seri-
+ally collected into 24-well plates for immunocytochemical
+labeling.
+Immunolabeling was performed on spinal cord sections
+to identify grafted cells and to determine the number and
+Table 1
+Experimental groups
+Cell types CST labeling and
+other axon
+quantification
+CTB labeling
+and
+quantification
+RT-PCR Total
+C17.2 8 4 4 16
+C17.2–NT-3 8 4 4 16
+Fibroblasts (FF227,
+FF501) 4 0 4 8
+Lesion only 4 0 0 4
+Note. CST, corticospinal tract; CTB, cholera toxin B subunit.
+117P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+phenotype of axons responding to lesions and grafts. All
+sections were processed free-floating, and endogenous per-
+oxidase activity was blocked with 0.6% hydrogen peroxide
+as previously described (Grill et al., 1997). Nonspecific
+antibody reactions were blocked with 5% horse serum (for
+monoclonal antibodies) or 3% goat serum (for polyclonal
+antibodies) for 1 h at room temperature. Next, sections were
+incubated overnight at 4°C with primary antibodies directed
+against jellyfish green fluorescent protein (polyclonal anti-
+body from Molecular Probes at 1:3000 to label GFP trans-
+fected cells), neurofilament (NF; RT97 monoclonal anti-
+body from Boehringer Mannheim at 1:250 to label axons),
+calcitonin gene-related peptide (CGRP; polyclonal antibody
+from Chemicon at 1:8000 to label primary sensory axons),
+tyrosine hydroxylase (TH; monoclonal antibody from
+Chemicon at 1:1000 to label coerulospinal axons), serotonin
+(5-HT; monoclonal antibody from Chemicon at 1:35,000 to
+label raphespinal axons), choline acetyltransferase (ChAT;
+polyclonal antibody from Chemicon at 1:500 to label local
+motor axons), and cholera toxin B subunit (polyclonal an-
+tibody from List Biological Lab at 1:10,000 to label ascend-
+ing dorsal column sensory axons). After washes, sections
+were incubated with biotinylated secondary antibodies (1:
+200, Vector Laboratory, Burlingame, CA) for 1 h at room
+temperature followed by a 1-h incubation in avidin–bioti-
+nylated peroxidase complex (1:100, Vector Elite Kit) at
+room temperature. Diaminobenzidine (0.05%) with nickel
+chloride (0.04%) was used as chromagen, with reactions
+sustained for 1–6 min at room temperature. The BDA-
+labeled corticospinal tract was detected by labeling with
+avidin–biotinylated peroxidase complex (1:100, Vector
+Elite Kit) incubated overnight at 4°C and visualized with
+diaminobenzidine and nickel chloride developed for 5 min
+at room temperature. The sections were then mounted on
+gelatin-coated slides, dehydrated, and coverslipped with
+pro-texx mounting medium (Baxter Diagnostics, Deerfield,
+IL).
+Immunofluorescent labeling was also performed to char-
+acterize the state of cellular differentiation and to examine
+cell–cell interactions at the host–graft interface. After non-
+specific antibody reactions were blocked with 5% goat se-
+rum for 1 h at room temperature, cells (fixed on slides from
+in vitro studies) or free-floating sections were incubated
+with primary antibodies directed against Nestin (monoclo-
+nal antibody from, Chemicon at 1:200 to label undifferen-
+tiated neural stem cells), MAP-2 (monoclonal antibody
+from Chemicon at 1:10,000 to label immature neurons), III
+tubulin (monoclonal antibody from Chemicon at 1:750 to
+label immature neurons), NeuN (monoclonal antibody from
+Chemicon at 1:250 to label mature neurons), NF (RT97
+antibody at 1:175 to label mature neurons and axons),
+GFAP (polyclonal antibody from Dako at at 1:700 to label
+astrocytes), and adenomatous polyposis coli (APC, mono-
+clonal antibody from Oncogene at 1:200 to label oligoden-
+drocytes) overnight at 4°C. After washes, cells and sections
+were incubated with Alexa 488 or 594 conjugated goat
+anti-mouse or goat anti-rabbit secondary antibodies (1:150,
+Molecular Probes) for 2.5 h at room temperature. The sec-
+tions were then washed, mounted on uncoated slides, and
+coverslipped with Fluoromount G (Southern Biotechnology
+Associates, Inc., Birmingham, AL).
+Quantification of growth of axons within grafts
+The penetration of axons of different phenotypes into
+grafts was quantified using NIH Image software analysis of
+immunolabeled sections, as previously described (Tuszyn-
+ski et al., 1996a). The margins of the lesion were determined
+with phase contrast optics as a distinct change in the cellular
+constituency from regions of neurons to a lesion “cavity”
+devoid of neurons and occupied by grafted cells. Two ran-
+domly selected fields within each graft in the lesion site
+were measured in two separate sections from each subject
+(four regions total quantified per animal). The number of
+pixels occupied by immunolabeled axons within a fixed box
+size of 640  480 pixels at 200 magnification was mea-
+sured in sections immunolabeled for NF, CGRP, and ChAT
+in subjects with C17.2 NSC grafts (n  8), C17.2–NT-3
+NSC grafts (n  8), and FF227 fibroblast grafts (n  4; see
+Table 1). Similar measurements were performed in subjects
+that received CTB injections into the sciatic nerve (n  4
+for C17.2 NSC grafts, and n  4 for C17.2–NT-3 NSC
+grafts; Table 1). Thresholding values on video images were
+chosen such that only immunolabeled axons were mea-
+sured, and light nonspecific background labeling was not
+detected. Nonspecific staining of objects other than axons,
+such as obvious artifactual spots resulting from tissue pro-
+cessing, was edited from images as previously reported
+(Armstrong et al., 1988). Total labeled pixels were divided
+by the sample box size (640  480 pixels) to obtain mean
+axon density per pixel in the graft.
+Quantitative real-time PCR for in vivo measurement of
+growth factor mRNA expression in grafted cells
+Two weeks after in vivo grafting, C17.2 NSCs (n4),
+C17.2–NT-3 NSCs (n4), and control GFP-transduced rat
+fibroblast (FF501, n4, Table 1) cell grafts were carefully
+dissected from their grafting sites and immediately frozen
+on dry ice for determination of in vivo production of growth
+factor mRNA. Total RNA was extracted using Rneasy Mini
+Kit (Qiagen, Valencia, CA) and stored at 70°C. In addi-
+tion, total RNA was isolated from cultured C17.2 NSCs,
+C17.2–NT-3 NSCs, and primary fibroblasts in vitro and
+from one adult rat hippocampus (as a positive control for
+detection of NGF, BDNF, and NT-3 production). The first-
+strand cDNA synthesis reaction was carried out from 2.5 g
+total RNA using SuperScript II First-Strand Synthesis for
+RT-PCR Kit with oligo (dT) priming, according to the
+manufacturer’s instructions (Invitrogen, Carlsbad, CA). In
+order to specifically detect mouse neural stem-cell-derived
+growth factor gene expression, mouse-specific primers with
+118 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+at least one 3 end nucleotide mismatch to rat genes were
+designed for the neurotrophic factor genes NGF, BDNF,
+and GDNF, based on BLAST comparison of mouse and rat
+genes (using Primer Express software, Applied Biosystems,
+Foster City, CA). To detect expression of the NT-3 gene
+from C17.2 NSC grafts vs human NT-3-transduced C17.2
+NSC grafts, NT-3 primers were designed that were both
+mouse- and human-specific, but were not rat-specific, by
+mismatching one 3 end nucleotide of the forward primer to
+the rat gene. The probes were further designed to detect
+mouse-specific NGF, BDNF, and GDNF genes and mouse-
+and human-specific NT-3 genes by including at least one
+nucleotide mismatch to rat genes in the central portion of
+the probes, using methods and software described above.
+The sequence of primers and probes are as follows: NGF
+primers, 5CAGACCCGCAACATCACTGTA3 and 5CC-
+ATGGGCCTGGAAGTCTAG3, probe, 5CCAGACTGT-
+TTAAGAAACGGAGACTCCACTCACC3; BDNF primers,
+5CGGGACGGTCACAGTCCTA3 and 5GGGATTAC-
+ACTTGGTCTCGTAGAAATAC3, probe, 5AGAAAGT-
+CCCGGTATCCAAAGGCCAACTG3; GDNF primers,
+5TTGCAGCGGTTCCTGTGAAT3 and 5TCTTAGAA-
+TATGGTAAACCAGGTTGTCA3, probe, 5 CGGAGTA-
+GAAGGCTAACAAGTGACAAAGTAGGCC3; NT-3
+primers, 5CATTCGGGGACACCAGGTC3 and 5TTTG-
+CACTGAGAGTTCCAGTGTTT3, probe, 5AAGCCAG-
+GCCGGTCAAAAACGGTT3. Primers and probes were
+synthesized and purified at Integrated DNA Technologies
+(Coralville, IA). Glyceraldehyde-3-phosphate dehydroge-
+nase (GAPDH) was used as an endogenous control to nor-
+malize expression levels of growth factor genes from dif-
+ferent stem cell grafts. The primers and probes of mouse and
+rat GAPDH were purchased from Applied Biosystems.
+To test the specificity of primers for mouse-specific
+growth factor genes (or mouse- and human-specific for
+NT-3), nonquantitative PCRs were performed using 2 l of
+first-strand synthesis cDNA (total 20 l volume) from cul-
+tured C17.2 NSCs, C17.2–NT-3 NSCs, primary fibroblasts
+(FF501), and rat hippocampus. The 100-l PCR reaction
+additionally contained the following components: 0.2 M
+of each primer, 0.2 mM dNTP mixture, and 2.5 U Taq DNA
+polymerase (Qiagen, Valencia, CA). The PCRs were con-
+ducted in a programmable themocycler (Ericomp) using an
+initial denature temperature of 94°C for 5 min, 35 cycles of
+94°C for 1 min, 60°C for 30 s, 72°C for 1 min, and a final
+extension at 72°C for 10 min. A total of 20 l of final PCR
+product was separated in a 1.5% agrose gel, stained with
+ethidium bromide, and photographed.
+Quantitative real-time PCR was performed at the
+Genomics Core Facility of the University of California at
+San Diego using an ABI PRISM 7700 Sequence Detection
+System (Applied Biosystems) under the following condi-
+tions: 50°C for 2 min, 95°C for 10 min, and 45 cycles of
+95°C for 15 s plus 60°C for 1 min. The PCR reagents,
+except primers and probes, were from the TaqMan PCR
+Core Reagent Kit. The targets and endogenous control
+GAPDH were amplified in separate tubes according to man-
+ufacturer’s instructions, and standard curves were prepared
+for both the target and the endogenous reference. For sam-
+ples of C17.2 and C17.2–NT-3 grafts, mouse GAPDH was
+amplified as an endogenous control using mouse-specific
+primers and probes; for samples of rat primary fibroblast
+(FF501) grafts (to ensure specificity of the growth factor
+probes for mouse genes), rat GAPDH was amplified as an
+endogenous control using rat-specific primers and probe.
+For each sample, the amount of target and endogenous
+reference was determined from the appropriate standard
+curve. Then, a standardization factor of endogenous control
+GAPDH was determined by finding the maximum value of
+GAPDH among the same group of samples and then divid-
+ing each value by that maximum value. The target amount
+(in nanograms) was calculated as a normalized value by
+multiplying the standardization factor by the amount of
+target found from the curve.
+Statistical analysis
+In all quantification procedures, observers were blinded
+to the nature of the experimental manipulation. Statistical
+differences between two groups were determined by two-
+tailed Student’s t test. Multiple group comparisons were
+made by ANOVA and post hoc Fisher’s tests, using a
+significance level of 95%. Data are presented as means 
+standard error of the mean.
+Results
+C17.2 NSCs survive grafting to spinal cord lesion sites
+and migrate for short distances
+Histological examination revealed that wire knife lesions
+completely transected the dorsal columns and the dorsal
+corticospinal tract and that C17.2 and C17.2–NT-3 NSCs
+readily survived grafting to the lesion cavity and were well
+vascularized (Fig. 1A–E; Fig. 2F ). Fibroblasts also sur-
+vived grafting (not shown), whereas animals with lesions
+alone exhibited cystic cavities (Fig. 1F). Grafts of mouse
+C17.2 NSCs into these cyclosporin-treated rats did not elicit
+notable cellular immune responses compared to grafts of
+syngenic rat primary fibroblasts (Fig. 1). Lesion size and
+graft size were similar among all grafted groups. Most
+grafted stem cells remained localized to the injection site,
+migrating for maximal distances of only 1–2 mm from the
+lesion site (Fig. 1E; Fig. 2F). Transduction with NT-3 did
+not affect the distance of stem cell migration. In no case did
+tumors form at the lesion/grafting site.
+In vitro and in vivo differentiation of NSCs
+In vitro, C17.2 NSCs were small and round, with little
+morphological evidence of differentiation (Fig. 2A). C17.2
+119P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+Fig. 1. In vivo morphology of lesion and graft. Nissl-stained sagittal spinal cord sections showing a C17.2 NSC graft (A, B) and C17.2–NT-3 NSC graft (C,
+D) in low- and high-magnification view 2 weeks after grafting. (E) GFP immunostaining showing GFP-expressing C17.2 NSCs grafted into a C3 wire knife
+lesion and lesioned corticospinal tract (CST). (F) A Nissl-stained sagittal spinal cord sections showing extent of C3 dorsal wire knife lesion cavity in a
+lesion-only animal. c, lesion cavity; g, graft; h, host; gm, gray matter; wm, white matter. Scale bar  390 m (A, C), 44 m (B, D), 177 m (E, F).
+120 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+121P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+cells expressed the neuroepithelial stem cell marker nestin
+in vitro (Fig. 2C), but did not label for the early neuronal
+markers MAP-2 and -III tubulin, the mature neuronal
+markers NeuN and neurofilament, the astrocytic marker
+GFAP, or the oligodendrocytic marker APC after 2–3 weeks
+in culture (data not shown). In contrast, C17.2 NSCs trans-
+duced to express human NT-3 exhibited extensive neuronal
+differentiation in vitro (Fig. 2B, D, and E), consistent with
+a previous report (Liu et al., 1999). A total of 60% of C17.2
+NSCs transfected with NT-3 exhibited MAP-2 labeling after
+2–3 weeks in vitro (Fig. 2D), with occasional cells also
+expressing -III tubulin but not neurofilament or NeuN. A
+total of 3–4% of NT-3-transfected cells were GFAP-posi-
+tive (Fig. 2E). The remaining cells expressed the primitive
+neuroepithelial stem cell marker nestin. Notably, after in
+vivo grafting, C17.2 NSCs possessed a small round-shaped
+morphology and exhibited no evidence of differentiation
+(Fig. 1E). Indeed, C17.2 NSCs expressed neither stem cell
+(nestin) markers nor specific neuronal or glial markers
+(MAP-2, -III tubulin, NeuN, NF, or GFAP and APC) at
+the postgrafting time point of 2 weeks. On the other hand,
+many NT-3-transfected C17.2 NSCs displayed more mature
+neuronal-type morphology after 2 weeks in vivo, containing
+bipolar or multipolar extending processes (Fig. 2F, G).
+Double fluorescent immunolabeling showed that occasional
+NT-3-transduced C17.2 cells expressed the neuronal marker
+MAP-2 in vivo (Fig. 2H). However, the majority of NT-3-
+transduced C17.2 NSCs in vivo did not express either nestin
+or neuronal/glial cell markers (MAP-2, -III tubulin, NeuN,
+NF, or GFAP and APC).
+C17.2 NSCs support robust growth of spinal motor and
+sensory axons after injury; NT-3 transduction amplifies
+and extends this growth-promoting effect
+NF immunolabeling was entirely absent in lesion sites in
+animals that lacked cell grafts. Control, GFP-expressing
+fibroblast grafts were modestly penetrated by NF-labeled
+axons (Fig. 3A, B). Notably, the extent of axonal penetra-
+tion increased 3-fold in recipients of C17.2 NSC grafts
+compared to control fibroblast grafts (P  0.05; Fig. 3C, D,
+and G). Further, grafts of NT-3-secreting C17.2 NSCs were
+penetrated by 4-fold greater numbers of neurofilament-la-
+beled axons relative to unmanipulated C17.2 NSCs (P 
+0.0001; Fig. 3E, F, and G), a 12-fold increase relative to
+fibroblast grafts.
+The origin of axons that penetrated grafts was deter-
+mined by BDA-, CTB-, and immunolabeling. C17.2 NSC
+grafts were penetrated by CGRP-labeled sensory axons
+(Fig. 4B) and ChAT-labeled spinal motor axons (Fig. 5B).
+Notably, control GFP-expressing fibroblast grafts were
+completely devoid of ChAT-labeled axons (Fig. 5A, B).
+The density of sensory and motor axons in NSC grafts
+significantly exceeded that of GFP-expressing control fibro-
+blast grafts when measured by NIH Image analysis (P 
+0.001, Fig. 4A, B, and D; P  0.01, Fig. 5A, B, and D).
+Thus, NSCs enhanced both the density and the diversity of
+axonal growth after spinal cord injury. These axons were
+relevant to local spinal circuits, however, rather than to
+descending or ascending spinal projections. Compared to
+control fibroblast grafts, C17.2 NSC grafts were not pene-
+trated by significantly greater numbers of coerulospinal ax-
+ons (TH-immunolabeled axons), raphaespinal axons (5-HT
+immunolabeled axons), corticospinal axons (BDA-labeled
+axons), or CTB-labeled dorsal column sensory axons (see
+also below).
+Transduction of the NSCs to express NT-3 augmented
+the density and diversity of axons penetrating spinal cord
+lesion sites (Figs. 3–6). A significantly greater overall num-
+ber of axons penetrated C17.2–NT-3 NSC grafts compared
+to C17.2 NSC grafts or fibroblast grafts (P  0.0001; Fig.
+3). Ascending dorsal column sensory axons penetrated
+C17.2–NT-3 NSC grafts more extensively than C17.2 NSC
+grafts (P  0.05; Fig. 6). On the other hand, penetration of
+CGRP-labeled nociceptive axons into C17.2–NT-3 NSC
+grafts was unchanged compared to C17.2 NSC grafts (yet
+significantly exceeded penetration of control fibroblast
+grafts; Fig. 4), whereas fewer ChAT-labeled motor axons
+penetrated C17.2–NT-3 NSC grafts compared to C17.2
+NSC grafts alone (P  0.05; Fig. 5B, C, and D). Cortico-
+spinal axons did not penetrate grafts.
+C17.2 NSCs naturally secrete neurotrophic factors that
+are known to promote sensory and motor axon growth
+Previously it has been reported that CGRP-expressing
+sensory axons are NGF-responsive (Lindsay and Harman,
+1989; Otten et al., 1983; Tuszynski et al., 1994) and that
+Fig. 2. Differentiation and migration of C17.2 and C17.2–NT-3 NSCs in vitro and in vivo. (A) Undifferentiated morphology of C17.2 NSCs after 1 week
+in culture (reseeded for 24 h, phase contrast optics). (B) In contrast, after 1 week in culture many C17.2–NT-3 NSC-derived cells exhibit pyramidal
+morphology and extend processes. (C) Cultured C17.2 NSCs expressed nestin after 1 week in culture (reseeded for 24 h). (D) Sixty percent of C17.2–NT-3
+NSCs in vitro express the neuronal marker MAP-2 after 2 weeks in culture, whereas C17.2 NSCs in vitro lacking the NT-3 gene do not express MAP-2 (data
+not shown). (E) A small proportion (3–4%) of C17.2–NT-3 NSCs in vitro also express the astrocytic marker GFAP, whereas C17.2 NSCs lacking the NT-3
+gene do not express GFAP (data not shown). (F) Fluorescent double immunolabeling after in vivo grafting reveals that C17.2–NT-3 NSCs (GFP label, green
+channel) completely fill C3 wire knife lesion cavity (outlined by GFAP immunolabeling, red channel) and migrate for short distances from the graft site in
+rostral and caudal directions. (G) Higher magnification of F (rectangle window) reveals that many grafted C17.2–NT-3 NSCs have pyramidal morphology
+with long cellular processes (arrows), similar to in vitro observations. (H) Occasional C17.2–NT-3 cells (green channel) grafted in vivo were found to express
+MAP-2 (red channel), illustrated by fluorescent double immunolabeling at high magnification (arrow). However, most grafted C17.2–NT-3 cells did not label
+for MAP-2 or -III tubulin. g, graft; h, host. Scale bars  44 m (A, B), 35 m (C, D), 230 m (E), 23 m (F), and 14 m (H).
+122 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+Fig. 3. Axonal penetration into fibroblast, C17.2, and C17.2–NT-3 grafts to C3 dorsal column lesion sites. (A, B) NF immunolabeling in sagittal spinal cord sections
+of control GFP-expressing fibroblast graft (FF227) recipients show modest penetration of axons at low (A) and higher (B) magnification. (C, D) Significantly
+increased numbers of axons penetrate C17.2 NSC grafts, compared to fibroblast graft recipients. (E, F) NT-3-transduced C17.2 NSC grafts consistently exhibit the
+greatest degree of axonal penetration. Scale bars  88 m in A, C, E and 27.5 m in B, D, F. g, graft; h, host; dashed lines indicate host/graft interface. (G)
+Quantification of NF-labeled axon penetration of grafts indicates significant differences between each group (overall ANOVA P  0.0001; *P  0.05, ***P 
+0.0001).
+motor neurons are both BDNF- and GDNF-responsive
+(Tuszynski et al., 1996b; Vejsada et al., 1998; Yan et al.,
+1992). To determine whether a mechanism of NSC-en-
+hanced growth of spinal sensory and motor axons was
+growth factor secretion by these cells, specific ELISAs for
+NGF, BDNF, NT-3, and GDNF protein levels were per-
+formed on C17.2 NSCs, C17.2–NT-3 NSCs, and GFP-
+expressing fibroblasts in vitro. Whereas primary fibroblasts
+expressed no detectable levels of these growth factors, con-
+ditioned medium from C17.2 NSCs contained significant
+quantities of NGF (7.5  2.5 pg/106 cells/day), BDNF (7.1
+ 0.1 pg/106 cells/day), and GDNF (70  1 pg/106 cells/
+day) (Fig. 7A). NT-3 expression was not detectable in
+nontransfected C17.2 NSCs. Interestingly, transduction of
+C17.2 NSCs with NT-3 not only resulted in significant
+NT-3 production from transduced cells (12,592  8 pg/106
+cells/day), but also resulted in a significant increase in NGF
+(51.5  7.5 pg/106 cells/day) and BDNF (84.1  0.15
+pg/106 cells/day) production and a decline in GDNF pro-
+duction to undetectable levels (Fig. 7A). These findings
+were replicated in two separate sets of assays.
+To confirm that C17.2 NSCs and NT-3-transduced
+C17.2 NSCs express NGF, BDNF, NT-3, and GDNF in
+vivo, cDNA from these NSC grafts, as well as from
+control rat primary fibroblast grafts and rat hippocampus,
+were amplified using quantitative real-time PCR. By
+choosing mouse- and human-specific primers and probes
+(as described under Materials and Methods), only mouse
+and human growth factor genes and not rat genes were
+detected. Analysis of standard, nonquantitative RT-PCR
+products confirmed the specificity of mouse and human
+primers: cDNAs of growth factor genes were amplified
+only from cultured C17.2 and human NT-3-transduced
+C17.2 NSCs, but not from rat hippocampus (where
+growth factor genes are normally expressed (Ceccatelli et
+al., 1991; Ernfors et al., 1990; Lenhard and Suter-Craz-
+zolara, 1998; Pochon et al., 1997) or control rat fibro-
+blasts (Fig. 7B). The pattern of growth factor gene ex-
+Fig. 4. CGRP immunolabeling and quantification. (A) CGRP-labeled sensory axons only modestly penetrate fibroblast grafts (FF227), but robustly penetrate
+(B) C17.2 grafts and (C) C17.2–NT-3 grafts. Scale bar  27.5 m. (D) Quantification shows that both C17.2 and C17.2–NT-3 grafts contain significantly
+more CGRP-labeled axons than control fibroblast grafts (**P  0.001).
+124 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+pression in cultured NSCs was similar to the ELISA data
+(Fig. 7A, B). Quantitative neurotrophic factor in vivo
+gene expression was compared using real-time PCR
+among C17.2 graft recipients (n  4), C17.2–NT-3 graft
+recipients (n  4), and control rat primary fibroblast
+(FF501) graft recipients (n  4, Table 1) 2 weeks after
+lesions and cell transplantation. Both mouse and rat
+GAPDH cDNAs were amplified as endogenous controls
+to normalize growth factor gene expression levels among
+samples. With mouse-specific primers and probes, NGF
+was expressed in C17.2 (130.6  21.7) and NT-3-trans-
+duced C17.2 NSC grafts (217.9  9.7, P  0.01, Fig.
+7C). BDNF expression was significantly higher in C17.2
+NSC grafts (150.8  24.4) than in C17.2-NT-3 NSC
+grafts (52.4  4.0, P  0.001). Similarly, GDNF expres-
+sion was higher in C17.2 NSC grafts (348.9  46.0) than
+in C17.2–NT-3 NSC grafts (94.5  10.7, P  0.0001).
+As expected, human NT-3-transduced C17.2 NSC grafts
+contained far greater levels of NT-3 mRNA (114106 
+33.6105) than C17.2 NSC grafts (226.7  7.1, P 
+0.0001). Rat primary fibroblast grafts contained no de-
+tectable levels of growth factor mRNAs using the
+same mouse- and human-specific primers and probes
+(Fig. 7C). Patterns of growth factor gene expression in
+vivo were similar to those of neurotrophic factor protein
+measurements obtained by ELISA in vitro and confirmed
+that C17.2 neural stem cells secrete significant levels of
+growth factors that correlate with observed patterns of
+growth from motor and sensory axons. Only one dif-
+ference in a single group was found between in vitro
+growth factor protein and in vivo mRNA measurements:
+levels of BDNF gene expression in NT-3-transduced
+C17.2 cells were lower in vivo than predicted by in vitro
+ELISA (Fig. 7A, B). Nonetheless, overall findings were
+consistent in vitro and in vivo. Notably, the reduction in
+GDNF expression by NT-3-transduced NSCs correlated
+Fig. 5. ChAT immunolabeling and quantification. (A) ChAT-labeling motor axons fail to penetrate fibroblast grafts (FF227), but (B) extensively penetrate
+C17.2 grafts and (C) moderately penetrate C17.2–NT-3 grafts. Scale bar  27.5 m. (D) Quantification reveals that the density of ChAT-labeled axons was
+significantly greater in C17.2 grafts than in fibroblast grafts (**P 0.01) or C17.2–NT-3 grafts (†, P 0.05). ChAT-labeled axons do penetrate C17.2–NT-3
+grafts, whereas they are entirely absent in fibroblast grafts.
+125P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+Fig. 6. Dorsal column sensory axons penetrate C17.2–NT-3 grafts. (A) CTB-labeling of dorsal column ascending sensory axons in C17.2 NSC grafts reveals
+axons at the host/graft interface, but axons rarely penetrate grafts. (B) The failure of extensive axonal penetration of C17.2 NSCs is also evident at higher
+magnification. (C) In contrast, C17.2–NT-3-secreting grafts are penetrated by CTB-labeled axons, which readily cross the host/graft interface. (D) At higher
+magnification, axons are clearly visible within the C17.2–NT-3 graft. g, graft; h, host; dashed lines indicate host/graft interface. Scale bars  177 m in A,
+C; 44 m in B, D. (E) Quantification of CTB labeling demonstrates significantly greater number of axons in C17.2–NT-3 grafts than C17.2 grafts (*P 
+0.05).
+126 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+with the reduction of motor axon penetration into the
+same grafts.
+Discussion
+The present study demonstrates that C17.2 neural stem
+cells can elicit significant host axonal growth after SCI,
+presenting a cellular substrate to the lesion site that supports
+axonal extension even in the absence of stem cell differen-
+tiation. The grafted C17.2 NSCs support extensive growth
+of axonal systems of several classes, including motor and
+sensory axons that have previously been reported to exhibit
+sensitivity to NGF, BDNF, or GDNF (Lindsay and Harmar,
+1989; Otten et al., 1983; Tuszynski et al., 1994, 1996b;
+Vejsada et al., 1998; Yan et al., 1992). Indeed a likely
+mechanism contributing to stem cell-induced growth of
+axons in this study is the constitutive production of the
+growth factors NGF, BDNF, and GDNF both in vitro and in
+vivo. Genetically modifying stem cells to express another
+growth factor, NT-3, induces stem cell differentiation and
+expands the density and diversity of host axonal growth, yet
+reduces expression of GDNF and BDNF in vivo which in
+turn leads to a reduction (but not elimination) of local motor
+axon growth. Thus, growth factor expression in stem cells is
+dynamically regulated, likely as a function of differentiation
+state, and is further influenced by the production of other
+growth factors in the cell.
+Recently it has been reported that embryonic stem cell
+grafts to the spinal cord promote functional recovery after
+injury (McDonald et al., 1999) and that one potential mech-
+anism of this beneficial effect may be reduction of demy-
+elination (Liu et al., 2000). Although demyelination con-
+tributes to functional loss after SCI, the majority of
+functional deficit after injury is attributable to loss of axonal
+connectivity. Thus, the present demonstration that stem
+cells augment host axonal growth presents an important
+mechanism whereby neural stem cells can contribute to
+reconstitution of neural structure independent of their dif-
+ferentiation fate.
+The grafting of NSCs to specific regions of the nervous
+system has previously been reported to induce differentia-
+tion of cells to lineages appropriate to the environment in
+which they are placed (Brüstle et al., 1997; Gage et al.,
+1998; Lundberg et al., 1996; Snyder et al., 1997a; Suhonen
+et al., 1996). For example, hippocampal-derived NSCs
+placed in the ventral migratory stream adopt the phenotype
+of olfactory system neurons (Suhonen et al., 1996). Clone
+C17.2 NSCs grafted to other models of injury and degen-
+eration, including phototoxic-induced cortical neuron de-
+generation (Snyder et al., 1997a) or demyelination (Yan-
+dava et al., 1999), induce differentiation and adoption of
+mature CNS cellular markers intrinsic to each model. In this
+study, C17.2 stem cell grafts to the injured spinal cord did
+not express mature markers of either neuronal or glial lin-
+eages; thus these cells did not reconstitute the cellular char-
+Fig. 7. C17.2 NSCs naturally produce neurotrophic factors. (A) In vitro
+specific ELISA of conditioned medium collected from C17.2 NSCs, NT-
+3-transduced C17.2 NSCs (C17.2–NT-3), and control GFP-transduced fi-
+broblasts (FF227). Results represent mean values of two independent
+assays, with each assay containing samples at three different dilutions (1:1;
+1:5; 1:50). (B) Nonquantitative RT-PCR in vitro demonstrates amplifica-
+tion of neurotrophic factor genes using mouse-specific primers (for NT-3,
+both mouse- and human-specific) from cDNA of C17.2 cells (lane 1) and
+NT-3-transduced C17.2 NSCs (lane 2), but not from cDNA of control rat
+hippocampus (lane 3) or rat fibroblasts (lane 4). The endogenous control
+GAPDH is amplified with mouse-specific primers in lanes 1 and 2 and with
+rat-specific primers in lanes 3 and 4. (C) Quantitative real-time RT-PCR
+with mouse-specific primers and probes (for NT-3, both mouse- and hu-
+man-specific) shows expression of the growth factor genes NGF, BDNF,
+GDNF, and NT-3 at different levels in mouse-derived C17.2 NSC grafts
+(C17.2, n  4) vs NT-3-transduced C17.2 NSC grafts (C17.2–NT-3, n 
+4). Gene expression is not detectable in control GFP-transduced primary rat
+fibroblast grafts (n  4). The expression of growth factor genes is nor-
+malized (nanograms) relative to endogenous control GAPDH gene expres-
+sion (see Materials and Methods for details).
+127P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+acter of the preinjured spinal cord. This lack of differenti-
+ation may be a function of complexities intrinsic to SCI,
+including glial activation, inflammation (including altered
+cytokine levels), and extensive regional cellular degenera-
+tion. Yet the failure to differentiate did not compromise the
+ability of NSCs to promote neural repair via another mech-
+anism: promoting host axonal growth. Indeed, it is possible
+that more extensive differentiation of stem cells could
+downregulate the expression of some genes that contribute
+to host axonal regeneration, including growth factors. When
+C17.2 NSCs were transduced to express NT-3, they differ-
+entiated more extensively and down-regulated expression of
+GDNF both in vivo and in vitro. This loss of GDNF ex-
+pression correlated with a significant reduction of GDNF-
+sensitive motor axon penetration of the graft/lesion site. (It
+is not the case that transfection with NT-3 simply over-
+whelmed the protein synthesis capacity of stem cells result-
+ing in a loss of GDNF production, because expression of
+NGF increased.) This reciprocal relationship between the
+enhanced expression of one growth factor at the expense of
+the expression of the other is intriguing. One explanation for
+this observation may be that GDNF is expressed by NSCs in
+their more immature state; NT-3 induces the cells toward a
+neuronal phenotype in which GDNF secretion is not char-
+acteristic. Alternatively, an as yet undefined complex recip-
+rocal interplay may exist between growth factor signal
+transduction pathways.
+Having established the feasibility of engineering NSCs
+to overexpress various growth factors to pattern host axonal
+regrowth, one can tailor the specific choice of growth factor
+to the class of axon that is targeted. For example, enhance-
+ment of NT-3 secretion is well suited to dorsal column
+sensory axons and is less appropriate for motor neuron
+projections. For the latter, augmentation of GDNF would be
+appropriate, a growth factor that is constitutively produced
+by the NSCs. Interestingly, one will need to coordinate the
+administration of these growth factors such that their appli-
+cation is additive and not antagonistic. The simultaneous
+cografting of subclones of NSCs, each engineered to over-
+express a different growth factor, may yield the most opti-
+mal and compatible therapies. Future investigations will
+address this issue.
+A number of studies have reported a propensity of neural
+stem cells to migrate in the adult central nervous system.
+Cells of the subventricular zone of adult mammals repopu-
+late the olfactory bulb throughout life by migrating through
+the rostral migratory stream (Luskin et al., 1997). Hip-
+pocampal precursor cells, if implanted into the rostral mi-
+gratory stream, also migrate to the olfactory bulb (Gage et
+al., 1998; Suhonen et al., 1996). C17.2 NSCs implanted into
+the developing nervous system reportedly distribute to di-
+verse locations of the brain and spinal cord (Snyder et al.,
+1992, 1997b). In the present study, grafted C17.2 NSCs
+remained within close proximity to the lesion/implantation
+site, filling the lesion cavity and migrating only short dis-
+tances in the host cord. Although the specific “tropic” sig-
+nals that influence stem cell migration in the nervous system
+remain to be defined, the restriction of NSCs to the lesion
+site in this SCI model may be optimal for initiating and
+supporting axonal growth through the lesion cavity. Indeed,
+the growth of NSCs in this lesion model was well-con-
+trolled, with no tumor formation and no cord distortion.
+Future studies will determine whether cell migration occurs
+at longer time points after grafting to sites of SCI.
+The ability of stem cells to support axonal regeneration,
+as demonstrated in the present study, taken together with the
+previously demonstrated ability of NSCs to integrate in a
+stable fashion in other regions of the nervous system, sug-
+gests their potential utility as vehicles for gene therapy to
+promote CNS repair. The present findings indicate that stem
+cells can be transduced to express very high levels of neu-
+rotrophic factors, resulting in modification of their axonal
+growth-promoting properties in the injured spinal cord.
+Compared to previous studies utilizing grafts of genetically
+modified fibroblasts (Grill et al., 1997), these NSCs elicited
+responses from a broader range of host axons, most likely
+attributable to their constitutive production of growth fac-
+tors. Future studies will examine the effects of overexpress-
+ing other growth factors in NSCs through extended time
+points in vivo to further characterize the potential of these
+multipotent cells to constitute useful vehicles for CNS gene
+therapy in a variety of CNS disorders.
+Acknowledgments
+This study was supported by the NIH (NINDS 37083),
+the Veterans Administration, the Canadian Spinal Research
+Organization, the Brodie Lockhart Foundation, the Holl-
+felder Foundation, Project ALS, March of Dimes, and the
+Zinberg Family Fund.
+References
+Armstrong, D.A., Hersh, L.B., Gage, F.H., 1988. Morphologic alterations
+of cholinergic processes in the neocortex of aged rats. Neurobiol.
+Aging 9, 199–205.
+Blesch, A., Uy, H.S., Grill, R.J., Cheng, J.G., Patterson, P.H., Tuszynski,
+M.H., 1999. Leukemia inhibitory factor augments neurotrophin expres-
+sion and corticospinal axon growth after adult CNS injury. J. Neurosci.
+9, 3556–3566.
+Bradbury, E.J., Khemani, S., King, Von R, Priestley, J.V., McMahon, S.B.,
+1999. NT-3 promotes growth of lesioned adult rat sensory axons
+ascending in the dorsal columns of the spinal cord. Eur. J. Neurosci. 11,
+3873–3883.
+Brüstle, O., Spiro, A.C., Karram, K., Choudhary, K., Okabe, S., McKay,
+R.D., 1997. In vitro-generated neural precursors participate in mam-
+malian brain development. Proc. Natl. Acad. Sci. USA 94, 14809–
+14814.
+Cao, Q., Benton, R.L., Whittemore SR, S.R., 2002. Stem cell repair of
+central nervous system injury. J. Neurosci. Res. 68, 501–510.
+Cao, Q., Zhang, Y.P., Howard, R.M., Walters, W.M., Tsoulfas, P., Whit-
+temore, S.R., 2001. Pluripotent stem cells engrafted into the normal or
+lesioned adult rat spinal cord are restricted to a glial lineage. Exp.
+Neurol. 167, 48–51.
+128 P. Lu et al. / Experimental Neurology 181 (2003) 115–129
+Ceccatelli, S., Ernfors, P., Villar, M.J., Persson, H., Hökfelt, T., 1991.
+Expanded distribution of mRNA for nerve growth factor, brain-derived
+neurotrophic factor, and neurotrophin 3 in the rat brain after colchicine
+treatment. Proc. Natl. Acad. Sci. USA 88, 10352–10356.
+Chow, S.Y., Moul, J., Tobias, C.A., Himes, B.T., Liu, Y., Obrocka, M.,
+Hodge, L., Tessler, A., Fischer, I., 2000. Characterization and intraspi-
+nal grafting of EGF/bFGF-dependent neurospheres derived from em-
+bryonic rat spinal cord. Brain Res. 874, 87–106.
+Conner, J.M., Varon, S., 1996. Characterization of antibodies to nerve
+growth factor: assay-dependent variability in the cross-reactivity with
+other neurotrophins. J. Neurosci. Methods 65, 93–99.
+Ernfors, P., Wetmore, C., Olson, L., Persson, H., 1990. Identification of
+cells in rat brain and peripheral tissues expressing mRNA for members
+of the nerve growth factor family. Neuron 5, 511–526.
+Gage, F.H., Kempermann, G., Palmer, T.D., Peterson, D.A., Ray, J., 1998.
+Multipotent progenitor cells in the adult dentate gyrus. J. Neurobiol. 36,
+249–266.
+Grill, R., Murai, K., Blesch, A., Gage, F.H., Tuszynski, M.H., 1997.
+Cellular delivery of neurotrophin-3 promotes corticospinal axonal
+growth and partial functional recovery after spinal cord injury. J. Neu-
+rosci. 17, 5560–5572.
+Hammang, J.P., Archer, D.R., Duncan, I.D., 1997. Myelination following
+transplantation of EGF-responsive neural stem cells into a myelin-
+deficient environment. Exp. Neurol. 147, 84–95.
+Keirstead, H.S., 2001. Stem cell transplantation into the central nervous
+system and the control of differentiation. J. Neurosci. Res. 63, 233–
+236.
+Kinsella, T.M., Nolan, G.P., 1996. Episomal vectors rapidly and stably
+produce high-titer recombinant retrovirus. Hum. Gene Ther. 7, 1405–
+1413.
+Lacorazza, H.D., Flax, J.D., Snyder, E.Y., Jendoubi, M., 1996. Expression
+of human beta-hexosaminidase alpha-subunit gene (the gene defect of
+Tay-Sachs disease) in mouse brains upon engraftment of transduced
+progenitor cells. Nat. Med. 2, 424–429.
+Lenhard, T., Suter-Crazzolara, C., 1998. Developmental expression of
+GDNF, neurturin and their receptors in rat hippocampus. Neuroreport
+9, 2927–2931.
+Lindsay, R.M., Harmar, A.J., 1989. Nerve growth factor regulates expres-
+sion of neuropeptide genes in adult sensory neurons. Nature 337,
+362–364.
+Liu, S., Qu, Y., Stewart, T.J., Howard, M.J., Chakrabortty, S., Holekamp,
+T.F., McDonald, J.W., 2000. Embryonic stem cells differentiate into
+oligodendrocytes and myelinate in culture and after spinal cord trans-
+plantation. Proc. Natl. Acad. Sci. USA 97, 6126–6131.
+Liu, Y., Himes, B.T., Solowska, J., Moul, J., Chow, S.Y., Park, K.I.,
+Tessler, A., Murray, M., Snyder, E.Y., Fischer, I., 1999. Intraspinal
+delivery of neurotrophin-3 using neural stem cells genetically modified
+by recombinant retrovirus. Exp. Neurol. 158, 9–26.
+Lundberg, C., Field, P.M., Ajayi, Y.O., Raisman, G., Björklund, A., 1996.
+Conditionally immortalized neural progenitor cell lines integrate and
+differentiate after grafting to the adult rat striatum. A combined auto-
+radiographic and electron microscopic study. Brain Res. 737, 295–300.
+Luskin, M.B., Zigova, T., Soteres, B.J., Stewart, R.R., 1997. Neuronal
+progenitor cells derived from the anterior subventricular zone of the
+neonatal rat forebrain continue to proliferate in vitro and express a
+neuronal phenotype. Mol. Cell. Neurosci. 8, 351–366.
+McDonald, J.W., Liu, X.Z., Qu, Y., Liu, S., Mickey, S.K., Turetsky, D.,
+Gottlieb, D.I., Choi, D.W., 1999. Transplanted embryonic stem cells
+survive, differentiate and promote recovery in injured rat spinal. cord.
+Nat. Med. 5, 1410–1412.
+Miller, A.D., Rosman, G.J., 1989. Improved retroviral vectors for gene
+transfer and expression. Biotechniques 7, 980–990.
+Onifer, S.M., Cannon, A.B., Whittemore, S.R., 1997. Altered differentia-
+tion of CNS neural progenitor cells after transplantation into the injured
+adult rat spinal cord. Cell Transplant. 6, 327–338.
+Otten, U., Lorez, H.P., Businger, F., 1983. Nerve growth factor antagonizes
+the neurotoxic action of capsaicin on primary sensory neurones. Nature
+301, 515–517.
+Pochon, N.A., Menoud, A., Tseng, J.L., Zurn, A.D., Aebischer, P., 1997.
+Neuronal GDNF expression in the adult rat nervous system identified
+by in situ hybridization. Eur. J. Neurosci. 9, 463–471.
+Ramon y Cajal, S., 1928/1991. Degeneration and Regeneration of the
+Nerve System. Hafner, New York.
+Rosario, C.M., Yandava, B.D., Kosaras, B., Zurakowski, D., Sidman, R.L.,
+Snyder, E.Y., 1997. Differentiation of engrafted multipotent neural
+progenitors towards replacement of missing granule neurons in mean-
+der tail cerebellum may help determine the locus of mutant gene action.
+Development 124, 4213–4224.
+Ryder, E.F., Snyder, E.Y., Cepko, C.L., 1990. Establishment and charac-
+terization of multipotent neural cell lines using retrovirus vector-me-
+diated oncogene transfer. J. Neurobiol. 21, 356–375.
+Shihabuddin, L.S., Horner, P.J., Ray, J., Gage, F.H., 2000. Adult spinal
+cord stem cells generate neurons after transplantation in the adult
+dentate gyrus. J. Neurosci. 20, 8727–8735.
+Snyder, E.Y., Deitcher, D.L., Walsh, C., Arnold-Aldea, S., Hartwieg, E.A.,
+Cepko, C.L., 1992. Multipotent neural cell lines can engraft and par-
+ticipate in development of mouse cerebellum. Cell 68, 33–51.
+Snyder, E.Y., Park, K.I., Flax, J.D., Liu, S., Rosario, C.M., Yandava, B.D.,
+Aurora, S., 1997b. Potential of neural “stem-like” cells for gene therapy
+and repair of the degenerating central nervous system. Adv. Neurol. 72,
+121–132.
+Snyder, E.Y., Taylor, R.M., Wolfe, J.H., 1995. Neural progenitor cell
+engraftment corrects lysosomal storage throughout the MPS VII mouse
+brain. Nature 374, 367–370.
+Snyder, E.Y., Yoon, C., Flax, J.D., Macklis, J.D., 1997a. Multipotent
+neural precursors can differentiate toward replacement of neurons un-
+dergoing targeted apoptotic degeneration in adult mouse neocortex.
+Proc. Natl. Acad. Sci. USA 94, 11663–11668.
+Suhonen, J.O., Peterson, D.A., Ray, J., Gage, F.H., 1996. Differentiation of
+adult hippocampus-derived progenitors into olfactory neurons in vivo.
+Nature 383, 624–627.
+Tuszynski, M.H., Gabriel, K., Gage, F.H., Suhr, S., Meyer, S., Rosetti, A.,
+1996a. Nerve growth factor delivery by gene transfer induces differ-
+ential outgrowth of sensory, motor, and noradrenergic neurites after
+adult spinal cord injury. Exp. Neurol. 137, 157–173.
+Tuszynski, M.H., Mafong, E., Meyer, S., 1996b. Central infusions of
+brain-derived neurotrophic factor and neurotrophin- 4/5, but not nerve
+growth factor and neurotrophin-3, prevent loss of the cholinergic phe-
+notype in injured adult motor neurons. Neuroscience 71, 761–771.
+Tuszynski, M.H., Peterson, D.A., Ray, J., Baird, A., Nakahara, Y., Gage,
+F.H., 1994. Fibroblasts genetically modified to produce nerve growth
+factor induce robust neuritic ingrowth after grafting to the spinal cord.
+Exp. Neurol. 126, 1–14.
+Vejsada, R., Tseng, J.L., Lindsay, R.M., Acheson, A., Aebischer, P., Kato,
+A.C., 1998. Synergistic but transient rescue effects of BDNF and
+GDNF on axotomized neonatal motoneurons. Neuroscience 84, 129–
+139.
+Weidner, N., Grill, R.J., Tuszynski, M.H., 1999. Elimination of basal
+lamina and the collagen “scar” after spinal cord injury fails to augment
+corticospinal tract regeneration. Exp. Neurol. 160, 40–50.
+Yan, Q., Elliott, J., Snider, W.D., 1992. Brain-derived neurotrophic factor
+rescues spinal motor neurons from axotomy-induced cell death. Nature
+360, 753–755.
+Yandava, B.D., Billinghurst, L.L., Snyder, E.Y., 1999. “Global” cell re-
+placement is feasible via neural stem cell transplantation: evidence
+from the dysmyelinated shiverer mouse brain. Proc. Natl. Acad. Sci.
+USA 96, 7029–7034.
+Zompa, E.A., Cain, L.D., Everhart, A.W., Moyer, M.P., Hulsebosch, C.E.,
+1997. Transplant therapy: recovery of function after spinal cord injury.
+J. Neurotrauma 14, 479–506.
+129P. Lu et al. / Experimental Neurology 181 (2003) 115–129

@@ -1,0 +1,998 @@
+ar
+Sensorimotor cord grey matter accessible for in vivo imaging. In a parallel approach, several research groups have applied
+orimotor circuits in the isolated spinal cord (in vitro) to provide complementary
+. . .
+pinal ci
+vivo .
+. . .
+o . .
+pinal co
+. . .
+Experimental Neurology 242 (2013) 18–26
+Contents lists available at SciVerse ScienceDirect
+Experimental
+j ourna l homepage: www.e lIntroduction
+The vertebrate spinal cord harbors multiple types of neurons orga-
+nized in many different functional circuits, which in turn are involved
+in fundamental behaviors including sensation, reflexes and locomotion
+(Garcia-Campmany et al., 2010; Schouenborg, 2008). These circuits
+can be broadly defined according to developmental origins and with re-
+spect to their specific functional role in particular behaviors. Single-cell
+electrophysiological recordings have helped to characterize the physio-Abbreviations: ACSF, artificial cerebrospinal fluid; E
+encephalitis; GFP, green fluorescent protein; OGB-1, O
+sulforhodamine 101; ROI, region of interest.
+⁎ Corresponding author. Fax: +41 44 6353303.
+E-mail address: helmchen@hifo.uzh.ch (F. Helmchen
+1 Present address: Department of Neuropharmacolo
+and Toxicology, University of Zurich, Winterthurers
+Switzerland.
+0014-4886/$ – see front matter © 2012 Elsevier Inc. All
+http://dx.doi.org/10.1016/j.expneurol.2012.07.014. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Acknowledgments . . . . . . . . . . . .
+References . . . . . . . . . . . . . . . .Contents
+Introduction . . . . . . . . . . . .
+Two-photon imaging of sensorimotor s
+Two-photon imaging of spinal cord in
+Experimental challenges . . . .
+Imaging structural dynamics in viv
+Two-photon calcium imaging of s
+Conclusions and outlook . . . . . .networks. In this review we summarize recent results from these types of high-resolution two-photon imag-
+ing studies in the spinal cord and provide experimental perspectives for improving and extending this ap-
+proach in future applications.
+© 2012 Elsevier Inc. All rights reserved.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+rcuits in vitro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+rd neurons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22information and valuable new perspectives on the function of specific interneuron types in locomotor-relatedDorsal horn two-photon imaging to sensTwo-photon
+Calcium imaging
+proteins. Other studies emp
+sponses in individual neuroDepartment of Neurophysiology, Brain Research Institute, University of Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland
+a b s t r a c ta r t i c l e i n f o
+Article history:
+Received 1 April 2011
+Revised 27 March 2012
+Accepted 21 July 2012
+Available online 28 July 2012
+Keywords:
+Spinal cord
+Two-photon microscopy enables high-resolution in vivo imaging of cellular morphology and activity, in par-
+ticular of population activity in complex neuronal circuits. While two-photon imaging has been extensively
+used in a variety of brain regions in different species, in vivo application to the vertebrate spinal cord has
+lagged behind and only recently became feasible by adapting and refining the experimental preparations.
+A major experimental challenge for spinal cord imaging is adequate control of tissue movement, which
+meanwhile can be achieved by various means. One set of studies monitored structural dynamics of neuronal
+and glial cellular components in living animals using transgenic mice with specific expression of fluorescent
+loyed in vivo calcium imaging for functional measurements of sensory-evoked re-
+ns of the dorsal horn circuitry, which at present is the only part of rodent spinalReview
+Two-photon imaging of spinal cord cellul
+Helge C. Johannssen 1, Fritjof Helmchen ⁎AE, experimental autoimmune
+regon Green Bapta-1; SR101,
+).
+gy, Institute of Pharmacology
+trasse 190, CH-8057 Zurich,
+rights reserved.networks
+Neurology
+sev ie r .com/ locate /yexnrlogical properties of various spinal cord cell types, e.g. in the dorsal horn,
+both in vitro (Grudt and Perl, 2002; Lu and Perl, 2003, 2005;
+Ruscheweyh et al., 2004; Todd et al., 2002; Yoshimura and Jessell,
+1989) and in vivo (Bester et al., 2000; Dalal et al., 1999; Furue et al.,
+1999; Graham et al., 2004a, 2004b; Light andWillcockson, 1999). How-
+ever, this approach is usually limited to individual or very few cells and–
+in the case of in vivo studies – suffers from the difficulties of targeting
+19H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26and identifying particular neuronal cell types.Moreover, blind in vivo re-
+cordings may be biased towards active network elements and thus pro-
+vide a narrow if not skewed view on circuit dynamics. To obtain a more
+comprehensive view on spinal cord circuits, imaging techniques are of
+great value as they can directly visualize various structural and function-
+al aspects. In particular, two-photon microscopy provides sub-cellular
+resolution in intact neural tissue and can reveal activity patterns in
+local neuronal populations (for reviews see Garaschuk et al., 2006;
+Helmchen and Denk, 2005; Holtmaat and Svoboda, 2009; Kerr and
+Denk, 2008),making it a promising technique to reveal the cellular com-
+position and dynamic interplay within spinal cord circuits in a descrip-
+tive, non-biased manner.
+Two-photon imaging has been widely applied in various animal
+models and brain regions, either to study structural dynamics of den-
+drites, axons, and glial processes, or to reveal functional activity pat-
+terns in local neuronal populations. For example, in the rodent
+neocortex the turn-over of dendritic spines and axonal boutons and
+their structural rearrangements have been characterized by repeated
+imaging over long time periods, up to several months (Bhatt et al.,
+2009; Holtmaat and Svoboda, 2009). In addition, two-photon calcium
+imaging has enabled simultaneous monitoring of functional signals in
+tens to hundreds of cells in various cortical areas (reviewed in
+Garaschuk et al., 2006; Grewe and Helmchen, 2009). Both types of im-
+aging studies, investigating either structural dynamics or cellular activ-
+ities, have also been applied to various animal models of brain diseases
+in order to characterize pathological alterations (e.g., Brown et al., 2010;
+Busche et al., 2008; Fuhrmann et al., 2010; Nimmerjahn et al., 2005). In
+recent years, two-photonmicroscopy in addition has seen an expansion
+in available scanning modes (Cheng et al., 2011; Göbel and Helmchen,
+2007), improvements in speed (Grewe et al., 2010; Katona et al.,
+2012), and growing application of genetically-encoded indicators
+(Lütcke et al., 2010; Tian et al., 2009), all advances that should further
+extend the possibilities for studying neural circuits.
+For spinal cord studies, two-photon imaging has been lately
+employed both in vitro and in vivo. Spinal cord circuits comprise various
+neuronal subpopulations that are often interconnected in a complex,
+translaminar fashion. In vitropreparations used for two-photon imaging
+include acute slices (Wilson et al., 2007a, 2007b) and in particular
+whole spinal cords isolated from neonatal mouse (Diaz-Rios et al.,
+2007; Kwan et al., 2009; Wilson et al., 2010; Zhong et al., 2010). In the
+latter case, neuronal network activity was monitored following electri-
+cal stimulation of afferents (O'Donovan et al., 2005) or during
+drug-induced fictive locomotion paradigms (Kwan et al., 2009; Wilson
+et al., 2007a, 2007b, 2010; Zhong et al., 2010). Moreover, two-photon
+calcium imaging was applied to in vitro preparations from transgenic
+mice with specific fluorescent protein expression to investigate the
+role of genetically defined spinal neuronal populations (Kwan et al.,
+2009; Wilson et al., 2007a, 2007b, 2010; Zhong et al., 2010).
+High-resolution imaging in the spinal cord in vivo ismore challenging
+compared to the brain because it faces special problems such as difficult
+surgical access and pronounced tissuemovement artifacts. In addition, in
+adult animals typically used for these experiments, suboptimal optical
+conditions prevail due to high levels of myelination. Most two-photon
+imaging studies performed in the spinal cord of living rodents so far
+have focused on superficial dorsal white matter tracts, making use of
+sparsely labeled axons and the expression of fluorescent reporter pro-
+teins in different glial cell populations (Davalos et al., 2008; Dibaj et al.,
+2010a, 2010b; Dray et al., 2009; Farrar et al., 2012; Fenrich et al., 2012;
+Ylera et al., 2009). Especially in the field of imaging glial networks and
+their interactions with defined neuronal circuits, transgenic animals
+have proven highly beneficial to elucidate mechanism of structural plas-
+ticity. Because the superficial area of the spinal cord is often affected dur-
+ing severe human pathologies including traumatic injury and multiple
+sclerosis, imaging the concomitant structural plasticity of axonal fibers
+or glial cells in the respective animalmodels of such pathologiesmay en-
+able a more detailed understanding of disease-related mechanisms.Finally, further challenges exist for establishing functional two-
+photon imaging of mammalian spinal cord neuronal networks in vivo.
+Neuronal populations residing in the central grey matter are even more
+difficult to access optically than white matter cells. Specifically, the pres-
+ence of superficially locatedmyelinatedfiber bundles hinders deep imag-
+ing. In addition, a high level of mechanical stability is paramount to
+resolve functional signals such as rapid calcium transients on a fast time
+scale. Only recently, using special approaches to achieve sufficient stabil-
+ity levels, fast calcium transients in mouse spinal cord neuronal
+populations were resolved (Johannssen and Helmchen, 2010; Laffray et
+al., 2011). In the following we first provide an overview of two-photon
+imaging in spinal cord in vitro preparations beforewe describe the recent
+progress in high-resolution imaging of spinal cord dorsal horn in living
+animals.
+Two-photon imaging of sensorimotor spinal circuits in vitro
+To investigate principles of motor and pre-motor neuronal circuit
+function with two-photon imaging, several groups recently used cal-
+cium imaging in spinal cord preparations from early postnatal mice in
+vitro (Kwan et al., 2009; Wilson et al., 2007a, 2007b, 2010; Zhong et
+al., 2010). The isolated spinal cord of neonatal mice can be superfused
+with oxygenated artificial cerebrospinal fluid (ACSF) and kept in
+healthy condition for more than 10 h (Fig. 1A). At this early age, op-
+tical access can be gained to deeper spinal cord laminae due to the
+lack of full myelination and the overall smaller dimensions of the neo-
+natal spinal cord. In addition, the preparation can be arbitrarily placed
+to optimize access to either the dorsal or the ventral side. Calcium in-
+dicator delivery was accomplished either by retrograde labeling
+(O'Donovan et al., 2005), bulk loading with small molecule AM-ester
+dyes (Kwan et al., 2009; Wilson et al., 2007a, 2007b, 2010; Zhong et al.,
+2010) (Fig. 1B), or electroporation techniques (Bonnot et al., 2005).
+These experimental advantages come, however, with some limitations.
+First, the isolated spinal cord preparation is restricted to the first few
+postnatal days in mice, thus reflecting a developing system, which has
+to be considered for appropriate data interpretation. Second, the
+connectivity to other CNS areas, in particular the brainstem, which is
+known to modulate sensorimotor integration, is generally truncated,
+although it can be preserved using variants of the standard preparation
+protocol (Gordon and Whelan, 2008). Modulatory in vivo effects can
+be, however,mimicked to a certain degree, e.g., by using neurotransmit-
+ters or electrical activation of the dorsal roots still attached to the
+preparation.
+A widely used experimental paradigm to study locomotor circuits in
+the isolated spinal cord is a condition of rhythmic activity termed “fictive
+locomotion”, which can be induced by bath application of a
+neuromodulatory cocktail (Cazalets et al., 1992; Kudo and Yamada,
+1987). Combining calcium imaging techniques with suitable transgenic
+reporter lines, several groups lately investigated the activity patterns of
+discrete neuronal populations in the neonatal mouse spinal cord during
+fictive locomotion (Kwan et al., 2009; Wilson et al., 2007a, 2007b, 2010;
+Zhong et al., 2010). Since the summed output of the spinal cord locomo-
+tor circuit can be simultaneously recorded from the ventral roots (see
+Fig. 1A), the functional role of different neuron types in network activity
+could be assessed. Two-photon calcium imagingwas for example used in
+acute slices and the whole spinal cord preparation of HB9:eGFP mice to
+monitor the extent of synchronous bursting activity and electrotonic
+coupling in the subpopulation of HB9 interneurons (Wilson et al.,
+2007a, 2007b). In another imaging study of spinal locomotor networks,
+two-photon imaging of HB9 interneuron activity patterns during fictive
+locomotion revealed spatio-temporal relationships of HB9-activities
+with respect to the locomotor network (Kwan et al., 2009). Other neuro-
+nal populations residing in more central laminae have been accessed by
+hemisecting the spinal cord (Wilson et al., 2010). In this study,
+two-photon imaging of dorsomedial GABAergic neurons in hemisected
+spinal cords from Gad65-GFP mice showed that these cells are
+al c
+ygen
+20 H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26Fig. 1. High-resolution two-photon imaging of rodent spinal cord. (A) Preparations for spin
+pups, the preparation is placed in a perfusion chamber and continuously perfused with oxrhythmically active during fictive locomotion and are likely to provide
+inhibitory drive towards motoneuron output. Similarly, two-photon cal-
+cium imagingwas used in Chx10::CFPmouse spinal cords to visualize ac-
+tivation of V2a interneurons during ipsi- and contralateral episodes of
+ventral root output during fictive locomotion (Zhong et al., 2010).
+Kwan et al. recently introduced coherence analysis as a tool to analyze
+specifically large sets of cellular fluorescence traces with respect to
+rhythmic locomotor output (Kwan et al., 2010). Calculation of the coher-
+ence between cellular signal traces and the system's summed output
+provides information about amplitude and phase of individual neuronal
+activities relative to network activity. This approach seems to be a useful
+addition to other approaches used in population data analysis (like spike
+train reconstruction or principal component analysis, reviewed in Lütcke
+andHelmchen, 2011), especiallywhen imaging data is acquired in paral-
+lel with a measure of more global network state (e.g. locomotor output,
+EEG recording). Taken together, two-photon imaging studies in the neo-
+natal spinal cord have provided important insights into the functional
+role of genetically defined spinal cord subpopulations. The in vitro ap-
+proaches thus are well suited to determine the intrinsic contributions
+of different cell classes towards shaping sensorimotor output on a circuit
+level.
+Two-photon imaging of spinal cord in vivo
+Experimental challenges
+High-resolution optical imaging of neuronal and glial networks in
+living rodents requiresminimization of translational tissuemovements,
+stimulate spinal circuits via the ventral and/or dorsal roots. Right: For imaging in living animal
+nective tissue. Typically, the osseous vertebral lamina is removed by laminectomy. For bulk
+two-photon image of a neuronal population in the intermediate zone of a hemisected neonatal
+circuits after OGB-1 loading.Motor neuronswere in addition retrogradely labeled by intramuscu
+neurite extensions can be resolved in many cases. (C) In vivo two-photon image examples. Lef
+cells (green; 30-μm z-projection). Prior to image acquisition, the blood plasma of Cx3CR1-GFP
+(green) and adjacent microglia cells (pseudo-colored in blue) imaged in the spinal cord dors
+glycinergic neurons imaged in the superficial dorsal horn of GlyT2-EGFP mice in vivo. (E) Serie
+wild-type mice (left). Afferent fiber tracts entering the lateral grey matter at superficial levels
+in the substantia gelatinosa can be well resolved (right).ord imaging. Left: Following isolation of the whole spinal cord from neonatal mouse or rat
+ated ACSF. Small pins stabilized the isolated cord. Glass pipettes can be used to record orin particular drifts of the focal plane. Tissue movements originate from
+the pulsations associatedwith heart beat and breathing. Inmost studies
+on neocortex or subcortical regions such as the hippocampus, tissue sta-
+bilization is achieved by either reducing invasiveness (preparation of a
+small craniotomy or a thinned skull preparation, e.g. Davalos et al.,
+2005; Drew et al., 2010; Nimmerjahn et al., 2005) or by mechanically
+dampening tissue pulsations with cover glass slides in combination
+with agar (Stosiek et al., 2003) or more specialized indention materials
+(Dombeck et al., 2007). With such approaches, the remaining tissue
+pulsations, which in the cortex are not influenced to large extents by
+breathing movements, can be well controlled allowing even fine-scale
+imaging of subcellular structures like dendritic spines (Bhatt et al.,
+2009; Holtmaat and Svoboda, 2009) and microglial filopodia (Davalos
+et al., 2005; Nimmerjahn et al., 2005). The degree of stability can be
+high enough to even permit functional imaging in awake, behaving an-
+imals (Dombeck et al., 2007).
+Given the spinal cord's inherent mechanical flexibility and the
+level of invasiveness that is often required for optical access during
+the experiment, achieving sufficient stability of the preparation is
+particularly important for spinal cord imaging. Typically, spinal cord
+movement is first of all minimized by fixating the vertebral column
+with metal clamps. For mice, the optimal age for clamp fixation ap-
+pears to be >6–8 weeks, which ensures sufficient rigidity of the ver-
+tebral column. Relatively stable conditions can be achieved by
+optimizing the animals' posture, as has been demonstrated in various
+single-cell patch-clamp recording studies probing dorsal horn cells in
+rats (Bester et al., 2000; Dalal et al., 1999; Furue et al., 1999; Light and
+Willcockson, 1999) and mice (Graham et al., 2004a, 2004b), as well as
+s surgical and optical access to the spinal cord requires resection of multiple layers of con-
+loading of calcium indicators, the dura mater is incised or deflected. (B) Left: Example
+spinal cord bulk loadedwith OGB-1AM. Right: Staining pattern in ventral horn locomotor
+lar injection of Rhodamine Dextran one day before the imaging session. Note that primary
+t: Two-photon image of the spinal microvasculature (red) in close contact with microglial
+mice was stained by tail vein injection of a red fluorescent dextran. Right: Sensory axons
+al white matter of Thy1-YFP/Cx3CR1-GFP double transgenic mice. (D) Side projection of
+s of two-photon images of OGB-1-labeled neuronal networks in the dorsal spinal cord of
+are partly stained. Despite the occluding effects of these fiber tracts, individual neurons
+21H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26in recent imaging studies (Davalos et al., 2008; Dibaj et al., 2010a,
+2010b; Drdla et al., 2009; Ikeda et al., 2006; Johannssen and
+Helmchen, 2010). Spontaneous breathing has a major effect on spinal
+cord movements in intact rodents and its impact appears to be larger
+in rats when compared to age-matched mice. To mechanically isolate
+the spinal cord from breathing related movements, the fixated animal
+can be slightly elevated from the heating pad (Davalos and
+Akassoglou, 2012; Davalos et al., 2008) although great care has to
+be taken to avoid hypothermia in this case, especially in mice. Period-
+ic clearance of accumulated mucus is advisable to maintain stable
+breathing over time (Johannssen and Helmchen, 2010) and the anes-
+thesia regime used can affect recording stability as well (Davalos
+et al., 2008).
+A further method for stabilization is artificial ventilation, which
+does not seem to be absolutely required but helps to stabilize spinal
+cord in vivo preparations in several ways (Dibaj et al., 2010a, 2010b;
+Ikeda et al., 2006; Kerschensteiner et al., 2005). Within their physio-
+logical range, ventilation frequency and inhalation volume can be ad-
+justed to minimize their influence on spinal cord movement. There
+are several ways to implement artificial ventilation in mice and rats
+such as endotracheal intubation techniques and intubation after tra-
+cheotomy, which are usually combined with paralyzing agents mak-
+ing anesthesia surveillance by reflex assessment challenging
+(alternative methods to monitor anesthesia levels in this case could
+be recording of the electrocardiogram, ECG, and/or electroencephalo-
+gram, EEG, previously calibrated to the actual anesthetic regime used;
+see for example (Dibaj et al., 2010a)). Although less invasive when
+compared to the tracheotomy approach, endotracheal intubation is
+more difficult to master in mice due to smaller upper airway dimen-
+sions. When relatively slow events are monitored, data acquisition
+can be triggered to the artificial breathing cycle when using artificial
+ventilation. Similarly triggering on the cardiac cycle can help to cir-
+cumvent heart-beat induced movement artifacts.
+Optical imaging of the spinal cord in vivo obviously involves surgical
+procedures that enable direct tissue access (Fig. 1A). The extent and
+complexity of the surgery, however, largely depend on the specific ex-
+perimental questions. If target structures are pre-labeled, e.g., by
+expression of fluorescent marker proteins in subsets of neurons
+(Zeilhofer et al., 2005) or glial cells (Jung et al., 2000), the dura does
+not need to be removed but only cleared from connective tissue to
+allow high-resolution imaging (Dibaj et al., 2010a). For optical access
+to the dorsal spinal cord surface, the intervertebral space can be
+exploited without microsurgical removal of one or more vertebrae
+(Kim et al., 2010). While this minimally invasive approach is limited
+to a rather restricted area, it is especially well suited for repeated imag-
+ing over days, in part because the necessary post-operative care regime
+does not have to deal with a major surgery as in the case of a
+laminectomy. On the other hand, if imaging is performed repeatedly
+after conducting a laminectomy, adequate analgesic management is re-
+quired and the surgery site needs to be protected between imaging ses-
+sions by means of an artificial dura substitute (Kerschensteiner et al.,
+2005) or a protective agar pad (Dray et al., 2009). Only recently,
+time-lapse imaging of axons, glia and immune cells in the living
+mouse spinal cord was reported by using chronically implanted imag-
+ing chambers (Farrar et al., 2012; Fenrich et al., 2012). In these studies,
+implanted animals could be re-anesthetized for each imaging session
+without the need of repeated surgery. So far, most spinal cord in vivo
+imaging studies in intact rodents focused on medially located, superfi-
+cial whitematter tracts to visualize their structural plasticity or interac-
+tionwith glial cells (Davalos et al., 2008; Dibaj et al., 2010a, 2010b; Dray
+et al., 2009; Farrar et al., 2012; Fenrich et al., 2012; Kerschensteiner et
+al., 2005; Ylera et al., 2009). In contrast, for two-photon calcium imaging
+of dorsal horn neurons, the grey matter comprising neuronal circuits of
+interest needs to be accessed. By slightly rotating the animal, direct, lat-
+eral access to the superficial laminae of the lumbar dorsal horn is facil-
+itated (Johannssen and Helmchen, 2010). To maximize imaging depth,it is beneficial to avoidmyelinated structures like prominent fiber tracts
+as far as possible because these efficiently absorb and scatter the excita-
+tion light, severely decreasing resolution and contrast. In combination
+with bulk loading of the calcium indicator OGB-1AM, activity of neuro-
+nal populations located in Laminae I and II in the spinal cord of adult
+mice could be monitored in vivo (Johannssen and Helmchen, 2010).
+Since other factors including signal-to-noise ratio and the degree of
+neuropil staining of a given dye also influence imaging depth (Göbel
+and Helmchen, 2007), bright labeling of relatively few structures
+might be especially suited to gain access to evendeeper spinal cord lam-
+inae in vivo (see Fig. 1D for example).
+Imaging structural dynamics in vivo
+Given the spinal cord's cellular diversity, techniques for specific la-
+beling of neuronal subpopulations are indispensable to investigate
+specific spinal cord circuits. Classical anatomical approaches like trac-
+ing techniques to identify neuronal populations based on target in-
+nervation have been used both in vitro (O'Donovan et al., 2005) and
+in vivo (Ikeda et al., 2006). Fluorescent tracers like DiI or dextrans
+can then also be combined with bulk loading of AM-type calcium in-
+dicators during the imaging experiment, for example to retrogradely
+identify Lamina I projection neurons in vivo (Ikeda et al., 2006) (see
+also Fig. 3B) or motoneurons in vitro (Fig. 1B).
+A particularly valuable and surgically non-invasive way to identify
+specific subtypes of spinal cord neurons is transgenic expression of
+fluorescent proteins (see examples in Figs. 1C and D). Depending on
+several factors, including expression levels and sparseness of labeling,
+genetically encoded markers provide good contrast and importantly,
+allow repeated imaging (Dray et al., 2009; Farrar et al., 2012;
+Fenrich et al., 2012; Kerschensteiner et al., 2005). However, many
+current promoters used to drive fluorescent protein expression result
+in labeling of large neuronal populations, which share a certain trans-
+mitter system or receptor type. Transgenic mice expressing fluores-
+cent proteins only in subsets of spinal cord neurons could be an
+increasingly valuable tool to investigate spinal circuits on a finer
+scale (Belle et al., 2007; Heinke et al., 2004; Torsney et al., 2006).
+Several recent studies imaging spinal cord neurons in vivo used
+Thy1-GFP transgenic mice for acute and repeated imaging of single
+axons (Dray et al., 2009; Farrar et al., 2012; Fenrich et al., 2012;
+Kerschensteiner et al., 2005; Ylera et al., 2009). Sparse expression of
+fluorescent reporter proteins in spinal cord projection neurons en-
+abled faithful monitoring of individual regenerating axons with high
+resolution after experimental spinal cord injury (Dray et al., 2009;
+Fenrich et al., 2012; Kerschensteiner et al., 2005; Ylera et al., 2009).
+From a technical perspective, these structural changes are relatively
+slow, typically occurring on the minutes to hours time scale, and
+therefore allow offline correction of lateral movements and focal
+plane shifts, given that they do not exceed the dimensions of image
+stacks acquired over time. After spinal cord injury, central sensory
+axon regeneration capacity depends on the timing of peripheral
+nerve injuries, which was recently observed with in vivo two-photon
+imaging of fibers growing through an acute lesion site (Ylera et al.,
+2009). In a related study using the lamprey spinal cord model of axo-
+nal regeneration, two photon imaging was used to assess the overall
+growth-promoting effect of cAMP after spinal cord injury in vivo,
+highlighting its differential role of inhibiting the early phase of retrac-
+tion and increasing the later outgrowth speed (Jin et al., 2009).
+Following a localmechanical dorsal column lesion, Dray et al. (2009)
+monitored the parallel dynamics of regenerating, GFP-positive sensory
+axon populations and the local microvasculature repeatedly for up to
+4 months. Blood vessels in this case were stained by i.v. administration
+of Rhodamine dextran (see also Fig. 1C). Long-term imaging revealed an
+early phase of enhanced vessel growth during a longer lasting period of
+axonal regrowth past the lesion site. In this case, the laminectomy site
+could be sufficiently protected in between trials by agar cushioning,
+22 H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26making repeated surgery necessary but also allowing periodic cleaning
+of the imaging site to optimize optical access. Two groups recently
+employed custom-made, implanted imaging chambers for chronic spi-
+nal cord imaging in transgenic mice (Farrar et al., 2012; Fenrich et al.,
+2012). Farrar et al. (2012) repeatedly imaged microglia dynamics asso-
+ciated with axonal injury and regeneration. With this approach, the au-
+thors visualized and quantified the time course of microglia activation
+after focal laser injury on a daily basis and also observed differential ax-
+onal plasticity over several weeks. Importantly, it now became possible
+to repeatedly image the spinal cord without additional surgery (Farrar
+et al., 2012; Fenrich et al., 2012). However, great care is necessary to
+avoid deterioration of the imaging window over time due to inflamma-
+tion or tissue regrowth. Taken together, these chronic imaging ap-
+proaches open new avenues towards examining the long-term
+regeneration of axons during spinal cord pathologies as well as their in-
+teraction with other tissue compartments with high resolution in vivo.
+Spinal cord glial cell populations, in addition to their established
+roles in neurotrophic support, electrical insulation and immunologi-
+cal surveillance (Hanisch and Kettenmann, 2007; Nave, 2010), have
+emerged as important players in influencing neuronal activity
+patterns by release of various modulatory factors (Bardoni et al.,
+2010; Coull et al., 2005). In certain pathological settings, e.g. after
+spinal cord injury, astrocytes are known to undergo reactive gliosis
+impeding the regeneration of injured axons (Silver and Miller,
+2004). For imaging astrocyte signaling under various experimental
+conditions, it would be desirable to identify this cell population
+with a rather simple staining technique. In the neocortex, brief appli-
+cation of sulforhodamine 101 (SR101) to the brain surface is such a
+method, selectively staining astrocytes in vivo (Nimmerjahn et al.,
+2004). In the spinal cord, however, SR101 application resulted in
+more complex staining patterns (Johannssen and Helmchen, 2010).
+Although topical application of SR101 to the dorsal surface in vivo
+resulted in preferential astroglial dye uptake, control experiments
+using the fixable analogue Texas Red hydrazide (TRH) or tissue injec-
+tion of SR101 caused labeling of neuronal cells as well (Johannssen
+and Helmchen, 2010). In vitro, bath application of SR101 has been
+reported to label spinal cord neurons in isolated, neonatal prepara-
+tions in an activity-dependent manner (Kjaerulff et al., 1994;
+Lavallee and Pflieger, 2009). This rather wide range of SR101 uptake
+in the spinal cord could be due to several factors including the type
+of preparation used, the mode, duration and concentration of dye
+application and the animals' age. As an alternative, selective genetic
+labeling techniques can be exploited to study morphological interac-
+tions of spinal cord astrocytes with neurons, for example in models
+of spinal cord edema (Dibaj et al., 2007), which frequently occurs
+after spinal cord injury.
+Recent imaging studies of microglia dynamics in the neocortex
+shed new light on the role of these cells in constant and active sur-
+veillance of the surrounding brain tissue and also demonstrated
+purinergic signaling as a key chemoattractant pathway for microglia
+migration (Davalos et al., 2005; Nimmerjahn et al., 2005). These stud-
+ies used a Cx3CR1-GFP mouse line, in which microglia express GFP
+(Jung et al., 2000). Mechanisms of how microglia interact with neu-
+rons during regeneration after injury and during plasticity of pain
+networks are a field of major interest in current spinal cord research
+(Coull et al., 2005; Dibaj et al., 2010a; Farrar et al., 2012). In the spinal
+cord, microglial cells have been shown to tune neuronal firing in spi-
+nal pain-processing circuits by release of BDNF (Coull et al., 2005).
+Specifically, ATP-dependent signaling mechanisms have been identi-
+fied (Tsuda et al., 2010), which are especially important in spinal
+cord injury paradigms and in models of neuropathic pain (Coull et
+al., 2005). Recently, in vivo time lapse imaging in double-transgenic
+Cx3CR1/Thy1-mice was used to visualize the structural dynamics of
+microglia in spinal white matter before and after focal laser injury
+(Dibaj et al., 2010a) as well as in acute post-mortem tissue (Dibaj et
+al., 2010b) (see also Fig. 1C). After injury, microglia showed increasedrates of directional motility towards the lesion site, which – in addi-
+tion to ATP – depended on NO signaling (Dibaj et al., 2010a), which
+had been previously shown to influence microglia migration behavior
+in the leech nerve cord (Duan et al., 2003). These signaling pathways
+are likely to be critically involved in the enhanced activation and re-
+cruitment of macrophages during pathological conditions like spinal
+cord injury (Schnell et al., 1999), multiple sclerosis (Monif et al.,
+2010) and chronic pain (Tsuda et al., 2010). Using new methodolog-
+ical improvements, especially in repeated spinal cord imaging tech-
+niques (Dray et al., 2009; Farrar et al., 2012; Fenrich et al., 2012;
+Kerschensteiner et al., 2005), mechanistic details of microglia plastic-
+ity can now be further explored in vivo in the context of various ex-
+perimental settings.
+In addition to the roles of microglia in spinal cord trauma and
+chronic pain states, in vivo imaging approaches can be used to
+visualize interactions of monocytic immune cells with the spinal
+cord white matter and vasculature in the context of experimental
+autoinflammatory encephalitis (EAE), which is an animal model of
+human multiple sclerosis. In vivo imaging of pre-labeled T cells di-
+rectly revealed mechanistic details about their interaction with the
+spinal cord blood brain barrier in EAE mice (Vajkoczy et al., 2001).
+In the same disease model, two-photon imaging of Cx1CR3-positive
+microglia or CxCR6-positive immune cells expressing GFP was used
+to observe the directional migration of CxCR6-cells within the dorsal
+white matter in vivo (Kim et al., 2010). In summary, high resolution
+in vivo imaging of neuronal and glial structural plasticity in the intact
+spinal cord recently provided detailed insights into mechanisms of
+disease and regeneration.
+Two-photon calcium imaging of spinal cord neurons
+Functional imaging of cellular activity in the intact spinal cord ob-
+viously would be of great value to complement the studies on struc-
+tural changes. At least for the superficial dorsal horn, progress has
+been made recently to establish two-photon calcium imaging of
+grey matter neurons and glial cells, complementing earlier in vivo
+electrical recordings of spinal cord neurons. The main method that
+has been used so far for calcium indicator labeling in spinal cord
+is bulk loading by injection of a calcium indicator in its AM-ester
+form (Brustein et al., 2003; Drdla et al., 2009; Ikeda et al., 2006;
+Johannssen and Helmchen, 2010), similar to previous studies in vari-
+ous brain areas (Kerr et al., 2005; Schultz et al., 2009; Stosiek et al.,
+2003; Sullivan et al., 2005). Injection of the indicator typically results
+in a quick, functional labeling of neuronal and glial populations cover-
+ing an area of several hundred microns (Fig. 1E). Although brightness
+of staining typically broadly segregates neuronal and glial cells
+(Stosiek et al., 2003), labeling of cellular structures is virtually
+non-selective and also accompanied by a relatively high background
+due to neuropil staining raising the possibility of signal contamina-
+tion (Göbel and Helmchen, 2007; Kerr and Denk, 2008). In principle,
+various other techniques for calcium indicator labeling could also be
+applied to the spinal cord, such as intracellular loading of individual
+cells or local electroporation of salt- or dextran-forms of small mole-
+cule indicators, which can stain individual or groups of dozens of cells
+with high signal-to-background ratio (Nagayama et al., 2007; Nevian
+and Helmchen, 2007). In the isolated neonatal spinal cord bulk elec-
+troporation has been shown to efficiently label cellular networks, al-
+beit with unclear cell type-specificity (Bonnot et al., 2009). The
+feasibility and the degree of specificity of these methods yet remain
+to be determined for the intact, adult spinal cord.
+In the first study using in vivo bolus loading of calcium indicator
+and high-resolution two-photon calcium imaging of spinal cord neu-
+ronal populations, zebrafish larvae were used to monitor responses to
+sensory stimulation and drug application (Brustein et al., 2003)
+(Fig. 2A). Zebrafish larvae have great genetic potential and are highly
+transparent and thus advantageous for optical techniques, as previously
+rgan
+f dif
+im
+ecti
+The
+inch
+ite c
+trian
+ved
+y of
+Pane
+23H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26exploited for confocal in vivo imaging of the embryonic ventral spinal
+cord with genetically encoded calcium indicators (Higashijima et al.,
+2003; Warp et al., 2012). It remains yet to be determined how exactly
+Fig. 2. In vivo two-photon calcium imaging in the spinal cord of three different model o
+and fluorescence changes in individual cells were imaged during sensory stimulation o
+neurons of zebrafish larvae. Left, schematic of the stimulation paradigm and two-photon
+transients in the five marked cells. (B) Left, Lamina I projection neuron identified by inj
+changes in OGB-1 fluorescence within PAG-projecting Lamina I neurons (n=7) in rats.
+nerve at C-fiber intensity in vivo and persists throughout the stimulation period. (C) P
+showing OGB-1 loaded neuronal populations in the mouse superficial dorsal horn. Wh
+right. Repeated mechanical stimulation induced time-locked calcium transients (red
+detected as well. (D) Left, expanded view of the pinch-evoked calcium transients obser
+in this cell and variations of signal magnitude during repeated stimulation. Right, overla
+the red curve is the exponential fit used to approximate signal decay.
+Panel A adapted from Brustein et al. (2003). Panel B adapted from Ikeda et al. (2006).findings from developing zebrafish spinal circuits relate to experiments
+in adult rodents, which are frequently used as model systems to inves-
+tigate mechanisms of sensory processing and pain. In recent pioneering
+experiments in spinal cord of young rats, in vivo calcium imaging was
+performed after bulk loading of OGB-1, involving extensive adaptations
+to stabilize the preparation including artificial ventilation, cardiac trig-
+gering of data acquisition and cardio-pulmonary bypass techniques
+(Drdla et al., 2009; Ikeda et al., 2006). Using these procedures, Ikeda
+et al. (2006) could image sciatic nerve stimulation-induced calcium
+gradients in several classes of Lamina I neurons in vivo (Fig. 2B).
+Similarly, in another publication from the same group, calcium
+gradients were observed after opioid application in vivo in rats
+(Drdla et al., 2009). The strengths of this approach are clearly the
+established and well-defined functional anatomy of the somatosen-
+sory system and its behavioral correlates in the rat as a model organ-
+ism. However, in contrast to the zebrafish study of sensory-evoked
+activity (Brustein et al., 2003), elementary calcium transients, trig-
+gered by a single or a few action potentials, could not be resolved
+in these two studies, possibly because spinal cord movement is
+more difficult to control in rats when compared to smaller model
+organisms.
+To resolve individual calcium transients in dorsal horn neurons in
+living rats and mice, spinal cord movements need to be further re-
+duced down to the microscopic level. While electrical recording con-
+figurations seem to tolerate certain amounts of movement relative to
+the pipette (after seal formation), high-resolution calcium measure-
+ments are highly sensitive to drifts of only a few microns occurring
+in the z-direction (Kerr and Denk, 2008). While lateral shifts within
+a single focal plane can be corrected offline, such correction is usually
+difficult or impossible for focus shifts (Greenberg et al., 2008). It is
+therefore paramount to improve the preparation stability as much
+as possible in order to optimize the raw data quality. Recently, wedemonstrated in vivo calcium imaging of dorsal horn neurons in
+mice (Johannssen and Helmchen, 2010) (Figs. 2C, D). In this study
+we effectively dampened tissue pulsations that remained after pos-
+isms. In all cases neuronal circuits were bulk-loaded with AM-type calcium indicators
+ferent modalities. (A) Mechanical stimulation evokes calcium transients in spinal cord
+age of spinal cord populations loaded with Fura PE3 AM. Right, sensory-evoked calcium
+on of the tracer DiI into the periaqueductal grey (PAG) prior to imaging. Right, average
+calcium elevation is evoked by low-frequency electrical stimulation (LFS) of the sciatic
+-evoked calcium transients in subsets of dorsal horn cells in vivo. Two-photon image
+ircles indicate ROIs for which the corresponding fluorescence traces are shown on the
+gles) in a subset of cells and intermittent spontaneous events (blue asterisks) were
+in cell 1 (uppermost trace in panel C) illustrating precise time-locking of the responses
+the sensory-triggered calcium transients. The dashed line marks pinch stimulation and
+ls C and D adapted from Johannssen and Helmchen (2010).ture optimization with simple mechanical means by covering the
+laminectomy with a sheet of agarose and a coverglass (Fig. 3A).
+With this method, sensory-evoked elementary calcium transients
+could be resolved in single cells within the mouse superficial dorsal
+horn (Figs. 2C, D). Importantly, the dampening material can be tem-
+porarily removed if required, e.g. for the local application of drugs, ei-
+ther topical or by intraspinal injection.
+An alternative method could be to compensate focal shifts by on-
+line corrective movements of the microscope objective, as demon-
+strated recently (Laffray et al., 2011). Furthermore, remaining minor
+motions can be dealt with by using ratiometric imaging. In principle,
+this can be either achieved with ratiometric indicator dyes or by
+co-injection of OGB-1 and a red fluorescent marker such as Calcein
+red/orange AM, which itself does not exhibit activity-dependent fluo-
+rescence intensity changes (Fig. 3B). The cellular signal is in this case
+evaluated as the ratio of the fluorescence intensities in the green
+(OGB-1) and the red channel (Calcein), respectively. This ratio is
+much less sensitive to tissue shifts so that the calcium transients
+can be extracted even under noisy conditions (Fig. 3B). Ratiometric
+imaging thus might be especially well suited for functional imaging
+studies in the intact spinal cord.
+Conclusions and outlook
+In summary, two-photon imaging in the spinal cord is now ap-
+plied using both in vitro and in vivo preparations. For in vivo imaging,
+key methodological advances have been made that now enable
+high-resolution studies of both spinal cord structure and function.
+In particular, functional imaging of neuronal calcium transients in
+the intact spinal cord has just emerged. This approach can be
+expected to find extended applications in the future as it opens new
+opportunities to study circuit activity with cellular resolution. The
+24 H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26main limitation of in vivo calcium imaging experiments currently is
+the restriction to the superficial dorsal horn due to heavy myelination
+precluding optical access to deeper laminae. Even if optical conditions
+in terms of light scattering and absorption could be improved, e.g. by
+using substantially longer excitation wavelengths (Kobat et al., 2009),
+two-photon microscopy cannot be expected to yield a maximal depth
+penetration beyond 1 mm (Helmchen and Denk, 2005). Thus, imag-
+ing of deeper layers and especially ventral laminae in vivowould nec-
+essarily involve more invasive approaches, for example the use of
+fiber optics and microlenses for fluorescence excitation and collec-
+tion. The feasibility of directly accessing the spinal cord of living rats
+with a commercially available microlens system was recently demon-
+strated (Wang et al., 2007). Similarly, fiber- or microlens-based min-
+iature microscopes (Engelbrecht et al., 2008; Flusberg et al., 2005;
+Göbel et al., 2004) might be inserted deeper into spinal tissue. How-
+ever, since spinal sensorimotor circuits are heavily interconnected
+across laminae and rely on feedback inputs for proper functioning,
+such approaches would require careful interpretation.
+Fig. 3. Stabilization of spinal cord fluorescence signals using mechanical or ratiometric approa
+reduces the extent of noisy fluorescence fluctuations during calcium imaging in the mouse do
+before (top) and after (bottom) stabilization. (B) Alternatively ratiometric imaging can be
+co-injected in the dorsal spinal cord together with the non-functional dye CellTrace calcein re
+are shown for example cells in two different ways (two trials are shown for cell 1). Relative
+many movement-induced artifacts superpositioned on the calcium signals. When the same ca
+dye channels (ΔR/R), signals appear much cleaner.
+Panel A modified from Johannssen and Helmchen (2010).A most promising future direction is the combination of
+two-photon microscopy with genetically encoded calcium indicators
+(Mank and Griesbeck, 2008; Miyawaki, 2003). Over the last decade,
+the performance of GECIs has been improved substantially, e.g. with
+respect to dynamic range, sensitivity, and kinetics, so that they now
+are a key tool to study network function in vivo (Dombeck et al.,
+2010; Lütcke et al., 2010; Mank et al., 2008; Tian et al., 2009). GECIs
+can be expressed in the cells of interest using various methods, in-
+cluding generation of transgenic animals (Hasan et al., 2004) and in
+particular viral delivery (Lütcke et al., 2010; Tian et al., 2009). The
+twomajor classes of GECIs are single fluorescent proteins and tandem
+fluorescent proteins, which are linked via a calcium-binding domain.
+The latter type might be particularly interesting, since its functional
+signals rely on changes in fluorescence resonance energy transfer
+(FRET) efficiency, which is typically read out ratiometrically in two
+spectral windows. In a recent study, action potential-induced calcium
+signals were resolved in mouse neocortex using the FRET-based indi-
+cator Yellow Cameleon 3.60 (YC3.60; Lütcke et al., 2010). The
+ches. (A) Dampening tissue pulsations by a layer of agarose and a cover glass significantly
+rsal horn. On the right several example traces from neurons filled with OBG-1 are shown
+used, which is less sensitive to movement artifacts. In this example, OGB-1AM was
+d-orange AM. The fluorescence changes induced by electrical afferent stimulation in vivo
+percentage changes of OGB-1 fluorescence (ΔF/F from the green channel alone) contain
+lcium signals are evaluated as relative percentage changes of the ratio between the two
+Bester, H., Chapman, V., Besson, J.M., Bernard, J.F., 2000. Physiological properties of the
+itoring of neuronal network activity in zebrafish by two-photon Ca(2+) imaging.
+25H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26Pflugers Arch. 446, 766–773.
+Busche, M.A., Eichhoff, G., Adelsberger, H., Abramowski, D., Wiederhold, K.H., Haass, C.,
+Staufenbiel, M., Konnerth, A., Garaschuk, O., 2008. Clusters of hyperactive neurons
+near amyloid plaques in a mouse model of Alzheimer's disease. Science 321,
+1686–1689.
+Cazalets, J.R., Sqalli-Houssaini, Y., Clarac, F., 1992. Activation of the central pattern gen-
+erators for locomotion by serotonin and excitatory amino acids in neonatal rat. J.
+Physiol. 455, 187–204.
+Cheng, A., Goncalves, J.T., Golshani, P., Arisaka, K., Portera-Cailliau, C., 2011. Simulta-
+neous two-photon calcium imaging at different depths with spatiotemporal
+multiplexing. Nat. Methods 8, 139–142.
+Coull, J.A., Beggs, S., Boudreau, D., Boivin, D., Tsuda, M., Inoue, K., Gravel, C., Salter,
+M.W., De Koninck, Y., 2005. BDNF from microglia causes the shift in neuronal
+anion gradient underlying neuropathic pain. Nature 438, 1017–1021.
+Dalal, A., Tata, M., Allegre, G., Gekiere, F., Bons, N., Albe-Fessard, D., 1999. Spontaneous ac-
+tivity of rat dorsal horn cells in spinal segments of sciatic projection following tran-
+section of sciatic nerve or of corresponding dorsal roots. Neuroscience 94, 217–228.
+Davalos, D., Akassoglou, K., 2012. In vivo imaging of the mouse spinal cord using two-
+photon microscopy. J. Vis. Exp. (59), e2760 (2012 Jan 5).
+Davalos, D., Grutzendler, J., Yang, G., Kim, J.V., Zuo, Y., Jung, S., Littman, D.R., Dustin,
+M.L., Gan, W.B., 2005. ATP mediates rapid microglial response to local brain injury
+in vivo. Nat. Neurosci. 8, 752–758.
+Davalos, D., Lee, J.K., Smith, W.B., Brinkman, B., Ellisman, M.H., Zheng, B., Akassoglou, K.,
+2008. Stable in vivo imaging of densely populated glia, axons and blood vessels inlamina I spinoparabrachial neurons in the rat. J. Neurophysiol. 83, 2239–2259.
+Bhatt, D.H., Zhang, S., Gan, W.B., 2009. Dendritic spine dynamics. Annu. Rev. Physiol.
+71, 261–282.
+Bonnot, A., Mentis, G.Z., Skoch, J., O'Donovan, M.J., 2005. Electroporation loading of
+calcium-sensitive dyes into the CNS. J. Neurophysiol. 93, 1793–1808.
+Bonnot, A., Chub, N., Pujala, A., O'Donovan, M.J., 2009. Excitatory actions of ventral root
+stimulation during network activity generated by the disinhibited neonatal mouse
+spinal cord. J. Neurophysiol. 101, 2995–3011.
+Brown, C.E., Boyd, J.D., Murphy, T.H., 2010. Longitudinal in vivo imaging reveals bal-
+anced and branch-specific remodeling of mature cortical pyramidal dendritic ar-
+bors after stroke. J. Cereb. Blood Flow Metab. 30, 783–791.
+Brustein, E., Marandi, N., Kovalchuk, Y., Drapeau, P., Konnerth, A., 2003. “In vivo” mon-CFP-YFP FRET-pair in YC3.60 is linked by a calmodulin domain and a
+M13 peptide, such that FRET efficiency changes as a function of calci-
+um binding and protein conformation. Since the intact spinal cord is
+particularly prone to instabilities, ratiometric indicators such as
+YC3.60 could likely be advantageous in minimizing confounding mo-
+tion artifacts in vivo.
+By combining recent improvements of chronic preparations (Dray
+et al., 2009; Farrar et al., 2012; Fenrich et al., 2012; Kerschensteiner et
+al., 2005) with the latest developments in the field of GECIs, even
+long-term, repeated functional imaging might become feasible in
+the intact spinal cord. In addition, inducible and targeted GECI ex-
+pression could allow population-specific expression of these indica-
+tors. Future cell-type specific functional imaging experiments thus
+promise further insights into the dynamic interplay within complex
+spinal circuits. To conclude, two-photon imaging has reached the spi-
+nal cord and exciting developments are taking place towards address-
+ing more detailed and sophisticated questions regarding fundamental
+aspects of spinal cord physiology and pathology.
+Acknowledgments
+We thank D. Ladle for help with isolated spinal cord preparations
+and retrograde tracings, H. U. Zeilhofer for providing GlyT2-eGFP
+mice, E. Hochreutener for assistance with illustrations and M.
+Thallmair for critical comments on the manuscript. This work was
+supported by the NCCR “Neural Plasticity and Repair” and the EU
+FP7 program (PLASTICISE, project number 223524).
+References
+Bardoni, R., Ghirri, A., Zonta, M., Betelli, C., Vitale, G., Ruggieri, V., Sandrini, M.,
+Carmignoto, G., 2010. Glutamate-mediated astrocyte-to-neuron signalling in the
+rat dorsal horn. J. Physiol. 588, 831–846.
+Belle, M.D., Pattison, E.F., Cheunsuang, O., Stewart, A., Kramer, I., Sigrist, M., Arber, S.,
+Morris, R., 2007. Characterization of a thy1.2 GFP transgenic mouse reveals a
+tissue-specific organization of the spinal dorsal horn. Genesis 45, 679–688.the mouse spinal cord using two-photon microscopy. J. Neurosci. Methods 169, 1–7.Diaz-Rios, M., Dombeck, D.A., Webb, W.W., Harris-Warrick, R.M., 2007. Serotonin mod-
+ulates dendritic calcium influx in commissural interneurons in the mouse spinal
+locomotor network. J. Neurophysiol. 98, 2157–2167.
+Dibaj, P., Kaiser, M., Hirrlinger, J., Kirchhoff, F., Neusch, C., 2007. Kir4.1 channels regu-
+late swelling of astroglial processes in experimental spinal cord edema. J.
+Neurochem. 103 (6), 2620–2628.
+Dibaj, P., Nadrigny, F., Steffens, H., Scheller, A., Hirrlinger, J., Schomburg, E.D., Neusch,
+C., Kirchhoff, F., 2010a. NO mediates microglial response to acute spinal cord injury
+under ATP control in vivo. Glia 58, 1133–1144.
+Dibaj, P., Steffens, H., Nadrigny, F., Neusch, C., Kirchhoff, F., Schomburg, E.D., 2010b.
+Long-lasting post-mortem activity of spinal microglia in situ in mice. J. Neurosci.
+Res. 88, 2431–2440.
+Dombeck, D.A., Khabbaz, A.N., Collman, F., Adelman, T.L., Tank, D.W., 2007. Imaging
+large-scale neural activity with cellular resolution in awake, mobile mice. Neuron
+56, 43–57.
+Dombeck, D.A., Harvey, C.D., Tian, L., Looger, L.L., Tank, D.W., 2010. Functional imaging
+of hippocampal place cells at cellular resolution during virtual navigation. Nat.
+Neurosci. 13, 1433–1440.
+Dray, C., Rougon, G., Debarbieux, F., 2009. Quantitative analysis by in vivo imaging of
+the dynamics of vascular and axonal networks in injured mouse spinal cord.
+Proc. Natl. Acad. Sci. U. S. A. 106, 9459–9464.
+Drdla, R., Gassner, M., Gingl, E., Sandkuhler, J., 2009. Induction of synaptic long-term
+potentiation after opioid withdrawal. Science 325, 207–210.
+Drew, P.J., Shih, A.Y., Driscoll, J.D., Knutsen, P.M., Blinder, P., Davalos, D., Akassoglou, K.,
+Tsai, P.S., Kleinfeld, D., 2010. Chronic optical access through a polished and
+reinforced thinned skull. Nat. Methods 7, 981–984.
+Duan, Y., Haugabook, S.J., Sahley, C.L., Muller, K.J., 2003. Methylene blue blocks cGMP
+production and disrupts directed migration of microglia to nerve lesions in the
+leech CNS. J. Neurobiol. 57, 183–192.
+Engelbrecht, C.J., Johnston, R.S., Seibel, E.J., Helmchen, F., 2008. Ultra-compact fiber-
+optic two-photon microscope for functional fluorescence imaging in vivo. Opt. Ex-
+press 16, 5556–5564.
+Farrar, M.J., Bernstein, I.M., Schlafer, D.H., Cleland, T.A., Fetcho, J.R., Schaffer, C.B., 2012.
+Chronic in vivo imaging in the mouse spinal cord using an implanted chamber. Nat.
+Methods 9, 297–302.
+Fenrich, K.K., Weber, P., Hocine, M., Zalc, M., Rougon, G., Debarbieux, F., 2012. Long-
+term in vivo imaging of normal and pathological mouse spinal cord with sub-
+cellular resolution using implanted glass windows. J. Physiol. http://dx.doi.org/
+10.1113/jphysiol.2012.230532 (Electronic publication ahead of print May 28,
+2012).
+Flusberg, B.A., Cocker, E.D., Piyawattanametha, W., Jung, J.C., Cheung, E.L., Schnitzer,
+M.J., 2005. Fiber-optic fluorescence imaging. Nat. Methods 2, 941–950.
+Fuhrmann, M., Bittner, T., Jung, C.K., Burgold, S., Page, R.M., Mitteregger, G., Haass, C.,
+LaFerla, F.M., Kretzschmar, H., Herms, J., 2010. Microglial Cx3cr1 knockout pre-
+vents neuron loss in a mouse model of Alzheimer's disease. Nat. Neurosci. 13,
+411–413.
+Furue, H., Narikawa, K., Kumamoto, E., Yoshimura, M., 1999. Responsiveness of rat
+substantia gelatinosa neurones to mechanical but not thermal stimuli revealed
+by in vivo patch-clamp recording. J. Physiol. 521 (Pt 2), 529–535.
+Garaschuk, O., Milos, R.I., Grienberger, C., Marandi, N., Adelsberger, H., Konnerth, A.,
+2006. Optical monitoring of brain function in vivo: from neurons to networks.
+Pflugers Arch. 453, 385–396.
+Garcia-Campmany, L., Stam, F.J., Goulding, M., 2010. From circuits to behaviour: motor
+networks in vertebrates. Curr. Opin. Neurobiol. 20, 116–125.
+Göbel, W., Helmchen, F., 2007. In vivo calcium imaging of neural network function.
+Physiology (Bethesda) 22, 358–365.
+Göbel, W., Kerr, J.N., Nimmerjahn, A., Helmchen, F., 2004. Miniaturized two-photon mi-
+croscope based on a flexible coherent fiber bundle and a gradient-index lens objec-
+tive. Opt. Lett. 29, 2521–2523.
+Gordon, I.T., Whelan, P.J., 2008. Brainstem modulation of locomotion in the neonatal
+mouse spinal cord. J. Physiol. 586, 2487–2497.
+Graham, B.A., Brichta, A.M., Callister, R.J., 2004a. An in vivo mouse spinal cord prepara-
+tion for patch-clamp analysis of nociceptive processing. J. Neurosci. Methods 136,
+221–228.
+Graham, B.A., Brichta, A.M., Callister, R.J., 2004b. In vivo responses of mouse superficial
+dorsal horn neurones to both current injection and peripheral cutaneous stimula-
+tion. J. Physiol. 561, 749–763.
+Greenberg, D.S., Houweling, A.R., Kerr, J.N., 2008. Population imaging of ongoing neuro-
+nal activity in the visual cortex of awake rats. Nat. Neurosci. 11, 749–751.
+Grewe, B.F., Helmchen, F., 2009. Optical probing of neuronal ensemble activity. Curr.
+Opin. Neurobiol. 19, 520–529.
+Grewe, B.F., Langer, D., Kasper, H., Kampa, B.M., Helmchen, F., 2010. High-speed in vivo
+calcium imaging reveals neuronal network activity with near-millisecond preci-
+sion. Nat. Methods 7, 399–405.
+Grudt, T.J., Perl, E.R., 2002. Correlations between neuronal morphology and electrophysio-
+logical features in the rodent superficial dorsal horn. J. Physiol. 540, 189–207.
+Hanisch, U.K., Kettenmann, H., 2007. Microglia: active sensor and versatile effector cells
+in the normal and pathologic brain. Nat. Neurosci. 10, 1387–1394.
+Hasan, M.T., Friedrich, R.W., Euler, T., Larkum, M.E., Giese, G., Both, M., Duebel, J.,
+Waters, J., Bujard, H., Griesbeck, O., Tsien, R.Y., Nagai, T., Miyawaki, A., Denk, W.,
+2004. Functional fluorescent Ca2+ indicator proteins in transgenic mice under
+TET control. PLoS Biol. 2, e163.
+Heinke, B., Ruscheweyh, R., Forsthuber, L., Wunderbaldinger, G., Sandkuhler, J., 2004.
+Physiological, neurochemical and morphological properties of a subgroup of
+GABAergic spinal lamina II neurones identified by expression of green fluorescent
+protein in mice. J. Physiol. 560, 249–266.
+Helmchen, F., Denk, W., 2005. Deep tissue two-photon microscopy. Nat. Methods 2,
+932–940.
+Higashijima, S., Masino, M.A., Mandel, G., Fetcho, J.R., 2003. Imaging neuronal activity
+during zebrafish behavior with a genetically encoded calcium indicator. J.
+Neurophysiol. 90, 3986–3997.
+Holtmaat, A., Svoboda, K., 2009. Experience-dependent structural synaptic plasticity in
+amplifier of inflammatory pain in the spinal dorsal horn. Science 312, 1659–1662.
+Nagayama, S., Zeng, S., Xiong, W., Fletcher, M.L., Masurkar, A.V., Davis, D.J., Pieribone,
+V.A., Chen, W.R., 2007. In vivo simultaneous tracing and Ca(2+) imaging of local
+neuronal circuits. Neuron 53, 789–803.
+Nave, K.A., 2010. Myelination and support of axonal integrity by glia. Nature 468,
+244–252.
+Nevian, T., Helmchen, F., 2007. Calcium indicator loading of neurons using single-cell
+electroporation. Pflugers Arch. 454, 675–688.
+26 H.C. Johannssen, F. Helmchen / Experimental Neurology 242 (2013) 18–26Jin, L.Q., Zhang, G., Jamison Jr., C., Takano, H., Haydon, P.G., Selzer, M.E., 2009. Axon re-
+generation in the absence of growth cones: acceleration by cyclic AMP. J. Comp.
+Neurol. 515, 295–312.
+Johannssen, H.C., Helmchen, F., 2010. In vivo Ca2+ imaging of dorsal horn neuronal
+populations in mouse spinal cord. J. Physiol. 588, 3397–3402.
+Jung, S., Aliberti, J., Graemmel, P., Sunshine, M.J., Kreutzberg, G.W., Sher, A., Littman,
+D.R., 2000. Analysis of fractalkine receptor CX(3)CR1 function by targeted deletion
+and green fluorescent protein reporter gene insertion. Mol. Cell. Biol. 20,
+4106–4114.
+Katona, G., Szalay, G., Maak, P., Kaszas, A., Veress, M., Hillier, D., Chiovini, B., Vizi, E.S.,
+Roska, B., Rozsa, B., 2012. Fast two-photon in vivo imaging with three-dimensional
+random-access scanning in large tissue volumes. Nat. Methods 9, 201–208.
+Kerr, J.N., Denk, W., 2008. Imaging in vivo: watching the brain in action. Nat. Rev.
+Neurosci. 9, 195–205.
+Kerr, J.N., Greenberg, D., Helmchen, F., 2005. Imaging input and output of neocortical
+networks in vivo. Proc. Natl. Acad. Sci. U. S. A. 102, 14063–14068.
+Kerschensteiner, M., Schwab, M.E., Lichtman, J.W., Misgeld, T., 2005. In vivo imaging of ax-
+onal degeneration and regeneration in the injured spinal cord. Nat. Med. 11, 572–577.
+Kim, J.V., Jiang, N., Tadokoro, C.E., Liu, L., Ransohoff, R.M., Lafaille, J.J., Dustin, M.L., 2010.
+Two-photon laser scanning microscopy imaging of intact spinal cord and cerebral
+cortex reveals requirement for CXCR6 and neuroinflammation in immune cell infil-
+tration of cortical injury sites. J. Immunol. Methods 352, 89–100.
+Kjaerulff, O., Barajon, I., Kiehn, O., 1994. Sulphorhodamine-labelled cells in the neonatal
+rat spinal cord following chemically induced locomotor activity in vitro. J. Physiol.
+478 (Pt 2), 265–273.
+Kobat, D., Durst, M.E., Nishimura, N., Wong, A.W., Schaffer, C.B., Xu, C., 2009. Deep tis-
+sue multiphoton microscopy using longer wavelength excitation. Opt. Express 17,
+13354–13364.
+Kudo, N., Yamada, T., 1987. N-methyl-D, L-aspartate-induced locomotor activity in a
+spinal cord–hindlimb muscles preparation of the newborn rat studied in vitro.
+Neurosci. Lett. 75, 43–48.
+Kwan, A.C., Dietz, S.B., Webb, W.W., Harris-Warrick, R.M., 2009. Activity of Hb9 inter-
+neurons during fictive locomotion in mouse spinal cord. J. Neurosci. 29,
+11601–11613.
+Kwan, A.C., Dietz, S.B., Zhong, G., Harris-Warrick, R.M., Webb, W.W., 2010. Spatiotem-
+poral dynamics of rhythmic spinal interneurons measured with two-photon calci-
+um imaging and coherence analysis. J. Neurophysiol. 104, 3323–3333.
+Laffray, S., Pages, S., Dufour, H., De Koninck, P., De Koninck, Y., Cote, D., 2011. Adaptive
+movement compensation for in vivo imaging of fast cellular dynamics within a
+moving tissue. PLoS One 6, e19928.
+Lavallee, A., Pflieger, J.F., 2009. Developmental expression of spontaneous activity in
+the spinal cord of postnatal opossums, Monodelphis domestica: an anatomical
+study. Brain Res. 1282, 1–9.
+Light, A.R., Willcockson, H.H., 1999. Spinal laminae I–II neurons in rat recorded in vivo
+in whole cell, tight seal configuration: properties and opioid responses. J.
+Neurophysiol. 82, 3316–3326.
+Lu, Y., Perl, E.R., 2003. A specific inhibitory pathway between substantia gelatinosa
+neurons receiving direct C-fiber input. J. Neurosci. 23, 8752–8758.
+Lu, Y., Perl, E.R., 2005. Modular organization of excitatory circuits between neurons of
+the spinal superficial dorsal horn (laminae I and II). J. Neurosci. 25, 3900–3907.
+Lütcke, H., Helmchen, F., 2011. Two-photon imaging and analysis of neural network
+dynamics. Rep. Prog. Phys. 74.
+Lütcke, H., Murayama, M., Hahn, T., Margolis, D.J., Astori, S., Meyer zum Alten Borgloh,
+S., Göbel, W., Yang, Y., Tang, W., Kügler, S., Sprengel, R., Nagai, T., Miyawaki, A.,
+Larkum, M.E., Helmchen, F., Hasan, M.T., 2010. Optical recording of neuronal activ-
+ity with a genetically-encoded calcium indicator in anesthetized and freely moving
+mice. Front. Neural Circuits 4, 9.
+Mank, M., Griesbeck, O., 2008. Genetically encoded calcium indicators. Chem. Rev. 108,
+1550–1564.
+Mank, M., Santos, A.F., Direnberger, S., Mrsic-Flogel, T.D., Hofer, S.B., Stein, V., Hendel,
+T., Reiff, D.F., Levelt, C., Borst, A., Bonhoeffer, T., Hubener, M., Griesbeck, O., 2008.
+A genetically encoded calcium indicator for chronic in vivo two-photon imaging.
+Nat. Methods 5, 805–811.
+Miyawaki, A., 2003. Fluorescence imaging of physiological activity in complex systems
+using GFP-based probes. Curr. Opin. Neurobiol. 13, 591–596.
+Monif, M., Burnstock, G., Williams, D.A., 2010. Microglia: proliferation and activation
+driven by the P2X7 receptor. Int. J. Biochem. Cell Biol. 42, 1753–1756.Nimmerjahn, A., Kirchhoff, F., Kerr, J.N., Helmchen, F., 2004. Sulforhodamine 101 as a
+specific marker of astroglia in the neocortex in vivo. Nat. Methods 1, 31–37.
+Nimmerjahn, A., Kirchhoff, F., Helmchen, F., 2005. Resting microglial cells are highly
+dynamic surveillants of brain parenchyma in vivo. Science 308, 1314–1318.
+O'Donovan, M.J., Bonnot, A., Wenner, P., Mentis, G.Z., 2005. Calcium imaging of net-
+work function in the developing spinal cord. Cell Calcium 37, 443–450.
+Ruscheweyh, R., Ikeda, H., Heinke, B., Sandkuhler, J., 2004. Distinctive membrane and
+discharge properties of rat spinal lamina I projection neurones in vitro. J. Physiol.
+555, 527–543.
+Schnell, L., Fearn, S., Klassen, H., Schwab, M.E., Perry, V.H., 1999. Acute inflammatory
+responses to mechanical lesions in the CNS: differences between brain and spinal
+cord. Eur. J. Neurosci. 11, 3648–3658.
+Schouenborg, J., 2008. Action-based sensory encoding in spinal sensorimotor circuits.
+Brain Res. Rev. 57, 111–117.
+Schultz, S.R., Kitamura, K., Post-Uiterweer, A., Krupic, J., Hausser, M., 2009. Spatial pat-
+tern coding of sensory information by climbing fiber-evoked calcium signals in
+networks of neighboring cerebellar Purkinje cells. J. Neurosci. 29, 8005–8015.
+Silver, J., Miller, J.H., 2004. Regeneration beyond the glial scar. Nat. Rev. Neurosci. 5,
+146–156.
+Stosiek, C., Garaschuk, O., Holthoff, K., Konnerth, A., 2003. In vivo two-photon calcium
+imaging of neuronal networks. Proc. Natl. Acad. Sci. U. S. A. 100, 7319–7324.
+Sullivan, M.R., Nimmerjahn, A., Sarkisov, D.V., Helmchen, F., Wang, S.S., 2005. In vivo cal-
+cium imaging of circuit activity in cerebellar cortex. J. Neurophysiol. 94, 1636–1644.
+Tian, L., Hires, S.A., Mao, T., Huber, D., Chiappe, M.E., Chalasani, S.H., Petreanu, L.,
+Akerboom, J., McKinney, S.A., Schreiter, E.R., Bargmann, C.I., Jayaraman, V.,
+Svoboda, K., Looger, L.L., 2009. Imaging neural activity in worms, flies and mice
+with improved GCaMP calcium indicators. Nat. Methods 6, 875–881.
+Todd, A.J., Puskar, Z., Spike, R.C., Hughes, C., Watt, C., Forrest, L., 2002. Projection neu-
+rons in lamina I of rat spinal cord with the neurokinin 1 receptor are selectively in-
+nervated by substance p-containing afferents and respond to noxious stimulation.
+J. Neurosci. 22, 4103–4113.
+Torsney, C., Anderson, R.L., Ryce-Paul, K.A., MacDermott, A.B., 2006. Characterization of
+sensory neuron subpopulations selectively expressing green fluorescent protein in
+phosphodiesterase 1C BAC transgenic mice. Mol. Pain 2, 17.
+Tsuda, M., Tozaki-Saitoh, H., Inoue, K., 2010. Pain and purinergic signaling. Brain Res.
+Rev. 63, 222–232.
+Vajkoczy, P., Laschinger, M., Engelhardt, B., 2001. Alpha4-integrin-VCAM-1 binding
+mediates G protein-independent capture of encephalitogenic T cell blasts to CNS
+white matter microvessels. J. Clin. Invest. 108, 557–565.
+Wang, H., Huff, T.B., Fu, Y., Jia, K.Y., Cheng, J.X., 2007. Increasing the imaging depth of
+coherent anti-Stokes Raman scattering microscopy with a miniature microscope
+objective. Opt. Lett. 32, 2212–2214.
+Warp, E., Agarwal, G., Wyart, C., Friedmann, D., Oldfield, C.S., Conner, A., Del Bene, F.,
+Arrenberg, A.B., Baier, H., Isacoff, E.Y., 2012. Emergence of patterned activity in
+the developing zebrafish spinal cord. Curr. Biol. 22, 93–102.
+Wilson, J.M., Cowan, A.I., Brownstone, R.M., 2007a. Heterogeneous electrotonic cou-
+pling and synchronization of rhythmic bursting activity in mouse Hb9 interneu-
+rons. J. Neurophysiol. 98, 2370–2381.
+Wilson, J.M., Dombeck, D.A., Diaz-Rios, M., Harris-Warrick, R.M., Brownstone, R.M.,
+2007b. Two-photon calcium imaging of network activity in XFP-expressing neu-
+rons in the mouse. J. Neurophysiol. 97, 3118–3125.
+Wilson, J.M., Blagovechtchenski, E., Brownstone, R.M., 2010. Genetically defined inhib-
+itory neurons in the mouse spinal cord dorsal horn: a possible source of rhythmic
+inhibition of motoneurons during fictive locomotion. J. Neurosci. 30, 1137–1148.
+Ylera, B., Erturk, A., Hellal, F., Nadrigny, F., Hurtado, A., Tahirovic, S., Oudega, M.,
+Kirchhoff, F., Bradke, F., 2009. Chronically CNS-injured adult sensory neurons
+gain regenerative competence upon a lesion of their peripheral axon. Curr. Biol.
+19, 930–936.
+Yoshimura, M., Jessell, T.M., 1989. Primary afferent-evoked synaptic responses and
+slow potential generation in rat substantia gelatinosa neurons in vitro. J.
+Neurophysiol. 62, 96–108.
+Zeilhofer, H.U., Studler, B., Arabadzisz, D., Schweizer, C., Ahmadi, S., Layh, B., Bösl, M.R.,
+Fritschy, J.M., 2005. Glycinergic neurons expressing enhanced green fluorescent
+protein in bacterial artificial chromosome transgenic mice. J. Comp. Neurol. 482
+(2), 123–141.
+Zhong, G., Droho, S., Crone, S.A., Dietz, S., Kwan, A.C., Webb, W.W., Sharma, K., Harris-
+Warrick, R.M., 2010. Electrophysiological characterization of V2a interneurons and
+their locomotor-related activity in the neonatal mouse spinal cord. J. Neurosci. 30,
+170–182.the mammalian brain. Nat. Rev. Neurosci. 10, 647–658.
+Ikeda, H., Stark, J., Fischer, H., Wagner, M., Drdla, R., Jager, T., Sandkuhler, J., 2006. Synaptic

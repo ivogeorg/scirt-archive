@@ -1,0 +1,709 @@
+Neurosci Bull    August 1, 2013, 29(4): 411–420. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1357-4 411
+·Review·
+Signaling pathways that regulate axon regeneration
+Saijilafu1, Bo-Yin Zhang1, Feng-Quan Zhou1,2
+1Department of Orthopaedic Surgery, 2The Solomon H. Snyder Department of Neuroscience, The Johns Hopkins University, 
+Baltimore, Maryland, USA
+Corresponding author: Feng-Quan Zhou. E-mail: fzhou4@jhmi.edu
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+Neurons in the mammalian central nervous system (CNS) cannot regenerate axons after injury. in contrast, 
+neurons in the mammalian peripheral nervous system and in some non-mammalian models, such as C. elegans 
+and Drosophila, are able to regrow axons. Understanding the molecular mechanisms by which these neurons 
+support axon regeneration will help us find ways to enhance mammalian CNS axon regeneration. Here, recent 
+studies in which signaling pathways regulating naturally-occurring axon regeneration that have been identified 
+are reviewed, focusing on how these pathways control gene expression and growth-cone function during axon 
+regeneration.
+Keywords: axon regeneration; axonal growth; signal transduction
+Introduction
+Damage to the central nervous system (CNS), such as 
+spinal cord injury and traumatic brain injury, often results 
+in damage to axons. Unfortunately, mature neurons in 
+the mammalian CNS cannot regenerate axons after 
+injury, leading to irreversible motor, sensory, or cognitive 
+dysfunctions. Therefore, promoting axon regeneration 
+is a major approach to treating these symptoms. one 
+important reason for CNS regeneration failure is the 
+irreversible loss of the intrinsic axon growth capacity of 
+CNS neurons after maturation. To address this issue, 
+recent attempts to augment the growth potential by 
+regulating transcriptional or translational machinery have 
+provided promising results[1-5]. However, the degree of axon 
+regeneration promoted by these molecular interventions 
+is still rudimentary compared with the regeneration that 
+occurs after injury to the mammalian peripheral nervous 
+system (PNS) or in non-mammals. This fact indicates 
+that understanding the molecular mechanisms by which 
+naturally-occurring axon regeneration is regulated should 
+be a major focus of investigation. The first step would be to 
+elucidate the underlying signaling pathways that regulate 
+naturally-occurring axon regeneration. 
+Many mature CNS neurons in non-mammals, such 
+as C. elegans, Drosophila, and zebrafish, are able to 
+regenerate after injuries. The powerful genetic approaches 
+available in these species have made them attractive model 
+systems for dissecting the signaling pathways controlling 
+axon regeneration. indeed, recent studies using these 
+systems, in particular C. elegans, have revealed several 
+regeneration signaling pathways in vivo[6-8]. The mammalian 
+PNS also mounts a robust regenerative response after 
+nerve injury. However, in mice it is difficult to perform similar 
+genetic analysis, which often involves genetic targeting of 
+multiple signaling molecules at the same time, specifically 
+in adult neurons. As a result, we know much less about 
+the signaling pathways that regulate naturally-occurring 
+mammalian axon regeneration in vivo. 
+Axon extension, during either development or 
+regeneration, comprises several highly-coordinated 
+processes, including gene transcription/expression in 
+the soma, transport of synthesized molecules along the 
+axon, and axon assembly at the growth cone (Fig. 1). 
+Each process is regulated by spatially-controlled signaling 
+pathways that target distinct effectors. For instance, 
+pathways regulating axon assembly at the growth cone 
+Neurosci Bull     August 1, 2013, 29(4): 411–420412
+mainly target cytoskeletal proteins, especially microtubules, 
+to control axon extension, whereas pathways regulating 
+gene expression in the soma mainly target transcription 
+factors. Recently, several signaling pathways that regulate 
+naturally-occurring axon regeneration have been identified 
+in non-mammalian and mammalian PNS models. Here, 
+we review these pathways, focusing on where they act 
+(soma or growth cone) to regulate axon regeneration. 
+Pathways that are ectopically manipulated to enhance axon 
+regeneration are not discussed.
+Signaling Pathways That Regulate Axon Regene-
+ration in Non-mammalian Models
+Non-mammalian organisms, including C. elegans , 
+Drosophila, and zebrafish, are invaluable model systems 
+for studying neuronal morphogenesis during development. 
+The powerful genetic tools available in C. elegans 
+and Drosophila have made them particularly useful for 
+delineating upstream/downstream signaling pathways via 
+epistatic analysis. Recent efforts have been made to induce 
+axotomy and assess axon regeneration in adult neurons of 
+C. elegans and Drosophila[6], thus making them attractive 
+new model systems for dissecting axon regeneration 
+pathways. To induce axotomy in C. elegans, Hammarlund 
+et al. used a loss-of-function mutant of the unc-70 gene 
+(homolog of β-spectrin). In such mutants, the adult axons 
+become fragile and break when the animals move, which 
+initiates a regenerative response[9]. Another approach 
+for injury in live C. elegans is to use a femtosecond 
+laser to perform acute axotomy of fluorescence-labeled 
+neurons[10,11]. Similar laser axotomy has also been 
+established in Drosophila[12] and zebrafish[13]. Using such 
+in vivo axotomy approaches combined with large-scale 
+genetic screening, recent studies have identified several 
+signaling pathways that control axon regeneration in vivo 
+either at the growth cone or at the soma (Fig. 2).
+Signaling at the Growth Cone
+Growth cones are highly specialized structures at the distal 
+tips of axons that control the rate and direction of axon 
+growth during development. Assembly of the cytoskeletal 
+elements and membrane components at the growth 
+cone drives its advancement and the subsequent axon 
+extension. Formation of a growth cone after axotomy, 
+which is achieved via reorganization of the cytoskeleton 
+at the proximal axonal stump, is the f irst step for 
+successful regeneration. Both growth-cone formation and 
+advancement are tightly regulated by extracellular factors 
+and intracellular signaling molecules[14,15].
+Currently, there is no experimental approach in C. 
+elegans to spatially distinguish signaling events during 
+axon growth. However, based on downstream effectors 
+and the time-courses in observed phenotypes, it seems 
+that the regeneration pathways identified in C. elegans 
+to date act mostly in the axon to control growth-cone 
+formation after axotomy (Fig. 2). A large-scale RNAi-based 
+genetic screen has identified dual leucine zipper-bearing 
+kinase 1 (DLK-1) as a key regulator of axon regeneration[9]. 
+Genetic interaction experiments have identified MKK-4 
+(MAP kinase kinase 4, MAP2K4) and PMK-3 (p38 MAP 
+Fig. 1. Axon growth is achieved by coordinated regulation of gene expression in the soma, axonal transport along the shaft, and axon 
+assembly at the growth cone.
+Saijilafu, et al.    Signaling pathways that regulate axon regeneration 413
+kinase) as downstream mediators of DLK-1 to control axon 
+regeneration. How does the DLK-1/MKK-4/PMK-3 MAP 
+kinase pathway regulate axon regeneration? Because 
+the major phenotype of the DLK-1 mutant is a defect in 
+growth-cone formation after axotomy[9] and the temporal 
+requirement of DLK-1 function for regeneration is very 
+soon after the axotomy, it has been suggested that DLK-1 
+mainly functions locally at the growth cone to control axon 
+regeneration. in support, a different study has shown that 
+MAK-2 (MAP kinase activated kinase, MAPKAP) acts 
+downstream of DLK-1 to control axon regeneration via 
+controlling the local translation of CEBP-1 in the axon[16]. 
+To further support the role of DLK-1 in the growth cone, a 
+later study showed that KLP-7 (kinesin-13) and CCPP-6 
+(cytosolic carboxipeptidase), two proteins directly involved 
+in the regulation of microtubule dynamics, act downstream 
+of DLK-1 to control axon regeneration[17]. Specifically, DLK-1 
+inhibits KLP-7, which has microtubule depolymerase activity 
+and functions to restrict microtubule assembly. Conversely, 
+DLK-1 activates CCPP-6, which deglutamylates tubulin 
+Fig. 2. Signaling pathways regulating axon regeneration in non-mammalian models. In the soma, axotomy activates the transcription 
+factors KLF6/7 to control the expression of genes supporting axon regeneration, whereas Notch signaling acts as a negative 
+regulator. At the growth cone, axotomy triggers Ca2+ influx, which subsequently activates the apoptotic Ced3/4 pathway and/or the 
+second messenger AC/cAMP/PKA pathway, both of which converge onto the DLK-1 pathway. Downstream, DLK-1 regulates local 
+protein translation through the MKK4/PMK-3/MAK2 pathway and/or promotes axonal microtubule assembly by controlling multiple 
+microtubule binding proteins, including CCPP, KLP-7, and EFA-6. Specifically, DLK-1 activates CCPP, which deglutamylates tubulin 
+and functions to promote microtubule stabilization. Conversely, both KLP-7, which depolymerizes microtubules, and EFA-6, which 
+destabilizes them, are inhibited by DLK-1. Another MAP kinase pathway, MLK-1/MEK-1/KGB-1, acts in parallel with the DLK-1 
+pathway to control growth-cone formation after axotomy. SVH-1, a homolog of the mammalian hepatocyte growth factor and its 
+receptor SVH-2 function upstream of the MLK-1 pathway to promote axon regeneration, whereas SVH-3, a homolog of mammalian 
+fatty-acid amide hydrolase, inhibits axon regeneration by antagonizing the MLK-1 pathway. Lastly, the expression of the tubulin 
+isoform Tuba1a regulated by KLF6/7 may contribute to the control of growth-cone remodeling during axon regeneration. 
+Neurosci Bull     August 1, 2013, 29(4): 411–420414
+and promotes microtubule stabilization. Moreover, another 
+genetic screen study has identified EFA-6, an Arf guanine 
+nucleotide exchange factor, as a negative regulator of 
+axon regeneration via destabilizing axonal microtubules[18]. 
+Because the loss-of-function mutant of EFA-6 partially 
+bypasses the requirement of DLK-1 for axon regeneration, 
+it is likely that EFA-6 is also a downstream mediator of 
+DLK-1. What are the upstream regulators of the DLK-1 
+pathway? First, an axotomy-induced Ca2+ increase through 
+voltage-gated Ca2+ channels or internal Ca2+ stores is 
+necessary for axon regeneration in C. elegans[19]. The 
+promoting effect of Ca2+ signaling on axon regeneration 
+is mediated by activation of adenyl cyclase (AC) and the 
+subsequent elevation of cAMP, which in turn activates 
+PKA[19]. importantly, the Ca2+/AC/cAMP/PKA pathway acts 
+upstream of DLK-1 to promote axon regeneration. Second, 
+a very recent study[20] has shown that the core apoptotic 
+executioner protein CED-3 (caspase) and its activator 
+CED-4 (Apaf-1) play surprising roles in controlling axon 
+regeneration by acting upstream of DLK-1. interestingly, 
+in the same study, the CED-4/CED-3 pathway was also 
+placed downstream of axotomy-induced local Ca2+ influx.
+In the same RNAi screen using a β-spectrin mutant that 
+identified DLK-1[9], another MAPKKK, MLK-1, was shown 
+to control axon regeneration in parallel with the DLK-1 
+pathway[21] (Fig. 2). Downstream mediators of MLK-1 are 
+MEK-1 and KGB-1 (JNK). JNK signaling is also upregulated 
+in Drosophila upon axonal injury in a brain needle-injury 
+model[22] and a crushed larval ventral nerve cord model[23]. 
+in a Drosophila whole-brain culture model, expression of 
+dominant-negative JNK blocks axon regeneration, whereas 
+expression of the constitutively active form of Drosophila 
+JNK kinase induces robust regrowth of the severed axons, 
+one-third of which even extend to re-enter the target area[24]. 
+Because JNK is well known to regulate axonal microtubules 
+in mammalian neurons during axon growth[25-28], it is likely 
+that the MLK-1/MEK-1/KGB-1 pathway in C. elegans also 
+targets microtubules for controlling axon regeneration. 
+Additional studies in C. elegans have shown that SVH-1, 
+a homolog of mammalian hepatocyte growth factor and its 
+receptor SVH-2 function upstream of the MLK-1 pathway to 
+promote axon regeneration[29], whereas SVH-3, a homolog 
+of mammalian fatty acid amide hydrolase, inhibits axon 
+regeneration through antagonizing the MLK-1 pathway[30].
+in summary, two MAP kinase pathways function in C. 
+elegans to regulate naturally-occurring axon regeneration, 
+and both pathways mainly act locally at the axon to control 
+microtubule reorganization and growth-cone remodeling 
+upon axotomy (Fig. 2).
+Signaling at the Neuronal Soma
+The large-scale genetic screen in C. elegans[18] has also 
+identified several transcription factors that may regulate 
+axon regeneration by modulating gene expression in the 
+soma. However, no detailed study of these molecules 
+has been reported yet. one unexpected player that may 
+function to control gene expression during C. elegans axon 
+regeneration is the protein Notch[31]. Specifically, Notch acts 
+as a negative regulator of axon regeneration independent 
+of extracellular Notch ligands. Downstream of Notch, ADAM 
+metalloprotease and γ-secretase in the canonical pathway 
+cleave the Notch to generate the Notch intracellular domain 
+(NCiD), which translocates into the nucleus to control 
+gene expression. importantly, direct ectopic expression 
+of GFP-NCiD is sufficient to allow entry into the nucleus 
+and inhibit axon regeneration, confirming the role of Notch 
+signaling in the regulation of gene expression. Axons in the 
+zebrafish optic nerve are able to regenerate after injury. 
+By comparing gene expression in injured and uninjured 
+neurons, Krüeppel-like factors (KLFs) 6/7 have been shown 
+to regulate the axon regeneration of zebrafish retinal 
+ganglion cells[32]. A subsequent study showed that KLF6/7 
+regulate axon regeneration by controlling the transcription 
+of the tubulin isoform Tuba1a[33]. How Notch signaling and 
+KLF6/7 are regulated by upstream signaling pathways is 
+not known.
+in sum, very few signaling pathways have been shown 
+to control gene expression during axon regeneration. 
+Future studies using these non-mammalian models should 
+focus on somatic signaling to expand our knowledge of 
+how gene expression is regulated during successful axon 
+regeneration.
+Signaling Pathways That Regulate Mammalian 
+Axon Regeneration
+Adult Dorsal Root Ganglion (DRG) as a Model 
+System for Mammalian Axon Regeneration
+Among adult PNS neurons, DRG neurons provide 
+Saijilafu, et al.    Signaling pathways that regulate axon regeneration 415
+a favorable model  for  studying mammal ian axon 
+regeneration. Each DRG neuron extends a unipolar axon 
+that splits into two branches: one innervates peripheral 
+targets (peripheral branch) and the other enters the spinal 
+cord (central branch). The peripheral branch regenerates 
+robustly after peripheral nerve injury, whereas the central 
+branch in the spinal cord fails to regenerate after spinal cord 
+injury. However, if axotomy of the peripheral branch occurs 
+prior to central branch axotomy (a pre-conditioning lesion), 
+regeneration of the central axons is greatly enhanced[34]. 
+Recent studies found that this effect could be achieved if 
+the peripheral axotomy was performed at the same time[35] 
+or even after the central axotomy[36]. These results indicate 
+that peripheral axotomy increases the intrinsic ability of 
+DRG neurons to support axon regeneration by activation 
+of a transcription-dependent regeneration program and 
+the subsequent expression of a group of regeneration-
+associated genes in the soma[37]. Because the central 
+branches of the DRG neurons share the same environment 
+as corticospinal axons, it is believed that activation of a 
+similar regeneration program in adult CNS neurons would 
+enhance CNS axon regeneration. Unfortunately, the 
+signaling pathways underlying this peripheral axotomy-
+induced transcriptional program remain elusive. As noted, 
+it is very difficult to dissect signaling pathways in vivo in 
+the adult mouse model because the genetic modulation 
+of multiple genes specifically in adult tissues is required. 
+Therefore, to date no signaling pathways (consisting of 
+multiple upstream/downstream signaling molecules) that 
+regulate naturally-occurring mammalian axon regeneration 
+have been delineated in vivo. A novel in vivo electroporation 
+technique has recently been developed that allows specific 
+manipulation of multiple gene expression in adult DRG 
+neurons simultaneously[38], providing a potentially useful 
+tool for the in vivo dissection of pathways regulating 
+mammalian axon regeneration. 
+in contrast to the in vivo model, adult DRG neurons 
+can readily be cultured and therefore have been widely 
+used to study axon growth from mature neurons in 
+vitro[39]. Depending on the experimental procedure or the 
+culture conditions, in vitro axon growth from adult DRG 
+neurons can be stimulated and regulated by distinct 
+mechanisms and signaling pathways[40, 41]. Therefore, to 
+study regeneration pathways, it is important to use an in 
+vitro model that mimics in vivo peripheral axotomy-induced 
+axon regeneration. if an in vivo peripheral nerve injury 
+is performed prior to culture, the cultured DRG neurons 
+are able to extend long axons overnight. Such peripheral 
+axotomy-induced regenerative axon growth often starts 
+within a few hours after cell plating and the axons extend 
+with few branches (elongation mode)[41]. in contrast, naïve 
+(uninjured) DRG neurons cultured at low density grow few 
+axons in the first 24 h in the absence of growth factors. 
+Addition of growth factors (e.g. NGF or GDNF) induces 
+robust axon growth. However, such NGF-induced growth 
+is regulated by a different pathway from that of peripheral 
+axotomy-induced axon growth (see below) and the 
+processes show a highly-branched morphology (sprouting 
+mode)[39, 41].  Together, this evidence suggests that 
+peripheral axotomy-induced regenerative axon growth and 
+a culture condition without axon-promoting growth factors 
+should be the model of choice for studying regeneration 
+signaling pathways in vitro. Signaling pathways regulating 
+mammalian axon regeneration in the PNS are summarized 
+in Fig. 3.
+Signaling at the Growth Cone
+one way to spatially dissect signaling pathways in neurons 
+is the two-compartmental culture system that separates 
+somata from axons both physically and chemically, such 
+as the traditional Campenot chamber[42, 43] and the recently-
+developed microfluidic-based chambers[44, 45]. Using such 
+approaches, previous studies have shown that Pi3K and 
+ERK, two major signaling molecules mediating NGF-
+induced axon growth[46], are both required locally at the 
+axon to control axon growth from developing sensory 
+neurons[47]. To our knowledge, no similar study has been 
+reported for regenerative axon growth from adult neurons. 
+However, an interesting observation of peripheral axotomy-
+induced regenerative axon growth from adult DRG 
+neurons is that active gene transcription is not required 
+for axon growth in the first 24 h[41, 48]. Such a property 
+therefore provides a unique opportunity for investigating 
+transcription-independent signaling mechanisms that 
+specifically regulate local axon assembly. In contrast to that 
+of developing DRG neurons, regenerative axon growth from 
+adult DRG neurons does not require Pi3K and ERK activity 
+for local axon assembly[40, 41], indicating growth factor-
+independent pathways for PNS axon regeneration. indeed, 
+Neurosci Bull     August 1, 2013, 29(4): 411–420416
+application of a function-blocking antibody to NGF is unable 
+to inhibit peripheral nerve regeneration[49], providing solid 
+evidence that in vivo peripheral axon regeneration does 
+not require NGF. Consistent with this, adult DRG neurons 
+undergoing peripheral axotomy are able to extend long 
+axons in culture in the absence of growth factors[41]. 
+instead, activation of integrin signaling by laminin 
+is sufficient to induce robust axon growth from these 
+pre-axotomized DRG neurons, suggesting that integrin 
+signaling plays a key role in peripheral nerve regeneration. 
+indeed, laminin isoforms are highly enriched in peripheral 
+nerve pathways[50], and loss of integrin subtype alpha 7 
+impedes facial nerve regeneration in vivo after a lesion[51]. 
+Downstream of integrin signaling, regenerative axon growth 
+is mediated by the inactivation of glycogen synthase 3 
+(GSK3)[41], which in turn controls growth-cone microtubule 
+assembly via the microtubule-binding protein adenomatous 
+polyposis coli (APC) and CLiP-associating proteins 
+(CLASPs)[52]. Both APC and CLASPs are microtubule plus-
+end tracking proteins that stabilize dynamic microtubules 
+without interfering with microtubule polymerization[53]. 
+Down-regulation of CLASPs in adult DRG neurons reduces 
+tubulin acetylation/microtubule stability and inhibits sensory 
+axon regeneration in vivo[52], providing strong evidence that 
+regulation of axonal microtubule dynamics is important for 
+successful axon regeneration.
+in addition to microtubule-binding proteins, microtubule 
+dynamics are also regulated by post-translational modification, 
+in particular acetylation, which is associated with increased 
+microtubule stabilization[54]. A recent study showed that 
+Fig. 3. Signaling pathways regulating naturally-occurring mammalian axon regeneration in the peripheral nervous system. In the soma, 
+peripheral axotomy upregulates and activates many regeneration-associated transcription factors, such as p53, Stat3, Sox11, 
+ATF3, Smad1, and c-Jun, which control gene expression that supports axon regeneration. The PI3K–GSK3 and DLK–JNK pathways 
+are potential upstream regulators of these transcription factors. At the growth cone, the integrin–GSK3–CLASP/APC pathway 
+stabilizes axonal microtubules, whereas the Ca2+–PKC–HDAC5 pathway maintains microtubule dynamics. The coordination of the 
+two pathways controls the balance of microtubule dynamics and stabilization to achieve optimal microtubule assembly and axon 
+growth. The DLK–Stat3/JNK pathways may also be involved in the regulation of microtubule assembly during axon regeneration.
+Saijilafu, et al.    Signaling pathways that regulate axon regeneration 417
+peripheral axotomy induces tubulin deacetylation and 
+therefore increases microtubule dynamics in axons at the 
+proximal injury site[55]. inhibition of tubulin deacetylation with 
+a pharmacological inhibitor of histone deacetylase (HDAC) 
+blocks sensory axon regeneration in vivo, suggesting that 
+maintaining microtubule dynamics is necessary for axon 
+regeneration. importantly, using the Campenot chamber 
+culture system, it was shown that inhibition of HDAC 
+locally at the axon is sufficient to block axon growth, 
+confirming that HDAC acts locally on axonal microtubules 
+to control axon growth rather than at the soma to control 
+gene transcription. HDAC5 has been identified as the 
+deacetylase that mediates peripheral axotomy-induced 
+tubulin deacetylation. Further studies showed that axotomy-
+induced Ca2+ influx and the subsequent activation of PKC 
+act upstream of HDAC5 to regulate tubulin acetylation and 
+axon growth. 
+Together, these studies highlight the important role 
+of axonal microtubule dynamics in the regulation of 
+mammalian axon regeneration. Notably, either down-
+regulation of CLASPs which reduces tubulin acetylation[52], 
+or inhibition of HDAC which increases tubulin acetylation[55], 
+blocks sensory axon regeneration, suggesting that a 
+balance of microtubule stabilization and dynamics is 
+required for optimal axon regeneration. 
+Signaling at the Neuronal Soma
+Gene expression at the soma, which provides the raw 
+materials for axon assembly, is necessary for sustained 
+axon growth. The regeneration-associated genes identified 
+by genetic profiling include many transcription factors, 
+such as c-Jun, Stat3, ATF3, Smad1, p53, and SoX11 
+(Fig. 3). it is well recognized that these factors control the 
+transcription of genes that support peripheral axotomy-
+induced axon regeneration[56, 57]. How upstream signaling 
+pathways regulate the expression and/or activation of these 
+factors is less clear. 
+Genetic delet ion of Pten and the subsequent 
+activation of the Pi3K–Akt pathway have recently been 
+shown to drastically promote the intrinsic axon growth 
+of mature mammalian CNS neurons by controlling the 
+mTor pathway[1,2,4]. Does the Pi3K pathway play any role 
+in the regulation of intrinsic axon growth during naturally-
+occurring PNS axon regeneration? in a mutant mouse 
+line, where p110δ, the endogenous catalytic subunit of 
+Pi3K, is replaced with an inactive mutation, sensory axon 
+regeneration is greatly impaired[58]. Because the Pi3K 
+pathway is not required for local axon assembly during 
+sensory axon regeneration[40,41], this result suggests that 
+Pi3K regulates mammalian sensory axon regeneration by 
+controlling gene expression in the soma. indeed, in such 
+p110δ mutant mice, the expression level of Sprr1A, a 
+well-known regeneration-associated gene, is significantly 
+diminished. How Pi3K signaling regulates the expression 
+of Sprr1A is not known, but it is most likely through 
+controlling transcription factors. For instance, many of the 
+regeneration-associated transcription factors are regulated 
+by GSK3, which is a major downstream signaling mediator 
+of Pi3K[57]. Future study using a compartmentalized 
+culture system is required to provide a more definitive 
+answer regarding the role of Pi3K in the regulation of gene 
+expression during mammalian axon regeneration.
+As discussed earlier, in C. elegans, DLK-1 regulates 
+axon regeneration mainly by acting at the growth cone (Fig. 
+2). in contrast, recent studies of DLK knockout mice have 
+shown that mammalian DLK controls axon regeneration 
+via the activation of c-Jun and Stat3[59, 60], suggesting a role 
+of DLK in controlling gene expression in the soma (Fig. 3). 
+Further experiments showed that DLK does not directly 
+activate Stat3 but regulates the retrograde transport of 
+activated Stat3 from the injury site[59]. Although not tested 
+directly, it is likely that DLK regulates c-Jun activation 
+through JNK. To date, however, there is no direct evidence 
+showing that DLK regulates peripheral axotomy-induced 
+gene expression, and future genetic-profiling studies of 
+DLK knockout mice may provide an answer. it should 
+be noted that besides regulating transcription factors, 
+DLK–JNK has also been shown to regulate developmental 
+axon growth by controlling microtubule stability at the 
+growth cone[61]. Whether DLK–JNK signaling also regulates 
+axonal microtubules during mammalian axon regeneration 
+awaits further study. Moreover, a new study[62] found 
+that Stat3 controls microtubule stability locally in the 
+axon independent of its transcriptional activity, raising 
+the possibility that DLK–Stat3 activated at the injury site 
+after peripheral axotomy may also play a local role in the 
+regulation of axon regeneration. Together, the evidence to 
+date suggests that DLK signaling regulates mammalian 
+axon regeneration by controlling gene expression in the 
+Neurosci Bull     August 1, 2013, 29(4): 411–420418
+neuronal soma and/or microtubule dynamics in the growth 
+cone.
+Summary and Future Directions
+Successful axonal regeneration in the injured nervous 
+system is a complex process that involves coordinated 
+regulation of gene expression in the soma and cytoskeleton 
+assembly at the growth cone. The emergence of non-
+mammalian injury and regeneration models has provided 
+new opportunities to identify signaling pathways that 
+regulate naturally-occurring axon regeneration. Because 
+the genetic approaches used in the non-mammalian 
+models are not available for mammalian models, it is not 
+practical to perform similar large-scale genetic screening in 
+mice to identify mammalian axon regeneration pathways. 
+Therefore, verifying if signaling pathways identified in 
+the non-mammalian models also function in mammalian 
+models will be the focus of future studies. The recently-
+developed technique of in vivo electroporation of adult 
+sensory neurons[38] would make such studies more feasible 
+and efficient.
+Most of the axon regeneration pathways identified 
+to date are located at the growth cone (see Figs. 2 and 
+3), and much less is known about signaling pathways 
+functioning at the soma to control gene expression. 
+Because the manipulation of gene expression (transcription 
+or translation) has proven effective in promoting CNS axon 
+regeneration[1-5], elucidating the signaling pathways that 
+regulate gene expression during naturally-occurring axon 
+regeneration in the mammalian PNS should become a 
+major focus of axon regeneration research.
+ACKNOWLEDGEMENTS
+This review was supported by grants from the NiH (R01NS064288) 
+and The Craig H. Neilsen Foundation.
+Received date: 2012-11-09; Accepted date: 2013-02-25
+REFERENCES
+[1] Park KK, Liu K, Hu Y, Smith PD, Wang C, Cai B, et al. 
+Promoting axon regeneration in the adult CNS by modulation 
+of the PTEN/mToR pathway. Science 2008, 322: 963–966.
+[2] Liu K, Lu Y, Lee JK, Samara R, Willenberg R, Sears-
+Kraxberger i, et al. PTEN deletion enhances the regenerative 
+ability of adult corticospinal neurons. Nat Neurosci 2010, 13: 
+1075–1081.
+[3] Moore DL, Blackmore MG, Hu Y, Kaestner KH, Bixby JL, 
+Lemmon VP, et al. KLF family members regulate intrinsic 
+axon regeneration ability. Science 2009, 326: 298–301.
+[4] Sun F, Park KK, Belin S, Wang D, Lu T, Chen G, et al. 
+Sustained axon regeneration induced by co-deletion of PTEN 
+and SoCS3. Nature 2011, 480: 372–375.
+[5] Smith PD, Sun F, Park KK, Cai B, Wang C, Kuwako K, et al. 
+SoCS3 deletion promotes optic nerve regeneration in vivo. 
+Neuron 2009, 64: 617–623.
+[6] Wang Z, Jin Y. Genetic dissection of axon regeneration. Curr 
+opin Neurobiol 2011, 21: 189–196.
+[7] Chen L, Chisholm AD. Axon regeneration mechanisms: 
+insights from C. elegans. Trends Cell Biol 2011, 21: 577–584.
+[8] El Bejjani R, Hammarlund M. Neural regeneration in 
+Caenorhabditis elegans. Annu Rev Genet 2012, 46: 499–513. 
+[9] Hammarlund M, Nix P, Hauth L, Jorgensen EM, Bastiani 
+M. Axon regeneration requires a conserved MAP kinase 
+pathway. Science 2009, 323: 802–806.
+[10] Yanik MF, Cinar H, Cinar HN, Chisholm AD, Jin Y, Ben-Yakar 
+A. Neurosurgery: functional regeneration after laser axotomy. 
+Nature 2004, 432: 822.
+[11] Byrne AB, Edwards TJ, Hammarlund M. In vivo laser 
+axotomy in C. elegans. J Vis Exp 2011, (51). e2707. Doi: 
+10.3791/2707.
+[12] Stone MC, Nguyen MM, Tao J, Allender DL, Rolls MM. Global 
+up-regulation of microtubule dynamics and polarity reversal 
+during regeneration of an axon from a dendrite. Mol Biol Cell 
+2010, 21: 767–777.
+[13] o’Brien GS, Rieger S, Martin SM, Cavanaugh AM, Portera-
+Cailliau C, Sagasti A. Two-photon axotomy and time-lapse 
+confocal imaging in live zebrafish embryos. J Vis Exp 2009. 
+(24). 1129. Doi: 10.3791/1129.
+[14] Bradke F, Fawcett JW, Spira ME. Assembly of a new growth 
+cone after axotomy: the precursor to axon regeneration. Nat 
+Rev Neurosci 2012, 13: 183–193.
+[15] Hur EM, Saijilafu, Zhou FQ. Growing the growth cone: 
+remodeling the cytoskeleton to promote axon regeneration. 
+Trends Neurosci 2012, 35: 164–174.
+[16] Yan D, Wu Z, Chisholm AD, Jin Y. The DLK-1 kinase 
+promotes mRNA stability and local translation in C. elegans 
+synapses and axon regeneration. Cell 2009, 138: 1005–
+1018.
+[17] Ghosh-Roy A, Goncharov A, Jin Y, Chisholm AD. Kinesin-13 
+and tubulin posttranslational modif ications regulate 
+microtubule growth in axon regeneration. Dev Cell 2012, 23: 
+716–728.
+[18] Chen L, Wang Z, Ghosh-Roy A, Hubert T, Yan D, o’Rourke S, 
+et al. Axon regeneration pathways identified by systematic 
+Saijilafu, et al.    Signaling pathways that regulate axon regeneration 419
+genetic screening in C. elegans. Neuron 2011, 71: 1043–
+1057.
+[19] Ghosh-Roy A, Wu Z, Goncharov A, Jin Y, Chisholm AD. 
+Calcium and cyclic AMP promote axonal regeneration 
+in Caenorhabditis elegans and require DLK-1 kinase. J 
+Neurosci 2010, 30: 3175–3183.
+[20] Pinan-Lucarre B, Gabel CV, Reina CP, Hulme SE, 
+Shevkoplyas SS, Slone RD, et al. The core apoptotic 
+executioner proteins CED-3 and CED-4 promote initiation of 
+neuronal regeneration in Caenorhabditis elegans. PLoS Biol 
+2012, 10: e1001331.
+[21] Nix P, Hisamoto N, Matsumoto K, Bastiani M. Axon 
+regeneration requires coordinate activation of p38 and 
+JNK MAPK pathways. Proc Natl Acad Sci U S A 2011, 108: 
+10738–10743.
+[22] Leyssen M, Ayaz D, Hebert SS, Reeve S, De Strooper 
+B, Hassan BA. Amyloid precursor protein promotes post-
+developmental neurite arborization in the Drosophila brain. 
+EMBo J 2005, 24: 2944–2955.
+[23] Xiong X, Collins CA. A conditioning lesion protects axons 
+from degeneration via the Wallenda/DLK MAP kinase 
+signaling cascade. J Neurosci 2012, 32: 610–615.
+[24] Ayaz D, Leyssen M, Koch M, Yan J, Srahna M, Sheeba V, 
+et al. Axonal injury and regeneration in the adult brain of 
+Drosophila. J Neurosci 2008, 28: 6010–6021.
+[25] Barnat M, Enslen H, Propst F, Davis RJ, Soares S, Nothias 
+F. Distinct roles of c-Jun N-terminal kinase isoforms in 
+neurite initiation and elongation during axonal regeneration. J 
+Neurosci 2010, 30: 7804–7816.
+[26] Chang L, Jones Y, Ellisman MH, Goldstein LS, Karin M. JNK1 
+is required for maintenance of neuronal microtubules and 
+controls phosphorylation of microtubule-associated proteins. 
+Dev Cell 2003, 4: 521–533.
+[27] Ciani L, Salinas PC. c-Jun N-terminal kinase (JNK) 
+cooperates with Gsk3beta to regulate Dishevelled-mediated 
+microtubule stability. BMC Cell Biol 2007, 8: 27.
+[28] Tararuk T, ostman N, Li W, Bjorkblom B, Padzik A, 
+Zdrojewska J, et al. JNK1 phosphorylation of SCG10 
+determines microtubule dynamics and axodendritic length. J 
+Cell Biol 2006, 173: 265–277.
+[29] Li C, Hisamoto N, Nix P, Kanao S, Mizuno T, Bastiani M, et 
+al. The growth factor SVH-1 regulates axon regeneration in C. 
+elegans via the JNK MAPK cascade. Nat Neurosci 2012, 15: 
+551–557.
+[30] Pastuhov Si, Fujiki K, Nix P, Kanao S, Bastiani M, Matsumoto 
+K, et al. Endocannabinoid-Goalpha signalling inhibits axon 
+regeneration in Caenorhabditis elegans by antagonizing 
+Gqalpha-PKC-JNK signalling. Nat Commun 2012, 3: 1136.
+[31] El Bejjani R, Hammarlund M. Notch signaling inhibits axon 
+regeneration. Neuron 2012, 73: 268–278.
+[32] Veldman MB, Bemben MA, Thompson RC, Goldman D. 
+Gene expression analysis of zebrafish retinal ganglion cells 
+during optic nerve regeneration identifies KLF6a and KLF7a 
+as important regulators of axon regeneration. Dev Biol 2007, 
+312: 596–612.
+[33] Veldman MB, Bemben MA, Goldman D. Tuba1a gene 
+expression is regulated by KLF6/7 and is necessary for 
+CNS development and regeneration in zebrafish. Mol Cell 
+Neurosci 2010, 43: 370–383.
+[34] Neumann S, Woolf CJ. Regeneration of dorsal column fibers 
+into and beyond the lesion site following adult spinal cord 
+injury. Neuron 1999, 23: 83–91.
+[35] Neumann S, Skinner K, Basbaum Ai. Sustaining intrinsic 
+growth capacity of adult neurons promotes spinal cord 
+regeneration. Proc Natl Acad Sci U S A 2005, 102: 16848–
+16852.
+[36] Ylera B, Erturk A, Hellal F, Nadrigny F, Hurtado A, Tahirovic 
+S, et al. Chronically CNS-injured adult sensory neurons gain 
+regenerative competence upon a lesion of their peripheral 
+axon. Curr Biol 2009, 19: 930–936.
+[37] van Kesteren RE, Mason MR, Macgillavry HD, Smit AB, 
+Verhaagen J. A gene network perspective on axonal 
+regeneration. Front Mol Neurosci 2011, 4: 46.
+[38] Saijilafu, Hur EM, Zhou FQ. Genetic dissection of axon 
+regeneration via in vivo electroporation of adult mouse 
+sensory neurons. Nat Commun 2011, 2: 543.
+[39] Saijilafu, Zhou FQ. Genetic study of axon regeneration with 
+cultured adult dorsal root ganglion neurons. J Vis Exp 2012, 
+(66): e4141.
+[40] Liu RY, Snider WD. Different signaling pathways mediate 
+regenerative versus developmental sensory axon growth. J 
+Neurosci 2001, 21: RC164.
+[41] Zhou FQ, Walzer M, Wu YH, Zhou J, Dedhar S, Snider WD. 
+Neurotrophins support regenerative axon assembly over 
+CSPGs by an ECM-integrin-independent mechanism. J Cell 
+Sci 2006, 119: 2787–2796.
+[42] Campenot RB. Development of sympathetic neurons in 
+compartmentalized cultures. ii. Local control of neurite 
+survival by nerve growth factor. Dev Biol 1982, 93: 13–21.
+[43] Campenot RB. Development of sympathetic neurons in 
+compartmentalized cultures. il Local control of neurite growth 
+by nerve growth factor. Dev Biol 1982, 93: 1–12.
+[44] Taylor AM, Jeon NL. Microfluidic and compartmentalized 
+platforms for neurobiological research. Crit Rev Biomed Eng 
+2011, 39: 185–200.
+[45] Hur EM, Yang iH, Kim DH, Byun J, Saijilafu, Xu WL, et 
+al. Engineering neuronal growth cones to promote axon 
+regeneration over inhibitory molecules. Proc Natl Acad Sci U 
+S A 2011, 108(12): 5057–5062.
+[46] Markus A, Zhong J, Snider WD. Raf and akt mediate distinct 
+Neurosci Bull     August 1, 2013, 29(4): 411–420420
+aspects of sensory axon growth. Neuron 2002, 35: 65–76.
+[47] Atwal JK, Massie B, Miller FD, Kaplan DR. The TrkB-Shc site 
+signals neuronal survival and local axon growth via MEK and 
+Pi3-kinase. Neuron 2000, 27: 265–277.
+[48] Smith DS, Skene JH. A transcription-dependent switch 
+controls competence of adult neurons for distinct modes of 
+axon growth. J Neurosci 1997, 17: 646–658.
+[49] Diamond J, Coughlin M, Macintyre L, Holmes M, Visheau 
+B. Evidence that endogenous beta nerve growth factor 
+is responsible for the collateral sprouting, but not the 
+regeneration, of nociceptive axons in adult rats. Proc Natl 
+Acad Sci U S A 1987, 84: 6596–6600.
+[50] Lentz Si, Miner JH, Sanes JR, Snider WD. Distribution of 
+the ten known laminin chains in the pathways and targets of 
+developing sensory axons. J Comp Neurol 1997, 378: 547–
+561.
+[51] Werner A, Willem M, Jones LL, Kreutzberg GW, Mayer U, 
+Raivich G. impaired axonal regeneration in alpha7 integrin-
+deficient mice. J Neurosci 2000, 20: 1822–1830.
+[52] Hur EM, Saijilafu, Lee BD, Kim SJ, Xu WL, Zhou FQ. GSK3 
+controls axon growth via CLASP-mediated regulation of 
+growth cone microtubules. Genes Dev 2011, 25: 1968–1981.
+[53] Jiang K, Akhmanova A. Microtubule tip-interacting proteins: a 
+view from both ends. Curr opin Cell Biol 2011, 23: 94–101.
+[54] Janke C, Bulinski JC. Post-translational regulation of the 
+microtubule cytoskeleton: mechanisms and functions. Nat 
+Rev Mol Cell Biol 2011, 12: 773–786.
+[55] Cho Y, Cavalli V. HDAC5 is a novel injury-regulated tubulin 
+deacetylase controlling axon regeneration. EMBo J 2012, 
+31: 3063–3078.
+[56] Tedeschi A. Tuning the orchestra: transcriptional pathways 
+controlling axon regeneration. Front Mol Neurosci 2011, 4: 60.
+[57] Liu CM, Hur EM, Zhou FQ. Coordinating gene expression 
+and axon assembly to control axon growth: potential role of 
+GSK3 signaling. Front Mol Neurosci 2012, 5: 3.
+[58] Eickholt BJ, Ahmed Ai, Davies M, Papakonstanti EA, 
+Pearce W, Starkey ML, et al. Control of axonal growth and 
+regeneration of sensory neurons by the p110delta Pi 3-kinase. 
+PLoS one 2007, 2: e869.
+[59] Shin JE, Cho Y, Beirowski B, Milbrandt J, Cavalli V, DiAntonio 
+A. Dual leucine zipper kinase is required for retrograde injury 
+signaling and axonal regeneration. Neuron 2012, 74: 1015–
+1022.
+[60] itoh A, Horiuchi M, Bannerman P, Pleasure D, itoh T. 
+impaired regenerative response of primary sensory neurons 
+in ZPK/DLK gene-trap mice. Biochem Biophys Res Commun 
+2009, 383: 258–262.
+[61] Hirai S, Cui de F, Miyata T, ogawa M, Kiyonari H, Suda Y, et 
+al. The c-Jun N-terminal kinase activator dual leucine zipper 
+kinase regulates axon growth and neuronal migration in the 
+developing cerebral cortex. J Neurosci 2006, 26: 11992–
+12002.
+[62] Selvaraj BT, Frank N, Bender FL, Asan E, Sendtner M. Local 
+axonal function of STAT3 rescues axon degeneration in the 
+pmn model of motoneuron disease. J Cell Biol 2012, 199: 
+437–451.

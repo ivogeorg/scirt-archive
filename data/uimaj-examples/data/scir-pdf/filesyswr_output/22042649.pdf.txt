@@ -1,0 +1,607 @@
+Sustained release of neurotrophin-3 and chondroitinase ABC from
+electrospun collagen nanofiber scaffold for spinal cord injury repair
+Ting Liu,1 Jinye Xu,2 Barbara P. Chan,2 Sing Yian Chew1
+1School of Chemical and Biomedical Engineering, Nanyang Technological University, 62 Nanyang Drive, 637459 Singapore
+2Medical Engineering, Department of Mechanical Engineering, The University of Hong Kong,
+Hong Kong Special Administrative Region, China
+Received 8 September 2011; accepted 8 September 2011
+Published online 31 October 2011 in Wiley Online Library (wileyonlinelibrary.com). DOI: 10.1002/jbm.a.33271
+Abstract: Nerve regeneration after spinal cord injuries (SCI)
+remains suboptimal despite recent advances in the field. One
+major hurdle is the rapid clearance of drugs from the injury
+site, which greatly limits therapeutic outcomes. Nanofiber
+scaffolds represent a potential class of materials for enhancing
+nerve regeneration because of its biomimicking architecture.
+In this study, we investigated the feasibility of incorporating
+neurotrophin-3 (NT-3) and chondroitinase ABC (ChABC) onto
+electrospun collagen nanofibers for SCI treatment. By using
+microbial transglutaminase (mTG) mediated crosslinking, pro-
+teins were loaded onto electrospun collagen nanofibers at an
+efficiency of 45–48%. By combining NT-3 with heparin during
+the protein incorporation process, a sustained release of NT-3
+was obtained (96% by day 28). As indicated by dorsal root
+ganglion outgrowth assay, NT-3 incorporated collagen scaf-
+folds supported neuronal culture and neurite outgrowth for a
+longer time period than bolus delivery of NT-3. The presence
+of heparin also protected ChABC from degradation. Specifi-
+cally, as evaluated by dimethylmethylene blue assay, bioactive
+ChABC was detected from collagen scaffolds for at least
+32 days in vitro in the presence of heparin (32% of bioactiv-
+ity retained). In contrast, ChABC bioactivity was only 1.9% by
+day 22 in the absence of heparin. Taken together, these results
+clearly demonstrated the feasibility of incorporating NT-3 and
+ChABC via mTG immobilization to produce protein-
+incorporated collagen nanofibers. Such biofunctional nano-
+fiber constructs may find useful applications in SCI treatment
+by providing topographical signals and multiple biochemical
+cues that can promote nerve regeneration while antagonizing
+axonal growth inhibition for CNS regeneration. VC 2011 Wiley
+Periodicals, Inc. J Biomed Mater Res Part A: 100A: 236–242, 2012.
+Key Words: electrospinning, nerve regeneration, neural tissue
+engineering, neurite outgrowth, glial scar
+How to cite this article: Liu T, Xu J, Chan BP, Chew SY. 2012. Sustained release of neurotrophin-3 and chondroitinase ABC from
+electrospun collagen nanofiber scaffold for spinal cord injury repair. J Biomed Mater Res Part A 2012:100A:236–242.
+INTRODUCTION
+Nerve regeneration following spinal cord injuries (SCI) is
+often restricted by many growth inhibitory factors that pre-
+vent neurons and support cells from infiltrating the injury
+site. Chief among which, is the formation of glial scar follow-
+ing injuries.1 One of the major components of the glial scar
+is chondroitin sulfate proteoglycans (CSPGs).2–4 Correspond-
+ingly, the delivery of chondroitinase ABC (ChABC) to digest
+the neuronal growth inhibitory glycosaminoglycan (GAG)
+side chains of CSPGs has been attempted with some suc-
+cess.5,6 At present, ChABC treatment for SCI is mainly
+achieved by intrathecal injection with frequencies ranging
+from days to weeks and the typical duration lasting 2–6
+weeks.7,8 Unfortunately, ChABC is thermal sensitive and
+easily degraded by the host. Furthermore, the diffusion of
+ChABC into the injury site is often limited because of over-
+flow beyond the intrathecal space.6,9 Therefore, in order to
+achieve desirable therapeutic outcomes, a slow-release
+system that delivers ChABC locally is needed to maintain
+sufficient levels of bioactive enzyme at the injury site over
+prolonged time periods.
+Therapeutic delivery of neurotrophins, such as neurotro-
+phin-3 (NT-3), has also been attempted to promote the
+sprouting, survival, and regrowth of corticospinal tracts.10,11
+In most cases, direct injection of the drugs12 or controlled
+delivery using hydrogels was used.13 The combinatory treat-
+ment with ChABC and NT-3 in a sustained release manner
+from hydrogels has also showed significantly improved loco-
+motor function and enhanced growth of sensory axons in
+rats.14 Unfortunately, hydrogels are typically isotropic in
+nature and lack topographical features that may provide
+contact guidance to enhance nerve regeneration.
+Nanofibers scaffolds serve as ideal biomimetic substrates
+because of their unique architecture that closely mimics the
+Correspondence to: S. Y. Chew; e-mail: sychew@ntu.edu.sg
+Contract grant sponsor: National Medical Research Council (NMRC) Exploratory Development Grant, Singapore; contract grant number: NMRC/
+EDG/0027/2008
+Contract grant sponsor: MOE AcRF Tier 1 Grant, Singapore; contract grant number: RG75/10
+236 VC 2011 WILEY PERIODICALS, INC.
+structure of the natural extracellular matrix (ECM).15 Nano-
+fiber topography enhanced the maturation of human Schwann
+cells.15 Endowed with glial-cell derived neurotrophic factor,
+sciatic nerve regeneration was enhanced.16 Applied to neural
+tissue engineering in the central nervous system (CNS), elec-
+trospun collagen nanofibers decreased astrocyte proliferation
+and enhanced apoptosis without altering cellular activation as
+compared to two-dimensional flat surfaces. In addition, when
+implanted into a rat hemisection SCI model as spiral nerve
+conduits, GFAPþ glial cell penetration was reduced and neuro-
+filament sprouting was observed within the collagen scaffolds
+as early as 10 days postimplantation.17
+In this study, we introduced a method to incorporate
+NT-3 and ChABC onto electrospun collagen nanofibers for
+sustained protein delivery to treat SCI. The electrospinning
+of collagen has been reported extensively.18–20 However, the
+incorporation of drugs, particularly proteins, into electro-
+spun collagen constructs remains unexplored. We hypothe-
+sized that the synergistic effects of topographical cues and
+multiple biochemical signals from a single construct would
+provide a potential therapy for SCI.
+MATERIALS AND METHODS
+Materials
+Type I collagen was extracted from rat tails for electrospin-
+ning.21 Ninety-nine percent acetic acid was purchased from
+MERCK. Dulbecco’s modified eagle medium (DMEM), mini-
+mum essential medium (MEM), Neurobasal medium, B27,
+L-Glutamine, penicillin-streptomycin, anti-Tuj1 primary anti-
+body, secondary antibodies, bovine serum albumin Alexa
+fluor 647 conjugates (BSA-647), and type I collagenase
+were purchased from Invitrogen. Fetal bovine serum (FBS)
+was purchased from Hyclone. Microbial transglutaminase
+(mTG) was kindly provided by Ajinomoto. Neurotrophin-3
+(NT-3) and Duoset Enzyme-linked immunosorbent assay
+(ELISA) kits were ordered from R&D system. All other
+chemicals and reagents were purchased from Sigma-Aldrich.
+Fabrication and crosslinking of electrospun collagen
+scaffolds
+Collagen nanofibers were electrospun as described previ-
+ously.18 Randomly oriented collagen fibers were collected
+on aluminum foils that were mounted on a grounded rotat-
+ing target (150 rpm). Thereafter, all samples were photo-
+chemically crosslinked as described previously.18 Stabilized
+collagen scaffolds were then soaked in deionized water at
+37C overnight to remove chemical residues. Following that,
+the scaffolds were freeze-dried and UV sterilized for 15 min
+on each side prior to further analyses.
+Optimization of mTG mediated protein immobilization
+BSA-647 was used as the model protein for optimization. To
+elucidate the optimal initial loading amount of proteins, 1,
+5, and 20 lg of BSA-647 were used. The protein samples
+were each dissolved in 200 lL of PBS. Thereafter, each sam-
+ple was added onto a collagen scaffold (10 mg/scaffold, n ¼
+3 for each group), and placed on a shaker to ensure uniform
+protein distribution. After 1 h, 300 lL of mTG Tris-buffer
+solution (2 wt %) was added to each scaffold and incubated
+at 37C for 2 h. Subsequently, the scaffolds were retrieved
+and washed with PBS for three times before analysis.
+To elucidate the optimal incubation time required for
+mTG crosslinking, scaffolds comprising of an initial theoreti-
+cal loading of 5 lg of BSA-647 were used. The BSA-647
+loaded scaffolds were soaked in mTG solution for 2, 4, or
+20 h (n ¼ 3 for each group). Thereafter, all samples were
+retrieved and washed with PBS for three times prior to fur-
+ther analyses.
+To quantify protein loading efficiency, all BSA-647 incor-
+porated scaffolds were digested by 1 mL of type I collage-
+nase (10 mg/mL) at 37C. After 15 min, all scaffolds were
+digested and 100 lL of sample was retrieved for fluores-
+cence intensity measurement at 620 nm using a microplate
+reader (TECAN Infinite 200). The amount of BSA-647 in
+each sample was calculated based on a standard curve that
+was generated through serial protein dilutions. The protein
+loading efficiency was then calculated as:
+Protein loading efficiency ð%Þ
+¼ The amount of incorporatedBSA 647
+The amount of initially loadedBSA 647 100%
+NT-3 incorporation and in vitro release kinetics
+Three electrospun collagen scaffolds (10 mg each) were pre-
+pared for NT-3 incorporation studies. Firstly, 5 lg of NT-3 was
+reconstituted in 100 lL of BSA solution (0.1 wt %). The result-
+ing solution was then added into 100 lL of heparin (5 mg/mL
+in PBS) to result in a final NT-3:heparin molar ratio of 800:1.
+Heparin was used to protect the bioactivity of NT-322,23 and
+the heparin to NT-3 ratio was chosen based on previous stud-
+ies.24 Thereafter, NT-3/heparin solution was added onto the
+collagen scaffolds and incubated on a shaker for 1 h at room
+temperature to allow thorough protein distribution. Following
+that, 300 lL of 2 wt% mTG solution was added and incubated
+at 37C for 2 h. The NT-3 loaded collagen scaffolds were then
+washed with PBS for three times and soaked in 1.5 mL of se-
+rum-free neurobasal medium. Antibiotic-antimycotic solution
+was added at a dilution of 1:100 and the fibers were incubated
+under static conditions at 37C. At various time points, 1.2 mL
+of supernatant was retrieved from each sample and an equal
+volume of fresh medium was replaced. The concentration of
+NT-3 in the supernatant was determined by ELISA assay and
+1.0 mL of the supernatant was used for bioactivity studies. At
+day 60, the fibers were digested in 1.0 mL of type I collagenase
+(10 mg/mL) and any residual NT-3 was quantified by ELISA.
+NT-3 bioactivity assay
+Dorsal root ganglions (DRGs) were dissected from E15 old
+embryos of Sprague Dawley rats under current Institutional
+Animal Care and Use Committee (IACUC) guidelines. All
+explants were then cultured in a humidified incubator at
+37C with 5% CO2.
+Supernatant assay. Isolated DRGs were seeded onto glass
+cover slips coated with 1 mL of 0.1% poly-lysine in a
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | JAN 2012 VOL 100A, ISSUE 1 237
+24-well plate (n ¼ 3). Thereafter, 1.0 mL of NT-3 superna-
+tant was added. On the basis of our initial studies, at least
+40 ng/mL of NT-3 was required for observable neurite out-
+growth. Therefore, the positive control comprised of DRGs
+cultured in the presence of 40 ng/mL of NT-3 while the
+negative control comprised of DRGs cultured in plain neuro-
+basal medium only. For all samples, 0.5 mM of L-glutamine
+and 1% B-27 were added as supplements. After two days of
+culture, the samples were examined under a bright-field
+microscope (Olympus IX 71) at 10 magnification.
+Scaffold-based assay. After washing NT-3 loaded scaffolds
+for three times in PBS, 4–6 DRG explants were seeded directly
+onto each scaffold (n ¼ 3) in a 24-well plate. The DRGs were
+cultured in 1.0 mL of neurobasal medium supplemented with
+0.5 mM L-glutamine, 1% B-27, and 1% penicillin-streptomycin.
+The positive control comprised of DRGs that were seeded on
+plain electrospun collagen scaffolds in the presence of 40 ng/
+mL of fresh NT-3. A negative control comprised of DRGs cul-
+tured on plain collagen scaffolds in the absence of NT-3. After
+2 days of culture, all samples were fixed with 10% formalin
+and permeabilized with 0.1% Triton X-100 for 20 min. After
+thorough washes with PBS, the scaffolds were blocked with
+3% BSA. Primary antibody against Tuj-1 (1:500) was added
+and incubated for 1 h. Thereafter, secondary antibody (Alexa
+Fluor 633, 1:500) was added and incubated for 30 min. All
+incubation was carried out at room temperature and all sam-
+ples were washed three times with PBS in between each step.
+The samples were then imaged under a confocal microscope
+(Zeiss, LSM 710) and analyzed using the Image J software
+(NIH). The average length of each neurite extension was
+defined as the linear distance from the point of exit to the end
+of the longest branch of that neurite. Length measurements of
+18 neurites were taken from each explant and 9 explants were
+measured for each group following previous protocol.25
+ChABC sustained release and bioactivity assay
+Collagen scaffolds (10 mg/scaffold, n ¼ 3 for each group) were
+either soaked in ChABC only (denoted as Incorporated ChABC)
+or ChABC/heparin solution (denoted as Incorporated ChABC/
+heparin). The former comprised of scaffolds being incubated
+with 200 lL of ChABC solution (200 mU of ChABC in PBS)
+while the latter comprised of 200 lL of ChABC/heparin solu-
+tion (200 mU of ChABC and 150 lg of heparin in PBS to result
+in a heparin: ChABC ratio of 60 lmol:1U, which was chosen
+based on previous study26). The mTG-mediated protein incor-
+poration protocol described earlier was utilized. Thereafter, all
+scaffolds were washed with PBS for three times prior to incu-
+bation in 1 mL of PBS. As a control, 200 mU of fresh ChABC
+was added directly into 1 mL of PBS (denoted as Soluble
+ChABC). Finally, all samples were incubated at 37C.
+At various time points, 10 lL of supernatant was col-
+lected from each sample to react with 10 lL of decorin (0.5
+mg/mL, a small molecular CSPG) at 37C. The enzymatic
+digestion of decorin was then allowed to proceed for 2 h. A
+DMMB assay was then used to quantify the sulfated glycos-
+aminoglycan (CS-GAGs) that have been digested by ChABC.
+According to previously reported protocol,27 180 lL of
+DMMB reagent was added into 20 lL of reaction sample
+and the absorbance was recorded at 530 nm. The absorb-
+ance of the ChABC supernatant without decorin was used as
+the background control. The absorbance of 5 lg of intact
+decorin was considered as standard, 100% intact decorin.
+Finally, the percentage of sample absorbance relative to the
+standard was calculated, and the graphs of the percentage
+of decorin digested by ChABC samples were plotted.
+Statistic analysis
+All data presented in this study are expressed as mean 6
+standard error of mean (SE). For the analyses of BSA-647
+loading efficiency, one-way ANOVA was used. Independent-
+samples t-test was used for analyzing the difference of DRG
+neurite length in different groups.
+RESULTS
+Optimized parameters for mTG mediated
+immobilization
+Figure 1 shows the changes in protein loading efficiency
+with respect to variations in the initial mass of protein used
+and the mTG incubation time. When 1 and 5 lg of BSA-647
+FIGURE 1. Variation of BSA-647 loading efficiency with respect to (a) initial protein loading mass and (b) mTG incubation time at 37C. **p <
+0.001, *p < 0.01, ANOVA.
+238 LIU ET AL. COLLAGEN NANOFIBERS FOR SCI
+were used, the loading efficiencies were 48.4 6 0.47% and
+45.32 6 2.27%, respectively with no significant difference
+[Fig. 1(a)]. However, a significant decrease in loading effi-
+ciency was observed when 20 lg of proteins were used. In
+the case of mTG incubation time, no significant difference in
+protein loading efficiency was observed [Fig. 1(b)]. Taken
+together, 5 lg of initial protein mass and 2 h of incubation
+in mTG were taken as the optimal parameters for subse-
+quent NT-3 and ChABC incorporation studies.
+NT-3 in vitro release kinetics
+As shown in Figure 2, after an initial burst release of 35.9
+6 1.7% in day 1, a sustained release of NT-3 was obtained
+for up to 28 days. A total of 72.5 6 3.1% of NT-3 was
+released during the first 6 days. Thereafter, the rate of pro-
+tein release decreased. At day 60, a total of 99.2 6 3.91%
+NT-3 was released relative to the total amount of NT-3
+incorporated.
+NT-3 bioactivity assay
+Supernatant assay. As shown in Figure 3, significant neu-
+rite outgrowth was observed in the positive control and
+from DRGs that were exposed to day 4 supernatant, indicat-
+ing the retention of NT-3 bioactivity. In contrast, neurite
+outgrowth was very limited in the negative control. Compa-
+ratively, DRGs exposed to NT-3 supernatant possessed neu-
+rites that extended over shorter distances than the positive
+control [Fig. 3(d), p < 0.01]. DRGs exposed to supernatants
+collected after day 4 did not show obvious neurite
+outgrowth.
+Scaffold-based assay. As indicated in Figure 4(a,b), DRG
+neurites emanated radially on NT-3 loaded collagen scaffolds
+and the positive control. Quantitative measurements showed
+that the lengths of the neurites were comparable in both
+samples [Fig. 4(d)]. In contrast, no neurite outgrowth was
+observed in the negative control [Fig. 4(c)]. At day 4, neurite
+extensions remained prominent in DRGs that were seeded
+on NT-3 loaded collagen scaffolds. However, such neurite
+extension was absent in positive control [Fig. 4(d,e)].
+FIGURE 2. Cumulative release profile of NT-3 from electrospun colla-
+gen nanofiber scaffolds.
+FIGURE 3. Supernatant bioactivity assay for NT-3. (a–c) Light microscopy images of DRGs cultured in (a) day 4 supernatant; (b) positive control
+comprising of 40 ng/mL NT-3; (c) negative control; and (d) Length of neurite extensions from DRGs cultured in day 4 supernatant and positive
+control. *p < 0.01, independent t-test. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | JAN 2012 VOL 100A, ISSUE 1 239
+ChABC bioactivity assay
+As shown in Figure 5, sustained release of bioactive ChABC
+with a gradual decrease in enzymatic activity was obtained
+for at least 32 days in Incorporated ChABC/heparin sam-
+ples. At day 32, the enzymatic activity of ChABC was
+32.34 6 2.61% as compared day 1 (66.5 6 0.91%). In com-
+parison, the enzymatic activities were 1.92 6 0.95% and
+3.5 6 3.85% for Incorporated ChABC and Soluble ChABC
+groups by day 22 and 15, respectively.
+DISCUSSION
+The rapid clearance of drugs from the spinal cord remains a
+major hurdle to achieving effective therapeutic outcomes in
+SCI treatment.14 As a result, various drug-delivery systems,
+particularly hydrogels, have been developed to facilitate the
+sustained and localized delivery of biomolecules such as
+NT-3 and ChABC.14,24,28–30 Unfortunately, most of these plat-
+forms are isotropic and lack nanoscaled topographical
+cues14,24,26 that may be helpful in manipulating the inhibi-
+tory microenvironment postSCI and directing regenerated
+axons towards their appropriate targets. Our previous
+results demonstrated the potential of plain electrospun col-
+lagen nanofibers for SCI treatment.17 Therefore, in this
+study, we chose to enhance the functionality of these
+constructs by protein incorporation to provide synergistic
+topographical and biochemical cues to enhance nerve regen-
+eration in the CNS.
+FIGURE 4. Scaffold-based bioactivity assay for NT-3. (a–e) Tuj-1 immunostaining of DRGs cultured on (a–d) NT-3 incorporated collagen scaf-
+folds; (b–e) positive control; (c) negative control for (a–c) 2 days and (d and e) 4 days. (f) Length of neurite extensions from DRGs. Positive con-
+trol: DRGs on plain collagen scaffolds subjected to bolus delivery of 40 ng/mL of NT-3. Negative control: DRGs on plain collagen scaffolds only.
+[Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+FIGURE 5. ChABC bioactivity assay. Percentage of decorin digested
+by ChABC supernatants.
+240 LIU ET AL. COLLAGEN NANOFIBERS FOR SCI
+Transglutaminases (TGase) are a group of structurally
+and functionally related enzymes that are distributed in
+various organisms.31,32 TGase mediated crosslinking is
+nontoxic, and is widely adopted in commercial food proc-
+esses to improve the texture of protein-rich products.33,34
+Gelatin and collagen are good substrates of TGase and mTG
+has been used to modify the physical properties of these
+materials.35,36 Theoretically, proteins can be covalently
+immobilized onto collagen via mTG mediated acyl-transfer
+reaction that occurs between the c-carboxamide groups of
+glutamine residues in collagen and the e-amino groups of
+lysine residues in proteins at temperatures 37C.37
+The protein-incorporation optimization study indicated a
+decrease in loading efficiency when 20 lg of protein was
+used. This is likely due to the saturation of available binding
+sites on collagen. When mTG crosslinking duration was
+altered, the insignificant change in loading efficiency was
+likely attributed to the rapid mTG crosslinking kinetics. The
+fast rate of collagen-mTG crosslinking, occurring within
+10 min, has been reported.37 Therefore, in order to ensure
+that sufficient proteins were incorporated within reasonable
+loading efficiency limits, 5 lg of NT-3 and ChABC with a
+mTG incubation period of 2 h were chosen as the optimal
+parameters.
+As indicated in the release kinetics study, 72% of NT-3
+was released within the first week. Thereafter, the release
+rate decreased and resulted in 96% NT-3 release by day
+28. Such a release profile is likely attributed to the degrada-
+tion of the collagen scaffolds since previous in vitro studies
+indicated 50% and 70% scaffold mass loss by days 7 and
+15, respectively.18 The nonspecific adsorption and crosslink-
+ing of heparin and NT-3 within our system may be another
+contributing factor. Covalently immobilizing heparin onto
+the nanofibers prior to absorbing NT-3 might provide better
+control over protein release rate23 and will be explored in
+future studies.
+Compared to heparin-incorporated hydrogels (60%
+NT-3 released by day 14 with 800:1 heparin to NT-3
+ratio13,24), our collagen scaffolds enabled a quicker and
+more efficient release of NT-3. Although, an initial burst
+availability of NT-3 may help reduce the apoptosis of neu-
+rons post-SCI and create a chemoattractive environment to
+guide axons towards the scaffolds,24 the exact physiological
+implications of our constructs versus the current hydrogel-
+based platforms awaits further verification with detailed
+in vivo studies.
+Corresponding to the drop in protein release rate after
+the first week, we observed a lack of neurite outgrowth in
+DRGs that were subjected to supernatants beyond day 4.
+Neurite length may be dependent on the dose of NT-3 when
+the dosage is low (0–20 ng/mL).24,25,38 However, at higher
+concentrations (>20–50 ng/mL), neurite length appears
+to be independent of NT-3 concentration.24,25 Correspond-
+ingly, we saw similar outcomes in our bioactivity assays. On
+the basis of ELISA assay, 20 ng/mL of NT-3 remained in
+day 4 supernatant. Compared to the positive control of
+40 ng/mL, we saw a significant decrease in neurite out-
+growth length. In the scaffold-based assay, we estimated a
+total of 97.2 ng of NT-3 being released from the scaffolds
+at day 2. This resulted in the insignificant difference in neu-
+rite length between the samples and the positive control.
+One possible reason may be the down-regulation of
+neurotrophin receptors on DRG neurons.39,40 Regardless,
+both assays clearly demonstrated the retention of NT-3
+bioactivity within the nanofiber constructs. Furthermore,
+NT-3-incorporated collagen scaffolds supported neurite out-
+growth for at least 4 days. In contrast, neurite extension
+was not observed in DRGs in the positive control by the
+fourth day of culture. Although, we were unable to prolong
+DRG culture beyond 4 days (likely due to limited nutrient
+diffusion under static culture), our results suggested that
+the collagen-based drug release system protected and pre-
+sented NT-3 in a sustained manner to support neuronal
+culture and neurite extensions for a longer time period as
+compared to a bolus delivery of NT-3.
+Bioactive ChABC was released in a sustained manner
+from collagen nanofibers for at least 32 days. This appears
+to match the in vivo CSPG expression kinetics, where a sig-
+nificant increase followed by a peak at 2–4 weeks after SCI
+is frequently observed.41,42 Comparing with currently avail-
+able hydrogel platforms, the duration of ChABC release from
+collagen nanofibers appears similar (hydrogels provided
+4 weeks sustained release in vitro14 ). In the soluble ChABC
+group, ChABC showed the highest bioactivity at day 1
+because of the existence of higher amounts of soluble
+ChABC. However, such advantage was quickly nullified by
+day 2. Although, heparin was initially added to protect the
+bioactivity of NT-3,24 we found that heparin was also able
+to prevent the degradation of ChABC. Further studies to
+evaluate the efficacy of these drug incorporated collagen
+scaffolds in providing synergistic nanofiber topography and
+multiple biochemical cues to enhance nerve regeneration in
+SCI treatment will be evaluated by detailed in vivo studies.
+CONCLUSION
+In this study, we demonstrated the feasibility of incorporat-
+ing proteins onto electrospun collagen nanofiber scaffolds.
+While the electrospinning of collagen has been reported
+extensively, endowing such scaffolds with drugs for control
+over cell fate remains unexplored. Our results demonstrate
+the sustained release of NT-3 and ChABC for at least
+28 days. Such biofunctional scaffolds may find useful appli-
+cations in SCI treatment by providing topographical and
+multiple biochemical cues to manipulate the growth inhibi-
+tory environment and promote axonal regeneration.
+REFERENCES
+1. Fawcett JW, Asher RA. The glial scar and central nervous system
+repair. Brain Res Bull 1999;49:377–391.
+2. Asher RA, Morgenstern DA, Fidler PS, Adcock KH, Oohira A,
+Braistead JE, Levine JM, Margolis RU, Rogers JH, Fawcett JW.
+Neurocan is upregulated in injured brain and in cytokine-treated
+astrocytes. J Neusci 2000;20:2427–2438.
+3. McKeon RJ, Hoke A, Silver J. Injury-induced proteoglycans inhibit
+the potential for laminin-mediated axon growth on astrocytic
+scars. Exp Neurol 1995;136:32–43.
+ORIGINAL ARTICLE
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH A | JAN 2012 VOL 100A, ISSUE 1 241
+4. Smith GM, Strunz C. Growth factor and cytokine regulation of
+chondroitin sulfate proteoglycans by astrocytes. Glia 2005;52:
+209–218.
+5. Barritt AW, Davies M, Marchand F, Hartley R, Grist J, Yip P,
+McMahon SB, Bradbury EJ. Chondroitinase ABC promotes
+sprouting of intact and injured spinal systems after spinal cord
+injury. J Neusci 2006;26:10856–10867.
+6. Garcia-Alias G, Barkhuysen S, Buckle M, Fawcett JW. Chondroiti-
+nase ABC treatment opens a window of opportunity for task-spe-
+cific rehabilitation. Nat Neurosci 2009;12:1145–1151.
+7. Caggiano AO, Zimber MP, Ganguly A, Blight AR, Gruskin EA.
+Chondroitinase ABCI improves locomotion and bladder function
+following contusion injury of the rat spinal cord. J Neurotraum
+2005;22:226–239.
+8. Houle JD, Tom VJ, Mayes D, Wagoner G, Phillips N, Silver J.
+Combining an autologous peripheral nervous system ‘‘bridge’’
+and matrix modification by chondroitinase allows robust, func-
+tional regeneration beyond a hemisection lesion of the adult rat
+spinal cord. J Neurosci 2006;26:7405–7415.
+9. Tester NJ, Plaas AH, Howland DR. Effect of body temperature on
+chondroitinase ABC’s ability to cleave chondroitin sulfate glycos-
+aminoglycans. J Neurosci Res 2007;85:1110–1118.
+10. Giehl KM, Tetzlaff W. BDNF and NT-3, but not NGF, prevent axot-
+omy-induced death of rat corticospinal neurons in vivo. Eur J
+Neurosci 1996;8:1167–1175.
+11. Ramer MS, Bishop T, Dockery P, Mobarak MS, O’Leary D, Fraher
+JP, Priestley JV, McMahon SB. Neurotrophin-3-mediated regener-
+ation and recovery of proprioception following dorsal rhizotomy.
+Mol Cell Neurosci 2002;19:239–249.
+12. Coumans JV, Lin TTS, Hai Ning D, MacArthur L, McAtee M, Nash
+C, Bregman BS. Axonal regeneration and functional recovery after
+complete spinal cord transection in rats by delayed treatment with
+transplants and neurotrophins. J Neurosci 2001;21:9334–9344.
+13. Taylor SJ, Sakiyama-Elbert SE. Effect of controlled delivery of
+neurotrophin-3 from fibrin on spinal cord injury in a long term
+model. J Control Release 2006;116:204–210.
+14. Lee H, McKeon RJ, Bellamkonda RV. Sustained delivery of ther-
+mostabilized ChABC enhances axonal sprouting and functional re-
+covery after spinal cord injury. Proc Natl Acad Sci U S A 2010;
+107:3340–3345.
+15. Chew SY, Mi R, Hoke A, Leong KW. The effect of the alignment of
+electrospun fibrous scaffolds on Schwann cell maturation. Bioma-
+terials 2008;29:653–661.
+16. Chew SY, Mi R, Hoke A, Leong KW. Aligned protein–polymer
+composite fibers enhance nerve regeneration: a potential tissue-
+engineering platform. Adv Funct Mater 2007;17:1288–1296.
+17. Liu T, Xu J, Chan BP, Chew SY. Nanofibrous collagen nerve conduits
+for spinal cord repair. Tissue Eng. 2011. Submitted for publication.
+18. Liu T, Teng WK, Chan BP, Chew SY. Photochemical crosslinked
+electrospun collagen nanofibers: Synthesis, characterization and
+neural stem cell interactions. J Biome Mate Res A 2010;95A:
+276–282.
+19. Jha BS, Ayres CE, Bowman JR, Telemeco TA, Sell SA, Bowlin GL,
+Simpson DG. Electrospun collagen: A tissue engineering scaffold
+with unique functional properties in a wide variety of applica-
+tions. J Nanomate. 2011.
+20. Zhong S, Teo WE, Zhu X, Beuerman RW, Ramakrishna S, Yung
+LYL. An aligned nanofibrous collagen scaffold by electrospinning
+and its effects on in vitro fibroblast culture. J Biomed Mate Res A
+2006;79A:456–463.
+21. Rajan N, Habermehl J, Cote M-F, Doillon CJ and Mantovani D.
+Preparation of ready-to-use, storable and reconstituted type I col-
+lagen from rat tail tendon for tissue engineering applications. Nat
+Protocols 2007;1:2753–2758.
+22. Noushi F, Richardson RT, Hardman J, Clark G, O’Leary S. Delivery
+of neurotrophin-3 to the cochlea using alginate beads. Oto Neuro-
+tol 2005;26:528–533.
+23. Wissink MJB, Beernink R, Poot AA, Engbers GHM, Beugeling T,
+van Aken WG, Feijen J. Improved endothelialization of vascular
+grafts by local release of growth factor from heparinized collagen
+matrices. J Control Release 2000;64:103–114.
+24. Taylor SJ, McDonald JW, Sakiyama-Elbert SE. Controlled release
+of neurotrophin-3 from fibrin gels for spinal cord injury. J Control
+Release 2004;98:281–294.
+25. Richardson RT, Thompson B, Moulton S, Newbold C, Lum MG,
+Cameron A, Wallace G, Kapsa R, Clark G, O’Leary S. The effect of
+polypyrrole with incorporated neurotrophin-3 on the promotion
+of neurite outgrowth from auditory neurons. Biomaterials 2007;
+28:513–523.
+26. Hyatt AJT, Wang D, Kwok JC, Fawcett JW, Martin KR. Controlled
+release of chondroitinase ABC from fibrin gel reduces the level of
+inhibitory glycosaminoglycan chains in lesioned spinal cord.
+J Controll Release 2010;147:24–29.
+27. Cope AP, Mort JS, Roughley PJ. Measurement of glycosamino-
+glycan release from cartilage explants. Arthritis Research.
+New Jersey: Humana Press; 2007. p 201–209.
+28. Massey JM, Amps J, Viapiano MS, Matthews RT, Wagoner MR,
+Whitaker CM, Alilain W, Yonkof AL, Khalyfa A, Cooper NGF, Silver
+J, Onifer SM. Increased chondroitin sulfate proteoglycan expres-
+sion in denervated brainstem targets following spinal cord injury
+creates a barrier to axonal regeneration overcome by chondroiti-
+nase ABC and neurotrophin-3. Expe Neurol 2008;209:426–445.
+29. Lee H, McKeon RJ, Bellamkonda RV. Sustained delivery of ther-
+mostabilized chABC enhances axonal sprouting and functional
+recovery after spinal cord injury. Proc Natl Acad Sci U S A 2010;
+107:3340–3345.
+30. Hyatt AJT, Wang D, Kwok JC, Fawcett JW, Martin KR. Controlled
+release of chondroitinase ABC from fibrin gel reduces the level of
+inhibitory glycosaminoglycan chains in lesioned spinal cord.
+J Controll Release 2010;147:24–29.
+31. Mauro P, Grazia Farrace M, Piredda L, Matarrese P, Ciccosanti F,
+Falasca L, Rodolfo C, Giammarioli AM, Verderio E, Griffin M,
+Malorni W. Transglutaminase overexpression sensitizes neuronal
+cell lines to apoptosis by increasing mitochondrial membrane
+potential and cellular oxidative stress. J Neurochem 2002;81:
+1061–1072.
+32. Griffin M, Casadio R, Bergamini CM. Transglutaminases: Nature’s
+biological glues. J Biochem 2002;368:377–396.
+33. Jaros D, Partschefeld C, Henle T, Rohm H. Transglutaminase in
+dairy products: Chemistry, physics, applications. J Texture Stud
+2006;37:113–155.
+34. Cortez J, Anghieri A, Bonner PLR, Griffin M, Freddi G. Transgluta-
+minase mediated grafting of silk proteins onto wool fabrics lead-
+ing to improved physical and mechanical properties. Enzyme
+Microb Tech 2007;40:1698–1704.
+35. Chau DYS, Collighan RJ, Verderio EAM, Addy VL, Griffin M.
+The cellular response to transglutaminase-cross-linked collagen.
+Biomaterials 2005;26:6518–6529.
+36. Paguirigan AL, Beebe DJ. Protocol for the fabrication of enzymati-
+cally crosslinked gelatin microchannels for microfluidic cell cul-
+ture. Nat Protocols 2007;2:1782–1788.
+37. Ines Stachel US, Henle T, Meyer M. Cross-linking of type I colla-
+gen with microbial transglutaminase: Identification of cross-
+linking sites. Biomacromolecules 2010;11:698–705.
+38. Morfini G, Ditella MC, Feiguin F, Carri N, Cáceres A. Neuro-
+trophin-3 enhances neurite outgrowth in cultured hippocampal
+pyramidal neurons. J Neurosci Res 1994;39:219–232.
+39. Zigmond SH. Consequences of chemotactic peptide receptor
+modulation for leukocyte orientation. J Cell Biol 1981;88:644–647.
+40. Cao X, Shoichet MS. Investigating the synergistic effect of com-
+bined neurotrophic factor concentration gradients to guide axonal
+growth. Neurosci 2003;122:381–389.
+41. Jones LL, Margolis RU, Tuszynski MH. The chondroitin sulfate
+proteoglycans neurocan, brevican, phosphacan, and versican are
+differentially regulated following spinal cord injury. Exp Neurol
+2003;182:399–411.
+42. Iseda T, Okuda T, Kane-Goldsmith N, Mathew M, Ahmed S,
+Chang Y-W, Young W, Grumet M. Single, high-dose intraspinal
+injection of chondroitinase reduces glycosaminoglycans in
+injured spinal cord and promotes corticospinal axonal regrowth
+after hemisection but not contusion. J Neurotraum 2008;25:
+334–349.
+242 LIU ET AL. COLLAGEN NANOFIBERS FOR SCI

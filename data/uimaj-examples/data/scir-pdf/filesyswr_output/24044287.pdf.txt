@@ -1,0 +1,1965 @@
+Anna Lis1, Dariusz Szarek2,3, Jadwiga Laska1
+Strategie inżynierii biomateriałów dla regeneracji  
+rdzenia kręgowego: aktualny stan wiedzy
+Biomaterials Engineering Strategies for Spinal Cord Regeneration:  
+State of the Art
+1 Wydział Inżynierii Materiałowej i Ceramiki, Katedra Biomateriałów, Akademia Górniczo-Hutnicza w Krakowie 
+2 Klinika Neurochirurgii, Uniwersytecki Szpital Kliniczny we Wrocławiu 
+3 Katedra Neurochirurgii, Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu
+Streszczenie
+Urazowe uszkodzenia rdzenia kręgowego stanowią bardzo poważne obciążenie dla organizmu osób poszkodowanych i są tym 
+dotkliwsze, ponieważ najczęściej dotyczą przede wszystkim ludzi młodych. Spowodowane nimi problemy fizyczne, emocjo-
+nalne i ekonomiczne z reguły istotnie ograniczają funkcjonowanie pacjentów i stanowią obciążenie dla społeczeństwa. Rdzeń 
+kręgowy charakteryzuje się niemal brakiem możliwości spontanicznej i funkcjonalnej regeneracji, stąd jego uszkodzenie 
+powoduje poważne i często trwałe kalectwo. Patofizjologia uszkodzenia rdzenia kręgowego jest wynikiem następujących po 
+sobie dwóch zjawisk; urazu pierwotnego oraz wtórnego. Po uszkodzeniach pierwotnych w wyniku urazu mechanicznego 
+następują zmiany patologiczne o podłożu biochemicznym narastające kaskadowo po urazie, które nawzajem się wzmacniają 
+i powodują dalszą destrukcję rdzenia kręgowego. Następuje kaskada procesów patologicznych w tym krwotok, obrzęk, nekro-
+za neuronów, fragmentacja i demielinizacja aksonów i ostatecznie tworzenie się cysty. Ponadto urazy rdzenia kręgowego 
+mogą spowodować natychmiastową śmierć komórek nerwowych oraz zakłócić dopływ krwi do miejsca uszkodzenia. Ważną 
+różnicą pomiędzy obwodowym i centralnym układem nerwowym jest to, że podczas urazu w rdzeniu kręgowym ulegają 
+zniszczeniu zarówno ciała komórek nerwowych i aksony dróg rdzeniowych, podczas gdy w obwodowym układzie nerwowym 
+tylko aksony podlegają uszkodzeniu. W obrębie rdzenia kręgowego jednym z głównych czynników hamujących regenerację 
+jest tworzenie się blizny glejowej. Rozprzestrzeniające się na powierzchni uszkodzenia gęsto upakowane astrocyty hamują 
+skutecznie wzrost aksonów poprzez blokadę wzrostu. Blizna składająca się głównie z nadaktywnych astrocytów i fibroblastów 
+wraz z obecnymi w niej związkami inhibitującymi wzrost aksonów, takimi jak proteoglikany (pochodzące z rozpadu uszko-
+dzonych komórek nerwowych), stanowi barierę fizyko-chemiczną dla efektywnej regeneracji aksonów.
+Obecny postęp naukowy w medycynie, biologii oraz inżynierii biomateriałów, a w szczególności w dziedzinach neurochi-
+rurgii, hodowli komórkowej i inżynierii tkankowej, otwiera możliwość dla rozwoju nowych terapii wspomagających leczenie 
+skutków urazowych uszkodzeń rdzenia kręgowego i zapobiegających dalszym procesom neurodegeneracyjnym. Najbardziej 
+obiecujące wyniki, jak dotąd, uzyskuje się przy zastosowaniu odpowiednio zaprojektowanych konstrukcji polimerowych 
+stanowiących rusztowanie dla regenerujących aksonów, w połączeniu z systemem dostarczania leków lub linii komórek tera-
+peutycznych oraz czynników neurotroficznych.
+W niniejszym artykule przeglądowym opisano wybrane zastosowania biomateriałów w regeneracji urazowych uszkodzeń 
+rdzenia kręgowego. Na wstępie opisana została podstawowa budowa anatomiczna rdzenia kręgowego. Następnie porów-
+nane zostały mechanizmy uszkodzeń i neuroregeneracji w obwodowym i centralnym układzie nerwowym. Patofizjologia 
+uszkodzeń rdzenia kręgowego, odniesiona została do bieżących strategii inżynierii biomateriałowej w eksperymentalnych 
+terapiach wspomagających neuroregenerację. W podsumowaniu zwrócono uwagę na obiecujące interdyscyplinarne strategie 
+terapeutyczne, mające na celu regenerację rdzenia kręgowego (Polim. Med. 2013, 43, 2, 59–80).
+Słowa kluczowe: biomateriały, centralny układ nerwowy, rdzeń kręgowy, regeneracja nerwów
+Summary
+Traumatic spinal cord injuries are very serious burden for the organism of affected human population, and are more critical 
+because mostly touching the young cluster of population. Physical, emotional and economic problems caused by traumatic 
+spinal cord injuries as a general rule significantly limit the individual patient functionality and are burden for the society. 
+Polim. Med. 2013, 43, 2, 59–80 © Copyright by Wroclaw Medical University 
+ISSN 0370–0747
+PRACA POGLąDOWA
+Anna Lis i wsp.60
+Wprowadzenie
+Urazy rdzenia kręgowego są przyczyną poważnego 
+i zwykle nieodwracalnego kalectwa. Ich leczenie jest 
+bardzo trudne, a aktualny stan wiedzy medycznej po-
+zwala na prowadzenie jedynie leczenia ograniczającego 
+skutki urazu rdzenia. Ogromne znaczenie ma przede 
+wszystkim rehabilitacja, która może zwiększać poten-
+cjał zachowanych po urazie funkcji dróg nerwowych 
+rdzenia kręgowego. Regeneracja uszkodzonej tkanki 
+nerwowej jest bardzo złożonym i wolno postępującym 
+procesem, z uwagi na jej skomplikowaną budowę ana-
+tomiczną i histologiczną oraz obecność wewnętrznych 
+czynników blokujących jej odbudowę co powoduje, że 
+problem regeneracji uszkodzeń rdzenia kręgowego nie 
+został do tej pory rozwiązany [1–4].
+Liczne badania prowadzone w wielu ośrodkach na-
+ukowych, pokazują złożoność mechanizmów odpowie-
+dzialnych za pobudzanie i hamowanie procesów, zacho-
+dzących w tkance nerwowej w uszkodzonym rdzeniu 
+kręgowym. Większość terapii jest w dalszym ciągu na 
+etapie prób i wymagają przeprowadzenia jeszcze wielu 
+złożonych analiz, by mogły być wprowadzone do wyko-
+rzystania klinicznego. Aktualne strategie bioinżynierii 
+skupiają się na konstruowaniu rusztowań trójwymia-
+rowych, stwarzających środowisko, w którym mogłaby 
+nastąpić regeneracja uszkodzonej tkanki, w tym poura-
+zowych ubytków rdzenia kręgowego [1–4]. 
+Budowa wewnętrzna  
+rdzenia kręgowego
+Struktura (ryc. 1 i 3) i fizjologia ośrodkowego ukła-
+du nerwowego, stanowi niespotykanie skomplikowane 
+i wyjątkowe wyzwanie dla bioinżynierii, zajmującej się 
+The spinal cord has considerable lack of ability for spontaneous and functional regeneration, hence the spinal cord injury 
+cause a solemn and frequently permanent disabilities. The pathophysiology of spinal cord injury is the results of sequential 
+two phenomena, primary physical and biochemical secondary mechanisms of injury. After physical injury, the spinal cord 
+undergoes a sequential progression in biochemical pathologic deviations increasing after injury, that are mutually dete-
+riorating and cause further damage in the spinal cord. Consequently series of pathological processes lead to haemorrhage, 
+oedema, neuronal necrosis, axonal fragmentation, demyelination of the remaining axons, and formation of ultimately cyst. 
+Furthermore spinal cord injuries can immediately result in neural cells death and cause disruption of the blood supply to 
+the site of the injury. The most important difference between peripheral and central nervous system is the fact that in the 
+spinal cord the neuronal cell bodies are damaged, while in the peripheral nervous system only axons are injured. In the sur-
+roundings of the spinal cord, one of the major factors hampering regeneration is the glial scar expansion. The spreading of 
+densely packed astrocytes on the site of injuries effectively inhibit axon growth through the nerve grow blocking. Glial scar, 
+which consists mainly of overactive astrocytes and fibroblasts, as well as the presence of growth-inhibitor molecules such as 
+chondroitin sulphate proteoglycans (derived from the breakdown of damaged nerve cells) form a physicochemical barrier 
+for effective regenerating axons. 
+The recent scientific progress in medicine, biology and biomaterials engineering, and predominantly in the fields of neu-
+rosurgery, cell culture and tissue engineering, creates the opportunity for the development of new therapies, which support 
+healing of the effects of traumatic spinal cord injuries and prevent further neurodegenerative processes. The most promising 
+effects so far have been obtained using well-designed polymer scaffold as structural support for axon regeneration combined 
+with drug delivery system or therapeutic cell line and neurotrophic factors.
+This review article focuses on the application of selected biomaterials for the regeneration of traumatic spinal cord injuries. 
+First, the basic anatomical structure of the spinal cord has been described. Then the injury and neurodegenerative mecha-
+nisms within the peripheral and central nervous system have been compared. The pathophysiology of the spinal cord damage 
+has been referred to the current strategy of biomaterials engineering in experimental therapies supporting neuroregeneration 
+processes. In the summary, the promising interdisciplinary therapeutic strategies aimed at the regeneration of the spinal cord 
+have been highlighted (Polim. Med. 2013, 43, 2, 59–80).
+Key words: biomaterials, central nervous system, spinal cord, nerve regeneration
+Główne drogi rdzenia kręgowego
+Drogi wstępujące
+Drogi zstępujące
+Schemat budowy wewnętrznej rdzenia kręgowego
+Ryc. 1. Przekrój poprzeczny przez rdzeń kręgowy. Autorka 
+ryciny: Anna Lis
+Fig. 1. Cross-section through the spinal cord. Author of the 
+image: Anna Lis
+Biomateriały 61
+regeneracją tkanki nerwowej. Tkanka nerwowa nie jest 
+tkanką jednorodną o takiej samej budowie i funkcji w ob-
+rębie całego układu nerwowego. Poszczególne ośrod-
+ki nerwowe są odpowiedzialne za specyficzne funkcje 
+kontrolujące określone obszary organizmu, przez co po 
+odtworzeniu budowy fizycznej musi nastąpić jeszcze od-
+tworzenie funkcjonalnych połączeń nerwowych [5–6].
+Rdzeń kręgowy zbudowany jest z istoty szarej oraz 
+istoty białej. Na przekroju poprzecznym rdzenia, zwra-
+ca uwagę istota szara położona centralnie, przyjmująca 
+kształt litery H (ryc. 3). Położona wokół niej jest istota 
+biała, która zawdzięcza swój kolor dużej zawartości mie-
+liny i zbudowana jest z aksonów długich dróg rdzenio-
+wych, oraz zawiera nieliczne komórki nerwowe. Drogi 
+nerwowe rdzenia kręgowego stanowią dwukierunkowy 
+system komunikacji. Drogi wstępujące przewodzą im-
+pulsy oraz wrażenia czuciowe z narządów obwodowych 
+do mózgu, drogi zstępujące przewodzą impulsy rucho-
+we z mózgu do narządów. Włókna nerwowe są specy-
+ficzne dla unerwianego obszaru organizmu oraz prze-
+kazywanej informacji nerwowej. Istota szara składa się 
+z nagromadzenia komórek nerwowych i w mniejszym 
+stopniu włókien dróg nerwowych. W tym miejscu na-
+stępuje połączenie impulsów nerwowych z długich dróg 
+nerwowych, biegnących z mózgu na aksony nerwów 
+obwodowych oraz w kierunku odwrotnym, tj. z ner-
+wów obwodowych na drogi rdzeniowe domózgowe. 
+Zarówno istota szara jak i biała zawierają szkielet 
+zbudowany przez komórki glejowe, stanowiące podsta-
+wowe utkanie podporowe tkanek centralnego układu 
+nerwowego. Astrocyty podpierają oraz otaczają neu-
+rony, zapewniają dla nich osłonę mechaniczną, a także 
+chemiczną budując barierę krew-mózg/rdzeń kręgowy, 
+która niemal całkowicie separuje ośrodkowy układ ner-
+wowy od składników krwi. Kolejną ważną grupą ko-
+mórek są oligodendrocyty, które otaczają i mielinizują 
+aksony w ośrodkowym układzie nerwowym [5, 6]. 
+Urazowe uszkodzenia  
+rdzenia kręgowego
+Najczęstszymi przyczynami urazów rdzenia krę-
+gowego są wypadki komunikacyjne lub upadki pod-
+czas pracy na wysokości, rzadziej aktywność sportowa 
+w szczególności wyczynowa, w tym niefortunne skoki 
+do wody, zranienia bezpośrednie kręgosłupa i rdzenia, 
+takie jak postrzały i rany kłute. Konsekwencją uszko-
+dzenia rdzenia kręgowego jest na ogół częściowy lub 
+całkowity paraliż, co wiąże się z dysfunkcją układu ru-
+chu i czucia przez całe życie [6–11]. Objawy kliniczne są 
+zależne od rozległości uszkodzenia w obrębie rdzenia, 
+topografii na przekroju poprzecznym oraz segmentu 
+na jakim uraz nastąpił. Charakter i przestrzenna loka-
+lizacja uszkodzenia rdzenia, uzależniona od segmentu 
+wywołują odmienne zespoły neurologiczne [12]. 
+Wyróżnia się dwa główne stopnie uszkodzenia rdze-
+nia kręgowego: całkowite i niecałkowite. Konsekwencją 
+całkowitego uszkodzenia rdzenia kręgowego, jest stan 
+zniesienia wszelkich fizjologicznych funkcji poniżej 
+określonego segmentu rdzenia, na którym nastąpił uraz. 
+Przejawia się to nieodwracalnym zniesieniem wszelkich 
+funkcji sensomotorycznych, a także zaburzeniami funk-
+cjonowania autonomicznego układu nerwowego. Obja-
+wy całkowitego uszkodzenia rdzenia, które utrzymują się 
+przez ponad dobę po urazie zazwyczaj są już nieodwra-
+calne. W przypadku niecałkowitego uszkodzenia rdzenia 
+kręgowego istnieją opisane różne zespoły neurologicz-
+Akson Onerwie Nanerwie
+Akson
+Śródnerwie
+Schemat przekroju nerwu obwodowego
+Przewężenie
+Ranviera
+Osłonka
+mielinowa
+Komórka
+Schwanna
+Ryc. 2. Schemat struktury nerwu obwodowego. Autorka 
+ryciny: Anna Lis
+Fig. 2. Scheme of peripheral nerve structure. Author of the 
+image: Anna Lis
+Asrocyty Istota biała Istota szara
+Szczątki mieliny
+Przerwany akson
+z dystrofią stożka
+wzrostowego
+Nienaruszony akson
+Cysta
+1.
+2.
+3.
+BBA
+Zdegenerowany akson
+Schemat poglądowy zdrowego (A) i uszkodzonego rdzenia kręgowego (B)
+Uskodzony oligodendrocyt
+Oligodendrocyty
+Osłonka mielinowa
+Nadaktywne astrocyty
+i blizna glejowa
+Akson
+Ryc. 3. Schemat zdrowego i uszkodzonego rdzenia kręgowe-
+go. Autorka ryciny: Anna Lis
+Fig. 3. Scheme of healthy and injured spinal cord. Author of 
+the image: Anna Lis
+Anna Lis i wsp.62
+ne, stanowiące grupy objawów wynikających z różnego 
+stopnia, mechanizmu, lokalizacji i rozległości uszkodze-
+nia rdzenia kręgowego, np. zespół centralnego uszkodze-
+nia rdzenia kręgowego, zespół Browna-Séquarda, zespół 
+tętnicy rdzeniowej przedniej, zespół połowiczego uszko-
+dzenia rdzenia, zespół sznurów tylnych, i inne [13–20].
+Podstawowe pierwotne mechanizmy urazowego 
+uszkodzenia rdzenia kręgowego to wstrząśnienie, stłucze-
+nie, zranienie, zmiażdżenie oraz uszkodzenia naczyniowe. 
+Stłuczeniu, zmiażdżeniu i uszkodzeniu naczyniowemu 
+towarzyszą zmiany mikrostruktury. Wtórne uszkodzenia 
+rdzenia kręgowego są wywołane przyczynami pozardze-
+niowymi oraz wewnątrzrdzeniowymi [21–25].
+Do przyczyn pozardzeniowych zaliczamy wstrząs 
+pourazowy i w jego wyniku spadek ciśnienia tętniczego 
+krwi, co powoduje niedotlenienie oraz niedokrwienie 
+tkanki nerwowej. Może wystąpić również ucisk rdze-
+nia kręgowego poprzez fragmenty kostne kręgosłupa. 
+Zmiany te najczęściej występują po niestabilnych zła-
+maniach kręgosłupa. Przyczyny wewnątrzrdzeniowe 
+wyjaśniane są na podstawie teorii Halla i Wolfa oraz 
+biochemicznego urazu wtórnego [21–25].
+Patofizjologia urazów rdzenia kręgowego objawia 
+się urazami pierwotnymi, czyli wystąpieniem nagłego 
+ucisku mechanicznego. Mechanizmy te początkowo 
+obejmują rozprzestrzenianie się krwotoku w miej-
+scu uszkodzenia, oraz apoptozy komórek nerwowych 
+ośrodkowego układu nerwowego. Następstwem pier-
+wotnych urazów rdzenia są wtórne urazy, przejawiają-
+ce się niedokrwieniem, hemostazą, wystąpieniem stanu 
+zapalnego oraz nekrozy komórek [26–33].
+Regeneracja rdzenia kręgowego 
+i nerwów obwodowych
+Regeneracja uszkodzonego nerwu obwodowego 
+(ryc. 2) jest zjawiskiem biologicznie skomplikowanym 
+jednak skutecznym. W układzie nerwowym obwodowym, 
+nerwy mogą regenerować się spontanicznie, a możliwo-
+ści regeneracyjne uzależnione są od stopnia uszkodzenia 
+opisywanego w skali Sunderlanda. Ciężkie uszkodze-
+nia z przerwaniem ciągłości nerwów muszą być leczo-
+ne operacyjnie [34, 35]. Pomimo, że uszkodzone nerwy 
+obwodowe mają zdolność do regeneracji, to po urazie 
+rdzenia kręgowego sytuacja jest bardziej dramatyczna. 
+Urazy w ośrodkowym układzie nerwowym są znacznie 
+bardziej skomplikowane [26–33]. Utrata czucia i funkcji 
+motorycznych po uszkodzeniach rdzenia kręgowego od 
+dawna uważane były za nieuleczalne, ze względu na nie-
+zdolność neuronów ośrodkowego układu nerwowego do 
+regeneracji ich aksonów. Badania wykazały, że mają one 
+jednak zdolności wewnętrzne do samoregeneracji, są one 
+jednak hamowane przez niesprzyjające środowisko. Ich 
+leczenie jest bardzo trudne, gdyż w strukturze rdzenia 
+kręgowego znajdują się liczne czynniki spowalniające, 
+lub wręcz uniemożliwiające jego odbudowę [26–33]. 
+Uszkodzenie nerwu w obwodowym systemie ner-
+wowym prowadzi początkowo do degeneracji typu 
+Wallera w części dystalnej aksonu, a następnie jego re-
+generacji. Dwa wymienione wyżej procesy mają miejsce 
+tylko wtedy, gdy ciało komórki nerwowej nie zostało 
+uszkodzone podczas urazu. Po przecięciu nerwu obwo-
+dowego powstają dwa kikuty: bliższy i dalszy względem 
+ciała komórki nerwowej. W kikucie dalszym, częściowo 
+też bliższym (degeneracja wstępująca) ciała neuronu 
+dochodzi do degeneracji pierwotnej, zwanej degenera-
+cją Wallerowską [33–37]. Zachodzi rozpad aksonu oraz 
+jego osłonki mielinowej. Zstępująca degeneracja aksonu 
+obejmuje wszystkie odgałęzienia i zakończenia, a także 
+osłonki mielinowe. Fragmenty aksonu są fagocytowane 
+przez makrofagi, co prowadzi do oczyszczenia obszaru 
+degeneracji. Makrofagi wydzielają także cytokinę – in-
+terleukinę 1, która stymuluje komórki Schwanna do 
+wydzielania czynnika wzrostu neuronów (NGF - nerve 
+growth factor). Syntetyzują one także błonowe gliko-
+proteiny, które stanowią słabo wiążące receptory dla 
+czynnika wzrostu. W kikucie bliższym krawędzie roze-
+rwanego aksonu łączą się i zamykają kikut bliższy. Re-
+zultatem jest wytworzenie tzw. kolbki końcowej. Ciało 
+komórki nerwowej zwiększa swoją objętość przygoto-
+wując się do syntezy białek koniecznych do odbudowy 
+utraconego odcinka aksonu. 
+Następnie dochodzi do regeneracji aksonu poprzez 
+wzrost mininóżek/filiposii ze stożka wzrostowego 
+w kierunku dystalnym. W tym samym czasie komórki 
+Schwanna (w obwodowym układzie nerwowym wy-
+twarzają osłonkę mielinową) ulegają wzbudzeniu i licz-
+nym podziałom, układają się kolejno wzdłuż osi długiej 
+nerwu tworząc kanały dla regenerujących aksonów. 
+Wzrastający akson ma na błonie komórkowej recepto-
+ry silnie wiążące czynnik wzrostu nerwów i wydłuża się 
+w kierunku źródła NGF, czyli kikuta dalszego i obec-
+nych w nim wzbudzonych komórek Schwanna produ-
+kujących NGF, co zapewnia szybki wzrost aksonu. Po 
+zakończeniu regeneracji ciało komórkowe komórki 
+nerwowej wraca do podstawowego stanu metabolicz-
+nego, a po kilku miesiącach wytworzone zostają osta-
+teczne synapsy końcowe [38–43].
+W ośrodkowym układzie nerwowym (ryc. 3) jest 
+to znacznie bardziej skomplikowany proces [44–46]. 
+Uszkodzenia tkanki nerwowej w centralnym układzie 
+nerwowym, ze szczególnym uwzględnieniem rdzenia 
+kręgowego, prowadzą do zmian przypominających te 
+mające miejsce w obwodowym systemie nerwowym 
+przez kilka pierwszych godzin. Dochodzi do wytworze-
+nia kikuta bliższego aksonu – kolbki wzrostowej z mi-
+ninóżkami wzrostowymi, degeneracji Wallerowskiej ki-
+kuta dalszego (anatomicznie w rdzeniu kręgowym oba 
+procesy są ze sobą wymieszane, gdyż po obu stronach 
+uszkodzenia leżą drogi wstępujące i zstępujące) [47]. 
+W późniejszym okresie proces regeneracji nie po-
+stępuje. Powodem zahamowania regeneracji nerwów 
+w centralnym układzie nerwowym jest szereg czynni-
+Biomateriały 63
+ków, m. in. obecność między wypustkami komórek sieci 
+proteoglikanów [48]. Makrocząsteczki te stanowią prze-
+szkodę dla wzrostu wypustek nerwowych. Po upływie 
+kilku godzin od uszkodzenia, kiedy komórki mikrogleju 
+rozpoczynają oczyszczanie obszaru urazu, dochodzi do 
+aktywizacji astrocytów. Ulegają one podziałowi i wy-
+dzielają w dużych ilościach kwaśne włókniste białka 
+glejowe (GFAB – glial fibrilliar acidic protein) mnożąc 
+się i tworząc bliznę glejową, a w konsekwencji tworzą 
+się cysty [49–51]. Proteoglikany, blizna glejowa blaszki 
+mielinowe i cysty stanowią mur nie do przebicia dla roz-
+rostu uszkodzonych włókien nerwowych [52–54]. Blizna 
+glejowa to gęsto upakowane astrocyty. Czynnikiem na-
+silającym uszkodzenie rdzenia kręgowego jest tzw. uraz 
+wtórny – wspomniany szereg mechanizmów kaskady 
+uszkodzenia naczyniowego, metabolicznego, elektrolito-
+wego i przy udziale wolnych rodników, które prowadzą 
+do powiększenia obszaru urazowego [55, 56]. 
+Po ustabilizowaniu się i zatrzymaniu powyższego 
+procesu następuje proces reparacji. W pierwszym eta-
+pie komórki mikrogleju i makrofagi naciekające miejsce 
+uszkodzenia usuwają martwą tkankę. Na jej obrzeżach 
+dochodzi do wzbudzenia kikutów uszkodzonych dłu-
+gich dróg rdzeniowych, podobnie do zjawisk obserwo-
+wanych w nerwach obwodowych. Wytworzone zostają 
+kolbki wzrostowe i mininóżki/filipodia, które przez 
+niewielki odcinek (poniżej 1 mm) prowadzą wzrost. 
+W wyniku usunięcia przez mikroglej zniszczonej tkanki 
+powstaje jama syringomieliczna. Na jej ścianach w wy-
+niku opisanego powyżej rozplemu astrocytów wytwa-
+rza się blizna glejowa, stanowiąca litą ścianę na granicy 
+uszkodzenia rdzenia kręgowego. Kolejnymi czynnikami 
+są białka z grupy NOGO - produkty rozpadu mieliny. 
+Blokują one wtórnie wzrost aksonów podobnie do jamy 
+syringomielicznej i blizny glejowej [55–56]. 
+Uważa się, że powyższe mechanizmy hamowania 
+ośrodkowej neuroregeneracji mogą być ewolucyjnym 
+czynnikiem zabezpieczającym. Jedna z teorii mówi, że 
+wysoki stopień organizacji anatomiczno-funkcjonalnej 
+rdzenia kręgowego powoduje, że w przypadku rege-
+neracji istnieje ryzyko masowych błędnych reinerwa-
+cji – przypadkowego wzrastania włókien nerwowych 
+w niewłaściwe kanały oligodendrocytowe i wytwarza-
+nia niefizjologicznych połączeń w drogach nerwowych. 
+Powyższy fakt stwarza dodatkową trudność w pracach 
+nad uzyskaniem ośrodkowej neuroregeneracji [55–57]. 
+Oczywiście jest wiele innych niezliczonych czynników 
+ograniczających regenerację ośrodkowego układu ner-
+wowego po urazach nie wymienionych powyżej.
+Cele regeneracji  
+rdzenia kręgowego
+Jak wspomniano absencja spontanicznej regene-
+racji uszkodzonego rdzenia kręgowego, jest spowo-
+dowana ograniczoną zdolnością ośrodkowego układu 
+nerwowego ssaków do przywrócenia funkcjonalnych 
+połączeń neuronalnych. Na podstawie wyżej opisanych 
+zjawisk neurodegeneracji, możliwości regeneracyjnych 
+i implikacji anatomiczno-fizjologicznych widać, jak 
+wielopłaszczyznowe są mechanizmy odpowiedzialne za 
+stymulacje i hamowanie różnorodnych procesów, za-
+chodzących w tkance nerwowej rdzenia kręgowego po 
+urazie. Wydaje się, że zablokowanie przynajmniej nie-
+których z nich może zmniejszyć liczbę obumierających 
+komórek nerwowych i wzbudzić procesy regeneracyjne 
+uszkodzonej tkanki nerwowej [1–3, 58, 59].
+Głównym celem eksperymentów skierowanych na 
+uzyskanie regeneracji uszkodzonego rdzenia kręgowe-
+go jest usunięcie przeszkód, takich jak jama pourazowa 
+i blizna glejowa oraz pourazowych stanów zapalnych 
+i obrzęków. Ponadto po zaistnieniu regeneracji aksonów 
+konieczna jest stymulacja ich demielinizacji, ponieważ 
+po urazach rdzenia kręgowego obserwuje się brak neu-
+rotroficznego wpływu oligodendrocytów na uszkodzo-
+ne komórki nerwowe ośrodkowego układu nerwowego. 
+Ostatecznym efektem regeneracji musi być odtworzenie 
+dróg nerwowych istoty białej, istotne dla przywrócenia 
+komunikacji pomiędzy ośrodkowym i obwodowym 
+układem nerwowym i w konsekwencji restytucji funk-
+cji sensorycznych oraz motorycznych. Bardzo ważnym 
+aspektem w związku z tym, jest wspomaganie ukierun-
+kowanej regeneracji aksonów [1–3, 58, 59].
+Poza wykorzystaniem możliwości leczenia farma-
+kologicznego, transplantów nerwów obwodowych, 
+komórek terapeutycznych, takich jak komórki ma-
+cierzyste czy glejowe komórki węchowe, prowadzi się 
+badania nad zastosowaniem implantów biomateriało-
+wych. Poniżej przedstawione są wymagania stawiane 
+biomateriałom i wybrane terapie eksperymentalne, wy-
+korzystujące materiały polimerowe do wspomagania 
+regeneracji tkanki nerwowej i przywrócenia utraconych 
+funkcji sensomotorycznych po urazie rdzenia kręgowe-
+go [1–3, 58, 59].
+Materiały wspomagające 
+regenerację uszkodzonego 
+rdzenia kręgowego
+W ostatnich latach rozwinęła się koncepcja zastoso-
+wania rusztowań polimerowych, w celu wspomagania 
+neuroregeneracji i przywrócenia funkcji neurologicznych 
+po urazie rdzenia kręgowego [1–3, 58, 59]. Nieobecność 
+fizycznego połączenia uniemożliwia regenerację akso-
+nów rdzeniowych. W związku z powyższym, konieczne 
+jest uzupełnienie ubytków rdzenia kręgowego za pomocą 
+implantów biomateriałowych [1–3, 58, 59].
+Rusztowania polimerowe mają za zadanie stworze-
+nie sztucznej macierzy pozakomórkowej, która będzie 
+szkieletem dla kolonizujących ją komórek i regenerują-
+cych aksonów. Zadaniem tych komórek jest umożliwie-
+Anna Lis i wsp.64
+nie przerostu aksonów przez miejsce ubytku rdzenia, 
+a także odtworzenie osłonek mielinowych. Równo-
+ległym celem implantu jest wspomaganie odbudowy 
+zniszczonych naczyń krwionośnych [60–63]. Według 
+doniesień literaturowych do konstrukcji pomostów 
+stosowanych in vitro i in vivo, wykorzystuje się zarów-
+no polimery biodegradowalne/bioresorbowalne i nie-
+degradowalne pochodzenia naturalnego, jak i synte-
+tycznego w postaci różnorodnych wszczepów [60–63]. 
+Poszczególne materiały charakteryzują się odmiennymi 
+właściwościami i mogą być wykorzystywane na różnych 
+etapach neuroregeneracji rdzenia kręgowego. 
+W dalszym ciągu jednak istnieje konieczność opra-
+cowania nowej kompozycji materiałowej oraz skonstru-
+owania formy implantu, odpowiedniej do uzupełnienia 
+ubytku rdzenia kręgowego i wspomagania regeneracji 
+tkanki nerwowej w jego obrębie. Wzrost aksonów mo-
+że być wspomagany poprzez wewnętrzne właściwości 
+wybranego polimeru, architektury implantu czy właści-
+wości jego mikrostruktury takich jak pory, kanaliki lub 
+włókna polimerowe, a nawet modyfikacje powierzchni 
+dla zapewnienia lepszej integracji z przerastającą tkan-
+ką i rozwoju aksonów [60–64].
+Niezależnie od źródła pochodzenia, materiał mu-
+si posiadać właściwości warunkujące jego prawidłowe 
+działanie w organizmie żywym. Poniżej opisane zostały 
+najważniejsze cechy jakimi powinien cechować się ma-
+teriał biomedyczny.
+Biokompatybilność. Dużą trudnością podczas se-
+lekcji optymalnego biomateriału jest niewiedza o jego 
+biotolerancji w środowisku tkanek i płynów ustrojo-
+wych. Zgodność biologiczna, jest zbiorem właściwości 
+warunkujących wykorzystanie biomateriału, jako ele-
+mentu współpracującego z organizmem żywym. Bio-
+materiały i pozostałości środków stosowanych podczas 
+produkcji, powinny przede wszystkim charakteryzować 
+się wysoką biotolerancją. Materiał powinien być nie-
+toksyczny, mieć neutralny wpływ na układ immunolo-
+giczny. Biomateriał nie powinien również implikować 
+działania hemolitycznego, ani wpływać na krzepliwość 
+krwi [65–69]. 
+Biozgodność z rdzeniem kręgowym jest trudniejsza 
+do określenia w porównaniu do innych organów, gdyż 
+wiąże się z niespecyficznym oddziaływaniem tego śro-
+dowiska biologicznego na materiał. Ośrodkowy układ 
+nerwowy uważany jest za uprzywilejowany pod wzglę-
+dem immunologicznym m.in. z powodu występowa-
+nia szczelnej bariery krew-rdzeń kręgowy. W związku 
+z powyższym, odpowiednio określony skład i czystość 
+chemiczna biomateriału stanowią istotny czynnik decy-
+dujący o jego biotolerancji [65–69]. 
+Biodegradowalność/Bio-
+resorbowalność. Biodegra- 
+dacja/Bioresorbowalność biomateriału w wyniku dzia-
+łania środowiska biologicznego jest istotnym czynni-
+kiem, warunkującym użyteczność materiału do zastoso-
+wań w medycynie. Przed prognozowaniem zachowania 
+implantu w tkankach, kinetyka degradacji biomateriału 
+musi być odpowiednio poznana. Typowym sygnałem 
+do degradacji polimeru może być zmiana pH, tempera-
+tury lub składu chemicznego środowiska [65–71].
+W przypadku zastosowania pod postacią implan-
+tu tempo biodegradacji materiału musi być z skore-
+lowane z szybkością regeneracji włókien nerwowych. 
+Materiał wykonany z polimeru biodegradowalnego 
+powinien ulegać degradacji proporcjonalnie do wzro-
+stu tkanki nerwowej. Rozkład materiału w wyniku spe-
+cyficznej aktywności biologicznej systemu nerwowego 
+niekoniecznie może mieć charakter stopniowy, taki jak 
+opisany in vitro oraz w badaniach in vivo po implan-
+tacji w innych tkankach. Może się zdarzyć, że zostanie 
+ona przyspieszona poprzez wodne środowisko płynu 
+mózgowo-rdzeniowego lub aktywność wzrastających 
+aksonów i odkładanie elementów macierzy zewnątrz-
+komórkowej wspierającej centralny układ nerwowy, 
+a także terapeutyczne linie komórek rozmieszczonych 
+w rusztowaniu [65–71].
+Produkty biodegradacji. Należy spodziewać się 
+odmiennych, niż w innych narządach, procesów elimi-
+nacji produktów degradacji biomateriału, ze względu na 
+nietypowe środowisko centralnego układu nerwowego. 
+Rdzeń kręgowy jest zanurzony w płynie mózgowo-
+rdzeniowym, który podlega stałej dobowej wymianie. 
+Czterokrotna wymiana płynu rdzeniowo-mózgowego 
+w ciągu doby może zwiększyć tempo biodegradacji. 
+Ośrodkowy układ nerwowy jest również oddzielony 
+od reszty organizmu przez barierę krew-mózg/rdzeń 
+kręgowy. Wymieniona bariera fizyczna i biochemicz-
+na zabezpiecza przed działaniem szkodliwych czynni-
+ków, a także umożliwia selektywny transport substancji 
+z krwi do płynu rdzeniowo-mózgowego. Białka, które 
+mogłyby uszkodzić tkankę nerwową są zatrzymywane 
+przez barierę, tym samym nie będą miały możliwości 
+oddziaływania z implantem biomateriałowym oraz 
+produktami jego degradacji [38–42].
+Cytotoksyczność. Biomateriał i produkty jego roz-
+kładu nie mogą być toksyczne i alergizujące względem 
+komórek tkanki nerwowej lub ogólnoustrojowo cyto-
+toksyczne. Ważne jest ponadto nie wywoływanie reak-
+cji immunologicznych, które mogłyby prowadzić do 
+rozprzestrzeniania się blizny glejowej i być destrukcyj-
+ne zarówno dla samego materiału, jak i regenerującej 
+się tkanki nerwowej [71].
+Właściwości mechaniczne. Parametry mecha-
+niczne, m.in. wytrzymałość na rozciąganie i ściskanie, 
+moduł elastyczności odpowiadają za zdolność utrzy-
+mania struktury i przyczyniają się do możliwości jego 
+zastosowania klinicznego. Odpowiednio dobrany ze-
+spół własności mechanicznych materiału, zapewniający 
+bezpieczną i niezawodną współpracę układu implant-
+tkanka nerwowa-płyn ustrojowy, w którym realizowa-
+ny będzie biofizyczny mechanizm obciążeń stanowi 
+fundament. Znajomość właściwości mechanicznych 
+struktur tkankowych oraz stanu obciążeń i odkształceń 
+Biomateriały 65
+w układzie implant-tkanka nerwowa, musi opierać się 
+na przesłankach biomechanicznych zrostu [66, 67, 72]. 
+Rozważać należy jednocześnie biomechanikę na 
+etapie przygotowań implantu, jak i po implantacji. 
+Implant/materiał powinien posiadać porównywalne 
+właściwości mechaniczne w odniesieniu do biomecha-
+niki rdzenia kręgowego. Ze względu na znaczną wraż-
+liwość rdzenia kręgowego na ucisk, implant powinien 
+minimalizować napięcia na granicy implant-tkanka 
+nerwowa rdzenia kręgowego. Ucisk może być przy-
+czyną rozwoju reaktywnej blizny glejowej, która może 
+paradoksalnie oddzielić implant od rdzenia kręgowego 
+i zablokować regenerację włókien nerwowych. Bioma-
+teriał konstrukcyjny powinien być miękki, elastyczny, 
+a zarazem wytrzymały na duże wychylenia występujące 
+w obrębie kręgosłupa i rdzenia kręgowego podczas jego 
+ruchów [66, 67, 72]. 
+Geometria. Kontynuując rozważania na kanwie 
+uwarunkowań biomechanicznych i anatomicznych, im-
+plant powinien mieć określone optymalne cechy geo-
+metryczne. Implant powinien być uniwersalny w użyt-
+kowaniu, a jednocześnie uwzględniać rozmiary i kształt 
+pourazowego ubytku. Wymiary geometryczne powin-
+ny być tak dopasowane, by nie powodować podrażnień 
+i ucisku tkanki nerwowej, czyli spełniać warunki tole-
+rancji na drażnienie mechaniczne tkanki [66, 67].
+Mikrostruktura. Porowatość materiału jest waż-
+ną cechą hipotetycznego implantu. Ciągła porowata 
+struktura ściśle naśladująca wewnętrzne właściwości 
+strukturalne i mechaniczne tkanki, może zapewnić 
+lepsze warunki dla regeneracji. Odpowiednio dobrany 
+rozmiar porów jest istotny dla dostępu molekularnego. 
+Istnieje możliwość dostarczania tlenu i substancji od-
+żywczych i jednocześnie możliwość usuwania produk-
+tów przemiany materii. Przepuszczalność rusztowania 
+dla komórek o różnych wymiarach jest bardzo istot-
+nym czynnikiem. Duża porowatość, a tym samym po-
+wierzchnia właściwa jest niezbędna dla zdolności przy-
+łączania się i wspomagania migracji komórek poprzez 
+strukturę rusztowania. Materiał porowaty pozwala tak-
+że na unaczynienie regenerującej się tkanki. Przyczynia 
+się również do stabilności połączenia tkanka-implant. 
+Jednocześnie materiał porowaty dzięki mniejszej gęsto-
+ści w porównaniu do litego materiału, czyni go bardziej 
+lekkim i zarazem atrakcyjniejszym [66, 67, 73–74]. 
+Nanostruktura. Zastosowanie nanostruktur po-
+zwala na uzyskanie implantów o nowych właściwo-
+ściach, nieosiągalnych dla tradycyjnych rusztowań 
+biomateriałowych z mikrostrukturą. Zmniejszając wy-
+miary podstawowe znanych biomateriałów, polimerów 
+konstrukcyjnych, można otrzymać lepsze właściwości 
+fizykochemiczne, mechaniczne, biologiczne, itp. Na 
+przykład implanty z nanowłókienek polimerowych mo-
+gą zwiększyć zdolność do adhezji komórek. Pozwalają 
+także na stworzenie biomimetycznych matryc polime-
+rowych, naśladujących strukturę macierzy pozakomór-
+kowej [75–79].
+Ukierunkowana regeneracja. Ukierunkowana 
+regeneracja jest jednym z najważniejszych aspektów 
+w regeneracji tkanki nerwowej centralnego układu 
+nerwowego. Dotychczasowe badania wskazują, ze od-
+rost aksonów powinien być ukierunkowany. Ustalony 
+przez implant wzrost regenerujących się aksonów rdze-
+nia kręgowego powinien następować w sposób jedno-
+osiowy. Włókna nerwowe regenerujące chaotycznie, 
+nie pozwalają na przywrócenie przerwanych połączeń 
+neuronalnych i niekorzystnie wpływają na ogólne pro-
+cesy naprawcze. Struktura implantu powinna zawierać 
+zorientowane jednokierunkowe włókna lub kapilary, 
+w celu umożliwienia ukierunkowanego wzrostu komó-
+rek nerwowych [80, 81]. 
+Nasiąkliwość/Pęcznienie. Zdolność do wchłania-
+nia płynów przez dany materiał jest również istotnym 
+czynnikiem. Elementy implantu nie powinny powo-
+dować ucisku na tkankę żywą biorcy. Stopień w jakim 
+materiał pęcznieje w środowisku wodnym jest ważny, 
+ze względu na możliwość ucisku na regenerujące akso-
+ny. Uwzględnić należy zmianę objętości materiału pod 
+wpływem substancji żelującej, a także płynów fizjolo-
+gicznych w przypadku materiałów żelujących in situ 
+oraz gąbczastych. Z tych względów proporcje substan-
+cji wyjściowych w przypadku materiałów żelujących in 
+situ muszą być odpowiednio wyliczone [82, 83].
+Szybkość żelowania. Rozważając możliwość wy-
+korzystania formy hydrożelu żelowanego in situ pod-
+czas zabiegu operacyjnego, należy przeanalizować także 
+szybkość/czas żelowania materiału [83].
+Właściwości powierzchni. Na powierzchni styku 
+implant-tkanka występują wzajemne oddziaływania 
+m. in. z komórkami, białkami oraz płynami fizjolo-
+gicznymi. Procesy mają naturę molekularną i dotyczą 
+zarówno małych jak i dużych cząsteczek. Optymalna 
+struktura implantu powinna charakteryzować się od-
+powiednią powierzchnią pod względem chemicznym 
+i topograficznym. Takie cechy jak hydrofobowość/hy-
+drofilowość, chropowatość są znaczące dla możliwości 
+potencjalnego kolonizowania implantu liniami komó-
+rek terapeutycznych, lub modyfikacji powierzchniowej 
+np. białkami, dobranymi do właściwości specyficznych 
+dla układu nerwowego [84, 85].
+Sterylizacja. Implant nie tylko powinien być czy-
+sty pod względem chemicznym, ale i biologicznym. 
+Implant powinien być jałowy, nie zawierać żadnych 
+mikroorganizmów oraz ich form przetrwalnikowych. 
+Z powyższych względów materiał konstrukcyjny powi-
+nien umożliwiać łatwą i skuteczną sterylizację. Metody 
+sterylizacji nie mogą mieć zarazem wyraźnego wpływu 
+na właściwości fizykochemiczne implantu [86].
+Poręczność chirurgiczna. Łatwość użytkowania 
+i uzupełnienia ubytków tkanki są konsekwencją takich 
+cech jak, giętkość, elastyczność, gładkość, sprężystość, 
+wytrzymałość na ściskanie biomateriału. Właściwości 
+implantu muszą być dobrane również do odpowied-
+nio opracowanej metody implantacji chirurgicznej. 
+Anna Lis i wsp.66
+Uwzględnić należy prostą procedurę implantacji. Naj-
+bardziej oczekiwana jest forma ostateczna implantu nie 
+wymagająca obróbki mechanicznej w trakcie zabiegu. 
+Ocenić należy przydatność do przeprowadzenia operacji 
+z zastosowaniem technik mikrochirurgicznych [66, 67].
+Określenie flagowych własności użytkowych bio-
+materiału wyżej wypunktowanych tylko na gruncie 
+przesłanek anatomicznych, fizjologicznych czy też 
+biochemicznych nie jest adekwatne do rozpoznanych 
+struktur i procesów na innych poziomach [82]. Przy-
+toczone własności korespondują bezpośrednio z zacho-
+dzącymi w organizmie procesami m. in. metaboliczny-
+mi oraz immunologicznymi. Uogólniając specyficzne 
+własności biomateriału konstrukcyjnego, równocześnie 
+należy włączyć do rozważań poziom struktur submo-
+lekularnych i zjawisk bioelektrycznych zachodzących 
+w układzie nerwowym, a także ogólnie w całym organi-
+zmie żywym [66, 67]. 
+Polimery naturalne
+Polimery naturalne stosowane w implantach do 
+regeneracji rdzenia kręgowego to przede wszystkim 
+włókniste białka oraz polisacharydy, które formują hy-
+drożele. Polimery te posiadają zdolność funkcjonalnego 
+lub strukturalnego wspierania macierzy zewnątrzko-
+mórkowej. Hydrożele polimerowe są atrakcyjnym ma-
+teriałem do zastosowań w rdzeniu kręgowym. Tworzą 
+one usieciowane żele z nierozpuszczalnych włókien po-
+limerowych, przez które woda może swobodnie prze-
+pływać. Mają zdolność do pęcznienia lub kurczenia się 
+w zależności od zawartości wody. Są mikroporowate, 
+miękkie, pozwalają łatwo adherować i migrować ko-
+mórkom, a produkty przemiany materii są łatwo wy-
+mieniane. Mogą łatwo dopasowywać się do kształtu 
+ubytku tkanek, ich elastyczność i biodegradowalność 
+może być regulowana poprzez zmianę odpowiednich 
+parametrów. Jako składniki macierzy pozakomórko-
+wej ECM głównie są stosowane w rdzeniu kręgowym: 
+kolagen i kwas hialuronowy. Stosuje się również takie 
+polimery jak agaroza, alginiany, chitozan czy metylo-
+celulozę [87–90].
+Alginiany
+Alginiany są biodegradowalnymi polisacharydami 
+szeroko stosowanymi w medycynie, szczególnie w chi-
+rurgii rekonstrukcyjnej i plastycznej oraz w inżynierii 
+tkankowej. Alginiany są wykorzystywane w inżynierii 
+tkanki chrzęstnej, kostnej, mięśniowej (mięśnie gład-
+kie), tkanki nerwowej oraz wątroby, jako trójwymiaro-
+we substytuty do wypełnienia ubytków, nośniki leków 
+oraz podłoża do hodowli komórek. Najczęściej są wy-
+korzystywane do immobilizacji komórek, szczególnie 
+gdy wymagane są łagodne warunki, ponieważ łatwo 
+ulegają żelowaniu pod wpływem dwuwartościowych 
+kationów [91–97]. Alginiany są obiecującym materia-
+łem hydrożelowym do implantacji nerwowych komó-
+rek macierzystych, ponieważ prezentują znakomitą 
+kompatybilność z centralnym układem nerwowym 
+w warunkach in vivo [98]. Jedną z wad hydrożeli algi-
+nianowych jest szybka degradacja w miejscu implanta-
+cji, czy też w warunkach in vitro. 
+W związku z powyższym często łączy się alginiany 
+z innymi biomateriałami lub poddaje się je dodatko-
+wemu sieciowaniu, w celu poprawienia ich stabilności 
+w warunkach in vitro oraz in vivo [99]. Alginiany, mogą 
+być z łatwością stosowane w regeneracji nerwów obwo-
+dowych, jak i tkanki nerwowej ośrodkowego układu 
+nerwowego. Ashton i in. [100] prowadząc badania nad 
+hydrożelami alginianowymi, zbadali wpływ właściwości 
+mechanicznych hydrożeli na komórki macierzyste. Za-
+chowanie nerwowych komórek macierzystych enkap-
+sulowanych w trójwymiarowych matrycach z hydrożelu 
+alginianowego, było badane pod kątem ich zdolności do 
+proliferacji i różnicowania się w funkcji zmian modułu 
+Younga. Szybkość proliferacji macierzystych komórek 
+nerwowych maleje wraz ze wzrostem modułu elastycz-
+ności hydrożeli, a optymalna wartość modułu elastycz-
+ności może zależeć od typu komórek [100]. Matsuura 
+i wsp. [101] w swoich badaniach nad regeneracją ner-
+wów obwodowych, wykorzystali hydrożelowe gąbki na 
+bazie usieciowanego alginianu. 
+Badania wykazały, że alginianowe żele z łatwością 
+wypełniają ubytki oraz wspomagają regenerację ner-
+wów. Doświadczenia nad regeneracją nerwów obwo-
+dowych z wykorzystaniem implantów alginianowych 
+pokazują, że mogą stanowić one dobry materiał do re-
+generacji tkanki rdzenia kręgowego [101]. Do regenera-
+cji uszkodzonego rdzenia kręgowego dorosłego szczura 
+w odcinku piersiowym, zespół Suzuki [102] wykorzystał 
+gąbki alginianowe ze ścieżkami pokrytymi peroksydazą 
+chrzanową. Po czterech miesiącach po implantacji gąbek 
+alginianowych na długości 3 mm, zaobserwowano wie-
+le wstępujących i zstępujących regenerujących włókien 
+wrastających w implant alginianowy. Zaznaczyć należy 
+jednak, że włókien zstępujących było mniej niż wstępują-
+cych. Także te rezultaty sugerują, że alginiany mogą być 
+obiecującym materiałem do wspomagania regeneracji 
+aksonów w uszkodzonym rdzeniu kręgowym [102]. 
+Prang i wsp. opracowali implant hydrożelowy na ba-
+zie alginianu sodu z jednokierunkowo zorientowanymi 
+kanalikami (ACH). Równoległe kapilary wprowadzono 
+w celu ukierunkowania wrastających aksonów w uszko-
+dzonym rdzeniu kręgowym szczurów. Wstępne badania 
+in vitro przeprowadzone były na niezmodyfikowanym 
+materiale, natomiast do badań in vivo dodatkowo wpro-
+wadzone zostały różne składniki substancji międzyko-
+mórkowej. Bazując na rezultatach in vitro [103] implant 
+został przebadany na zwierzęcym modelu uszkodzonego 
+rdzenia kręgowego. Rdzeń kręgowy szczura został prze-
+cięty w części grzbietowej, gdzie wprowadzono hydroże-
+Biomateriały 67
+le alginianowe. Hydrożel wykonany na bazie alginianu 
+z anizotropowymi kapilarami na całej długości z małą 
+porowatością stymulował regenerację aksonów. Równo-
+ległe kapilary wspomogły ukierunkowany odrost akso-
+nów poprzez implant [103]. 
+Zespół Pawara i Pranga kontynuując swoje badania 
+nad implantami ACH, które wspomagały zorientowaną 
+regenerację aksonów CNS w warunkach in vitro oraz 
+in vivo wprowadzili kanaliki o różnej średnicy. Zbadali 
+wpływ wielkości kapilar i dodatku żelatyny na regene-
+rację aksonów oraz komórki Schwanna. Wrastanie ak-
+sonów do hydrożelu w obecności komórek Schwanna 
+było efektywniejsze wraz ze wzrostem średnicy kapilar. 
+Dodatek żelatyny nie powodował znaczącego wzrostu 
+gęstości aksonów, natomiast obserwowano wydłużenie 
+się aksonów w kanalikach [104].
+Agaroza
+Większość strategii mających na celu regenerację 
+aksonów uszkodzonego rdzenia kręgowego opiera się 
+na strukturach, powodujących ogólnie niezorganizo-
+wany, wielokierunkowy wzrost aksonów. Biokompaty-
+bilne matryce, które wspomagają ukierunkowaną rege-
+nerację aksonów poprzez uszkodzone miejsce rdzenia, 
+są kluczowe do jego prawidłowej regeneracji. Stokolos 
+i in. [105, 106] opracowali nowe implanty agarozowe 
+z równoległymi kanałami o sprecyzowanej średnicy 
+i grubości ścian na całej długości konstrukcji. Implanty 
+przetestowano w warunkach in vivo na modelu zwie-
+rzęcym. Rezultaty wykazały bardzo dobrą integrację 
+z tkanką gospodarza i wsparcie dla liniowego wzrostu 
+aksonów wzdłuż kanałów. Implanty wzbogacone w ko-
+mórki szpiku kostnego zmodyfikowane genetycznie 
+tak, by wytwarzały neurotroficzny czynnik pochodze-
+nia mózgowego, wykazywały jeszcze lepsze właściwo-
+ści neurodegeneracyjne, w porównaniu do niezmody-
+fikowanego wszczepu. Obserwowano zwiększenie się 
+liczby liniowo penetrujących implant agarozowy akso-
+nów [105–106]. 
+Badania na modelu zwierzęcym z użyciem implan-
+tów agarozowych z równoległymi kanalikami były kon-
+tynuowane tak, by uzyskać wzrost aksonów w i poza 
+miejscem uszkodzenia. Przecięte zostały wstępujące ak-
+sony czuciowe od strony grzbietowej rdzenia kręgowego 
+w odcinku szyjnym. Zastosowano kombinowaną tera-
+pię m. in. z autologicznymi komórkami szpiku kostne-
+go, wytwarzającymi czynnik wzrostu – neurotrofinę -3 
+(NT-3). Matryce agarozowe zawierające zorientowane 
+kanaliki, zwiększały o prawie 85% ukierunkowany prze-
+rost aksonów na całej długości implantu umiejscowio-
+nego w ubytku tkanki nerwowej rdzenia, w porównaniu 
+do matryc z nieuporządkowaną strukturą. Jakkolwiek 
+czynne komórki, które formowały się na granicy po-
+wierzchni implantu z tkanką rdzenia kręgowego ograni-
+czały regenerację, co pozostaje w związku z obserwacja-
+mi roli blizny glejowej w miejscu uszkodzenia rdzenia 
+kręgowego [107]. Zespół Zuidemy przeanalizował dek-
+stran i chitozan wprowadzony do hydrożelu z blendy 
+metylocelulozy i agarozy. Hodowle neuronów pocho-
+dzących z kory mózgu na hydrożelach wykazały bardzo 
+dobrą kompatybilność z komórkami nerwowymi. Re-
+zultaty pokazały również, że miękkie hydrożele polisa-
+charydowe pozwalają na lepszą przyczepność komórek 
+i rozprzestrzenianie się wrastających aksonów [108].
+Chitozan
+W pracy Cromptona [109] opisano zachowanie 
+się mysich komórek nerwowych pochodzących z kory 
+mózgu. Hodowane były na dwu- i trójwymiarowych 
+podłożach z hydrożeli wykonanych na bazie chitozanu 
+z glicerofosforanem. Biokompatybilność dwuwymia-
+rowych hydrożeli określono na podstawie liczebności 
+komórek oraz liczby neurytów na komórkę. Osmolar-
+ność hydrożelu miała znaczący wpływ na żywotność 
+komórek nerwowych. Izotoniczne stężenie glicerofos-
+foranu było najbardziej optymalne dla komórek. Aby 
+poprawić adhezję komórek oraz zdolności aksonów do 
+wzrostu dodano poli-D-lizyny (PDL). Dodatek PDL 
+poprawiał żywotność komórek. Otrzymane rezultaty 
+wskazują na możliwość zastosowania chitozanu z glice-
+rofosforanem, jako materiału do konstrukcji implantu 
+wspomagającego regenerację tkanki nerwowej [109]. 
+Nerwowe komórki macierzyste (NSC) są obecnie bada-
+ne jako kandydat komórkowy do regeneracji zarówno 
+rdzenia kręgowego, jak i nerwów obwodowych [110]. 
+Kultury płodowych szczurzych nerwowych komórek 
+macierzystych z wykorzystaniem chitozanu posłużyły 
+do oceny powinowactwa materiału z komórkami. Ma-
+teriały wykonano metodami odlewania i liofilizacji oraz 
+wyplatania. 
+Rezultaty pokazały, że nerwowe komórki macierzy-
+ste dobrze rosną i proliferują na foliach chitozanowych. 
+Większość z nich różnicowała się do komórek nerwo-
+wo-podobnych po czterech dniach hodowli. Implanty 
+chitozanowe nie wykazywały działania toksycznego na 
+komórki. Przewody z liofilizowanego chitozanu były 
+bardziej miękkie i elastyczne w porównaniu do plecio-
+nych, te drugie posiadały jednak lepsze właściwości me-
+chaniczne. Te właściwości wskazują na możliwość za-
+stosowania tego typu materiałów do regeneracji tkanki 
+nerwowej, w zakresie nerwów obwodowych jak i rdze-
+nia kręgowego [110]. 
+Do badań in vivo z użyciem chitozanu, zespół Mo 
+wykorzystał model zwierzęcy z mechanicznym uszko-
+dzeniem tkanki nerwowej w obrębie hipokampa u do-
+rosłego szczura. W miejsce ubytku wszczepiono kon-
+strukcję chitozanową wypełnioną neurotrofiną NT-3 
+oraz dla porównania czysty materiał. Rezultaty poka-
+zały, że chitozanowa matryca wypełniona NT-3 stymu-
+luje regenerację na stosunkowo dużym obszarze tkan-
+Anna Lis i wsp.68
+ki nerwowej mózgu, w którym zaobserwowano nowe 
+włókna nerwowe oraz komórki neuropodobne, efektem 
+czego była poprawa funkcji poznawczych. Badania te 
+wykazały, iż matryca chitozan/NT-3 jest materiałem 
+o dużej biozgodności [111]. Dalsze badania zespołu Mo 
+i Yanga [112], były skupione na określeniu optymalne-
+go stężenia NT-3 w formie rozpuszczalnej lub immo-
+bilizowanej w matrycy chitozanowej, która wspierałaby 
+żywotność, proliferację nerwowych komórek macierzy-
+stych i indukowała ich różnicowanie do określonych 
+typów komórek. NSC były hodowane w matrycach chi-
+tozanowych z różną ilością neurotrofiny-3. 
+Przeprowadzone analizy wykazały, że znacząca 
+redukcja dodatku NT-3 jest wymagana do wspomaga-
+nia przeżywalności, proliferacji oraz różnicowania się 
+NSCs w warunkach in vitro. Materiał chitozanowy sam 
+w sobie dowodzi wewnętrznych idealnych właściwości 
+do budowy trójwymiarowych konstrukcji. Wyniki tych 
+doświadczeń stwarzają nowe możliwości wzmocnienia 
+działania komórek macierzystych in vitro i zastąpienia 
+utraconej tkanki nerwowej jej komórkami. Jednocze-
+śnie istnieje możliwość minimalizacji ilości wykorzy-
+stywanych czynników neurotroficznych, potrzebnych 
+do terapii transplantacyjnych w obrębie tkanki nerwo-
+wej mózgu i rdzenia kręgowego [112].
+Fibronektyna  
+oraz Fibryna-Fibrynogen
+Polimery pochodzące z krwi, stanowią potencjalny 
+materiał do konstrukcji struktur dwu- i trójwymiaro-
+wych do regeneracji rdzenia kręgowego. Fibrynogen 
+jest rozpuszczalną glikoproteiną pochodzącą z oso-
+cza, syntetyzowaną przez wątrobę i jest przetwarzany 
+w wyniku działania trombiny w fibrynę. Fibryna jest 
+włóknistą, nieglobularną proteiną wchodzącą w skład 
+tworzących się skrzepów krwi [113–116]. Fibronektyna 
+jest glikoproteiną adhezyjną powszechnie obecną m.in. 
+na powierzchni komórek. Materiały z fibronektyny są 
+wykorzystywane w różnych formach jako substraty do 
+inżynierii tkankowej. Agregaty rozpuszczalnych prote-
+in zawartych w nierozpuszczalnej włóknistej strukturze 
+wspomagają adhezję i migrację komórek [113–116]. 
+Przydatność materiału fibrynowego do regeneracji cen-
+tralnego układu nerwowego sprawdził Philiphs [117] 
+w badaniach in vitro przy użyciu fibroblastów, komó-
+rek Schwanna oraz immunoreaktywnych astrocytów. 
+Rezultaty badań in vitro wykazały, że materiał pomo-
+stujący stwarza sprzyjające warunki do ukierunkowa-
+nego wzrostu aksonów w uszkodzonej tkance nerwowej 
+w centralnym układzie nerwowym [117]. 
+Maty na bazie fibronektyny zawierające liniowo 
+zorientowane włókna, zostały przebadane przez Kin-
+ga [118] pod kątem ich zdolności do wspomagania 
+ukierunkowanego wzrostu aksonów. Z badań wynika, 
+że materiał może prowadzić do regeneracji uszkodzo-
+nego rdzenia kręgowego lub służyć jako pomost wy-
+pełniający miejsce ubytku [118]. King i in. w dalszych 
+badaniach wykorzystali cztery biomateriały w formie 
+do iniekcji, w celu wspomożenia regeneracji uszkodzeń 
+rdzenia kręgowego: kolagen, lepką fibronektynę, fibry-
+nę oraz kompozycję fibryna/fibronektyna. Biomateriały 
+zostały przetestowane w warunkach in vivo na mode-
+lu szczurzego przecięcia rdzenia kręgowego. Zarówno 
+żel z lepkiej fibryny jak i kolagenu wspomagał dobry 
+wzrost aksonów, ale zawierał zagęszczenia w objętości 
+oraz ubytki na granicy z rdzeniem kręgowym. Stanowi-
+ło to przeszkodę w skutecznym połączeniu żelu z tkanką 
+rdzenia. Dla porównania żel fibrynowy oraz fibrynowo/
+fibronektynowy prezentują dobrą integrację z rdzeniem 
+kręgowym oraz wzrastającymi aksonami. Z tych dwóch 
+materiałów hydrożelowych, lepszy wzrost aksonów ob-
+serwuje się dla kompozycji fibryna/fibronektyna [119]. 
+Fibronektyna może być również modyfikowana jonami, 
+takimi jak jony miedzi czy cynku, w celu poprawienia 
+jej stabilności i szybkości resorpcji. 
+Przewód w postaci rurki na bazie fibronektyny, za-
+wierający stabilizujące jony Cu i Zn ze spiralnie zorien-
+towanymi i minimalnie porowatymi filamentami oraz 
+wewnętrznym rdzeniem z wielu cienkich równoległych 
+włókien, przebadał Ahmed z zespołem [120]. Rezultaty 
+badań in vivo przeprowadzonych na szczurach pokazu-
+ją, że implantacja wszczepów z fibronektyny jest obie-
+cująca dla regeneracji rdzenia kręgowego [120–123]. 
+System zawierający trzy komponenty; immobilizowane 
+peptydy wiążące heparynę oraz neurotrofinę-3 (HBDS) 
+(heparin-based delivery system), były badane również 
+pod kątem ich zastosowania jako systemu do spowol-
+nionego dostarczania czynników wzrostu takich jak 
+neurotrofiny-3 [124]. Miejsce uszkodzenia tkanki ner-
+wowej rdzenia szczura zostało uzupełnione żelem fibry-
+nowym powstałym w wyniku sieciowania kowalencyj-
+nego peptydów, zawierających czynnik krzepnięcia XII 
+podczas polimeryzacji. W czasie degradacji materiału 
+zaobserwowano jego stymulujący wpływ na infiltrację 
+komórek, oraz blokowanie formowania się blizny gle-
+jowej. Żele fibrynowe uwalniające neutrofine-3 stymu-
+lowały odrost aksonów. Zwiększała się gęstość włókien 
+nerwowych w miejscu ubytku rdzenia kręgowego w po-
+równaniu do niezmodyfikowanej fibryny [124].
+Kwas hialuronowy i jego sole 
+Biomateriały pochodzące z substancji międzykomór-
+kowej (ECM) są często wykorzystywane w konstrukcji 
+matryc w inżynierii tkankowej. Kwas hialuronowy jest 
+polimerem pochodzenia naturalnego, występującym 
+w substancji międzykomórkowej, gdzie tworzy mniejsze 
+struktury ECM. Hialuronian jako sól kwasu hialurono-
+wego wydaje się więc właściwym materiałem do wytwa-
+rzania hydrożeli, ze względu na jego biokompatybilność 
+oraz wyjątkowe powinowactwo do wody (w tkankach 
+Biomateriały 69
+pełni rolę regulatora ilości wody). Materiał złożony 
+z hialuronianu tworzy warunki sprzyjające regeneracji 
+tkanki. Jest szeroko stosowany w medycynie; opatrunki 
+skóry i uzupełnienia defektów tkanki chrzęstnej. 
+Kwas hialuronowy stosowany jest także do hodowli 
+komórek glejowych [125]. Eng i in. [126] zbadali wpływ 
+usieciowanego hydrożelu z soli kwasu hialuronowego 
+na komórki pochodzące z kory mózgu. Przeanalizowa-
+li zależność wzrostu neuronów w funkcji właściwości 
+mechanicznych. Rezultaty pokazują, że bioaktywność 
+matryc hialuronianowych określona przez stopień mo-
+dyfikacji tiolami, miała większy wpływ na wzrost ak-
+sonów niż ich sztywność. Odrost aksonów uzależnio-
+ny był również od sztywności hydrożeli związanej ze 
+stężeniem samego kwasu hialuronowego w żelu. Żele 
+o mniejszej sztywności miały lepszy wpływ na odrost ak-
+sonów, w porównaniu do substytutów o większej [126]. 
+Miejscowe dostarczanie leków do uszkodzonego rdze-
+nia kręgowego może być w przyszłości wspomagane 
+poprzez użycie mało inwazyjnych matryc z biopolime-
+rów takich jak metyloceluloza czy też hialuronian, wy-
+pełniających miejsce ubytku tkanki rdzenia [127]. 
+Baumann i in. opracowali kompozyt hydrożelowy, 
+składający się z wyżej wymienionych polisacharydów 
+z dyspergowanymi nanocząstkami z poli(laktydu-ko-
+glikolidu). Inkluzja nanocząstek poli(laktydu-ko-gliko-
+lidu) w hydrożelach z metylocelulozy i hialuronianu, 
+znacząco poprawiła właściwości reologiczne kompozy-
+tu hydrożelowego. Hydrożele oraz nanocząstki były do-
+brze tolerowane w warunkach in vivo w modelu uszko-
+dzenia rdzenia kręgowego szczura. Rezultaty wskazują 
+na pozytywny wpływ materiału kompozytowego z hia-
+luronianu lub metylocelulozy w połączeniu z poli(lak-
+tydem-ko-glikolidu) na regenerację. Nie obserwowano 
+znaczącego wpływu materiału na wzrost aktywności 
+mikrogleju, odpowiedzi astrocytów oraz zwiększania 
+się objętości ubytku. Nowa kompozycja może wspomóc 
+regenerację uszkodzonego rdzenia kręgowego w połą-
+czeniu z innymi terapiami [127]. 
+Strategie terapeutyczne mające na celu naprawę 
+rdzenia kręgowego, są ograniczone między innymi 
+przez ograniczone techniki dostarczania leków. No-
+wy system dostarczający leki został opracowany przez 
+grupę Gupty. Stworzyli oni żel do iniekcji przeznaczo-
+ny do miejscowego uwalniania leków. Szybko żelują-
+cy materiał z kompozycji hialuronian/metyloceluloza, 
+degradowalny i biokompatybilny, przetestowany zo-
+stał w warunkach in vitro i in vivo. Badania in vivo na 
+grupie szczurów po miesiącu po implantacji pokazały 
+pozytywny wpływ na neuroregenerację. Ocenę zacho-
+wania zwierząt przeprowadzono z wykorzystaniem 
+skali Basso-Beattie-Brensnaham. Rezultaty wskazują, 
+że kompozycja hialuronian/metyloceluloza jest obiecu-
+jącym materiałem żelowym do miejscowego uwalniania 
+komórek terapeutycznych, czynników neurotroficz-
+nych i środków farmakologicznych do uszkodzonego 
+rdzenia kręgowego [128].
+Kolagen
+Kolagen jako główny składnik substancji międzyko-
+mórkowej jest często wykorzystywany jako komponent 
+implantów, by wzmocnić biologiczne interakcję pomię-
+dzy biomateriałem a tkanką. Kolagen może wspomagać 
+adhezję komórek, proliferację oraz różnicowanie. Jest 
+nieimmunogeniczny, a produkty jego biodegradacji nie 
+są toksyczne dla organizmu. Stosowany w regeneracji 
+nerwów obwodowych i ośrodkowego układu nerwo-
+wego wspomagał procesy naprawcze. Dodatek do im-
+plantu biomateriałowego czynników neurotroficznych 
+oraz linii komórek terapeutycznych, może wspierać re-
+generację nerwów [129, 130]. Wang i wsp. [131] prze-
+testowali dwuwymiarowe i trójwymiarowe porowate 
+konstrukcje kolagenowe pod względem ich możliwości 
+neuroregeneracyjnych w warunkach in vitro. Hodowle 
+komórkowe przeprowadzono z wykorzystaniem glejo-
+wych komórek węchowych (GKW), których transplan-
+tacja jest obiecującą strategią terapeutyczną dla rege-
+neracji rdzenia kręgowego [132]. Wyniki pokazały, że 
+kolagenowe matryce wspomagały adhezję, proliferację 
+oraz redukowały apoptozę glejowych komórek węcho-
+wych [133]. Na matrycach trójwymiarowych zaobser-
+wowano większą proliferację komórek w porównaniu 
+do matryc dwuwymiarowych. Na kolagenowych rusz-
+towaniach trójwymiarowych, komórki przybierały spe-
+cyficzny dla nich wrzecionowaty kształt. Ponadto trój-
+wymiarowe matryce redukowały w większym stopniu 
+apoptozę komórek, podczas długoterminowej hodowli 
+(30 dni) w odniesieniu do dwuwymiarowych. Ponadto 
+kolagenowe matryce znacząco zwiększały ekspresję ge-
+nową czynnika wzrostu nerwów (NGF), czynnika neu-
+rotroficznego pochodzenia mózgowego (BDNF) oraz 
+mielinowych białek proteolipidowych (PLP), podczas 
+hodowli glejowych komórek węchowych [133]. 
+Transplantacja komórek glejowych jest utrudniona 
+ze względu na ich ograniczoną dostępność. Tłuszczowe 
+komórki macierzyste (ADSC) zostały wytypowane jako 
+alternatywne źródło pozyskiwania dojrzałych komórek 
+nerwowych do zastosowań w regeneracji tkanki ner-
+wowej z wykorzystaniem matryc kolagenowych [134]. 
+Han in. przeanalizowali możliwość zastosowania po-
+rowatych trójwymiarowych rusztowań kolagenowych, 
+jako podłoży do hodowli tłuszczowych komórek ma-
+cierzystych w ko-kulturach z glejowymi komórkami 
+węchowymi [134]. W rezultacie tych badań na matrycy 
+kolagenowej uzyskano komórki z morfologią i antyge-
+nowym fenotypem, charakterystycznym dla glejowych 
+komórek węchowych [134]. 
+Zespół Lianga [135] przetestował w warunkach in 
+vitro oraz in vivo trójfunkcjonalny biomateriał na ba-
+zie liniowo uporządkowanego kolagenu (LOCS) wraz 
+z czynnikiem neurotroficznym pochodzenia mózgowe-
+go połączonego z domenami wiążącymi kolagen, by uzy-
+skać wyraźny efekt neuroprotekcyjny (CBD). Hodowle 
+komórkowe in vitro przeprowadzono z wykorzystaniem 
+Anna Lis i wsp.70
+szczurzych zwojów korzeni grzbietowych nerwów rdze-
+niowych (DRG). Badania in vivo zostały wykonane na 
+połowicznym modelu urazowego uszkodzenia rdzenia 
+kręgowego szczura na odcinku o długości 6 mm. Czyn-
+nik wzrostu pochodzenia mózgowego wraz z domena-
+mi wiążącymi kolagen w połączeniu z kolagenem pod-
+trzymywał i promował wzrost włókien nerwowych, oraz 
+neutralizował czynniki inhibitujące regenerację. Zaob-
+serwowano również przywrócenie przekaźnictwa elek-
+trycznego w synapsach i zapobieganie formowaniu się 
+blizny glejowej [135]. Liang i in. w swoich poprzednich 
+badaniach wykazali, że czynnik neurotroficzny pocho-
+dzenia mózgowego w połączeni z domeną wiążącą ko-
+lagen (CBD), może łączyć się z kolagenem i wzmacniać 
+efekt neuroprotekcyjny i neuroregeneracyjny Obszerny 
+ubytek tkanki nerwowej po urazie rdzenia kręgowego 
+wypełniony matrycą zawierającą kolagen, może stano-
+wić rusztowanie dla regeneracji nerwów. Jednocześnie 
+czynnik neurotroficzny pochodzenia mózgowego wraz 
+z domenami łączącymi kolagen w miejscu ubytku do-
+dany do matrycy kolagenowej, wspierałby regenerację 
+i przywrócenie funkcji lokomocyjnych [135]. 
+Grupa Petter-Puchnera porównała matryce kola-
+genowe z fibrynowymi w procesie regeneracji odcinka 
+piersiowego rdzenia kręgowego szczurów [136]. Odrost 
+aksonów został zaobserwowany w obu materiałach, 
+przy czym odrostowi aksonów w obecności kolagenu 
+towarzyszył proces mielinizacji oraz angiogenezy. Za-
+równo fibryna jak i kolagen poprawiły możliwości rege-
+neracyjne w porównani do grupy kontrolnej i mogą sta-
+nowić dobry materiał do wypełniania ubytków rdzenia 
+kręgowego [136]. Badania Fuhrmanna i zespołu wyka-
+zały lepsze możliwości wzrostu aksonów przez dwu- 
+i trójwymiarowe matryce kolagenowe. Przeprowadzo-
+ne zostały hodowle komórkowe z wykorzystaniem 
+astrocytów pochodzenia ludzkiego. Ponadto interakcje 
+z rożnego rodzaju komórkami na matrycach kolage-
+nowych pokazały, że konstrukcje o zorientowanej mi-
+kroarchitekturze, na przykład liniowo zorientowanym 
+kolagenie, mają fundamentalny wpływ na możliwości 
+regeneracyjne [137].
+Polimery biomedyczne 
+syntetyczne
+Zastosowanie polimerów syntetycznych zwiększa 
+możliwości dopasowania właściwości materiału do po-
+trzeb. Polimery syntetyczne mogą być otrzymywane 
+i przetwarzane w warunkach kontrolowanych. Przede 
+wszystkim ważna jest możliwość odtwarzalności właści-
+wości mechanicznych, fizycznych i chemicznych takich 
+jak: wytrzymałość na naprężenia, moduł elastyczności 
+oraz szybkość degradacji. Ostatnia wymieniona cecha 
+jest bardzo ważna z punktu widzenia inżynierii tkanko-
+wej. Istnieje możliwość kontrolowania zanieczyszczeń, 
+w celu zminimalizowania ryzyka wystąpienia infekcji, 
+czy też innych niepożądanych odpowiedzi immuno-
+logicznych [138–150]. Do najważniejszych polimerów 
+syntetycznych stosowanych w regeneracji rdzenia krę-
+gowego są zaliczane m.in. poliestry, polihydroksyalka-
+nolany i poliakrylany.
+Poli (ε-kaprolakton)
+Produkcja blend polimerowych jest jednym z bar-
+dziej efektywnych działań w celu modyfikacji właściwo-
+ści znanych biomateriałów polimerowych. Ghasemi-
+Mobarakeh i in. wykonali nanowłókniste rusztowania 
+w oparciu o blendy poli(ε-kaprolakton)(PCL)/żelatyna, 
+różniące się udziałami procentowymi poszczególnych 
+składników. Nanowłókna w kompozycie zorientowane 
+były jednokierunkowo i wielokierunkowo. Najlepsze 
+wyniki w badaniach in vitro z udziałem nerwowych 
+komórek macierzystych C17.2 otrzymano dla blendy 
+PCL/żelatyna 70/30 (% wag). Analiza aktywności de-
+hydrogenazy mitochondrialnej (test MTS) oraz ska-
+ningowa mikroskopia elektronowa (SEM) pokazały, 
+że badane rusztowania znacznie bardziej wspomagają 
+różnicowanie i proliferację komórek nerwowych w po-
+równaniu do włóknistej matrycy wykonanej z czystego 
+polikaprolaktonu. Stwierdzono także, że dla jednokie-
+runkowo zorientowanych włókien wzrost aksonów jest 
+równoległy do nich. Komórki także zajmowały miejsca 
+wzdłuż anizotropowej struktury włóknistej [151]. 
+Bechara i wsp. otrzymali materiał, którego po- 
+wierzchnię stanowiły nanostruktury z poli(ε-kaprolak-
+tonu). Materiał przebadano z wykorzystaniem komó-
+rek PC12, oceniono żywotność oraz zdolność PC12 do 
+adhezji i proliferacji w okresie 4 dni. Badania in vitro 
+pokazały zwiększoną adhezję komórek, a także znaczną 
+żywotność i proliferację komórek PC12 w porównaniu 
+do powierzchni bez nanoarchitektury. Po 7 dniach ho-
+dowli zaobserwowano formowanie się sieci neuronal-
+nej oraz ekspresję markerów neuronalnych [152]. Run-
+ge i inni opisali syntezę i scharakteryzowali kompozycje 
+z polikaprolaktonu i polipirolu. Badania in vitro poka-
+zały, że materiał ten wspomaga rozrost komórek PC12 
+oraz aksonów zwoi korzeni grzbietowych nerwów rdze-
+niowych. Materiał kompozytowy sprzyja adhezji komó-
+rek, proliferacji i rozprzestrzenianiu się neurytów. Wy-
+niki tych badań pokazały, że materiał może być również 
+wykorzystany przy elektrostymulacji [153].
+Poli(laktyd-ko-glikolid)
+Moore i in. [154] opracowali wielokanałowy, biode-
+gradowalny implant, który ma za zadanie stymulować 
+odrost aksonów poprzez jego strukturę, a jednocześnie 
+umożliwić transplantację komórek i dostarczanie sub-
+stancji neuroprotekcyjnych. Implant z kopolimeru lak-
+tydu z glikolidem (PLG) w stosunku 85/15 posiadający 
+Biomateriały 71
+równoległe kanaliki, został przebadany w warunkach 
+in vitro, a następnie uzupełniony implant (o komórki 
+Schwanna ulokowane w kanalikach) został zaimplan-
+towany w przeciętym szczurzym rdzeniu kręgowym. 
+Miesiąc po implantacji na podstawie rekonstrukcji 
+histologicznej stwierdzono obecność regenerujących 
+się aksonów, wzrastających wzdłuż kanalików [154]. 
+Tuinstra i wsp. opracowali wielokanałowy implant 
+z kopolimeru laktydu z glikolidem dostarczający lenti-
+wirusy [155]. Przeprowadzono badania in vivo na poło-
+wicznym przecięciu rdzenia kręgowego szczura. Pomost 
+z poli(laktydu-ko-glikolidu) indukował wzrost aksonów 
+poprzez kanaliki w kierunku dystalnym. Dostarczanie 
+wraz z pomostem wektorów lentiwirusa z zakodowa-
+nym czynnikiem neurotroficznym – neurotrofina-3 
+(NT-3) i czynnikiem neurotroficznym pochodzenia 
+mózgowego (BDNF), wspomagało regenerację akso-
+nów i rozprzestrzenianie się aksonów zmielinizowa-
+nych. Immobilizacja lentiwirusów w wielokanałowym 
+implancie wspomagała utrzymującą się przez 4 tygo-
+dnie ekspresję transgeniczną, zarówno w części przed-
+niej jak i tylnej pomostu biomateriałowego. Barwienia 
+immunohistochemiczne wskazały możliwość transduk-
+cji makrofagów, komórek Schwanna, fibroblastów oraz 
+astrocytów wokół pomostu oraz przylegającej do niego 
+tkanki. Jest to nowa strategia, która w przyszłości może 
+mieć znaczenie przełomowe [155]. 
+W pracy Shina i in. opisany został system dostar-
+czający miejscowo lentiwirusy do zastosowań biome-
+dycznych, bazujących na matrycy z PLG uzupełnionej 
+o fosfatydyloserynę (PS) wytwarzającą specyficzne wią-
+zania. Mikrosfery PLG-PS wraz lentiwirusami zosta-
+ły przetestowane jako pomost zwiększający ekspresję 
+genów w implancie dordzeniowym Immobilizowane 
+lentiwirusy w mikrosferach zwiększyły transdukcję ko-
+mórek oraz transgeniczną ekspresję genów w porówna-
+niu do samego wirusa [156]. De Laporte i in. w swoich 
+badaniach nad regeneracją rdzenia kręgowego, wyko-
+rzystali skomplikowaną wielokanałową konstrukcję 
+z kopolimeru laktydu z glikolidem (PLG) z warstwa-
+mi białkowymi (fibronektyna, kolagen, laminina) do 
+dostarczania lipopleksów. Immobilizacja lipopleksów 
+w PLG prowadzi do wysokiego poziomu ekspresji 
+w warunkach in vitro. Implant tego typu został również 
+przebadany w warunkach in vivo. Wszczepy na bazie 
+PLG z lipopleksami wzmacniają efekt ekspresji trans-
+genicznej w połowicznie przeciętym rdzeniu kręgowym 
+szczura [157]. 
+Nojehdeihian i in. w swoich badaniach użyli mi-
+krosfery z poli(laktydu-ko-glikolidu) (PLG) pokryte 
+warstwą poli-L-lizyny (PLL) zawierające kwas retino-
+wy (RA), na których przeprowadzono hodowle ko-
+mórkowe z wykorzystaniem pluripotentnych komórek 
+nowotworowych P19, przypominających komórki ma-
+cierzyste pod względem ich możliwości nieustannego 
+proliferowania. Badania in vitro obejmujące pomiar 
+zahamowania wzrostu liczby komórek z wykorzysta-
+niem aktywności oksydoredukcyjnej mitochondriów 
+– metoda MTT (formazan błękitu triazolowego), ba-
+dania mikroskopowe, barwienia immonofluresencyj-
+ne, histologiczne oraz reakcję łańcuchowej polimerazy 
+z analizą w czasie rzeczywistym (RT-PCR), potwierdzi-
+ły przydatność mikrosfer w inżynierii tkanki nerwo-
+wej. Rezultaty pokazały, iż materiał ten może stanowić 
+zarówno system dostarczający czynniki bioaktywne, 
+jak i wspomagać różnicowanie się komórek nowotwo-
+rowych do komórek nerwowych [158]. Zorientowane 
+przypadkowo i jednokierunkowo włókna otrzymane 
+metodą elektroprzędzenia z kopolimeru kwasu mleko-
+wego z glikolowym (PLG) z polimerową warstwą prze-
+wodzącą wykonaną z polipirolu (PPy), zostały przeba-
+dane in vitro. Wspomagały wzrost i różnicowanie się 
+szczurzych komórek chromochłonnych PC12 oraz neu-
+ronów hipokampa, w porównaniu do włókien kontro-
+lnych z PLG nie pokrytych polimerem przewodzącym 
+i pozwalają na zastosowanie elektrostymulacji [159]. 
+Polilaktyd
+Wpływ piankowego implantu z poli(D,L-laktydu) 
+na żywotność neuronów i regeneracje aksonów z do-
+datkiem lub bez czynnika neurotroficznego pochodze-
+nia mózgowego, został przebadany przez Patista i jego 
+współpracowników [160]. Badania in vivo przeprowa-
+dzono na całkowicie uszkodzonym rdzeniu kręgowym 
+szczura na odcinku piersiowym. Pianka została wypeł-
+niona klejem fibrynowym zawierającym kwaśny czyn-
+nik wzrostu fibroblastów. Pianka polilaktydowa była 
+dobrze tolerowana w środowisku rdzenia kręgowego. 
+Dodatkowe uzupełnienie implantu o czynnik neuro-
+troficzny pochodzenia mózgowego (BDNF) zwiększyło 
+żywotność komórek oraz proces angiogenezy. Implan-
+tacja pianek polilaktydowych z BDNF stanowiła ochro-
+nę dla neuronów. Proces tworzenia się blizny glejowej 
+i stany zapalne nie zostały odnotowane. Wprowadzenie 
+do implantu komórek Schwanna dodatkowo zwiększy-
+ło proces mielinizacji [160]. 
+Makroporowate polilaktydowe rusztowania uzu-
+pełnione fibryną i komórkami Schwanna zostały prze-
+badane w warunkach in vitro oraz in vivo przez zespół 
+Hurtado [161]. Ubytek całkowicie przeciętego piersio-
+wego odcinka rdzenia kręgowego szczura wypełniono 
+implantem poliaktydowym. Rezultaty pokazały, że ge-
+nerujące aksony nie przedostawały się do części tylnej 
+uszkodzonego rdzenia, a znaczna liczba komórek ule-
+gała apoptozie. Badania porowatych implantów uzu-
+pełnionych o komórki Schwanna i fibrynę są jednak 
+dopiero w fazie początkowej [161]. Opracowane zostały 
+także biodegradowalne, porowate, nanowłókniste poli-
+merowe matryce z poli(L-laktydu). Materiał ten został 
+przenalizowany w warunkach in vitro podczas hodowli 
+nerwowych komórek macierzystych (NSC). Konstruk-
+cja z poli-L-laktydu naśladowała architekturę substancji 
+Anna Lis i wsp.72
+międzykomórkowej. Badania in vitro z NSC pokazały, 
+że komórki różnicują się na porowatej nanostrukturze 
+z poli-L-laktydu. Stwierdzono, że materiał pozytywnie 
+wpływa na odrastające aksony. 
+Rezultaty badań Yanga i in. wskazują na możliwość 
+zastosowania nanostruktury jako nośnika do uwalnia-
+nia komórek terapeutycznych [162]. Zorientowane 
+włókna otrzymane metodą elektroprzędzenia, stanowią 
+interesujące rozwiązanie jako rusztowania dla ukierun-
+kowanego wzrostu aksonów w otoczeniu komórek oraz 
+w modelach zwierzęcych. Jak wiadomo średnica włó-
+kien ma wpływ na zachowanie komórek, ale nie wiado-
+mo jak zorientowane włókna w matrycy o określonych 
+średnicach, wpływają na wzrost aksonów oraz migrację 
+komórek Schwanna. 
+Wang i in. w celu określenia zależności pomiędzy 
+wielkością/orientacją włókien a zdolnościami neuro-
+degeneracyjnymi, wyprodukowali włókna z poli-L-
+laktydu o różnej grubości. Na włóknistych materiałach 
+przeprowadzono badani in vitro z użyciem neuronów 
+zwojów korzeni grzbietowych nerwów rdzeniowych. 
+Określono długość aksonów oraz dystans migracji ko-
+mórek Schwanna. Na włóknach o małej średnicy, ob-
+serwowano długość neurytów o ok. 40 % krótszą niż 
+dla włókien o większych rozmiarach. Migracja komó-
+rek Schwanna nie była skorelowana w żadnym przy-
+padku z rozprzestrzenianiem się aksonów. Wyniki 
+obserwacji wskazują, iż średnica włókien jest ważnym 
+parametrem dla konstrukcji zorientowanych włókien 
+do regeneracji nerwów [163]. Wang i wsp. w swoich 
+badaniach wykorzystali wszczepy bazujące na jedno-
+kierunkowych mikrowłóknach z polikatydu. Folie oraz 
+wszczepy z wielokierunkowo i jednokierunkowo zo-
+rientowanymi włóknami zaimplantowano do rdzenia 
+kręgowego. W odcinku piersiowym rdzenia kręgowego 
+szczura przecięto kompletnie rdzeń z wytworzeniem 
+ubytku o długości 3 mm. Po czterech tygodniach ob-
+serwacji można było zobaczyć tkankę infiltrującą włók-
+niste implanty, a miejsce ubytku zostało zamknięte po-
+przez populacje endogennych komórek. Reakcja tkanki 
+współgrała z regenerującymi aksonami i astrocytami. 
+Jednokierunkowo ułożone włókna wspomagały tylno-
+przednią regenerację aksonów na dłuższym odcinku, 
+w porównaniu do matryc z wielokierunkowymi włók-
+nami i kontrolnymi foliami polikatydowymi [164].
+Polihydroksyalkanolany
+Polihydroksyalkanolany (PHA) są badane jako 
+materiał do zastosowań biomedycznych dzięki odpo-
+wiednim właściwościom mechanicznym, jak również 
+są tolerowane dobrze przez tkanki oraz ulegają bio-
+degradacji w warunkach in vivo [165–168]. Novikov 
+i in. [165] zastosowali w swoich badaniach biodegra-
+dowalne implanty z polihydroksymaślanu (PHB) w po-
+staci włókien. Implanty te miały stanowić nośnik dla 
+komponentów wspierających przeżywalność linii ko-
+mórek nerwowych i regenerację uszkodzonego rdze-
+nia kręgowego. Modelem badawczym było uszkodze-
+nie rdzenia kręgowego dorosłych szczurów w odcinku 
+szyjnym. Wszczep z włókien PHB pokryty warstwą 
+hydrożelu alginianowego zawierającego fibronektynę 
+wprowadzono w miejsce ubytku rdzenia kręgowego. 
+Dodatkowo, w celach porównawczych leczono także 
+zwierzęta za pomocą czynnika neurotroficznego po-
+chodzenia mózgowego i neurotrofiny-3. Jako model 
+eksperymentalny posłużyły neurony drogi czerwien-
+no-rdzeniowej. U nieleczonych zwierząt prawie połowa 
+uszkodzonych neuronów drogą czerwienno-rdzeniowej 
+obumarła lub była nieaktywna po ośmiu tygodniach od 
+operacji. Implantacja włókien PHB zredukowała umie-
+ralność neuronów drogi czerwienno-rdzeniowej o 50%, 
+podobnie jak w przypadku leczenia z użyciem czynnika 
+neurotroficznego pochodzenia mózgowego oraz neuro-
+trofiny-3. 
+W grupie zwierząt z wszczepionym dla porównania 
+hydrożelem z mieszaniny kwasu hialuronowego i fibry-
+ny bez PHB, nie wykazano żywotności neuronów drogi 
+czerwienno-rdzeniowej. Zmodyfikowany implant PHB 
+o komórki Schwanna wspomagał regenerację aksonów. 
+Zauważono również, że aksony przedostają się na dru-
+gą stronę od kikuta dalszego wzdłuż implantu. Novi-
+kov i in. wykazali, że użycie implantu z włókien uzu-
+pełnionych o kwas hialuronowy/fibrynę oraz komórki 
+Schwanna, mogą wspierać przeżywalność komórek 
+nerwowych oraz regenerację rdzenia kręgowego [165]. 
+Macierzyste komórki nerwowe (NSC) porastają-
+ce w matrycy z PHA mogą być użyteczne w naprawie 
+uszkodzeń centralnego układu nerwowego. Na różnych 
+włóknistych materiałach przeprowadzono hodowle 
+szczurzych NSC i scharakteryzowano ich zdolność do 
+różnicowania się. Wszystkie materiały PHA, wliczając 
+polihydroksymaślan (PHB), kopolimer 3-hydroksyma-
+ślanu z 4-hydroksymaślanem (P3HB4HB) oraz kopo-
+limer 3-hydroksymaślanu z 3-hydroksyheksanianem 
+(PHBHHx) wspomagały wzrost i różnicowanie się NSC 
+zarówno na cienkich foliach 2D oraz strukturach 3D. 
+PHBHHx wykazał najlepszy potencjał do różnicowa-
+nia się NSC do neuronów, które mają istotne znaczenie 
+w naprawie CNS. Porównano konstrukcje nanowłókni-
+ste 2D z 3D jako materiały umożliwiające adhezję komó-
+rek wraz z jednoczesnym wzrostem synaps. Konstrukcje 
+3D wykazywały lepsze właściwości dla adhezji i przeży-
+walności komórek. Matryca wykonana z PHBHHx była 
+lepsza, niż PHB i P3HB4HB w wspomaganiu różnicowa-
+nia się NSC do komórek neuropodobnych. Kombinacja 
+biodegradowalności z dużą wytrzymałością oraz wysoką 
+biozgodnością w obrębie tkanki nerwowej, daje PHA 
+duże szanse zastosowania w leczeniu uszkodzeń rdzenia 
+kręgowego [166]. 
+Porównanie terpoliesteru polihydroksymaślanu-
+ko-walerrianianu-ko-kapropnianu (PHBVHHx) z po-
+lilaktydem (PLA) i kopoliestrem 3-hydroksymaślanu 
+Biomateriały 73
+z 3-hydroheksanianu (PHBHHx) w odniesieniu do 
+zdolności wspomagania różnicowania komórek mezyn-
+chemalnych szpiku kostnego (hBMSC) pochodzenia 
+ludzkiego do komórek nerwowych pokazało, że w obu 
+przypadkach trójwymiarowe matryce wspomagają róż-
+nicowanie się hBMSC do komórek nerwowych w więk-
+szym stopniu niż filmy z tych samych polimerów, przy 
+czym mniejsze rozmiary porów w strukturze zwięk-
+szają różnicowanie się komórek, podczas gdy zmniej-
+sza się ich zdolność do proliferacji. Folie z PHBVHHx 
+wspomagają adhezję komórek hBMSC, proliferację 
+i różnicowanie się w porównaniu do przebadanego 
+PLA i PHBHHx. Matryce PHBVHHx z odpowiednimi 
+mikroporami mogłyby być wykorzystane w inżynierii 
+tkanki nerwowej w leczeniu uszkodzeń nerwów [167]. 
+Implant nerwowy zawierający wysoce zorientowa-
+ną strukturę, która naśladuje naturalną tkankę, jest 
+niezbędny do skutecznej regeneracji uszkodzonych 
+nerwów. Yucel i in. w swoich badaniach wykorzystali 
+biodegradowalne implanty wykonane poprzez zwinię-
+cie porowatych mikrostrukturalnych folii z poli(3-hy-
+droksymaślanu-ko-3-hydroksywalerianu – poli (L-D, 
+L) laktydu – kopolimeru kwasu mlekowego z kwasem 
+glikolowym (PHBV-P(L-D,L)LA-PLG) wokół liniowo 
+zorientowanych włókien z poli(3-hydroksymaślanu-
+ko-3-hydroksywalerianu i kopolimeru kwasu mlekowe-
+go z kwasem glikolowym (PHBV–PLG) otrzymanych 
+metodą elektroprzędzenia. Mechaniczne właściwości 
+materiału/wszczepu były odpowiednie by wspierać re-
+generujące nerwy. Rezultaty badań pokazały, że folie 
+wspomagają migrację oraz przeżywalność komórek. 
+Oba elementy implantu o zorientowanej strukturze 
+wspomagać mogą ukierunkowaną regenerację, zarów-
+no w warunkach in vitro oraz in vivo [168]. 
+Glikol polietylenowy
+Znaczącym czynnikiem ograniczającym zastosowa-
+nie danego materiału jest czas degradacji. Mahoney wraz 
+ze wsp. zakapsułkowali macierzyste komórki nerwowe 
+(NSC) w degradowalnym hydrożelu z glikolu poliety-
+lenowego (PEG). W obserwacjach mikroskopowych 
+stwierdzono, że kultury komórek w trójwymiarowej 
+sieci polimerowej tworzą własne mikrośrodowisko do 
+przetrwania, proliferacji i różnicowania się do komórek 
+nerwowych oraz glejowych, które elektrofizjologicznie 
+reagują na neurotransmitery. Powyższe obserwacje 
+wskazują, że hydrożel z PEG może być przydatnym ma-
+teriałem dostarczającym komórki w regeneracji tkanki 
+nerwowej [169]. Trójwymiarowe polimerowe matryce 
+PEG są wykorzystywane jako podłoże do hodowli ko-
+mórek nerwowych, które jednocześnie mogą stanowić 
+materiał wspomagający procesy naprawcze w tkance 
+nerwowej. Obiecującym materiałem jak już zaznaczo-
+no jest glikol polietylenowy zdolny do tworzenia żeli. 
+Namba i in. opisali alternatywną metodę otrzymywania 
+żelu z PEG, zawierający sieć fibrynową oraz kapsułko-
+wany w nim roztwór z komórkami nerwowymi. Fibry-
+na, która zdegradowała do nietoksycznych produktów, 
+pozostawiła po sobie sieć połączonych porów. Badania 
+pokazują, że komórkami można zasiedlić strukturę 
+w trakcie jej wytwarzania, bez znaczących konsekwencji 
+dla komórek [170]. 
+Istniejąca bariera krew-rdzeń kręgowy stanowi 
+przeszkodę dla makrocząsteczkowych czynników tera-
+peutycznych, takich jak leki, proteiny i geny. Czynniki 
+te nie mogą samodzielnie pokonać tej bariery by wzbo-
+gacić uszkodzony rdzeń kręgowy, co ogranicza możli-
+wość leczenia uszkodzonego rdzenia kręgowego. Glikol 
+polietylenowy połączony z polimerowymi liposomami 
+o właściwościach magnetycznych (MPL) (Magnetic 
+Polimeric Liposomes) oraz sprzężony z białkowymi 
+domenami inicjującymi szlaki transdukcji sygnałów 
+transaktywujących transkrypcję polipeptydów (TAT) 
+(Transactivating-Transduction Protein), został zbada-
+ny jako system dostarczający czynniki terapeutyczne 
+do rdzenia. Konstrukcja ta miała na celu przekroczyć 
+barierę krew-mózg-rdzeń kręgowy i uzupełnić miejsce 
+ubytku powstałe w uszkodzonym rdzeniu. Formułę na-
+nocząstek, wykazującą znaczące właściwości superma-
+gnetyzmu oceniono w badaniach in vitro i in vivo. Re-
+zultaty pokazują że TAT-PEG-MPL nie tylko kumuluje 
+się w miejscu ubytku w wyniku działania sił magnetycz-
+nych, ale również może być wykorzystany jako środek 
+kontrastujący w szczurzym, eksperymentalnym modelu 
+uszkodzenia rdzenia kręgowego. Połączenie TAT z PEG
+-MPL może pomóc w pokonaniu bariery krew-mózg/
+rdzeń kręgowy i penetracji materiału przez otaczającą 
+tkankę i komórki nerwowe. Nanocząstki TAT-PEG-
+MPL są zdolne do przemieszczenia się w głąb rdzenia 
+kręgowego, co stwarza nowe rozwiązania w leczeniu 
+urazów rdzenia kręgowego [171].
+Poliakrylany
+Biokompatybilne hydrożele z poli(metkrylamidu 
+N-2-hydroksypropylenu) (PHPMA) zawierającym se-
+kwencje peptydowe (argininę, glicynę i kwas aspara-
+ginowy - Arg-Gly-Asp) RGD wspomagające adhezję 
+komórek, zostały scharakteryzowane pod kątem po-
+tencjalnego przeznaczenia do regeneracji uszkodzone-
+go rdzenia kręgowego. Zdolności neuroregeneracyjne 
+hydrożelu PHPMA-RGD oraz wpływ na odrost akso-
+nów zostały przebadane in vivo na modelu urazowego 
+uszkodzenia rdzenia kręgowego szczura. Struktura hy-
+drożelu z połączonymi porami, właściwościami lepko-
+sprężystymi zbliżonymi do tkanki nerwowej, stanowi 
+trójwymiarową kontynuację wzdłuż miejsca ubytku 
+tkanki. Ułatwia migrację i reorganizację miejscową ko-
+mórek, jak i rozrost tkanki w miejscu ubytku rdzenia 
+kręgowego, angiogenezę i wzrost aksonów. W dodatku 
+hydrożelowa matryca redukowała nekrozę i kawitację 
+w sąsiadującej substancji białej i szarej [172]. 
+Anna Lis i wsp.74
+Flynn i in. opracowali metodę wytwarzania hydro-
+żeli z poli(metakrylanu-2-hydroksyetylu) (PHEMA) 
+z równolegle zorientowanymi kanalikami dla inżynierii 
+tkanki nerwowej. Taka konstrukcja hydrożelu mogłaby 
+wspomagać regenerację nerwów po uszkodzeniu za-
+równo rdzenia kręgowego, jaki i nerwów obwodowych. 
+Wzrost wolnej przestrzeni w strukturze, którą uzyska-
+no w wyniku wprowadzenia kanalików miałaby spowo-
+dować ukierunkowany wzrost aksonów poprzez kana-
+liki oraz lepszą infiltrację komórek [173]. Taki implant 
+może być wykorzystany do ukierunkowanej regenera-
+cji zarówno w obwodowym jak i ośrodkowym układzie 
+nerwowym. 
+Posumowanie
+Inżynieria biomateriałów może doprowadzić do 
+stworzenia odpowiednich warunków regeneracyjnych 
+jednak to nie wystarczy. Liczne badania dowodzą, że za 
+odbudowę tkanki nerwowej odpowiada wiele czynni-
+ków równocześnie. Są to skomplikowane mechanizmy, 
+które muszą być w pełni zrozumiałe, by rozwiązać pro-
+blem uszkodzeń rdzenia kręgowego. Działając tylko na 
+jeden z mechanizmów nie uzyskamy pełnych szans na 
+całkowitą odbudowę tkanki nerwowej. Rozwiązaniem 
+przyszłości, które budzi nadzieję, jest połączenie róż-
+nych metod terapii, zarówno tych oddziałujących na 
+poziomie molekularnym, jak i tych działających na ca-
+łym obszarze tkanki nerwowej. Transplantacje komó-
+rek, w połączeniu z trójwymiarowymi matrycami bio-
+materiałowymi lub czynnikami neurotroficznymi, będą 
+dominującym przedmiotem badań inżynierii tkanki 
+nerwowej w najbliższym czasie. Ważne jest, aby terapie 
+neuroprotekcyjne, wspomóc poprzez przywrócenie cią-
+głości rdzenia poprzez połączenie uszkodzonych koń-
+ców rdzenia kręgowego. 
+Przyszłościowe strategie mają na celu zwiększenie 
+liczby regenerujących się aksonów wstępujących i zstę-
+pujących, poprawienie zdolności do remielinizacji re-
+generujących się aksonów oraz ostatecznie stworzenie 
+środowiska, umożliwiającego ukierunkowaną regene-
+rację aksonów dla przywrócenia odpowiednich połą-
+czeń w rdzeniu kręgowym.
+Literatura
+ [1] Batchelor P.E., Howells D.W.: CNS regeneration: clinical possibility or basic science fantasy? Review, Journal of Clinical 
+Neuroscience, (2003), 10 (5), 523–534.
+ [2] Dietz V., Curt A.: Neurological aspects of spinal-cord repair: promises and challenges. Review, Lancet Neurol, (2006), 5, 
+688–694.
+ [3] Bergman B.S.: Regeneration in the spinal cord. Current Opinion in Neurobiology, (1998), 8, 800–807.
+ [5] Gruener G., Biller J.: Spinal Cord Anatomy, Localization, and Overview of Spinal Cord Syndromes. Continuum: Lifelong 
+Learning Neurol, (2008), 14(3), 11–35.
+ [6] Craven J.: Spinal Cord – Anatomy, Anesthesia and Intensive Care Medicine. The Medicine Publishing Company (2004) 
+144–146.
+ [7] Burt A.A.: The epidemiology, natural history and prognosis of spinal cord injury. Mini-Symposium: Spinal Trauma, Cur-
+rent Orthopaedics, (2004), 18, 26–32.
+ [8] Taoka Y., Okajama K.: Spinal Cord Injury in the Rat. Progress in Neurobiology, (1998), 56, 341–358.
+ [9] O’Connor P.: Injury to the spinal cord in motor vehicle traffic crashes. Accident Analysis and Prevention, (2002), 34, 
+477–485.
+[10] Pickett G.E., Campos-Benitez M., Keller J., L., Duggal N.: Epidemiology of Traumatic Spinal Cord Injury in Canada, 
+Spine, (2006), 31(7), 799–805.
+[11] Fehlings M.G., Baptiste D.C.: Current status of clinical trials for acute spinal cord injury. Injury International Journal of the 
+Care of the Injured, (2005), 36, 113–122.
+[12] Finnerup N.B., Baastrup C., Jensen T.S.: Neuropathic pain following spinal cord injury pain: mechanisms and treatment. 
+Scandinavian Journal of Pain, (2009), 1, 3–11.
+[13] Chang W.L., Ke D., S., Cheng T., J.: Lateral Medullary Infraction Presenting as Brown-Sequard Syndrome like Manifesta-
+tion. A case Report and Literature Review, Acta Neurologia Taiwanica, (2010), 18, 204–207.
+[14] Sathirapanya P., Taweelarp A., Sae Heng S., Riabroi K.: Case Report Brown-Sequard syndrome from cervical disc hernia-
+tion, a case report and review of literature. Neurology Asia, (2007), 38; 65–67.
+[15] Garcia-Manzanares M.D., Belda-Sanchis J.L., Giner-Pascual M., Miguel-Leon I., Delgado-Calvo M., Alio y Sanz J.L.: 
+Brown-Sequard syndrome associated with Horner’s syndrome after penetrating trauma at the cervicomedullary junction. 
+Case Report, Spinal Cord, (2000), 38, 705–707.
+[16] Zubair M., Ravidran T., Chan C.Y.W., Saw L.B., Kwan M.K.: Acute Brown-Sequard syndrome following brachial plexus 
+avulsion injury. A report of two cases. Hong Kong Journal of Emergency Medicine, (2011), 18, 347–351.
+[17] Newey M.L., Sen P., K., Fraser R., D.: The long-term outcome after central cord syndrome. The Journal of Bone and Joint 
+Surgery, (2000), 82, 851–855.
+[18] Harrop J.S., Sharan A., Rafliff J., Central cord injury; pathophysiology, management, and outcomes. The Spine Journal, 
+(2006), 6, 198–206.
+[19] Omac O.K., Karadeniz M., Kesikburun S., Yasar E., Yilmaz B., Alaca R.: Posterior Cord Syndrome Associated with Dural 
+Biomateriały 75
+Ectasia, Arachnoid Cyst and Spinal Cord Atrophy in Patient with Marfan Syndrome: Case Report, Journal of Physical Med-
+icine and Rehabilitation Sciences, (2010), 13, 069–071.
+[20] Bennet D.S., Alo K., M., Oakley J, C., A., Feler C.A.: Spinal Cord Stimulation for Complex Regional Pain Syndrome (RSD): 
+a Retrospective Multicenter Experience from 1995–1998 of 101 Patients. Neuromodulation, (1999), 2(3), 2002–210.
+[21] Ptaszyńska-Sarosiek I., Niemcunowicz-Janica A., Janica J.: Urazy kręgosłupa z uszkodzeniem rdzenia kręgowego – poglądy 
+reprezentowane przez neurologów (Spinal cord injuries – opinions represented by neurologists). Archiwum Medycyny 
+Sądowej i Kryminologii (2007), LVII, 294–297.
+[22] Hall E.D., Wolf D.L.: A pharmacological analysis of the pathological mechanisms of post traumatic spinal cord ischemia. 
+Journal of Neurosurgery (1986), 64, 951–961.
+[23] Dumont R.J., Okonkwo D.O., Verma S., Hulbert R.J., Boulas P.T., Ellegala D.B., Dumont A.S.; Acute Spinal Cord Inju-
+ry. Part I: Pathophysiologic Mechanisms, Clinical Neuropharmacology (2001), 24 (5), 254–264.
+[24] Hall E.D., Braughler J.M.: Glucocorticoid mechanisms in acute spinal cord injury: a review and therapheuthic rationale. 
+Surgical Neurology (1982), 18, 320–327.
+[25] Fehlings M.G., Nguyen D.H.: Immunoglobulin G: a potential treatment to attenuate neuroinflamation following spinal 
+cord injury. Journal of Clinical Immunology (2010), 1, 109–112. 
+[26] Dumont R.J., Verma S., Onkowo D.O., Hulbert R.J., Boulos P.T., Ellegala D.B., Dumont A.S.: Acute Spinal Cord Injury, 
+Part II: Contemporary Pharmacotheraphy. Clinical Neuropharmacology (2001), 24 (5), 265–279.
+[27] Schnell L., Feam S, Klassen H., Schwab M.E., Perry V.H.: Acute inflammatory responses to mechanical lessions in the CNS: 
+Differences between brain and spinal cord. European Journal of Neuroscience (1999), 11, 3648–3658.
+[28] Ray S.K., Dixon C.E., Banik N.L.: Molecular mechanism in the pathogenesis of traumatic brain injury. Histology and His-
+topathology (2002), 17, 1137–1152.
+[29] Rossingnal S., Schwab M., Schwartz M., Fehlings G.: Spinal Cord Injury: Time to Move? Journal of Neuroscience (2007), 
+27, 11782–11792.
+[30] Hulsebosch C.E.: Recent advance in pathophysiology and treatment of spinal cord injury Advances in Physiology Educa-
+tion (2002), 26, 238–255.
+[31] Tator C.H., Mc Cormick P.C., Piepmeier J.M., Benzel E.C., Young W.: Biology of neurological recovery and functional 
+restoration after spinal cord injury. Journal of Neurosurgery (1998), 42, 696–708.
+[32] Tator C.H.: Strategies for recovery and regeneration after brain and spinal cord injury. Injury Prevention (2002), 8, 33–36.
+[33] Schwab M.E., Bartholdi D.: Degeneration and regeneration of axons in the lesioned spinal cord. Physiological Reviews 
+(1996), 76, 319–370.
+[34] Seddon H.J., Classification of nerve injuries. Brit med J. (1942)/II., 237–239. 
+[35] Sunderland S.: Nerve and Nerve Injuries. Edinburg: Churchill-Livingstone (1978).
+[36] Lee S.K., Wolfe S.W.: Peripheral Nerve Injury and Repair. Journal of the American Academy of Orthopaedic Surgeons, 
+(2000), 8(4), 243–252.
+[37] Waller A.: Experiments on the section of the glossopharyngeal and hypoglossal nerves of the frog, and observations of the al-
+terations produces thereby in the structure of their primitive fibers. Phil Transact Royal Soc London, (1850), 140, 423–429. 
+[38] Lee S.K., Wolfe S.W., Peripheral Nerve Injury Repair Journal of American Academy of Orthopaedic Surgeons (2000), 8, 
+243–252.
+[39] Hoke A.: Mechanisms of Disease: what factors limit the success of peripheral nerve regeneration in humans? Nature Clini-
+cal Practice, Neurology (2006) 2(8), 448–454.
+[40] Belkas J.S., Schoichet M.S., Midha R.: Peripheral nerve regeneration through guidance tubes. Neurological Research (2004), 
+26, 1–10.
+[41] Hall S.: The response to injury in the peripheral nervous system – review. The Journal of Bone and Joint Surgery (2005), 
+8(10), 1309–1319.
+[42] Burnett M.G., Zager E.L.: Pathophysiology of peripheral nerve injury: a brief review. Neurosurgery Focus (2004), 16, 5, 1–7.
+[43] Deumens R., Bozkut A., Meek M.F., Marcus M.A.E., Joosten E.A.J., Weis J., Brook G.A.: Repairing injured peripheral 
+nerves: Bridging the gap. Progress in Neurobiology (2010), 92, 245–276.
+[44] Priestley J.V., Ramer M.S., King V.R., McMahon S.B., Brown R.A.: Stimulating regeneration in the damaged spinal cord. 
+Journal of Physiology – Paris, (2002), 96, 123–133.
+[45] Reier P.J.: Cellular Transplantation Strategies for Spinal Cord Injury and Translational Neurobiology. The Journal of the 
+American Society for Experimental Neuro Therapeutics, (2004), 1, 424–451.
+[46] Horner P.J., Gage F.H.: Regenerating the damaged central nervous system – Review article. Nature, (2000), 407, 963–970.
+[47] Schwab J.M., Brechtel K., Mueller Ch.-A., Failli V., Kaps H.-P., Tuli S.K., Schluesener H.J.: Experimental strategies to 
+promote spinal cord regeneration – an integrative perspective. Progress in Neurobiology (2006) 91–116.
+[48] Abu-Rub M., McMahon S., Zeugolis D.I., Windebank A., Pandit A.: Spinal cord injury in vitro: modelling axon growth 
+inhibition, Drug Discovery Today, 2010, (15), 438–443.
+[49] Deumens R., Koopmans G.C., Joosten E.A.J.: Regeneration of descending axon tracts after spinal cord injury. Progress in 
+Neurobilogy, (2005) 57–89.
+[50] Kang K. N, Kim D.Y., Yoon S.M., Lee J.Y., Lee B.N., Kwon J.S., H. Seo H.W., Lee I.W., Shin H.C., Kim Y.M., Kim H.S., 
+Kim J.H., Min B.H., Lee H.B., Kim M.S.: Tissue engineered regeneration of completely transected spinal cord using human 
+mesenchymal stem cells. Biomaterials (2012), 33, 4828–4835.
+[51] Willerth S., Sakiyama-Elbert S.E.: Cell therapy for spinal cord regeneration. Advanced Drug Delivery Reviews, (2008), 60, 
+263–276.
+Anna Lis i wsp.76
+[52] Lu P., Jones L.L., Tuszynski M.H.: Axon regeneration through scars and into sites of chronic spinal cord injury. Experimen-
+tal Neurology, (2007), 203, 8–21.
+[53] Novikova L.N., Lobov S., Wiberg M., Novikov L.N.: Efficacy of olfactory ensheathing cells to support regeneration after 
+spinal cord injury is influenced by method of culture preparation. Experimental Neurology, (2011), 299, 132–142.
+[54] Mann C.M., Kwon B.K.: An Update on the Pathophysiology of Acute Spinal Cord Injury. Seminars in Spine Surgery, (2007), 
+19, 272–279.
+[55] Profyris C., Cheema S.S., Zang D.W., Azari M.F., Boyle K., Petratos S.: Degenerative and regenerative mechanisms gov-
+erning spinal cord injury – Review. Neurobiology of Disease, (2004), 15, 415–436.
+[56] Bauchet L., Lonjon N., Perrin F.E., Gilbert C., Privat A., Fattal C.: Strategies for spinal cord repair after injury: A review 
+of the literature and information. Annals of Physical and Rehabilitation Medicine, (2009), 52, 330–351.
+[57] Wilcox J.T., Cadotte D., Fehlings M.G.: Spinal cord clinical trials and the role for bioengineering – Review. Neuroscience 
+Letters, (2012), 519, 93–102.
+[58] He J. Wang X.M., Spector M., Cui F.Z.: Scaffolds for central nervous system tissue engineering. Frontier of Material Sci-
+ence (2012), 6(1), 1–25.
+[59] Lu P., Jones L.L., Tuszynski M.H.: Axon regeneration through scar and into site of chronic spinal cord injury. Experimen-
+tal Neurology (2007), 203, 8–21.
+[60] Madigan N.N., McMahon S., O’Brien T., Yaszemski M.J., Windebank A.J.: Current tissue engineering and novel thera-
+peutic approaches to axonal regeneration following spinal cord injury using polymer scaffolds – Frontiers Review. Respira-
+tory Physiology & Neurobiology, (2009), 169, 183–199.
+[61] Tabesh H., Amoabediny Gh., Nik N.S., Heydari M., Yosefifard M., Ranaei Siadat S.O., Mottaghy K.: The role of biode-
+gradable engineered scaffolds seeded with Schwann cells for spinal cord regeneration. Neurochemistry International, (2009), 
+54, 73–83.
+[62] Samadikuchaksaraei A.: An overview of tissue engineering approaches for management of spinal cord injuries – Review. 
+Journal of NeuroEgineering and Rehabilitation, (2007), 4:15.
+[63] Stichel C.C., Werner Muller H.: Experimental strategies to promote axonal regeneration after traumatic central nervous 
+system injury. Progress in Neurobiology, (1998), 56, 119–148.
+[64] Geller H.M., Fawcett J.W.: Building a Bridge: Engineering Spinal Cord Repair – Review. Experimental Neurology, (2002) 
+174, 125–136.
+[65] Onuki Y., Bhardwaj U., Papadimitrakopoulos F., Burgens D.J.: A review of the Biocompatibility of Implantable Devic-
+es: Current Challenges to Overcome Foreign Body Response. Journal Diabets Science and Technology (2008), 2(6), 1003–
+1015.
+[66] Błażewicz S.: Nazewnictwo i definicje dotyczące problematyki biomateriałów, w: Biocybernetyka i inżynieria biomedyczna 
+2000, tom 4 – Biomateriały, pod red. S. Błażewicza i L. Stocha, AOW EXIT (2003) 597–607.
+[67] Marciniak J.: Biomateriały, Wydawnictwo Politechniki Śląskiej, Gliwice (2002), Rozdział I.
+[68] Bhat S., Kumar A.: Biomaterials in Regenerative Medicine. Journal of Postgraduate Medicine Education Research (2012), 
+46(2), 81–89.
+[69] Patel N.R., Gohil P.P.: A review on Biomaterials: Scope, Applications & Human Anatomy Significance, International Jour-
+nal of Emerging Technology and Advanced engineering (2012), 2(4), 2450–2459.
+[70] Gogolewski S.: Produkty degradacji, w: Biocybernetyka i inżynieria biomedyczna 2000, tom 4 – Biomateriały, pod red. 
+S. Błażewicza i L. Stocha, AOW EXIT (2003) 257–330.
+[71] Pielka S., Paluch D., Staniszewska-Kuś J., Solski L., Lewandowska-Szumieł M.: Badania biozgodności materiałów im-
+plantacyjnych, w: Biocybernetyka i inżynieria biomedyczna 2000, tom 4 – Biomateriały, pod red. S. Błażewicza i L. Stocha, 
+AOW EXIT (2003) 437–439.
+[72] Będziński R., Pezowicz C., Szust A.: Biomechanika kręgosłupa, w: Biocybernetyka i Inżynieria Biomedyczna, tom 5 – Bio-
+mechanika, pod redakcją R. Będzińskiego, K. Kędziora, J. Kiwerskiego, A. Moreckiego, K. Skalskiego, A. Walla oraz A. Wi-
+ta, AOW EXIT (2004) 113–158.
+[73] Li Y., Yang S.-T.: Effects of Three-dimensional Scaffolds on Cell Organization and Tissue Development. Biotechnol. Bio-
+process Eng., (2001), 6, 311–325.
+[74] Hou Q., Gijpma D.W., Feijen J.: Preparation of Interconnected Highly Porous Polymeric Structures by a Replication and 
+Freeze-Drying Process.
+[75] Liu W., Themopoulos S., Xia Y.: Electrospun nanofibers for regenerative medicine. Advanced Health Materials (2012), 
+1(1), 10–25.
+[76] Martins A., Aranjo J.V., Reis R.L., Neves N.M.: Electrospun nanostructured scaffold for tissue engineering applications. 
+Nanomedicine (2007), 2(6), 929–942.
+[77] Sill T.J., von Recum H.A.: Electrospinning: applications in drug delivery and tissue engineering. Biomaterials (2008), 29(13), 
+1989–2006.
+[78] Kumbar S.G., James R., Nukavarapu S.P., Laurecin C.T.: Electrospun nanofiber scaffolds engineering soft tissues. Biomed-
+ical Materials (2008), 3, 3.
+[79] Zhang Y.Z., Su B., Venugopal J., Ramakrishna S., Lim C.T.: Biomimetic and bioactive nanofibers scaffolds from electro-
+spun composite nanofibers. International Journal of Nanomedicine (2007), 2(4), 623–638.
+ [80] Schmalenberg K.E., Uhrich K.E., Micropatterned polymer substrates control alignment of proliferation Schwann cells to 
+direct neuronal regeneration. Biomaterials (2005), 26, 1423–1430.
+Biomateriały 77
+ [81] Thomas A.M., Kubilius M.B., Holland S.J., Seidlits S.K., Boehler R.M., Anderson A.J., Cummings B.J., Shea L.D.: 
+Channel density and porosity of degradable bridging scaffolds on axon growth after spinal cord. Biomaterials (2013), 34, 
+2213–2220.
+ [82] Khare A.R., Peppas N.A.: Swelling/deswelling of ionic copolymer gels. Biomaterials (1995) 16, 559–567.
+ [83] Van Tomme S.R., Storm G., Hennik W.E.: In situ gelling hydrogels for pharmaceutical and biomedical applications. In-
+ternational Journal of Pharmaceuthics (2008), 355, 1–18.
+ [84] Baier R.E.: Surface behaviour of biomaterials: The thetha surface for biocompatibility. Journal of Material Science: Mate-
+rials in Medicine (2006), 17, 1057–1062.
+ [85] Roach P., Parker T., Gadegaard N., Alexander M.R.: Surface strategies for control of neuronal cell adhesion: A review. 
+Surface Science Reports (2010), 65, 145–173.
+ [86] Gogolewski S.: Metody przetwarzania polimerów na wyroby medyczne - Sterylizacja wyrobów polimerowych, w: Biocy-
+bernetyka i inżynieria biomedyczna 2000, tom 4 – Biomateriały, pod red. S. Błażewicza i L. Stocha, AOW EXIT (2003) 286–
+287.
+ [87] Ratajska M., Boryniec S.: Physical and chemical aspects of biodegradation of natural polymers. Reactive & Functional Pol-
+ymers, (1998), 38, 35–49.
+ [88] Dang Y.M., Leong K.W.: Natural polymers for gene delivery and tissue engineering, Advanced Drug Delivery Reviews, 
+(2006), 58, 487–499.
+ [89] Nair L.S., Laurecin C.T.: Biodegradable polymers as biomaterials. Progress in Polymer Science, (2007), 32, 762–798.
+ [90] Lloyd L.L., Kennedy J.F., Methacanon P., Peterson M., Knill C.J.: Carbohydrate polymers as wound management aids. 
+Carbohydrate Polymers 37 (1998) 315–322.
+ [91] Elbert D.L.: Liquid-liquid two-phase systems for the production of porous hydrogels and hydrogel microspheres for bio-
+medical applications: A tutorial review. Acta Biomaterialia, (2011), 7, 31–56.
+ [92] Eiselt P., Yeh J., Latvala R.K., Shea L.D., Mooney D.J.: Porous carriers for biomedical applications based on alginate hy-
+drogels. Biomaterials, (2000), 21, 1921–1927.
+ [93] Kong H.J., Smith M.K., Mooney D.J.: Desining alginate hydrogels to maintain viability of immobilized cells. Biomateri-
+als, (2003), 24, 4023–4029.
+ [94] Drury J.L., Mooney D.J.: Hydrogels for tissue engineering: scaffold design variables and applications. Biomaterials,(2003), 
+24, 4337–4351.
+ [95] Sheridan M.H., Shea L.D., Peters M.C., Mooney D.J.: Bioabsorbable polymer scaffolds for tissue engineering capable of 
+sustained growth factor delivery. Journal of Controlled Release, (2000), 64, 91–102.
+ [96] Kuo C.K., Ma P.X.: Ionically cross-linked alginate hydrogels as scaffolds for tissue engineering: Part 1. Structure, gelation 
+rate and mechanical properties. Biomaterials, (2001) 22, 511–521.
+ [97] Koc M.L., Ozdemir U., Imren D.: Prediction of the pH and the temperature-dependent swelling behavior of Ca2+ - algi-
+nate hydrogels by artificial neural networks. Chemical Engineering Science, (2008), 63, 2913–2919.
+ [98] Szarek D., Laska J., Jarmundowicz W., Błażewicz S., Tabakow P., Kaliński K., Woźniak Z., Mierzwa J.: Influence of Al-
+ginates on Tube Grafts of Different Elasticity – Preliminary In Vivo Study, Journal of Biomaterials and Nanotechnology, 
+(2012), 3, 20–30.
+ [99] Ashton R.S., Banerejee A., Punyani S., Schaffer D.V., Kane R.S.: Scaffolds based on degradable alginate hydrogels and 
+poly(lactide-co-glycolide) microspheres for stem cell culture. Biomaterials, (2007), 28, 5518–5525.
+[100] Banerjee A., Arha M., Choudhary S., Ashton S.R., Bhatia R.S., Schaffer D.V., Kane R.S.: The influence of hydrogel mod-
+ulus on the proliferation and differentiation of encapsulated neural stem cells. Biomaterials, (2009), 30, 4695–4699.
+[101] Matsuura Sh., Obara T., Tsuchiya N., Suzuki Y., Habuchi T.: Carvenous nerve regeneration by biodegradable alginate 
+gel sponge sheet replacement without sutures. Urology, (2006), 68, 1366–1371.
+[102] Suzuki Y., Kitatura M., Wu S., Kataoka K., Suzuki K., Endo K., Nishimura Y., Ide Ch.: Electrophysiological and horse-
+radish peroxidase-tracing studies of nerve regeneration through alginate-filled gap in adult rat spinal cord. Neuroscience 
+Letters, (2002), 138, 121–124.
+[103] Prang P., Mueller R., Eljaouhari A., Heckmann K., Kunz W., Weber T., Faber C., Vroemen M., Bogdahn U., Weidner 
+N.: The promotion of oriented axonal regrowth in the injured spinal cord by alginate-based anisotropic capillary hydro-
+gels. Biomaterials, (2006), 27, 3560–3569.
+[104] Pawar K., Muelle R., Caioni M., Prang P., Bogdahn U., Kunz W., Weidner N.: Increasing capillary diameter and the in-
+corporation of gelatin enhance axon outgrowth in alginate-based anisotropic hydrogels. Acta Biomaterialia (2011) 7, 2826–
+2834
+[105] Stokolos S., Sakamoto J., Breckon Ch., Holt T., Weiss J., Tuszynski M.H.: Templated Agarose Scaffolds Support Linear 
+Axonal Regeneration. Tissue Engineering, (2006), 12, 2777–2787.
+[106] Stokolos S., Tuszynski M.H.: Freeze-dried agarose scaffolds with uniaxial channels stimulate and guide linear axonal 
+growth following spinal cord injury. Biomaterials, (2006) 27, 443–451.
+[107] Gros T., Sakamoto J.S., Blesch A., Havton L.A., Tuszynski M.H.: Regeneration of long-tract axons through sites of spi-
+nal cord injury using templated agarose scaffolds. Biomaterials, (2010), 31, 6719–6729.
+[108] Zuidema M.J., Pap M.M., Jaroch B.D., Morisson F.A., Gillbert R.J.: Fabrication and characterization of tunable hydro-
+gels blends for neural repair. Acta Biomaterialia, (2011) 7, 1634–1643.
+[109] Crompton K.E., Goud J.D., Bellamkonda R.V., Gengenbach T.R., Finkelstein D.I., Horne M.K., Forsythe J.S.: Polylysine-
+functionalised thermoresponsive chitosan hydrogel for neural tissue engineering. Biomaterials, (2008), 28, 441–449.
+Anna Lis i wsp.78
+[110] Wang A., Ao Q., He Q., Gong X., Gong K., Gong Y., Zhao N., Zhang X.: Neural Stem Cell Affinity of Chitosan and Fea-
+sibility of Chitosan-Based Porous Conduits as Scaffolds for Nerve Tissue Engineering. Tsingua Science and Technology, 
+(2006), 11/4, 415–420.
+[111] Mo L., Yang Z., Zhang A., Li X.: The repair of the injured adult rat hippocampus with NT-3-chitosan carriers. Biomate-
+rials, (2010), 31, 2184–2192. 
+[112] Yang Z., Duan H., Mo L, Qiao H., Li X.: The effect of the dosage of NT-3/chitosan carriers on the proliferation and dif-
+ferentiation of neural stem cells. Biomaterials, (2010) 31, 4846–4854.
+[113] Everse S.J., Spraggan G., Veerapandin L., Riley M, Doolittle R.F.: Crystal structure a fragment double-D from human fi-
+brin with two different bound ligands. Biochemistry (1998); 37(24), 8637–8642.
+[114] Muszbek L., Bagdy Z., Bereczky Z., Katona E.: The involvement of blood coagulation factor XIII in fibrinolysis and 
+thrombosis. Cardiovascular & Haematological Agents in Medical Chemistry, (2008), 6(3), 190–205.
+[115] Ahmed T.A., Dare E.V., Hincke M.: Fibrin a: Versatile scaffold for tissue engineering applications. Tissue Engineering. 
+Part B Reviews, (2008), 14, 199–215.
+[116] Evans S.A., Ferguson K.H., Foley J.P., Rozanski T.A., Morey A.F.: Fibrin sealant for the management of genitourinary 
+injuries, fistulas and surgical complications. The Journal of Urology, (2003), 169, 1360–1362.
+[117] Philips J.B., King V.R., Ward Z., Porter R.A., Priestly J.V., Brown R.A.: Fluid shear in viscous fibronectin gels allows ag-
+gregation of fibrous materials for CNS tissue engineering. Biomaterials, (2004), 25 (14), 2769–79.
+[118] King V.R., Hensler M., Brown R.A., Priestley J.V..: Mats made from fibronectin support oriented growth of axons in the 
+damaged spinal cord of the adult rat. Experimental neurology, (2003), 182, 383–398.
+[119] King V.R., Alovskaya A., Wei D.Y.T., Brown R.A., Priestley J.V.: The use of injectable forms of fibrin and fibronectin to 
+support axonal ingrowth after spinal cord injury. Biomaterials, (2010), 31, 4447–4456.
+[120] Ahmed Z., Idowu B.D., Brown R.A.: Stabilization of fibronectin mats with micromolar concentrations of copper. Bioma-
+terials, (1999), 20, 201–209.
+[121] King V.R., Philips J.B., Hunt-Grubbe H., Brown R., Priestley J.V.: Characterization of non-neuronal elements within fi-
+bronectin mats implanted into the damaged adult rat spinal cord. Biomaterials, (2006), 27, 485–496.
+[122] King V.R., Philips J.B., Brown R.A., Prietley J.V.: The effect of treatment with antibodies to transforming growth factor 
+beta I and beta 2 following spinal cord damage in the adult rat. Neuroscience, (2004), 126, 173–183.
+[123] Soon A.S.C., Stabenfeldt S.E., Brown W.E., Barker T.H.: Engineering fibrin matrices: The engagement of polymeriza-
+tion pockets through fibrin knob technology for the delivery and retention of therapeutic proteins. Biomaterials, (2010), 
+31, 1944–1954.
+[124] Taylor S.J., J. McDonald J.W. III, Sakiyama-Elbert S.E.: Controlled release of neurotrophin-3 from fibrin gels for spinal 
+cord injury. Journal of Control Release, (2004), 98, 281–294.
+[125] Price R.D., Berry M.G., Navsaria H.A.: Hyaluronic acid: the scientific and clinical evidence. Journal of Plastic, Recon-
+structive and Aesthetic Surgery, (2007), 60, 1110–1119.
+[126] Eng D., Caplan M., Preul M., Panitch A.: Hyaluronan scaffolds: A balance between backbone functionalization a bioac-
+tivity. Acta Biomaterialia, (2010), 6, 2407–2414.
+[127] Baumann M.D., Kang C.E., Tator C.H., Shoichet M.S.: Intrathecal delivery of a polymeric nanocomposites hydrogel af-
+ter spinal cord injury. Biomaterials, (2010), 31, 7631–7639.
+[128] Gupta D., Tator C.H., Shoichet M.S.: Fast-gelling injectable blend of hyaluronan and methylcellulose for intrathecal, lo-
+calized delivery to the injured spinal cord. Biomaterials, (2006), 27, 2370–2379.
+[129] Schnell E., Klinkhammer K., Balzer S., Brook G., Klee D., Dalton P., Mey J.: Guidance of glial cell migration and axonal 
+growth on electrospun nanofibers of poly-ε-caprolactone and a collagen/poly-ε-caprolactone blend. Biomaterials, (2007), 
+28, 3012–3025.
+[130] Ding T., Luo Z.J., Zheng Y., Hu X-Y., Ye Z.X.: Rapid repair and regeneration of damaged rabbit sciatic nerves by tissue-
+engineered scaffold made from nano-silver and collagen type I. Injury. Int. J. Care Injured, (2010), 41, 522–527.
+[131] Wang B., Zhao Y., Lin H., Chen B., Jing Z., Zhang J., Wang X., Zhao W., Dai J.: Phenotypical analysis of adult rat olfac-
+tory ensheathing cell on 3-D collagen scaffolds. Neuroscience Letters, (2006), 401, 65–70.
+[132] Jarmundowicz W. Tabakow P., Czapiga B., Międzybrodzki R., Fortuna W., Górski A.: Glejowe komórki węchowe 
+– nadzieja w leczeniu urazów rdzenia kręgowego (Olfactory glial cells: hope in the treatment of spinal cord injuries). Neu-
+rologia i Neurochirurgia Polska (2004), 38(5), 413–420.
+[133] Wang B., Han J., Gao Y., Xiao Z., Chen B., Wang X., Zhao W., Dai J.: The differentiation of rat adipose-derived stem 
+cells into OEC-like cells on collagen scaffolds by co-culturing with OECs. Neuroscience Letters, (2007), 421, 191–196.
+[134] Han Q., Jin W., Xiao Z., Ni H., Wang J., Kong J., Wu J., Liang W., Chen L., Zhao B., Dai J.: The promotion of neural 
+regeneration in an extreme rat spinal cord injury model using a collagen scaffold containing a collagen binding neuropro-
+tective protein and an EGFR neutralizing antibody. Biomaterials, (2010), 31, 9212–9220.
+[135] Liang W., Han Q., Jin W., Xiao Z., Haung J., Ni H., Chen B., Kong J., Wu J., Dai J.: The promotion of neurological re-
+coevery in the rat spinal cord crushed injury model by collagen-binding BDNF. Biomaterials, (2010), 31, 8634–8641.
+[136] Petter-Puchner A.H., Froetscher W., Krametter-Froetscher R., Lorinson D., Redl H., van Griensven M.: The long-term 
+neurocompatibility of human fibrin sealant and equine collagen as biomaterices in experimental spinal cord injury. Experi-
+mental and Toxicologic Pathology, (2007), 58, 237–245.
+[137] Fuhrmann T., Hillen L.M., Montzka K., Woltje M., Brook G.A.: Cell-Cell interactions of human neural progenitor-de-
+rived astrocytes within a microstrutured 3D-scaffold. Biomaterials, (2010), 31, 7705–7715.
+Biomateriały 79
+[138] Rezwan K., Chen Q.Z., Blaker J.J., Boccaccini.: Biodegradable and bioactive porous polymer/inorganic composite scaf-
+folds for bone tissue engineering. Biomaterials, (2006), 27, 3413–3431.
+[139] Wu L., Ding J.: In vitro degradation of three-dimensional porous poly(D,L – lactide-co-glycolide) scaffolds for tissue en-
+gineering. Biomaterials, (2004), 25, 5821–5830. 
+[140] Kim H.D., Bae E.H., Kwon I.C.: Effect of PEG-PLA diblock copolymer on macroporous PLLA scaffolds by thermally in-
+duced phase separation. Biomaterials, 2004, 25, 2319–2329.
+[141] Yang F., Qu X., Ciu W., Bei J., Yu F., Lu S., Wang S.: Manufacturing and morphology structure of polylactide-type mi-
+croturbules orientation structured scaffolds. Biomaterials (2006), 27, 4923–4933.
+[142] Freed L., Marquis J.C., Nohina A., Emmanual J., Kikos A.G., Langer R.: Neocartillage formation in vitro and in vivo us-
+ing cells cultured on synthetic biodegradable polymers. J. Biomed Mater Res, (1993), 23, 11–23.
+[143] Mikos A.G., Bao Y., Cima L.G.: Preparation of poly(glycolic-acid) bonded fiber structures for cell attachment and trans-
+plantation. J. Biomed Mater Res, (1993), 27, 183–189.
+[144] Nam Y.S., Park T.G.: Biodegradable polymeric microcellular foams by modified thermally induced phase separation meth-
+od. Biomaterials, (1999), 20, 1783–1790.
+[145] Shi G.X., Cai Q, Wang C.X.: Fabrication of cell scaffold of poly(L-lactic acid) and poly(L-lactic-co-glycolic acid) and bio-
+compatibility. Polymer Advanced Technology, (2002), 13, 227–232.
+[146] Yang I, Wan Y.Q., Tu C.F.: Enhancing the cell affinity of macroporous poly(L-lactide) cel scaffold by a convenient surface 
+modification method. Polym Inter, (2003), 52, 1892–1898.
+[147] Kim B.S., Mooney D.J.: Development of biocompatible synthetic extracellular matrices for tissue engineering. Trends Bi-
+otechnol, (1998), 16, 224–230.
+[148] Vacanti C., Longer R., Schloo B., Vacanti J.P.: Synthetic polymers seeded with chondrocytes provide a template for new 
+cartilage formation. Plast Reconstr Surg, (1991), 88, 753–759.
+[149] Freed L., Grand D., Lingbin Z., Emmanual J., Marquis J.C., Langer R.: Joint resurfacing using allograft chondrocytes and 
+synthetic biodegradable polymer scaffolds. J. Biomed. Mater. Res. (1994), 28, 891–899.
+[150] Tu C.F., Cai Q, Yang I.: The fabrication and characterization of poly(lactic-acid) scaffolds for tissue engineering by im-
+proved solid-liquid phase separation.Polymer Advanced Technology, (2003), 29, 565–573.
+[151] Ghasemi-Mobarakeh L., Prabhakaran M.P., Morshed M., Nasr-Esfahani M-H, Ramakrishna S.: Electrospun poly(ε-
+caprolactone)/gelatin nanofibrous scaffolds for nerve tissue engineering. Biomaterials, (2008), 29, 4532–4539.
+[152] Bechara S.L., Judson A., Popat K.C.: Template synthesized poly(ε-caprolactone) nanowire surface for neural tissue engi-
+neering. Biomaterials, (2010), 31, 3492–3510.
+[153] Runge M. B, Dadsetan M., Baltrusaitis J., Knight A.M., Ruesink T., Lazcano E.A., Windebank A.J., Yaszemski M.J.: 
+The development of electrically conductive polycaprolactone fumurate – polopyrrole composites materials for nerve regen-
+eration. Biomaterials, (2010), 31, 5916–5926.
+[154] Moore M.J., Friedman J.A., Lewellyn E.B., Mantila S.M., Krych A.J., Ameenuddin S., Knight M., Lu L., Currier B.L., 
+Spinner R.J., Marsh R.W., Windebank A.J., Yaszemski M.J.: Multiple-channel scaffolds to promote spinal cord axon re-
+generation. Biomaterials, (2006), 27, 419–429.
+[155] Tuinstra H.M., Aviles M.O., Shin S., Holland S.J., Zelivyanskaya M.L., Fast A.G., Ko S.Y., Margul D.J., Bartels A.K., 
+Boehler R.M., Cummings B.J., Anderson A.J., Shea L.D.: Multifunctional, multichannel bridges that deliver neurotroph-
+in encoding lentivrus for regeneration following spinal cord injury. Biomaterials, (2012), 33, 1618–1626.
+[156] Shin S., Tuinstra H.M., Salvay D.M., Shea L.D.: Phoshatidysertine inmmobilization of lentivirus for localized gene trans-
+fer. Biomaterials, (2010), 31, 4353–4359.
+[157] De Laporte L., Lei Yan A., Shea D.L.: Local gene delivery from ECM-coated poly(lactide-co-glycolide) multiple channel 
+bridges after spinal cord injury. Biomaterials, (2009), 30, 2361–2368.
+[158] Nojehdeihian H., Moztarzadeh F., Baharvand H., Nazarian H., Tahriri M.: Preparation and surface characterization of 
+poly-L-lysine-coated PLGA microsphere scaffold containing retinoic acid for nerve tissue engineering: In vitro study. Col-
+loids and Surface B: Biointefaces, (2009), 73, 23–29.
+[159] Lee J.Y., Bashur C.A., Goldstein A.S., Schmidt C.E.: Polypyrrole-coated electrospun PLGA nanofibers for neural tissue 
+applications. Biomaterials, (2009), 30, 4325–4335.
+[160] Patist C.M., Mulder Borgerhoff M., Gautier S.E., Maquet V., Jerome R., Oudega M.: Freeze-dried poly(D.L – lactic ac-
+id) macroporous guidance scaffolds impregnated with brain-derived neurotrophic factor in the transected adult rat tho-
+racic spinal cord. Biomaterials, (2004), 25, 1569–1582.
+[161] Hurtado A., Moon L.D.F., Maquet V., Blits B., Jerome R., Oudega M.: Poly (D,L – lactic acid) macroporous guidance 
+scaffolds seeded with Schwann cells genetically modified to secrete a bi-functional neurotrophin implanted in the com-
+pletely transected adult rat thoracic spinal cord. Biomaterials, (2006), 27, 430–442.
+[162] Yang F., Murugan R., Ramakrishna S., Wang X., Ma Y.. H., Wang S.: Fabrication of nano-structured porous PLLA scaf-
+fold intended for nerve tissue engineering. Biomaterials, (2004), 25, 1891–1900.
+[163] Wang H.B., Mullins M.E., Cregg J.M., McCarthy C.W., Gilbert R.J.: Varying the diameter of aligned electrospun fibers 
+alters neurite outgrowth and Schwann cell migration. Acta Biomaterials, (2010), 6, 2970–2978.
+[164] Hurtado A., Cregg J.M., Wang H.B., Wendell D.F., Oudega M., Gilbert R.J., McDonald J.W.: Robust CNS regeneration af-
+ter complete spinal cord transection using aligned poly-L-lactic acid microfibers. Biomaterials, (2011), 32, 6068–6079.
+[165] Novikov L.N., Novikova L.N., Mosahebi A., Wiberg M., Terenghi G., Kellerth J.O.: A novel biodegradable implant for 
+neuronal rescue and regeneration after spinal cord injury. Biomaterials, (2002), 23, 3369–3376.
+Anna Lis i wsp.80
+[166] Xu X.Y., Li X.T., Peng S.W., Xiao J.-F., Liu C., Fang G., Chen K.C.,Chen G.-Q.: The behaviour of neural stem cells on 
+polyhydroxyalkanoate nanofiber scaffolds. Biomaterials, (2010), 31, 3967–3975.
+[167] Wang L., Wang Z.-H., Shen C.Y., You M.L., Xiao J.F., Chen G.Q.: Differentiation of human bone marrow mesenchymal 
+stem cells grown in terpolyesters of 3-hydroxyalkanoates scaffolds into nerve cells. Biomaterials, (2010), 31, 1691–1698.
+[168] Yucel D., Kose G.T., Hasirci V.: Polyester based nerve guidance conduit design. Biomaterials, (2010), 31, 1596–1603.
+[169] Mahoney J.M., Anseth K.S.: Three-dimensional growth and function of neural tissue in degradable polyethylene glycol 
+hydrogels. Biomaterials, (2006), 27, 2265–2274.
+[170] Namba R.M., Cole A.A., Bjugstad K.B., Mahoney M.J.: Development of porous PEG hydrogels that enable efficient, uni-
+form cell-seeding and permit early neural process extension. Acta Biomaterialia, (2009) 5, 1884–1897.
+[171] Wang H., Zhang S., Liao Z., Wang C., Liu Y., Feng S., Jiang X., Chang J.: PEGlated magnetic polymeric liposome an-
+chored with TAT for delivery of drugs across the blood-spinal cord barrier. Biomaterials, (2010), 31, 6589–6596.
+[172] Woerly S., Pinet E., de Robertis L., Van Diep D. Bousmina: Spinal cord repair with PHPMA hydrogel containing RGD 
+peptides (NeuroGelTM). Biomaterials, (2011) 22, 1095–1111.
+[173] Flynn L., Dalton P.D., Schoichet M.S.: Fiber templating of poly(2-hydroxyethyl methacrylate) for neural tissue engineer-
+ing, Biomaterials, (2003), 24, 4265–4272.
+Adres do korespondencji:
+Anna Lis, Jadwiga Laska
+Akademia Górniczo-Hutnicza
+Wydział Inżynierii Materiałowej i Ceramiki
+Katedra Biomateriałów
+Al. Mickiewicza 30
+30–059 Kraków
+Tel: 12 617 47 44, 12 617 23 31
+E-mail: annal@agh.edu.pl, jlaska@agh.edu.pl

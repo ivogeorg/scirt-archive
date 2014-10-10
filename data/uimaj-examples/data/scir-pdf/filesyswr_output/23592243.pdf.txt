@@ -1,0 +1,1661 @@
+aRESEARCH ARTICLE
+Expression Pattern of Nogo-A, MAG, and NgR
+in Regenerating Urodele Spinal Cord
+Subhra Prakash Hui,1 James R. Monaghan,2 S. Randal Voss,3 and Sukla Ghosh1*
+Background: The mammalian central nervous system is incapable of substantial axon regeneration after
+injury partially due to the presence of myelin-associated inhibitory molecules including Nogo-A and mye-
+lin associated glycoprotein (MAG). In contrast, axolotl salamanders are capable of considerable axon
+regrowth during spinal cord regeneration. Results: Here, we show that Nogo-A and MAG, and their recep-
+tor, Nogo receptor (NgR), are present in the axolotl genome and are broadly expressed in the central nerv-
+ous system (CNS) during development, adulthood, and importantly, during regeneration. Furthermore,
+we show that Nogo-A and NgR are co-expressed in Sox2 positive neural progenitor cells. Conclusions:
+These expression patterns suggest myelin-associated proteins are permissive for neural development and
+regeneration in axolotls. Developmental Dynamics 242:847–860, 2013. VC 2013 Wiley Periodicals, Inc.
+Key words: regeneration; axolotl; spinal cord injury (SCI); Nogo-A; Nogo receptor (NgR); myelin associated glycopro-
+tein (MAG)
+Key Findings:
+ Myelin associated factors (MAFs) are expressed in axolotl spinal cord during development and adulthood.
+ Both Nogo-A and NgR are expressed in neural progenitor cells during spinal cord regeneration.
+ In contrast to mammals these MAFs are permissive for CNS development and regeneration in axolotl.
+Accepted 28 March 2013
+INTRODUCTION
+The failure of axon regeneration in
+the mammalian central nervous sys-
+tem (CNS) is partly due to the pres-
+ence of myelin-associated inhibitory
+factors (MAFs) (Berry, 1982). The
+three MAFs present in mammalian
+CNS myelin are Nogo (Chen et al.,
+2000; Grandpre et al., 2000; Prinjha
+et al., 2000; Buchli and Schwab,
+2005), myelin associated glycoprotein
+(MAG) (McKerracher et al., 1994),
+and oligodendrocyte-myelin glycopro-
+tein (OMgp) (Kottis et al., 2002; Wang
+et al., 2002). These molecules impair
+neurite outgrowth in vitro and are
+thought to limit axonal growth in vivo
+after CNS injury (Schwab and Caroni,
+1988; Caroni and Schwab, 1988)
+through binding to a common recep-
+tor, the Nogo-66 receptor (NgR) (Four-
+nier et al., 2001; Wang et al., 2002;
+Domeniconi et al., 2002; Liu et al.,
+2002). Binding of MAFs to NgR indu-
+ces intracellular signaling by means
+of activation of the neuronal GTPase
+RhoA, which regulates cytoskeletal
+dynamics and axonal outgrowth
+(McGee and Strittmatter, 2003;
+Burridge and Wennerberg, 2004).
+Due to their inhibitory properties,
+MAFs and their downstream signal-
+ing components are considered tar-
+gets for treating CNS trauma (Buchli
+and Schwab, 2005; Freund et al.,
+2006). However, to gain more insight
+into the therapeutic potential of
+MAFs, we studied their expression
+during development and injury. So
+far, none of these molecules has been
+cloned in axolotl and little is known
+about patterns of expression and
+function in this regeneration compe-
+tent species. Here, we describe the
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Additional Supporting Information may be found in the online version of this article.
+1Department of Biophysics, Molecular Biology and Bioinformatics, University of Calcutta, Kolkata, India
+2Department of Biology, Northeastern University, Boston, Massachusetts
+3Department of Biology, University of Kentucky, Lexington, Kentucky
+Grant sponsor: Department of Science and Technology, Government of India; Grant number: SR/SO/AS-26/2004; Grant sponsor: Depart-
+ment of Biotechnology, Government of India; Grant number: DBT/BT/PR13953/AAQ/03/523/2010; Grant sponsor: Kentucky Spinal Cord
+and Brain Injury Research Trust; Grant sponsor: National Science Foundation.
+Drs. Hui and Managhan contributed equally to this work.
+*Correspondence to: Sukla Ghosh, Department of Biophysics, Molecular Biology and Bioinformatics, University of
+Calcutta, 92 A. P. C. Road, Kolkata 2700009, India. E-mail: suklagh2010@gmail.com
+DOI: 10.1002/dvdy.23976
+Published online 17 April 2013 in Wiley Online Library (wileyonlinelibrary.com).
+DEVELOPMENTAL DYNAMICS 242:847–860, 2013
+VC 2013 Wiley Periodicals, Inc.
+cloning of nogo-A and expression
+analyses of Nogo-A, NgR, and MAG.
+In contrast to mammals, some tele-
+ost fish and amphibians can substan-
+tially regenerate axons after spinal
+cord injury (SCI), apparently perform-
+ing this task by circumventing the in-
+hibitory factors found in mammals.
+Studies have shown that goldfish and
+axolotl CNS myelin are permissive
+substrates for mammalian axon
+growth and do not induce growth cone
+collapse, suggesting that fish and axo-
+lotls do not express MAFs in their
+CNS (Bastmeyer et al., 1991; Lang
+et al., 1995; Ankerhold et al., 1998).
+Recent work has demonstrated that
+nogo (Shypitsyna et al., 2011), mag,
+omgp (Bradford et al., 2011) and ngr
+(Klinger et al., 2004) are present in
+the zebrafish genome, another regen-
+eration competent species capable of
+axon regeneration. The mammalian
+nogo gene is unique among MAFs
+because it codes for a long isoform
+termed Nogo-A, which contains two
+axon outgrowth inhibitory domains
+(Grandpre et al., 2000; Oertle et al.,
+2003). Of interest, this isoform has
+recently been discovered in zebrafish,
+so it is not the presence or absence of
+MAFs that determines regenerative
+ability (Shypitsyna et al., 2011). Here,
+we corroborate these results by iden-
+tifying nogo, mag, omgp, and ngr in
+the axolotl. We also investigated
+Nogo-A, MAG, and NgR expression in
+the embryonic and adult axolotl CNS,
+and after SCI. We show that MAFs
+and NgR are broadly expressed in the
+CNS during development and regen-
+eration, which suggests they may
+have important functional roles
+beyond inhibition of axon outgrowth.
+RESULTS
+Time Course Analysis of
+Axonal Regrowth After Injury
+To evaluate the extent of axonal regen-
+eration in axolotl spinal cord, cords
+were transected and tissues were col-
+lected at several time points after injury
+(Fig. 1). Histological staining using tri-
+chrome (Fig. 1A–H) and luxol fast blue/
+cresyl violet (Fig. 1I–K) showed the
+presence of white matter, axonal fibers,
+oligodendrocyte cell bodies, and gray
+matter in uninjured (Fig. 1A,B,I) and
+injured cord (Fig. 1C-H,J-K). The gray
+matter was composed of a compact
+layer of ependyma that surrounded the
+ependymal canal (not shown), as well
+as neurons located in the sub-
+ependyma (Fig. 1B,I). Neurons were
+identified in the gray matter by stain-
+ing with the neuronal marker, NeuN
+(Fig. 2D). At 3 days postinjury (dpi), red
+blood cells (RBCs) were observed within
+the injury site, the ependymal canal
+was disrupted, and there was a sub-
+stantial loss of white and gray matter
+tissue (Fig. 1C). Complete spinal cord
+transection was confirmed because
+two separate stumps were clearly
+observed in histological sections and
+no spared axons were seen at 3 dpi
+(Fig. 1C). The ependymal canal was
+sealed in 5 dpi cords (Fig. 1E) and ep-
+endymal bulb formation was observed
+in 7 dpi cords, when the two separate
+stumps were still recognizable (Fig.
+1F,G,J). As time progressed, white and
+gray matter regeneration occurred
+simultaneously. Axonal regeneration
+was observed at the injury epicenter
+at 15 dpi (Fig. 1K,K.1), 21 dpi (Fig.
+1H,H.1), and 30 dpi (data not shown),
+and the regeneration of neurons was
+also evident in the injury epicenter
+(Fig. 1H.1,K.1). Although regeneration
+was substantial, we note that the
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 1. Time course analysis of regeneration after transection injury of the adult axolotl spinal cord. Longitudinal sections of uninjured (A,B,I) and
+injured (C–H,K) axolotl spinal cord after trichrome (A–H) and luxol fast blue & cresyl violet (I–K) staining, respectively. A,B,I: Uninjured cord sections
+show the presence of white matter (WM) and constituent axons (white arrow), gray matter (GM) and compact ependyma (ep). C: A 3 days postinjury
+(dpi) section showing transected cord with loss of tissue and infiltration of red blood cells (red arrow) at the injury epicenter (double red star). D,E: Sec-
+tions of 5 dpi cord showing separated stumps at the injury epicenter (double red star) and in a subsequent section, sealing of the ependymal canal
+(eps) is obvious. E.1: Same 5 dpi cord section at higher magnification showing sealed ependymal canal (eps). F: Section of 7 dpi cord shows forma-
+tion of the ependymal bulb (epb). G,J: Two different sections of 7 dpi cord showing separate stumps with no axonal sparing. H,H.1: (Higher magnifica-
+tion of H): Section of 21 day regenerated cord showing axonal regrowth (black arrow) and cell bodies (red arrowheads) at the injury epicenter (double
+red star). K: 15 dpi cord showing regenerated axons at the injury epicenter (double red star). K.1: Higher magnification showing both regenerating
+axon (black arrow) and cell bodies (red arrowheads) at the injury site. Scale bar¼ 300 mm in A–H,K, 100 mm in H.1,J, 50 mm in E.1,I,K.1.
+848 HUI ET AL.
+volume of white matter was less than
+uninjured cords at 15, 21, and 30 dpi.
+Expression of RT-97 in
+Uninjured and Injured Cord
+To further characterize axonal changes
+after transection injury, we stained
+uninjured and injured spinal cords
+using an antibody, RT-97 that recog-
+nizes neurofilament. In uninjured spi-
+nal cords, axons were distributed
+throughout the white matter (Fig.
+2A,B). At 7 dpi, RT-97 expression was
+observed in the white matter,
+extending from the rostral and caudal
+stumps into uninjured regions of the
+severed cord (Fig. 2E). At 21 dpi (Fig.
+2F,F.1) and 30 dpi (data not shown),
+expression of RT-97 was seen within
+the injury epicenter, suggesting axonal
+regeneration following SCI.
+Identification of NOGO-A,
+MAG, OMGP, and RTN4R
+To establish that axolotls have ortholo-
+gous axolotl sequences for nogo, mag,
+omgp, and rtn4r (gene encodes for NgR
+protein); groups of overlapping
+expressed sequence tags (isotigs) with
+sequence identity to MAFs were col-
+lected from Sal-Site (www.ambystoma.
+org). Blastx searches using isotigs as
+query sequences revealed high similar-
+ity to presumptive human orthologs
+(Supp. Table S1, which is available
+online). Furthermore, reciprocal blast
+searches of human MAFs to the axolotl
+database identified the same isotigs,
+strongly suggesting that all three
+MAFs and their receptor rtn4r are
+present in the axolotl.
+Considering that the long Nogo-A
+protein isoform has been suggested to
+be absent in some lower vertebrates
+(Diekmann et al., 2005), we present
+additional evidence to establish that ax-
+olotl nogo (axNogo) is orthologous to
+amniote nogo-a. axNogowas genetically
+mapped to conserved synteny block 69
+on linkage group 13 (LG13) of the
+Ambystoma genetic map (Voss et al.,
+2011). Eleven orthologous axolotl-
+chicken genes in this conserved synteny
+block, including axNogo, establishes
+that axNogo corresponds to amniote
+nogo. Overall, the presence of nogo-a in
+urodeles, anurans (Klinger et al., 2004),
+and bony fish (Shypitsyna et al., 2011)
+indicate that its origin dates to early-
+jawed vertebrates. Clearly, it is not the
+presence or absence of the MAFs in the
+genomes of these animals that deter-
+mines regenerative ability.
+Comparison of Vertebrate
+Nogo-A Protein Sequences
+To gain comparative insight about
+Nogo-A protein structure, we per-
+formed more complete sequence
+comparisons between axolotl Nogo-A
+and other vertebrate Nogo-A proteins.
+Protein alignments showed that the
+highest similarity between vertebrate
+Nogo proteins occurs within the retic-
+ulon homology domain (RHD) located
+at the carboxyl terminus (Fig. 3A).
+The axolotl RHD is 87% similar to the
+corresponding region in rat Nogo-A;
+only 34% of the non-RDH sequences
+are similar across the rest of the pro-
+tein. The RHD contains two 34
+amino acid (aa) predicted transmem-
+brane domains surrounding a 66 aa
+extracellular domain (Nogo-66; boxed
+area in 3A) that is thought to inhibit
+neurite outgrowth through binding to
+Nogo receptor (Fournier et al., 2001).
+The 800 aa Nogo-A specific region is
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 2. RT-97 expression in uninjured and injured cord to show axonal regrowth after injury in
+adult axolotl spinal cord. Longitudinal sections of uninjured and injured cord stained with axonal
+marker RT-97. A: Section of uninjured cord showing axonal distribution (white arrow) in white
+matter as stained by RT-97 and counterstained with DAPI. B: A cross-section of uninjured cord
+showing normal distribution of axons (white arrow) in white matter. C: Differential interference
+contrast (DIC) image of B. D: Adjacent section of the same cord as in B stained with neuronal
+marker NeuN to show relative position of the neurons in the gray matter (white arrowheads). E:
+A 7 days post-injury (dpi) cord section showing RT-97 staining in the two stumps at the injury
+epicenter (double red star). F: Section of a 21 day regenerating cord showing presence of axons
+in normal part of the cord and reappearance of axonal fibers in the white matter of the injury
+site (double red star). F.1: Same cord at higher magnification showing regenerated axons (yellow
+arrow) in the injury site. Scale bar¼ 300 mm in A,E,F, 100 mm in B,C,D, 50 mm F.1.
+EXPRESSION OF MAFS IN REGENERATING SPINAL CORD 849
+more divergent with similarity rang-
+ing from 32 to 36% between all verte-
+brates analyzed. A highly inhibitory
+region found within the rat Nogo-A
+specific region termed D20 (Oertle
+et al., 2003) shows higher similarity
+(45%) between rat and axolotl com-
+pared with the entire Nogo-A specific
+region (34%) (Fig. 3B). Overall, the
+regions responsible for inhibitory
+properties in mammals are more
+highly conserved in axolotls than the
+rest of the protein, suggesting conser-
+vation of function.
+Expression of Nogo-A and
+NgR
+Expression of Nogo-A and its receptor
+NgR were evaluated at the transcript
+and protein levels. Reverse transcrip-
+tase polymerase chain reaction (RT-
+PCR) analysis showed that nogo-a
+and rtn4r transcripts were abundant
+in the nervous system including the
+eye, brain, and spinal cord (Figs. 4A,
+5A). In situ hybridization localized
+nogo-a transcripts in gray matter
+neurons and cells in the white matter
+of the brain (Fig. 4B,C), and in the
+spinal cord (Fig. 4D,E). RT-PCR also
+showed that nogo-a and rtn4r tran-
+script levels did not significantly
+change during spinal cord regenera-
+tion (Figs. 4G, 5B).
+Similar results were observed at
+the protein level. Immunohistochem-
+istry identified Nogo-A and NgR pro-
+tein in the cerebellum, tectum, (Figs.
+4F,4F.1; Fig. 5C,5C.1), and spinal
+cord (Figs. 4H-L, 5D-H). Western blot
+analysis demonstrated that the anti-
+Nogo-A and anti-NgR antibodies spe-
+cifically recognized their targets and
+that each protein was expressed in
+uninjured tails (presumably spinal
+cords) as well as tail blastemas at 7
+and 15 dpi (Fig. 3D,E). Immunohisto-
+chemistry was used to localize expres-
+sion to white matter glia, white
+matter axons, and gray matter neu-
+rons of uninjured spinal cords (Figs.
+4I,4I.1, Fig. 5E,5E.1; Supp. Fig. S2B)
+at 3 dpi (Figs. 4J-L.2, 5F-F.2,H,H.1),
+7 dpi (Fig. 5G,G.1), and 15 dpi cord
+(data not shown). Specifically, Nogo-A
+was present in the axons, neurons
+(Fig. 4J,J.1,J.2,L; Supp. Fig. S2C),
+and cells near sub-pial membranes
+(Fig. 4J). To confirm neuronal
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 3. Protein alignments of tetrapod Nogo-A. A: Predicted protein sequence alignment of the highly conserved carboxyl end of Nogo-A charactistic
+of all reticulon proteins. The red box indicates the Nogo-66 domain. B: Predicted protein sequence alignment of the D20 inhibitory domain located in the
+Nogo-A-specific region of the protein. Black shading represents 100% homology and gray shading representing similar amino acids. The red boxes indi-
+cate the known inhibitory regions within mammalian Nogo-A. C: Gel electrophoresis of the nested reverse transcriptase polymerase chain reaction prod-
+uct as produced using appropriate forward and reverse primers. D–F: Western blot analysis of Nogo-A, Nogo receptor (NgR), myelin associated
+glycoprotein (MAG) proteins respectively in axolotl uninjured tail and tail blastema. M¼PageRuler Broad Range Protein Ladder (Thermo Scientific, USA),
+1¼ uninjured tail, 2¼ 7 day tail blastema, 3¼ 15 day tail blastema. G: GAPDH (glyceraldehyde-3-phosphate dehydrogenase) was used as control.
+850 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 4. Expression of Nogo-A in adult axolotl brain, uninjured cord and injured cord. A: Reverse transcriptase polymerase chain reaction (RT-
+PCR) of nogo-a in axolotl tissues compared with expression in adult human and X. laevis tissues. The top band is the specific nogo-a PCR prod-
+uct. The bottom band is the control EF-1a PCR product. The plus (þ) and minus (–) indicate expression in humans and X. laevis modified from
+Klinger et al. (2004). H, heart; B, brain; E, eye; Sp, spleen; Sk, skin; G, gill; SC, spinal cord; Lu, lung; M, muscle; Li, liver. B,B.1: Representative
+antisense and sense nogo-a probe staining (black arrowhead) in the medial pallium region of axolotl brain, respectively. C,C.1: Representative anti-
+sense and sense nogo-a probe staining (black arrowhead) in the section of optic tectum region of axolotl brain, respectively. Note strong staining
+in the gray matter, within presumptive neurons. D: Both gray matter (black arrowhead) and white matter (red arrowhead) regions of the adult axo-
+lotl spinal cord show presence of nogo-a transcript. Ventral (black arrowhead) and dorsal (green arrowhead) neurons are both nogo-a positive. A
+few nogo-a positive cells in the white matter (red arrowhead) are likely oligodendrocytes. E: Presence of nogo-a transcript in an uninjured tail sec-
+tion. Staining is present in neurons, with strongest staining in the location of ventral neurons (black arrowhead). F: Immunohistochemical staining
+of Nogo-a antibody in a sagittal section of the midbrain, passing through the cerebellum. F.1: Same section showing Nogo-A positive neuronal
+cells in higher magnification in tectum. G: RT-PCR showing relative amounts of nogo-A mRNA in uninjured and injured cord at different time points
+(3, 7, 15, and 28 days post-injury [dpi]). Ef-1a was used as a reference gene. NC represents no RNA control. H: Longitudinal section of uninjured
+cord stained without Nogo-A primary antibody represented as negative control. I: Immunohistochemical staining of Nogo-A in a longitudinal sec-
+tion of uninjured cord. I.1: Higher magnification of the same cord where Nogo-A staining is found both in gray matter (GM) neurons (white arrow)
+and white matter (WM) axons (yellow arrowhead) of the cord. J: Immunohistochemical staining of Nogo-A antibody in a 3 dpi cord section shows
+many Nogo-A positive cells in the stump (thick arrow); few Nogo-A positive cells are near the sub-pial membrane (white arrowheads) in the adja-
+cent part of the injury epicenter (double red star). J.1,J.2: Higher magnifications of the same 3 dpi cord showing positive staining in neurons (white
+arrow) and axons (yellow arrowhead). K: A transverse section of 3 dpi cord through the region immediately adjacent to the injury epicenter, stained
+with Nogo-A and glial fibrillary acidic protein (GFAP). K.1,K.2: Higher magnifications of the boxed area in same section (K) showing many Nogo-A
+and GFAP colocalized cells (green arrowheads) in the sub-ependyma and few around the ependymal canal (epc, green arrow) which may resem-
+ble radial glia. L: A transverse section of 3dpi cord at the stump level stained with Nogo-A and NeuN. L.1,L.2: Higher magnifications of boxed
+area (L) showing many Nogo-A and NeuN colocalized cells in the gray matter (white arrow) of the cord. Note that axonal cut ends (yellow arrow-
+heads) and white matter cells (yellow arrow) are Nogo-A positive. The cartoon of axolotl brain (top view) has been adapted from the Eisthen lab
+(Michigan State University, USA) to show the plane of section and region of the brain as represented in sections stained with Nogo-A antibody.
+Scale bar¼ 300 mm in H–J; 100 mm in K,L; 50 mm in B–F,B.1,C.1; 20 mm in F.1,I.1,J.1,J.2,K.1,L.1,L.2; 10 mm in K.2).
+expression, Nogo-A was shown to
+colocalize with the neuronal marker
+NeuN in 3 dpi cords (Fig. 4L–L.2).
+Approximately 60% of the NeuN posi-
+tive cells were also Nogo-A positive,
+as determined from differential
+counts in 3 dpi cord sections (data not
+shown). Nogo-A immunostaining also
+decreased farther away from the
+injury epicenter (Fig. 4J, Supp. Fig.
+S2). NgR showed similar expression
+patterns within 3 dpi cords, with
+strong expression observed among
+gray matter neurons (Fig. 5F,F.1;
+Supp. Fig. S3) and white matter
+axons (Fig. 5F,F.2; Supp. Fig. S3). A
+population of Nogo-A positive cells
+(approximately 50%) also showed
+NgR staining (Supp. Fig. S6). Both
+Nogo-A and NgR expression can be
+observed before and after injury, cor-
+roborating our RT-PCR and Western
+blot data that Nogo-A and NgR are
+expressed in the CNS before and dur-
+ing spinal cord regeneration. Lastly,
+we surprisingly found that some
+Nogo-A and NgR positive cells in the
+ependymal and sub-ependymal region
+colocalized with the glial marker, glial
+fibrillary acidic protein (GFAP; Figs.
+4K–K.2, Fig. 5H,H.1); some of the
+cells have morphologies consistent
+with radial glia.
+Expression of MAG in Adult
+Axolotl Brain, and Uninjured
+and Injured Spinal Cord
+The expression of MAG protein was
+characterized for injured and unin-
+jured CNS tissues and compared with
+expression patterns of other MAFs.
+Western blot analysis showed that
+anti-MAG antibody specifically binds
+to axolotl MAG and is expressed
+before and after injury (Fig. 3F).
+Immunohistochemistry localized
+MAG protein to axons and neurons in
+the adult brain, especially at the
+brain stem-spinal cord junction (Fig.
+6B,B.1), as well as uninjured cords
+(Fig. 6C,C.1). At 3 dpi, MAG protein
+was observed in cells and axons near
+the injury epicenter (Fig. 6D,D.1).
+The white matter of both immediate
+adjacent regions and regions distant
+from the injury epicenter also showed
+MAG positive axons (Supp. Fig. S4).
+There were also several cells near the
+sub-pial membrane of the injured
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 5. Expression of Nogo receptor (NgR) in adult axolotl brain, uninjured and injured cord. A:
+Reverse transcriptase polymerase chain reaction (RT-PCR) of Rtn4R and ef1a in axolotl tissues.
+Sp¼ spleen, L¼ liver, H¼ heart, S¼ skin, M¼muscle, E¼ eye, B¼brain, SC¼ spinal cord. B:
+RT-PCR showing relative amounts of Rtn4R mRNA in uninjured and injured cord with different
+time points (3, 7, 15, and 28 days post-injury [dpi]). Ef1a was used as a reference gene. NC rep-
+resents no RNA control. C: Sagittal section of forebrain through the lateral ventricle, showing im-
+munohistochemical staining of NgR. C.1: In higher magnifications, the same section (C) shows
+NgR positive neurons of the dorsal pallium (DP), close to the lateral ventricle (LV). D: Longitudi-
+nal section of uninjured cord stained without NgR primary antibody; a negative control. E: Longi-
+tudinal section of uninjured cord stained with NgR antibody. E.1: Higher magnification of the
+same section (E) showing many NgR positive neuronal cells (white arrow) in the gray matter and
+fewer cells (presumably oligodendrocytes) in the white matter (yellow arrow). F: Longitudinal
+section of 3 dpi cord showing high level of NgR expression in the stump. Note that few cells
+near the sub-pial membrane (white arrowheads) at the injury epicenter (double red star) are NgR
+positive. F.1,F.2: Higher magnification of the same section (F) showing strong staining of neurons
+(white arrow) and of axons (yellow arrowhead) in the injury epicenter (double red star). G: 7 dpi
+cord section shows moderate staining of NgR at the stump. G.1: The same section (G) in higher
+magnification. H: A transverse section through the stump of 3 dpi cord shows NgR and glial
+fibrillary acidic protein (GFAP) staining. H.1: Higher magnification of the boxed area in the same
+section shows many NgR and GFAP colocalized cells (green arrowheads) in the sub-ependyma
+and fewer around the ependyma. The cartoon of axolotl brain (top view) was adapted from the
+Eisthen lab (Michigan State University, USA) to show the plane and region of the brain as repre-
+sented in the section. Scale bar¼ 300 mm in D–G, 100 mm in H, 50 mm in C, 20 mm in
+C.1,E.1,F.1,F.2,G.1,H.1.
+852 HUI ET AL.
+cord that were MAG positive (Fig.
+6D), mirroring the staining patterns
+of Nogo-A and NgR.
+Expression of Nogo-A, NgR,
+and MAG in Embryonic
+Axolotl CNS
+Because MAF expression was wide-
+spread in the uninjured CNS and dur-
+ing regeneration, we examined Nogo-
+A, NgR, and MAG expression during
+development at a time when the spi-
+nal cord makes connections to
+peripheral targets (stage-45; hatch-
+ing) (Nieuwenhuys et al., 1998). Im-
+munohistochemical analysis showed
+expression of Nogo-A, NgR, and MAG
+in embryonic cord in white matter,
+gray matter neurons, and ependymal
+cells surrounding the central canal
+(Fig. 7A–I.1). Expression of all three
+proteins was also detected in the lens,
+retina (Fig. 7J–K,N–O,R–S), and fore-
+brain neurons (Fig. 7L–M,L.1,P–
+Q,P.1). RT-PCR analysis corroborated
+these data, showing expression of
+nogo-a from stage-36 embryos to 2-
+month-old larvae (Fig. 7W). Whole-
+mount in situ hybridization spatially
+localized nogo-a mRNA in stage 36
+and 38 embryos (Fig. 7X) to the devel-
+oping brain, spinal cord, eye (Fig. 7X),
+and somites, mirroring where Nogo-A
+was expressed in adult tissues.
+Co-expression of Nogo-A and
+Sox2 in Developing and
+Injured Spinal Cord
+Ependymal cells lining the central
+canal of the axolotl spinal cord are
+thought to provide neural progenitors
+during regeneration (Chernoff et al.,
+2003; McHedlishvili et al., 2012). To
+determine if Nogo-A is expressed in
+ependymal cells, we tested for colocal-
+ization of Nogo-A and Sox2, which is
+expressed in neural stem/progenitor
+cells across vertebrates (Graham
+et al., 2003; Ferri et al., 2004). Coloc-
+alization in ependymal cells was dem-
+onstrated in stage-40 embryos (Fig.
+8A–D); however, Nogo-A did not coloc-
+alize with Sox2 in white matter. In
+adult uninjured cords, a few cells
+were Sox2þ around the ependyma,
+although none of them colocalized
+with Nogo-A (Fig. 8G). Of interest, we
+found that many cells co-expressed
+Nogo-A and Sox2 in the gray matter
+of the adult injured cord (Fig. 8E,E.1).
+Similar to Nogo-A, we found NgR and
+Sox2 colocalization in the gray matter
+of 3 dpi cords (Fig. 8F,F.1). However,
+the number of Nogo-Aþ/Sox2þ cells
+(approximately 22% of cells) was
+higher than the NgRþ/Sox2þ cells
+(approximately 10% of cells) at 3 dpi
+(Supp. Fig. S5). Furthermore, Sox2
+expression was found both in glial
+and neuronal populations identified
+by using GFAP and NeuN, respec-
+tively (Fig. 8H–J). We also observed
+colocalized Sox2 expression with
+GFAP (Fig. 8H–J) in adjacent sections
+of Nogo-A/Sox2 and NgR/Sox2 stained
+sections. We found that some of the
+Nogo-Aþ/Sox2þ and NgRþ/Sox2þ cells
+also stained positively for GFAP, with
+several cells displaying radial glial
+morphology (Fig. 8H,I,H.1,H.2,I.1).
+Radial morphology was not present in
+all the GFAPþ/Sox2þ cells possibly
+because GFAP positive radial glia
+may lose their radial morphology af-
+ter injury (Chernoff, 1996). Alterna-
+tively, these GFAPþ/Sox2þ aggregated
+cells may be ependymal cells that
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 6. Expression of myelin associated glycoprotein (MAG) in axolotl adult brain, uninjured
+and injured cord. A: Longitudinal section of uninjured cord stained without MAG primary anti-
+body; a negative control. B: Sagittal section of hindbrain through the brain stem-spinal cord
+junction shows MAG staining. B.1: Same section in higher magnification showing MAG positive
+axons (yellow arrowhead) and octavo-lateralis neurons (white arrow). C: Longitudinal section of
+uninjured cord shows staining of MAG in gray and white matter. C.1: Higher magnification of the
+same section (C) shows strong staining in white matter (WM) axons (yellow arrowhead). Note
+that few gray matter (GM) cells (white arrow) are MAG positive. D: A 3 days post-injury (dpi)
+cord section shows strong MAG staining in the stump tissue and few cells near the sub-pial
+membrane (white arrowheads). D.1 Higher magnification shows strong staining in white matter
+(WM) axons, (yellow arrowhead) and moderate staining of gray matter (GM) cells (white arrow)
+close to the injury epicenter (double red star). E: A 15 dpi cord section shows weak staining of
+MAG in the white matter just adjacent to the injury epicenter (double red star). E.1: Higher mag-
+nification of the boxed area (E) shows staining of MAG in axon (yellow arrowhead) and white
+matter cells (white arrow). The cartoon of the axolotl brain (top view) was adapted from the
+Eisthen lab, (Michigan State University, USA) to show the plane and region of the brain in sec-
+tion. Scale bar¼ 200 mm in A,C–E; 50 mm in B; 20 mm in B.1,C.1,D.1,E.1.
+EXPRESSION OF MAFS IN REGENERATING SPINAL CORD 853
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 7.
+854 HUI ET AL.
+migrate towards the lesion, as was
+shown in injured X. laevis spinal
+cords (Gaete et al., 2012). Therefore, a
+sub-population of both neurons and
+ependymal cells were Sox2 positive
+(Fig. 8H–J,H.1,H.2,I.1,J.1). Of inter-
+est, a few sub-pial cells were also
+Nogo-Aþ/Sox2þ and NgRþ/Sox2þ (Fig.
+8E.3,F.2).
+DISCUSSION
+Identification and Expression
+of Nogo-A, NgR, and MAG in
+Adulthood and After Injury
+In contrast to mammals, transected
+spinal cord axons regenerate success-
+fully following injury in the axolotl
+(O’Hara et al., 1992; Chernoff, 1996;
+Chernoff et al., 2003). Here, we stud-
+ied axon regrowth using a transection
+injury model because it produces two
+clear stumps without spared axons.
+Moreover, in contrast to tail amputa-
+tion (e.g., McHedlishvili et al., 2007),
+spinal cord transection is a less com-
+plicated injury model because axons
+can be studied with less interference
+from other regenerating tissues.
+Finally, transection injuries (as well
+as crush injuries) more closely mimic
+SCIs that occur in mammals and,
+therefore, are better models for mam-
+malian SCI. Both our histological
+analysis and time course analysis of
+RT-97 protein expression revealed
+reconnected axons in the injury epi-
+center following transection injury,
+thus confirming axon regrowth in the
+axolotl. We also showed that the axo-
+lotl expresses MAF genes and corre-
+sponding receptors that are known to
+have inhibitory properties on axon
+regeneration in mammals. The pres-
+ence of MAFs in zebrafish and uro-
+deles, animals capable of spinal cord
+regeneration throughout their life,
+indicates an early vertebrate origin
+for MAFs that are permissive for
+regeneration. We propose it is not the
+presence or absence of MAFs that
+explain regenerative ability. Indeed,
+deletion of all three Nogo isoforms,
+MAG, and OMGP does not increase
+axon regeneration following SCI in
+mice (Lee et al., 2010).
+The expression of Nogo-A, NgR,
+and MAG in the axolotl CNS, before
+and after injury, was mainly in neu-
+rons, axons and a few white matter
+cells. This suggests that MAFs are
+likely playing roles both in the unin-
+jured and injured nervous system.
+Indeed, Nogo-A is known to function
+in the uninjured mammalian CNS as
+a stabilizer of axonal and synaptic
+connectivity (Park et al., 2010;
+Schwab, 2010; Pernet and Schwab,
+2012). Furthermore, the other MAFs
+play redundant (Zheng et al., 2006;
+Liu et al., 2006) and synergistic roles
+(Cafferty et al., 2010) in this regard.
+Our study shows that Nogo-A,
+MAG, and NgR expression is broader
+than white matter. Most importantly,
+we observed that many NeuNþ neu-
+rons express Nogo-A, as do some
+GFAPþ glial cells located in the sub-
+ependyma. We found both GFAPþ/
+Nogo-Aþ and GFAPþ/NgRþ cells
+largely in sub-ependyma, with very
+few in the ependyma. Both of these
+cell types may or may not show radial
+glial morphology because loss of epen-
+dymal glial morphology is a charac-
+teristic feature of urodele and fish
+cord after injury (Chernoff, 1996; Hui
+et al., 2010). The predominant cell
+type expressing Nogo-A and NgR in
+both the brain and spinal cord was
+neurons. Similar neuronal patterns of
+Nogo-A and NgR expression have
+been observed in the embryonic mam-
+malian CNS (Huber et al., 2002).
+These data suggest that Nogo-A
+expression is correlated with the high
+regenerative capacity of neurons and
+may have a role in synaptic plasticity,
+as suggested by others (Huber et al.,
+2002; Hunt et al., 2002; Schwab,
+2010; Peng et al., 2011). In contrast to
+mammals, the expression of axolotl
+MAFs is not consistent with an axo-
+nal inhibitory role after SCI; expres-
+sion in adult axolotl is associated
+primarily with gray matter whereas
+in mammals Nogo-A is primarily
+localized to oligodendrocytes (Chen
+et al., 2000). Analysis of effects of IN-
+1 antibody generated against NI-220/
+250 peptide on oligodendrocyte cul-
+ture in rodent further confirm the
+specific role of Nogo-A in these cells.
+Furthermore, the early developing
+chick CNS (E3 stage) expresses Nogo-
+A primarily in neurons, followed by
+high expression in axons at or near
+E12 stage. Nogo-A expression is corre-
+lated with generation of motor neu-
+rons and axonal outgrowth in early
+development well before the expres-
+sion in O4 positive oligodendrocytes
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 7. Expression of Nogo-A, Nogo receptor (NgR), and myelin associated glycoprotein (MAG)
+in developing axolotl CNS. Immunolocalization of Nogo-A (A–C,J–M), NgR (D–F,N–Q) and MAG
+(G–I,R–U) in developing spinal cord (A–I), retina (J,K,N,O,R,S) and forebrain (L,M,P,Q,T,U) of
+stage-45 axolotl embryos. A–C: Cross-section of spinal cord showing Nogo-A positive staining
+in white matter (WM) and gray matter (GM). B.1,C.1: Respective higher magnifications of sec-
+tions B and C shows Nogo-A staining in neurons (yellow arrowhead), axons (white arrow) and
+ependymal cells (green arrowhead) around the central canal (cc). A.1: Spinal cord section
+stained without Nogo-A primary antibody; a negative control (NC). D–F: Cross-section of spinal
+cord showing NgR staining in gray matter (GM) and white matter (WM). E.1,F.1: Higher magnifi-
+cation of sections E and F shows positive staining in neurons (yellow arrowhead) and axons
+(white arrow). G–I: Cross-section of spinal cord showing MAG staining in white (WM) and gray
+matter (GM). H.1,I.1: Higher magnification of sections H and I shows positive staining in neurons
+(yellow arrowhead), axons (white arrow) and ependymal cell (green arrowhead). J,K: A trans-
+verse section of the eye shows Nogo-A staining in lens (L), neural retina (NR) and pigmented ret-
+ina (PR). L,M: A coronal section of forebrain shows many Nogo-A positive neuronal cells (yellow
+arrowhead). L.1: Higher magnification of same section in L shows Nogo-A staining in neurons
+(yellow arrow), colocalized with NgR as the two antibody staining was done in adjacent section
+as represented in P.1. N,O: A transverse section of eye showing NgR staining in lens (L), neural
+retina (NR) and pigmented retina (PR). N.1: Eye section stained without NgR primary antibody; a
+negative control (NC). P,Q: A coronal section of forebrain that was adjacent to the section pre-
+sented in L and M shows many NgR positive neuronal cells (yellow arrowhead). P.1: Higher
+magnification of the same section (P) shows staining in neurons (yellow arrow). R,S: A trans-
+verse section of eye showing MAG staining in lens (L) and neural retina (NR). Note that staining
+of MAG is weaker than Nogo-A and NgR. T,U: A transverse section of forebrain showing MAG
+positive cells (yellow arrowhead) in gray matter. T.1: Forebrain section stained without MAG pri-
+mary antibody; a negative control (NC). V: Transverse section of spinal cord from a stage-45 ax-
+olotl embryo stained without Nogo-A primary antibody. W: Expression of rtn4 (nogo-A) and ef1a
+mRNA during development. Axolotl embryo stages follow Beetshcen and Gautier’s classification.
+X: Whole-mount in situ hybridization of stage-38 embryos using an antisense probe against
+axNogo-A. Purple staining shows the locations of nogo-A mRNA. The schematic diagram shows
+where nogo-A staining was observed in the embryo. Green: central nervous system; Red: sen-
+sory placodes including olfactory, visual and otic placodes; Blue: neural crest migration paths.
+“cc” denotes the central canal. Scale bar¼ 50 mm in A–I,J–U,A.1,N.1,T.1, 20 mm in
+B.1,C.1,E.1,F.1,H.1,I.1, 10 mm in L.1,P.1.
+EXPRESSION OF MAFS IN REGENERATING SPINAL CORD 855
+and, thus, suggesting a role in neuro-
+nal and axon development (O’Neill
+et al., 2004). A population of Nogo-A
+positive cells also expresses NgR as
+shown by us (Supp. Fig. S6) and
+others (Huber et al., 2002; O’Neill
+et al., 2004); in our study, co-expres-
+sion was observed in both injured and
+uninjured adult axolotl cord. This
+may indicate a role for Nogo-A/NgR
+signaling in developing and regener-
+ating CNS.
+Expression of Nogo-A, NgR,
+and MAG During CNS
+Development
+Our study is the first to show the
+expression of myelinating inhibitory
+proteins and their receptors in axolotl
+during embryonic life and adulthood.
+We localized Nogo-A, NgR, and MAG
+in the developing axolotl CNS, includ-
+ing the brain, spinal cord, and eye. In
+the stage-45 embryo cortex and spinal
+cord, neurons (and associated axons)
+and ependymal cells express all three
+molecules and many express both
+NgR and Nogo-A. The developing eye
+also showed expression of Nogo-A,
+NgR, and MAG in retina and lens.
+Interestingly, Nogo-A and NgR are
+expressed during mammalian CNS
+development in both radial glia and in
+retinal ganglion cells (O’Neill et al.,
+2004; Wang et al., 2008, 2010; Petit
+et al., 2011). In developing chick and
+human spinal cord, both Nogo-A and
+NgR are expressed early during de-
+velopment and their expression levels
+remain unchanged after injury at
+stages permissive for regeneration
+(O’Neill et al., 2004). This observation
+indicates that Nogo-A likely has an
+important role in development, possi-
+bly to direct axons to their proper tar-
+gets. In zebrafish, expression of NgR
+during development is similar to
+mammals and implicated in axonal
+outgrowth and guidance of PNS pro-
+jections (Brosamle and Halpern,
+2009). Our results support findings
+observed in other vertebrates, sug-
+gesting that Nogo-A and NgR expres-
+sion is related to neuronal and
+synaptic plasticity (Huber et al., 2002;
+Hunt et al., 2003; Meier et al., 2003;
+Richard et al., 2005; Schwab, 2010).
+Moreover, MAFs are associated with
+both development and regeneration of
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 8. Immunohistochemical localization of Nogo-A and Sox2 in stage-40 axolotl embryonic spi-
+nal cord, and adult uninjured and injured cord. A–D: Transverse sections of stage-40 embryonic
+cord shows Nogo-A and Sox2 colocalized cells (white arrow) in the gray matter. E: A transverse
+section of 3 days post-injury (dpi) cord shows many Nogo-A and Sox2 colocalized cells. E.1,E.2:
+The same section (E) in higher magnification shows colocalized cells (white arrow) in the gray mat-
+ter near the injury epicenter. E.3: The same section (E) in higher magnification shows a sub-pial cell
+is both Nogo-A and Sox2 positive (yellow arrows). F: A transverse section of 3 dpi cord shows
+many Nogo receptor (NgR) and Sox2 colocalized cells. F.1: The same section (F) in higher magnifi-
+cation showing NgR and Sox2 positive cells (white arrows) in the gray matter near the injury epi-
+center. F.2: Note that a sub-pial cell is also NgR and Sox2 positive (yellow arrows) in the higher
+magnification of section F. G: Transverse section of uninjured cord stained with both Nogo-A and
+Sox2 showing very few cells are Sox2 positive (green arrow). H,I: Transverse sections of 3 dpi
+cord. Sections H and I were taken from positions adjacent to E and F, respectively, and stained
+with Sox2 and glial fibrillary acidic protein (GFAP). H.1,H.2,I.1: Higher magnifications of the boxed
+areas of H and I show colocalized Sox2 and GFAP positive cells (H.1 and I.1, red arrowheads) in
+the gray matter of injured cord. The section in H.2 shows a Sox2 and GFAP positive cell where
+Sox2 stains the nucleus (red arrowhead) and GFAP stains fibril cytoplasm (green arrowhead). I.2:
+The same section (I) in higher magnification shows few sub-pial cells are both GFAP and Sox2 pos-
+itive (yellow arrows). J: A transverse section of a 3dpi cord at the stump level, stained with Sox2
+and NeuN. J.1: Higher magnification of the same section (J) shows few colocalized Sox2 and
+NeuN positive cells (green arrowheads) in the gray matter. “cc” denotes the central canal. Scale
+bar¼ 100 mm in E–J, 50 mm in A–D, 20 mm in E.1,F.1,H.1,I.1,J.1,E.3,F.2,I.2, 10 mm in E.2,H.2.
+856 HUI ET AL.
+CNS, suggesting that these may have
+similar roles and, thus, create an em-
+bryonic environment in the adult
+CNS.
+Nogo-A and NgR Are
+Expressed in Neural
+Progenitors Both in Adult
+Regenerating and in
+Developing Spinal Cord
+The transcription factor sox2 is con-
+sidered to be a pan-neural marker
+during development (Wegner, 1999),
+because it is widely expressed in the
+prospective neuroectoderm and early
+neural tube in several species includ-
+ing chick, mouse, and X. laevis. At
+later stages, expression becomes re-
+stricted to proliferating neuroepithe-
+lial cells of the ventricular layer.
+Mammalian Sox2 is expressed in neu-
+ral progenitor cells throughout the
+developing and adult CNS and is
+implicated in the maintenance of the
+neural progenitor state; its loss of
+function triggers cell cycle exit fol-
+lowed by neuronal differentiation
+(Hutton and Pevny, 2011). We
+observed that Sox2 is expressed in the
+uninjured adult axolotl spinal cord
+predominantly in gray matter,
+although at a much lower level when
+compared with the regenerating spi-
+nal cord. During regeneration, Sox2
+positive cells were present in GFAP
+expressing sub-ependyma. Similar
+up-regulation of Sox2 in the epen-
+dyma and sub-ependyma of the regen-
+erating cord was documented in
+Pleurodeles (Ferretti et al., 2001) and
+X. laevis (Gaete et al., 2012) after tail
+amputation. Sox2 positive neural
+stem cell-like progenitors are indeed
+present in the adult zebrafish cord
+and their number increases after
+injury (our unpublished observation).
+Furthermore, adult zebrafish have
+telencephalic ventricular cells of the
+brain that also express Sox2 and are
+neurogenic (Adolf et al., 2006).
+In the adult mammalian spinal
+cord, the main progenitor cells are
+localized in the ependymal and sub-
+ependymal layers of the central canal
+ventricular zone. These cells have the
+characteristics of neural stem cells
+(NSC) as they express markers such
+as Sox2, vimentin, GFAP, nestin, and
+BLBP (Petit et al., 2011). In the
+regenerating urodele cord, there are
+many migrating progenitors and simi-
+lar to the mammalian cord, expres-
+sion of NSC markers has also been
+observed (O’Hara et al., 1992; Ferretti
+et al., 2001; Walder et al., 2003). The
+colocalization of Nogo-A and NgR
+with Sox2 both in the developing and
+regenerating axolotl cord confirms
+that these molecules are expressed in
+neural progenitors and may partici-
+pate in spinal cord repair process.
+This conclusion is supported by
+reports from other species showing
+that Sox2 positive progenitors con-
+tribute to regeneration (Lin et al.,
+2009; Arnold et al., 2011; Gaete et al.,
+2012). A small percentage of sub-pial
+white matter cells were also positive
+for both Sox2 and Nogo-A, or Sox2
+and NgR. Sub-pial neurogenesis is a
+known process in mouse and zebra-
+fish CNS (Mueller and Wullimann,
+2002; Li et al., 2009; Hui et al., 2010).
+It is of interest to characterize these
+sub-pial cells to address whether they
+contribute to spinal cord regeneration
+or not in the urodele.
+EXPERIMENTAL
+PROCEDURES
+Axolotl Maintenance
+Albino or white axolotls (Ambystoma
+mexicanum) were either purchased
+from the Ambystoma Genetic Stock
+Center (University of Kentucky, Lex-
+ington, KY) or spawned at the animal
+house facility of University of Cal-
+cutta. Larvae were maintained at 20–
+22
+
+C in 40% Holtfreter’s solution.
+Animals measuring 6–8 cm snout to
+cloaca were used to inflict spinal cord
+injury.
+Surgical Procedures for
+Inflicting Spinal Cord Injury
+to Axolotl
+Animal housing and experiments
+were approved by the University of
+Kentucky, University of Florida, and
+University of Calcutta Committees on
+Animal Care and Use. Animals were
+imported from the Ambystoma
+Genetic Stock Center at the Univer-
+sity of Kentucky as approved by
+CITES permission to Dr. Sukla
+Ghosh, University of Calcutta. Ani-
+mals were anesthetized for 5 min in
+0.02% buffered benzocaine (Sigma, St.
+Louis, MO) and spinal cord transec-
+tion was performed near the hind
+limb level. After surgery, the wounds
+were closed and animals were allowed
+to recover. At least 5 spinal cord
+transected animals were examined
+for each time point and injury
+response was further characterized
+by histological analysis. Tissues were
+collected at different time points fol-
+lowing intra-cardial perfusion with
+phosphate buffered saline and 4%
+paraformaldehyde. The tissues were
+further fixed in 4% paraformaldehyde
+overnight, processed and embedded in
+paraplast or paraffin.
+RNA Extraction and RT-PCR
+Axolotls measuring 8–10 cm snout to
+cloaca were anesthetized and spinal
+cord tissue was collected 1 mm ante-
+rior and posterior to the transection
+site and snaps frozen in liquid nitro-
+gen. RNA isolation was performed
+using Rneasy columns (Qiagen) and
+quantified using an Epoch spectro-
+photometer (BioTek). cDNA was pro-
+duced using 1 mg total RNA and the
+iScript cDNA synthesis kit using Oli-
+go(dT) 20 primers (Bio-Rad). Tem-
+plates for PCR included cDNA
+corresponding to 10 ng of total RNA
+and 500 nM forward and reverse pri-
+mers. PCR primers were as follows:
+nogo-A forward 50-TGA TGG AAA
+AAC TGG GGA GA-30 and reverse 50-
+GGG GAT GTA CGG AGT CTC AA-30;
+rtn4r forward 50-GCA CTC TGG CAG
+GAA AAG AC-30 and reverse 50-TGG
+CAG CAA CAA ACT GAG AC-30; ef-1a
+forward 50-AAC ATC GTG GTC ATC
+GGC CAT-30 and reverse 50-GGA GGT
+GCC AGT GAT CAT GTT-30. PCR pa-
+rameters for nogo-A and rtn4r were
+28 cycles of 94
+
+C for 45 sec, 55
+
+C for
+45 sec, 72
+
+C for 45 sec, and 24 cycles
+using the same parameters for ef-1a.
+Five microliters of PCR product was
+analyzed on a 1% agarose gel and
+visualized using a FluorChem E
+Imaging system (Cell Biosystems).
+In Situ Hybridization
+The 991 bp PCR product for nogo-A
+was cloned into a Promega pGEM-T
+vector by the A-tailing procedure, and
+Nogo-A digoxygenin-labeled RNA
+probe was produced using M13
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+EXPRESSION OF MAFS IN REGENERATING SPINAL CORD 857
+forward and reverse primers and T7
+or SP6 polymerase as described in the
+Roche DIG-RNA labeling manual.
+Tissue samples were fixed in 4% para-
+formaldehyde/1PBS overnight, cryo-
+protected by immersion in 10%
+sucrose/1PBS and 20% sucrose/
+1PBS for 1 hr each, followed by
+immersion in 30% sucrose/1PBS for
+3 hr to overnight. Tissues were then
+mounted in OCT medium, sectioned
+at 16 mm, and stored at 80C.
+Hybridization was carried out at 55
+
+C
+overnight, washed, visualized with
+NBT/BCIP, and sections were
+mounted in Permount. Whole-mount
+in situ hybridization was carried out
+according to (Monaghan and Maden,
+2012), which was based upon a proto-
+col provided by David Parichy (Uni-
+versity of Washington, USA).
+Multiple embryos were observed to
+confirm the expression patterns, and
+tracing of expression patterns was
+performed using an Intuos4 pen tab-
+let (Wacom) and processed using
+Adobe Illustrator 5.
+Mapping of axNogo-A,
+Sequence Alignment, and
+Analysis
+Axolotl Nogo-A sequences were depos-
+ited in GenBank (accession no.
+JX276741). Mapping of axNogo was
+performed according to (Smith et al.,
+2005) using the following primers: for-
+ward 50-GAA GAC GAT GAA ACG
+ACT GAG AG-30, 50-CCG CAG CGC
+CAG GTG ATG GTC GAG GAA-30,
+and reverse 50-GGC TTC TTC CTC
+TCC TCA AAA G-30. Rattus norvegi-
+cus, Mus domesticus, Homo sapiens,
+Gallus gallus, and Xenopus laevis
+Nogo-A sequences are obtained from
+NCBI (NP_114019, NP_918943,
+NP_065393, NP_989697, and
+AAQ82646, respectively). Sequence
+alignments were performed using
+CLUSTALW and regions of sequence
+similarity were shaded using BOX-
+SHADE. Hydrophobic regions were
+predicted using Tmpred, TMHMM
+(Krogh et al., 2001).
+Histology and
+Immunohistochemistry
+For histology of spinal cord and brain,
+tissues were embedded either in par-
+affin, in a mixture of poly-ethylene
+glycol (PEG) and hexadecanol (9:1,
+Sigma), or in O.C.T. compound (Leica,
+Germany) and sectioned at 5–7 mm.
+Sections were stained either with
+Mallory’s trichrome stain (Humason,
+1979) or with luxol fast blue & cresyl
+violet (Kluver and Barrera, 1953).
+Immunohistochemistry was per-
+formed either in paraplast or paraffin
+sections of 10 mm as described by Hui
+et al. (2010). The following primary
+antibodies were used: NgR (1:100)
+polyclonal antibody (Santa Cruz Bio-
+technology, USA), Nogo-A (1:50) poly-
+clonal antibody (Santa Cruz
+Biotechnology, USA), MAG (1:100)
+polyclonal antibody (Santa Cruz Bio-
+technology, USA), NeuN (1:400,
+monoclonal antibody from Chemicon,
+USA), Sox-2 (1:200, Abcam, USA),
+GFAP (1: 500, DAKO, USA) and RT-
+97 (1:3,000) to stain neurofilament
+associated protein (gift from Dr. Ron
+Meyer, USA). Details of reactivity for
+the following antibodies have been
+described: NeuN (McHedlishvili et al.,
+2012), GFAP (O’Hara et al., 1992),
+RT-97 (Hunter et al., 1991), and Sox2
+(Gaete et al., 2012). Following anti-
+body incubation, sections were given
+several washes with either PBS
+Tween-20 or 0.03% Triton X-100. Sec-
+tions were then treated with the
+appropriate dilution of either anti-
+mouse, anti-goat, or anti-rabbit sec-
+ondary antibodies coupled to fluores-
+cein isothiocyanate (FITC) or
+Rhodamine (Jackson laboratory,
+USA), counter stained with DAPI
+(40,6-diamidine-2-phenylidole-dihy-
+drochloride; Roche), mounted with
+Vectashield and visualized using ei-
+ther an Olympus Fluorescence micro-
+scope (Model- BX51) equipped with
+digital cooled CCD Camera (Model-
+Evolution VF Mono) and ImagePro-
+Express software, or a Zeiss 510 meta
+confocal microscope.
+Immunoblotting
+Axolotl tail blastema was collected 7
+and 15 days after amputation along
+with the control, unamputated tails.
+Tissues were prepared in extraction
+buffer (37.5 mM Tris, 75 mM NaCl,
+0.5% Triton X-100, protease inhibitor
+cocktail) and then the resulting tissue
+lysates were subjected to 7.5% sodium
+dodecyl sulfate polyacrylamide gel
+electrophoresis (SDS-PAGE). After
+electrophoresis, proteins were trans-
+ferred onto nitrocellulose membranes
+and subjected to Western blotting.
+The Western blots were developed
+with anti-NgR (1:1,000; Santa Cruz
+Biotechnology, USA), anti-Nogo-A
+(1:500; Santa Cruz Biotechnology,
+USA), and anti-MAG (1:1,000; Santa
+Cruz Biotechnology, USA) antibody
+followed by anti-goat and anti-rabbit
+alkaline phosphatase coupled second-
+ary antibody (1:1,000; Jackson labora-
+tory, USA). Protein bands were
+visualized using NBT/BCIP as sub-
+strate. PageRuler Broad Range Pro-
+tein Ladder (Thermo Scientific, USA)
+was used as a standard molecular
+weight marker.
+ACKNOWLEDGMENTS
+This work was supported by the
+Department of Science and technology,
+Ministry of Science and Technology,
+Govt. of India and partly by Depart-
+ment of Biotechnology, Ministry of Sci-
+ence and Technology, Govt. of India to
+Sukla Ghosh. S. P. Hui is recipient of a
+senior research fellowship from the
+Council of Scientific and Industrial
+Research, Govt. of India. The project
+also used resources from the Ambys-
+toma Genetic Stock Center, which is
+funded by grant DBI-0951484 from
+the National Science Foundation. This
+work was also supported by a grant
+from the Kentucky Spinal Cord and
+Brain Injury Research Trust awarded
+to S.R. Voss. S. P. Hui performed all
+histology, Western blotting and immu-
+nohistochemistry. J. R. Monaghan per-
+formed mRNA expression analysis. S.
+P. Hui, J. R. Monaghan, S. R. Voss, and
+S. Ghosh designed the experiments. S.
+P. Hui and S. Ghosh wrote the
+manuscript.
+REFERENCES
+Adolf B, Chapouton P, Lam CS, Topp S,
+Tannhauser B, Strahle U, Gotz M,
+Bally-Cuif L. 2006. Conserved and
+acquired features of adult neurogenesis
+in the zebrafish telencephalon. Dev Biol
+295:278–293.
+Ankerhold RC, Leppert A, Bastmeyer M,
+Stuermer CA. 1998. E587 antigen is up-
+regulated by gold fish oligodendrocytes
+after optic nerve lesion and supports
+retinal axon regeneration. Glia 23:
+257–270.
+Arnold K, Sarkar A, Yram MA, Polo JM,
+Bronson R, Sengupta S, Seandel M,
+Geijsen N, Hochedlinger K. 2011.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+858 HUI ET AL.
+Sox2(þ) adult stem and progenitor cells
+are important for tissue regeneration
+and survival of mice. Cell Stem Cell
+9:317–329.
+Bastmeyer M, Beckman M, Schwab ME,
+Stuermer CA. 1991. Growth of regener-
+ating goldfish axons is inhibited by rat
+oligodendrocytes and CNS myelin but
+not by goldfish optic nerve tract
+oligodendrocyte-like cells and fish CNS
+myelin. J Neurosci 11:626–640.
+Berry M. 1982. Post injury myelin break-
+down products inhibit axonal growth: a
+hypothesis to explain the failure of axo-
+nal regeneration in the mammalian
+central nervous system. Bibl Anat 23:
+1–11.
+Bradford Y, Conlin T, Dunn N, Fashena
+D, Frazer K, Howe DG, Knight J, Mani
+P, Martin R, Moxon SA, Paddock H,
+Pich C, Ramachandran S, Ruef BJ,
+Ruzicka L, Bauer Schaper H, Schaper
+K, Shao X, Singer A, Sprague J,
+Sprunger B, Van Slyke C, Westerfield
+M. 2011. ZFIN: enhancements and
+updates to the Zebrafish Model Orga-
+nism Database. Nucleic Acids Res 39:
+D822–D829.
+Brosamle C, Halpern ME. 2009. Nogo-
+Nogo receptor signalling in PNS axon
+outgrowth and pathfinding. Mol Cell
+Neurosci 40:401–409.
+Buchli AD, Schwab ME. 2005. Inhibition
+of Nogo: a key strategy to increase
+regeneration, plasticity and functional
+recovery of the lesioned central nervous
+system. Ann Med 37:556–567.
+Burridge K, Wennerberg K. 2004. Rho and
+Rac take center stage. Cell 116:167–179.
+Cafferty WB, Duffy P, Huebner E, Stritt-
+matter SM. 2010. MAG and OMgp syn-
+ergize with Nogo-A to restrict axonal
+growth and neurological recovery after
+spinal cord trauma. J Neurosci 30:
+6825–6837.
+Caroni P, Schwab ME. 1988. Two membrane
+protein fractions from rat central myelin
+with inhibitory properties for neurite out-
+growth. J Cell Biol 106:1281–1288.
+Chen MS, Huber AB, Van Der Haar ME,
+Frank M, Schnell L, Spillmann AA,
+Christ F, Schwab ME. 2000. Nogo-A is
+a myelin-associated neurite outgrowth
+inhibitor and an antigen for monoclonal
+antibody IN-1. Nature 403:434–439.
+Chernoff EA. 1996. Spinal cord regenera-
+tion: a phenomenon unique to urodeles?
+Int J Dev Biol 40:823–831.
+Chernoff EA, Stocum DL, Nye HL,
+Cameron JA. 2003. Urodele spinal cord
+regeneration and related processes. Dev
+Dyn 226:295–307.
+Diekmann H, Klinger M, Oertle T, Heinz
+D, Pogoda HM, Schwab ME, Stuermer
+CA. 2005. Analysis of the reticulon gene
+family demonstrates the absence of the
+neurite growth inhibitor Nogo-A in fish.
+Mol Biol Evol 22:1635–1648.
+Domeniconi M, Cao Z, Spencer T, Siva-
+sankaran R, Wang K, Nikulina E,
+Kimura N, Cai H, Deng K, Gao Y, He
+Z, Filbin M. 2002. Myelin associated
+glycoprotein interacts with Nogo-66
+receptor to inhibit neurite outgrowth.
+Neuron 35:283–290.
+Ferretti P, Zhang F, Santos-Ruiz L,
+Clarke JDW. 2001. FGF signalling and
+blastema growth during amphibian tail
+regeneration. Int J Dev Biol 45:S127–
+S128.
+Ferri AL, Cavallaro M, Braida D, Di Cris-
+tofano A, Canta A, Vezzani A, Ottolen-
+ghi S, Pandolfi PP, Sala M, DeBiasi S,
+Nicolis SK. 2004. Sox2 deficiency causes
+neurodegeneration and impaired neuro-
+genesis in the adult mouse brain.
+Development 131:3805–3819.
+Fournier AE, Grandpre T, Strittmatter
+SM. 2001. Identification of a receptor
+mediating Nogo-66 inhibition of axonal
+regeneration. Nature 409:341–346.
+Freund P, Schmidlin E, Wannier T, Bloch
+J, Mir A, Schwab ME, Rouiller EM.
+2006. Nogo-A specific antibody treat-
+ment enhances sproutin and functional
+recovery after cervical lesion in adult
+primates. Nat Med 12:790–792.
+Gaete M, Munoz R, Sanchez N, Tampe R,
+Moreno M, Contreras EG, Lee-Liu D,
+Larrain J. 2012. Spinal cord regenera-
+tion in Xenopus tadpoles proceeds
+through activation of Sox2 positive
+cells. Neural Dev 7:13.
+Graham V, Khudyakov J, Ellis P, Pevny
+L. 2003. SOX2 functions to maintain
+neural progenitor identity. Neuron
+39:749–765.
+Grandpre T, Nakamura F, Vartanian T,
+Strittmatter SM. 2000. Identification of
+the Nogo inhibitor of axon regeneration
+as a reticulon protein. Nature 403:439–
+444.
+Huber AB, Weinman O, Brosamle C, Oer-
+tle T, Schwab ME. 2002. Patterns of
+Nogo mRNA and protein expression in
+the developing and adult rat and after
+CNS lesions. J Neurosci 22:3553–3567.
+Hui SP, Dutta A, Ghosh S. 2010. Cellular
+response after crush injury in
+adult zebrafish spinal cord. Dev Dyn
+239:2962–2979.
+Humason GL. 1979. Animal Tissue tech-
+niques. New York: WH Freeman & Co.
+Hunt D, Coffin RS, Anderson PN. 2002.
+The Nogo receptor, its ligands and axo-
+nal regeneration in the spinal cord; a
+review. J Neurocytol 31:93–120.
+Hunt D, Coffin RS, Prinjha RK, Campbell
+G, Anderson PN. 2003. Nogo-A expres-
+sion in the intact and injured nervous
+system. Mol Cell Neurosci 24:1083–
+1102.
+Hunter K, Maden M, Summerbell D,
+Eriksson U, Holder N. 1991. Retinoic
+acid stimulates neurite outgrowth in
+the amphibian spinal cord. Proc Natl
+Acad Sci U S A 88:3666–3670.
+Hutton SR, Pevny LH. 2011. SOX2
+expression levels distinguish between
+neural progenitor populations of the
+developing dorsal telencephalon. Dev
+Biol 352:40–47.
+Klinger M, Taylor JS, Oertle T, Schwab
+ME, Steurmer CAO, Diekmann H.
+2004. Identification of Nogo-66 receptor
+(NgR) and homologous genes in fish.
+Mol Biol Evol 21:76–85.
+Kluver H, Barrera E. 1953. A method for
+the combined staining of cells and fibres
+in the nervous system. J Neuropath
+Exp Neurol 12:400–403.
+Kottis V, Thibault P, Mikol D, Xiao ZC,
+Zhang R, Dergham P, Braun PE. 2002.
+Oligodendrocyte-myelin glycoprotein
+(OMgp) is an inhibitor of neurite out-
+growth. J Neurochem 82:1566–1569.
+Krogh A, Larsson B, von Heijne G, Sonn-
+hammer EL. 2001. Predicting trans-
+membrane protein topology with a
+hidden Markov model: application to
+complete genomes. J Mol Biol 305:567–
+580.
+Lang DM, Rubin BP, Schwab ME,
+Stuermer CA. 1995. CNS myelin and
+oligodendrocytes of the Xenopus spinal
+cord-but not optic nerve-are nonpermis-
+sive for axon growth. J Neurosci 15:99–
+109.
+Lee JK, Geoffroy CG, Chan AF, Tolentino
+KE, Crawford MJ, Leal MA, Kang B,
+Zheng B. 2010. Assessing spinal axon
+regeneration and sprouting in Nogo-,
+MAG-, and OMgp-deficient mice. Neu-
+ron 66:663–670.
+Li G, Kataoka H, Coughlin SR, Pleasure
+SJ. 2009. Identification of a transient
+subpial neurogenic zone in the develop-
+ing dentate gyrus and its regulation by
+Cxcl12 and reelin signaling. Develop-
+ment 136:327–335.
+Lin YP, Ouchi Y, Satoh S, Watanabe S.
+2009. Sox2 plays a role in the induction
+of amacrine and M€uller glial cells in
+mouse retinal progenitor cells. Invest
+Ophthalmol Vis Sci 50:68–74.
+Liu BP, Fournier A, Grandpre T, Stritt-
+matter SM. 2002. Myelin-associated
+glycoprotein as a functional ligand for
+the Nogo-66 receptor. Science 297:1190–
+1193.
+Liu BP, Cafferty WB, Budel SO, Stritt-
+matter SM. 2006. Extracellular regula-
+tors of axonal growth in the adult
+central nervous system. Phil Trans R
+Soc Lond B 361:1593–1610.
+McGee AW, Strittmatter SM. 2003. The
+Nogo–66 receptor: focusing myelin inhi-
+bition of axon regeneration. Trends
+Neurosci 26:193–198.
+McHedlishvili L, Epperlein HH, Telzerow
+A, Tanaka EM. 2007. A clonal analysis
+of neural progenitors during axolotl spi-
+nal cord regeneration reveals evidence
+for both spatially restricted and multi-
+potent progenitors. Development 134:
+2083–2093.
+McKerracher L, David S, Jackson DL.
+1994. Identification of myelin associated
+glycoprotein as a major myelin-derived
+inhibitor of neurite growth. Neuron
+13:805–811.
+McHedlishvili L, Mazurov V, Grassme
+KS, Goehler K, Robl B, Tazaki A,
+Roensch K, Duemmler A, Tanaka EM.
+2012. Reconstitution of the central and
+peripheral nervous system during sala-
+mander tail regeneration. Proc Natl
+Acad Sci U S A 109:E2258–E2266.
+Meier S, Brauer AU, Heimreich B,
+Schwab ME, Nitsch R, Savaskan NE.
+2003. Molecular analysis of Nogo
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+EXPRESSION OF MAFS IN REGENERATING SPINAL CORD 859
+expression in the hippocampus during
+development and following lesion and
+seizure. FASEB J 17:1153–1155.
+Monaghan JR, Maden M. 2012. Visualiza-
+tion of retinoic acid signaling in trans-
+genic axolotls during limb development
+and regeneration. Dev Biol 368:63–75.
+Mueller T, Wullimann MF. 2002. BrdU-,
+neuroD (nrd)- and Hu-studies reveal
+unusual non-ventricular neurogenesis
+in the postembryonic zebrafish fore-
+brain. Mech Dev 117:123–135.
+Nieuwenhuys N, Donkelaar NH, Nichol-
+son C. 1998. The central nervous sys-
+tem of vertebrates. Vol. 2, Chapter 18.
+Berlin: Springer-Verlag. p 1045–1115.
+O’Hara CM, Egar MW, Chernoff EA.
+1992. Reorganization of the ependyma
+during axolotl spinal cord regeneration:
+changes in intermediate filament and fi-
+bronectin expression. Dev Dyn 193:103–
+115.
+O’Neill P, Whalley K, Ferretti P. 2004.
+Nogo and Nogo-66 receptor in human
+and chick: implications for development
+and regeneration. Dev Dyn 231:109–
+121.
+Oertle T, Van Der Haar ME, Bandtlow
+CE, Robeva A, Burfeind P, Buss A,
+Huber AB, Simonen M, Schnell L,
+Bromsale C, Kaupmann K, Vallon R,
+Schwab ME. 2003. Nogo-A inhibits neu-
+rite outgrowth and cell spreading with
+three discrete regions. J Neurosci 23:
+5393–5406.
+Park KJ, Grosso CA, Aubert I, Kaplan
+DR, Miller FD. 2010. p75NTR-depend-
+ent, myelin-mediated axonal degenera-
+tion regulates neural connectivity in
+the adult brain. Nat Neurosci 13:559–
+566.
+Peng X, Kim J, Zhou Z, Fink DJ, Mata
+M. 2011. Neuronal Nogo-A regulates
+glutamate receptor subunit expression
+in hippocampal neurons. J Neurochem
+119:1183–1193.
+Pernet V, Schwab ME. 2012. The role of
+Nogo–A in axonal plasticity, regrowth
+and repair. Cell Tissue Res 349:97–104.
+Petit A, Sanders AD, Kennedy TE, Tet-
+zlaff W, Glattfelder KJ, Dalley RA,
+Puchalski RB, Jones AR, Roskams AJ.
+2011. Adult spinal cord radial glia dis-
+play a unique progenitor phenotype.
+PLoS One 6:e24538.
+Prinjha R, Moore SE, Vinson M, Blake S,
+Morrow R, Christie G, Michalovich D,
+Simmons DL, Walsh FS. 2000. Inhibitor
+of neurite outgrowth in humans. Na-
+ture 403:383–384.
+Richard M, Giannetti N, Saucier D, Sac-
+quet J, Jourdan F, Pellier-Monnin V.
+2005. Neuronal expression of Nogo-A
+mRNA and protein during neurite out-
+growth in the developing rat olfacotry
+system. Eur J Neurosci 22:2145–2158.
+Schwab ME. 2010. Functions of Nogo pro-
+teins and their receptors in the nervous
+system. Nat Rev Neurosci 11:799–811.
+Schwab ME, Caroni P. 1988. Oligodendro-
+cytes and CNS myelin are nonpermis-
+sive substrates for neurite outgrowth
+and fibroblast spreading in vitro. J
+Neurosci 8:2381–2393.
+Shypitsyna A, Malaga-Trillo E, Reuter A,
+Stuermer CA. 2011. Origin of Nogo-A
+by domain shuffling in an early jawed
+vertebrate. Mol Biol Evol 28:1363–1370.
+Smith JJ, Putta S, Walker JA, Kump DK,
+Samuels AK, Monaghan JR, Weisrock
+DW, Staben C, Voss SR. 2005. Sal-Site:
+integrating new and existing ambysto-
+matid salamander research and infor-
+mational resources. BMC Genomics
+6:181.
+Voss SR, Kump DK, Putta S, Pauly N,
+Reynolds A, Henry RJ, Basa S, Walker
+JA, Smith JJ. 2011. Origin of amphib-
+ian and avian chromosomes by fission,
+fusion, and retention of ancestral chro-
+mosomes. Genome Res 21:1306–1312.
+Walder S, Zhang F, Ferretti P. 2003. Up-
+regulation of neural stem cell markers
+suggests the occurrence of dedifferenti-
+ation in regenerating spinal cord. Dev
+Genes Evol 213:625–630.
+Wang J, Chan CK, Taylor JS, Chan SO.
+2008. Localization of Nogo and its re-
+ceptor in the optic pathway of mouse
+embryos. J Neurosci Res 86:1721–1733.
+Wang J, Wang L, Zhao H, Chan SO. 2010.
+Localization of an axon growth inhibi-
+tory molecule Nogo and its receptor in
+the spinal cord of mouse embryos.
+Brain Res 1306:8–17.
+Wang KC, Koprivica V, Kim JA, Sivasan-
+karan R, Guo Y, Neve RL, He Z. 2002.
+Oligodendrocyte-myelin glycoprotein is
+a Nogo receptor ligand that inhibits
+neurite outgrowth. Nature 417:941–
+944.
+Wegner M. 1999. From head to toes: the
+multiple facets of Sox proteins. Nucleic
+Acids Res 27:1409–1420.
+Zheng B, Lee JK, Xie F. 2006. Genetic
+mouse models for studying inhibitors of
+spinal axon regeneration. Trends Neu-
+rosci 29:640–646.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+860 HUI ET AL.

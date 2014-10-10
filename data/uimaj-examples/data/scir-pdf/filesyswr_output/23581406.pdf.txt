@@ -1,0 +1,1427 @@
+Biochem. J. (2013) 451, 353–364 (Printed in Great Britain) doi:10.1042/BJ20121807 353
+REVIEW ARTICLE
+Spinal cord regeneration: where fish, frogs and salamanders lead the way,
+can we follow?
+Juan Felipe DIAZ QUIROZ and Karen ECHEVERRI1
+University of Minnesota, Stem Cell Institute, Department of Genetics, Cell Biology and Development, 2001 6th St SE, Minneapolis, MN 55455, U.S.A.
+Major trauma to the mammalian spinal cord often results
+in irreversible loss of function, i.e. paralysis, and current
+therapies ranging from drugs, implantations of stem cells and/or
+biomaterials, and electrically stimulated nerve regrowth, have
+so far offered very limited success in improving quality-of-life.
+However, in marked contrast with this basic shortcoming of ours,
+certain vertebrate species, including fish and salamanders, display
+the amazing ability to faithfully regenerate various complex body
+structures after injury or ablation, restoring full functionality, even
+in the case of the spinal cord. Despite the inherently strong and
+obvious translational potential for improving treatment strategies
+for human patients, our in-depth molecular-level understanding
+of these decidedly more advanced repair systems remains in its
+infancy. In the present review, we will discuss the current state of
+this field, focusing on recent progress in such molecular analyses
+using various regenerative species, and how these so far relate to
+the mammalian situation.
+Key words: axon, glial scar, regeneration, spinal cord.
+NATURALLY OCCURRING SPINAL CORD REGENERATION
+The wondrous ability of certain fortunate animals to fully
+regenerate entire appendages following major injuries has
+fascinated their human observers as far back as Aristotle’s
+time [1]. By 1714, the French naturalist Réaumur published
+the first experimental evidence showing that crayfish can
+replace appendages after amputation [2]. Over the centuries,
+the regeneration models of choice have varied widely, with
+different scientists favouring a wide array of species including
+worms, lizards, lampreys and salamanders. This rich body
+of work, primarily comprising detailed characterizations and
+experimentation on the basis of classical developmental and
+cytological approaches, has yielded a wealth of invaluable insights
+into regenerative abilities throughout the animal kingdom [3]. In
+this section, we will focus specifically on those model organisms
+that have more recently proven particularly useful in driving the
+now-emerging growth in molecular level analyses of spinal cord
+regeneration, discussing new findings not only from vertebrates,
+but also from invertebrate systems that, despite the absence of a
+spinal cord, can offer useful lessons from their versions of axonal
+regeneration (Table 1).
+Zebrafish
+In recent years, the zebrafish has grown in popularity as a model
+system for studying regenerative processes due to its genetic
+tractability and similarity to higher vertebrate architecture in many
+organs and tissues [4]. Although the basic cytology of the zebrafish
+spinal cord is relatively similar to that of a mammalian spinal cord,
+their respective cellular responses to injury appear quite different,
+resulting in functional injury repair only in the zebrafish [4,5].
+Previous work has shown that, in response to spinal cord
+injury, glial cells in the adult zebrafish are capable of amplifying
+and migrating to repair the lesion [5,6]. Work from the Currie
+laboratory has shown that the glial cells adjacent to the injury
+initially proliferate and migrate 3–5 days post-injury. Cells
+migrating into the lesion site are found to down-regulate GFAP
+(glial fibrillary acidic protein), up-regulate nestin and undergo a
+significant morphological change to become bipolar [6]. These
+newly born glial cells then undergo a distinct differentiation
+process that includes up-regulation of GFAP, maintenance of
+nestin expression and further elongation to span the width of
+the lesion site along the AP (anterior–posterior) axis, effectively
+creating a ‘glial bridge’ upon which axons can grow across the
+lesion site. Formation of the glial bridge is an FGF (fibroblast
+growth factor)-dependent process and has been shown to be
+essential for locomotive recovery in the zebrafish [6]. However,
+it remains unclear whether inhibition of FGF signalling in the
+zebrafish results in a mammalian-like glial scar formation, or
+merely inhibits proliferation and migration of the glial cells.
+This response of the glial cells in the regenerative context
+of the zebrafish is markedly different to that observed for
+the corresponding cells in the mammalian context, as further
+described below. Interestingly, exposure of mammalian astrocytes
+to FGF2 induces a bipolar morphology similar to that seen in vivo
+in zebrafish glial cells during formation of the glial bridge. This
+does not, however, result in up-regulation of nestin or other
+progenitor cell markers, suggesting that other FGFs or co-factors
+may be required for this [6]. While the same study also suggested
+that functional recovery is driven by this axonogenesis across
+the glial bridge from a mixture of newly formed and mature
+neurons, other reports have pointed to the presence of inherent
+cell populations, such as olig2-positive ependymal radial glial
+Abbreviations used: BDNF, brain-derived neurotrophic factor; BMP, bone morphogenetic protein; CNS, central nervous system; CSPG, chondroitin
+sulfate proteoglycan; CST, cortico-spinal track; DLK, dual leucine zipper kinase; DRG, dorsal root ganglion (ganglia); E, embryonic day; ECM, extracellular
+matrix; FGF, fibroblast growth factor; GFAP, glial fibrillary acidic protein; GFP, green fluorescent protein; 5-HT, 5-hydroxytryptamine; JNK, c-Jun N-terminal
+kinase; MAG, myelin-associated glycoprotein; MAP, microtubule-associated protein; NgR, Nogo receptor; Nogo, neurite outgrowth inhibitor; OMgp,
+oligodendrocyte-myelin glycoprotein; OPC, oligodendrocyte precursor cell; PNS, peripheral nervous system; TH1, tyrosine hydroxylase 1.
+1 To whom correspondence should be addressed (email echev020@umn.edu).
+c© The Authors Journal compilation c© 2013 Biochemical Society
+B
+io
+ch
+em
+ic
+al
+ J
+ou
+rn
+al
+   
+ w
+w
+w
+.b
+io
+ch
+em
+j.o
+rg
+354 J. F. Diaz Quiroz and K. Echeverri
+Table 1 Overview of regeneration in different species
+n.a., not applicable.
+Process Worms Fish Frogs Axolotls and newts Mammals
+Glial response n.a. Proliferation Proliferation Proliferation Proliferation
+Migration Migration Migration Migration
+Bridge formation New tube formation [19,29] New tube formation Up-regulation of scar proteins
+[4–7] [43,46,51,54,56,61,64,80] [8–11,62,63,65–67,71]
+Glial scar n.a. No [4–6] Not in larvae, unknown in No [41,64] Yes [42,73–75,82]
+non-regenerative adult [15,16]
+Axon degeneration Yes [139] Some [14] In adults [16] Unknown Yes [122–129]
+Axon regrowth Yes Yes Yes, in larvae, not in adults Yes [38–41,44,50] No (limited regeneration can be promoted)
+[137–140] [12–14] [15,16,27,30] [66,69,71,76–78,115,117–121,130,144,146]
+Functional recovery Yes Partial Yes, in larvae, not in adults Yes [38,39,41] No (limited recovery can be promoted)
+[135,137] [12–14] [15,29,30] [69,71,72,76–78,130,153,154]
+cells, that give rise to new motor neurons in a Notch-regulated
+process [7]. Interestingly, in mammals, those neural progenitor
+cells are also present in the adult mammalian spinal cord [8–
+10]. These cells express similar markers as found in glial cells in
+fish, such as Pax6 and Pax7; however, after injury to the spinal
+cord Notch1 has been found to be up-regulated in vivo [11].
+In vitro experiments have shown that overexpression of Notch
+in these progenitor cells prevents differentiation, suggesting that
+in the in vivo scenario this up-regulation of Notch prevents the
+formation of new neurons in response to injury [11]. However,
+given the complexity of the response needed to prevent scarring
+and induce new neurogenesis, it seems unlikely that modulation
+of the Notch pathways alone would enhance axonal regeneration
+in mammals.
+Beyond the neuronal cell lineage or provenance issue, however,
+it is clear that, in the adult zebrafish spinal cord, axonal
+regeneration is not always perfect, leading to a variable recovery
+of swimming ability, which in turn correlates with the number of
+supraspinal neurons that have successfully grown beyond the
+lesion site [12]. In fact, exact accuracy in ‘re-wiring’ all of
+the lost connections may not be as important as creating
+new alternative solutions [13]. Recent work examining the
+regeneration of dopaminergic and serotonergic axons has also
+shown that TH1 (tyrosine hydroxylase 1)-positive and 5-HT (5-
+hydroxytryptamine)-positive innervation are significantly altered
+after regeneration, suggesting that there is considerable plasticity
+in the spinal network in the zebrafish [14]. Directly after injury,
+although an increase in TH1-positive cells is seen on the rostral
+side of the lesion, many of these cells are lost from the caudal
+side, and most TH1-positive axons fail to re-innervate caudally to
+the original lesion even after extended periods post-regeneration
+[14]. A similar phenomenon is seen for 5-HT-positive neurons,
+despite the fact that full swimming ability is recovered in these
+animals, thus suggesting that it is indeed not necessary to re-
+establish the original neuronal connections to achieve functional
+recovery.
+These findings illustrate how the zebrafish system is indeed
+providing valuable insights into the basic cellular processes
+and molecular cues responsible for spinal cord regeneration
+in this organism. As such, this promises strong potential for
+also addressing the many open questions that remain, especially
+regarding the molecular signals needed to instruct glial cells to
+transition from the proliferative state and to differentiate into new
+neurons at the right time and right locations.
+Anurans: tailless amphibians
+Spinal cord regeneration in the context of tail regeneration
+Tailless amphibians, such as frogs, are of particular interest in
+the present context since these organisms live through multiple
+developmental life stages, only some of which carry regenerative
+capacities [15,16]. Indeed, although most of the larval stages
+have the ability to regenerate limbs and tails, including a fully
+innervated spinal cord, metamorphosis to later stages typically
+results in a complete loss of these regenerative abilities. As
+such, these models offer the unique possibility of conducting
+comparative studies between regenerative and non-regenerative
+repair processes within the same organism, including attempts to
+promote regeneration at the larval refractory stages.
+Among these organisms, Xenopus laevis displays, in addition to
+its other well-documented experimental advantages, a refractory
+period during larval development that has also been used as a
+system for studying regeneration. One of the first descriptions of
+frog larval tail regeneration was that of Harrison in 1898 [17],
+where he recorded the regeneration of the larval tail after various
+types of amputations and wounding, noting that “the regenerated
+appendage never becomes exactly like the original”. Interestingly,
+Harrison already posed key questions about the effect of the
+position of ‘the regenerating centre’ with regard to the whole
+stump and went on to carry out some of the first transplantation
+studies in Xenopus embryos [17], which ultimately led to some of
+the first successful tissue culture experiments [18]. Elegant studies
+using transplantation of specific structures or tissue regions, such
+as somites or neural folds, from GFP (green fluorescent protein)-
+positive embryos into wild-type embryos have been used to trace
+the lineage of cells in the regenerate. These studies have revealed
+that the spinal cord and notochord arise from the corresponding
+mature cells in the stump, whereas new muscle is formed from
+satellite cells that migrate from the mature muscle adjacent to the
+injury site [19].
+Meanwhile, other Xenopus-driven studies have also begun to
+probe the underlying molecular pathways, showing that Wnt
+and FGF signalling are required downstream of BMP (bone
+morphogenetic protein) signalling for faithful regeneration to
+occur, thereby revealing important similarities with zebrafish
+spinal cord regeneration [20–22]. Modulation of the Notch
+pathway has also shown its requirement for regeneration of the
+Xenopus spinal cord, although the same approach failed to detect
+the same requirement in muscle regeneration [23,24].
+c© The Authors Journal compilation c© 2013 Biochemical Society
+Spinal cord regeneration 355
+Extensive electrophysiology studies, first carried out in
+Xenopus and salamanders, have suggested a role for endogenous
+ion currents in regeneration. Modulation of external electrical
+fields has been shown to inhibit limb regeneration in urodeles
+[25,26], although the molecular mechanism underlying this
+phenomenon remains unclear. Work from the Levin laboratory has
+begun to shed light on the role of ions in stimulating regeneration
+in Xenopus. This group identified the V-ATPase H+ pump as
+being required for regeneration to occur, revealing through further
+studies not only the requirement for an influx of H+ ions to induce
+regeneration, but also that such an influx on its own is sufficient to
+stimulate regeneration during the refractory period [27]. Although
+this influx of ions was suggested to control membrane potential
+and cell proliferation, thus potentially representing an early-stage
+regulator of gene expression, the full extent of this signalling
+cascade remains unknown. Interestingly, further studies from this
+group have also identified a role for transient Na+ currents in
+promoting spinal cord regeneration, even after a non-regenerative
+wound epithelium has formed [28]. These data show that Nav1.2
+channels lie upstream of Notch and msx1 (Msh homeobox 1)
+induction in the early blastema, and that the V-ATPase H+ pump
+lies upstream of Nav1.2 channels themselves. Together, these two
+studies offer exciting new insights into the molecular physiology
+of regeneration and suggest new avenues for attempting to
+promote spinal cord regeneration using pharmacological means.
+Although the exact role of ion channels in the early stages of the
+regenerative response remains unclear, the suggestion that this
+may involve regulating the differentiation state of cells, potentially
+driving some towards more stem-cell-like states, clearly warrants
+further investigation.
+Of note in this context, Xenopus have recently been shown to
+harbour Sox2-positive cells, a putative neural stem cell population
+within the spinal cord, which proliferates and migrates in response
+to injury to the spinal cord alone and after transection of the
+tail [29]. Down-regulation of Sox2 expression correlates with
+the loss of regenerative capacity as the Xenopus undergoes
+metamorphosis. These findings also suggest that, in the context
+of spinal cord transections, these cells migrate and form a
+substrate for supporting axonal regeneration [30], which is
+crucially missing in mammals. Although neural stem cells exist
+in mammals and can proliferate in response to injury [8–10], their
+response to injury does not promote a regeneration-competent
+environment [31].
+It is worth noting that these important advances in the
+regeneration field have been enabled through elegant exploitations
+of the Xenopus laevis system’s key strengths and despite its
+persistent limitations from the lack of genomic sequences and
+difficulties in producing transgenic lines [32]. Xenopus tropicalis,
+whose simpler diploid genome has now been sequenced, has
+recently been shown to display similar regenerative capacities
+as X. laevis, thus potentially offering a more genetically
+tractable anurans system [33]. Recent transcriptome analysis
+of different stages of the regenerative process have identified
+dynamic regulation of interesting subsets of genes involved in
+the inflammatory response, intracellular metabolism and energy
+regulation, offering compelling new insights into the regulation
+of different phases of the regenerative response [33].
+Caudata: tailed amphibians
+Spinal cord regeneration after injury
+Tailed amphibians, such as newts and salamanders, have long been
+considered the champions of regeneration, having the remarkable
+ability to regenerate a wide range of body parts throughout life
+[34,35]. Although the Mexican ‘axolotl’ salamander naturally
+remains aquatic and retains juvenile characteristics throughout
+life, when forced to become terrestrial like newts, it still maintains
+its ability to regenerate [36,37]. In recent years, spurred on by a
+surge of interest in regenerative medicine, these model systems
+have come to the fore, favoured for this extensive regenerative
+capacity, as well as exquisite cytology and key advances in
+molecular and transgenic tools.
+To date, much of the work carried out on spinal cord
+regeneration in salamanders has been in the context of tail
+regeneration following amputation, although many older studies
+have also documented their regenerative repair of more discrete
+spinal cord lesions. As early as 1965, Butler and Ward first
+described the regeneration and functional recovery after a lesion
+in the spinal cord of the newt [38,39]. Their work described a
+process in which the two ends of the spinal cord are sealed over
+and migrate towards one another and, over time, axons then regrow
+through the lesion site [38]. These early findings are remarkably
+similar to the process that has now been described to also occur
+in zebrafish, as discussed above. Retrograde labelling of axons
+has shown a strong correlation between co-ordinated swimming
+and regrowth of the descending supraspinal axons [40]. More
+recent work in newts has shown that putative meningeal and glial
+cells create a regeneration-permissive environment after spinal
+cord injury [41]. Interestingly the meningeal fibroblasts and glial
+cells migrate into the injury site along with endothelial cells and
+create a substrate on which the axons can regrow. In their model,
+although sensory neurons do not appear to regenerate, the animals
+appear to regain full motor control [41]. The authors suggest that,
+in the newt, the meningeal cells, glial cells and neuronal axons all
+move as a co-ordinated unit to fill the injury gap. This would be in
+stark opposition to what is observed following mammalian spinal
+cord injury, where meningeal fibroblasts and astrocytes together
+form a glial scar that actually inhibits axonal regrowth through
+the lesion site [42].
+Spinal cord regeneration after tail amputation
+Beyond these observations from discrete lesions, the ability of the
+salamander spinal cord and surrounding tail to fully regenerate
+following a full amputation has also been thoroughly documented
+in various species over the years [38,39,43–47]. Early papers
+already established the necessity of the spinal cord for tail
+regeneration to proceed successfully. Work from Nordlander
+and Singer already postulated, on the basis of ultrastructural
+observations, that descending axons regenerate by moving along
+channels present in regenerating ependymal glial cells [43,44].
+Although many of the early studies implied mechanisms on the
+basis of structural observation, many of these observations have
+proven to be very accurate and now provide the foundations for
+more modern molecular experiments. Early in the field, work from
+the Bryant laboratory carefully documented five distinct stages
+of tail regeneration in the newt and showed that the length of
+tail regenerated is proportional to the amount originally removed
+[48,49].
+Further work on understanding spinal cord regeneration has
+also focused on the context of tail amputations. Cell lineage
+tracing and transplantation studies have shown that, in both
+Pleurodeles and Ambystoma, radial ependymal cells give rise to
+the new glial cells in the regenerating spinal cord and can also
+differentiate to produce new neurons, suggesting that these have
+properties similar to neural stem cells [50–52]. This observation
+has triggered the key question of whether these cells retain such
+pluripotency throughout development from the embryonic state,
+c© The Authors Journal compilation c© 2013 Biochemical Society
+356 J. F. Diaz Quiroz and K. Echeverri
+or whether this capacity is newly induced in response to injury.
+Although previous work has shown that adult axolotl spinal cord
+cells indeed retain expression of certain embryonic development
+genes such as Pax7, Pax6 and Shh (sonic hedgehog), these are not
+associated with stemness or pluripotency, but rather encode key
+dorsoventral positioning cues, consistent with the maintenance
+by most spinal cord cells of their dorsoventral identity during
+regeneration [53,54]. Furthermore, Pax7 has been shown to be
+down-regulated in the zone just proximal to the amputation plane
+from where cells migrate out to form the regenerate, suggesting
+that these cells may indeed revert to a more stem-cell-like state as
+a result of injury [55]. In fact, there have been no published reports
+to date of stem cell or pluripotency markers being expressed in the
+adult axolotl spinal cord or surrounding tail tissues outside of the
+injury context. Such a marker, namely FGF2, has been shown in
+newts to be up-regulated in radial glial cells after injury in a zone
+adjacent to the injury site [56]. The implied role in regulating pro-
+liferation and differentiation of these cells [56,57] therefore adds
+further support to the hypothesis that they are reverting to a more
+neural stem-cell-like, or pluripotent, state as a response to injury.
+Data from several groups have also confirmed the up-regulation
+of not only FGF signalling molecules, but also Hox, Wnt and BMP
+pathway components during the early stages of axolotl spinal cord
+regeneration [55,56,58–60]. The consistency of these findings
+with observations from zebrafish and Xenopus further supports
+the emerging view that these signalling pathways represent
+key conserved requirements underlying natural regenerative
+capacities in many, if not most, of these organisms. As compelling
+as this apparent convergence may be, it still leaves the exact
+functional and mechanistic contributions of these genes and their
+downstream effectors largely unknown, at least in newts and
+axolotls. Early lineage tracing experiments in the axolotl using
+overexpression of GFP driven by a glial-specific promoter has
+shown that radial glial cells divide and migrate in response to tail
+amputation, essentially acting as a neural stem cell population
+as they give rise to new glial cells and neurons [61]. These
+experiments also suggested that these cells are capable, at a low
+frequency, of giving rise to cells of the mesodermal lineage.
+This is also potentially supported by observations that cells
+exit out of the regenerating spinal cord via the terminal vesicle
+and enter surrounding tissues, although the exact fate of these
+cells remains as yet undetermined [52,54,61]. The development
+of axolotl transgenesis techniques combined with the ability to
+transplant GFP-positive cells into wild-type animals has helped
+shed more light on the behaviour of these putative axolotl neural
+stem cells. Recent work from the Tanaka laboratory has shown
+that non-clonal neural stem cells derived from transgenic GFP-
+positive axolotls, when implanted back into wild-type animals,
+were able to reconstitute both the CNS (central nervous system)
+and the PNS (peripheral nervous system) following injury [52].
+Although this suggested that such spinal cord neural stem cells
+may be multipotent, similar experiments using clonally derived
+cells failed to support this conclusion, as no contribution to DRG
+(dorsal root ganglia) was detected [52]. Possible interpretations
+suggest that in the cloning process multipotent stem cells may
+have been selected against or, alternatively, that during the
+initial process of dissecting the spinal cord tissue for non-clonal
+experiments, the boundary cap cells (stem cells of the PNS located
+at the interface between the CNS and PNS) were included in the
+mix, but were selected against during the derivation of clonal
+lines.
+Again there are remarkable similarities observed between
+species in their response to injury. In anurans, urodeles and
+mammalian glial cells are seen to migrate and divide in response
+to injury, and signalling pathways such as Notch, BMP and Wnts
+are activated; however, the question remains as to why mammals
+favour structural repair over functional regeneration. Although
+much progress has been made in understanding where cells come
+from and what their potential is during axolotl and newt spinal
+cord regeneration, much work is yet to done to understand the
+signals that drive cells to divide, migrate and differentiate at
+the correct times and locations after injury, and this may help
+us to promote functional regeneration compared with basic repair
+in mammals.
+MAMMALIAN RESPONSE TO SPINAL CORD INJURY
+In stark contrast with the extensive regenerative capacities
+discussed above, the mammalian CNS is effectively devoid of
+such repair systems. In studying this basic shortcoming, many
+pathways have been identified as inhibitors of mammalian CNS
+axonal repair and regeneration. These can be broadly classified
+as those that affect the severed axon itself compared with those
+ascribed to neighbouring cells and structures, which render the
+surrounding environment refractory to, or incapable of, supporting
+axonal regeneration.
+The glial scar: the good and the bad of the ugly
+The glial scar is a major hallmark of injury in the mammalian CNS.
+After injury to nerve cells, myelin sheaths insulating the axons
+begin to degenerate, while astrocytes, oligodendrocyte precursors
+and immune cells all migrate to the injury site (Figure 1). More
+specifically, injury to the CNS initiates the process of reactive
+gliosis [62,63], characterized by the presence of hypertrophic
+proliferating astrocytes, also known as reactive astrocytes, which
+up-regulate expression of intermediate filaments such as GFAP,
+vimentin and nestin. Although glial cells in zebrafish and axolotls
+are know to express similar markers after injury, they do not
+appear to form an inhibitory glial scar [6,64]. The glial scar
+is often referred to both as a physical and chemical barrier to
+axon regeneration. Although the glial scar is often thought to
+be mainly composed of reactive astrocytes, other cell types such
+as microglia, macrophages and OPCs (oligodendrocyte precursor
+cells) may also be involved in its formation. A recent study showed
+that, after injury, the spatiotemporal reactivity of microglia mimics
+that of astrocytic reactivity [65]. It has also been shown that,
+even though reactive microglia and astrocytes can be seen as
+early as 2 h after contusion injury in rats [65], astrocytes remain
+in the borders of the injury, whereas macrophages invade the
+core of it [42,62,66]. Interestingly, although microglia activation
+may be beneficial for injury repair [67], macrophage invasion
+increases axonal retraction after injury [68] and inhibits axonal
+regeneration [69]. Moreover, in vivo and in vitro work from the
+Silver laboratory has shown that precursor cells expressing nestin,
+vimentin and NG2 (a marker for OPCs) prevent macrophage-
+induced axonal retraction and promote axonal growth across the
+inhibitory environment of the glial scar [66].
+In recent studies, another cellular component of the glial scar
+has been identified. The Frisén laboratory has identified a subset
+of pericytes that give rise to stromal cells after injury to the spinal
+cord. In the early phases post-injury, although astrocytes have long
+been thought to be the main component of the glial scar [70], these
+stromal cells are twice as abundant as reactive astrocytes in the
+lesion site. Elegant genetic ablation studies have shown that these
+stromal cells are essential in the early phases of reaction to injury,
+to seal off the damaged tissue and to prevent further damage [70].
+These results fit with the newly emerging view that the glial scar
+has both a protective function and an inhibitory effect.
+c© The Authors Journal compilation c© 2013 Biochemical Society
+Spinal cord regeneration 357
+Figure 1 Schematic diagram of spinal cord injury in mammals
+After injury to the mammalian spinal cord, cells migrate to the injury site. Macrophages engulf dying cells, while astrocytes, fibroblasts and endothelial cells fill the cavity created by the injury. Some
+of these cells express and secrete proteins that inhibit axonal growth. On the caudal side of the injury, axons that have been disconnected from their cell body begin to undergo a process called
+Wallerian degeneration, which ultimately results in death of the axon.
+Even though the association of dystrophic axons with reactive
+astrocytes led to the idea that the glial scar is inhibitory for
+axonal regeneration, it has been shown that reactive gliosis may
+in fact be somewhat beneficial [42]. For example, one study
+showed that, when reactive astrocytes where selectively ablated
+in rats after a stub or crush injury, axonal degeneration and
+demyelination were both increased and recovery of motor function
+was reduced. This suggests that, rather than inhibiting axonal
+growth, the role of the glial scar is to conceal or sequester the
+damage caused by the injury and promote tissue repair [71].
+Another study showed that reduced astrocytic reactivity in double
+GFAP/vimentin-knockout mice actually improved motor function
+recovery after hemitransection injuries [72]. The suggestion there
+was that down-regulation of the proteins overexpressed by reactive
+astrocytes could allow the scar to perform its protective role
+without creating an inhibitory environment for axonal growth.
+Beyond the cells involved, another important component of
+the glial scar is the ECM (extracellular matrix) surrounding it.
+After spinal cord injury, the levels of many ECM components
+are markedly increased. These components include collagen IV,
+α-laminin, γ -laminin, laminin-1 [73], KSPGs (keratan sulfate
+proteoglycans) [74] and CSPGs (chondroitin sulfate pro-
+teoglycans) [75]. In view of the enrichment of these components at
+the injury site, it has been widely thought that the components of
+the ECM act as inhibitory cues to axonal growth at the injury
+site. Interesting work from the McMahon laboratory showed that
+removing the CSPG glycosaminoglycan chains attenuates the
+inhibitory activity of CSPGs and resulted in functional regrowth of
+both ascending and descending axons in an in vivo model of spinal
+cord injury [76]. More recent work from the Silver laboratory has
+shown that a combination approach of removing the inhibitory
+effect of the CSPGs combined with a peripheral nerve graft
+could result in regeneration of serotonin-containing axons and
+recovery of respiratory function [77]. However, growing evidence
+suggests that not all neuronal cell types respond in the same way
+to ECM-rich environments. Using a cellular grafting model after
+dorsal column injury, Jones et al. [75] showed that nociceptive,
+sensory and rubrospinal axons were able to grow into the graft
+across a CSPG-rich environment in association with the CSPG
+NG2. Moreover, studies using NG2-knockout mice showed that
+c© The Authors Journal compilation c© 2013 Biochemical Society
+358 J. F. Diaz Quiroz and K. Echeverri
+CST (cortico-spinal track) axons did not improve regeneration
+after spinal cord transection, suggesting that NG2 might not be
+involved in axonal regeneration in vivo [78]. However, inhibition
+of LAR (leucocyte common antigen-related), a receptor for
+CSPGs, promoted axonal growth in the presence of CSPGs
+in vitro and improved motor function recovery in mice after a
+dorsal horn transection injury [79], suggesting that the different
+CSPGs up-regulated after injury (NG2, brevican, neurocan and
+versican) might have redundant roles in inhibiting axonal growth
+and, furthermore, that the sensitivity to such an environment is
+dependent on the expression of the CSPG receptors.
+In species that have a natural ability to regenerate, less is known
+about the composition of the ECM after injury. Fibronectin,
+vimentin and cytokeratins are known to be up-regulated after
+injury in salamanders [64,80], and in newts CSPGs are up-
+regulated in the meninges and blood vessels, but not in the cells
+at the lesion site [41]. However, tenascin-C is up-regulated in
+Xenopus, newts, zebrafish and mammals after injury. In zebrafish
+tenascin is up-regulated in the brainstem and spinal neurons
+after injury, and inhibition by morpholinos after injury results
+in impaired locomotive recovery and reduced axon regrowth,
+suggesting a crucial role in promoting regeneration [81]. Although
+tenascin-C is up-regulated in mammals after injury [82], it seems
+that the levels are not enough to have a positive effect on
+regeneration. Further work has shown that overexpression of
+tenascin-C improves locomotive recovery after injury and reduces
+the lesion size [83]. These results suggest that the response to
+injury in some species promotes a more regeneration permissive
+environment than in mammals; however, many of the pathways
+are highly conserved.
+Together, these studies point to an overall model of glial scar
+functionality defined primarily by its important early role in
+response to injury, assuring the structural stabilization of the
+lesion site and thereby preventing further tissue damage. This then
+carries the unfortunate drawback that this natural ‘bracing system’
+in itself, at least partly because of the key proteins expressed
+in building it, happens to be inhibitory to axonal regeneration
+through the lesion site. Thus, according to this model, evolution
+of the mammalian CNS repair system has carried a difficult trade-
+off resulting in the flawed outcome we know all-too-well, i.e.
+restoration of structural integrity being favoured at the expense of
+functional recovery.
+Myelin debris and its effect on axonal regeneration
+In the mammalian CNS, oligodendrocytes produce myelin sheaths
+that surround and insulate the axons, playing a key role in
+enabling their fast saltatory transmission of excitatory signals.
+While myelin sheaths can help to direct the regrowth of severed
+peripheral neurons, they actually have the opposite effect in
+the CNS, where they contribute strong inhibitors of axonal
+outgrowth after injury. Much effort has therefore been dedicated
+to understanding this inhibition, in hopes that this might reveal
+the key factor(s) limiting our capacity for regenerative repair of
+CNS injuries.
+The group of Martin Schwab was the first to identify the
+inhibitory effect of myelin and showed that this effect could
+be attenuated by treatment with proteases [84]. Over 10 years
+of work eventually led to the identification of the Nogo (neurite
+outgrowth inhibitor) family of proteins [85]. Since this major
+breakthrough, other inhibitory components of myelin have also
+been discovered: the present discussion will focus on Nogo, MAG
+(myelin-associated glycoprotein) and OMgp (oligodendrocyte-
+myelin glycoprotein).
+Nogo encodes at least three major splice variants, Nogo-A, -B
+and -C. Nogo-A is highly expressed in oligodendrocytes and is
+the only Nogo isoform to inhibit neurite outgrowth in vitro and
+in vivo [85–87]. All three Nogo isoforms share a highly conserved
+C-terminal ‘reticulon’ domain, containing an extracellular loop
+called Nogo-66. Although the lack of expression of Nogo-A in
+the PNS suggested that the B and C variants were not inhibitory
+for axon regeneration [85], it was also shown that the conserved
+lumenal/extracellular domain of the Nogo variants (Nogo-66)
+was sufficient to induce growth cone collapse [88]. Subsequent
+studies therefore intensified the testing of Nogo’s inhibitory role
+in vivo after spinal cord injury. Using a dorsal hemi-section injury
+model, rats treated with an antibody against Nogo-A [89] or a
+peptide to block the Nogo-66 receptor [90] showed a modest, but
+significant, improvement as compared with untreated controls, in
+the recovery of motor function, as well as an incremental increase
+in regenerated CST axons and raphespinal axons (serotonergic
+fibres) [90]. This was confirmed by one study using the same
+injury models performed in mutant mice lacking Nogo-A/B,
+which showed similar results in terms of motor function recovery
+and CST axon regeneration [91]. However, another study reported
+that Nogo-A/B- or Nogo-A/B/C-null mice did not present any
+improvement in motor function recovery or regeneration of
+CST axons [92]. As pointed out by the authors, the different
+genetic backgrounds of the mice used in these studies could be
+a possible explanation for the contradictory results, or the dif-
+ferent methods used to generate the knockout mice could in the
+other studies have in fact altered other neighbouring genetic loci.
+The Schwab laboratory has indeed shown that mice of different
+genetic backgrounds (BL6 and Sv129) express markedly dif-
+ferent levels of Nogo-A. Furthermore, although after a dorsal
+hemi-section injury Nogo-A-null mutants showed more axon
+sprouting on the rostral side of the injury in the BL6 background,
+the equivalent mutants showed more CST regeneration caudal to
+the injury in the Sv129 background [87]. These results reveal
+that the inhibitory role of Nogo after injury can be detectably
+modulated by differences in genetic backgrounds and confirms
+that Nogo-A is not the only myelin-derived inhibitor of axon
+regeneration.
+Interesting work from the Stuermer laboratory has identified the
+Xenopus orthologues of mammalian Nogo [93]. Xenopus Nogo-
+A, like its mammalian counterpart, is mainly expressed in the
+nervous system, specifically in myelinated fibre tracts of the spinal
+cord, by a subpopulation of neurons and in oligodendrocytes.
+It remains unclear whether Nogo-A expression increases as
+Xenopus metamorphose and lose regenerative ability, or if
+inhibiting Nogo-A at non-regenerative stages suffices to create
+a regeneration-permissive environment after spinal cord injury.
+The same laboratory has identified the zebrafish orthologues of
+mammalian Nogo-A (RTN4/6) [94] and its receptor (NgR) [95].
+The N-termini of zebrafish Nogo-A orthologues lack the Nogo-
+A-specific inhibitory domain that inhibits axonal growth of fish
+retinal axons in vitro [94]. The absence of this inhibitory domain,
+along with the weak expression of NgR in the adult spinal cord
+[95], may explain why no myelin-related inhibition is observed in
+zebrafish after spinal cord injury [94,96]. To date, no conclusive
+functional experiments to elucidate the role of zebrafish’s RTN4/6
+or NgR during spinal cord regeneration have been reported.
+Nonetheless, this body of work again illustrates that genes are
+highly conserved between vertebrates and offers an interesting
+paradigm in which to study regenerative capacity in different
+species.
+Among the other myelin inhibitors to be described so far
+are MAG and OMgp [97]. MAG is a single transmembrane
+sialic-acid-binding adhesion molecule expressed both by
+c© The Authors Journal compilation c© 2013 Biochemical Society
+Spinal cord regeneration 359
+oligodendrocytes in the CNS and by Schwann cells in the PNS.
+Although recombinant MAG induces growth cone collapse in
+embryonic mouse hippocampal neurons and CGNs (cerebellar
+granule neurons) in vitro [98], in MAG-deficient mice only a few
+axons were detected caudal to the injury site [98,99]. The majority
+of these axons seemed to circumvent the injury site, which might
+be an indication that these axons were spared at the moment of
+the injury rather than true regeneration [100]. These results also
+suggest that MAG might not play as strong an inhibitory role after
+injury as Nogo. One report suggests that MAG-null mice show
+increased neuronal degeneration in comparison with wild-type
+mice, correlated with decreased motor function behaviour [101].
+Also, treatment of DRG with soluble MAG reduced vincristine-
+induced axonal die-back in vitro in a dose-dependent manner. This
+protective behaviour correlated with an increase in detyrosinated
+tubulin (a sign of stable microtubules) and a decrease in tyrosin-
+ated tubulin (more dynamic microtubules). The protective role of
+MAG was also observed with other agents know to be deleterious
+to axons (e.g. activated CD8 T-cell supernatant, granzyme and
+acrylamide) [101]. Moreover MAG-null mice myelin induced
+growth cone collapse and inhibition of neurite outgrowth in vitro
+[98,102], further supporting the notion that MAG may not be
+involved in axonal inhibition after spinal cord injury.
+OMgp is a 110 kDa glycophosphatidylinositol-linked mem-
+brane protein expressed in oligodendrocytes and in some
+neurons. It has been shown that both soluble and immobilized
+OMgp inhibit neurite outgrowth of E13 (E is embryonic
+day) chick DRG in vitro, comparable with Nogo-66 inhibition
+[103]. Also, OMgp-null mice of the 129BL6 mixed genetic
+background showed improvement in motor function recovery
+after complete transection, in comparison with wild-type mice
+[104]. Interestingly, as was observed for Nogo [87], OMgp-null
+mice of the BL6 background failed to show improvement in motor
+function recovery in comparison with controls [104]. Moreover,
+while OMgp-null 129BL6 mice showed serotonergic and sensory
+axon regeneration beyond the injury site after hemi-section injury,
+no improvement in CST axon regeneration was seen [104]. These
+results suggest that although both OMgp and Nogo have inhibitory
+effects for axon growth after injury, each one may affect different
+types of neurons and, in both cases, the effects may be dependent
+on the genetic background. These results may also suggest that
+OMgp synergizes with Nogo to inhibit axonal growth after injury.
+A study from the Strittmatter laboratory showed that myelin
+extracted from triple-null mice for Nogo, MAG and OMgp did not
+inhibit neurite outgrowth in vitro [105]. Furthermore, such triple-
+null mice showed improvement in recovery of motor function,
+alongside regeneration of CST and serotonergic fibres beyond the
+scar in a dorsal single hemi-section injury model, suggesting that
+Nogo, OMgp and MAG synergize after spinal cord injury [105].
+However, a previous report showing that combined treatments
+with OMgp and Nogo-66 did not enhance or accelerate growth
+cone collapse in E13 chick DRG in vitro suggests that both
+ligands seem to act independently rather than synergistically
+[103]. Furthermore, another study performed using triple-null
+mice for Nogo, MAG and OMgp showed no regeneration of
+either serotonergic axons following complete transection injuries,
+or CST axons following dorsal hemi-sections, as well as no motor
+function recovery [106]. Again the discrepancy between studies
+may be at least partly attributable to differences in the genetic
+background of the mice used and the types of injury performed.
+Interestingly, both studies showed that, in MAG single mutants
+[106] or OMgp/MAG double mutants [105], motor function
+recovery and CST axon regeneration were not improved and
+could even be worsened. This further supports the notion that
+MAG might play a protective role after spinal cord injury.
+The overall data suggest that the in vivo role of myelin-derived
+proteins after spinal cord injury remains only partially understood.
+Further progress in this area will require increased clarity with
+respect to such contributing factors as genetic background,
+types of injury and neuronal susceptibility, to dissect out their
+respective impacts on the inhibition of axonal growth by these
+proteins after injury. In this context, it is also important to note
+that myelin-derived inhibitory proteins are not the sole inhibitors
+of axonal growth at the injury site. Indeed, many studies in
+recent years have also documented such a role for classical axon
+guidance proteins such as ephrins [97,107–110], semaphorin and
+plexin [97,106,111–114], many of which are notably up-regulated
+after injury. Their precise roles and potential interactions with
+myelin-associated protein have yet to be fully elucidated.
+Injury-induced changes to axons
+Axons in the PNS show significant natural ability to regenerate
+after injury; however, although this has been studied extensively
+for many years, limited progress has been made to date on
+transferring this ability to the CNS axons that show very limited
+regenerative capacity. Major trauma to the spinal cord usually
+results in damage to most axons, although some often do escape
+injury. As described above, axon regeneration is inhibited by
+extrinsic factors in the tissue environment, but also by intrinsic
+changes within the axon itself and also by an age-dependent
+decline in regenerative ability [115]. For an axon to regenerate
+after injury, it must first seal off its membrane and reorganize its
+cytoskeleton to form a growth cone [116]. The growth cone is a
+specialized highly motile structure located at the growing tip of
+a neurite, its centre being dominated by microtubules, whereas
+its peripheral domains are more enriched in actin bundles [116].
+Many studies of PNS neurons both in vitro and in vivo have
+now shown that axon regeneration is driven by external cues in
+the environment that trigger modulations of the cortical actin
+cytoskeleton which then directs progression of the growth cone in
+co-ordination with the dynamic ends of microtubules emanating
+from the axon shaft and undergoing constant remodelling [117].
+By comparison, as axons in the CNS fail to regenerate, they
+do not form a growth cone in response to injury, and instead
+form what is referred to as a ‘retraction bulb’ or ‘dystrophic
+end bulb’, as originally described by Ramón y Cajal [118].
+Dystrophic end bulbs vary in size and shape, but typically
+involve a massive disorganization of the tightly packed and
+uniformly orientated microtubule array post-injury, as well as
+an accumulation of vesicles causing a notable swelling of the
+tip of the axon [119]. Although this may seem like a dead-end
+situation, some pioneering work has shown that, in fact, dystrophic
+end bulbs retain the inherent ability to regenerate if placed in an
+appropriately permissive environment: indeed, CNS axons can
+regenerate into an implanted peripheral nerve graft even after
+4 weeks in a non-permissive environment [120].
+Although these observations relate to the portion of the axon
+that is still connected to the neuronal cell body, the other portion
+that is left on the other side of the injury typically undergoes rapid
+‘Wallerian’ degeneration (Figure 1) [121]. Initially there is an
+acute degeneration phase that actually affects both the proximal
+and distal parts of the severed axon and has been shown to
+be mediated via an influx of Ca2 + and activation of the Ca2 + -
+dependent protease calpain (Figure 1) into the cut ends of the
+axon [122]. This is followed by a latency period that can last
+for 24–48 h during which the distal part of the axon remains
+morphologically intact and is still electrically excitable for a short
+period [123]. This is followed by a rapid degeneration phase
+c© The Authors Journal compilation c© 2013 Biochemical Society
+360 J. F. Diaz Quiroz and K. Echeverri
+during which the cytoskeletal components of the axon disassemble
+and macrophages invade the site, presumably to remove axonal
+debris [124,125].
+The understanding of these different phases of axonal
+degeneration has led to many interesting attempts to protect distal
+axons from degeneration. In vitro studies of cultured neurons first
+showed that by culturing neurons in low Ca2 + conditions or by
+chelating Ca2 + from the medium, neurons could be protected from
+degeneration for up to 4 days post-axotomy [122]. Interestingly,
+inhibition of calpain only delays degeneration for 12–24 h in vitro,
+thus suggesting that there are other Ca2 + -dependent pathways
+that are active in promoting degeneration of axons [126,127]. The
+rapid sealing of the severed ends of axons suggests that the rise in
+Ca2 + levels comes from release of stored intracellular Ca2 + within
+the axon itself. Work on modulating specific ion channels has
+shown that while blocking N-type channels has no effect, L-type
+calcium channel blockers significantly delay axon degeneration
+for up to 4 days post-axotomy [122]. An open question remains
+as to whether rising levels of Ca2 + are a signal to activate axonal
+degeneration or whether this comes from an upstream effector
+signal?
+Another type of signalling well known to be activated after
+axonal injury is the JNK (c-Jun N-terminal kinase) pathway.
+Chemical inhibition of JNK has been shown to result in axon
+protection for up to 48 h post-axotomy [128]. Loss of the DLK
+(dual leucine zipper kinase) mitogen-activated kinase family or
+inhibition of GSK3 (glycogen synthase kinase 3) gives a similar
+effect. However, it remains unknown how these kinases are
+activated and the neuronal protection effect is only observed
+if the pathways are inhibited within the first 3 h post-axotomy,
+suggesting that these kinases act as an early injury sensor [128].
+Another key component of the axon that is targeted in axonal
+protection strategies is the cytoskeleton. Degeneration of the axon
+results in rapid depolymerization of the microtubules that are the
+core structural component of the axon [116]. In normal axons,
+the proteasome is responsible for regulating the normal turnover
+of MAPs (microtubule-associated proteins) which assure both
+the highly structured microtubule architecture and bidirectional
+transport processes that it supports [129]. Inhibition of the
+proteasome complex in injured axons has been shown to prevent
+the turnover of such MAPs as tau and MAP1, which results in
+increased stabilization of the microtubules, leading to protection
+of the axon from degeneration [127]. In more recent studies,
+the Bradke laboratory have shown that application of Taxol, a
+drug that stabilizes microtubules, reduces scarring and promotes
+axonal regeneration after injury in rats [130]. Taxol not only
+stabilized microtubules in the axons, but also led to reduced
+production of the glial scar proteins laminin, fibronectin and
+collagen IV, suggesting that a more permissive environment was
+created to allow axonal regeneration. Taxol appears to work
+by preventing the trafficking of kinesin 1 and dynamin, therefore
+preventing Smad2 from activating TGF-β (transforming growth
+factor β) signalling, which is known to activate genes involved in
+glial scar formation [130]. This approach offers new and exciting
+potential for drug-based therapies which target more than one
+cellular process. Although the full mechanism by which Taxol
+promotes axon regeneration is still unclear, previous work from
+the same laboratory has shown that low doses of Taxol can induce
+axon formation in vitro [131].
+In contrast with mammals, in species that do regenerate their
+CNS we see various degrees of axonal regeneration, although
+much remains to be understood about the process in these systems.
+In the zebrafish both axonal degeneration and regeneration is
+observed, whereas in salamanders it is unclear what exactly
+happens to the axons on the caudal side of the injury (Table 1).
+One of the most interesting and novel systems for studying
+axonal regeneration in recent years is the invertebrate model
+Caenorhabditis elegans. Admittedly, the invertebrates’ lack of
+even the most rudimentary spinal cord would seem, at first
+thought, to seriously restrict their potential contributions to this
+field. Although this is fundamentally true, this limitation is
+nonetheless well countered by the tremendous investigational
+power afforded by C. elegans, through superb genetics tools, ever-
+improving cytology, detailed developmental characterization and
+genomic sequencing. By thereby accessing some of the most
+elegant genome-scale screening methodologies available in any
+model, researchers have been able to undertake molecular-level
+dissections of those regenerative processes that are also observable
+in these systems, particularly, as it happens, in the neural context
+[132,133]
+C. elegans has a relatively simple, highly invariant and uniquely
+well characterized nervous system consisting of 302 neurons,
+each of which offers a fully documented developmental lineage,
+morphology and synaptic connectivity [134]. Despite much work
+describing axonal outgrowth and pathfinding during C. elegans
+development, studies of axon regeneration have only recently
+begun [135,136]. The first study in C. elegans used femtolaser
+surgery to perform careful axotomies and showed how these axons
+can in fact regenerate [137]. This seminal study has effectively
+launched a new field that has lead to more precise molecular
+and cell biology descriptions of the factors necessary to promote
+axonal regeneration, enabling very interesting and even broader
+cross-species comparisons than ever before.
+How axons regenerate in C. elegans depends largely on the
+type of axon that is injured [138]. Interestingly, mechanosensory
+axons regenerate via fusion of the proximal and distal ends of the
+cut axon [139]. This occurs in two different scenarios: direct ‘end-
+to-end’ fusion, meaning direct reconnection of the two severed
+stumps, or ‘end-to-side’ fusion, whereby the proximal end of
+the severed axon actively grows towards and finds its distal
+stump. This suggests that the proximal end may be able to ‘seek’
+and recognize its distal stump, and that both ends participate
+in the reconnection process [139]. Ultrastructural studies have
+shown that reconnection occurs via fusion of the two pieces,
+both membrane and cytoplasm becoming continuous as a result
+[139,140]. Although axon regeneration via fusion of severed ends
+has also been described in other invertebrate species [141], this
+seems to be a specific mechanism induced only in a subtype of
+neurons. Intriguingly in mammals there have also been reports
+of axonal regeneration via fusion of severed ends. The Bittner
+laboratory have shown impressive PEG [poly(ethylene) glycol]-
+facilitated fusion of rat axons both in vivo and in vitro after
+transection or crush injury leading to improved rates of motor
+function recovery after injury [142,143].
+In most C. elegans neurons that get severed, however, the distal
+portion of the axon, i.e. the one that is no longer connected to
+the cell body, degenerates in a fashion that is at last superficially
+reminiscent of the so-called Wallerian degeneration observed in
+mammals [138,139].
+Another area in which the study of axon regeneration in C.
+elegans has been advantageous has been in understanding the role
+of microtubule dynamics in vivo after injury. Although axonal
+microtubules are normally kept in a stable steady-state, upon
+injury these undergo significant changes to form a dynamic
+growth cone that may involve growth of microtubule ends
+and/or formation of new microtubule nucleating centres [116].
+Following extensive in vitro studies in cultured neurons, the
+in vivo C. elegans studies have revealed very important new
+insights. A genetic screen for regulators of axonal regeneration
+has identified several potential endogenous regulators of axonal
+c© The Authors Journal compilation c© 2013 Biochemical Society
+Spinal cord regeneration 361
+microtubule dynamics [132]. Recent work has shown that in
+injured mechanosensory neurons, microtubules increase at the
+injury site at the same time as the depolymerizing kinesin KLP-
+7 is down-regulated [144]. A second phase of axonal outgrowth
+requires post-translational modifications of α-tubulin units by the
+cytosolic carboxypeptidase CCPP-6. Interestingly both of these
+phases of axon outgrowth were shown to be mediated by the DLK-
+1 MAPK (mitogen-activated protein kinase) pathway [144]. That
+work sheds important new insight into the dynamic process of
+how a transected axon rearranges its cytoskeleton to form a new
+growth cone and regenerate the axon.
+These findings illustrate to what extent the C. elegans system
+offers a powerful opportunity for studying the molecular and
+cellular aspects of axonal regeneration. As noted above, since
+C. elegans has no spinal cord and its axons are not myelinated,
+the translational scope of these observations seems at first glance
+unlikely to spread far beyond these aspects of axonal regeneration
+inherent to the basic biology of neurons themselves. However,
+given the identification of highly conserved signalling molecules
+and the recent descriptions of glial cells in C. elegans [145],
+this system’s future utility may in fact extend beyond neurons
+themselves and into the core issue of neuron–glial interactions.
+STEM CELLS AND SPINAL CORD INJURY REPAIR
+Most current clinical therapies for spinal cord injury focus on
+limiting inflammation, secondary cell death and on potentially
+enhancing and expanding the functionality of spared circuits.
+As such, the promotion of axonal regeneration is typically left
+unaddressed. As we have learned more about the environment
+after spinal cord injury, more focus has been placed on creating
+more permissive surroundings for axonal growth and potential
+cell replacement therapies [146]. Below we will briefly discuss
+the most recent advances in this field.
+To date, most research has focused on modulation of growth
+factors and known inhibitory molecules as avenues for promoting
+axonal regrowth. BDNF (brain-derived neurotrophic factor) is
+probably one of the most studied and the one that has to date
+offered the most potential for therapies [147–150]. Increasing
+the levels of BDNF after injury in animal models appears
+to initially increase motor recovery, although this effect does
+diminish at later time points, suggesting that BDNF may act in a
+neuroprotective capacity, possibly by recruiting oligodendrocytes
+and replacing myelin on cut axons [151,152]. Interestingly, further
+work has shown improved axonal regrowth when BDNF is
+used in conjunction with a fibroblast implant, suggesting that
+giving the severed axons a cellular support to grow on may
+increase axonogenesis. Many other growth factors have been
+tested in similar approaches, but BDNF has so far shown the
+most convincing effect (reviewed in [153,154]).
+Tissue engineering strategies have over recent years shown a
+big surge [155]. As spinal cord injury in mammals results in
+the formation of a cyst, this results in a suboptimal substrate
+for neuronal regrowth. To date, a number of different substrates
+have been tested in vitro and in vivo, alone or in combination
+with growth factors or cells. Some recently published studies
+have shown very promising data using implantation of cells into
+the lesion site. One study tested implantation of GFP-positive
+neural stem cells embedded in a fibrin gel coating growth factor.
+These cells differentiated in neurons that surprisingly projected
+axons over very long distances and formed high numbers of
+electrically active synapsis [146]. In similar experiments they
+also implanted human stem cells in the same type of fibrin gel
+into the lesion site and this also resulted in increased functional
+recovery and formation of new neural circuits, suggesting that
+young neurons can overcome the inhibitory environment of the
+injury. Interestingly this work also showed that this strategy could
+work even when the implant takes place up to 1 week after injury
+[146].
+However, the implantation of any type of stem cell always
+carries with it the risk of tumour formation at later stages. The
+Okada group has recently reported very careful work examining
+at a molecular level the fate of cells after they are implanted into
+an injury site. Their work using RNA-Seq suggests that although
+directly after implantation the graft acts in a neuroprotective role,
+overall transcriptional activity and external signal transduction
+were significantly suppressed in cells transplanted into an
+injured spinal cord compared with transplantations into other
+environments [156]. That work also showed that transplantation of
+too many cells in fact inhibited functional recovery, emphasizing
+a need to carefully develop protocols to optimize integration,
+recovery and to limit tumour formation.
+PERSPECTIVE
+As discussed above, ongoing research efforts driven by ever-
+more powerful uses of well-chosen model organisms are now
+furthering our understanding of naturally occurring spinal cord
+regeneration systems by steadily adding crucial cellular and
+molecular level details to the picture. This is providing the solid
+basis needed for conducting translational analyses that will help
+to elucidate those key pathways and mechanisms that distinguish
+such fully functional repair processes from our own flawed, non-
+functional and merely structural healing. As a result, this approach
+promises to open innovative new avenues for overcoming such
+core challenges as the inhibition of axonal regrowth by the glial
+scar, myelin debris and other factors, and thereby developing the
+types of new and improved treatment modalities that all such
+patients are hoping for.
+ACKNOWLEDGEMENTS
+We thank C. Echeverri and J. Essig for useful discussions and feedback on the review
+before submission.
+REFERENCES
+1 Aristotle (1910) Historia animalium. The Clarendon Press, Oxford
+2 Reaumur, R. (1712) Sur les diverses reproductions qui se font dans les Ecrevisse, les
+Omars, les Crabes, etc. et entr’autres sur celles de leurs Jambes et de leurs Ecailles.
+Mémoires de l’Académie Royale des Sciences 1712, 223–241
+3 Goss, R. J. and Russell, L. (1969) Principles of Regeneration. Academic Press, New York.
+4 Becker, C. and Becker, T. (2008) Adult zebrafish as a model for successful central
+nervous system regeneration. Restor. Neurol. Neurosci. 26, 71–80
+5 Hui, S., Dutta, A. and Ghosh, S. (2010) Cellular response after crush injury in adult
+zebrafish spinal cord. Dev. Dyn. 239, 2962–2979
+6 Goldshmit, Y., Sztal, T., Jusuf, P., Hall, T., Nguyen-Chi, M. and Currie, P. (2012)
+Fgf-dependent glial cell bridges facilitate spinal cord regeneration in zebrafish. J.
+Neurosci. 32, 7477–7492
+7 Dias, T., Yang, Y.-J., Ogai, K., Becker, T. and Becker, C. (2012) Notch signaling controls
+generation of motor neurons in the lesioned spinal cord of adult zebrafish. J. Neurosci.
+32, 3245–3252
+8 Meletis, K., Barnabé-Heider, F., Carlén, M., Evergren, E., Tomilin, N., Shupliakov, O. and
+Frisén, J. (2008) Spinal cord injury reveals multilineage differentiation of ependymal
+cells. PLoS Biol. 6, e182
+9 Barnabé-Heider, F., Göritz, C., Sabelström, H., Takebayashi, H., Pfrieger, F., Meletis, K.
+and Frisén, J. (2010) Origin of new glial cells in intact and injured adult spinal cord. Cell
+Stem Cell 7, 470–482
+c© The Authors Journal compilation c© 2013 Biochemical Society
+362 J. F. Diaz Quiroz and K. Echeverri
+10 Johansson, C., Momma, S., Clarke, D., Risling, M., Lendahl, U. and Frisén, J. (1999)
+Identification of a neural stem cell in the adult mammalian central nervous system. Cell
+96, 25–34
+11 Yamamoto, S., Nagao, M., Sugimori, M., Kosako, H., Nakatomi, H., Yamamoto, N.,
+Takebayashi, H., Nabeshima, Y., Kitamura, T., Weinmaster, G. et al. (2001) Transcription
+factor expression and Notch-dependent regulation of neural progenitors in the adult rat
+spinal cord. J. Neurosci. 21, 9814–9823
+12 Becker, T., Wullimann, M., Becker, C., Bernhardt, R. and Schachner, M. (1997) Axonal
+regrowth after spinal cord transection in adult zebrafish. J. Comp. Neurol. 377, 577–595
+13 Becker, T. and Becker, C. (2001) Regenerating descending axons preferentially reroute to
+the gray matter in the presence of a general macrophage/microglial reaction caudal to a
+spinal transection in adult zebrafish. J. Comp. Neurol. 433, 131–147
+14 Kuscha, V., Barreiro-Iglesias, A., Becker, C. and Becker, T. (2012) Plasticity of tyrosine
+hydroxylase and serotonergic systems in the regenerating spinal cord of adult zebrafish.
+J. Comp. Neurol. 520, 933–951
+15 Gibbs, K., Chittur, S. and Szaro, B. (2011) Metamorphosis and the regenerative capacity
+of spinal cord axons in Xenopus laevis. Eur. J. Neurosci. 33, 9–25
+16 Beattie, M., Bresnahan, J. and Lopate, G. (1990) Metamorphosis alters the response to
+spinal cord transection in Xenopus laevis frogs. J. Neurobiol. 21, 1108–1122
+17 Harrison, R. G. (1898) The growth and regeneration of the tail of the frog larva. Dev.
+Genes Evol. 7, 430–485
+18 Rose, G. H. (1907) Observations of the living developing nerve fiber. Anat. Rec. 1,
+116–128
+19 Gargioli, C. and Slack, J. (2004) Cell lineage tracing during Xenopus tail regeneration.
+Development 131, 2669–2679
+20 Sugiura, T., Tazaki, A., Ueno, N., Watanabe, K. and Mochii, M. (2009) Xenopus Wnt-5a
+induces an ectopic larval tail at injured site, suggesting a crucial role for noncanonical
+Wnt signal in tail regeneration. Mech. Dev. 126, 56–67
+21 Beck, C., Christen, B. and Slack, J. (2003) Molecular pathways needed for regeneration
+of spinal cord and muscle in a vertebrate. Dev. Cell 5, 429–439
+22 Lin, G. and Slack, J. (2008) Requirement for Wnt and FGF signaling in Xenopus tadpole
+tail regeneration. Dev. Biol. 316, 323–335
+23 Beck, C. and Slack, J. (1999) A developmental pathway controlling outgrowth of the
+Xenopus tail bud. Development 126, 1611–1620
+24 Beck, C. and Slack, J. (2002) Notch is required for outgrowth of the Xenopus tail bud.
+Int. J. Dev. Biol. 46, 255–258
+25 Borgens, R., Vanable, J. and Jaffe, L. (1979) Role of subdermal current shunts in the
+failure of frogs to regenerate. J. Exp. Zool. 209, 49–56
+26 Borgens, R., Vanable, J. and Jaffe, L. (1979) Reduction of sodium dependent stump
+currents disturbs urodele limb regeneration. J. Exp. Zool. 209, 377–386
+27 Adams, D., Masi, A. and Levin, M. (2007) H+ pump-dependent changes in membrane
+voltage are an early mechanism necessary and sufficient to induce Xenopus tail
+regeneration. Development 134, 1323–1335
+28 Tseng, A.-S., Beane, W., Lemire, J., Masi, A. and Levin, M. (2010) Induction of
+vertebrate regeneration by a transient sodium current. J. Neurosci. 30, 13192–13200
+29 Gaete, M., Muñoz, R., Sánchez, N., Tampe, R., Moreno, M., Contreras, E., Lee-Liu, D.
+and Larráın, J. (2012) Spinal cord regeneration in Xenopus tadpoles proceeds through
+activation of Sox2-positive cells. Neural Dev. 7, 13
+30 Gibbs, K. and Szaro, B. (2006) Regeneration of descending projections in Xenopus
+laevis tadpole spinal cord demonstrated by retrograde double labeling. Brain Res. 1088,
+68–72
+31 Fawcett, J. and Asher, R. (1999) The glial scar and central nervous system repair. Brain
+Res. Bull. 49, 377–391
+32 Slack, J., Lin, G. and Chen, Y. (2008) The Xenopus tadpole: a new model for
+regeneration research. Cell. Mol. Life Sci. 65, 54–63
+33 Love, N., Chen, Y., Bonev, B., Gilchrist, M., Fairclough, L., Lea, R., Mohun, T., Paredes,
+R., Zeef, L. and Amaya, E. (2011) Genome-wide analysis of gene expression during
+Xenopus tropicalis tadpole tail regeneration. BMC Dev. Biol. 11, 70
+34 Brockes, J. and Kumar, A. (2008) Comparative aspects of animal regeneration. Annu.
+Rev. Cell Dev. Biol. 24, 525–549
+35 Tanaka, E. and Ferretti, P. (2009) Considering the evolution of regeneration in the central
+nervous system. Nat. Rev. Neurosci. 10, 713–723
+36 Ehrlich, D. and Mark, R. (1977) Fiber counts of regenerating peripheral nerves in
+axolotls and the effect of metamorphosis. J. Comp. Neurol. 174, 307–316
+37 Seifert, A., Monaghan, J., Voss, S. and Maden, M. (2012) Skin regeneration in adult
+axolotls: a blueprint for scar-free healing in vertebrates. PLoS ONE 7, e32875
+38 Butler, E. and Ward, M. (1965) Reconstitution of the spinal cord following ablation in
+urodele larvae. J. Exp. Zool. 160, 47–65
+39 Butler, E. and Ward, M. (1967) Reconstitution of the spinal cord after ablation in adult
+Triturus. Dev. Biol. 15, 464–486
+40 Clarke, J., Alexander, R. and Holder, N. (1988) Regeneration of descending axons in the
+spinal cord of the axolotl. Neurosci. Lett. 89, 1–6
+41 Zukor, K., Kent, D. and Odelberg, S. (2011) Meningeal cells and glia establish a
+permissive environment for axon regeneration after spinal cord injury in newts. Neural
+Dev. 6, 1
+42 Silver, J. and Miller, J. (2004) Regeneration beyond the glial scar. Nat. Rev. Neurosci. 5,
+146–156
+43 Egar, M. and Singer, M. (1972) The role of ependyma in spinal cord regeneration in the
+urodele, Triturus. Exp. Neurol. 37, 422–430
+44 Singer, M., Nordlander, R. and Egar, M. (1979) Axonal guidance during embryogenesis
+and regeneration in the spinal cord of the newt: the blueprint hypothesis of neuronal
+pathway patterning. J. Comp. Neurol. 185, 1–21
+45 Géraudie, J., Nordlander, R., Singer, M. and Singer, J. (1988) Early stages of spinal
+ganglion formation during tail regeneration in the newt, Notophthalmus viridescens. Am.
+J. Anat. 183, 359–370
+46 Howard, H. (1951) Reconstitution of the urodele spinal cord following unilateral
+ablation. Part I. Chronology of neuron regulation. J. Exp. Zool. 117, 523–557
+47 Sybil, W. H. (1956) The inductive activity of the spinal cord in urodele tail regeneration.
+J. Morphol. 99, 1–39
+48 Iten, L. and Bryant, S. (1976) Stages of tail regeneration in the adult newt,
+Notophthalmus viridescens. J. Exp. Zool. 196, 283–292
+49 Iten, L. and Bryant, S. (1976) Regeneration from different levels along the tail of the
+newt, Notophthalmus viridescens. J. Exp. Zool. 196, 293–306
+50 Zhang, F., Ferretti, P. and Clarke, J. (2003) Recruitment of postmitotic neurons into the
+regenerating spinal cord of urodeles. Dev. Dyn. 226, 341–348
+51 Echeverri, K. and Tanaka, E. (2003) Electroporation as a tool to study in vivo spinal cord
+regeneration. Dev. Dyn. 226, 418–425
+52 McHedlishvili, L., Mazurov, V. and Tanaka, E. (2012) Reconstitution of the central
+nervous system during salamander tail regeneration from the implanted neurospheres.
+Methods Mol. Biol. 916, 197–202
+53 Schnapp, E., Kragl, M., Rubin, L. and Tanaka, E. (2005) Hedgehog signaling controls
+dorsoventral patterning, blastema cell proliferation and cartilage induction during axolotl
+tail regeneration. Development 132, 3243–3253
+54 McHedlishvili, L., Epperlein, H., Telzerow, A. and Tanaka, E. (2007) A clonal analysis of
+neural progenitors during axolotl spinal cord regeneration reveals evidence for both
+spatially restricted and multipotent progenitors. Development 134, 2083–2093
+55 Sehm, T., Sachse, C., Frenzel, C. and Echeverri, K. (2009) miR-196 is an essential
+early-stage regulator of tail regeneration, upstream of key spinal cord patterning events.
+Dev. Biol. 334, 468–480
+56 Zhang, F., Clarke, J. and Ferretti, P. (2000) FGF-2 Up-regulation and proliferation of
+neural progenitors in the regenerating amphibian spinal cord in vivo. Dev. Biol. 225,
+381–391
+57 Moftah, M., Landry, M., Nagy, F. and Cabelguen, J.-M. (2008) Fibroblast growth factor-2
+mRNA expression in the brainstem and spinal cord of normal and chronic spinally
+transected urodeles. J. Neurosci. Res. 86, 3348–3358
+58 Carlson, M., Komine, Y., Bryant, S. and Gardiner, D. (2001) Expression of Hoxb13 and
+Hoxc10 in developing and regenerating axolotl limbs and tails. Dev. Biol. 229, 396–406
+59 Caubit, X., Nicolas, S. and Le Parco, Y. (1997) Possible roles for Wnt genes in growth
+and axial patterning during regeneration of the tail in urodele amphibians. Dev. Dyn.
+210, 1–10
+60 Monaghan, J., Walker, J., Page, R., Putta, S., Beachy, C. and Voss, S. (2007) Early gene
+expression during natural spinal cord regeneration in the salamander Ambystoma
+mexicanum. J. Neurochem. 101, 27–40
+61 Echeverri, K. and Tanaka, E. (2002) Ectoderm to mesoderm lineage switching during
+axolotl tail regeneration. Science 298, 1993–1996
+62 Norton, W., Aquino, D., Hozumi, I., Chiu, F. and Brosnan, C. (1992) Quantitative aspects
+of reactive gliosis: a review. Neurochem. Res. 17, 877–885
+63 Sofroniew, M. (2009) Molecular dissection of reactive astrogliosis and glial scar
+formation. Trends Neurosci. 32, 638–647
+64 O’Hara, C., Egar, M. and Chernoff, E. (1992) Reorganization of the ependyma during
+axolotl spinal cord regeneration: changes in intermediate filament and fibronectin
+expression. Dev. Dyn. 193, 103–115
+65 Gwak, Y., Kang, J., Unabia, G. and Hulsebosch, C. (2012) Spatial and temporal
+activation of spinal glial cells: role of gliopathy in central neuropathic pain following
+spinal cord injury in rats. Exp. Neurol. 234, 362–372
+66 Busch, S., Horn, K., Cuascut, F., Hawthorne, A., Bai, L., Miller, R. and Silver, J. (2010)
+Adult NG2 + cells are permissive to neurite outgrowth and stabilize sensory axons
+during macrophage-induced axonal dieback after spinal cord injury. J. Neurosci. 30,
+255–265
+67 Streit, W., Walter, S. and Pennell, N. (1999) Reactive microgliosis. Prog. Neurobiol. 57,
+563–581
+68 Horn, K., Busch, S., Hawthorne, A., van Rooijen, N. and Silver, J. (2008) Another barrier
+to regeneration in the CNS: activated macrophages induce extensive retraction of
+dystrophic axons through direct physical interactions. J. Neurosci. 28, 9330–9341
+c© The Authors Journal compilation c© 2013 Biochemical Society
+Spinal cord regeneration 363
+69 Wu, B., Matic, D., Djogo, N., Szpotowicz, E., Schachner, M. and Jakovcevski, I. (2012)
+Improved regeneration after spinal cord injury in mice lacking functional T- and
+B-lymphocytes. Exp. Neurol. 237, 274–285
+70 Göritz, C., Dias, D., Tomilin, N., Barbacid, M., Shupliakov, O. and Frisén, J. (2011) A
+pericyte origin of spinal cord scar tissue. Science 333, 238–242
+71 Faulkner, J., Herrmann, J., Woo, M., Tansey, K., Doan, N. and Sofroniew, M. (2004)
+Reactive astrocytes protect tissue and preserve function after spinal cord injury. J.
+Neurosci. 24, 2143–2155
+72 Menet, V., Prieto, M., Privat, A. and Gimenez y Ribotta, M. (2003) Axonal plasticity and
+functional recovery after spinal cord injury in mice deficient in both glial fibrillary acidic
+protein and vimentin genes. Proc. Natl. Acad. Sci. U.S.A. 100, 8999–9004
+73 Liesi, P. and Kauppila, T. (2002) Induction of type IV collagen and other
+basement-membrane-associated proteins after spinal cord injury of the adult rat may
+participate in formation of the glial scar. Exp. Neurol. 173, 31–45
+74 Krautstrunk, M., Scholtes, F., Martin, D., Schoenen, J., Schmitt, A. B., Plate, D.,
+Nacimiento, W., Noth, J. and Brook, G. A. (2002) Increased expression of the putative
+axon growth-repulsive extracellular matrix molecule, keratan sulphate proteoglycan,
+following traumatic injury of the adult rat spinal cord. Acta Neuropathol. 104, 592–600
+75 Jones, L. L., Sajed, D. and Tuszynski, M. H. (2003) Axonal regeneration through regions
+of chondroitin sulfate proteoglycan deposition after spinal cord injury: a balance of
+permissiveness and inhibition. J. Neurosci. 23, 9276–9288
+76 Bradbury, E., Moon, L., Popat, R., King, V., Bennett, G., Patel, P., Fawcett, J. and
+McMahon, S. (2002) Chondroitinase ABC promotes functional recovery after spinal
+cord injury. Nature 416, 636–640
+77 Alilain, W., Horn, K., Hu, H., Dick, T. and Silver, J. (2011) Functional regeneration of
+respiratory pathways after spinal cord injury. Nature 475, 196–200
+78 Hossain-Ibrahim, M. K., Rezajooi, K., Stallcup, W. B., Lieberman, A. R. and Anderson,
+P. N. (2007) Analysis of axonal regeneration in the central and peripheral nervous
+systems of the NG2-deficient mouse. BMC Neurosci. 8, 80
+79 Fisher, D., Xing, B., Dill, J., Li, H., Hoang, H. H., Zhao, Z., Yang, X. L., Bachoo, R.,
+Cannon, S., Longo, F. M. et al. (2011) Leukocyte common antigen-related phosphatase
+is a functional receptor for chondroitin sulfate proteoglycan axon growth inhibitors. J.
+Neurosci. 31, 14051–14066
+80 Chernoff, E. A. (1996) Spinal cord regeneration: a phenomenon unique to urodeles? Int.
+J. Dev. Biol. 40, 823–831
+81 Yu, Y. M., Cristofanilli, M., Valiveti, A., Ma, L., Yoo, M., Morellini, F. and Schachner, M.
+(2011) The extracellular matrix glycoprotein tenascin-C promotes locomotor recovery
+after spinal cord injury in adult zebrafish. Neuroscience 183, 238–250
+82 Zhang, Y., Winterbottom, J., Schachner, M., Lieberman, A. and Anderson, P. (1997)
+Tenascin-C expression and axonal sprouting following injury to the spinal dorsal
+columns in the adult rat. J. Neurosci. Res. 49, 433–450
+83 Chen, J., Joon Lee, H., Jakovcevski, I., Shah, R., Bhagat, N., Loers, G., Liu, H.-Y.,
+Meiners, S., Taschenberger, G., Kügler, S. et al. (2010) The extracellular matrix
+glycoprotein tenascin-C is beneficial for spinal cord regeneration. Mol. Ther. 18,
+1769–1777
+84 Caroni, P. and Schwab, M. (1988) Two membrane protein fractions from rat central
+myelin with inhibitory properties for neurite growth and fibroblast spreading. J. Cell
+Biol. 106, 1281–1288
+85 Chen, M., Huber, A., van der Haar, M., Frank, M., Schnell, L., Spillmann, A., Christ, F.
+and Schwab, M. (2000) Nogo-A is a myelin-associated neurite outgrowth inhibitor and
+an antigen for monoclonal antibody IN-1. Nature 403, 434–439
+86 Schwab, M. (2004) Nogo and axon regeneration. Curr. Opin. Neurobiol. 14, 118–124
+87 Dimou, L., Schnell, L., Montani, L., Duncan, C., Simonen, M., Schneider, R., Liebscher,
+T., Gullo, M. and Schwab, M. (2006) Nogo-A-deficient mice reveal strain-dependent
+differences in axonal regeneration. J. Neurosci. 26, 5591–5603
+88 GrandPré, T., Nakamura, F., Vartanian, T. and Strittmatter, S. (2000) Identification of the
+Nogo inhibitor of axon regeneration as a Reticulon protein. Nature 403, 439–444
+89 Merkler, D., Metz, G., Raineteau, O., Dietz, V., Schwab, M. and Fouad, K. (2001)
+Locomotor recovery in spinal cord-injured rats treated with an antibody neutralizing the
+myelin-associated neurite growth inhibitor Nogo-A. J. Neurosci. 21, 3665–3673
+90 GrandPré, T., Li, S. and Strittmatter, S. (2002) Nogo-66 receptor antagonist peptide
+promotes axonal regeneration. Nature 417, 547–551
+91 Kim, J., Li, S., GrandPré, T., Qiu, D. and Strittmatter, S. (2003) Axon regeneration in
+young adult mice lacking Nogo-A/B. Neuron 38, 187–199
+92 Zheng, B., Ho, C., Li, S., Keirstead, H., Steward, O. and Tessier-Lavigne, M. (2003) Lack
+of enhanced spinal regeneration in Nogo-deficient mice. Neuron 38, 213–224
+93 Klinger, M., Diekmann, H., Heinz, D., Hirsch, C., Hannbeck von Hanwehr, S., Petrausch,
+B., Oertle, T., Schwab, M. and Stuermer, C. (2004) Identification of two NOGO/RTN4
+genes and analysis of Nogo-A expression in Xenopus laevis. Mol. Cell. Neurosci. 25,
+205–216
+94 Diekmann, H., Klinger, M., Oertle, T., Heinz, D., Pogoda, H.-M., Schwab, M. and
+Stuermer, C. (2005) Analysis of the reticulon gene family demonstrates the absence of
+the neurite growth inhibitor Nogo-A in fish. Mol. Biol. Evol. 22, 1635–1648
+95 Klinger, M., Taylor, J., Oertle, T., Schwab, M., Stuermer, C. and Diekmann, H. (2004)
+Identification of Nogo-66 receptor (NgR) and homologous genes in fish. Mol. Biol. Evol.
+21, 76–85
+96 Shypitsyna, A., Málaga-Trillo, E., Reuter, A. and Stuermer, C. (2011) Origin of Nogo-A by
+domain shuffling in an early jawed vertebrate. Mol. Biol. Evol. 28, 1363–1370
+97 Sandvig, A., Berry, M., Barrett, L. B., Butt, A. and Logan, A. (2004) Myelin-, reactive
+glia-, and scar-derived CNS axon growth inhibitors: expression, receptor signaling, and
+correlation with axon regeneration. Glia 46, 225–251
+98 Li, M., Shibata, A., Li, C., Braun, P., McKerracher, L., Roder, J., Kater, S. and David, S.
+(1996) Myelin-associated glycoprotein inhibits neurite/axon growth and causes growth
+cone collapse. J. Neurosci. Res. 46, 404–414
+99 Bartsch, U., Bandtlow, C., Schnell, L., Bartsch, S., Spillmann, A., Rubin, B., Hillenbrand,
+R., Montag, D., Schwab, M. and Schachner, M. (1995) Lack of evidence that
+myelin-associated glycoprotein is a major inhibitor of axonal regeneration in the CNS.
+Neuron 15, 1375–1381
+100 Steward, O., Zheng, B. and Tessier-Lavigne, M. (2003) False resurrections:
+distinguishing regenerated from spared axons in the injured central nervous system. J.
+Comp. Neurol. 459, 1–8
+101 Nguyen, T., Mehta, N., Conant, K., Kim, K.-J., Jones, M., Calabresi, P., Melli, G., Hoke,
+A., Schnaar, R., Ming, G.-L. et al. (2009) Axonal protective effects of the
+myelin-associated glycoprotein. J. Neurosci. 29, 630–637
+102 Lee, J., Geoffroy, C., Chan, A., Tolentino, K., Crawford, M., Leal, M., Kang, B. and Zheng,
+B. (2010) Assessing spinal axon regeneration and sprouting in Nogo-, MAG-, and
+OMgp-deficient mice. Neuron 66, 663–670
+103 Wang, K., Koprivica, V., Kim, J., Sivasankaran, R., Guo, Y., Neve, R. and He, Z. (2002)
+Oligodendrocyte-myelin glycoprotein is a Nogo receptor ligand that inhibits neurite
+outgrowth. Nature 417, 941–944
+104 Ji, B., Case, L., Liu, K., Shao, Z., Lee, X., Yang, Z., Wang, J., Tian, T., Shulga-Morskaya,
+S., Scott, M. et al. (2008) Assessment of functional recovery and axonal sprouting in
+oligodendrocyte-myelin glycoprotein (OMgp) null mice after spinal cord injury. Mol.
+Cell. Neurosci. 39, 258–267
+105 Cafferty, W., Duffy, P., Huebner, E. and Strittmatter, S. (2010) MAG and OMgp synergize
+with Nogo-A to restrict axonal growth and neurological recovery after spinal cord
+trauma. J. Neurosci. 30, 6825–6837
+106 Lee, J., Chow, R., Xie, F., Chow, S., Tolentino, K. and Zheng, B. (2010) Combined
+genetic attenuation of myelin and semaphorin-mediated growth inhibition is insufficient
+to promote serotonergic axon regeneration. J. Neurosci. 30, 10899–10904
+107 Benson, M., Romero, M., Lush, M., Lu, Q., Henkemeyer, M. and Parada, L. (2005)
+Ephrin-B3 is a myelin-based inhibitor of neurite outgrowth. Proc. Natl. Acad. Sci. U.S.A.
+102, 10694–10699
+108 Arocho, L., Figueroa, J., Torrado, A., Santiago, J., Vera, A. and Miranda, J. (2011)
+Expression profile and role of EphrinA1 ligand after spinal cord injury. Cell. Mol.
+Neurobiol. 31, 1057–1069
+109 Goldshmit, Y., Spanevello, M., Tajouri, S., Li, L., Rogers, F., Pearse, M., Galea, M.,
+Bartlett, P., Boyd, A. and Turnley, A. (2011) EphA4 blockers promote axonal regeneration
+and functional recovery following spinal cord injury in mice. PLoS ONE 6, e24636
+110 Duffy, P., Wang, X., Siegel, C., Seigel, C., Tu, N., Henkemeyer, M., Cafferty, W. and
+Strittmatter, S. (2012) Myelin-derived ephrinB3 restricts axonal regeneration and
+recovery after adult CNS injury. Proc. Natl. Acad. Sci. U.S.A. 109, 5063–5068
+111 De Winter, F., Oudega, M., Lankhorst, A., Hamers, F., Blits, B., Ruitenberg, M.,
+Pasterkamp, R., Gispen, W. and Verhaagen, J. (2002) Injury-induced class 3 semaphorin
+expression in the rat spinal cord. Exp. Neurol. 175, 61–75
+112 Niclou, S., Franssen, E., Ehlert, E., Taniguchi, M. and Verhaagen, J. (2003) Meningeal
+cell-derived semaphorin 3A inhibits neurite outgrowth. Mol. Cell. Neurosci. 24,
+902–912
+113 Moreau-Fauvarque, C., Kumanogoh, A., Camand, E., Jaillard, C., Barbin, G., Boquet, I.,
+Love, C., Jones, E., Kikutani, H., Lubetzki, C. et al. (2003) The transmembrane
+semaphorin Sema4D/CD100, an inhibitor of axonal growth, is expressed on
+oligodendrocytes and upregulated after CNS lesion. J. Neurosci. 23, 9229–9239
+114 Shim, S.-O., Cafferty, W., Schmidt, E., Kim, B., Fujisawa, H. and Strittmatter, S. (2012)
+PlexinA2 limits recovery from corticospinal axotomy by mediating
+oligodendrocyte-derived Sema6A growth inhibition. Mol. Cell. Neurosci. 50, 193–200
+115 Moore, D., Blackmore, M., Hu, Y., Kaestner, K., Bixby, J., Lemmon, V. and Goldberg, J.
+(2009) KLF family members regulate intrinsic axon regeneration ability. Science 326,
+298–301
+116 Bradke, F., Fawcett, J. and Spira, M. (2012) Assembly of a new growth cone after
+axotomy: the precursor to axon regeneration. Nat. Rev. Neurosci. 13, 183–193
+117 Hoffman, P. (2010) A conditioning lesion induces changes in gene expression and
+axonal transport that enhance regeneration by increasing the intrinsic growth state of
+axons. Exp. Neurol. 223, 11–18
+118 Ramón y Cajal, S. (1928) Degeneration and Regeneration of the Nervous System,
+Volume 1, Oxford University Press, Oxford.
+c© The Authors Journal compilation c© 2013 Biochemical Society
+364 J. F. Diaz Quiroz and K. Echeverri
+119 Ertürk, A., Hellal, F., Enes, J. and Bradke, F. (2007) Disorganized microtubules underlie
+the formation of retraction bulbs and the failure of axonal regeneration. J. Neurosci. 27,
+9169–9180
+120 Houle, J. (1991) Demonstration of the potential for chronically injured neurons to
+regenerate axons into intraspinal peripheral nerve grafts. Exp. Neurol. 113, 1–9
+121 Kerschensteiner, M., Schwab, M., Lichtman, J. and Misgeld, T. (2005) In vivo imaging of
+axonal degeneration and regeneration in the injured spinal cord. Nat. Med. 11, 572–577
+122 George, E., Glass, J. and Griffin, J. (1995) Axotomy-induced axonal degeneration is
+mediated by calcium influx through ion-specific channels. J. Neurosci. 15, 6445–6452
+123 Tsao, J., Brown, M., Carden, M., McLean, W. and Perry, V. (1994) Loss of the compound
+action potential: an electrophysiological, biochemical and morphological study of early
+events in axonal degeneration in the C57BL/Ola mouse. Eur. J. Neurosci. 6, 516–524
+124 Lubińska, L. (1982) Patterns of Wallerian degeneration of myelinated fibres in short and
+long peripheral stumps and in isolated segments of rat phrenic nerve. Interpretation of
+the role of axoplasmic flow of the trophic factor. Brain Res. 233, 227–240
+125 Griffin, J., George, R., Lobato, C., Tyor, W., Yan, L. and Glass, J. (1992) Macrophage
+responses and myelin clearance during Wallerian degeneration: relevance to
+immune-mediated demyelination. J. Neuroimmunol. 40, 153–165
+126 Finn, J., Weil, M., Archer, F., Siman, R., Srinivasan, A. and Raff, M. (2000) Evidence that
+Wallerian degeneration and localized axon degeneration induced by local neurotrophin
+deprivation do not involve caspases. J. Neurosci. 20, 1333–1341
+127 Zhai, Q., Wang, J., Kim, A., Liu, Q., Watts, R., Hoopfer, E., Mitchison, T., Luo, L. and He,
+Z. (2003) Involvement of the ubiquitin-proteasome system in the early stages of
+Wallerian degeneration. Neuron 39, 217–225
+128 Miller, B., Press, C., Daniels, R., Sasaki, Y., Milbrandt, J. and DiAntonio, A. (2009) A
+dual leucine kinase-dependent axon self-destruction program promotes Wallerian
+degeneration. Nat. Neurosci. 12, 387–389
+129 Ehlers, M. (2004) Deconstructing the axon: Wallerian degeneration and the
+ubiquitin-proteasome system. Trends Neurosci. 27, 3–6
+130 Hellal, F., Hurtado, A., Ruschel, J., Flynn, K., Laskowski, C., Umlauf, M., Kapitein, L.,
+Strikis, D., Lemmon, V., Bixby, J. et al. (2011) Microtubule stabilization reduces scarring
+and causes axon regeneration after spinal cord injury. Science 331, 928–931
+131 Witte, H., Neukirchen, D. and Bradke, F. (2008) Microtubule stabilization specifies initial
+neuronal polarization. J. Cell Biol. 180, 619–632
+132 Chen, L., Wang, Z., Ghosh-Roy, A., Hubert, T., Yan, D., O’Rourke, S., Bowerman, B., Wu,
+Z., Jin, Y. and Chisholm, A. (2011) Axon regeneration pathways identified by systematic
+genetic screening in C. elegans. Neuron 71, 1043–1057
+133 Chiu, H., Alqadah, A., Chuang, C.-F. and Chang, C. (2011) C. elegans as a genetic
+model to identify novel cellular and molecular mechanisms underlying nervous system
+regeneration. Cell Adhes. Migr. 5, 387–394
+134 White, J., Southgate, E., Thomson, J. and Brenner, S. (1986) The structure of the
+nervous system of the nematode Caenorhabditis elegans. Philos. Trans. R. Soc. London
+Ser. B 314, 1–340
+135 Chen, L. and Chisholm, A. (2011) Axon regeneration mechanisms: insights from C.
+elegans. Trends Cell Biol. 21, 577–584
+136 El Bejjani, R. and Hammarlund, M. (2012) Neural regeneration in Caenorhabditis
+elegans. Annu. Rev. Genet. 46, 499–513
+137 Yanik, M. F., Cinar, H., Cinar, H., Chisholm, A. D., Jin, Y. and Ben-Yakar, A. (2004)
+Functional regeneration after laser axotomy. Nature 432, 822
+138 Yanik, M. F., Cinar, H., Cinar, H. N., Gibby, A., Chisholm, A. D., Jin, Y. and Ben-Yakar, A.
+(2006) Nerve regeneration in Caenorhabditis elegans after femtosecond laser axotomy.
+IEEE J. Sel. Top. Quantum Electron. 12, 1283–1291
+139 Neumann, B., Nguyen, K., Hall, D., Ben-Yakar, A and Hilliard, M. (2011) Axonal
+regeneration proceeds through specific axonal fusion in transected C. elegans neurons.
+Dev. Dyn. 240, 1365–1372
+140 Ghosh-Roy, A., Wu, Z., Goncharov, A., Jin, Y. and Chisholm, A. (2010) Calcium and
+cyclic AMP promote axonal regeneration in Caenorhabditis elegans and require DLK-1
+kinase. J. Neurosci. 30, 3175–3183
+141 Deriemer, S., Elliott, E., Macagno, E. and Muller, K. (1983) Morphological evidence that
+regenerating axons can fuse with severed axon segments. Brain Res. 272, 157–161
+142 Britt, J., Kane, J., Spaeth, C., Zuzek, A., Robinson, G., Gbanaglo, M., Estler, C.,
+Boydston, E., Schallert, T. and Bittner, G. (2010) Polyethylene glycol rapidly restores
+axonal integrity and improves the rate of motor behavior recovery after sciatic nerve
+crush injury. J. Neurophysiol. 104, 695–703
+143 Lore, A., Hubbell, J. and Bobb, D. (1999) Rapid induction of functional and
+morphological continuity between severed ends of mammalian or earthworm myelinated
+axons. J. Neurosci. 19, 2442–2454
+144 Ghosh-Roy, A., Goncharov, A., Jin, Y. and Chisholm, A. (2012) Kinesin-13 and tubulin
+posttranslational modifications regulate microtubule growth in axon regeneration. Dev.
+Cell 23, 716–728
+145 Oikonomou, G. and Shaham, S. (2011) The glia of Caenorhabditis elegans. Glia 59,
+1253–1263
+146 Lu, P., Wang, Y., Graham, L., McHale, K., Gao, M., Wu, D., Brock, J., Blesch, A.,
+Rosenzweig, E., Havton, L. et al. (2012) Long-distance growth and connectivity of neural
+stem cells after severe spinal cord injury. Cell 150, 1264–1273
+147 Weishaupt, N., Blesch, A. and Fouad, K. (2012) BDNF: the career of a multifaceted
+neurotrophin in spinal cord injury. Exp. Neurol. 238, 254–264
+148 Uchida, K., Nakajima, H., Hirai, T., Yayama, T., Chen, K., Guerrero, A., Johnson, W. and
+Baba, H. (2012) The retrograde delivery of adenovirus vector carrying the gene for
+brain-derived neurotrophic factor protects neurons and oligodendrocytes from apoptosis
+in the chronically compressed spinal cord of twy/twy mice. Spine 37, 2125–2135
+149 He, B.-L., Ba, Y.-C., Wang, X.-Y., Liu, S.-J., Liu, G.-D., Ou, S., Gu, Y.-L., Pan, X.-H. and
+Wang, T.-H. (2013) BDNF expression with functional improvement in transected spinal
+cord treated with neural stem cells in adult rats. Neuropeptides 47, 1–7
+150 Weishaupt, N., Li, S., Di Pardo, A., Sipione, S. and Fouad, K. (2012) Synergistic effects
+of BDNF and rehabilitative training on recovery after cervical spinal cord injury. Behav.
+Brain Res. 239C, 31–42
+151 Lu, P., Blesch, A. and Tuszynski, M. (2001) Neurotrophism without neurotropism: BDNF
+promotes survival but not growth of lesioned corticospinal neurons. J. Comp. Neurol.
+436, 456–470
+152 Zhang, L., Ma, Z., Smith, G., Wen, X., Pressman, Y., Wood, P. and Xu, X.-M. (2009)
+GDNF-enhanced axonal regeneration and myelination following spinal cord injury is
+mediated by primary effects on neurons. Glia 57, 1178–1191
+153 Lu, P. and Tuszynski, M. (2008) Growth factors and combinatorial therapies for CNS
+regeneration. Exp. Neurol. 209, 313–320
+154 McCall, J., Weidner, N. and Blesch, A. (2012) Neurotrophic factors in combinatorial
+approaches for spinal cord regeneration. Cell Tissue Res. 349, 27–37
+155 Norman, L., Stroka, K. and Aranda-Espinoza, H. (2009) Guiding axons in the
+central nervous system: a tissue engineering approach. Tissue Eng. Part B Rev. 15,
+291–305
+156 Kumamaru, H., Ohkawa, Y., Saiwai, H., Yamada, H., Kubota, K., Kobayakawa, K., Akashi,
+K., Okano, H., Iwamoto, Y. and Okada, S. (2012) Direct isolation and RNA-seq reveal
+environment-dependent properties of engrafted neural stem/progenitor cells. Nat.
+Commun. 3, 1140
+Received 3 December 2012/31 January 2013; accepted 5 February 2013
+Published on the Internet 12 April 2013, doi:10.1042/BJ20121807
+c© The Authors Journal compilation c© 2013 Biochemical Society

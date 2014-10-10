@@ -1,0 +1,192 @@
+T1	Gene 262 271	Kin Chiu1
+T2	Gene 494 502	Kong SAR
+T3	Gene 979 982	Lin
+T4	Gene 1100 1117	Berlin Heidelberg
+T5	Gene 1461 1464	PN7
+T6	Gene 1466 1470	PN14
+T7	Gene 1726 1729	PN1
+T8	Gene 2020 2023	PN1
+T9	Gene 2263 2266	PN1
+T10	Gene 4825 4828	PN7
+T11	Gene 4830 4834	PN14
+T12	Gene 5416 5419	PN1
+T13	Gene 6724 6727	PN1
+T14	Gene 6729 6732	PN7
+T15	Gene 6734 6738	PN14
+T16	Gene 8144 8150	Berlin
+T17	Gene 8494 8497	PN1
+T18	Gene 10078 10081	PN1
+T19	Gene 11513 11516	PN1
+T20	Gene 11521 11524	PN7
+T21	Gene 11829 11832	PN1
+T22	Gene 11837 11840	PN7
+T23	Gene 11985 11987	FG
+T24	Gene 12187 12190	PN1
+T25	Gene 12192 12195	PN7
+T26	Gene 12197 12201	PN14
+T27	Gene 12227 12229	FG
+T28	Gene 12506 12509	PN1
+T29	Gene 12694 12697	Fig
+T30	Gene 12760 12763	PN1
+T31	Gene 12941 12944	PN1
+T32	Gene 13149 13152	PN1
+T33	Gene 13154 13157	PN7
+T34	Gene 13159 13163	PN14
+T35	Gene 13253 13256	PN1
+T36	Gene 13617 13619	FG
+T37	Gene 13671 13674	PN1
+T38	Gene 13679 13682	PN7
+T39	Gene 13995 13998	PN1
+T40	Gene 14003 14011	PN7 rats
+T41	Gene 14161 14164	PN1
+T42	Gene 14166 14169	PN7
+T43	Gene 14171 14175	PN14
+T44	Gene 14556 14559	SCI
+T45	Gene 14978 14981	PN1
+T46	Gene 14986 14989	PN7
+T47	Gene 15498 15501	PN1
+T48	Gene 15506 15509	PN7
+T49	Gene 15739 15742	SCI
+T50	Gene 18250 18260	[1] Hase T
+T51	Gene 18262 18307	Kawaguchi S, Hayashi H, Nishio T, Mizoguchi A
+T52	Gene 19321 19326	FGF-2
+T53	Gene 19467 19475	[6] Li C
+T54	Gene 19477 19484	Zhang X
+T55	Gene 19486 19497	Cao R, Yu B
+T56	Gene 19775 19782	laminin
+T57	Gene 19867 19874	Zhang W
+T58	Gene 19876 19881	Yan Q
+T59	Gene 19883 19890	Zeng YS
+T60	Gene 19892 19900	Zhang XB
+T61	Gene 20015 20034	neurotrophin-3 gene
+T62	Gene 21394 21397	p75
+T63	Gene 21593 21614	nitric oxide synthase
+T64	Gene 21886 21888	YS
+T65	Gene 21890 21896	Lin CY
+T66	Gene 21898 21910	Robertson RT
+T67	Gene 21912 21919	Hsiao I
+T68	Gene 21921 21924	Lin
+T69	Gene 22924 22936	Ann N Y Acad
+T70	Species 227 231	rats
+T71	Species 1485 1489	rats
+T72	Species 1711 1715	rats
+T73	Species 1739 1743	rats
+T74	Species 1886 1890	rats
+T75	Species 2001 2005	rats
+T76	Species 2276 2280	rats
+T77	Species 2302 2306	rats
+T78	Species 2397 2401	rats
+T79	Species 2538 2542	rats
+T80	Species 2699 2703	rats
+T81	Species 2955 2959	rats
+T82	Species 3062 3065	rat
+T83	Species 3115 3119	rats
+T84	Species 3298 3302	rats
+T85	Species 3486 3490	rats
+T86	Species 3658 3662	rats
+T87	Species 4005 4009	rats
+T88	Species 4116 4120	rats
+T89	Species 4620 4624	rats
+T90	Species 4845 4849	rats
+T91	Species 5100 5104	rats
+T92	Species 5428 5432	rats
+T93	Species 5507 5511	rats
+T94	Species 6272 6276	Rats
+T95	Species 6712 6716	rats
+T96	Species 6999 7003	rats
+T97	Species 7135 7139	rats
+T98	Species 7732 7738	rabbit
+T99	Species 8468 8472	rats
+T100	Species 8625 8629	rats
+T101	Species 8790 8794	rats
+T102	Species 8859 8863	rats
+T103	Species 9056 9060	rats
+T104	Species 9212 9216	rats
+T105	Species 9283 9287	rats
+T106	Species 9849 9853	rats
+T107	Species 10217 10221	rats
+T108	Species 10471 10475	rats
+T109	Species 11098 11102	rats
+T110	Species 11239 11243	rats
+T111	Species 11362 11366	rats
+T112	Species 11494 11498	rats
+T113	Species 12104 12108	rats
+T114	Species 12167 12171	rats
+T115	Species 12440 12444	Rats
+T116	Species 12487 12491	rats
+T117	Species 12639 12643	rats
+T118	Species 12764 12768	rats
+T119	Species 12921 12925	rats
+T120	Species 13177 13181	rats
+T121	Species 13234 13238	rats
+T122	Species 13546 13550	rats
+T123	Species 13714 13718	rats
+T124	Species 13737 13741	rats
+T125	Species 13933 13937	rats
+T126	Species 14007 14011	rats
+T127	Species 14186 14190	rats
+T128	Species 14278 14282	rats
+T129	Species 14306 14310	rats
+T130	Species 14959 14963	rats
+T131	Species 15138 15142	rats
+T132	Species 15260 15263	rat
+T133	Species 15479 15483	rats
+T134	Species 15887 15891	rats
+T135	Species 16096 16099	rat
+T136	Species 16633 16638	human
+T137	Species 17040 17044	rats
+T138	Species 17170 17174	rats
+T139	Species 17572 17575	rat
+T140	Species 18163 18167	rats
+T141	Species 18353 18357	rats
+T142	Species 18559 18562	rat
+T143	Species 18817 18821	rats
+T144	Species 19097 19101	rats
+T145	Species 19389 19393	rats
+T146	Species 19640 19644	rats
+T147	Species 20596 20599	rat
+T148	Species 20746 20750	cats
+T149	Species 20931 20934	rat
+T150	Species 21078 21081	rat
+T151	Species 21249 21252	rat
+T152	Species 21689 21693	rats
+T153	Species 21840 21844	rats
+T154	Species 22019 22023	rats
+T155	Species 22916 22922	humans
+T156	InteractionKeyword 1173 1177	link
+T157	InteractionKeyword 1260 1267	leading
+T158	InteractionKeyword 1644 1647	led
+T159	InteractionKeyword 1926 1933	limited
+T160	InteractionKeyword 2340 2346	caused
+T161	InteractionKeyword 2616 2623	results
+T162	InteractionKeyword 2787 2794	control
+T163	InteractionKeyword 3325 3333	involved
+T164	InteractionKeyword 4169 4176	changes
+T165	InteractionKeyword 4545 4551	causes
+T166	InteractionKeyword 4665 4669	link
+T167	InteractionKeyword 4748 4755	leading
+T168	InteractionKeyword 7231 7239	followed
+T169	InteractionKeyword 8216 8225	expressed
+T170	InteractionKeyword 8271 8281	determined
+T171	InteractionKeyword 11765 11771	formed
+T172	InteractionKeyword 12864 12870	caused
+T173	InteractionKeyword 13037 13041	link
+T174	InteractionKeyword 14525 14534	following
+T175	InteractionKeyword 14601 14608	results
+T176	InteractionKeyword 14630 14638	followed
+T177	InteractionKeyword 14733 14740	limited
+T178	InteractionKeyword 15090 15099	involving
+T179	InteractionKeyword 15790 15797	results
+T180	InteractionKeyword 15892 15899	depends
+T181	InteractionKeyword 16485 16492	control
+T182	InteractionKeyword 16727 16733	induce
+T183	InteractionKeyword 19327 19335	promotes
+T184	InteractionKeyword 19767 19771	form
+T185	InteractionKeyword 19785 19793	promotes
+T186	InteractionKeyword 20711 20720	following
+R187	Partner1 Arg1:T166 Arg2:T11
+R188	Partner2 Arg1:T166 Arg2:T10
+R189	Partner1 Arg1:T171 Arg2:T21
+R190	Partner2 Arg1:T171 Arg2:T22
+R191	Partner1 Arg1:T173 Arg2:T34
+R192	Partner2 Arg1:T173 Arg2:T32

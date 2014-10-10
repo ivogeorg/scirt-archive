@@ -1,0 +1,823 @@
+NEUROSYSTEMS
+Syntenin-a promotes spinal cord regeneration following
+injury in adult zebrafish
+Yong Yu1 and Melitta Schachner1,2
+1Center for Neuroscience, Shantou University Medical College, 22 Xin Ling Road, Shantou, Guangdong, 515041, China
+2W. M. Keck Center for Collaborative Neuroscience, Department of Cell Biology and Neuroscience, Rutgers University,
+Piscataway, NJ, USA
+Keywords: locomotion, morpholino, regeneration, spinal cord injury, syntenin-a, zebrafish
+Abstract
+In contrast to mammals, adult zebrafish recover locomotor function after spinal cord injury, in part due to the capacity of the cen-
+tral nervous system to repair severed connections. To identify molecular cues that underlie regeneration, we conducted mRNA
+expression profiling and found that syntenin-a expression is upregulated in the adult zebrafish spinal cord caudal to the lesion site
+after injury. Syntenin is a scaffolding protein involved in mammalian cell adhesion and movement, axonal outgrowth, establish-
+ment of cell polarity, and protein trafficking. It could thus be expected to be involved in supporting regeneration in fish. Syntenin-a
+mRNA and protein are expressed in neurons, glia and newly generated neural cells, and upregulated caudal to the lesion site on
+days 6 and 11 following spinal cord injury. Treatment of spinal cord-injured fish with two different antisense morpholinos to knock
+down syntenin-a expression resulted in significant inhibition of locomotor recovery at 5 and 6 weeks after injury, when compared
+to control morpholino-treated fish. Knock-down of syntenin-a reduced regrowth of descending axons from brainstem neurons into
+the spinal cord caudal to the lesion site. These observations indicate that syntenin-a is involved in regeneration after traumatic
+insult to the central nervous system of adult zebrafish, potentially leading to novel insights into the cellular and molecular mecha-
+nisms that require activation in the regeneration-deficient mammalian central nervous system.
+Introduction
+Adult fish have the capacity for repair of central nervous system
+injury (Bernstein, 1964; Becker et al., 1997, 1998, 2005). Use of
+the adult zebrafish model of spinal cord injury (SCI) to investigate
+spinal cord repair mechanisms has led to the identification of several
+regeneration-related genes, such as adhesion molecules L1.1 (Becker
+et al., 1998) and tenascin-C (Yu et al., 2011a), transcription factor
+sox11b (Guo et al., 2011), cytokine fibroblast growth factor 2
+(Goldshmit et al., 2012), miRNA 133b (Yu et al., 2011b), contac-
+tin-2 (Lin et al., 2012) and major vault protein (Pan et al., 2013). In
+adult zebrafish, successful regeneration depends on neuron-intrinsic
+properties and a permissive environment for a successful neuronal
+response to this environment (Becker et al., 1998, 2005), including
+motoneuronal regeneration (Reimer et al., 2008) and glial bridge
+formation (Goldshmit et al., 2012). In characterising the mRNA
+expression profile of spinal cord cells caudal to the lesion site after
+SCI (Guo et al., 2011), we observed upregulation of syntenin-a, the
+homologue of mammalian syntenin-1.
+Syntenins belong to an expanding family of PDZ domain-contain-
+ing scaffolding proteins (Grootjans et al., 1997). Syntenin-1,
+originally identified as melanoma differentiation-associated gene-9
+(mda-9; Lin et al., 1996), was subsequently named syntenin
+following its recognition as a syndecan-binding protein (Grootjans
+et al., 1997; Sarkar et al., 2004). Syntenin-1 is widely expressed in
+mammalian cells (Zimmermann et al., 2001), and is associated with
+receptor clustering, protein trafficking, cytoskeleton signaling
+(Grootjans et al., 1997; Sarkar et al., 2004, 2008; Yang & McCar-
+thy, 2007; Beekman & Coffer, 2008) and metastatic potential
+through cytoskeletal reorganisation in various cancer cells (Koo
+et al., 2002; Boukerche et al., 2005; Hwangbo et al., 2010, 2011).
+Thus, cytoskeletal reorganisation appears to be a major function of
+syntenin-1 in many cell types due to its ability to interact with a
+broad functional spectrum of molecules, such as syndecan, neurofa-
+scin, ephrin-B, src, ubiquitin, Unc51.1, Rab5 and Sox4 (Grootjans
+et al., 1997; Koroll et al., 2001; Tomoda et al., 2004; Beekman &
+Coffer, 2008; Boukerche et al., 2008; McClelland et al., 2009;
+Okumura et al., 2011; Rajesh et al., 2011; Das et al., 2012), result-
+ing in distinct functional outcomes (Fig. S1A).
+Syntenin-1 is widely distributed throughout the central nervous
+system and is associated with axon extension, dendritic protrusion,
+synapse formation and maturation (Zimmermann et al., 2001; Bene-
+yto & Meador-Woodruff, 2004; Ohno et al., 2004; Tomoda et al.,
+2004; Hirbec et al., 2005; Ko et al., 2006; McClelland et al., 2009;
+Xu et al., 2011) and oligodendroglial precursor migration (Chatter-
+jee et al., 2008). Recent reports reveal abundant expression of synte-
+nin-1 in developing spinal cord (Jeon et al., 2013). Similar to
+mammalian syntenin-1 and syntenin-2, zebrafish express syntenin-a
+and syntenin-b. Syntenin-a is the zebrafish homologue of syntenin-1
+Correspondence: Melitta Schachner, as above.
+E-mail: schachner@stu.edu.cn
+Received 19 December 2012, revised 15 March 2013, accepted 20 March 2013
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, Vol. 38, pp. 2280–2289, 2013 doi:10.1111/ejn.12222
+European Journal of Neuroscience
+(Fig. S1B), revealing epiboly progression (Lambaerts et al., 2012).
+In this study, we established for the first time that syntenin-a is
+required for functional regeneration, as would be expected from its
+widely based cellular functions in mammalian cells. These observa-
+tions may bear on our understanding of the functions of syntenin-a
+in mammals.
+Materials and methods
+SCI model
+The protocols for the SCI model were based on those described ear-
+lier (Becker et al., 1997; Guo et al., 2011; Yu et al., 2011a,b; Ma
+et al., 2012). Briefly, male adult zebrafish (Danio rerio; body length
+>2.5 cm, age 6 months; Huiyuan Aquatic Animals Company, Shan-
+tou, Guangdong, China) were immersed in 0.033% aminobenzoic
+acid ethylmethylester (MS222; Sigma-Aldrich, St Louis, MO, USA)
+in phosphate-buffered saline, pH 7.3 (PBS) for 5 min to allow com-
+plete anaesthesia. A longitudinal incision was made to expose the
+vertebral column, and the spinal cord was cut completely between
+two vertebrae, 4 mm caudal to the brainstem–spinal cord junction.
+The sham-lesioned control was performed using the same proce-
+dures, but without SCI. Incisions were sealed with Histoacryl (B.
+Braun, Melsungen, Germany). The animal experiments were con-
+ducted under the approval of the Animal Ethics Committee of Shan-
+tou University Medical College. Fish were kept on a 14-h light and
+10-h dark cycle at 28 °C.
+Morpholino (MO) application
+Two different syntenin-a anti-sense MOs (Syn-MOs; NM_2126
+91; Syn-MO1, 5′-CCTCTAGCGATGGGTACAACGACAT-3′; Syn-
+MO2, 5′-TTCTGCTTTCAAACAAGCGACTTCT-3′; Gene Tools,
+Philomath, OR, USA) and a standard control MO (Con-MO; 5′-
+CCTCTTACCTCAGTTACAATTTATA-3′) were dissolved in Dani-
+eau solution [in mM: NaCl, 58; KCl, 0.7; MgSO4, 0.4; Ca(NO3)2,
+0.6; and HEPES, 5; pH 7.6] and soaked into small pieces of Gel-
+foam (Upjohn, Kalamazoo, MI, USA). The Gelfoam was allowed to
+dry and divided into smaller pieces containing 600 ng MO per
+piece. One dried Gelfoam piece was inserted into the lesion imme-
+diately after transection (Becker et al., 2004).
+Quantitative real-time polymerase chain reaction (qPCR)
+Zebrafish were deeply anesthetised with MS222 at 4, 12 h, 6 or
+11 days after SCI or sham injury (n = 5 per group), and killed.
+Spinal cord tissue 5 mm caudal to the lesion site was rapidly
+removed, immediately frozen on dry ice and stored at 80 °C until
+use.
+Total RNA was extracted from frozen spinal cord samples using
+an EZgeneTM Tissue RNA Miniprep Kit (Biomiga, San Diego, CA,
+USA) according to the manufacturer’s instructions. Twenty nano-
+grams of total RNA were reverse-transcribed using PrimeScript RT
+Master Mix (Takara). For qPCR analysis, the following primers
+were used: syntenin-a, 5′-TTCACTTCTGCTCCAACC-3′ (forward)
+and 5′-GTGGCATTAGCAAACTGG-3′ (reverse); GAPDH, 5′-GTG
+TAGGCGTGGACTGTGGT-3′ (forward) and 5′-TGGGAGTCAAC-
+CAGGACAAATA-3′ (reverse). The qPCR was performed using
+SYBR Green Realtime PCR Master Mix (Toyobo, Osaka, Japan) on
+an ABI PRISM 7300 sequence detection system (Applied Biosys-
+tems) according to the manufacturer’s protocol. Experiments were
+performed in triplicate. Single PCR products were confirmed by
+melting curves from qPCR. The results were normalised to GAPDH
+and analysed using the 2ΔΔCt method (Livak & Schmittgen, 2001).
+In situ hybridisation (ISH)
+Zebrafish were deeply anesthetised with MS222 at 4, 12 h, 6 or
+11 days after SCI or sham injury (n = 4 per group) and killed.
+Spinal cord tissue 5 mm caudal to the lesion site was rapidly
+removed and immediately fixed in 4% paraformaldehyde (PFA) in
+PBS at 4 °C for 6 h, and then washed in PBS containing 15%
+sucrose for 8 h at 4 °C. Longitudinal frozen sections (16 lm) were
+prepared in a cryostat (LEICA CM 1850) and stored at 80 °C
+until use. Each slide contained a section from all time points in
+order to accurately compare the signal between the time points.
+Non-radioactive ISH was performed as described (Bernhardt
+et al., 1996; Becker et al., 1998). DIG-labeled cRNA probes for
+syntenin-a (NM_212691) were generated by in vitro transcription
+using T7 and SP6 RNA polymerases, and represented bases 651–
+1059 of the coding sequence. Spinal cord sections were hybridised
+for 18 h at 55 °C after pre-hybridisation for 3 h at 55 °C. After
+high-stringency washing, sections were incubated with alkaline
+phosphatase-coupled anti-DIG Fab fragment antibodies (Roche) at
+4 °C overnight, and color was developed with NBT/BCIP (nitro-
+blue tetrazolium and 5-bromo-4-chloro-3-indolyl phosphate; Roche).
+The specificity of hybridisation signals was determined by compari-
+son with a sense cRNA probe under the same conditions.
+Combined immunohistochemistry and ISH
+We performed ISH and immunofluorescence in longitudinal frozen
+sections (20 lm thick for bromodeoxyuridine (BrdU) and 4 lm thick
+for other cell markers) of spinal cord, 5 mm caudal to the lesion site,
+taken at 6 days post-SCI or sham injury (n = 3 per group) to identify
+the cell types expressing syntenin-a mRNA. ISH was performed as
+described above. Following ISH, the sections were processed for
+immunofluorescence. Sections were rinsed in PBS, then blocked with
+1% bovine serum albumin and 5% goat serum in PBS. Thereafter,
+sections were incubated with primary antibodies against HuC/D
+(1:50; Invitrogen/Molecular Probes), Islet-1 (1 : 100; Developmental
+Studies Hybridoma Bank, Iowa City, IA, USA), GFAP (1 : 100;
+Dako), or BrdU (1 : 200; Sigma-Aldrich) overnight at 4 °C. Sections
+were washed in PBS, incubated with secondary antibodies, including
+Cy3-conjugated goat anti-rabbit (1 : 500; Wuhan Boster Company,
+China) and FITC-Affinipure goat anti-mouse (1 : 500; Jackson Im-
+munoresearch) antibodies, for 1.5 h at room temperature. Fluorescent
+images were observed using fluorescence microscopy (Axio Imager
+Z1; Zeiss) and photographed using AxioVision software. To better
+visualise fluorescent images superimposed on bright-field images,
+Adobe Photoshop software was used to convert the brightfield ISH
+image into a black-and-white negative image (gray scale image with
+black and white reversed) prior to merging with the fluorescent
+image. To label progenitor cells in S-phase, we intraperitoneally
+injected BrdU (Sigma-Aldrich) solution (2.5 mg/mL) in a volume of
+50 lL twice at a 2-h interval as described, and killed the fish 2 h
+after the last injection (Adolf et al., 2006; Guo et al., 2011). Frozen
+sections were processed for 30 min in 2 N HCl at 37 °C before incu-
+bation with anti-BrdU antibodies.
+Western blot analysis
+The spinal cord samples were collected, as described above, 4,
+12 h, 6 and 11 days after SCI, sham injury, MO application or
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+Syntenin-a promotes spinal cord regeneration 2281
+non-injury. Two pooled spinal cords per time point (n = 4) were
+lysed in RIPA buffer with 1% PMSF (Solarbio, Beijing, China) and
+centrifuged after homogenisation. Supernatants were transferred to
+clean tubes and protein concentrations were determined by a
+bicinchoninic acid protein assay kit (Solarbio). Proteins were sepa-
+rated on 10% SDS-PAGE and transferred onto PVDF membranes
+(Millipore). Membranes were incubated with antibodies for synte-
+nin-1 (1 : 500; cat. no. GTX108391; GeneTex, Irvine, CA, USA)
+and tubulin (1 : 1000; Beyotime Biotechnology, Haimen, China),
+followed by incubation with HRP-conjugated secondary goat anti-
+rabbit for syntenin-1, and goat anti-mouse for tubulin (1 : 1500;
+Wuhan Boster Company, China). Signals were visualised using a
+BeyoECL Plus Western blotting detection system (Beyotime
+Biotechnology) and photographed via FluorChem Q software (Alpha
+Innotech’s Gel and Western Imaging Systems, San Leandro, CA,
+USA). Quantitative band analysis was performed with ImageJ 1.44p
+software (Wayne Rasband, National Institutes of Health, USA) and
+the results were normalised to tubulin.
+Locomotor analysis
+We used a swim-tracking test to analyse locomotor recovery as
+described (Becker et al., 2004; Guo et al., 2011; Yu et al., 2011a,b;
+Ma et al., 2012). The total distance swum and duration of move-
+ment (during 5 min) of freely moving fish was measured weekly
+after SCI and MO application, using video tracking Ethovision XT
+software (Noldus, Wageningen, the Netherlands).
+Retrograde tracing
+At 6 weeks after spinal cord transection and MO application, a sec-
+ond transection was made at 4 mm caudal to the first spinal lesion
+site and the axonal tracer biocytin (Sigma-Aldrich) was applied
+immediately as described (Becker et al., 2004; Yu et al., 2011a,b;
+Ma et al., 2012). After 24 h, the brain and brainstem were dissected
+and immediately fixed in 4% PFA in PBS at 4 °C for 12 h, then
+incubated in PBS containing 15% sucrose for 12 h at 4 °C. Trans-
+verse frozen sections (25 lm) were prepared in a cryostat (n = 3
+fish per group). Sections were incubated with Cy3-conjugated strep-
+tavidin (Bioss, Beijing, China) overnight at 4 °C, and then labeled
+cells were counted under a Zeiss fluorescence microscope.
+Anterograde tracing
+At 6 weeks following the swim-tracking test, biocytin was applied
+to the second transection at the brainstem–spinal cord junction as
+described (Yu et al., 2011a). Tissue 0–2 mm caudal to the original
+lesion site was taken and immediately fixed in 4% PFA in PBS at
+4 °C for 12 h, then incubated in PBS containing 15% sucrose for
+12 h at 4 °C, and transverse frozen sections (25 lm) were prepared
+in a cryostat. Sections were rinsed in PBS and blocked with 5%
+bovine serum albumin in PBS. Thereafter, the sections were incu-
+bated with primary antibody against synaptic vesicle protein 2
+(SV2; 1 : 200; Developmental Studies Hybridoma Bank) overnight
+at 4 °C (n = 3 fish per group). Sections were washed in PBS, incu-
+bated with FITC-Affinipure goat anti-mouse secondary antibodies
+(1 : 500; Jackson Immunoresearch) for SV2, and Cy3-conjugated
+streptavidin for biocytin, for 1.5 h at room temperature. Newly
+formed synapses, defined as the point of colocalisation between bio-
+cytin and SV2, were observed under confocal microscopy (Olym-
+pus). For comparing regenerated axon profiles, three sections chosen
+from the corresponding spinal cord levels were evaluated. Selected
+sections per fish (n = 3 per group), at 0–2 mm caudal to the lesion
+site from each group, were taken and Cy3-fluorescence was photo-
+graphed with a Zeiss fluorescence microscope. The percentage of
+threshold-stained area in the appropriate section area was measured
+using Image J 1.44p software (Yu et al., 2011b). The experimenter
+was blinded to the treatment.
+Antibody specificity
+The syntenin-1 antibody used for Western blot analysis labeled two
+bands, but the predicted syntenin-a molecular mass (32 kDa) and
+the syntenin-a antibody instructions from the GeneTex datasheet
+(GTX108391), as well as the results comparing zebrafish samples
+with U87-MG glioblastoma cells, supported the low band as being
+the syntenin-a signal. The specificities of the antibodies for GFAP,
+Islet-1, HuC/D, BrdU and SV2 used for immunofluorescence stain-
+ing have been extensively verified and used successfully in previous
+studies to specifically mark, respectively, glia, motoneurons, imma-
+ture neurons, newly generated cells and synapses in the zebrafish
+(Reimer et al., 2008; Hui et al., 2010; Guo et al., 2011; Yu et al.,
+2011a; Goldshmit et al., 2012; Pan et al., 2013).
+Statistical analysis
+SPSS 17.0 software (IBM, USA) was used for data analysis. Data
+are presented as means  SEM. We performed Student’s t-test or
+one-way ANOVA, followed by Tukey’s post hoc test when appropri-
+ate.
+Results
+Syntenin-a expression was upregulated in cells caudal to the
+SCI site
+To determine whether syntenin-a is involved in regeneration, we first
+performed qPCR to investigate syntenin-a mRNA expression after
+SCI. According to the microarray results (GEO accession number,
+GSE20460; link for the GEO dataset is http://www.ncbi.nlm.nih.
+gov/geo/query/acc.cgi?token=jbkhpcakoummudg&acc=GSE20460),
+levels of syntenin-a mRNA had increased by 11 days post-injury,
+with a 1.4  0.1-fold change when compared to the sham-injured
+control taken at the same time point.
+To confirm and quantify syntenin-a upregulation, we took spinal
+cord samples caudal to the lesion site at 4 and 12 h as well as at 6
+and 11 days post-SCI, and performed qPCR. These time points rep-
+resent the acute and the more chronic response phases of the spinal
+cord to the injury (Guo et al., 2011). qPCR analysis showed that
+syntenin-a mRNA levels were upregulated 1.5- to 2-fold at 6 and
+11 days after SCI compared with sham-injured and untreated con-
+trols. Expression peaked at 6 days, with a 2.1  0.5-fold increase in
+expression (n = 5, one-way ANOVA with Tukey’s post hoc test,
+P < 0.05), and then decreased to 1.5  0.2-fold at 11 days post-
+SCI (n = 5, one-way ANOVA with Tukey’s post hoc test, P < 0.05)
+compared with the sham-injured controls (Fig. 1A). No significant
+change in syntenin-a mRNA was seen in the acute phase response
+to SCI (4 and 12 h).
+We then measured syntenin-a protein levels at same time points
+by Western blot analysis. In Western blots, syntenin-a antibody
+reacted with a band of ~34 kDa molecular mass, identical to the the-
+oretical molecular mass of zebrafish syntenin-a and similar to the
+molecular weight of the band detected in human U87-MG glioblas-
+toma cells (Fig. 1B). Western blot analysis showed that syntenin-a
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+2282 Y. Yu and M. Schachner
+protein levels were increased 7.6  1.1- and 12.5  1.2-fold at
+6 and 11 days post-SCI (n = 4, one-way ANOVA with Tukey’s
+post hoc test, P < 0.05), respectively, compared with sham-injured
+controls (Fig. 1C and D), and in temporal agreement with the qPCR
+results.
+In order to determine the cellular expression patterns of syntenin-
+a in the spinal cord after SCI, we performed ISH on longitudinal
+sections of the spinal cord caudal to the lesion site. Similar to our
+qPCR results, syntenin-a expression was elevated at 6 and 11 days
+post-SCI, compared with sham-injured (Fig. 2A) and non-injured
+(Fig. 2C) controls, as well as at 4 and 12 h post-SCI. In non-injured
+and sham-injured zebrafish, as well as in zebrafish at the early phase
+of recovery (4 h and 12 h) post-SCI, syntenin-a was mainly
+expressed with moderate signals in neuron-like cells and with weak
+signals in glia-like and ependymal cells. However, in the chronic
+phase spinal cord (6 and 11 days, and particularly at 6 days post-
+SCI), syntenin-a was strongly expressed in both neuron- and glia-
+like cells located in and around the central canal and in the white
+matter. At 6 days post-SCI, there was a dramatic increase in
+numbers of syntenin-a-immunopositive cells immediately adjacent to
+the lesion site (Fig. 2B). No specific signals were detected in spinal
+cord sections when hybridised with a syntenin-a sense mRNA probe
+(Fig. 2D). These results show that syntenin-a expression is upregu-
+lated in the chronic phase post-SCI.
+Identification of cell types expressing syntenin-a
+To determine the cell types up-regulating syntenin-a expression we
+combined syntenin-a ISH and immunofluorescence for neural cell or
+glial cell markers caudal to the lesion site at 6 days post-SCI or
+sham injury (Figs 3–5). Syntenin-a mRNA was expressed in
+neurons positive for the motoneuronal marker Islet-1 (Fig. 4Aa–c),
+neurons expressing the immature neuronal marker HuC/D
+(Fig. 4Ba–c) and GFAP-positive glial cells (Fig. 3). Newly gener-
+ated cells, as judged by BrdU pulse labeling, were also positive for
+syntenin-a mRNA (Fig. 5). In the sham-injured fish, syntenin-a
+mRNA was mainly expressed in ependymal cells and neurons,
+including motoneurons and immature neurons (Fig. 4A, B and Ca
+A
+C
+D
+B
+Fig. 1. Syntenin-a expression was upregulated post-SCI in the spinal cord caudal to the lesion site. (A) qPCR analysis showing that syntenin-a mRNA levels
+were upregulated at 6 and 11 days post-SCI compared to non-injured and sham-injured controls, and at 4 h and 12 h post-SCI. (B) Western blot analysis of
+syntenin-a in zebrafish spinal cord and U87-MG glioblastoma cells. Bands with an apparent molecular mass of ~34 kDa correspond to the reported value for
+syntenin-1. (C) Western blot analysis of syntenin-a in the spinal cord of non-injured fish, and spinal cord caudal to the lesion site in sham-injured fish, and fish
+at 4 and 12 h as well as 6 and 11 days post-SCI. S4 h–S11d indicate the time post-SCI; C4 h–C11d indicate the time after sham injury. (D) Quantitation of
+syntenin-a/tubulin ratios as estimated by Western blot analysis (C) showing that syntenin-a immunoreactivity was increased at 6 and 11 days post-SCI compared
+to non-injured and sham-injured controls and at 4 and 12 h post-SCI. Values are expressed as means  SEM; *P < 0.05, one-way ANOVA with Tukey’s
+post hoc test.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+Syntenin-a promotes spinal cord regeneration 2283
+and b), and some GFAP-positive cells close to the central canal
+(Figs 3A–D and 4, Ca and b). At 6 days post-SCI, as well as in
+neurons, increased levels of syntenin-a mRNA were detected in a
+higher percentage of GFAP-positive cells located at and around the
+central canal (Figs 3E–H and 4, Da and b) compared to the sham-
+injured fish. We found that all HuC/D-positive cells expressed synte-
+nin-a, and that HuC/D-negative, GFAP-positive cells also express
+syntenin-a 6 days after sham injury or post-SCI (Fig. 4C and D).
+We also found that some BrdU-positive cells expressed syntenin-a
+mRNA at 6 days post-SCI along the central canal site and in the
+region surrounding the central canal (Fig. 5E–H) while fewer BrdU-
+positive cells expressed syntenin-a mRNA along the central canal at
+6 days after sham injury (Fig. 5A–D). Adjacent to the lesion site at
+6 days post-SCI, several GFAP-positive glial cells co-expressing
+syntenin-a appeared in an elongated bipolar form reminiscent of
+ependymoradial glial cells (Fig. 4, Ea and b). These data indicate
+that syntenin-a is located in different cell types in the spinal cord
+and that expression is increased in the chronic phase post-SCI.
+Syntenin-a promoted locomotor recovery
+To investigate whether upregulation of syntenin-a expression is rele-
+vant to the recovery of locomotor function we performed swim-
+tracking analysis. At 5 weeks post-SCI, the total distance moved by
+fish treated with two independent Syn-MOs was reduced (Syn-MO1,
+510.5  153 cm in 5 min, n = 12, one-way ANOVA with Tukey’s
+post hoc test, P < 0.05; Syn-MO2, 666.6  121.6 cm in 5 min,
+n = 8, one-way ANOVA with Tukey’s post hoc test, P < 0.05) com-
+pared to the Con-MO (1239.3  110.9 cm in 5 min, n = 10) group,
+with the swim performance of Con-MO being similar to that of
+non-injured fish. Consistently, the duration of movement by fish
+treated with two independent Syn-MOs was reduced (Syn-MO1,
+99.3  33.3 s in 5 min, n = 12, one-way ANOVA with Tukey’s post
+hoc test, P < 0.05; Syn-MO2, 110.9  34.7 s in 5 min, n = 8, one-
+way ANOVA with Tukey’s post hoc test, P < 0.05) compared to the
+Con-MO (233.2  26.6 s in 5 min, n = 10) group. Also at 6 weeks
+post-SCI, the total distance moved and duration of movement by
+fish treated with Syn-MO1 was reduced (total distance,
+601.4  161.8 cm in 5 min, n = 12, one-way ANOVA with Tukey’s
+post hoc test, P < 0.05; duration of movement, 109.1  33.2 s in
+5 min, n = 12, one-way ANOVA with Tukey’s post hoc test,
+P < 0.05) compared to the Con-MO (total distance,
+1212.4  124.5 cm in 5 min, n = 10; duration of movement,
+238.5  26.2 s in 5 min, n = 10) group (Fig. 6A). However, we
+did not observe a significant reduction in the Syn-MO2 group in
+swim capacity, most likely resulting from a less efficient knock-
+down of translation when compared to MO1. The inhibition of syn-
+tenin-a expression by MO1 and MO2 was determined by Western
+blot analysis at 11 days after SCI and MO treatment. We confirmed
+that both Syn-MO1 and Syn-MO2 reduced syntenin-a protein levels,
+compared with the Con-MO, by 63% (n = 4, one-way ANOVA with
+Tukey’s post hoc test, P < 0.05) and 51% (n = 4, one-way ANOVA
+with Tukey’s post hoc test, P < 0.05), respectively (Fig. 7A and B).
+These results indicate that syntenin-a function is important for loco-
+motor recovery.
+Syntenin-a was associated with axonal regrowth
+By 6 weeks post-SCI, the spinal cord of fish treated with Con-MO
+had returned to almost normal appearance in tissue density at the
+lesion site. In contrast, the tissue density of the spinal cord remained
+reduced compared to the equivalent non-injured thoracic segment at
+6 weeks post-SCI and Syn-MO1 treatment (Fig. 6B).
+To determine the histological basis of the effect of Syn-MO treat-
+ment in locomotor recovery, retrograde tracing was performed at
+6 weeks post-SCI immediately after the swim tracking analysis. The
+number of retrogradely labeled neurons in the nucleus of the medial
+longitudinal fascicle (NMLF) was significantly reduced in fish trea-
+ted with Syn-MO1 (9.3  3.5, n = 3, Student’s t-test, P < 0.05)
+compared with Con-MO-treated fish (27.7  4.3, n = 3; Fig. 6C
+and E). This result is consistent with previous studies showing that
+A
+B C
+D
+Fig. 2. ISH for syntenin-a in spinal cord at different time-points post-SCI.
+(A) Longitudinal sections of spinal cord caudal to the lesion site at 4 and
+12 h as well as at 6 and 11 days post-SCI were hybridised with a syntenin-a
+anti-sense probe. Hybridisation signals were higher at 6 and 11 days com-
+pared to corresponding sham-injured controls. Particularly at 6 days post-
+SCI, strong signals were seen in neuron- and glia-like cells located in and
+around the central canal and in white matter, compared with sham-injured
+controls showing lower signals in neuron-like cells and weak signals in glia-
+like cells and ependymal cells. (B) At 6 days post-SCI, syntenin-a-positive
+cells showed a more pronounced increase immediately adjacent to the lesion
+site. (C) Syntenin-a mRNA was detected in the non-injured spinal cord in
+neuron-like cells and a few glia-like and ependymal cells. (D) Syntenin-a
+sense mRNA probe did not yield any signal. The lesion site is situated on
+the left side of all images; *indicates the central canal. Scale bars, 50 lm.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+2284 Y. Yu and M. Schachner
+the number of brainstem neurons with regenerated axons correlates
+with the recovery of locomotor function of individual fish (Becker
+et al., 1997, 2004).
+Syntenin-a expression was associated with synapse formation
+Anterograde tracing was also performed to investigate whether syn-
+tenin-a is involved in synapse formation of regenerating axon termi-
+nals caudal to the lesion site. Newly formed synapses, represented
+by neurons co-labeled with the anterograde tracer biocytin and the
+synaptic marker SV2, were decreased in number in the Syn-MO1-
+treated fish (Fig. 8B and D) compared with Con-MO-treated fish
+(Fig. 8A and C). In agreement with this observation is the finding
+that the number of anterogradely labeled regrown axons labeled with
+biocytin were also decreased, to 45% in Syn-MO1-treated fish com-
+pared with Con-MO-treated fish (n = 3, Student’s t-test, P < 0.05;
+Fig. 6D and F), consistent with the finding that fewer retrogradely
+labeled cell profiles were observed in the NMLF. We also failed to
+A B C D
+E F G H
+Fig. 3. Combined immunohistochemistry and ISH in longitudinal sections of spinal cord caudal to the lesion site at 6 days post-SCI or after sham injury shows
+syntenin-a mRNA expression in GFAP-positive glial cells. (A–D) Six days after sham injury, (A) syntenin-a mRNA is expressed in (B) some GFAP-positive
+cells close to the central canal; (C) merge of A and B; (D) Higher magnification of C. Arrows indicate co-localisation and arrowheads indicate GFAP-positive
+cells that do not express syntenin-a. (E–H) At 6 days post-SCI, (E) increased levels of syntenin-a mRNA are detectable in (F) more GFAP-positive cells at and
+around the central canal; (G) merge of E and F; (H) higher magnification of G. Arrows indicate co-localisation. Scale bars, 20 lm.
+Aa
+Ab
+Ac
+Ba
+Bb
+Bc
+Ca
+Cb
+Ea
+Da
+Db
+Eb
+Fig. 4. Combined immunohistochemistry and ISH in longitudinal sections of spinal cords caudal to the lesion site at 6 days post-SCI or after sham injury
+showed syntenin-a mRNA expression in neurons and glial cells. Syntenin-a was expressed in neurons positive for the motoneuronal marker Islet-1 and the neu-
+ronal marker HuC/D for immature neurons. (Aa and Ba) Syntenin-a; (Ab), Islet-a; (Ac), merge of Aa and Ab; (Bb), HuC/D; (Bc), merge of Ba and Bb. Arrows
+indicate co-localisation. Syntenin-a was expressed not only in all HuC/D-positive cells but also in HuC/D-negative, GFAP-positive cells (arrows in Cb and Db)
+6 days after sham injury (Ca–b) or post-SCI (Da–b). Cb and Db show higher magnifications of the boxed areas in Ca and Da, respectively. At the lesion site at
+6 days post-SCI, many GFAP-positive glial cells appeared in an elongated bipolar form and some GFAP-positive cells expressed syntenin-a (arrows in Eb). Eb,
+higher magnification of boxed area in Ea. Scale bars, 20 lm (Cb, Db and Eb), 50 lm (A, B, Ca, Da and Ea).
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+Syntenin-a promotes spinal cord regeneration 2285
+detect caudal-to-rostral ascending axon regrowth that had crossed
+the lesion site in either Syn-MO-treated group.
+Discussion
+Treatment of SCI has remained problematic despite impressive
+efforts and successes to gain insights into the cellular and molecular
+mechanisms underlying the failures to regenerate after injury in adult
+mammals. To date, there is still no effective treatment that is
+accepted for therapy, although promising experimental techniques
+have been suggested from studies on animals, such as neutralising
+regeneration-inhibitory molecules, enhancing regeneration-conducive
+molecules and transplanting stem cells (for more recent reviews see
+Sahni & Kessler, 2010; Tohda & Kuboyama, 2011; Blesch et al.,
+2012; Chew et al., 2012; Gage, 2012; Pernet & Schwab, 2012;
+Sharma et al., 2012). Regrowth and/or sprouting of severed axons
+and formation and/or remodeling of synapses are determined by the
+extrinsic glial environment and intrinsic neuronal competence (Bern-
+hardt et al., 1996; Becker et al., 1998, 2005; Bernhardt, 1999; Yiu
+& He, 2006; Sun & He, 2010). As attempts to improve regrowth of
+axons in the adult via deletion of inhibitory molecules have so far
+failed to allow axons to regenerate over longer distances (Yiu & He,
+2006; Sun & He, 2010), increased attention has been given to under-
+standing the intrinsic regenerative ability of neurons. Syntenin-a may
+be one of many molecules that enhances this recovery, as it is
+expressed in neurons and neural precursor cells. Interestingly, synte-
+nin-a is most prominently associated with recovery in the later, more
+chronic, phases of recovery from injury in adult zebrafish,
+suggesting that it preferentially affects the regrowth of axons and
+formation and/or remodeling of synaptic contacts than conditioning
+the tissue microenvironment. Nevertheless, syntenin-a mRNA and
+protein levels are upregulated caudal to the lesion site in the chronic
+phase after SCI. However, we have performed ISH in brain sections
+and did not find a difference in numbers of cells and intensity of sig-
+nal between fish with no injury, sham injury and 6 days post-injury
+(data not shown). It is thus likely that intrinsic expression of synte-
+nin-a in a non-injury situation is sufficient to ensure regrowth of ax-
+ons after injury. It thus remains to be seen whether several beneficial
+cues, neuron-intrinsic or tissue environment (neuron-extrinsic) or
+both, are active in syntenin-a-mediated recovery from injury. Given
+that syntenin-a covers a wide spectrum of functions, neuron-intrinsic
+and -extrinsic features are likely to underlie the beneficial effects of
+this molecule in regeneration.
+It is interesting in this context that, in the early phase of regenera-
+tion, glial cells accumulate at the lesion edge; this is followed by glial
+migration to the lesion site. The formation of a glial bridge permits
+axonal regeneration in zebrafish and enables axons to traverse the
+lesion site in a caudal direction (Zukor et al., 2011; Goldshmit et al.,
+2012). Our results reveal that syntenin-a is upregulated at 6 and
+11 days post-SCI, consistent with the phase of glial accumulation and
+glial bridge formation. In addition, syntenin-a expression also accu-
+mulates in glial cells immediately adjacent to the lesion site at 6 days
+post-SCI, further supporting the view that syntenin-a participates in
+glial bridge formation and/or changes in glial morphology.
+In the early development of zebrafish, the syntenin–syndecan–
+PIP2–Arf6 complex affects cell movements (Lambaerts et al.,
+2012), and it is thus possible that this complex is also associated
+with newly generated neural cell and immature or mature glial cell
+migration in recovery of adult zebrafish. Also, a correlation between
+syntenin-1 and tyrosine kinase Src or focal adhesion kinase expres-
+sion occurs in human melanoma cells, where syntenin-1 is associ-
+ated with anchorage-independent growth, cell migration and
+metastasis of melanoma cells in vitro and in vivo (Boukerche et al.,
+2008, 2010).
+It is also noteworthy that some newly generated cells in the gen-
+erative zone around the central canal express syntenin-a in the early
+and late phases of recovery. Syntenin-1 has been reported to be up-
+regulated in stem cell clusters of human interfollicular epidermis
+(Estrach et al., 2007). In zebrafish, syntenin transcripts are mater-
+nally supplied and expression of syntenin persists during gastrulation
+(Lambaerts et al., 2012). These results show that syntenin-a is
+expressed in early ontogenetic development, implicating this mole-
+cule in important cellular functions providing cell motility and/or
+orientation. It is therefore striking that these functions appear to be
+recapitulated at least to some extent in regeneration of adult zebra-
+fish, when some developmental events appear to provide an advan-
+tage for regeneration. Consistently, expression decreases in the adult
+mammalian central nervous system when maturation is completed,
+A B C D
+E F G H
+Fig. 5. Combined immunohistochemistry and ISH in longitudinal sections of spinal cords caudal to the lesion site at 6 days post-SCI or after sham injury
+shows newly generated BrdU-positive cells also expressing syntenin-a mRNA. (E–H) At 6 days post-SCI, (F) BrdU-positive cells along the central canal site
+and in the surrounding central canal also expressed (E) syntenin-a mRNA. (A–D) Sham-injured spinal cord showed (B) fewer BrdU-positive cells along the cen-
+tral canal and (A) fewer of these cells expressed syntenin-a mRNA. C, merge of A and B; G, merge of E and F; D and H show higher magnifications of C and
+G, respectively. Arrows indicate co-localisation of syntenin-a and BrdU. Scale bars, 20 lm.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+2286 Y. Yu and M. Schachner
+although it is not known whether syntenin-a is downregulated in the
+adult non-injured zebrafish nervous system. Whether regulated
+expression in the adult central nervous system of mammals would
+permit regeneration after injury remains to be seen.
+Supporting Information
+Additional supporting information can be found in the online ver-
+sion of this article:
+Fig. S1. Schematic diagram depicting the main functions of synte-
+nin-1 and its homologs in different species.
+A
+B
+C
+D
+E F
+Fig. 6. (A) Locomotor behavior was analysed weekly by swim tracking of
+fish for 6 weeks (W) post-SCI and treatment with Syn-MO or Con-MO. The
+total distance moved and duration of movement by fish treated with Syn-
+MO1 (n = 12 per group) at 5–6 weeks and Syn-MO2 (n = 8 per group) at
+5 weeks post-SCI was reduced compared to the Con-MO group (n = 10 per
+group). *P < 0.05, one-way ANOVA with Tukey’s post hoc test. (B) At
+6 weeks post-SCI, the lesion site had returned to almost the normal size and
+density in Con-MO-treated fish at 6 weeks post-SCI, in contrast to the overt
+lesion site of fish treated with Syn-MO1. (C) Retrograde tracing images with
+biocytin–streptavidin in sections of the NMLF in fish treated with Syn-MO1
+at 6 weeks post-SCI. The number of retrogradely labeled neuronal profiles
+was lower in fish treated with Syn-MO1 than Con-MO. (D) Anterograde
+tracing images with biocytin–streptavidin in sections caudal to the lesion site
+6 weeks post-SCI of fish treated with Syn-MO1 vs. Con-MO. Numbers of
+axons were reduced in fish treated with Syn-MO1 vs. Con-MO. (E) Quantifi-
+cation of biocytin-labeled neuronal profiles in the NMLF shows that Syn-
+MO1 treatment reduced the number of retrogradely-labeled neuronal profiles
+in the NMLF vs. treatment with Con-MO. *P < 0.05, t-test. (F) Quantifica-
+tion of regenerated axonal profiles labeled anterogradely with biocytin indi-
+cate that the percentage of labeled area was reduced in cross-sections 0–
+2 mm caudal to the lesion site of fish treated with Syn-MO1 vs. Con-MO
+6 weeks post-SCI. *P < 0.05, t-test. Scale bars, 50 lm.
+A
+B
+Fig. 7. (A) Western blot analysis of syntenin-a and tubulin in the spinal
+cord caudal to the lesion site from samples of non-injured fish, spinal cord-
+injured and sham-injured fish, as well as injured fish treated with Con-MO,
+Syn-MO1 or Syn-MO2 at 11 days post-SCI. (B) Quantification of syntenin-
+a/tubulin ratios. Both Syn-MOs reduced syntenin-a expression at 11 days
+post-SCI. *P < 0.05, one-way ANOVA with Tukey’s post hoc test.
+A B
+C D
+Fig. 8. Double labeling of the anterograde tracer biocytin–streptavidin (red)
+with the synaptic marker SV2 (green) in cross-sections of the spinal cord
+caudal to the lesion site 6 weeks post-SCI of fish treated with (A and C)
+Con-MO or (B and D) Syn-MO1. Newly formed synapses co-labeled with
+biocytin and SV2 (yellow, arrows) were decreased in fish treated with Syn-
+MO1 vs. control MO. Blue, DAPI nuclear signal. Scale bars, 20 lm (A and
+B), 10 lm (C and D). [Color version of figure available online].
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+Syntenin-a promotes spinal cord regeneration 2287
+Acknowledgements
+The authors are very grateful to Dr Stanley Lin for helpful discussions and
+critical text editing, and Hong-Chao Pan for instructions on the surgery. This
+work was supported by Li Ka Shing Foundation (LD030601 to M.S.), Shan-
+tou University Postdoctoral Science Initial Foundation (LD030601) and Chi-
+nese Postdoctoral Science Foundation (413449).
+Abbreviations
+BrdU, bromodeoxyuridine; Con-MO, standard control MO; ISH, in situ
+hybridisation; MO, morpholino; NMLF, nucleus of the medial longitudinal
+fascicle; PBS, phosphate-buffered saline, pH 7.3; PFA, paraformaldehyde;
+qPCR, quantitative real-time polymerase chain reaction; SCI, spinal cord
+injury; SV2, synaptic vesicle protein 2; Syn-MO, syntenin-a MO.
+References
+Adolf, B., Chapouton, P., Lam, C.S., Topp, S., Tannhauser, B., Strahle, U.,
+Gotz, M. & Bally-Cuif, L. (2006) Conserved and acquired features of
+adult neurogenesis in the zebrafish telencephalon. Dev. Biol., 295, 278–
+293.
+Becker, C.G., Lieberoth, B.C., Morellini, F., Feldner, J., Becker, T. &
+Schachner, M. (2004) L1.1 is involved in spinal cord regeneration in adult
+zebrafish. J. Neurosci., 24, 7837–7842.
+Becker, T., Wullimann, M.F., Becker, C.G., Bernhardt, R.R. & Schachner,
+M. (1997) Axonal regrowth after spinal cord transection in adult zebrafish.
+J. Comp. Neurol., 377, 577–595.
+Becker, T., Bernhardt, R.R., Reinhard, E., Wullimann, M.F., Tongiorgi, E. &
+Schachner, M. (1998) Readiness of zebrafish brain neurons to regenerate a
+spinal axon correlates with differential expression of specific cell recogni-
+tion molecules. J. Neurosci., 18, 5789–5803.
+Becker, T., Lieberoth, B.C., Becker, C.G. & Schachner, M. (2005) Differ-
+ences in the regenerative response of neuronal cell populations and indica-
+tions for plasticity in intraspinal neurons after spinal cord transection in
+adult zebrafish. Mol. Cell. Neurosci., 30, 265–278.
+Beekman, J.M. & Coffer, P.J. (2008) The ins and outs of syntenin, a multi-
+functional intracellular adaptor protein. J. Cell Sci., 121, 1349–1355.
+Beneyto, M. & Meador-Woodruff, J.H. (2004) Expression of transcripts
+encoding AMPA receptor subunits and associated postsynaptic proteins in
+the macaque brain. J. Comp. Neurol., 468, 530–554.
+Bernhardt, R.R. (1999) Cellular and molecular bases of axonal regeneration
+in the fish central nervous system. Exp. Neurol., 157, 223–240.
+Bernhardt, R.R., Tongiorgi, E., Anzini, P. & Schachner, M. (1996) Increased
+expression of specific recognition molecules by retinal ganglion cells and
+by optic pathway glia accompanies the successful regeneration of retinal
+axons in adult zebrafish. J. Comp. Neurol., 376, 253–264.
+Bernstein, J.J. (1964) Relation of spinal cord regeneration to age in adult
+goldfish. Exp. Neurol., 9, 161–174.
+Blesch, A., Fischer, I. & Tuszynski, M.H. (2012) Gene therapy, neurotrophic
+factors and spinal cord regeneration. Handb. Clin. Neurol., 109, 563–574.
+Boukerche, H., Su, Z.Z., Emdad, L., Baril, P., Balme, B., Thomas, L., Ran-
+dolph, A., Valerie, K., Sarkar, D. & Fisher, P.B. (2005) mda-9/Syntenin: a
+positive regulator of melanoma metastasis. Cancer Res., 65, 10901–10911.
+Boukerche, H., Su, Z.Z., Prevot, C., Sarkar, D. & Fisher, P.B. (2008) mda-9/
+Syntenin promotes metastasis in human melanoma cells by activating
+c-Src. Proc. Natl. Acad. Sci. USA, 105, 15914–15919.
+Boukerche, H., Aissaoui, H., Prevost, C., Hirbec, H., Das, S.K., Su, Z.Z.,
+Sarkar, D. & Fisher, P.B. (2010) Src kinase activation is mandatory for
+MDA-9/syntenin-mediated activation of nuclear factor-kappaB. Oncogene,
+29, 3054–3066.
+Chatterjee, N., Stegmuller, J., Schatzle, P., Karram, K., Koroll, M., Werner,
+H.B., Nave, K.A. & Trotter, J. (2008) Interaction of syntenin-1 and the
+NG2 proteoglycan in migratory oligodendrocyte precursor cells. J. Biol.
+Chem., 283, 8310–8317.
+Chew, D.J., Fawcett, J.W. & Andrews, M.R. (2012) The challenges of long-
+distance axon regeneration in the injured CNS. Prog. Brain Res., 201,
+253–294.
+Das, S.K., Bhutia, S.K., Kegelman, T.P., Peachy, L., Oyesanya, R.A., Das-
+gupta, S., Sokhi, U.K., Azab, B., Dash, R., Quinn, B.A., Kim, K., Barral,
+P.M., Su, Z.Z., Boukerche, H., Sarkar, D. & Fisher, P.B. (2012) MDA-9/
+syntenin: a positive gatekeeper of melanoma metastasis. Front. Biosci., 17,
+1–15.
+Estrach, S., Legg, J. & Watt, F.M. (2007) Syntenin mediates Delta1-induced
+cohesiveness of epidermal stem cells in culture. J. Cell Sci., 120, 2944–
+2952.
+Gage, F.H. (2012) Transplantation in the future. Prog. Brain Res., 200,
+7–13.
+Goldshmit, Y., Sztal, T.E., Jusuf, P.R., Hall, T.E., Nguyen-Chi, M. & Currie,
+P.D. (2012) Fgf-dependent glial cell bridges facilitate spinal cord regenera-
+tion in zebrafish. J. Neurosci., 32, 7477–7492.
+Grootjans, J.J., Zimmermann, P., Reekmans, G., Smets, A., Degeest, G.,
+Durr, J. & David, G. (1997) Syntenin, a PDZ protein that binds syndecan
+cytoplasmic domains. Proc. Natl. Acad. Sci. USA, 94, 13683–13688.
+Guo, Y., Ma, L., Cristofanilli, M., Hart, R.P., Hao, A. & Schachner, M.
+(2011) Transcription factor Sox11b is involved in spinal cord regeneration
+in adult zebrafish. Neuroscience, 172, 329–341.
+Hirbec, H., Martin, S. & Henley, J.M. (2005) Syntenin is involved in the
+developmental regulation of neuronal membrane architecture. Mol. Cell.
+Neurosci., 28, 737–746.
+Hui, S.P., Dutta, A. & Ghosh, S. (2010) Cellular response after crush injury
+in adult zebrafish spinal cord. Dev. Dynam., 239, 2962–2979.
+Hwangbo, C., Kim, J., Lee, J.J. & Lee, J.H. (2010) Activation of the integrin
+effector kinase focal adhesion kinase in cancer cells is regulated by cros-
+stalk between protein kinase Calpha and the PDZ adapter protein mda-9/
+Syntenin. Cancer Res., 70, 1645–1655.
+Hwangbo, C., Park, J. & Lee, J.H. (2011) mda-9/Syntenin protein positively
+regulates the activation of Akt protein by facilitating integrin-linked kinase
+adaptor function during adhesion to type I collagen. J. Biol. Chem., 286,
+33601–33612.
+Jeon, H.Y., Das, S.K., Dasgupta, S., Emdad, L., Sarkar, D., Kim, S.H., Lee,
+S.G. & Fisher, P.B. (2013) Expression patterns of MDA-9/syntenin during
+development of the mouse embryo. J. Mol. Histol., 44, 159–166.
+Ko, J., Yoon, C., Piccoli, G., Chung, H.S., Kim, K., Lee, J.R., Lee, H.W.,
+Kim, H., Sala, C. & Kim, E. (2006) Organization of the presynaptic active
+zone by ERC2/CAST1-dependent clustering of the tandem PDZ protein
+syntenin-1. J. Neurosci., 26, 963–970.
+Koo, T.H., Lee, J.J., Kim, E.M., Kim, K.W., Kim, H.D. & Lee, J.H. (2002)
+Syntenin is overexpressed and promotes cell migration in metastatic
+human breast and gastric cancer cell lines. Oncogene, 21, 4080–4088.
+Koroll, M., Rathjen, F.G. & Volkmer, H. (2001) The neural cell recognition
+molecule neurofascin interacts with syntenin-1 but not with syntenin-2,
+both of which reveal self-associating activity. J. Biol. Chem., 276, 10646–
+10654.
+Lambaerts, K., Van Dyck, S., Mortier, E., Ivarsson, Y., Degeest, G., Luyten,
+A., Vermeiren, E., Peers, B., David, G. & Zimmermann, P. (2012) Synte-
+nin, a syndecan adaptor and an Arf6 phosphatidylinositol 4,5-bisphosphate
+effector, is essential for epiboly and gastrulation cell movements in zebra-
+fish. J. Cell Sci., 125, 1129–1140.
+Lin, J.F., Pan, H.C., Ma, L.P., Shen, Y.Q. & Schachner, M. (2012) The
+cell neural adhesion molecule contactin-2 (TAG-1) is beneficial for func-
+tional recovery after spinal cord injury in adult zebrafish. PLoS ONE, 7,
+e52376.
+Lin, J.J., Jiang, H. & Fisher, P.B. (1996) Characterization of a novel mela-
+noma diferentiation associated gene, mda-9, that is down-regulated during
+terminal cell diferentiation. Mol. Cell. Differ., 4, 317–333.
+Livak, K.J. & Schmittgen, T.D. (2001) Analysis of relative gene expression
+data using real-time quantitative PCR and the 2(-Delta Delta C(T))
+method. Methods, 25, 402–408.
+Ma, L., Yu, Y.M., Guo, Y., Hart, R.P. & Schachner, M. (2012) Cysteine-
+and glycine-rich protein 1a is involved in spinal cord regeneration in adult
+zebrafish. Eur. J. Neurosci., 35, 353–365.
+McClelland, A.C., Sheffler-Collins, S.I., Kayser, M.S. & Dalva, M.B. (2009)
+Ephrin-B1 and ephrin-B2 mediate EphB-dependent presynaptic develop-
+ment via syntenin-1. Proc. Natl. Acad. Sci. USA, 106, 20487–20492.
+Ohno, K., Koroll, M., El Far, O., Scholze, P., Gomeza, J. & Betz, H. (2004)
+The neuronal glycine transporter 2 interacts with the PDZ domain protein
+syntenin-1. Mol. Cell. Neurosci., 26, 518–529.
+Okumura, F., Yoshida, K., Liang, F. & Hatakeyama, S. (2011) MDA-9/syn-
+tenin interacts with ubiquitin via a novel ubiquitin-binding motif. Mol.
+Cell. Biochem., 352, 163–172.
+Pan, H.C., Lin, J.F., Ma, L.P., Shen, Y.Q. & Schachner, M. (2013) Major
+vault protein promotes locomotor recovery and regeneration after spinal
+cord injury in adult zebrafish. Eur. J. Neurosci., 37, 203–211.
+Pernet, V. & Schwab, M.E. (2012) The role of Nogo-A in axonal plasticity,
+regrowth and repair. Cell Tissue Res., 349, 97–104.
+Rajesh, S., Bago, R., Odintsova, E., Muratov, G., Baldwin, G., Sridhar, P.,
+Rajesh, S., Overduin, M. & Berditchevski, F. (2011) Binding to syntenin-1
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+2288 Y. Yu and M. Schachner
+protein defines a new mode of ubiquitin-based interactions regulated by
+phosphorylation. J. Biol. Chem., 286, 39606–39614.
+Reimer, M.M., Sorensen, I., Kuscha, V., Frank, R.E., Liu, C., Becker, C.G.
+& Becker, T. (2008) Motor neuron regeneration in adult zebrafish. J. Neu-
+rosci., 28, 8510–8516.
+Sahni, V. & Kessler, J.A. (2010) Stem cell therapies for spinal cord injury.
+Nat. Rev. Neurol., 6, 363–372.
+Sarkar, D., Boukerche, H., Su, Z.Z. & Fisher, P.B. (2004) mda-9/syntenin:
+recent insights into a novel cell signaling and metastasis-associated gene.
+Pharmacol. Therapeut., 104, 101–115.
+Sarkar, D., Boukerche, H., Su, Z.Z. & Fisher, P.B. (2008) mda-9/Syntenin:
+more than just a simple adapter protein when it comes to cancer metasta-
+sis. Cancer Res., 68, 3087–3093.
+Sharma, H., Alilain, W.J., Sadhu, A. & Silver, J. (2012) Treatments to
+restore respiratory function after spinal cord injury and their implications
+for regeneration, plasticity and adaptation. Exp. Neurol., 235, 18–25.
+Sun, F. & He, Z.G. (2010) Neuronal intrinsic barriers for axon regeneration
+in the adult CNS. Curr. Opin. Neurobiol., 20, 510–518.
+Tohda, C. & Kuboyama, T. (2011) Current and future therapeutic strategies
+for functional repair of spinal cord injury. Pharmacol. Therapeut., 132,
+57–71.
+Tomoda, T., Kim, J.H., Zhan, C. & Hatten, M.E. (2004) Role of Unc51.1 and
+its binding partners in CNS axon outgrowth. Gene. Dev., 18, 541–558.
+Xu, N.J., Sun, S., Gibson, J.R. & Henkemeyer, M. (2011) A dual shaping
+mechanism for postsynaptic ephrin-B3 as a receptor that sculpts dendrites
+and synapses. Nat. Neurosci., 14, 1421–1429.
+Yang, J.B. & McCarthy, J.B. (2007) Syntenin: a novel PDZ domain-contain-
+ing scaffolding protein associated with human melanoma metastasis.
+Zhong Nan Da Xue Xue Bao Yi Xue Ban, 32, 204–212.
+Yiu, G. & He, Z. (2006) Glial inhibition of CNS axon regeneration. Nat.
+Rev. Neurosci., 7, 617–627.
+Yu, Y.M., Cristofanilli, M., Valiveti, A., Ma, L., Yoo, M., Morellini, F. &
+Schachner, M. (2011a) The extracellular matrix glycoprotein tenascin-C
+promotes locomotor recovery after spinal cord injury in adult zebrafish.
+Neuroscience, 183, 238–250.
+Yu, Y.M., Gibbs, K.M., Davila, J., Campbell, N., Sung, S., Todorova, T.I.,
+Otsuka, S., Sabaawy, H.E., Hart, R.P. & Schachner, M. (2011b) MicroR-
+NA miR-133b is essential for functional recovery after spinal cord injury
+in adult zebrafish. Eur. J. Neurosci., 33, 1587–1597.
+Zimmermann, P., Tomatis, D., Rosas, M., Grootjans, J., Leenaerts, I., Dege-
+est, G., Reekmans, G., Coomans, C. & David, G. (2001) Characterization
+of syntenin, a syndecan-binding PDZ protein, as a component of cell adhe-
+sion sites and microfilaments. Mol. Biol. Cell, 12, 339–350.
+Zukor, K.A., Kent, D.T. & Odelberg, S.J. (2011) Meningeal cells and glia
+establish a permissive environment for axon regeneration after spinal cord
+injury in newts. Neural Dev., 6, 1.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 2280–2289
+Syntenin-a promotes spinal cord regeneration 2289

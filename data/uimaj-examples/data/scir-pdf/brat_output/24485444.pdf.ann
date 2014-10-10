@@ -1,0 +1,50 @@
+T1	Gene 779 781	Lu
+T2	Gene 1187 1191	GFAP
+T3	Gene 1250 1254	MAP2
+T4	Gene 1496 1502	fibrin
+T5	Gene 2495 2498	E14
+T6	Gene 2524 2527	GFP
+T7	Gene 2786 2789	GFP
+T8	Gene 3097 3102	NSC’s
+T9	Gene 3659 3662	Fig
+T10	Gene 3804 3815	extendedGFP
+T11	Gene 4065 4068	GFP
+T12	Gene 4803 4807	NSCs
+T13	Gene 6789 6792	GFP
+T14	Gene 6875 6878	DAB
+T15	Gene 7476 7479	NST
+T16	Gene 7664 7668	GFAP
+T17	Gene 7736 7739	GFP
+T18	Gene 7774 7778	MAP2
+T19	Gene 7872 7895	MAP2 immunofluorescence
+T20	Gene 8129 8132	NST
+T21	Gene 8758 8779	Kelly Matsudaira Yee1
+T22	Gene 9190 9193	Gao
+T23	Species 1598 1602	rats
+T24	Species 2332 2336	Rats
+T25	Species 2499 2502	rat
+T26	Species 3353 3357	rats
+T27	Species 3430 3434	rats
+T28	Species 3653 3657	rats
+T29	Species 3715 3719	rats
+T30	InteractionKeyword 642 647	cause
+T31	InteractionKeyword 980 987	adhered
+T32	InteractionKeyword 1815 1821	depend
+T33	InteractionKeyword 1837 1844	require
+T34	InteractionKeyword 2516 2523	express
+T35	InteractionKeyword 3592 3599	adhered
+T36	InteractionKeyword 4699 4705	raises
+T37	InteractionKeyword 4737 4746	involving
+T38	InteractionKeyword 4957 4967	determined
+T39	InteractionKeyword 5062 5071	involving
+T40	InteractionKeyword 5392 5399	leading
+T41	InteractionKeyword 5525 5529	lead
+T42	InteractionKeyword 5781 5787	formed
+T43	InteractionKeyword 6129 6136	produce
+T44	InteractionKeyword 6917 6924	adhered
+T45	InteractionKeyword 7292 7299	adhered
+T46	InteractionKeyword 7835 7845	attenuated
+T47	InteractionKeyword 8141 8149	controls
+T48	InteractionKeyword 8290 8294	form
+R49	Partner1 Arg1:T34 Arg2:T5
+R50	Partner2 Arg1:T34 Arg2:T6

@@ -1,0 +1,813 @@
+ev
+nd
+er
+edical Center, Birmingham, Alabama 35294, USA
+emistry
+, Florida
+a r t i c l e i n f o
+Article history:
+Received for publication 28 November 2010
+Revised 6 April 2011
+Developmental Biology 355 (2011) 205–214
+Contents lists available at ScienceDirect
+Developmen
+v iesuggest that PADs might be valuable therapeutic targets for spinal cord injury.
+© 2011 Elsevier Inc. All rights reserved.
+Introduction
+In amniotes, such as birds andmammals, the ability to significantly
+regenerate the central nervous system (CNS) is lost with develop-
+ment. Comparative analysis of injury responses at permissive and
+non-permissive stages of regeneration can therefore shed light on the
+cellular and molecular basis underlying such loss. The chick spinal
+cord provides an excellent model for these comparative studies, given
+its accessibility in ovo and the fact that at non-regenerating stages of
+The chick spinal cord displays remarkable regenerative ability,
+even at rather advanced stages of development, but this is eventually
+lost around embryonic day 13 (E13) (Ferretti and Whalley, 2008;
+Hasan et al., 1991; Shimizu et al., 1990). The ability to regenerate the
+spinal cord, as well as the loss of it with development, is most likely
+due to a combination of several factors, including changes in early
+response to injury (involving events occurring within hours rather
+than days after injury), progression of myelination and possibly
+intrinsic properties of neurons and of neural stem/progenitor cellsdevelopment it appears to respond to traum
+fashion to the human spinal cord, by forming
+In contrast, the injury site in the mouse spin
+cells and connective tissue (Inman et al., 200
+⁎ Corresponding author at: Developmental Biology
+Health, 30 Guilford Street, London WC1N 1EH, UK. Fax:
+E-mail address: ferretti@ich.ucl.ac.uk (P. Ferretti).
+0012-1606/$ – see front matter © 2011 Elsevier Inc. Al
+doi:10.1016/j.ydbio.2011.04.015PAD inhibitor, Cl-amidine, reduced the abundance of deiminated-histone 3, consistent with inhibition of PAD
+activity, and significantly reduced apoptosis and tissue loss following injury at E15. Altogether, our findings
+identify PADs and deimination as developmentally regulated modulators of secondary injury response, andAccepted 14 April 2011
+Available online 22 April 2011
+Keywords:
+Apoptosis
+Deimination/citrullination
+Development
+Peptidyl arginine deiminase
+Regeneration
+Spinal corda b s t r a c t
+Spinal cord regenerative ability is lost with development, but the mechanisms underlying this loss are still
+poorly understood. In chick embryos, effective regeneration does not occur after E13, when spinal cord injury
+induces extensive apoptotic response and tissue damage. As initial experiments showed that treatment with a
+calcium chelator after spinal cord injury reduced apoptosis and cavitation, we hypothesized that
+developmentally regulated mediators of calcium-dependent processes in secondary injury response may
+contribute to loss of regenerative ability. To this purpose we screened for such changes in chick spinal cords at
+stages of development permissive (E11) and non-permissive (E15) for regeneration. Among the
+developmentally regulated calcium-dependent proteins identified was PAD3, a member of the peptidylargi-
+nine deiminase (PAD) enzyme family that converts protein arginine residues to citrulline, a process known as
+deimination or citrullination. This post-translational modification has not been previously associated with
+response to injury. Following injury, PAD3 up-regulation was greater in spinal cords injured at E15 than at
+E11. Consistent with these differences in gene expression, deimination was more extensive at the non-
+regenerating stage, E15, both in the gray and white matter. As deimination paralleled the extent of apoptosis,
+we investigated the effect of blocking PAD activity on cell death and deiminated-histone 3, one of the PAD
+targets we identified by mass-spectrometry analysis of spinal cord deiminated proteins. Treatment with theatic injury in a similar
+a large fluid-filled cavity.
+al cord is filled in with
+2; Zhang et al., 1996).
+(Blackmore and
+et al., 2006, 2009
+role in the loss
+observed in the c
+incompetent sta
+Ferretti et al., pe
+Significantly,
+strikingly differe
+Unit, UCL Institute of Child
++44 20 7831 4366.
+l rights reserved.d University of South Carolina, Department of Ch
+e Department of Chemistry, TSRI, Scripps Florida& Biochemistry, Columbia, 29208, USA
+33458, USANeural Development Unit, UCL Institute of Child Health, London WC1N 1EH, UK
+c Department of Neurology, University of Alabama at Birmingham and Birmingham VA MProtein deiminases: New players in the d
+regenerative ability
+Sigrun Lange a, Stefanie Gögel a, Kit-Yi Leung b, Bertra
+Paul R. Thompson e, Nicholas D.E. Greene b, Patrizia F
+a Developmental Biology Unit, UCL Institute of Child Health, London WC1N 1EH, UK
+b
+j ourna l homepage: www.e lseelopmentally regulated loss of neural
+Vernay a, Anthony P. Nicholas c, Corey P. Causey d,
+retti a,⁎
+tal Biology
+r.com/deve lopmenta lb io logyLetourneau, 2006; Keirstead et al., 1992; Whalley
+). Glial scar formation does not seem to play a crucial
+of regenerative ability, as no obvious scarring is
+hick spinal cord either at regeneration competent or
+ges of development ((Shimizu et al., 1990) and
+rsonal communication).
+early response to injury in the chick spinal cord is
+nt at regeneration permissive and non-permissive
+206 S. Lange et al. / Developmental Biology 355 (2011) 205–214stages of development, with the latter showing much more extensive
+apoptosis and cavitation by 24 h after spinal cord injury (McBride
+et al., 2003; Whalley et al., 2006). Changes in calcium homeostasis
+following neural trauma play a critical role in the progression of
+secondary injury in mammals, including triggering an apoptotic
+response (Norberg et al., 2008; Orrenius et al., 2003; Velardo et al.,
+2000; Wang et al., 1999). Therefore, we wished to assess whether
+developmentally regulated calcium-dependent processes might also
+play a role in the changes in secondary injury response, and con-
+sequently in the regenerative ability of the chick spinal cord, and used
+a microarray-based analysis to identify such genes.
+Among differentially regulated calcium-dependent proteins, we
+identified a member of the rather neglected calcium-dependent
+protein peptidylarginine deiminase (PAD) family. Enzymes of the PAD
+family, of which 5 members (PAD1–4 and PAD6) are known in
+mammals and 3 (PAD 1–3) in chick, convert protein arginine residues
+to citrulline (deimination/citrullination) (Balandraud et al., 2005;
+Chavanas et al., 2004). It has been suggested that deimination plays a
+role in a number of diseases including skin diseases, rheumatoid
+arthritis and allergic encephalomyelitis (Cao et al., 1998; Doyle and
+Mamula, 2005; Gyorgy et al., 2006; Mastronardi et al., 2006; Nicholas
+et al., 2005; Raijmakers et al., 2006; Vossenaar et al., 2003;Wood et al.,
+2008; Ying et al., 2009). Deimination is a post-translational modifi-
+cation that leads to a charge loss that can alter protein conformation
+and consequently their structure, function and interaction with other
+proteins. We show here that PAD3 is developmentally regulated in
+response to injury and that PAD inhibition results in a reduction in
+apoptosis and cavitation, supporting a role for PAD and deimination in
+modulating secondary injury response with development following
+spinal cord damage. This study also points at PADs as potential ther-
+apeutic targets.
+Materials and methods
+Animals, surgery and pharmacological treatments
+Fertilized Brown Leghorn eggs (Needle Farm, Cambridge, UK)were
+incubated at 37 °C in a humidified forced flow incubator. All pro-
+cedures were approved under the Animals Scientific Procedures Act
+1986. Surgery and tissue collection was carried out as previously
+reported (Shimizu et al., 1990; Whalley et al., 2006).
+Different concentrations of the Ca++ chelator BAPTA-AM solubi-
+lized in DMSO or of the PAD inhibitor, Cl-amidine (Knuckley et al.,
+2008; Luo et al., 2006), solubilized in phosphate buffer saline (PBS), or
+of the carrier alone were applied in ovo immediately after spinal cord
+injury at E15 and their effect on survival assessed at 24 h (Whalley
+et al., 2006). Selected concentrations were tested for their effect on
+apoptosis and deimination. The extent of cavity formation was
+assessed in hematoxylin and eosin stained longitudinal spinal cord
+sections and apoptosis detected by TUNEL as previously described
+(Whalley et al., 2006). Briefly, montages of images of longitudinal
+sections of spinal cord stained with H&E or TUNEL were created at a
+level close to the center of the injury and the size of visible cavitation.
+Tissue damage extending cranially and caudally from the site of injury
+wasmeasured at 24 h using ImageJ; apoptosis was assessed by scoring
+the density of apoptotic cells on a scale of 1–4 using the criteria
+exemplified in Fig. 6F at different distances from the injury site (1, 2, 3,
+4 mm). Statistical significance was evaluated by ANOVA and Student's
+t-test and pb0.05 was taken to be significant.
+RNA analysis
+Total mRNA was extracted from the cervical peri-injury region or
+the equivalent region from sham-operated embryos of five individual
+spinal cords for each treatment group (E11 and E15 24 h post-surgery)
+following the protocol of ARK genomics (www.ark-genomics.org/protocols). mRNA quality was checked using Agilent 2100 Bioanalyzer
+and mRNA expression assessed using chick GeneChip according to
+manufacturer's protocol (Affymetrix). RNA (1 μg) from individual
+spinal cordswas used to provide independent replicates for each array.
+GeneSpring software (Agilent Technologies) was used for expression
+analysis and filteringwas performed byVolcano plot (1.5 fold changes,
+pb0.05) and verified using functional annotation clustering in David
+6.7.
+PAD3 and Gapdh gene expression was determined by quantitative
+real time PCR (7500 Fast Real Time PCR System, Applied Biosystems)
+using the SYBR GreenER reagent kit (Invitrogen) (Gögel et al., 2010).
+Each sample was run in duplicate. Primers were designed to amplify
+specific regions to the chickPAD3flanking region987–1123: PAD3chick
+forward: 5′ CGTGAAGGACAATGAGGACT 3′; PAD3 chick reverse: 5′
+GCACATAGCCAAACTCCACT3′. All results were normalized with respect
+to Gapdh expression; GAPDH chick forward 5'CCAGGTTGTCTCCTGT-
+GACT3′; GAPDH chick reverse 5'CACAACACGGTTGCTGTATC3′.
+Protein analysis
+Immunohistochemical staining and Western blotting were carried
+out as previously described (Whalley et al., 2009). Sections were
+imaged either under a Zeiss Axioplan or by confocal laser scanning
+microscopy (LSM 710, Zeiss, Germany). Complete “z” series optical
+sections were collected and projected onto a single plane using Zeiss
+software and ImageJ. Nuclear and cytoplasmic protein fractions were
+obtained by homogenizing pools of three cervical spinal cords in ice-
+cold hypotonic buffer (10 mM Hepes, pH 7.9, 1.5 mM MgCl2, 10 mM
+KCl, 0.5 mM DTT) supplemented with complete protease inhibitor
+cocktail (Sigma). Lysis was achieved using QIAshredder spin columns
+(QIAGEN) at 500 g. Cytoplasmic fractions were stored for further
+analysis. Nuclear pellets resuspended in 0.5 ml of ice-cold high salt
+buffer (20 mM Hepes pH 7.9, 25% glycerol, 1.5 mM MgCl2, 0.2 mM
+EDTA, 350 mM NaCl, 0.5 mM DTT) containing protease inhibitors and
+TritonX100 were kept on ice for 30 min. After centrifugation at
+13,000 g (30 min, 4 °C), supernatant containing nuclear proteins were
+collected. Proteins (2–4 μg/lane) resolved by 12% SDS-PAGE were
+analyzed by Western blotting.
+A pool of 5 spinal cords per treatment group was used for immu-
+noprecipitation of deiminated proteins, using the Catch and Release®
+v2.0 Kit according to the manufacturer's instructions (Upstate). An
+identical amount of proteins (5 μg) from each treatment group pool
+was immunoprecipitated. Immunoprecipitated protein fractions were
+analyzed by 12% SDS-PAGE and Western blotting. Candidate bands
+were excised from silver stained gels, and analyzed by liquid chro-
+matography electrospray tandemmass spectrometry (LC-ESI-MS/MS)
+as previously described (Gögel et al., 2010).
+Primary antibodies were: F95 monoclonal mouse IgM antibody
+(Nicholas and Whitaker, 2002) (2 μg for immunoprecipitation; 1/200
+for immunohistochemistry; 1/5000 for Western blotting); rabbit anti-
+PAD3 (Chemicon, 1:200 for immunohistochemistry; 1:1000 for West-
+ern blotting), mouse anti-NeuN (1:50, Millipore); rabbit anti-GFAP
+(1:1000, Sigma); rat anti-MBP, and rabbit anti-deiminated histone 3
+(citH3; 1:100 and 1:250, Abcam). Secondary antibodies were: HRP-
+conjugated goat anti-mouse IgM (Serotec, USA 1:2000), HRP-conjugat-
+ed goat anti-rabbit (DAKO, 1:2000); Alexa 568-conjugated goat anti-
+mouse IgM and Alexa 488-conjugated goat anti-rabbit (1:400;
+Molecular Probes), Cy5-conjugated anti-rat (Invitrogen, 1:50).
+Results
+To establish whether inhibition of calcium influx at the time of
+injury reduces injury response in E15 spinal cords, we administered
+25 mg/kg of the calcium chelator BAPTA in ovo either in sham-
+operated or injured embryos; this dose did not impair embryonic
+survival, and slightly increased it (not shown). By 24 h after injury
+207S. Lange et al. / Developmental Biology 355 (2011) 205–214E15 control embryos displayed an extensive apoptotic response, as
+indicated by TUNEL, and significant tissue loss was already evident
+(Fig. 1A). In contrast, in BAPTA-treated embryos little tissue damage
+was observed and apoptotic cells were restricted to the region close
+to the injury site (Fig. 1B). Furthermore, at 4 days after injury only
+small cavities were observed and axonal tracts were present in the
+Fig. 1. Detection of apoptosis by TUNEL in control and BAPTA-treated E15 spinal cords 24 h
+cord; note extensive apoptosis far from the injury site; asterisks indicate the extensive cavity
+injury; note the reduction in apoptosis. C) Neurofilament staining (red) in E19 control spinal
+the injury site. D) Neurofilament staining (red) in E19 BAPTA-treated spinal cord injured at E
+cavity and extensive neurofilament staining is observed at the site of injury. E–F) H&E sta
+bars=130 μm (A), 65 μm (B), 200 μm (C-F).
+Table 1
+Calcium-dependent molecules differentially regulated following spinal cord injury with dev
+Gene (GenBank)
+Peptidyl arginine deiminase, type III (NM_205043)
+S100 calcium binding protein A6 (calcyclin) (NM_204148)
+S100 calcium binding protein A9 (calgranulin B) (X61200)
+S100 calcium binding protein A11 (calgizzarin) (NM_205166)
+Cellular ligand of annexin 2(p11) (NM_205506)
+Annexin A1 (NM_206906)
+Annexin A11 (CR390633)
+Myosin light chain 2 (LC2f) (M11030)
+Myosin IF (MYO1F; CBBMIB) (NM_205254)
+Myosin Ie (Myosin heavy chain myr 3) (ENSGALT00000006599)
+Myosin, light polypeptide kinase (MYLK) (M96655)
+Phospholipase A2, group IVA (cytosolic, calcium-dependent) (NM_205423)
+Janus kinase 1 (JAK1) (NM_204870)
+Plastin 3 (T isoform) (PLS3; fimbrin) (AJ720945)
+Similar to calcium-regulated heat-stable protein (24 kD); calcineurin
+substrate CRHSP-24 (ENSGALT00000011834)
+Calbindin 1, 28 kDa (NM_205513)
+Kv channel interacting protein 4 (KCNIP4) (NM_204555)
+Follistatin-like 4 (FSTL4) (NM_204502)injured region though they did not display normal organization
+(Figs. 1C–F).
+To identify possible modulators of this response, we carried out
+gene profiling experiments aimed at discovering molecules with
+calcium-dependent activity differentially regulated in the chick spinal
+cord in response to injury at permissive (E11) and non-permissive
+after injury and neurofilament staining after 4 days. A) TUNEL staining of control spinal
+. B) TUNEL staining of spinal cord treated with the Ca++ ionophore BAPTA at the time of
+cord injured at E15. Note extensive tissue disruption and overall failure of axons to cross
+15; though the tissue at the site of injury appears rather disorganized, there is no large
+ined sections from the E19 control and BAPTA-treated spinal cords respectively. Scale
+elopment.
+mRNA fold changes
+E11 inj/sh E15 inj/sh E15/E11 sh
+1.8 6.0 2.1
+4.4 22 nc
+nc 4.1 2.4
+nc 2.5 nc
+1.7 4.3 nc
+14.7 3.5 nc
+nc 1.7 nc
+nc 3.7 3
+1.7 3.1 1.8
+nc 2.1 nc
+nc 1.5 nc
+nc 1.9 nc
+nc 1.6 nc
+nc 2.1 nc
+nc 2.2 nc
+nc 0.4 nc
+nc 0.6 0.7
+nc 0.6 nc
+(E15) stages for regeneration (Table 1). Among calcium-dependent
+molecules, PAD3 was expressed at higher levels at E15 than E11 and
+also differently up-regulated in response to injury at these develop-
+mental stages. Expression of PAD3 transcript in the spinal cord
+increased six-fold after spinal cord injury at E15, but less than two-
+fold after injury at E11 as compared to sham-operated controls
+(Table 1). To confirm that the chick PAD identified in our screen was
+homologous to mammalian PAD3, we designed primers specific for
+chick PAD3 and assessed immunoreactivity using an anti-PAD3
+antibody. RT-qPCR showed that PAD3 mRNA was indeed expressed
+mRN
+not
+acti
+ine
+xed
+ls do
+208 S. Lange et al. / Developmental Biology 355 (2011) 205–214Fig. 2. PAD3 is up-regulatedwith development and following spinal cord injury at E15. A)
+sham operated control (Sham), and by 24 h a significant 10 fold increase is observed;
+B)Western blot with an anti-PAD3 antibody of total proteins from E11 spinal cords and re
+C) E12 spinal cord labeled for PAD3 (red). D) Central canal region in an E12 spinal cord sta
+largely nuclear localization of PAD3. E) High magnification of the gray matter (region bo
+expression in E16 spinal cord; note PAD3 expression both in gray andwhitematter. G) Cel
+the white matter of E16 spinal cords (white arrow); PAD3-positive/MBP-negative cells are aAdetected by qPCR shows a trend to increase by 2 h after injury (Inj) as compared to the
+e also increased PAD3 in sham-operated spinal cords between E15 and E16. *pb0.05.
+vity of anti-PAD3 and anti-PAD2 antibodies in nuclear (N) and cytoplasmic (C) fractions.
+d for PAD3 (red) and counterstainedwith the nuclear stain Hoechst dye (blue); note the
+in C) showing some neurons double-labeled for PAD3 (red) and NeuN (green). F) PAD3
+uble-labeled for the oligodendrocytemarkerMBP (green) and PAD3 (red) are present in
+lso observed (yellow arrowhead). Scale bars=200 μm (C,F); 40 μm (D); 10 μm (E, G).
+in the chick spinal cord, increased significantly from E15 to E16 and
+was greatly up-regulated after injury at E15 (Fig. 2A). As observed in
+the microarray study, only a small PAD3 mRNA up-regulation was
+observed in response to injury at E11 by qRT-PCR (not shown).
+Expression of PAD3 proteinwas also assessed byWestern blotting and
+immunohistochemistry. The anti-PAD3 antibody reacted with a chick
+protein of molecular weight consistent with that of human PAD3
+(Nachat et al., 2005) and reactivity was detected both in the nucleus
+and in the cytoplasm, with a main band of approximately 70 kDa
+being detected (Fig. 2B). Consistent with both nuclear and cytoplas-
+mic localization of PAD3 was the identity of proteins immunopreci-
+pitated by the PAD3 antibody identified by mass spectrometry, which
+included histones and tubulin (Supplementary Table 1). Given the
+high sequence similarity between PADs and the fact that both PAD2
+and PAD3 are expressed in the spinal cord, we cannot fully rule out
+that the antibody we used might to some extent react also with other
+PADs. However, the difference in staining pattern observed with an-
+tibodies to PAD3 and PAD2 (Fig. 2B), with the latter detecting a higher
+molecular weight band, suggests specificity of the PAD3 staining
+observed in the chick spinal cord. In spinal cord sections (Figs. 2C–G),
+PAD3 reactivity in cells surrounding the central canal was mainly
+nuclear (Figs. 2C and D) and appeared to be stronger at E12 (Fig. 2C)
+than at E15 (Fig. 2F). At E11, PAD3 was also detected in a subset of
+neurons, as indicated by co-labeling with the neuronal marker NeuN,
+and in the white matter (Fig. 2E). At E15 PAD staining was still
+observed in the gray matter and had increased in the white matter
+(Fig. 2F). Double-staining for MBP and PAD3 showed PAD3 expression
+immunohistochemical staining,Western blotting showed that protein
+deimination was greatly increased in protein extracts from individual
+sham-operated and injured E15 spinal cords, but not following injury
+at E11 (Fig. 4).
+Deiminationoccurred both in the injuredgray andwhitematter 24 h
+after injury, as shown by double-staining with F95 and neural markers
+(Figs. 5A–C). Notwithstanding the extensive tissue damage and the
+rapid loss of NeuN reactivity observed following injury (Fig. 5A) that
+couldmake precise co-localization difficult to assess, some cells double-
+stained for F95 and neuronal (NeuN) or glial (GFAP,MBP)markerswere
+detected, suggesting that deimination was activated in both lineages,
+consistent with PAD3 expression (Figs. 2C, E, G, and 5D).
+The more extensive deimination observed after injury at E15 than
+at E11 paralleled the previously reported differences in apoptosis at
+these developmental stages. Therefore, injured spinal cord sections
+were double-labeled for deimination and TUNEL at different times
+after injury. Some double-labeled cells were indeed observed in
+injured spinal cords at 8 h (Supplementary Fig. 2A) and at 24 h after
+surgery both at E11 and E15 (Figs. 5E and 6D). By 4 days after spinal
+cord injury at E15, both apoptosis and F95 reactivity was greatly
+reduced, but some hot spots of F95 reactivity were still observed in
+clumps of tissue debris sometimes found within cavities, and some
+double labeled-cells were still observed (Supplementary Figs. 2B and
+C-C″). Consistent with a role in apoptosis, PAD3 expression could be
+detected in several TUNEL-positive cells 24 h after injury, though it
+was undetectable in very intensely labeled apoptotic cells, probably
+due to its degradation at the late apoptotic stages (Fig. 5F).
+cord
+able
+emo
+rent
+209S. Lange et al. / Developmental Biology 355 (2011) 205–214in developing oligodendrocytes, but some MBP-negative/PAD-posi-
+tive cells, presumably astrocytes, were also observed in the white
+matter (Fig. 2G).
+To determine whether elevated PAD abundance resulted in in-
+creased deimination activity, we used an antibody, F95, that spe-
+cifically recognizes the citrulline in proteins (Nicholas et al., 2003). No
+F95 reactivity was detectable in sham-operated spinal cords either at
+E11 or E15 (Supplementary Figs. 1A and B). Following injury at E11
+some F95 reactivity was detectable in the peri-injury region by 24 h
+(Figs. 3A and B). In contrast, extensive deimination was observed
+as early as 2 h after injury at E15 (Figs. 3C, D, D′). Consistent with
+Fig. 3. Detection of deiminated proteins with F95 antibody in injured E11 and E15 spinal
+of E11 spinal cord 24 h after injury; arrow: site of injury; arrowheads: regions of notice
+boxed)). Note limited deimination; some autofluorescence is observed in regions of h
+(section from the same spinal cord shown in (C); extensive deimination is already appa
+bars=50 μm (A), 260 μm (B,C,D); 65 μm (D′).In E15 injured spinal cords, increased deimination could already
+be detected at 2 h after injury, before apoptotic cells were detectable by
+TUNEL, and was hardly visible in BAPTA-treated embryos (not shown),
+consistent with deimination being a calcium-dependent process.
+Therefore, we tested the hypothesis that PAD may play a role in
+early injury response by treating E15 spinal cords with the PAD
+inhibitor, Cl-amidine (80 mg/kg; Supplementary Table 2). Treatment
+was performed immediately after injury and changes at the morpho-
+logical level and in apoptosis were assessed 24 h later (Fig. 6). All
+embryos treated with Cl-amidine displayed a significant reduction
+in cavity size at 24 h after injury (Figs. 6A–C). Apoptosis was also
+s. F95 is red and nuclear counterstain is blue. A) Hematoxylin and eosin (H&E) staining
+hemorrhage. B) F95 staining (section from the same spinal cord shown in (A; region
+rrhage (*). C) H&E staining of E15 spinal cord two hours after injury. D) F95 staining
+at 2 h close to the injury site as more easily observed at high magnification (D′). Scale
+regulated following injury at E15, the Ca++-dependent transcripts
+differently expressed in response to injury were up-regulated. Among
+them, only annexin 1 displayed greater up-regulation after injury at
+E11 than at E15. The precise role of annexins in neural injury remains
+to be elucidated (Liu et al., 2004), but given suggestions that annexin 1
+plays a neuroprotective role following cerebral ischaemia (Gavins et
+al., 2007; Solito et al., 2008), its up-regulation in injured E11 spinal
+cord may contribute to the high regenerative ability at this stage of
+development. Significant up-regulation of members of the S100
+family was observed in E15 injured spinal cords. The greater up-
+regulation at E15 of calcyclin (S100A6), that has been associated with
+astrogliosis (Lesniak et al., 2009; Yachnis et al., 1993; Yamashita et al.,
+1999), may be due to the increase in astrocyte number with devel-
+opment and consequently greater astrogliotic response following
+injury. Altogether, the changes in the expression of Ca++-dependent
+molecules revealed by our screen reflect the changes in apoptosis and
+the degree of spinal cord damage occurring at the two developmental
+stages studied, strengthening the view that early response to injury is
+developmentally regulated and plays a crucial role in neural repair.
+PAD and deimination modulate secondary injury response
+PAD activity, resulting in protein deimination, has been recently
+suggested to play a role in a number of autoimmune diseases, including
+210 S. Lange et al. / Developmental Biology 355 (2011) 205–214significantly reduced in Cl-amidine treated embryos (Figs. 6D–F), as
+observed following treatment with BAPTA (Fig. 1). Furthermore,
+whereas NeuN staining was largely reduced at the injury site in
+controls, its expression was still high in Cl-amidine treated injured
+spinal cords (Figs. 6G-I). Reduction in apoptosis and tissue loss was
+observed also when Cl-amidine was applied two hours after injury,
+when up-regulation of deimination and tissue disruption is already
+observed rather than at the time of injury (Figs. 7A–F).
+We also examined the effect of Cl-amidine treatment on abun-
+dance of deiminated histone 3 (CitH3) that was identified as a PAD
+target by mass-spectrometry analysis of deiminated proteins immu-
+noprecipitated by F95 (Fig. 8A) and also by the anti-PAD3 antibody
+(Supplementary Table 1). Immunostaining for CitH3, was greatly
+reduced in Cl-amidine-treated spinal cords as compared to untreated
+controls (Figs. 8B–C).
+Discussion
+This study has identified PAD3 as a developmentally-regulated
+enzyme, expressed both in progenitors and mature neural cells that
+appears to be an important player in the early spinal cord injury
+response and in modulating its severity.
+Secondary injury in non-regenerating chick spinal cord is reduced by
+decreasing intracellular Ca++
+Reduction in the secondary injury response is a first crucial step
+towards improving repair within a damaged central nervous system.
+It is well established that initial necrotic cell death induced by
+mechanical injury is followed by more extensive tissue loss due to a
+secondary injury response involving apoptotic neural cell death, both
+in mammals and birds, and that its extent is related to functional
+recovery (Basso et al., 1996; Beattie et al., 2000; Liu et al., 1997;
+McBride et al., 2003; Whalley et al., 2006). The elevation in intra-
+cellular free calcium levels following neural injury is known to play a
+key role in this response in non-regenerating mammalian models. We
+Fig. 4.Western blot of proteins from individual E11 and E15 sham-operated and injured
+spinal cords 2 h after surgery. Deiminated proteins detected by F95 are shown in the
+upper panel and the loading protein control in the lower panel.have now shown this to also be the case in the E15 injured chick
+spinal cord, as indicated by the ability of the Ca++ chelator BAPTA to
+decrease apoptotic response and cavity size to an extent comparable
+to that observed at stages of development permissive for regenera-
+tion. Furthermore, reduced tissue loss and continuity of axons, though
+somehow less well organized, is observed 4 days after spinal cord
+crush in BAPTA-treated spinal cords. Whether this is due to axon
+sparing or axon regeneration, or both, is currently not clear, and it will
+require further investigation.
+Ca++-dependent molecules are differently up-regulated following
+neural injury at permissive and non-permissive stages for regeneration
+Ca++ influx can affect several apoptosis associated molecules.
+With the exception of calbidin, KCNIP4 and FSTL4 that were down-Fig. 5. Detection of deiminated proteins and PAD3 in injured E11 and E15 spinal cords.
+F95 is red and nuclear counterstain is blue A–C) Double-labeling for F95 (red) and NeuN
+(A), GFAP (B) and MBP (C) (all green) in E15 spinal cords 24 h after injury. D) Double-
+labeling for PAD3 (red) and MBP (green) in E15 spinal cords 24 h after injury.
+E) Double-labeling for F95 (red) and TUNEL (green) in E11 spinal cord 24 hors post-
+injury. F) Double-labeling for PAD3 (red) and TUNEL (green) in E15 24 h post-injury.
+Scale bars=20 μm (A–C, E,F); 10 μm (D).
+211S. Lange et al. / Developmental Biology 355 (2011) 205–214multiple sclerosis, indicating a role for members of this family in the
+central nervous system(Chavanas et al., 2004;Doyle andMamula, 2005;
+Gyorgy et al., 2006; Suzuki et al., 2007). All members of the PAD family
+are expressed to some extent in the mammalian nervous system, with
+theexceptionof PAD6 (also knownasePAD), thoughPAD2 is considered
+to be the main brain PAD (Esposito et al., 2007; Keilhoff et al., 2008;
+Shimada et al., 2010; Vossenaar et al., 2003). PAD4, like PAD2, has been
+detected in myelin, and it has also been shown to translocate to the
+nucleus where it can deiminate histones, while PAD3 expression was
+found in Schwann cells and nuclei of some cultured cerebellar neurons
+(Keilhoff et al., 2008; Mastronardi and Moscarello, 2005; Mastronardi
+et al., 2006; Wood et al., 2008). Only 3 PAD genes, the homologues
+of mammalian PAD1, 2 and 3, appear to be present in the chick
+(Balandraud et al., 2005; Chavanas et al., 2004; Vossenaar et al., 2003).
+Chick PAD3 protein shares a similar degree of amino acid identity with
+humanPAD3andPAD4, 57%and55%, respectively.Wehave shownhere
+that chick PAD3 is expressed in the spinal cord and its expression
+increases between the regeneration-permissive and non-permissive
+stages of development examined. PAD3 protein is detected both in
+nucleus and cytoplasm, and identification of nuclear and cytoplasmic
+targets by mass spectrometry analysis of PAD3-bound proteins is
+consistent with PAD3 activity in both cell compartments. In addition to
+its expression in the nervous system, PAD3, like its mammalian
+counterpart (Chavanas et al., 2006), is strongly expressed in the skin
+(not shown). Nuclear localization of PAD3 suggests similarities with
+PAD4, which has been shown to deiminate histones (Cuthbert et al.,
+2004; Wang et al., 2004, 2009). Altogether, chick PAD3 expression
+appears to encompass some features of mammalian PAD2, 3 and PAD4,
+Fig. 6. Effect of Cl-amidine treatment on E15 chick spinal cords 24 h after injury assessed by
+antibody and for apoptosis by TUNEL (D–E). A) Control spinal cord injury; note large cavity
+size. C) Quantitative analysis of cavity size (n=6; m±sd); note significant reduction (ANOV
+of injured control spinal cord; note extensive deimination and apoptosis. E) F95 (red) and TU
+of the dotted box in (E); note the reduction in both deimination and apoptosis in the treated
+cell double-labeled for TUNEL and F95. F) Density of TUNEL-positive cells in control and Cl-am
+boxes indicate the scoring criteria used to evaluate the extent of apoptosis from very low/ne
+Cl-amidine treatment close to the injury side and absence of TUNEL-positive cells from 2 mm
+stained for NeuN; no NeuN reactivity is detected close to the injury site, though some positive
+cord; note that NeuN reactivity is maintained close to the injury site unlike in PBS controlsand it will be interesting to establish whether there is a correlation
+between expansion of this gene family and the function of individual
+members with evolution.
+In the context of spinal cord repair in the chick, PAD3 mRNA is up-
+regulated to a greater extent in response to injury at the non-
+permissive stage for regeneration, and this is mirrored by increased
+enzyme activity, as indicated by the extensive deimination observed
+after injury at E15. Altogether, the regenerative ability of the spinal
+cord appears to be associated with low levels and a later onset of
+deimination, since in E11 injured cords, unlike in E15, deimination is
+not detectable at two hours and is relatively low at 24 h. Additional
+evidence for an early role of protein deimination in response to injury
+comes from analysis of deimination in relation to the apoptotic
+response previously reported in non-regenerating spinal cords
+(McBride et al., 2003; Whalley et al., 2006). Apoptotic cells identified
+by TUNEL are not yet detectable six hours after injury at E15, but the
+injured region contains many TUNEL-positive cells by eight hours
+(Whalley et al., 2006), while cells labeled for deimination are detected
+several hours earlier. Although TUNEL is a relatively late marker of
+apoptosis, these results suggest that up-regulation of deimination
+represent an early response to spinal cord damage. This is also
+consistent with in vitro experiments in which increase in intracellular
+Ca++ following thapsigargin treatment of cultured neural cells was
+found to induce a rapid increase in protein deimination (not shown).
+Conversely, when intracellular Ca++ is decreased by BAPTA in injured
+E15 spinal cords, neural damage is reduced, as reported in other injury
+models (Tymianski et al., 1993). Significantly, the reduction in
+secondary injury response in spinal cords treated with a PAD inhibitor
+hematoxylin and eosin staining (A–B), co-labeling for deiminated proteins with the F95
+. B) Injured spinal cord treated with 80 mg/Kg Cl-amidine; note the reduction in cavity
+A, p≤0.001) following Cl-amidine treatment. D) F95 (red) and TUNEL (green) labeling
+NEL (green) labeling of injured Cl-amidine-treated spinal cord. E′) Higher magnification
+spinal cord; the white arrowhead points to an apoptotic cell and the yellow arrow to a
+idine-treated animals scored at different distances from the injury (n=4; m±sd). The
+gative (1) to high (4). Note significant reduction (* p≤0.04; Student's t-test) following
+from the injury site in Cl-amidine-treated spinal cords. G–H) Control spinal cord injury
+neurons can be detected distal from the injury site. I) Cl-amidine-treated injured spinal
+. Scale bars=260 µm (A,B,D); 130 µm (E); 65 μm (E’); 100 μm (G, I); 250 μm (H).
+sed
+l cor
+mid
+in C
+212 S. Lange et al. / Developmental Biology 355 (2011) 205–214is comparable to that observed following BAPTA treatment. Impair-
+ment of Ca++ homeostasis following injury is known to affect several
+intracellular processes, including release of free radicals from mito-
+chondria, leading to activation of a number of independent death
+programs. It is therefore remarkable that PAD inhibition is able to
+counteract much of this response. Indeed whereas the neuronal
+marker, NeuN, rapidly disappears almost completely at the peri-injury
+site in untreated spinal cords, it is still detectable in Cl-amidine
+treated spinal cords. Altogether, our findings suggest that PAD3 is an
+important mediator of Ca++-dependent damage both in neurons and
+oligodendrocytes, where PAD3 is also detected. The large population
+of mature oligodendrocytes and myelination present at E15 but not at
+E11 is likely to contribute to the extensive tissue loss observed in E15
+injured spinal cords (McBride et al., 2003). This together with the fact
+that myelin-associated proteins are known PAD targets (Harauz and
+Musse, 2007) suggests that oligodendrocyte sparing following PAD
+inhibition may greatly contribute to reduced cavity size. The possible
+Fig. 7. Effect of Cl-amidine administration 2 h after spinal cord injury in E15 chick asses
+proteins with the F95 antibody (C–D) and for apoptosis by TUNEL (E–F). A) Control spina
+in cavity size as indicated by boxed area. C-D) F95 labeling of injured control (C) and Cl-a
+treated (F) spinal cords. Note that both deimination and apoptosis are greatly reducedinvolvement of deimination in astrocytic response is currently not
+clear, as poor staining in injured spinal cord sections due to the
+extensive tissue damage and the lack of suitable antibodies to double-
+stain for GFAP and PAD3 did not allow extensive analysis of this cell
+population.
+We cannot rule out at this stage that other PADs may also play a
+role in the calcium-dependent secondary injury response, as the
+inhibitor used is not highly selective for PAD3. However, the dif-
+ferential up-regulation of PAD3 in regenerating and non-regenerating
+spinal cords is consistent with a crucial role for this PAD in the early
+response to injury at least in the chick. While PADs have been im-
+plicated in a number of neurodegenerative diseases, this to our
+knowledge is the first evidence that they can be key mediators of
+secondary injury response.
+Given the limited repair ability of the CNS, the prospect of ad-
+ministering pharmacologic agents shortly after injury to reduce cellular
+and functional loss is very attractive. Several cellular processes arefinely
+tuned by Ca++ levels, and disruption of Ca++ homeostasis occurs
+within minutes after injury contributing to secondary injury response,
+for example by activating apoptotic pathways and impairingmitochon-
+drial function. In a clinical context, modulation of Ca++-dependent
+effectors of neural damage that display prolonged activity following
+spinal cord injury can represent a more viable and effective alternative
+than modulation of Ca++ levels, that has not proven very successful in
+clinical trials (Horn and Limburg, 2001; Szydlowska and Tymianski,2010). Indeed, both PAD mRNA levels and PAD activity are still much
+higher in injured E15 spinal cords than in normal tissue several hours
+after injury, when apoptosis is still occurring. The fact that administra-
+tion of the PAD inhibitor after injury can still reduce tissue loss and
+apoptosis suggests that there may be a window for intervention for
+targeting PAD following spinal cord injury. This important issue will
+require in depth evaluation.
+Analysis of PAD targets can both provide valuable information on
+mechanisms underlying changes in injury response with develop-
+ment and help to identify additional potential targets for intervention.
+Histone modifications are important modulators of several key
+processes including cell death and survival. Significantly, PADs have
+been recently proposed as regulators of other histone modifications
+(Cuthbert et al., 2004; Denis et al., 2009; Li et al., 2010; Wang et al.,
+2004). The fact that H3 is deiminated in response to spinal cord injury
+and that reduction in H3 deimination following Cl-amidine treatment
+parallels reduction in apoptosis suggests a possible epigenetic role for
+24 h after injury by hematoxylin and eosin staining (A–B) and labeling for deiminated
+d injury; note large cavity. B) Cl-amidine-treated injured spinal cord; note the reduction
+ine-treated (D) spinal cords; E-F) TUNEL labeling of injured control (E) and Cl-amidine-
+l-amidine-treated injured spinal cords. Scale bars=200 μm (A,B); 500 μm (C–F).this histone post-translational modification in early injury response
+that will deserve further investigation.
+Conclusions
+Developmentally regulated mediators of calcium-dependent pro-
+cesses in secondary injury response may contribute to loss of
+regenerative ability. In particular, this study has identified PAD3 as
+one of these mediators in the developing spinal cord and highlighted
+the importance of deimination in spinal cord injury response. Indeed,
+post-translational modifications are emerging as key players in the
+regulation of many cellular processes and we propose a role for
+deimination in modulating the extent of injury-induced neural tissue
+damage with development. Identification of this novel role for PAD
+activity in spinal cord injury, together with the possibility of mod-
+ulating it pharmacologically with a compound that appears to display
+little toxicity in vivo (unlike calcium chelators), may open new
+avenues to reducing tissue damage in injured spinal cords.
+Supplementarymaterials related to this article can be found online
+at doi:10.1016/j.ydbio.2011.04.015.
+Acknowledgments
+This work was supported by the BBSRC.
+afte
+nal c
+opt
+(B-B
+213S. Lange et al. / Developmental Biology 355 (2011) 205–214References
+Balandraud, N., Gouret, P., Danchin, E.G., Blanc, M., Zinn, D., Roudier, J., Pontarotti, P.,
+2005. A rigorousmethod formultigenic families' functional annotation: the peptidyl
+arginine deiminase (PADs) proteins family example. BMC Genomics 6, 153.
+Basso, D.M., Beattie, M.S., Bresnahan, J.C., 1996. Graded histological and locomotor
+outcomes after spinal cord contusion using the NYU weight-drop device versus
+transection. Exp. Neurol. 139, 244–256.
+Beattie, M.S., Farooqui, A.A., Bresnahan, J.C., 2000. Review of current evidence for
+apoptosis after spinal cord injury. J. Neurotrauma 17, 915–925.
+Blackmore, M., Letourneau, P.C., 2006. Changes within maturing neurons limit axonal
+regeneration in the developing spinal cord. J. Neurobiol. 66, 348–360.
+Cao, L., Sun, D., Whitaker, J.N., 1998. Citrullinated myelin basic protein induces
+experimental autoimmune encephalomyelitis in Lewis rats through a diverse T cell
+repertoire. J. Neuroimmunol. 88, 21–29.
+Chavanas, S., Mechin, M.C., Takahara, H., Kawada, A., Nachat, R., Serre, G., Simon, M.,
+2004. Comparative analysis of the mouse and human peptidylarginine deiminase
+gene clusters reveals highly conserved non-coding segments and a new human
+gene, PADI6. Gene 330, 19–27.
+Chavanas, S., Mechin, M.C., Nachat, R., Adoue, V., Coudane, F., Serre, G., Simon, M., 2006.
+Peptidylarginine deiminases and deimination in biology and pathology: relevance
+to skin homeostasis. J. Dermatol. Sci. 44, 63–72.
+Cuthbert, G.L., Daujat, S., Snowden, A.W., Erdjument-Bromage, H., Hagiwara, T.,
+Yamada, M., Schneider, R., Gregory, P.D., Tempst, P., Bannister, A.J., Kouzarides, T.,
+2004. Histone deimination antagonizes arginine methylation. Cell 118, 545–553.
+Denis, H., Deplus, R., Putmans, P., Yamada, M., Metivier, R., Fuks, F., 2009. Functional
+Fig. 8. Effect of Cl-amidine treatment on H3 deimination in E15 chick spinal cords 24 h
+protein fractions from 1) E11 sham-operated, 2) E15 sham-operated and E15 injured spi
+injured region in E15 spinal cords (arrows) and commonly associated with nuclei of ap
+decreased expression of CitH3 around the injury site (box enlarged in C′) compared toconnection between deimination and deacetylation of histones. Mol. Cell. Biol. 29,
+4982–4993.
+Doyle, H.A., Mamula, M.J., 2005. Posttranslational modifications of self-antigens. Ann. N.
+Y. Acad. Sci. 1050, 1–9.
+Esposito, G., Vitale, A.M., Leijten, F.P., Strik, A.M., Koonen-Reemst, A.M., Yurttas, P.,
+Robben, T.J., Coonrod, S., Gossen, J.A., 2007. Peptidylarginine deiminase (PAD) 6 is
+essential for oocyte cytoskeletal sheet formation and female fertility. Mol. Cell.
+Endocrinol. 273, 25–31.
+Ferretti, P., Whalley, K., 2008. Molecular and cellular basis of regeneration and tissue
+repair: successful neural regeneration in amniotes: the developing chick spinal
+cord. Cell. Mol. Life Sci. 65, 45–53.
+Gavins, F.N., Dalli, J., Flower, R.J., Granger, D.N., Perretti, M., 2007. Activation of the
+annexin 1 counter-regulatory circuit affords protection in the mouse brain
+microcirculation. FASEB J. 21, 1751–1758.
+Gögel, S., Lange, S., Leung, K.Y., Greene, N.D.E., Ferretti, P., 2010. Post-translational
+regulation of Crmp in developing and regenerating chick spinal cord. Dev.
+Neurobiol. 70, 456–471.
+Gyorgy, B., Toth, E., Tarcsa, E., Falus, A., Buzas, E.I., 2006. Citrullination: a posttransla-
+tional modification in health and disease. Int. J. Biochem. Cell Biol. 38, 1662–1677.
+Harauz, G., Musse, A.A., 2007. A tale of two citrullines—structural and functional aspects
+of myelin basic protein deimination in health and disease. Neurochem. Res. 32,
+137–158.
+Hasan, S.J., Nelson, B.H., Valenzuela, J.I., Keirstead, H.S., Shull, S.E., Ethell, D.W., Steeves, J.D.,
+1991. Functional repair of transected spinal cord in embryonic chick. Restor. Neurol.
+Neurosci. 2, 137–154.
+Horn, J., Limburg, M., 2001. Calcium antagonists for ischemic stroke: a systematic
+review. Stroke 32, 570–576.
+Inman, D., Guth, L., Steward, O., 2002. Genetic influences on secondary degeneration
+and wound healing following spinal cord injury in various strains of mice. J. Comp.
+Neurol. 451, 225–235.Keilhoff, G., Prell, T., Langnaese, K., Mawrin, C., Simon, M., Fansa, H., Nicholas, A.P., 2008.
+Expression pattern of peptidylarginine deiminase in rat and human Schwann cells.
+Dev. Neurobiol. 68, 101–114.
+Keirstead, H.S., Hasan, S.J., Muir, G.D., Steeves, J.D., 1992. Suppression of the onset of
+myelination extends the permissive period for the functional repair of embryonic
+spinal cord. Proc. Natl Acad. Sci. U. S. A. 89, 11664–11668.
+Knuckley, B., Luo, Y., Thompson, P.R., 2008. Profiling Protein Arginine Deiminase 4
+(PAD4): a novel screen to identify PAD4 inhibitors. Bioorg. Med. Chem. 16,
+739–745.
+Lesniak,W., Slomnicki, L.P., Filipek, A., 2009. S100A6— new facts and features. Biochem.
+Biophys. Res. Commun. 390, 1087–1092.
+Li, P., Wang, D., Yao, H., Doret, P., Hao, G., Shen, Q., Qiu, H., Zhang, X., Wang, Y., Chen, G.,
+Wang, Y., 2010. Coordination of PAD4 and HDAC2 in the regulation of p53-target
+gene expression. Oncogene 29, 3153–3162.
+Liu, X.Z., Xu, X.M., Hu, R., Du, C., Zhang, S.X.,McDonald, J.W., Dong, H.X.,Wu, Y.J., Fan, G.S.,
+Jacquin, M.F., Hsu, C.Y., Choi, D.W., 1997. Neuronal and glial apoptosis after
+traumatic spinal cord injury. J. Neurosci. 17, 5395–5406.
+Liu, N., Han, S., Lu, P.H., Xu, X.M., 2004. Upregulation of annexins I, II, and V after
+traumatic spinal cord injury in adult rats. J. Neurosci. Res. 77, 391–401.
+Luo, Y., Knuckley, B., Lee, Y.H., Stallcup, M.R., Thompson, P.R., 2006. A fluoroacetami-
+dine-based inactivator of protein arginine deiminase 4: design, synthesis, and in
+vitro and in vivo evaluation. J. Am. Chem. Soc. 128, 1092–1093.
+Mastronardi, F.G., Moscarello, M.A., 2005. Molecules affecting myelin stability: a novel
+hypothesis regarding the pathogenesis of multiple sclerosis. J. Neurosci. Res. 80,
+301–308.
+Mastronardi, F.G., Wood, D.D., Mei, J., Raijmakers, R., Tseveleki, V., Dosch, H.M., Probert,
+L., Casaccia-Bonnefil, P., Moscarello, M.A., 2006. Increased citrullination of histone
+r injury. A) Western blot detecting histone 3 (H3) in immunoprecipitated deiminated
+ords. B-B′) Control injured spinal cord; deiminated H3 (CitH3, green) is detected in the
+otic morphology (see inset). C-C′) Cl-amidine-treated injured spinal cord; note greatly
+′). Scale bars=260 μm (B,C), 20 μm (inset in B′), 65 μm (C′).H3 inmultiple sclerosis brain and animal models of demyelination: a role for tumor
+necrosis factor-induced peptidylarginine deiminase 4 translocation. J. Neurosci. 26,
+11387–11396.
+McBride, C.B., McPhail, L.T., Vanderluit, J.L., Tetzlaff, W., Steeves, J.D., 2003. Caspase
+inhibition attenuates transection-induced oligodendrocyte apoptosis in the
+developing chick spinal cord. Mol. Cell. Neurosci. 23, 383–397.
+Nachat, R., Mechin, M.C., Takahara, H., Chavanas, S., Charveron, M., Serre, G., Simon, M.,
+2005. Peptidylarginine deiminase isoforms 1–3 are expressed in the epidermis and
+involved in the deimination of K1 and filaggrin. J. Invest. Dermatol. 124, 384–393.
+Nicholas, A.P., Whitaker, J.N., 2002. Preparation of a monoclonal antibody to
+citrullinated epitopes: its characterization and some applications to immunohis-
+tochemistry in human brain. Glia 37, 328–336.
+Nicholas, A.P., King, J.L., Sambandam, T., Echols, J.D., Gupta, K.B., McInnis, C., Whitaker, J.N.,
+2003. Immunohistochemical localization of citrullinated proteins in adult rat brain.
+J. Comp. Neurol. 459, 251–266.
+Nicholas, A.P., Sambandam, T., Echols, J.D., Barnum, S.R., 2005. Expression of citrullinated
+proteins in murine experimental autoimmune encephalomyelitis. J. Comp. Neurol.
+486, 254–266.
+Norberg, E., Gogvadze, V., Ott, M., Horn, M., Uhlen, P., Orrenius, S., Zhivotovsky, B., 2008.
+An increase in intracellular Ca2+ is required for the activation of mitochondrial
+calpain to release AIF during cell death. Cell Death Differ. 15, 1857–1864.
+Orrenius, S., Zhivotovsky, B., Nicotera, P., 2003. Regulation of cell death: the calcium-
+apoptosis link. Nat. Rev. Mol. Cell Biol. 4, 552–565.
+Raijmakers, R., Vogelzangs, J., Raats, J., Panzenbeck, M., Corby, M., Jiang, H., Thibodeau,
+M., Haynes, N., van Venrooij, W.J., Pruijn, G.J., Werneburg, B., 2006. Experimental
+autoimmune encephalomyelitis induction in peptidylarginine deiminase 2 knock-
+out mice. J. Comp. Neurol. 498, 217–226.
+Shimada, N., Handa, S., Uchida, Y., Fukuda, M., Maruyama, N., Asaga, H., Choi, E.K., Lee, J.,
+Ishigami, A., 2010. Developmental and age-related changes of peptidylarginine
+deiminase 2 in the mouse brain. J. Neurosci. Res. 88, 798–806.
+Shimizu, I., Oppenheim, R.W., Obrien, M., Shneiderman, A., 1990. Anatomical and
+functional recovery following spinal cord transection in thechick embryo. J. Neurobiol.
+21, 918–937.
+Solito, E., McArthur, S., Christian, H., Gavins, F., Buckingham, J.C., Gillies, G.E., 2008.
+Annexin A1 in the brain—undiscovered roles? Trends Pharmacol. Sci. 29, 135–142.
+Suzuki, A., Yamada, R., Yamamoto, K., 2007. Citrullination by peptidylarginine
+deiminase in rheumatoid arthritis. Ann. N. Y. Acad. Sci. 1108, 323–339.
+Szydlowska, K., Tymianski, M., 2010. Calcium, ischemia and excitotoxicity. Cell Calcium
+47, 122–129.
+Tymianski, M., Wallace, M.C., Spigelman, I., Uno, M., Carlen, P.L., Tator, C.H., Charlton, M.
+P., 1993. Cell-permeant Ca2+ chelators reduce early excitotoxic and ischemic
+neuronal injury in vitro and in vivo. Neuron 11, 221–235.
+Velardo, M.J., Reier, P.J., Anderson, D.K., 2000. Spinal cord injury. In: Crockard, A., et al.
+(Ed.), Neurosurgery. : The scientific basis of clinical practice, vol. 1. Blackwell
+Scientific, Oxford, pp. 499–515.
+Vossenaar, E.R., Zendman, A.J., van Venrooij, W.J., Pruijn, G.J., 2003. PAD, a growing
+family of citrullinating enzymes: genes, features and involvement in disease.
+Bioessays 25, 1106–1118.
+Wang, H.G., Pathan, N., Ethell, I.M., Krajewski, S., Yamaguchi, Y., Shibasaki, F., McKeon,
+F., Bobo, T., Franke, T.F., Reed, J.C., 1999. Ca2+−induced apoptosis through
+calcineurin dephosphorylation of BAD. Science 284, 339–343.
+Wang, Y., Wysocka, J., Sayegh, J., Lee, Y.H., Perlin, J.R., Leonelli, L., Sonbuchner, L.S.,
+McDonald, C.H., Cook, R.G., Dou, Y., Roeder, R.G., Clarke, S., Stallcup, M.R., Allis, C.D.,
+Coonrod, S.A., 2004. Human PAD4 regulates histone arginine methylation levels via
+demethylimination. Science 306, 279–283.
+Wang, Y., Li, M., Stadler, S., Correll, S., Li, P., Wang, D., Hayama, R., Leonelli, L., Han, H.,
+Grigoryev, S.A., Allis, C.D., Coonrod, S.A., 2009. Histone hypercitrullinationmediates
+chromatin decondensation and neutrophil extracellular trap formation. J. Cell Biol.
+184, 205–213.
+Whalley, K., O'Neill, P., Ferretti, P., 2006. Changes in response to spinal cord injury with
+development: vascularization, haemorrhage and apoptosis. Neuroscience 137, 821–832.
+Whalley, K., Gogel, S., Lange, S., Ferretti, P., 2009. Changes in progenitor populations and
+ongoing neurogenesis in the regenerating chick spinal cord. Dev. Biol. 332, 234–245.
+Wood, D.D., Ackerley, C.A., Brand, B., Zhang, L., Raijmakers, R., Mastronardi, F.G.,
+Moscarello, M.A., 2008. Myelin localization of peptidylarginine deiminases 2 and 4:
+comparison of PAD2 and PAD4 activities. Lab. Invest. 88, 354–364.
+Yachnis, A.T., Rorke, L.B., Lee, V.M., Trojanowski, J.Q., 1993. Expression of neuronal and
+glial polypeptides during histogenesis of the human cerebellar cortex including
+observations on the dentate nucleus. J. Comp. Neurol. 334, 356–369.
+Yamashita, N., Ilg, E.C., Schafer, B.W., Heizmann, C.W., Kosaka, T., 1999. Distribution of a
+specific calcium-binding protein of the S100 protein family, S100A6 (calcyclin), in
+subpopulations of neurons and glial cells of the adult rat nervous system. J. Comp.
+Neurol. 404, 235–257.
+Ying, S., Dong, S., Kawada, A., Kojima, T., Chavanas, S., Mechin, M.C., Adoue, V., Serre, G.,
+Simon, M., Takahara, H., 2009. Transcriptional regulation of peptidylarginine
+deiminase expression in human keratinocytes. J. Dermatol. Sci. 53, 2–9.
+Zhang, Z., Fujiki, M., Guth, L., Steward, O., 1996. Genetic influences on cellular reactions
+to spinal cord injury: a wound-healing response present in normal mice is impaired
+in mice carrying a mutation (WldS) that causes delayed Wallerian degeneration.
+J. Comp. Neurol. 371, 485–495.
+214 S. Lange et al. / Developmental Biology 355 (2011) 205–214

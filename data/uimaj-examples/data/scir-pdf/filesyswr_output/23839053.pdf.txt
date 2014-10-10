@@ -1,0 +1,558 @@
+Neurosci Bull    August 1, 2013, 29(4): 477–483. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1359-2 477
+·Review·
+Combination treatment with chondroitinase ABC in spinal cord 
+injury—breaking the barrier
+Rong-Rong Zhao, James W Fawcett
+Brain Repair Centre, University of Cambridge, UK
+Corresponding author: James W Fawcett. E-mail: jf108@cam.ac.uk
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+After spinal cord injury (SCi), re-establishing functional circuitry in the damaged central nervous system (CNS) 
+faces multiple challenges including lost tissue volume, insufficient intrinsic growth capacity of adult neurons, 
+and the inhibitory environment in the damaged CNS. Several treatment strategies have been developed 
+over the past three decades, but successful restoration of sensory and motor functions will probably require 
+a combination of approaches to address different aspects of the problem. Degradation of the chondroitin 
+sulfate proteoglycans with the chondroitinase ABC (ChABC) enzyme removes a regeneration barrier from the 
+glial scar and increases plasticity in the CNS by removing perineuronal nets. its mechanism of action does 
+not clash or overlap with most of the other treatment strategies, making ChABC an attractive candidate as a 
+combinational partner with other methods. in this article, we review studies in rat SCi models using ChABC 
+combined with other treatments including cell implantation, growth factors, myelin-inhibitory molecule blockers, 
+and ion channel expression. We discuss possible ways to optimize treatment protocols for future combinational 
+studies. To date, combinational therapies with ChABC have shown synergistic effects with several other 
+strategies in enhancing functional recovery after SCi. These combinatorial approaches can now be developed 
+for clinical application.
+Keywords: spinal cord injury; combination treatment; chondroitinase ABC; chondroitin sulfate proteoglycan; 
+rehabilitation; plasticity; axon regeneration
+Introduction
+Spinal cord injury (SCi) patients are usually left disabled for 
+life. The two primary causes of SCi are vehicle accidents 
+and falling from heights. Along with the rapid economic 
+growth in China, the rate of SCi occurrence in Beijing has 
+rapidly increased 10 times from 6.8 per million in the 1980s 
+to 60.6 per million in 2002[1].
+Following SCi, the challenge of restoring central 
+nervous system (CNS) function faces difficulties in multiple 
+areas. Research in the past three decades has provided 
+several potential solutions by addressing different aspects 
+of the problem. The strategies developed have included 
+cell implantation, neurotrophin supplementation, and 
+treatments to increase CNS plasticity. However, due to the 
+complexity of the injured spinal cord, a single-treatment 
+approach will probably not be sufficient to restore full 
+functionality. in this review, we focus on studies of treatment 
+with chondroitinase ABC (ChABC) combined with cell 
+implantation, neurotrophic factors, neuroprotective agents, 
+and myelin inhibitor antibodies. We first describe the effect 
+and mechanism of ChABC treatment alone, and the viral 
+vector delivery methods. Then we focus on combinational 
+studies, especially the problems arising from the variability 
+in SCi lesion models and their anatomical and behavioral 
+readouts. Furthermore, in order to make clinically-relevant 
+treatment designs, rehabilitation must be incorporated into 
+the combination paradigm. in the last section, we discuss 
+the topics of combination of rehabilitation with ChABC, 
+and the possibility of using a consistent model for future 
+combinational treatment experimental design.
+Neurosci Bull     August 1, 2013, 29(4): 477–483478
+Chondroitinase ABC: Mechanism of Action
+Chondroitin sulfate proteoglycans (CSPGs) are a major 
+component of the normal CNS extracellular matrix (ECM) 
+with diverse functional roles. After lesions, CSPGs are 
+upregulated several-fold, peaking at between 10 to 14 days 
+post-lesion[2]. Together with activated glial cells, the CSPGs 
+form a dense layer of glial scar inhibitory to axon growth, 
+and much of this inhibition is due to the activity of the 
+glycosaminoglycan (GAG) chains[3]. in addition, CSPGs are 
+major components of the perineuronal nets (PNNs), which 
+are dense ECM structures that form around many neuronal 
+cell bodies and dendrites late in development[4, 5].
+in the spinal cord, PNNs surround ~30% of motoneurons 
+in the ventral horn, 50% of large interneurons in the 
+intermediate grey, and 20% of neurons in the dorsal horn[4], 
+while in the brain they are particularly associated with 
+inhibitory GABAergic interneurons. The PNNs in the visual 
+cortex form in the second week of postnatal development, 
+which coincides with closure of the critical period for visual 
+functions[6]. Formation of these structures and the turning 
+off of plasticity are triggered by impulse activity in neurons. 
+Treatment with ChABC removes PNNs and reopens a 
+window of CNS plasticity by promoting axon sprouting and 
+the formation of new connections[7].
+ChABC is a bacterial enzyme isolated from Proteus 
+vulgaris[8]. it degrades CSPGs by cleaving the GAG chains 
+into soluble disaccharides or tetrasaccharides, and leaves 
+behind the core protein. This enzymatic digestion results in 
+the release of bound growth factors from chondroitin sulfate 
+GAG chains[9], and reduction of the glial scar neoepitope-
+induced immune response[10]. Also, one of the digestion 
+products, the chondroitin sulfate E-disaccharide, is growth-
+promoting[11]. The enzyme remains active in vivo for 10 days 
+after injection. in injured spinal cord, intraspinal injection 
+of ChABC 1 mm above and 1 mm below the lesion causes 
+extensive digestion by ChABC covering >5 mm around the 
+lesion site rostro-caudally and 1.5 mm dorso-ventrally[12].
+ChABC has been shown in many in vitro and in vivo 
+models to be an effective treatment for improving axonal 
+regeneration and sprouting, and for promoting functional 
+recovery in acute and chronic SCi in various animal 
+models[13-17]. in animal experiments, ChABC treatment 
+allows some axons to regenerate through the lesion, and 
+leads to an increased sprouting response in both lesioned 
+and spared systems after SCi[18]. ChABC also digests the 
+PNNs[19], and opens a window of plasticity which allows 
+effective acquisition of motor skills with rehabilitation[12, 16]. 
+importantly, none of the sprouting responses seen after 
+ChABC treatment have led to increased pain sensitivity.
+Viral Vector-mediated ChABC Delivery
+Both lentiviral (LV) and adeno-associated virus (AAV) 
+vector tools have been developed to deliver ChABC into 
+the mammalian CNS[20]. The ChABC gene of bacterial 
+origin has been modified to enable the production of active 
+chondroitinase by mammalian cells. injection of LV-ChABC 
+into the cortex or spinal cord results in the secretion of 
+active ChABC both locally and from long-distance axon 
+projections, with activity persisting for >4 weeks, and AAV-
+ChABC has an even longer active period. in SCi models, 
+the same beneficial effects on damaged corticospinal axons 
+as ChABC were observed in animals which received LV-
+ChABC injection directly into the vicinity of a spinal cord lesion. 
+Due to the advantages of a longer-lasting effect and ease of 
+administration, LV- or AAV-ChABC may be considered as a 
+substitute for ChABC in combinational studies.
+Combinatorial Treatments with Cells, Growth Factors, 
+Ion Channels, Myelin Inhibitor Blockers and ChABC
+in moderate or severe SCi, a cavity is formed due to tissue 
+loss. Implants used to refill the space include tissue bridges 
+or cells such as Schwann cells, olfactory ensheathing 
+cells (oECs), neural progenitor cells, umbilical cord blood-
+derived cells, mesenchymal stem cells, and induced 
+pluripotent stem cells[21]. The main issues with this strategy 
+are cell survival, differentiation, incorporation, and exit of 
+regenerated axons from the caudal end of the transplant 
+and re-enter into host tissue. Various experiments, 
+summarized below and in Fig. 1B, have combined ChABC 
+with cell implants and with neurotrophic factors to overcome 
+these problems.
+Schwann Cells, OECs and ChABC
+First, in an in vitro model with Schwann cell/astrocyte co-
+culture, degradation or inhibition of CSPGs by ChABC 
+or xylosyltransferase-1, a DNA enzyme against GAG-
+chain-initiating enzyme, allowed mixing of the two cell 
+types[22], and indicated that ChABC treatment improves the 
+Rong-Rong Zhao, et al.    Combination treatment with ChABC in SCi—breaking the barrier 479
+integration of cells implanted into the surrounding tissue by 
+removing the CSPG barrier. This was followed by an in vivo 
+SCi experiment with complete T8 transection, after which 
+oECs or Schwann cells were implanted around or into the 
+lesion, together with prolonged ChABC infusion for four 
+weeks. These combinations significantly improved graft 
+integration and axon regeneration across the lesion, as well 
+as locomotor recovery compared to control or graft alone[21]. 
+This finding was reproduced and additional histological 
+investigation with retrograde tracing showed that axons 
+regenerate across the cell bridge into the caudal spinal 
+cord[23]. Bladder function was also studied in a thoracic 
+transection model, using a similar treatment with Schwann 
+cells, oECs and ChABC[24]. in the combined-treatment 
+group, increased bladder size and decreased amount of 
+disorganized smooth muscle fibers and collagen deposit 
+were found in comparison to the control group.
+Neurotrophins, Neural Progenitor Cells, and 
+ChABC
+in a clip-compression SCi model, a triple-combination 
+study  was  performed  using  implanted  neural precursor 
+cells, ChABC, and a cocktail of epidermal growth factor, 
+fibroblast growth factor, and platelet-derived growth 
+factor[25]. This study showed successful differentiation, 
+migration and integration of neural precursor cells 
+(principally into oligodendrocytes), increased GAP43 levels, 
+and increased plasticity of the corticospinal tract (CST) and 
+serotonergic axons. The Basso, Beattie, and Bresnahan 
+(BBB) score was slightly improved two months after 
+treatment, and a significant improvement in ladder-walking 
+Fig. 1. Schematic depicting the conditions in the spinal cord after injury and strategies developed for treating SCI. A: Typical lesion site 
+of a dorsal column crush injury. Axons retract a few hundred micrometers from the site and form retraction bulbs (black dots); in 
+white mater, myelin inhibitory molecules (orange dots) prevent axons from sprouting or regeneration; around the lesion, activated 
+astrocytes and oligodendrocyte precursors upregulate the CSPG level and form a dense layer of glial scar, which inhibits the grow 
+of regenerating axons through, or for implanted cells to integrate into host tissue. B: Several strategies improve spinal cord repair, 
+including chondroitinase ABC (ChABC) treatment to degrade CSPGs in the glial scar, cell implantation to reconnect the circuitry 
+or provide a tissue bridge for axons to grow through (green spheres), ion channel expression to re-establish neuronal activity to 
+that of the juvenile state (blue dots), and anti-Nogo treatment to block myelin inhibitors. Combinations of these strategies increase 
+axon regeneration and plasticity, as well as re-connection of the circuitry (functional synapses represented by red dots), and 
+improve cell implant survival and integration into host tissue. 
+Neurosci Bull     August 1, 2013, 29(4): 477–483480
+was only found in the group receiving the combination 
+treatment. A later study combined precursor cells, polymer 
+scaffolds, neurotrophin-3 (NT3), and ChABC in a rat 
+hemisection model. Locomotor recovery and motor-evoked 
+potentials following transcranial magnetic stimulation were 
+recorded only in the combination group[26]. Sensitivity tests 
+showed that the treatment did not lead to aberrant sensory 
+responses or post-traumatic neuropathic pain in these 
+experiments.
+in addition, the combination of NT3 and cell implantation 
+with ChABC improved ascending sensory tract regeneration 
+to the targets in the dorsal column nuclei (DCN) after SCi. 
+Sensory neurons implanted between the SCi site and 
+DCN two weeks after injury were able to grow in the white 
+matter tract, but unable to enter the DCN. This problem 
+was partially resolved by ChABC or NT3 alone, but the 
+combination significantly increased the number of axons 
+entering the target region in the brain stem[27].
+Neuroprotective/conditioning Agents and ChABC
+Another approach combined the inflammation-inducing 
+preparation Zymosan and ChABC. in a dorsal root injury 
+model, introducing the conditioning agent to the ganglia 
+before injury, combined with ChABC-induced modification 
+of CSPGs in the dorsal root entry zone (DREZ), resulted in 
+robust regeneration of sensory axons through the DREZ. 
+Functional connectivity was confirmed by electrophysiology. 
+However, the conditioning strategy only worked when 
+applied before, but not after injury[28]. in the same lesion 
+model, the neural regeneration effect of oncomodulin, 
+a Ca2+-binding protein was tested in combination with 
+cAMP and ChABC. The combination resulted in increased 
+regeneration of sensory nerves into the DREZ, but the 
+effect was extremely limited compared to Zymosan[29].
+Another approach combined ChABC and clenbuterol, 
+a beta2-adrenoceptor agonist that has neuroprotective 
+effects, conducted by Bai et al. [30]. in adult rats with 
+complete transection at T10, ChABC was applied acutely 
+and clenbuterol was supplied in the drinking water. ChABC 
+treatment decreased both CSPG and collagen deposition 
+and reduced the gap between intact regions. Activated 
+cAMP response element binding protein (CREB) was found 
+in retrograde tracing-labeled neurons, which regenerated 
+axons through the lesion site. Recovery of locomotor 
+function was observed 2 to 3 months after the lesion and 
+was enhanced in the combined group[30].
+ChABC and N-methyl-D-aspartate (NMDA) 
+Receptor Type
+Previous work has shown that plasticity in motoneurons is 
+increased in the presence of NT3, and the NMDA receptor 
+reverts to an immature type by expressing the NR2D 
+subunit. in a lateral T8 hemisection SCi model, elevating 
+the spinal levels of NT3 while increasing expression of the 
+NR2D subunit of the NMDA receptor was combined with 
+ChABC. The most axonal sprouting and best behavioral 
+recovery in the BBB locomotor test was seen in the full 
+combination group, and electrical conductivity across 
+the lesion was only reestablished in rats receiving the 
+combination. This treatment did not cause hypersensitivity 
+in any group[31, 32].
+ChABC and Blocking Myelin Inhibitors
+Myelin and myelin debris contain several myelin-associated 
+molecules that inhibit regeneration[33-35], among which 
+the Nogo-A N-terminal region (amino-Nogo-A) is one of 
+the most potent inhibitors. inhibition of Nogo-A increases 
+axon plasticity and regeneration and improves functional 
+recovery[36-38]. in a recent study, the effectiveness of a 
+combination of α-Nogo-A, ChABC and rehabilitation was 
+tested in a cervical dorsal column crush model[39]. The 
+combination treatment applied α-Nogo-A antibody acutely, 
+followed by delayed ChABC treatment starting at 3 weeks 
+after injury, and rehabilitation starting at 4 weeks, to 
+accommodate the requirement that α-Nogo-A be applied 
+acutely, and that rehabilitation be given after the cessation 
+of α-Nogo-A treatment. Using a CST-dependent skill 
+(paw-reaching staircase task) as the main readout, single 
+treatment with α-Nogo-A or ChABC and rehabilitation 
+training improved functional recovery to a similar extent. 
+The combination treatment was more effective; after 
+treatment and 3 months of training, the combination 
+group recovered to 80% of the level before the lesion. 
+Anatomically, single treatments increased sprouting and 
+axon regeneration, but combination treatment produced 
+greater increases. α-Nogo-A stimulated growth of a greater 
+number of axons with diameters >3 µm, while ChABC 
+treatment stimulated increased growth of finer axons with 
+varicosities. These results point to different functions of 
+Nogo-A and CSPGs for axonal regeneration.
+Due to its scar-degrading and plasticity-promoting 
+properties, a combination of chABC and other treatment 
+Rong-Rong Zhao, et al.    Combination treatment with ChABC in SCi—breaking the barrier 481
+strategies including Nogo-A blocking, increasing cAMP, 
+inserting ion channels, and cell implantation have 
+synergistic effects in both acute and delayed SCi models. 
+The combination tends to increase cell survival and 
+incorporation into host tissue, and reestablishes circuit 
+connectivity and functional recovery without causing 
+abnormal sensitivity.
+Combination of Regenerative Treatments with 
+Rehabilitation
+Rehabilitation is an integral part of SCi management; 
+any potential future interventions will almost certainly 
+have to be compatible with rehabilitation. it is therefore 
+important to study the treatment effects of regenerative 
+treatments in combination with rehabilitation. ChABC 
+opens a window of plasticity and has proven effective 
+when specific rehabilitation is given during the period of 
+drug administration, in both acute and delayed stages 
+and up to one year post-injury in two SCi models[16, 31]. 
+When combined with other treatments however, the timing 
+between treatments and rehabilitation may influence the 
+functional recovery. For example, α-Nogo-A treatment 
+gives better results when the rehabilitation starts after the 
+treatment period, rather than simultaneously[40, 41]. When 
+combined with ChABC and rehabilitation immediately after 
+the lesion, although significantly increased axonal plasticity 
+occurs, functional recovery is insignificant (unpublished 
+data). instead, when the ChABC is delayed for one week, 
+and rehabilitation is started two weeks after completion 
+of α-Nogo-A treatment, the treatment paradigm has a 
+significant synergistic effect[39], indicating a significant role 
+of timing in treatment planning.
+Discussion and Perspective
+After injury, tissue repair in the spinal cord faces challenges 
+from both a limited ability for intrinsic growth and the 
+presence of multiple inhibitory molecules in the surrounding 
+tissue. in order to reach the goal of functional recovery, 
+SCi treatment must address all these issues by combining 
+multiple interventions. Research in this direction has 
+provided promising results. However, due to the complexity 
+and highly-variable nature of in vivo experiments, they 
+normally require a large input of resources, so it is 
+especially important for researchers to carefully design 
+experiment taking into consideration the lesion model, 
+types of readout, and the timing of medical intervention in 
+relation to the lesion, to rehabilitation training, and to each 
+other. 
+The outcome of studies depends greatly on the animal 
+model used. Many studies use the thoracic SCi model, 
+and the BBB test as the readout for functional locomotor 
+recovery. Locomotion is one of the most important 
+functions, and the BBB score is widely accepted as a good 
+measure. However, as the therapeutic power grows, more 
+‘demanding’ behavioral tests will be necessary to assess 
+the level of recovery in a way that might predict therapeutic 
+efficacy in humans. A battery of behavioral tests has been 
+developed in the past decades to study movement function 
+after SCi. Kinematic analysis gives detailed information 
+about locomotor control, and software tools are available to 
+quantify limb movements[42, 43].
+However, humans depend heavily on supraspinal 
+input, particularly from the CST for motor control. Animal 
+models which test supraspinal inputs may therefore be 
+more clinically relevant. The CST has been a focus for both 
+axon regeneration, and more recently for behavioral tests. 
+in rodents, the main function of the CST is skilled paw 
+function, which can provide a high-resolution model. Tests 
+include the skilled paw-reaching staircase task[44-46], pasta 
+handling[47], single-pellet retrieval[48, 49], ladder walking[50, 51], 
+skilled walking and swimming[52, 53].
+In vivo combinational studies are major undertakings. 
+introducing each additional treatment into a combinational 
+paradigm adds an extra parameter, which in theory 
+doubles the number of experimental groups and total 
+number of animals. As a result, the scale of an experiment 
+quickly becomes impractical unless a large group of 
+researchers is involved. in order for the results from these 
+large experiments to be comparable, it is important that 
+standardized protocols for behavioral analysis, histological 
+analysis and data processing are used.
+Received date: 2013-03-22; Accepted date: 2013-05-19
+REFERENCES
+[1] Hua R, Shi J, Wang X, Yang J, Zheng P, Cheng H, et al. 
+Analysis of the causes and types of traumatic spinal cord 
+Neurosci Bull     August 1, 2013, 29(4): 477–483482
+injury based on 561 cases in China from 2001 to 2010. 
+Spinal Cord 2013, 51: 218–221.
+[2] Lin R, Kwok JC, Crespo D, Fawcett JW. Chondroitinase 
+ABC has a long-lasting effect on chondroitin sulphate 
+glycosaminoglycan content in the injured rat brain. J 
+Neurochem 2008, 104: 400–408.
+[3] Gilbert RJ, McKeon RJ, Darr A, Calabro A, Hascall VC, 
+Bellamkonda RV. CS-4,6 is differentially upregulated in glial 
+scar and is a potent inhibitor of neurite extension. Mol Cell 
+Neurosci 2005, 29: 545–558.
+[4] Kwok JC, Carulli D, Fawcett JW. In vitro modeling of 
+perineuronal nets: hyaluronan synthase and link protein are 
+necessary for their formation and integrity. J Neurochem 
+2010, 114: 1447–1459.
+[5] Kwok JC, Dick G, Wang D, Fawcett JW. Extracellular matrix 
+and perineuronal nets in CNS repair. Dev Neurobiol 2011, 71: 
+1073–1089.
+[6] Galtrey CM, Kwok JC, Carulli D, Rhodes KE, Fawcett 
+JW. Distribution and synthesis of extracellular matrix 
+proteoglycans, hyaluronan, link proteins and tenascin-R in 
+the rat spinal cord. Eur J Neurosci 2008, 27: 1373–1390.
+[7] Fawcett J. Molecular control of brain plasticity and repair. 
+Prog Brain Res 2009, 175: 501–509.
+[8] Suzuki S, Saito H, Yamagata T, Anno K, Seno N, Kawai Y, et 
+al. Formation of three types of disulfated disaccharides from 
+chondroitin sulfates by chondroitinase digestion. J Biol Chem 
+1968, 243: 1543–1550.
+[9] Crespo D, Asher RA, Lin R, Rhodes KE, JW F. How does 
+chondroitinase promote functional recovery in the damaged 
+CNS? Exp Neurol 2007, 206: 12.
+[10] Glant TT, Buzas Ei, Finnegan A, Negroiu G, Cs-Szabo G, 
+Mikecz K. Critical roles of glycosaminoglycan side chains of 
+cartilage proteoglycan (aggrecan) in antigen recognition and 
+presentation. J immunol 1998, 160: 3812–3819.
+[11] Rolls A, Avidan H, Cahalon L, Schori H, Bakalash S, Litvak 
+V, et al. A disaccharide derived from chondroitin sulphate 
+proteoglycan promotes central nervous system repair in rats 
+and mice. Eur J Neurosci 2004, 20: 1973–1983.
+[12] Garcia-Alias G, Barkhuysen S, Buckle M, Fawcett JW. 
+Chondroitinase ABC treatment opens a window of opportunity for 
+task-specific rehabilitation. Nat Neurosci 2009, 12: 1145–1151.
+[13] Bradbury EJ, Moon LD, Popat RJ, King VR, Bennett GS, 
+Patel PN, et al. Chondroitinase ABC promotes functional 
+recovery after spinal cord injury. Nature 2002, 416: 636–640.
+[14] Garcia-Alias G, Lin R, Akrimi SF, Story D, Bradbury EJ, 
+Fawcett JW. Therapeutic time window for the application of 
+chondroitinase ABC after spinal cord injury. Exp Neurol 2008, 
+210: 331–338.
+[15] Moon LD, Asher RA, Rhodes KE, Fawcett JW. Regeneration 
+of CNS axons back to their target following treatment of adult 
+rat brain with chondroitinase ABC. Nat Neurosci 2001, 4: 
+465–466.
+[16] Wang D, ichiyama RM, Zhao R, Andrews MR, Fawcett 
+JW. Chondroitinase combined with rehabilitation promotes 
+recovery of forelimb function in rats with chronic spinal cord 
+injury. J Neurosci 2011, 31: 9332–9344.
+[17] Zuo J, Neubauer D, Dyess K, Ferguson TA, Muir D. 
+Degradation of chondroitin sulfate proteoglycan enhances 
+the neurite-promoting potential of spinal cord tissue. Exp 
+Neurol 1998, 154: 654–662.
+[18] Barritt AW, Davies M, Marchand F, Hartley R, Grist J, Yip P, 
+et al. Chondroitinase ABC promotes sprouting of intact and 
+injured spinal systems after spinal cord injury. J Neurosci 
+2006, 26: 10856–10867.
+[19] Kwok JC,  Afshar i  F,  Garc ia-Al ias G,  Fawcet t  JW. 
+Proteoglycans in the central nervous system: plasticity, 
+regeneration and their stimulation with chondroitinase ABC. 
+Restor Neurol Neurosci 2008, 26: 131–145.
+[20] Zhao RR, Muir EM, Alves JN, Rickman H, Allan AY, Kwok JC, 
+et al. Lentiviral vectors express chondroitinase ABC in cortical 
+projections and promote sprouting of injured corticospinal 
+axons. J Neurosci Methods 2011, 201: 228–238.
+[21] Bunge MB. Novel combination strategies to repair the injured 
+mammalian spinal cord. J Spinal Cord Med 2008, 31: 262–269.
+[22] Grimpe B, Pressman Y, Lupa MD, Horn KP, Bunge MB, 
+Silver J. The role of proteoglycans in Schwann cell/astrocyte 
+interactions and in regeneration failure at PNS/CNS 
+interfaces. Mol Cell Neurosci 2005, 28: 18–29.
+[23] Vavrek R, Pearse DD, Fouad K. Neuronal populations 
+capable of regeneration following a combined treatment in 
+rats with spinal cord transection. J Neurotrauma 2007, 24: 
+1667–1673.
+[24] Fouad K, Pearse DD, Tetzlaff W, Vavrek R. Transplantation 
+and repair: combined cell implantation and chondroitinase 
+delivery prevents deterioration of bladder function in rats with 
+complete spinal cord injury. Spinal Cord 2009, 47: 727–732.
+[25] Karimi-Abdolrezaee S, Eftekharpour E, Wang J, Schut D, 
+Fehlings MG. Synergistic effects of transplanted adult neural 
+stem/progenitor cells, chondroitinase, and growth factors 
+promote functional repair and plasticity of the chronically 
+injured spinal cord. J Neurosci 2010, 30: 1657–1676.
+[26] Hwang DH, Kim HM, Kang YM, Joo iS, Cho CS, Yoon BW, 
+et al. Combination of multifaceted strategies to maximize the 
+therapeutic benefits of neural stem cell transplant for spinal 
+cord repair. Cell Transplant 2011, 20: 1361–1379.
+[27] Massey JM, Amps J, Viapiano MS, Matthews RT, Wagoner 
+MR, Whitaker CM, et al. increased chondroitin sulfate 
+proteoglycan expression in denervated brainstem targets 
+following spinal cord injury creates a barrier to axonal 
+regeneration overcome by chondroit inase ABC and 
+neurotrophin-3. Exp Neurol 2008, 209: 426–445.
+[28] Steinmetz MP, Horn KP, Tom VJ, Miller JH, Busch SA, Nair D, 
+Rong-Rong Zhao, et al.    Combination treatment with ChABC in SCi—breaking the barrier 483
+et al. Chronic enhancement of the intrinsic growth capacity of 
+sensory neurons combined with the degradation of inhibitory 
+proteoglycans allows functional regeneration of sensory 
+axons through the dorsal root entry zone in the mammalian 
+spinal cord. J Neurosci 2005, 25: 8066–8076.
+[29] Harel R, iannotti CA, Hoh D, Clark M, Silver J, Steinmetz MP. 
+oncomodulin affords limited regeneration to injured sensory 
+axons in vitro and in vivo. Exp Neurol 2012, 233: 708–716.
+[30] Bai F, Peng H, Etlinger JD, Zeman RJ. Partial functional 
+recovery after complete spinal cord transection by combined 
+chondroitinase and clenbuterol treatment. Pflugers Arch 
+2010, 460: 657–666.
+[31] Garcia-Alias G, Petrosyan HA, Schnell L, Horner PJ, Bowers 
+WJ, Mendell LM, et al. Chondroitinase ABC combined with 
+neurotrophin NT-3 secretion and NR2D expression promotes 
+axonal plasticity and functional recovery in rats with lateral 
+hemisection of the spinal cord. J Neurosci 2011, 31: 17788–
+17799.
+[32] Garcia-Alias G, Fawcett JW. Training and anti-CSPG 
+combination therapy for spinal cord injury. Exp Neurol 2012, 
+235: 26–32.
+[33] Schwab ME. Nogo and axon regeneration. Curr opin 
+Neurobiol 2004, 14: 118–124.
+[34] Yiu G, He Z. Glial inhibition of CNS axon regeneration. Nat 
+Rev Neurosci 2006, 7: 617–627.
+[35] Kopp MA, Liebscher T, Niedeggen A, Laufer S, Brommer 
+B, Jungehulsing GJ, et al. Small-molecule-induced Rho-
+inhibition: NSAiDs after spinal cord injury. Cell Tissue Res 
+2012, 349: 119–132.
+[36] oertle T, van der Haar ME, Bandtlow CE, Robeva A, Burfeind 
+P, Buss A, et al. Nogo-A inhibits neurite outgrowth and cell 
+spreading with three discrete regions. J Neurosci 2003, 23: 
+5393–5406.
+[37] GrandPre T, Nakamura F, Vartanian T, Strittmatter SM. 
+Identification of the Nogo inhibitor of axon regeneration as a 
+Reticulon protein. Nature 2000, 403: 439–444.
+[38] Chen MS, Huber AB, van der Haar ME, Frank M, Schnell L, 
+Spillmann AA, et al. Nogo-A is a myelin-associated neurite 
+outgrowth inhibitor and an antigen for monoclonal antibody 
+iN-1. Nature 2000, 403: 434–439.
+[39] Zhao RR, Andrews MR, Wang D, Warren P, Gullo M, 
+Schnell L, et al. Combination treatment with anti-Nogo-A and 
+chondroitinase ABC is more effective than single treatments 
+at enhancing functional recovery after spinal cord injury. Eur 
+J Neurosci 2013. Doi: 10.1111/ejn.12276.
+[40] Maier iC, ichiyama RM, Courtine G, Schnell L, Lavrov 
+i, Edgerton VR, et al. Differential effects of anti-Nogo-A 
+antibody treatment and treadmill training in rats with 
+incomplete spinal cord injury. Brain 2009, 132: 1426–1440.
+[41] Marsh BC, Astill SL, Utley A, ichiyama RM. Movement 
+rehabilitation after spinal cord injuries: emerging concepts 
+and future directions. Brain Res Bull 2011, 84: 327–336.
+[42] Courtine G, Roy RR, Hodgson J, McKay H, Raven J, Zhong 
+H, et al. Kinematic and EMG determinants in quadrupedal 
+locomotion of a non-human primate (Rhesus). J Neurophysiol 
+2005, 93: 3127–3145.
+[43] ichiyama RM, Courtine G, Gerasimenko YP, Yang GJ, 
+van den Brand R, Lavrov iA, et al. Step training reinforces 
+specific spinal locomotor circuitry in adult spinal rats. J 
+Neurosci 2008, 28: 7370–7375.
+[44] Galtrey CM, Fawcett JW. Characterization of tests of functional 
+recovery after median and ulnar nerve injury and repair in the 
+rat forelimb. J Peripher Nerv Syst 2007, 12: 11–27.
+[45] Montoya CP, Campbell-Hope LJ, Pemberton KD, Dunnett 
+SB. The "staircase test": a measure of independent forelimb 
+reaching and grasping abilities in rats. J Neurosci Methods 
+1991, 36: 219–228.
+[46] Starkey ML, Barritt AW, Yip PK, Davies M, Hamers FP, 
+McMahon SB, et al. Assessing behavioural function following 
+a pyramidotomy lesion of the corticospinal tract in adult mice. 
+Exp Neurol 2005, 195: 524–539.
+[47] Khaing ZZ, Geissler SA, Jiang S, Milman BD, Aguilar SV, 
+Schmidt CE, et al. Assessing forelimb function after unilateral 
+cervical spinal cord injury: novel forelimb tasks predict lesion 
+severity and recovery. J Neurotrauma 2012, 29: 488–498.
+[48] onifer SM, Rodriguez JF, Santiago Di, Benitez JC, Kim 
+DT, Brunschwig JP, et al. Cervical spinal cord injury in the 
+adult rat: assessment of forelimb dysfunction. Restor Neurol 
+Neurosci 1997, 11: 211–223.
+[49] Stackhouse SK, Murray M, Shumsky JS. Effect of cervical 
+dorsolateral funiculotomy on reach-to-grasp function in the 
+rat. J Neurotrauma 2008, 25: 1039–1047.
+[50] Metz GA, Whishaw iQ. The ladder rung walking task: a 
+scoring system and its practical application. J Vis Exp 2009, 
+(28). pii: 1204. doi: 10.3791/1204.
+[51] Whishaw iQ, Travis SG, Koppe SW, Sacrey LA, Gholamrezaei 
+G, Gorny B. Hand shaping in the rat: conserved release and 
+collection vs. flexible manipulation in overground walking, 
+ladder rung walking, cylinder exploration, and skilled 
+reaching. Behav Brain Res 2010, 206: 21–31.
+[52] Gonzenbach RR, Gasser P, Zorner B, Hochreutener E, 
+Dietz V, Schwab ME. Nogo-A antibodies and training reduce 
+muscle spasms in spinal cord-injured rats. Ann Neurol 2010, 
+68: 48–57.
+[53] Zorner B, Filli L, Starkey ML, Gonzenbach R, Kasper 
+H, Rothlisberger M, et al. Profiling locomotor recovery: 
+comprehensive quantification of impairments after CNS 
+damage in rodents. Nat Methods 2010, 7: 701–708.

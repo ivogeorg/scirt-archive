@@ -1,0 +1,516 @@
+T1	Gene 683 689	nestin
+T2	Gene 691 699	vimentin
+T3	Gene 711 736	fibrillary acidic protein
+T4	Gene 738 742	GFAP
+T5	Gene 905 909	BrdU
+T6	Gene 910 914	NeuN
+T7	Gene 1250 1256	nestin
+T8	Gene 1258 1266	vimentin
+T9	Gene 2931 2932	P
+T10	Gene 2934 2937	cin
+T11	Gene 3980 3984	BrdU
+T12	Gene 5377 5383	nestin
+T13	Gene 5385 5393	vimentin
+T14	Gene 5405 5430	fibrillary acidic protein
+T15	Gene 5432 5436	GFAP
+T16	Gene 5703 5709	nestin
+T17	Gene 6236 6242	nestin
+T18	Gene 6304 6310	nestin
+T19	Gene 6381 6389	Vimentin
+T20	Gene 6687 6693	nestin
+T21	Gene 6717 6723	nestin
+T22	Gene 6764 6772	vimentin
+T23	Gene 6882 6885	neu
+T24	Gene 6942 6950	vimentin
+T25	Gene 7685 7689	GFAP
+T26	Gene 7798 7804	nestin
+T27	Gene 7809 7817	vimentin
+T28	Gene 7842 7846	GFAP
+T29	Gene 8009 8017	vimentin
+T30	Gene 8037 8041	GFAP
+T31	Gene 8077 8085	vimentin
+T32	Gene 8104 8112	vimentin
+T33	Gene 8169 8173	GFAP
+T34	Gene 8904 8908	GFAP
+T35	Gene 9097 9101	GFAP
+T36	Gene 9295 9299	GFAP
+T37	Gene 9827 9831	GFAP
+T38	Gene 10701 10708	mol l21
+T39	Gene 10773 10785	l21 ethylene
+T40	Gene 11182 11186	BrdU
+T41	Gene 11464 11468	BrdU
+T42	Gene 11658 11662	BrdU
+T43	Gene 12556 12560	BrdU
+T44	Gene 12807 12820	serum albumin
+T45	Gene 12822 12825	BSA
+T46	Gene 13479 13487	vimentin
+T47	Gene 13594 13600	Nestin
+T48	Gene 13601 13609	vimentin
+T49	Gene 13760 13764	BrdU
+T50	Gene 13765 13769	NeuN
+T51	Gene 14412 14416	GFAP
+T52	Gene 14421 14425	NeuN
+T53	Gene 14659 14662	tin
+T54	Gene 14720 14723	rab
+T55	Gene 17283 17287	BrdU
+T56	Gene 17539 17543	BrdU
+T57	Gene 17907 17911	BrdU
+T58	Gene 18012 18016	BrdU
+T59	Gene 18206 18210	BrdU
+T60	Gene 18424 18428	BrdU
+T61	Gene 18535 18539	BrdU
+T62	Gene 18765 18769	BrdU
+T63	Gene 18907 18911	BrdU
+T64	Gene 19021 19025	BrdU
+T65	Gene 19135 19139	BrdU
+T66	Gene 19222 19226	BrdU
+T67	Gene 19461 19465	BrdU
+T68	Gene 19523 19527	BrdU
+T69	Gene 19723 19727	BrdU
+T70	Gene 20252 20256	BrdU
+T71	Gene 20364 20368	BrdU
+T72	Gene 20628 20632	NeuN
+T73	Gene 20638 20642	BrdU
+T74	Gene 20673 20677	BrdU
+T75	Gene 20772 20776	BrdU
+T76	Gene 20840 20844	BrdU
+T77	Gene 20896 20919	NeuN immunofluorescence
+T78	Gene 21009 21013	NeuN
+T79	Gene 21147 21151	NeuN
+T80	Gene 21265 21272	NeuN-ir
+T81	Gene 22388 22392	NeuN
+T82	Gene 22403 22406	Fig
+T83	Gene 22695 22702	NeuN-ir
+T84	Gene 22769 22773	NeuN
+T85	Gene 22822 22826	NeuN
+T86	Gene 22931 22935	BrdU
+T87	Gene 22965 22969	NeuN
+T88	Gene 23113 23117	NeuN
+T89	Gene 23185 23193	vimentin
+T90	Gene 23367 23373	nestin
+T91	Gene 23466 23469	tin
+T92	Gene 23544 23552	vimentin
+T93	Gene 23840 23846	nestin
+T94	Gene 23974 23982	vimentin
+T95	Gene 24052 24061	nestin im
+T96	Gene 24079 24082	Fig
+T97	Gene 24084 24088	8B–D
+T98	Gene 24372 24378	nestin
+T99	Gene 24383 24391	vimentin
+T100	Gene 24588 24596	vimentin
+T101	Gene 24682 24690	vimentin
+T102	Gene 24765 24773	vimentin
+T103	Gene 24799 24805	nestin
+T104	Gene 24957 24965	vimentin
+T105	Gene 25112 25120	vimentin
+T106	Gene 25122 25130	Fig. 11B
+T107	Gene 25143 25149	nestin
+T108	Gene 25268 25276	vimentin
+T109	Gene 25435 25443	vimentin
+T110	Gene 25444 25450	nestin
+T111	Gene 25540 25544	GFAP
+T112	Gene 25766 25775	anti-BrdU
+T113	Gene 25948 25952	BrdU
+T114	Gene 25983 25987	NeuN
+T115	Gene 26221 26225	GFAP
+T116	Gene 26326 26330	GFAP
+T117	Gene 26569 26573	GFAP
+T118	Gene 26698 26701	Fig
+T119	Gene 27227 27245	GFAP immunofluores
+T120	Gene 27345 27349	GFAP
+T121	Gene 27485 27489	BrdU
+T122	Gene 27490 27494	NeuN
+T123	Gene 27554 27558	BrdU
+T124	Gene 27826 27835	anti-BrdU
+T125	Gene 27840 27849	anti-NeuN
+T126	Gene 28036 28040	BrdU
+T127	Gene 28071 28075	NeuN
+T128	Gene 28258 28262	NeuN
+T129	Gene 28290 28294	BrdU
+T130	Gene 28295 28299	NeuN
+T131	Gene 28328 28332	BrdU
+T132	Gene 28376 28380	BrdU
+T133	Gene 28381 28385	NeuN
+T134	Gene 28414 28418	BrdU
+T135	Gene 28564 28568	BrdU
+T136	Gene 28601 28605	NeuN
+T137	Gene 28708 28712	NeuN
+T138	Gene 29140 29147	BrdU-ir
+T139	Gene 29215 29219	BrdU
+T140	Gene 29289 29293	BrdU
+T141	Gene 29341 29345	BrdU
+T142	Gene 29593 29597	BrdU
+T143	Gene 29806 29810	BrdU
+T144	Gene 31145 31149	BrdU
+T145	Gene 31247 31250	myo
+T146	Gene 31322 31326	NeuN
+T147	Gene 31536 31540	BrdU
+T148	Gene 31571 31582	NeuN-immuno
+T149	Gene 32069 32073	BrdU
+T150	Gene 32124 32130	nestin
+T151	Gene 32135 32143	vimentin
+T152	Gene 32259 32267	vimentin
+T153	Gene 32356 32371	nestin–vimentin
+T154	Gene 32427 32433	nestin
+T155	Gene 32434 32442	vimentin
+T156	Gene 32485 32493	vimentin
+T157	Gene 32557 32565	Vimentin
+T158	Gene 32593 32599	nestin
+T159	Gene 32622 32625	red
+T160	Gene 32627 32635	vimentin
+T161	Gene 32636 32642	nestin
+T162	Gene 32741 32747	Fig. 9
+T163	Gene 32749 32755	Nestin
+T164	Gene 32760 32768	vimentin
+T165	Gene 32870 32878	vimentin
+T166	Gene 32908 32916	vimentin
+T167	Gene 32935 32943	Vimentin
+T168	Gene 32971 32977	nestin
+T169	Gene 33003 33011	vimentin
+T170	Gene 33012 33018	nestin
+T171	Gene 33287 33290	neu
+T172	Gene 33422 33434	NeuN protein
+T173	Gene 33662 33666	NeuN
+T174	Gene 33667 33671	BrdU
+T175	Gene 33712 33716	BrdU
+T176	Gene 33854 33861	BrdU-ir
+T177	Gene 33866 33870	NeuN
+T178	Gene 33946 33950	NeuN
+T179	Gene 34130 34139	NeuN immu
+T180	Gene 34850 34854	NeuN
+T181	Gene 35219 35223	NeuN
+T182	Gene 35312 35318	nestin
+T183	Gene 35323 35331	vimentin
+T184	Gene 35479 35487	Vimentin
+T185	Gene 35515 35521	nestin
+T186	Gene 35542 35545	red
+T187	Gene 35547 35555	vimentin
+T188	Gene 35556 35562	nestin
+T189	Gene 35686 35692	nestin
+T190	Gene 35697 35705	vimentin
+T191	Gene 35812 35820	Vimentin
+T192	Gene 35848 35854	nestin
+T193	Gene 35875 35878	red
+T194	Gene 35880 35888	vimentin
+T195	Gene 35889 35895	nestin
+T196	Gene 36226 36233	NeuN im
+T197	Gene 36421 36427	Nestin
+T198	Gene 36428 36436	Vimentin
+T199	Gene 36464 36472	vimentin
+T200	Gene 36503 36509	nestin
+T201	Gene 36655 36661	nestin
+T202	Gene 36666 36674	vimentin
+T203	Gene 36862 36870	vimentin
+T204	Gene 36980 36986	nestin
+T205	Gene 36991 36999	vimentin
+T206	Gene 37206 37214	vimentin
+T207	Gene 37632 37636	GFAP
+T208	Gene 37997 38001	GFAP
+T209	Gene 38014 38018	GFAP
+T210	Gene 38046 38050	NeuN
+T211	Gene 38159 38163	GFAP
+T212	Gene 38256 38260	GFAP
+T213	Gene 38408 38414	nestin
+T214	Gene 38419 38427	vimentin
+T215	Gene 38674 38682	vimentin
+T216	Gene 38813 38819	lectin
+T217	Gene 38981 38987	nestin
+T218	Gene 38992 39000	vimentin
+T219	Gene 39137 39145	vimentin
+T220	Gene 39215 39218	tin
+T221	Gene 39402 39409	NeuN-ir
+T222	Gene 39476 39480	NeuN
+T223	Gene 39485 39493	vimentin
+T224	Gene 39523 39531	vimentin
+T225	Gene 39639 39645	Paulin
+T226	Gene 39765 39773	vimentin
+T227	Gene 39777 39783	nestin
+T228	Gene 39979 39987	vimentin
+T229	Gene 39992 39995	nes
+T230	Gene 39997 40000	tin
+T231	Gene 40411 40419	vimentin
+T232	Gene 40795 40799	GFAP
+T233	Gene 40952 40956	GFAP
+T234	Gene 41063 41068	Mutin
+T235	Gene 41561 41565	BrdU
+T236	Gene 41764 41769	Mutin
+T237	Gene 41924 41928	GFAP
+T238	Gene 42065 42069	GFAP
+T239	Gene 42178 42182	GFAP
+T240	Gene 42210 42214	NeuN
+T241	Gene 42548 42552	GFAP
+T242	Gene 42709 42713	GFAP
+T243	Gene 42881 42885	GFAP
+T244	Gene 42925 42931	nestin
+T245	Gene 42936 42944	vimentin
+T246	Gene 43025 43029	GFAP
+T247	Gene 43140 43144	GFAP
+T248	Gene 43499 43503	GFAP
+T249	Gene 43505 43513	vimentin
+T250	Gene 43519 43525	nestin
+T251	Gene 43547 43551	GFAP
+T252	Gene 43705 43713	vimentin
+T253	Gene 43718 43724	nestin
+T254	Gene 43784 43790	nestin
+T255	Gene 43812 43816	GFAP
+T256	Gene 43961 43967	nestin
+T257	Gene 44262 44268	nestin
+T258	Gene 44448 44454	nestin
+T259	Gene 44459 44467	vimentin
+T260	Gene 44672 44680	Vimentin
+T261	Gene 45180 45184	NeuN
+T262	Gene 45235 45239	BrdU
+T263	Gene 45288 45292	NeuN
+T264	Gene 45435 45441	nestin
+T265	Gene 45443 45451	vimentin
+T266	Gene 45457 45461	GFAP
+T267	Gene 45808 45812	Erin
+T268	Gene 46391 46398	Dev Dyn
+T269	Gene 46762 46770	vimentin
+T270	Gene 46887 46895	vimentin
+T271	Gene 46896 46899	GFA
+T272	Gene 47946 47952	Eng LF
+T273	Gene 48100 48110	Ferretti P
+T274	Gene 48112 48119	Zhang F
+T275	Gene 48416 48423	J Neuro
+T276	Gene 48546 48552	nestin
+T277	Gene 48697 48705	Vimentin
+T278	Gene 48887 48892	J Neu
+T279	Gene 49222 49225	HRP
+T280	Gene 49819 49827	vimentin
+T281	Gene 50154 50183	Mchedlishvili L, Epperlein HH
+T282	Gene 50730 50736	nestin
+T283	Gene 50973 51004	glial fibrillary acidic protein
+T284	Gene 51352 51359	Dev Dyn
+T285	Gene 51837 51845	Comp Neu
+T286	Gene 51945 51975	neurofilament triplet proteins
+T287	Gene 51977 51985	vimentin
+T288	Gene 51991 52022	glial fibrillary acidic protein
+T289	Gene 52586 52589	Lab
+T290	Gene 52727 52735	Walder S
+T291	Gene 52737 52744	Zhang F
+T292	Gene 52908 52915	Wiese C
+T293	Gene 52917 52939	Rolletschek A, Kania G
+T294	Gene 52941 52952	Blyszczuk P
+T295	Gene 52954 52964	Tarasov KV
+T296	Gene 53140 53148	Vimentin
+T297	Gene 53153 53176	glial fibrillary acidic
+T298	Gene 53269 53288	Zhang F, Ferretti P
+T299	Species 430 448	Plethodon cinereus
+T300	Species 2313 2331	Plethodon cinereus
+T301	Species 3831 3842	P. cinereus
+T302	Species 5441 5452	P. cinereus
+T303	Species 8524 8543	Ambystoma mexicanum
+T304	Species 8619 8640	Salamandra salamandra
+T305	Species 9653 9664	P. cinereus
+T306	Species 9855 9866	P. cinereus
+T307	Species 12785 12789	goat
+T308	Species 12800 12806	bovine
+T309	Species 12973 12976	rat
+T310	Species 13022 13027	mouse
+T311	Species 13276 13280	goat
+T312	Species 13286 13289	rat
+T313	Species 13306 13310	goat
+T314	Species 13316 13321	mouse
+T315	Species 13951 13956	mouse
+T316	Species 13994 14000	rabbit
+T317	Species 14152 14156	goat
+T318	Species 14163 14168	mouse
+T319	Species 14189 14193	goat
+T320	Species 14199 14205	rabbit
+T321	Species 14765 14770	mouse
+T322	Species 14851 14855	goat
+T323	Species 14861 14867	rabbit
+T324	Species 14888 14892	goat
+T325	Species 14898 14903	mouse
+T326	Species 27574 27585	P. cinereus
+T327	Species 30530 30541	P. cinereus
+T328	Species 31153 31164	P. cinereus
+T329	Species 33904 33915	P. cinereus
+T330	Species 34046 34057	P. cinereus
+T331	Species 34292 34297	mouse
+T332	Species 34515 34526	P. cinereus
+T333	Species 34753 34764	P. cinereus
+T334	Species 34930 34934	mice
+T335	Species 36451 36462	P. cinereus
+T336	Species 37020 37028	P. waltl
+T337	Species 37196 37204	axolotls
+T338	Species 37336 37347	P. cinereus
+T339	Species 37611 37622	P. cinereus
+T340	Species 38831 38842	P. cinereus
+T341	Species 40430 40438	P. waltl
+T342	Species 40583 40594	P. cinereus
+T343	Species 41613 41624	P. cinereus
+T344	Species 41884 41895	P. cinereus
+T345	Species 43172 43183	P. cinereus
+T346	Species 44287 44298	P. cinereus
+T347	Species 44349 44357	P. waltl
+T348	Species 44362 44376	N. viridescens
+T349	Species 44719 44730	P. cinereus
+T350	Species 44883 44894	P. cinereus
+T351	Species 46823 46828	mouse
+T352	Species 46922 46925	rat
+T353	Species 47177 47195	Plethodon cinereus
+T354	Species 48371 48374	rat
+T355	Species 48577 48582	mouse
+T356	Species 49435 49438	rat
+T357	Species 49847 49866	Ambystoma mexicanum
+T358	Species 49871 49888	Triturus carnifex
+T359	Species 50261 50268	axolotl
+T360	Species 50779 50782	rat
+T361	Species 50924 50945	Salamandra salamandra
+T362	Species 51254 51261	axolotl
+T363	Species 51461 51465	rats
+T364	Species 52040 52043	rat
+T365	Species 52380 52385	chick
+T366	Species 52522 52527	human
+T367	Species 52551 52556	human
+T368	InteractionKeyword 561 569	enhanced
+T369	InteractionKeyword 1338 1349	upregulated
+T370	InteractionKeyword 1500 1508	enhanced
+T371	InteractionKeyword 1599 1607	enhanced
+T372	InteractionKeyword 1851 1858	complex
+T373	InteractionKeyword 2094 2100	linked
+T374	InteractionKeyword 2569 2579	facilitate
+T375	InteractionKeyword 2985 2993	enhanced
+T376	InteractionKeyword 4265 4272	express
+T377	InteractionKeyword 5525 5532	induced
+T378	InteractionKeyword 5719 5728	regulated
+T379	InteractionKeyword 5788 5799	upregulated
+T380	InteractionKeyword 5867 5876	expressed
+T381	InteractionKeyword 6438 6447	expressed
+T382	InteractionKeyword 6725 6734	following
+T383	InteractionKeyword 6959 6968	expressed
+T384	InteractionKeyword 7125 7134	expressed
+T385	InteractionKeyword 7261 7270	expressed
+T386	InteractionKeyword 7394 7401	express
+T387	InteractionKeyword 7700 7709	expressed
+T388	InteractionKeyword 8403 8410	express
+T389	InteractionKeyword 8926 8935	expressed
+T390	InteractionKeyword 9086 9093	express
+T391	InteractionKeyword 9776 9783	express
+T392	InteractionKeyword 10917 10927	increasing
+T393	InteractionKeyword 12106 12114	resulted
+T394	InteractionKeyword 12669 12680	neutralized
+T395	InteractionKeyword 12730 12738	followed
+T396	InteractionKeyword 12764 12772	blocking
+T397	InteractionKeyword 13356 13364	followed
+T398	InteractionKeyword 13610 13618	controls
+T399	InteractionKeyword 13740 13748	followed
+T400	InteractionKeyword 13848 13857	following
+T401	InteractionKeyword 13890 13897	blocked
+T402	InteractionKeyword 14529 14537	controls
+T403	InteractionKeyword 14629 14637	followed
+T404	InteractionKeyword 14905 14913	followed
+T405	InteractionKeyword 14936 14944	controls
+T406	InteractionKeyword 15090 15098	resulted
+T407	InteractionKeyword 15552 15561	increased
+T408	InteractionKeyword 15759 15768	decreased
+T409	InteractionKeyword 15802 15809	changed
+T410	InteractionKeyword 16847 16856	disrupted
+T411	InteractionKeyword 17246 17253	control
+T412	InteractionKeyword 17417 17423	formed
+T413	InteractionKeyword 22957 22964	express
+T414	InteractionKeyword 23318 23325	control
+T415	InteractionKeyword 23653 23659	formed
+T416	InteractionKeyword 23733 23741	affected
+T417	InteractionKeyword 25095 25104	expressed
+T418	InteractionKeyword 25395 25402	control
+T419	InteractionKeyword 27395 27404	expressed
+T420	InteractionKeyword 29073 29084	upregulated
+T421	InteractionKeyword 30974 30983	generated
+T422	InteractionKeyword 31212 31219	results
+T423	InteractionKeyword 33497 33506	expressed
+T424	InteractionKeyword 33744 33753	increases
+T425	InteractionKeyword 33938 33945	express
+T426	InteractionKeyword 34177 34187	expressing
+T427	InteractionKeyword 35197 35204	affects
+T428	InteractionKeyword 36477 36486	expressed
+T429	InteractionKeyword 36680 36689	expressed
+T430	InteractionKeyword 36850 36861	upregulates
+T431	InteractionKeyword 37005 37016	upregulated
+T432	InteractionKeyword 37162 37172	decreasing
+T433	InteractionKeyword 38433 38442	expressed
+T434	InteractionKeyword 38480 38490	associated
+T435	InteractionKeyword 38621 38630	expressed
+T436	InteractionKeyword 39724 39731	control
+T437	InteractionKeyword 39830 39841	upregulated
+T438	InteractionKeyword 39896 39905	expressed
+T439	InteractionKeyword 40005 40016	upregulated
+T440	InteractionKeyword 40803 40812	expressed
+T441	InteractionKeyword 41912 41920	increase
+T442	InteractionKeyword 42536 42544	increase
+T443	InteractionKeyword 42949 42958	expressed
+T444	InteractionKeyword 43193 43203	upregulate
+T445	InteractionKeyword 43697 43704	express
+T446	InteractionKeyword 43776 43783	express
+T447	InteractionKeyword 43984 43993	expressed
+T448	InteractionKeyword 44131 44138	follows
+T449	InteractionKeyword 44621 44627	linked
+T450	InteractionKeyword 44756 44763	limited
+T451	InteractionKeyword 45523 45534	upregulated
+T452	InteractionKeyword 48726 48735	activated
+T453	InteractionKeyword 48996 49004	directed
+T454	InteractionKeyword 50064 50078	phosphorylated
+T455	InteractionKeyword 50472 50481	abolishes
+T456	InteractionKeyword 52183 52193	associated
+R457	Partner1 Arg1:T369 Arg2:T7
+R458	Partner2 Arg1:T369 Arg2:T8
+R459	Partner1 Arg1:T375 Arg2:T10
+R460	Partner2 Arg1:T375 Arg2:T9
+R461	Partner1 Arg1:T377 Arg2:T14
+R462	Partner2 Arg1:T377 Arg2:T15
+R463	Partner1 Arg1:T381 Arg2:T20
+R464	Partner2 Arg1:T381 Arg2:T19
+R465	Partner1 Arg1:T382 Arg2:T23
+R466	Partner2 Arg1:T382 Arg2:T21
+R467	Partner1 Arg1:T387 Arg2:T26
+R468	Partner2 Arg1:T387 Arg2:T27
+R469	Partner1 Arg1:T390 Arg2:T34
+R470	Partner2 Arg1:T390 Arg2:T35
+R471	Partner1 Arg1:T396 Arg2:T44
+R472	Partner2 Arg1:T396 Arg2:T45
+R473	Partner1 Arg1:T398 Arg2:T47
+R474	Partner2 Arg1:T398 Arg2:T48
+R475	Partner1 Arg1:T399 Arg2:T49
+R476	Partner2 Arg1:T399 Arg2:T50
+R477	Partner1 Arg1:T402 Arg2:T52
+R478	Partner2 Arg1:T402 Arg2:T53
+R479	Partner1 Arg1:T413 Arg2:T87
+R480	Partner2 Arg1:T413 Arg2:T86
+R481	Partner1 Arg1:T415 Arg2:T91
+R482	Partner2 Arg1:T415 Arg2:T92
+R483	Partner1 Arg1:T416 Arg2:T97
+R484	Partner2 Arg1:T416 Arg2:T94
+R485	Partner1 Arg1:T417 Arg2:T106
+R486	Partner2 Arg1:T417 Arg2:T107
+R487	Partner1 Arg1:T418 Arg2:T110
+R488	Partner2 Arg1:T418 Arg2:T109
+R489	Partner1 Arg1:T419 Arg2:T119
+R490	Partner2 Arg1:T419 Arg2:T120
+R491	Partner1 Arg1:T422 Arg2:T145
+R492	Partner2 Arg1:T422 Arg2:T146
+R493	Partner1 Arg1:T424 Arg2:T174
+R494	Partner2 Arg1:T424 Arg2:T175
+R495	Partner1 Arg1:T428 Arg2:T202
+R496	Partner2 Arg1:T428 Arg2:T199
+R497	Partner1 Arg1:T431 Arg2:T204
+R498	Partner2 Arg1:T431 Arg2:T205
+R499	Partner1 Arg1:T434 Arg2:T213
+R500	Partner2 Arg1:T434 Arg2:T214
+R501	Partner1 Arg1:T435 Arg2:T215
+R502	Partner2 Arg1:T435 Arg2:T216
+R503	Partner1 Arg1:T438 Arg2:T226
+R504	Partner2 Arg1:T438 Arg2:T227
+R505	Partner1 Arg1:T439 Arg2:T228
+R506	Partner2 Arg1:T439 Arg2:T229
+R507	Partner1 Arg1:T442 Arg2:T244
+R508	Partner2 Arg1:T442 Arg2:T241
+R509	Partner1 Arg1:T446 Arg2:T254
+R510	Partner2 Arg1:T446 Arg2:T251
+R511	Partner1 Arg1:T447 Arg2:T255
+R512	Partner2 Arg1:T447 Arg2:T256
+R513	Partner1 Arg1:T448 Arg2:T257
+R514	Partner2 Arg1:T448 Arg2:T258
+R515	Partner1 Arg1:T451 Arg2:T266
+R516	Partner2 Arg1:T451 Arg2:T264

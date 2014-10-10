@@ -1,0 +1,970 @@
+REGENERATIVE MEDICINE
+Significance of Remyelination by Neural Stem/Progenitor Cells
+Transplanted into the Injured Spinal Cord
+AKIMASA YASUDA,a,b OSAHIKO TSUJI,a SHINSUKE SHIBATA,b SATOSHI NORI,a,b MORITO TAKANO,a,b
+YOSHIOMI KOBAYASHI,a,b YUICHIRO TAKAHASHI,a,b KANEHIRO FUJIYOSHI,a CHIKAKO MIYAUCHI HARA,b,c
+ATSUHI MIYAWAKI,c HIROTAKA JAMES OKANO,b YOSHIAKI TOYAMA,a MASAYA NAKAMURA,a HIDEYUKI OKANOb,d
+aDepartment of Orthopedic Surgery and bDepartment of Physiology, Keio University School of Medicine, Tokyo,
+Japan; cLaboratory for Cell Function and Dynamics, Advanced Technology Development Group and
+dRIKEN-Keio University Joint Research Laboratory, Brain Science Institute, RIKEN, Saitama, Japan
+Key Words. Spinal cord injury • Neural stem cell • Stem-cell transplantation • Oligodendrocytes • Remyelination • shiverer mutant mouse
+ABSTRACT
+Previous reports of functional recovery from spinal cord
+injury (SCI) in rodents and monkeys after the delayed
+transplantation of neural stem/progenitor cells (NS/PCs)
+have raised hopes that stem cell therapy could be used to
+treat SCI in humans. More research is needed, however,
+to understand the mechanism of functional recovery. Oli-
+godendrocytes derived from grafted NS/PCs remyelinate
+spared axons in the injured spinal cord. Here, we studied
+the extent of this remyelination’s contribution to func-
+tional recovery following contusive SCI in mice. To isolate
+the effect of remyelination from other possible regenera-
+tive benefits of the grafted cells, NS/PCs obtained from
+myelin-deficient shiverer mutant mice (shi-NS/PCs) were
+used in this work alongside wild-type NS/PCs (wt-NS/PCs).
+shi-NS/PCs behaved like wt-NS/PCs in vitro and in vivo,
+with the exception of their myelinating potential. shi-NS/
+PC-derived oligodendrocytes did not express myelin basic
+protein in vitro and formed much thinner myelin sheaths
+in vivo compared with wt-NS/PC-derived oligodendrocytes.
+The transplantation of shi-NS/PCs promoted some locomo-
+tor and electrophysiological functional recovery but signif-
+icantly less than that afforded by wt-NS/PCs. These
+findings establish the biological importance of remyelina-
+tion by graft-derived cells for functional recovery after the
+transplantation of NS/PCs into the injured spinal cord.
+STEM CELLS 2011;29:1983–1994
+Disclosure of potential conflicts of interest is found at the end of this article.
+INTRODUCTION
+Traumatic spinal cord injury (SCI) results in severe and per-
+manent neurological deficits that can include paraplegia and
+tetraplegia. However, there is currently no effective clinical
+therapeutic option to improve the functional outcome follow-
+ing SCI. Recent advances in stem cell biology are clearing
+the way toward implementing therapeutic strategies to replace
+lost neural cells through the transplantation of stem cells.
+Such strategies could be applicable to many central nervous
+system (CNS) disorders, and SCI may be one of the first con-
+ditions treated with stem-cell transplantation therapy. To this
+point, embryonic stem cells (ESCs), bone marrow mesenchy-
+mal stem cells, and glial-restricted precursor cells have all
+been reported to induce functional improvement following
+their transplantation into the injured spinal cord [1–6].
+In particular, we and others have reported beneficial
+effects and improved functional recovery in experimental SCI
+models following the transplantation of neural stem/progenitor
+cells (NS/PCs) derived from the CNS [3, 6-10] or from pluri-
+potent stem cells, including ESCs [11–14] and induced pluri-
+potent stem cells (iPSCs) [15, 16]. Notably, Cummings and
+colleagues showed that selective ablation of grafted cells
+resulted in the subsequent deterioration of motor function in
+animals that had initially demonstrated functional motor re-
+covery after SCI. This indicates that the long-term survival of
+grafted cells in the host spinal cord is very important for the
+maintenance of functional recovery [3].
+Although the underlying mechanism responsible for func-
+tional recovery from SCI after stem-cell transplantation has
+still remained unclear [17, 18], three mechanisms have been
+proposed: the replacement of lost neurons to reconstruct local
+circuitry, the remyelination of spared, demyelinated axons by
+Author contributions: A.Y.: conception and design, experiments, data analysis and interpretation, manuscript writing, and final approval
+of manuscript; O.T.: conception and design, experiments, surgery, and data analysis and interpretation, S.S.: experiments and data
+analysis and interpretation, S.N.: experiments, surgery, and data interpretation; M.T.: experiments, surgery, and data analysis; Y.K. and
+Y.T.: experiments and data interpretation; K.F., C.M.H., A.M., H.J.O. and Y.T.: data analysis and interpretation; M.N. and H.O.:
+conception and design, data analysis and interpretation, manuscript writing, and final approval of manuscript.
+Correspondence: Hideyuki Okano, M.D., Ph.D., Department of Physiology, School of Medicine, Keio University, 35 Shinanomachi,
+Shinjuku, Tokyo 160-8582, Japan. Telephone: þ81-3-5363-3747; Fax: þ81-3-3357-5445; e-mail: hidokano@a2.keio.jp; or Masaya
+Nakamura, M.D., Ph.D., Department of Orthopedic surgery, School of Medicine, Keio University, 35 Shinanomachi, Shinjuku, Tokyo
+160-8582, Japan. Telephone: þ81-3-3353-1211; Fax: þ81-3353-6597; e-mail: masa@sc.itc.keio.ac.jp, masa@a8.keio.jp Received June
+6, 2011; accepted for publication October 5, 2011; first published online in STEM CELLS EXPRESS October 25, 2011. VC AlphaMed Press
+1066-5099/2011/$30.00/0 doi: 10.1002/stem.767
+STEM CELLS 2011;29:1983–1994 www.StemCells.com
+graft-derived oligodendrocytes, and the provision of trophic
+support that reduces the damage and creates a permissive sub-
+strate for axonal growth. In previous studies, the transplanta-
+tion of NS/PCs derived from various sources into mouse SCI
+models [3, 6, 12, 15] resulted in the remyelination of spared
+axons by graft-derived oligodendrocytes and good recovery of
+locomotor function after SCI. These findings could imply that
+graft-derived oligodendrocytes play a role in functional recov-
+ery. However, a causative relationship between the actions of
+graft-derived oligodendrocytes, including remyelination, and
+the observed functional recovery has not been fully addressed.
+In this study, we analyzed the importance of graft-derived
+oligodendrocytes to functional recovery after SCI by compar-
+ing the transplantation of NS/PCs from wild-type mice with
+NS/PCs from myelin-deficient shiverer mutant mice [19–21].
+The latter have a partial deletion in the gene encoding myelin
+basic protein (MBP) [22–25]. The present data establish the
+importance of graft-derived oligodendrocytes in the functional
+recovery of the injured spinal cord after NS/PC transplanta-
+tion. This insight will be crucial for extending stem-cell-based
+therapy to SCI repair.
+MATERIALS AND METHODS
+NS/PC Cultures
+The methods for culture and expansion of NS/PCs were as
+described previously [26]. In brief, the striata of Jcl:ICR
+(ICR) background homozygous shiverer mutant mice and
+wild-type C57BL/6J mice on embryonic day 14 were dissoci-
+ated using a fire-polished glass pipette. The dissociated cells
+were collected by centrifugation and resuspended in culture
+medium followed by cell cluster (neurosphere) formation. For
+differentiation, the neurospheres were cultured without serum
+or growth factors. In vitro myelin marker assay was per-
+formed with the method modified from Stankoff et al. [27]
+(See Supporting Information Materials and Methods).
+The proliferation assay was performed by measuring ATP,
+which indirectly reflects the number of viable cells. Popula-
+tion doubling times were determined using the ATP assay, as
+described elsewhere [28, 29]. Trophic factor analysis was
+also performed, as described previously [30] (See Supporting
+Information).
+Animal Model
+Adult female NOD/SCID (NOD.CB17-Prkdcscid/J) mice (8–
+10 week old, 20–22 g, n ¼ 42; Charles River Laboratories,
+Kanagawa, Japan) were anesthetized with an intraperitoneal
+(i.p.) injection of ketamine (100 mg/kg) and xylazine (10 mg/
+kg). After laminectomy at the 10th thoracic spinal vertebra
+(T10), the dorsal surface of the dura mater was exposed. SCI
+was induced as described previously [31], using a commer-
+cially available SCI device (IH impactor, Precision Systems
+and Instrumentation, Lexington, KY, USA; http://www.presy-
+sin.com). This device creates a reliable contusion injury by
+rapidly applying a force-defined impact (60 kdyn) with a
+stainless steel-tipped impactor. All experiments were per-
+formed in accordance with the Guidelines for the Care and
+Use of Laboratory Animals of Keio University School of
+Medicine and the Guide for the Care and Use of Laboratory
+Animals (National Institutes of Health, Bethesda, MD, USA).
+Cell Transplantation
+A fusion HIV-1 based lentiviral vector, expressing ffLuc
+(Venus fused to firefly luciferase) under the control of the
+elongation factor 1a (EF1a) promoter [30], was used to label
+NS/PCs prior to grafting. This vector enabled the detection of
+grafted cells as strong bioluminescent ffLuc signals in live
+SCI mice and as fluorescent Venus signals using anti-green
+fluorescent protein antibody in fixed spinal-cord sections. This
+virus was obtained as previously reported [32]. The concen-
+trated virus was added to the culture medium to infect pri-
+mary NS/PCs derived from shiverer or wild-type mice (multi-
+plicity of injection ¼ 1.0). The lentivirally transduced NS/PCs
+(5  105 cells per two microliters) were transplanted into the
+lesion epicenter 9 days after SCI as previously reported [11,
+12, 15, 16, 31-33].
+The NS/PCs were injected with a glass micropipette at a
+rate of 1 ll/minute with a Hamilton syringe (25 ll) and a
+stereotaxic microinjector (KDS 310, Muromachikikai Co.
+Ltd., Tokyo, Japan, http://www.muromachi.com). shi-NS/PCs
+were transplanted into 15 mice (shi-NS/PC group), and wt-
+NS/PCs were transplanted into 13 mice (wt-NS/PC group).
+Phosphate-buffered saline (PBS; 2 ll per mouse) was injected
+into the lesion epicenter of control mice (control group; n ¼
+14). After surgery, animal care was performed in the Support-
+ing Information.
+Bioimaging
+The Xenogen-IVIS spectrum cooled charge-coupled device
+(CCD) optical macroscopic imaging system (Caliper Life-
+Sciences, Hopkinton, MA, USA; http://www.caliperls.com)
+was used for bioimaging to confirm the survival of the trans-
+planted NS/PCs. Monitoring was performed for 6 weeks after
+the transplantation, as described previously with slight modifi-
+cation [31] (See Supporting Information).
+Motor Function Analysis
+Hind limb motor function was evaluated for 7 weeks after
+SCI using the locomotor rating test of the Basso Mouse Scale
+(BMS) [34]. Well-trained investigators, blinded to the treat-
+ments, performed the behavioral analysis, determining the
+BMS scores at the same time each day. We also measured the
+motor function of each group (n ¼ 5 each) on a rotating rod
+apparatus (Muromachikikai Co., Ltd., Japan), consisting of a
+plastic rod (3-cm diameter, 8-cm long) with a gritted surface,
+flanked by two large discs (40-cm diameter). At 7 weeks after
+SCI, mice from each group were tested by monitoring the
+time that each mouse spent on the rod as it rotated at 10 rpm
+during 2-minute sessions [35]. Three trials were conducted,
+and the average and maximum numbers of seconds were
+recorded. Gait analysis was performed using the DigiGait
+Image Analysis System (Mouse Specifics, Quincy, MA, USA;
+http://www.mousespecifics.com). Data collection for DigiGait
+analysis was performed 7 weeks after injury, when each
+mouse demonstrated consistent weight-supported hind limb
+stepping on the treadmill at a speed of 8 cm/sec.
+Histological Analyses
+Animals were anesthetized and transcardially perfused with
+4% paraformaldehyde in 0.1 M PBS, 6 weeks after transplan-
+tation. The spinal cords were removed, embedded in Optimal
+Cutting Temperature compound (Sakura Finetechnical Co.,
+Ltd., Tokyo, Japan; http://www.sakuraus.com), and sectioned
+in the sagittal/axial plane at 12 lm on a cryostat (Leica
+CM3050 S, Leica Microsystems, Wetzlar, Germany; http://
+www.leica.com). Sections were stained with hematoxylin-
+eosin (HE), or Luxol Fast Blue (LFB), or processed for
+immunohistochemistry followed by quantitative analyses.
+Samples were examined on an inverted fluorescence micro-
+scope (BZ 9000; Keyence Co., Osaka, Japan; http://
+www.keyence.co.jp) or a confocal laser-scanning microscope
+(LSM 700, Carl Zeiss, Munchi, Germany; http://www.zeiss.
+1984 Significance of Remyelination by Grafted NS/PCs
+com). We also performed immuno-electron microscopic anal-
+yses (See Supporting Information).
+Electrophysiology
+Electrophysiological experiments were performed immediately
+after injury, immediately after transplantation, and 7 weeks
+after injury. An electromyography (EMG)/evoked potential
+measuring system (Neuropack S1 MEB-9400 series, Nihon
+Kohden, Tokyo, Japan; http://www.nihonkohden.co.jp) was
+used. Mice were anesthetized with an i.p. injection of keta-
+mine (40 mg/kg) and xylazine (4 mg/kg), as described in
+other paper [16]. One electrode was injected into the spinal
+cord of the occipito-cervical area to induce motor-evoked
+potential (MEP) and the sciatic nerve to induce compound
+motor action potential (CMAP). For the recording of the
+potentials, two needle electrodes were placed in each hind
+limb. The active electrode was placed in the muscle belly of
+each limb, and the reference electrode was placed near the
+distal tendon of the muscle. The ground electrode was placed
+subcutaneously between the coil and the recording electrodes.
+To induce MEP, a stimulation of 0.4 mA intensity was
+applied at the electrode [16].
+Throughout the experiments, the duration of the pulse was
+0.2 ms. CMAPs were recorded by measuring the maximum
+amplitude that was achieved by stimulating the sciatic nerve
+with a single pulse of supramaximal intensity. The onset
+latency was measured as the length of time in milliseconds
+between the stimulus and the onset of the first wave. The
+amplitude (mV) was measured from the initiation point of
+the first wave to its highest point. Results were expressed as
+the MEP/CMAP ratio (%) so as to adjust for differences
+between individual mice [14, 36]. Ten responses were aver-
+aged and sorted for off-line analysis.
+Statistical Analyses
+All data are presented as the mean 6 SEM. An unpaired two-
+tailed Student’s t test was used for determining significant dif-
+ferences between groups in the in vitro and in vivo differentia-
+tion assays, the bioimaging analysis, analyses of the Venus-pos-
+itive areas, and MEP analyses. Analysis of variance (ANOVA)
+followed by the Tukey-Kramer test for multiple comparisons
+among the three transplantation groups was used for the 5-
+hydroxytryptamine(HT) analysis, Rota-rod and gait analysis.
+Repeated measures two-way ANOVA followed by the Tukey-
+Kramer test was used for analysis of the HE-, LFB-, and neuro-
+filament-heavy chain (NF-H)-stained sections and BMS scores.
+For all statistical analyses, the significance was set at p < .05.
+RESULTS
+In Vitro Characterization of NS/PCs Derived from
+shiverer Mutant Mice Embryos
+For the in vitro characterization of NS/PCs derived from shiv-
+erer mutant mice, proliferation and differentiation assays were
+performed. shi-NS/PCs and wt-NS/PCs were cultured as neuro-
+spheres, as previously reported [26, 37]. The shi-NS/PCs
+formed floating cell clusters (neurospheres) within 2–3 days
+(Supporting Information Fig. 1A), with a morphology identical
+to that of the wt-NS/PC-derived neurospheres (Supporting In-
+formation Fig. 1B). The proliferation rates of the shi-NS/PCs
+and wt-NS/PCs were evaluated indirectly by measuring the pro-
+duction of ATP. There was no significant difference in the dou-
+bling time between shi-NS/PCs and wt-NS/PCs (26.7 6 1.3
+hours vs. 26.16 1.3 hours) (Supporting Information Fig. 1C).
+An in vitro differentiation assay revealed that both shi-
+NS/PCs and wt-NS/PCs differentiated into neuron-specific
+class III beta tubulin (Tuj-1)þ neurons, glial fibrillary acidic
+protein (GFAP)þ astrocytes, and 2030-cyclic nucleotide 30-
+phosphodiesterase (CNPase)þ oligodendrocytes (Fig. 1A).
+There were no significant differences in the proportions of the
+different cell types generated between the shi-NS/PCs and wt-
+NS/PCs (Tuj-1, 7.7 6 1.1% vs. 8.1 6 0.8%; GFAP, 65.4 6
+1.9% vs. 64.9 6 1.8%; CNPase, 9.2 6 1.3% vs. 8.7 6 0.6%;
+Fig. 1B). Next, oligodendroglial differentiation was examined
+via the addition of platelet-derived growth factor (PDGF)-AA
+and ciliary neurotrophic factor (CNTF) to promote in vitro
+myelination [27]. Although the wt-NS/PCs produced O1þ,
+CNPaseþ, proteolipid protein (PLP)þ, and MBPþ oligo-
+dendrocytes, the shi-NS/PCs produced oligodendrocytes
+positive for O1, CNPase, and PLP but negative for MBP
+(Fig. 1C, 1D).
+Grafted shi-NS/PCs and wt-NS/PCs Survived
+Within the Injured Spinal Cord
+To identify and monitor the transplanted cells in the injured
+spinal cord, both shi-NS/PCs and wt-NS/PCs were transduced
+to express ffLuc under the EF1a promoter by lentiviral infec-
+tion. Because of the stable and strong emission of ffLuc,
+which is a fusion protein of Venus and luciferase, we could
+identify the grafted cells as fluorescent Venus signals and bio-
+luminescent luciferase signals (C.M. Hara et al., manuscript
+submitted for publication). Prior to the transplantation, we
+confirmed that ffLuc was expressed in the shi-NS/PCs by flu-
+orescence microscopy (Fig. 2A) and was detectable by the
+IVIS bioimaging system. We also confirmed the ffLuc trans-
+duction into wt-NS/PCs, as previously reported [32]. Next,
+shi-NS/PCs or wt-NS/PCs were transplanted into the lesion
+site of NOD/SCID mice 9 days after contusive SCI.
+The successful transplantation of shi-NS/PCs and wt-NS/
+PCs could be confirmed immediately by bioluminescence
+imaging (BLI); the average signal intensity was (1.7 6 0.5) 
+108 photons per mouse per sec in the transplanted mice. The
+BLI analysis revealed that the signal intensity of the grafted
+cells decreased sharply within the first week after transplanta-
+tion but remained at approximately 20% of the initial signal
+intensity in both shi-NS/PCs and wt-NS/PC groups throughout
+the remaining period (Fig. 2C). After 6 weeks of transplanta-
+tion, the survival of both grafted shi-NS/PCs and wt-NS/PCs
+in and around the lesion site was detected in tissue sections
+by anti-Venus immunostaining (Fig. 2D). There was no sig-
+nificant difference in the survival rate detected by BLI
+between the shi-NS/PCs and wt-NS/PCs groups (21.5 6 1.5%
+vs. 18.3 6 1.4%), which was also confirmed by quantitative
+histological analysis of the Venusþ area (0.021 6 0.003 mm2
+vs. 0.024 6 0.004 mm2) 6 weeks after transplantation (Fig.
+2E). Next, the migration of grafted cells was analyzed by
+comparing Venusþ areas in axial sections of the spinal cord
+for each group. No significant migratory differences were
+revealed in and around the lesion site (Fig. 2F, 2G).
+Grafted shi-NS/PCs and wt-NS/PCs Exhibited
+Similar Differentiation Potential
+To examine the differentiation potential of shi-NS/PCs grafted
+into the injured spinal cord, we performed immunohistochem-
+ical analyses 6 weeks after transplantation. The shi-NS/PCs
+differentiated into Huþ neurons, GFAPþ astrocytes, and
+APCþ oligodendrocytes (Fig. 3A). A comparison between the
+cell types that differentiated from the shi-NS/PCs and wt-NS/
+PCs in vivo showed no significant differences (Huþ, 9.1 6
+0.5% vs. 9.2 6 1.0%; GFAPþ, 54.3 6 2.0% vs. 56.7 6
+Yasuda, Tsuji, Shibata et al. 1985
+www.StemCells.com
+2.4%; APCþ, 33.7 6 1.7% vs. 30.0 6 2.2% [Fig. 3B]), simi-
+lar to our findings in vitro. Thus, the shi-NS/PCs and wt-NS/
+PCs gave rise to similar differentiated cell types in vivo as
+well as in vitro.
+Transplanted shi-NS/PCs Prevented Atrophic
+Changes in the Injured Spinal Cord and
+Promoted Axonal Growth After SCI
+To examine the effects of shi-NS/PC transplantation on the
+injured spinal cord, we first evaluated the amount of atrophy,
+by HE staining (Fig. 4A). The transverse area of the spinal
+cord at the lesion epicenter was significantly larger in both
+the shi-NS/PC and wt-NS/PC groups than in the control
+group, and there was no difference between the amount of
+enlargement in the experimental groups, suggesting that shi-
+NS/PCs and wt-NS/PCs provided equivalent protection from
+atrophy (Fig. 4B). Next, we examined the effects of trans-
+planted shi-NS/PCs on axonal growth after SCI by immuno-
+histochemical analyses, with anti-NF-H (RT97) and anti-5-hy-
+droxytryptamine (5-HT) antibodies. Although a few NF-Hþ
+axons were observed at the rim of the epicenter in the control
+Figure 1. In vitro differentiation characteristics of shi-neural stem/progenitor cells (NS/PCs). (A): shi-NS/PCs differentiated into Tuj-1þ neu-
+rons, GFAPþ astrocytes, and CNPaseþ oligodendrocytes, like wt-NS/PCs. Scale bar ¼ 50 lm. (B): There were no significant differences in the
+proportion of differentiated cells generated by the shi-NS/PCs versus the wt-NS/PCs. (C): After adding platelet-derived growth factor AA and cil-
+iary neurotrophic factor to the culture medium, both wt-NS/PCs and shi-NS/PCs differentiated into O1þ, CNPaseþ, and PLPþ oligodendrocytes.
+Oligodendrocytes from shi-NS/PCs showed no MBP expression, as expected [22–24]. Scale bar ¼ 20 lm. (D): O1, CNPase, and PLP immuno-
+staining assays showed no significant difference between the shi-NS/PCs and wt-NS/PCs, but MBPþ oligodendrocytes were only seen in cultures
+of wt-NS/PCs (*p, < .01). Abbreviations: CNPase, 2030-cyclic nucleotide 30-phosphodiesterase; GFAP, glial fibrillary acidic protein; MBP, myelin
+basic protein; PLP, proteolipid protein; shi, shiverer; Tuj1, neuron-specific class III beta tubulin; wt, wild type.
+1986 Significance of Remyelination by Grafted NS/PCs
+PBS-injected group (Fig. 4C), there were significantly more
+NF-Hþ neuronal fibers in the shi-NS/PC and wt-NS/PC
+groups, at the lesion epicenter and at sites rostral and caudal
+to it (Fig. 4D); the same effect was seen for 5-HTþ serotoner-
+gic fibers at the lumbar enlargement, which are critical for
+hind limb locomotor functions [38–40] (Fig. 4E, 4F).
+Grafted wt-NS/PCs, but not shi-NS/PCs, Preserved
+and/or Enhanced Myelination Within the Injured
+Spinal Cord
+In the control group, contusive SCI resulted in severe demye-
+lination at the lesion site. Both the grafted shi-NS/PCs and
+wt-NS/PCs showed preserved and/or enhanced myelination
+Figure 2. Survival of grafted shi-neural stem/progenitor cells (NS/PCs) in the injured spinal cord. (A): Fluorescence and phase-contrast images
+of shi-NS/PCs-derived neurospheres just before transplantation. Scale bar ¼ 100 lm. (B): Representative in vivo images of shi-NS/PCs trans-
+planted into the injured spinal cord of an adult NOD/SCID mouse. Survival of grafted shi-NS/PCs was detected for 42 days after the transplanta-
+tion. (C): Quantitative analysis of photon counts in recipients of shi-NS/PC and wt-NS/PC grafts revealed no significant difference in the survival
+rate of the grafted cells for 42 days after the transplantation (n ¼ 6 mice per group, two-tailed t test). (D): Representative image of a midsagittal
+section of a shi-NS/PC-grafted spinal cord that was immunostained for Venus using an anti-GFP antibody. Scale bar ¼ 500 lm. (E): Quantitative
+analysis of the Venus-positive area at the lesion epicenter revealed no significant difference between the shi-NS/PC and wt-NS/PC groups 6
+weeks after transplantation (n ¼ 4). (F): Representative images of an axial section of lesion epicenter (left) and the area surrounding the lesion
+(0.6-mm rostral from the lesion site: right) immunostained for Venus using an anti-GFP antibody. (G): Quantitative analysis of the migration of
+grafted cells as assessed on the Venus-immunostained sections revealed no significant differences between shi-NS/PC and wt-NS/PC groups at
+and around the lesion site (n ¼ 4 mice per group). Abbreviations: DAB, diaminobenzidine; GFP, green fluorescent protein; NOD/SCID, NOD/
+SCID (NOD.CB17-Prkdcscid/J); shi, shiverer; wt, wild type.
+Yasuda, Tsuji, Shibata et al. 1987
+www.StemCells.com
+after SCI, compared with controls. Notably, the wt-NS/PC
+group showed the largest LFBþ myelination area among the
+three groups (Fig. 5A, 5B, 5C). Consistent with this finding,
+Venusþ/MBPþ double-labeled myelin sheaths were seen in
+the wt-NS/PC group but none were observed in the shi-NS/PC
+group (Fig. 5D, 5E, 5F). We confirmed these findings by
+immuno-electron microscopy (EM). In the shi-NS/PC group,
+there were a few axonal profiles showing poor myelination
+with Venusþ labeling, whereas in the wt-NS/PC group, pro-
+files showing mature, Venusþ myelin sheaths were present.
+Immuno-EM examination under higher magnification revealed
+nanogold-labeled Venusþ spots in the outer and inner mes-
+axons of the myelin cytoplasm (Fig. 5G, 5H). These findings
+suggest that shi-NS/PC-derived oligodendrocytes made only
+thin, poorly formed myelin sheathes, but those derived from
+wt-NS/PCs were capable of forming mature sheathes on
+remyelinated axons.
+Transplanted wt-NS/PCs, but Not shi-NS/PCs,
+Enhanced Significant Locomotor Functional
+Recovery After SCI
+We assessed locomotor functional recovery using the BMS
+scoring of open field walking, the rota-rod treadmill test, and
+gait analysis. We used PBS-injected animals as a negative
+control, which exhibit little difference in BMS scores com-
+pared to another negative control animals with fibroblast
+transplantation [15].
+Just after SCI (day 1), the animals exhibited complete
+hind limb paralysis (BMS score 0), followed by gradual re-
+covery that plateaued at around 4 weeks, in the control group.
+Although there was no significant difference in the BMS
+scores among the control, shi-NS/PC, and wt-NS/PC groups at
+2 weeks after SCI, mice of the wt-NS/PC group had signifi-
+cantly higher BMS scores than the control group mice on day
+28 and thereafter. Conversely, the shi-NS/PC group showed a
+little functional recovery soon after transplantation but it was
+not statistically significant. By 6 weeks after transplantation,
+the BMS score of the wt-NS/PC group was significantly
+higher than that of the shi-NS/PC group (3.9 6 0.2 vs. 3.0 6
+0.1; Fig. 6A). These data were consistent with the results of
+the rota-rod treadmill and gait analyses. In the rota-rod tread-
+mill test, the wt-NS/PC-transplanted mice remained on the
+rod significantly longer than those of the control group,
+whereas the shi-NS/PC-transplanted mice fell off the rod with
+the similar timing to the control group (Fig. 6B). Gait charac-
+teristics were measured with the DigiGait Image Analysis
+System. Stride length was significantly greater in the wt-NS/
+PC group than in the control group; however, the shi-NS/PC
+group showed no significant difference compared with con-
+trols (Fig. 6C).
+Finally, an MEP analysis was performed as an electro-
+physiological assessment to measure the MEP latency and
+amplitude and to examine signal conduction in the injured
+spinal cord. The latency of the MEP was measured from the
+onset of the stimulus to the first response to each wave. None
+of the mice demonstrated an MEP response immediately after
+SCI or immediately after NS/PC transplantation (9 days after
+SCI; Supporting Information Fig. 2). At 6 weeks after shi-NS/
+PC transplantation, we detected MEP response of which la-
+tency was significantly longer than that obtained after wt-NS/
+PC transplantation (15.7 6 0.7 ms vs. 8.0 6 0.7 ms). Further-
+more, MEP amplitude of shi-NS/PC group was significantly
+smaller than that of wt-NS/PC group (MEP/CMAP 0.5 6
+0.1% vs. 0.8 6 0.1%; Fig. 6F). By contrast, no MEP response
+was detected in the control group under our experimental
+Figure 3. In vivo differentiation characteristics of shi-neural stem/progenitor cells (NS/PCs) grafted into the injured spinal cord of NOD/SCID
+mice. (A): shi-NS/PCs differentiated into Huþ neurons, GFAPþ astrocytes, and APCþ oligodendrocytes in vivo as well as in vitro. Scale bar ¼
+20 lm (left), 5 lm (right). (B): The pattern of the differentiated phenotypes was also identical between the shi-NS/PCs and wt-NS/PCs in vivo (n
+¼ 5 mice per group). Abbreviations: APC, adenomatous polyposis coli antigen (APC: clone. CC1); GFAP, glial fibrillary acidic protein; Hu;
+NOD/SCID, NOD/SCID (NOD.CB17-Prkdcscid/J); shi, shiverer; wt, wild type.
+1988 Significance of Remyelination by Grafted NS/PCs
+conditions (Fig. 6D). These data support a critical role for sig-
+nal conduction in the extent of hind limb locomotor func-
+tional recovery following NS/PC transplantation.
+DISCUSSION
+There is increasing interest in stem-cell transplantation for the
+diseased or injured CNS, including for SCI. Considering their
+clinical application, the precise mechanisms of action of
+many stem-cell populations still remain to be elucidated at
+the preclinical level. Theoretically, possible mechanisms of
+therapeutic effects of stem-cell transplantation in CNS dis-
+eases/injuries include: (a) cell replacement for lost cells after
+CNS damage (e.g., forming new oligodendrocytes and/or neu-
+rons) and (b) trophic support to increase survival of host neu-
+ral cells and host-mediated regeneration, repair, and/or plastic-
+ity [3, 41]. While the latter mechanisms include short-term
+neurotrophic/neuroprotective effects, the graft-derived cells
+should differentiate into the appropriate cells and survive over
+the long-term to achieve functional recovery through the cell
+replacement.
+Accordingly, to obtain long-term survival of graft-derived
+cells in the damaged host CNS and to investigate the role of
+graft-mediated remyelination in this study, we used a constitu-
+tively immunodeficient animal model, NOD/SCID mice, as
+hosts. NOD/SCID mice lack normal T-cell, B-cell, and com-
+plement responses [42, 43]. The use of NOD/SCID mice is
+known to result in a greater cell survival and engraftment for
+allograft and xenograft in comparison with conventional
+immunosuppressant treatment, that is, cyclosporin A or
+FK506, which targets T-cell activation/proliferation via dis-
+rupting calcineurin signaling. In most models using with con-
+ventional pharmacologic immunosuppression, there is a pro-
+gressive loss of cells for more than 1–4 months. In the initial
+experiments for this study, we performed allografts using dif-
+ferent mouse strains as grafts and recipients to investigate the
+effects of NS/PCs derived from myelin-deficient shiverer mu-
+tant versus wild-type mice. We maintain shiverer mutant
+mice with the ICR background as a homozygous closed
+colony. Because mice with the ICR background have been
+poorly characterized with respect to histopathology or behav-
+ioral assays after SCI, we selected C57BL/6J mice as the host
+for NS/PC transplants. However, when shi-NS/PCs with the
+ICR background were transplanted into C57BL/6J hosts
+Figure 4. Effects of transplanted shi-neural stem/progenitor cells (NS/PCs) in the injured spinal cord. (A): Representative HE staining images
+of an axially sectioned spinal cord at the lesion epicenter, 7 weeks after injury. (B): Quantitative analysis of the spinal cord area measured in
+HE-stained axial sections through different regions. The transverse area of the spinal cord at the lesion epicenter was significantly larger in the
+shi-NS/PC and wt-NS/PC groups than the vehicle control group (n ¼ 4 mice per group). (C): Representative images of sagittal sections stained
+for NF-H, from in all three groups, showing the rim of the lesion epicenter. (D): Quantitative analysis of the NF-Hþ area at each distance point.
+While few NF-Hþ neuronal fibers were seen at the lesion epicenter in the control group, there were significantly more NF-Hþ neuronal fibers in
+the shi-NS/PC and wt-NS/PC groups. This was also true at 0.3-mm caudal to the lesion. At 0.6-mm caudal and 0.3-mm rostral to the lesion, the
+wt-NS/PC group had significantly more NF-Hþ fibers than the control group (n ¼ 4). (E): Representative images from all three groups of axial
+sections stained for 5-HT at the lumbar enlargement. (F): Quantitative analysis of the 5-HTþ area in axial sections at the lumbar enlargement.
+Significantly more 5-HTþ fibers were observed in the shi-NS/PC and wt-NS/PC group than in the control group (n ¼ 4; *: p, < .05 in (B), (D),
+and (F)). Scale bars ¼ 500 lm in (A), 50 lm in (C) and (E). Abbreviations: HE, hematoxylin-eosin; 5-HT, 5-hydroxytryptamine; NF, neurofila-
+ment; PBS, phosphate-buffered saline; shi, shiverer; wt, wild type.
+Yasuda, Tsuji, Shibata et al. 1989
+www.StemCells.com
+Figure 5. Grafted wt-neural stem/progenitor cells (NS/PCs), but not shi-NS/PCs, preserved and/or enhanced myelination within the injured spi-
+nal cord. (A): Representative LFB-staining images of axially sectioned spinal cord at the lesion epicenter, 7 weeks after the injury. (B): Higher
+magnification images of the boxed areas in (A). (C): Quantitative analysis of the myelinated area assessed on LFB-stained axial sections revealed
+a greater myelinated area in the wt-NS/PC group, with significant differences observed at all points assayed except 0.9-mm rostral to the epicen-
+ter (n ¼ 4 mice per group; *, p < .05, wt-NS/PC group vs. shi-NS/PC group; **, p < .05, wt-NS/PC group vs. control). (D): Representative im-
+munohistochemical images stained for Venus, MBP, and NF-H. In the shi-NS/PC group, there were no Venusþ/MBPþ double-positive myelin
+sheaths even in areas in which myelin was rather well preserved. In the wt-NS/PC group, some MBP-positive myelin sheaths were also Venus
+positive (arrows). (E): Quantitative analysis of Venusþ/MBPþ double-positive sheaths. There was no Venusþ/MBPþ double-positive myelin
+sheath derived from shi-NS/PCs (*, p < .01). (F): Enlarged image of the boxed area in (D). wt-NS/PC-derived Venusþ sheath was also MBPþ
+which enwrapped the NF-Hþ neuronal fiber. (G): By immuno-electron microscopy, the transplanted cells were clearly identifiable by the black
+dots from the anti-green fluorescent protein (GFP) antibody. The number of GFPþ grafted cells in the injured site after spinal cord injury was
+quite similar; however, the myelin lamellar structures were totally different between shi-NS/PC-derived (left) and wt-NS/PC-derived (right)
+grafted cells. In the cytoplasm of the grafted shi-NS/PC-derived cells, multiple electron-lucent vacuoles were frequently observed, but they were
+observed much less in the cells derived from wild-type grafts. (H): At high magnification, remyelinated axons could be found that were sur-
+rounded by GFPþ transplanted cells (a–d). The GFP antibody labeling was often observed in the outer cytoplasm of the myelin (arrowheads).
+Note the huge difference in thickness of the myelin sheaths in the recipients of the wt-NS/PCs compared with the recipients of the shi-NS/PCs.
+Moreover, the formation of the major dense line in the newly formed myelin was selectively affected, especially in recipients of the shi mouse-
+derived grafts. Arrows: remyelinating graft cells; arrowheads: GFP immunoreactivity was indicated as black dots, yellow area: GFP-positive area,
+Scale bars ¼ 500 lm in (A), 50 lm in (B), 20 lm in (D), 10 lm in (F), 5 lm in (G), 0.1 lm in (H-a, b, c, d). Abbreviations: Ax, Axon; LFB,
+Luxol Fast Blue; MBP, myelin basic protein; My: myelin; N, nucleus; NF-H, neurofilament-heavy chain; PBS, phosphate-buffered saline; shi,
+shiverer; V, vacuole; wt, wild type.
+1990 Significance of Remyelination by Grafted NS/PCs
+Figure 6. Assessment of functional recovery after spinal cord injury (SCI) and neural stem/precursor cell (NS/PC) transplantation. (A): Mean
+BMS scores for each group over the 7-week recovery period. Although there was no significant difference in the BMS scores among the control
+(PBS), shi-NS/PC, and wt-NS/PC groups on day 14, the wt-NS/PC group exhibited significantly better functional recovery than the control
+group on day 28 and thereafter. There was no significant difference in the BMS scores between the shi-NS/PC and control groups. Furthermore,
+the wt-NS/PC group showed significantly better recovery than the shi-NS/PC group on days 42 and 49 (control, n ¼ 14; shi-NS/PC group, n ¼
+15; wt-NS/PC group, n ¼ 13; *, p < .05, wt-NS/PC group vs. control; **, p < .05, wt-NS/PC group vs. shi-NS/PC group or wt-NS/PCs group
+vs. control). (B): Time on the rotating rod in each group, 7 weeks after injury. The wt-NS/PC group stayed on the rod significantly longer than
+the control (PBS) group. There was no significant difference between the shi-NS/PC group and the control group (n ¼ 5 each; *, p < .05). (C):
+Stride length of each group obtained by gait analysis. The wt-NS/PC group showed a significantly greater stride length than the control group.
+There was no significant difference between that of the shi-NS/PC group and the control (PBS) group (n ¼ 5 each; *, p < .05). (D): Representa-
+tive profiles of MEPs from each group evaluated 7 weeks after injury. Although MEP waves were detected in the shi-NS/PC and wt-NS/PC
+groups, no waves were detected in the control (PBS) group. (E): Latency of MEP response in the shi-NS/PC and wt-NS/PC groups. The MEP
+latency was significantly longer in the shi-NS/PC group than in the wt-NS/PC group (n ¼ 3 each; *, p < .05). (F): MEP amplitude assessed by
+the MEP/CMAP ratio (%) of shi-NS/PC and wt-NS/PC groups. The wt-NS/PC group showed a significantly higher MEP amplitude than did the
+shi-NS/PC group (n ¼ 3 each; *, p < .05). Abbreviations: BMS, Basso Mouse Scale; CMAP, compound motor action potential; MEP, motor-
+evoked potential; PBS, phosphate-buffered saline; shi, shiverer; wt, wild type.
+Yasuda, Tsuji, Shibata et al. 1991
+www.StemCells.com
+without immunosuppression, their cell survival was much
+poorer than that of wt-NS/PCs derived from C57BL/6J mice.
+This was unexpected as the CNS is generally considered to be
+immune privileged. In fact, no surviving shi-NS/PCs were
+observed in the injured spinal cord of the C57BL/6J host at 5
+weeks after transplantation, and no functional recovery was
+detected (Supporting Information Fig. 3). Thus, rather than
+using conventional pharmacologic immunosuppression, to
+minimize immunological barriers for long-term engraftment
+after SCI, we adopted NOD/SCID mice as hosts, which could
+be used as recipients even in the xenograft of human cells
+into SCI mice models [3, 41]. While NOD/SCID mice have
+neutrophils, macrophages, and microglia resulting in innate
+immune responses, we observed similar survival rate of shi-
+NS/PCs and wt-NS/PCs for all through 6 weeks and identical
+differentiation characteristics in the injured spinal cord. More-
+over, we observed no evidence of progressive loss of either
+shi-derived or wt-derived cells.
+Based on these grounds, by taking advantage of NOD/
+SCID mice as host, we investigated the role of graft-derived
+remyelination in functional recovery after NS/PC transplanta-
+tion for SCI, which has been proposed as a possible mecha-
+nism [17, 44]. We found that the grafted NS/PCs were differ-
+entiated into oligodendrocytes and remyelinated spared axons
+in the injured spinal cord. Although some spontaneous remye-
+lination by endogenous oligodendrocyte precursor cells
+(OPCs) is seen after SCI, the number of demyelinated axons
+increases in the chronic phase [45]. These observations
+prompted studies in which myelinating Schwann cells [46,
+47], olfactory ensheathing glia [48, 49], and OPCs [50, 51]
+were transplanted in the hope that remyelination of the
+remaining axonal pathways by these cells would induce symp-
+tomatic relief after SCI. In fact, these reports showed promis-
+ing results in locomotor functional recovery and histological
+assessments, which included evidence of graft-derived remye-
+lination. The connection between remyelination and functional
+recovery, however, was not directly addressed in these
+reports.
+Here, by using the deficient myelination in shiverer mu-
+tant mice, we have obtained direct evidence that remyelina-
+tion by graft-derived oligodendrocytes contributes greatly to
+the functional recovery after SCI. Because of their genetic
+lack of MBP, a major component of CNS myelin, shiverer
+mutant mice have been used in numerous studies as transplant
+hosts for engrafted wild-type donor cells, including ESCs [52,
+53], Schwann cells [54, 55], NS/PCs [56, 57], glial precursors
+[58], OPCs [59], and iPSC-derived NS/PCs [15], all of which
+produced mature myelin that was unequivocally detected by
+immunohistochemistry. Furthermore, a previous study on chi-
+meric shiverer/wild-type mice showed that the myelination
+defects caused by the shiverer mutation are cell-autonomous,
+and that the myelin sheaths elaborated by shiverer mutant oli-
+godendrocytes do not harm wild-type sheaths [60]. In this
+study, we used the shiverer mice not as hosts but as donors,
+to determine whether shiverer NS/PCs could promote func-
+tional recovery after SCI. To the best of our knowledge, there
+are no previous reports in which shiverer mouse cells have
+been used as grafts.
+In this study, we first confirmed the similarity of shi-NS/
+PCs to wt-NS/PCs in vitro as well as in vivo. The shi-NS/PCs
+and wt-NS/PCs showed similar proliferation rates in vitro and
+survival rates within the injured spinal cord. Furthermore, the
+differentiation pattern of shi-NS/PCs was quite similar to that
+of wt-NS/PCs both in vitro and in vivo. A previous in vitro
+study demonstrated that OPCs derived from shiverer mice dif-
+ferentiate into mature oligodendrocytes [61]. Consistent with
+this, we found that shi-NS/PCs differentiated into CNPaseþ
+oligodendrocytes, indicating their capacity to generate a sub-
+set of myelin proteins. Furthermore, the shi-NS/PCs gave rise
+to O1 and PLPþ oligodendrocytes, which are thought to rep-
+resent mature cells [62, 63].
+A previous in vivo study also showed that the formation of
+a thin myelin sheath is common in the shiverer CNS [64]. In
+shiverer mice, however, the CNS myelin is not uniformly com-
+pacted, and the axoglial junctions are irregular in shape, size,
+and distribution [65], suggesting that MBP plays a critical role
+in the compaction of CNS myelin. Consistent with their find-
+ings, our immuno-EM studies showed that shi-NS/PC-derived
+oligodendrocytes formed only thin and loose myelin sheaths,
+while wt-NS/PC-derived oligodendrocytes formed far more sub-
+stantial myelin sheaths. At the chronic phase of SCI, some
+axons remain demyelinated and others have only thin myelin
+sheaths [66], which causes abnormal signal conduction [67].
+The thinly myelinated axons in the shi-NS/PC group could not
+conduct signals very well, resulting in an increased MEP latency
+and a smaller amplitude in the shi-NS/PC group compared with
+the wt-NS/PC group. Recent studies have established MEP as a
+sensitive technique for recording conduction in the CNS [14, 36,
+68-70]. Eftekharpour et al. [56] demonstrated a significantly
+shortened latency in the spinal cord-evoked potential in adult
+shiverer mice after wild-type NS/PCs transplantation, suggesting
+that conduction differences could be owing to spinal cord myeli-
+nation, all else being equal.
+In this study, we did not detect any MEP response in the
+control group, although even the shi-NS/PC-grafted animals
+exhibited a low-level MEP response with the longer latency and
+smaller amplitude (Fig. 6D, 6E). The significant difference in
+the latency and amplitude between shi-NS/PC- and wt-NS/PC-
+grafted animals indicated that nerve conduction in the spinal
+cord was impaired in the mutant group, which could potentially
+be due to faulty remyelination by the myelin-deficient graft-
+derived oligodendrocytes. Conversely, the current findings sug-
+gest that the transplantation of NS/PCs, regardless of their
+capacity to generate myelin, improves nerve conduction enough
+to elicit at least a minimal signal. Furthermore, the remyelina-
+tion by wt-NS/PCs-derived oligodendrocytes shortened the MEP
+latency compared to remyelination by myelin-deficient oligoden-
+drocytes, putatively by enabling saltatory conduction.
+The difference in the myelinating capacity of the wt- and
+shi-NS/PC-derived oligodendrocytes also affected the myelinated
+area of the injured spinal cord. The increase in the LFBþ my-
+elinated area in the wt-NS/PC group may be attributable to
+remyelination as well as the prevention of demyelination. In fact,
+the transplantation of shi-NS/PCs also enlarged the LFBþ area,
+primarily by preventing demyelination, and resulted in the func-
+tional improvement observed in the early time points after trans-
+plantation in the shi-NS/PC group, as in the wt-NS/PC group.
+Some studies have reported that the application of growth
+factors prevents demyelination after SCI [71, 72]. Functional
+recovery was observed soon after the treatment in those studies
+and this one, suggesting that trophic factors cause functional re-
+covery early in the post-transplantation period. In fact, we con-
+firmed that the shi-NS/PCs expressed mRNAs for many trophic
+factors, at levels that were almost identical to those of wt-NS/
+PCs (Supporting Information Fig. 4). Among these, the mRNAs
+encoding CNTF, growth and differentiation factor (GDF11),
+PDGF A (PDGFA), and vascular endothelial growth factor B
+showed relatively high expression levels. Other reports that dis-
+cuss cell transplantation approaches for the treatment of SCI
+have emphasized the significance of trophic factors secreted by
+the grafted cells [73]. It is possible that trophic support pro-
+vided by the grafts prevents demyelination and promotes
+functional recovery, although our finding that the growth
+factor mRNAs levels were almost the same in wt- and
+1992 Significance of Remyelination by Grafted NS/PCs
+shi-neurospheres suggests that they probably have only a partial
+effect, if any. Although other studies have suggested that graft-
+derived neurons [33, 74] and astrocytes [1] are important for
+functional recovery, similar percentages of the various cell
+types were generated by the wt- and shi-NS/PCs in this study.
+CONCLUSION
+We demonstrated that grafted NS/PCs-derived remyelination
+contributed to functional recovery after SCI. As myelination is a
+predominant contribution of grafted NS/PCs, NS/PCs can clearly
+target the myelination/demyelination issue and thus NS/PCs
+indeed hold promise for SCI treatment. Here, we elucidated one
+of the mechanisms that contribute to the efficacy of transplant-
+ing NS/PCs for SCI. Further comparisons of NS/PC and OPC
+transplantations will be needed before they can be used clini-
+cally. While not required by the Food and Drug Administration,
+we and others in the field believe that unraveling the regenera-
+tive mechanisms piece by piece is the quickest way to develop
+clinical approaches for the repair of SCI.
+ACKNOWLEDGMENTS
+We thank Drs. Kunihiko Suzuki, Kinuko Suzuki, and
+Aileen Anderson for their critical comments on the manu-
+script; Tokuko Harada for tender animal care; Sachiyo
+Miyao and Hiroko Shimada for technical support; and Dr.
+Hiroko Baba (Tokyo University of Pharmacy and Life Sci-
+ence) for the kind gift of the shiverer mice. This work was
+supported by grants from the Program for the Promotion of
+Fundamental Studies in Health Sciences of the National
+Institute of Biomedical Innovation (NIBIO); a grant from
+the Uehara Memorial Foundation; Grants-in-Aid for Scien-
+tific Research from the Japan Society for the Promotion of
+Science (JSPS) and the Ministry of Education, Culture,
+Sports, Science and Technology of Japan (MEXT); the Pro-
+ject for the Realization of Regenerative Medicine and sup-
+port for the core institutes for iPSC research from MEXT;
+the ‘‘Funding Program for World-leading Innovative R&D
+on Science and Technology’’ to H.O. from the Ministry of
+Health, Labor, and Welfare; the General Insurance Associa-
+tion of Japan; Research Fellowships for Young Scientists
+from the Japan Society for the Promotion of Science; Keio
+Gijuku Academic Development Funds; and a Grant-in-aid
+for the Global COE program from MEXT to Keio
+University.
+DISCLOSURE OF POTENTIAL
+CONFLICTS OF INTEREST
+The authors indicate no potential conflicts of interest.
+REFERENCES
+1 Hofstetter CP, Schwarz EJ, Hess D et al. Marrow stromal cells form
+guiding strands in the injured spinal cord and promote recovery. Proc
+Natl Acad Sci USA 2002;99:2199–2204.
+2 Cao Q, Xu XM, Devries WH et al. Functional recovery in traumatic
+spinal cord injury after transplantation of multineurotrophin-expressing
+glial-restricted precursor cells. J Neurosci 2005;25:6947–6957.
+3 Cummings BJ, Uchida N, Tamaki SJ et al. Human neural stem cells
+differentiate and promote locomotor recovery in spinal cord-injured
+mice. Proc Natl Acad Sci USA 2005;102:14069–14074.
+4 Keirstead HS, Nistor G, Bernal G et al. Human embryonic stem cell-
+derived oligodendrocyte progenitor cell transplants remyelinate and
+restore locomotion after spinal cord injury. J Neurosci 2005;25:
+4694–4705.
+5 Karimi-Abdolrezaee S, Eftekharpour E, Wang J et al. Delayed trans-
+plantation of adult neural precursor cells promotes remyelination and
+functional neurological recovery after spinal cord injury. J Neurosci
+2006;26:3377–3389.
+6 Salazar DL, Uchida N, Hamers FP et al. Human neural stem cells dif-
+ferentiate and promote locomotor recovery in an early chronic spinal
+cord injury NOD-scid mouse model. PLoS ONE 2010;5:e12272.
+7 Ogawa Y, Sawamoto K, Miyata T et al. Transplantation of in vitro-
+expanded fetal neural progenitor cells results in neurogenesis and
+functional recovery after spinal cord contusion injury in adult rats. J
+Neurosci Res 2002;69:925–933.
+8 Hofstetter CP, Holmstrom NA, Lilja JA et al. Allodynia limits the
+usefulness of intraspinal neural stem cell grafts; directed differentia-
+tion improves outcome. Nat Neurosci 2005;8:346–353.
+9 Iwanami A, Kaneko S, Nakamura M et al. Transplantation of human
+neural stem cells for spinal cord injury in primates. J Neurosci Res
+2005;80:182–190.
+10 Moreno-Manzano V, Rodriguez-Jimenez FJ, Garcia-Rosello M et al.
+Activated spinal cord ependymal stem cells rescue neurological func-
+tion. Stem Cells 2009;27:733–743.
+11 McDonald JW, Liu XZ, Qu Y et al. Transplanted embryonic stem
+cells survive, differentiate and promote recovery in injured rat spinal
+cord. Nat Med 1999;5:1410–1412.
+12 Kumagai G, Okada Y, Yamane J et al. Roles of ES cell-derived glio-
+genic neural stem/progenitor cells in functional recovery after spinal
+cord injury. PLoS ONE 2009;4:e7706.
+13 Chen J, Bernreuther C, Dihne M et al. Cell adhesion molecule l1-
+transfected embryonic stem cells with enhanced survival support
+regrowth of corticospinal tract axons in mice after spinal cord injury.
+J Neurotrauma 2005;22:896–906.
+14 Erceg S, Ronaghi M, Oria M et al. Transplanted oligodendrocytes and
+motoneuron progenitors generated from human embryonic stem cells
+promote locomotor recovery after spinal cord transection. Stem Cells
+2010;28:1541–1549.
+15 Tsuji O, Miura K, Okada Y et al. Therapeutic potential of appropri-
+ately evaluated safe-induced pluripotent stem cells for spinal cord
+injury. Proc Natl Acad Sci USA 2010;107:12704–12709.
+16 Nori S, Okada Y, Yasuda A et al. Grafted human-induced pluripotent
+stem-cell-derived neurospheres promote motor functional recovery af-
+ter spinal cord injury in mice. Proc Natl Acad Sci USA 2011;108:
+16825–16830.
+17 Barnabe-Heider F, Frisen J. Stem cells for spinal cord repair. Cell
+Stem Cell 2008;3:16–24.
+18 Lindvall O, Kokaia Z. Stem cells in human neurodegenerative disor-
+ders–time for clinical translation? J Clin Invest 2010;120:29–40.
+19 Bird TD, Farrell DF, Sumi SM. Brain lipid composition of the shiv-
+erer mouse: (genetic defect in myelin development). J Neurochem
+1978;31:387–391.
+20 Dupouey P, Jacque C, Bourre JM et al. Immunochemical studies of
+myelin basic protein in shiverer mouse devoid of major dense line of
+myelin. Neurosci Lett 1979;12:113–118.
+21 Privat A, Jacque C, Bourre JM et al. Absence of the major dense line
+in myelin of the mutant mouse ‘‘shiverer’’. Neurosci Lett 1979;12:
+107–112.
+22 Roach A, Boylan K, Horvath S et al. Characterization of cloned
+cDNA representing rat myelin basic protein: Absence of expression in
+brain of shiverer mutant mice. Cell 1983;34:799–806.
+23 Kimura M, Inoko H, Katsuki M et al. Molecular genetic analysis of
+myelin-deficient mice: Shiverer mutant mice show deletion in gene (s)
+coding for myelin basic protein. J Neurochem 1985;44:692–696.
+24 Roach A, Takahashi N, Pravtcheva D et al. Chromosomal mapping of
+mouse myelin basic protein gene and structure and transcription of the
+partially deleted gene in shiverer mutant mice. Cell 1985;42:149–155.
+25 Mikoshiba K, Okano H, Tamura T et al. Structure and function of
+myelin protein genes. Annu Rev Neurosci 1991;14:201–217.
+26 Reynolds BA, Tetzlaff W, Weiss S. A multipotent EGF-responsive
+striatal embryonic progenitor cell produces neurons and astrocytes. J
+Neurosci 1992;12:4565–4574.
+27 Stankoff B, Aigrot MS, Noel F et al. Ciliary neurotrophic factor
+(CNTF) enhances myelin formation: A novel role for CNTF and
+CNTF-related molecules. J Neurosci 2002;22:9221–9227.
+28 Kanemura Y, Mori H, Kobayashi S et al. Evaluation of in vitro prolif-
+erative activity of human fetal neural stem/progenitor cells using
+Yasuda, Tsuji, Shibata et al. 1993
+www.StemCells.com
+indirect measurements of viable cells based on cellular metabolic ac-
+tivity. J Neurosci Res 2002;69:869–879.
+29 Yamane J, Nakamura M, Iwanami A et al. Transplantation of galec-
+tin-1-expressing human neural stem cells into the injured spinal cord
+of adult common marmosets. J Neurosci Res 2010;88:1394–1405.
+30 Stirling DP, Liu S, Kubes P et al. Depletion of Ly6G/Gr-1 leukocytes
+after spinal cord injury in mice alters wound healing and worsens neu-
+rological outcome. J Neurosci 2009;29:753–764.
+31 Okada S, Ishii K, Yamane J et al. In vivo imaging of engrafted neural
+stem cells: Its application in evaluating the optimal timing of trans-
+plantation for spinal cord injury. FASEB J 2005;19:1839–1841.
+32 Takahashi Y, Tsuji O, Kumagai G et al. Comparative study of meth-
+ods for administering neural stem/progenitor cells to treat spinal cord
+injury in mice. Cell Transplant 2011;205:727–739.
+33 Abematsu M, Tsujimura K, Yamano M et al. Neurons derived from
+transplanted neural stem cells restore disrupted neuronal circuitry in a
+mouse model of spinal cord injury. J Clin Invest 2010;120:3255–
+3266.
+34 Basso DM, Fisher LC, Anderson AJ et al. Basso Mouse Scale for
+locomotion detects differences in recovery after spinal cord injury in
+five common mouse strains. J Neurotrauma 2006;23:635–659.
+35 Ogura H, Matsumoto M, Mikoshiba K. Motor discoordination in mu-
+tant mice heterozygous for the type 1 inositol 1,4,5-trisphosphate re-
+ceptor. Behav Brain Res 2001;122:215–219.
+36 Oria M, Chatauret N, Raguer N et al. A new method for measuring
+motor evoked potentials in the awake rat: Effects of anesthetics. J
+Neurotrauma 2008;25:266–275.
+37 Reynolds BA, Rietze RL. Neural stem cells and neurospheres—re-
+evaluating the relationship. Nat Methods 2005;2:333–336.
+38 Kim JE, Liu BP, Park JH et al. Nogo-66 receptor prevents raphespinal
+and rubrospinal axon regeneration and limits functional recovery from
+spinal cord injury. Neuron 2004;44:439–451.
+39 Kaneko S, Iwanami A, Nakamura M et al. A selective Sema3A inhibi-
+tor enhances regenerative responses and functional recovery of the
+injured spinal cord. Nat Med 2006;12:1380–1389.
+40 Murray KC, Nakae A, Stephens MJ et al. Recovery of motoneuron
+and locomotor function after spinal cord injury depends on constitu-
+tive activity in 5-HT2C receptors. Nat Med 2010;16:694–700.
+41 Anderson AJ, Haus DL, Hooshmand MJ et al. Achieving stable
+human stem cell engraftment and survival in the CNS: Is the future of
+regenerative medicine immunodeficient? Regen Med 2011;6:367–406.
+42 Shultz LD, Schweitzer PA, Christianson SW et al. Multiple defects
+in innate and adaptive immunologic function in NOD/LtSz-scid mice.
+J Immunol 1995;154:180–191.
+43 Greiner DL, Hesselton RA, Shultz LD. SCID mouse models of human
+stem cell engraftment. Stem Cells 1998;16:166–177.
+44 Okano H. Neural stem cells: Progression of basic research and per-
+spective for clinical application. Keio J Med 2002;51:115–128.
+45 Totoiu MO, Keirstead HS. Spinal cord injury is accompanied by
+chronic progressive demyelination. J Comp Neurol 2005;486:373–383.
+46 Kuhlengel KR, Bunge MB, Bunge RP. Implantation of cultured sen-
+sory neurons and Schwann cells into lesioned neonatal rat spinal cord.
+I. Methods for preparing implants from dissociated cells. J Comp Neu-
+rol 1990;293:63–73.
+47 Martin D, Schoenen J, Delree P et al. Grafts of syngenic cultured,
+adult dorsal root ganglion-derived Schwann cells to the injured spinal
+cord of adult rats: Preliminary morphological studies. Neurosci Lett
+1991;124:44–48.
+48 Li Y, Field PM, Raisman G. Repair of adult rat corticospinal tract by
+transplants of olfactory ensheathing cells. Science 1997;277:2000–
+2002.
+49 Imaizumi T, Lankford KL, Kocsis JD. Transplantation of olfactory
+ensheathing cells or Schwann cells restores rapid and secure conduc-
+tion across the transected spinal cord. Brain Res 2000;854:70–78.
+50 Bambakidis NC, Miller RH. Transplantation of oligodendrocyte pre-
+cursors and sonic hedgehog results in improved function and white
+matter sparing in the spinal cords of adult rats after contusion. Spine J
+2004;4:16–26.
+51 Cao Q, He Q, Wang Y et al. Transplantation of ciliary neurotrophic
+factor-expressing adult oligodendrocyte precursor cells promotes
+remyelination and functional recovery after spinal cord injury. J Neu-
+rosci 2010;30:2989–3001.
+52 Liu S, Qu Y, Stewart TJ et al. Embryonic stem cells differentiate into
+oligodendrocytes and myelinate in culture and after spinal cord trans-
+plantation. Proc Natl Acad Sci USA 2000;97:6126–6131.
+53 Low HP, Greco B, Tanahashi Y et al. Embryonic stem cell rescue of
+tremor and ataxia in myelin-deficient shiverer mice. J Neurol Sci
+2009;276:133–137.
+54 Baron-Van Evercooren A, Gansmuller A, Duhamel E et al. Repair of
+a myelin lesion by Schwann cells transplanted in the adult mouse spi-
+nal cord. J Neuroimmunol 1992;40:235–242.
+55 McKenzie IA, Biernaskie J, Toma JG et al. Skin-derived precursors
+generate myelinating Schwann cells for the injured and dysmyelinated
+nervous system. J Neurosci 2006;26:6651–6660.
+56 Eftekharpour E, Karimi-Abdolrezaee S, Wang J et al. Myelination of
+congenitally dysmyelinated spinal cord axons by adult neural precur-
+sor cells results in formation of nodes of Ranvier and improved axonal
+conduction. J Neurosci 2007;27:3416–3428.
+57 Mothe AJ, Tator CH. Transplanted neural stem/progenitor cells gener-
+ate myelinating oligodendrocytes and Schwann cells in spinal cord de-
+myelination and dysmyelination. Exp Neurol 2008;213:176–190.
+58 Windrem MS, Schanz SJ, Guo M et al. Neonatal chimerization with
+human glial progenitor cells can both remyelinate and rescue the oth-
+erwise lethally hypomyelinated shiverer mouse. Cell Stem Cell 2008;
+2:553–565.
+59 Windrem MS, Nunes MC, Rashbaum WK et al. Fetal and adult
+human oligodendrocyte progenitor cell isolates myelinate the congeni-
+tally dysmyelinated brain. Nat Med 2004;10:93–97.
+60 Mikoshiba K, Yokoyama M, Takamatsu K et al. Chimeric analysis of
+the pathogenesis of dysmyelination of shiverer mutant mice. Presence
+of patches of MBP-positive and negative sites in white matter indicat-
+ing the absence of humoral factors for dysmyelination. Dev Neurosci
+1982;5:520–524.
+61 Seiwa C, Kojima-Aikawa K, Matsumoto I et al. CNS myelinogenesis
+in vitro: Myelin basic protein deficient shiverer oligodendrocytes. J
+Neurosci Res 2002;69:305–317.
+62 Okano H, Miura M, Moriguchi A et al. Inefficient transcription of the
+myelin basic protein gene possibly causes hypomyelination in myelin-
+deficient mutant mice. J Neurochem 1987;48:470–476.
+63 McDonald JW, Belegu V. Demyelination and remyelination after spi-
+nal cord injury. J Neurotrauma 2006;23:345–359.
+64 Rosenbluth J. Central myelin in the mouse mutant shiverer. J Comp
+Neurol 1980;194:639–648.
+65 Inoue Y, Nakamura R, Mikoshiba K et al. Fine structure of the central
+myelin sheath in the myelin deficient mutant Shiverer mouse, with
+special reference to the pattern of myelin formation by oligodendro-
+glia. Brain Res 1981;219:85–94.
+66 Griffiths IR, McCulloch MC. Nerve fibres in spinal cord impact inju-
+ries. Part 1. Changes in the myelin sheath during the initial 5 weeks. J
+Neurol Sci 1983;58:335–349.
+67 Nashmi R, Fehlings MG. Changes in axonal physiology and morphol-
+ogy after chronic compressive injury of the rat thoracic spinal cord.
+Neuroscience 2001;104:235–251.
+68 Pluchino S, Quattrini A, Brambilla E et al. Injection of adult neuro-
+spheres induces recovery in a chronic model of multiple sclerosis. Na-
+ture 2003;422:688–694.
+69 Biffi A, De Palma M, Quattrini A et al. Correction of metachromatic
+leukodystrophy in the mouse model by transplantation of genetically
+modified hematopoietic stem cells. J Clin Invest 2004;113:1118–1129.
+70 Ito Z, Sakamoto K, Imagama S et al. N-Acetylglucosamine 6-O-sulfo-
+transferase-1-deficient mice show better functional recovery after spi-
+nal cord injury. J Neurosci 2010;30:5937–5947.
+71 Jakeman LB, Wei P, Guan Z et al. Brain-derived neurotrophic factor
+stimulates hindlimb stepping and sprouting of cholinergic fibers after
+spinal cord injury. Exp Neurol 1998;154:170–184.
+72 Kitamura K, Iwanami A, Nakamura M et al. Hepatocyte growth factor
+promotes endogenous repair and functional recovery after spinal cord
+injury. J Neurosci Res 2007;85:2332–2342.
+73 Sharp J, Frame J, Siegenthaler M et al. Human embryonic stem cell-
+derived oligodendrocyte progenitor cell transplants improve recovery
+after cervical spinal cord injury. Stem Cells 2010;28:152–163.
+74 Courtine G, Gerasimenko Y, van den Brand R et al. Transformation
+of nonfunctional spinal circuits into functional states after the loss of
+brain input. Nat Neurosci 2009;12:1333–1342.
+See www.StemCells.com for supporting information available online.
+1994 Significance of Remyelination by Grafted NS/PCs

@@ -1,0 +1,630 @@
+©2011 Landes Bioscience.
+Do not distribute.
+Cell Cycle 10:5, 830-839; March 1, 2011; © 2011 Landes Bioscience
+ RepoRt
+830 Cell Cycle Volume 10 Issue 5
+*Correspondence to: Robert M. Hoffman; E-mail: all@anticancer.com
+Submitted: 12/28/10; Accepted: 01/28/11
+DOI: 10.4161/cc.10.5.14969
+Introduction
+The hair follicle has recently been shown to be a source of nestin-
+expressing pluripotent stem cells that can form neurons and other 
+non-follicular cell types.1-7 These relatively small, oval-shaped 
+cells express the stem cell marker nestin and are located in the 
+bulge area (BA) surrounding the hair shaft and are interconnected 
+by short dendrites. Nestin-expressing pluripotent stem cells were 
+also found in the dermal papilla (DP).5 The expression of nestin 
+in both neural stem cells and the hair follicle BA cells suggested 
+the ability of nestin-expressing stem cells in the hair follicle to be 
+able to differentiate to neurons and related cell types.1
+Subsequently, bulge explants from adult mouse whisker fol-
+licles were shown to give rise to cells which formed neurons, 
+smooth muscle cells, Schwann cells, and melanocytes,2-4 thereby 
+confirming the observation of Li et al.1
+Transgenic mice, with GFP expression driven by the nes-
+tin regulatory element [nestin-driven GFP (ND-GFP)], were 
+Nestin has been shown to be expressed in the hair follicle, both in the bulge area (BA) as well as the dermal papilla (Dp). 
+Nestin-expressing stem cells of both the BA and Dp have been previously shown to be pluripotent and be able to form 
+neurons and other non-follicle cell types. the nestin-expressing pluripotent stem cells from the Dp have been termed 
+skin precursor or SKp cells. the objective of the present study was to determine the major source of nestin-expressing 
+pluripotent stem cells in the hair follicle and to compare the ability of the nestin-expressing pluripotent stem cells from 
+the BA and Dp to repair spinal cord injury. transgenic mice in which the nestin promoter drives GFp (ND-GFp) were 
+used in order to observe nestin expression in the BA and Dp. Nestin-expressing Dp cells were found in early and middle 
+anagen. the BA had nestin expression throughout the hair cycle and to a greater extent than the Dp. the cells from both 
+regions had very long processes extending from them as shown by two-photon confocal microscopy. Nestin-expressing 
+stem cells from both areas differentiated into neuronal cells at high frequency in vitro. Both nestin-expressing Dp and 
+BA cells differentiated into neuronal and glial cells after transplantation to the injured spinal cord and enhanced injury 
+repair and locomotor recovery within four weeks. Nestin-expressing pluripotent stem cells from both the BA and Dp have 
+potential for spinal cord regeneration, with the BA being the greater and more constant source.
+The bulge area is the major  
+hair follicle source of nestin-expressing 
+pluripotent stem cells which can repair the spinal  
+cord compared to the dermal papilla
+Fang Liu,1,2,3 Aisada Uchugonova,1,2,4 Hiroaki Kimura,1,2,5 Chuansen Zhang,3 Ming Zhao,1 Lei Zhang,1,2 Karsten Koenig,4  
+Jennifer Duong,1 Ryoichi Aki,1,6 Norimitsu Saito,1,6 Sumiyuki Mii,1,6 Yasuyuki Amoh,6 Kensei Katsuoka6  
+and Robert M. Hoffman1,2,*
+1AntiCancer Inc.; San Diego, CA USA;2Department of Surgery; University of Californiaat San Diego; San Diego, CA USA; 3Department of Anatomy; Second Military Medical 
+University; Shanghai, China; 4Department of Biophotonics and Laser technology; Saarland University; Saarbruecken, Germany; 5Department of orthopaedic Surgery,  
+Kanazawa University; Kanazawa, Japan; 6Department of Dermatology; School of Medicine, Kitasato University; Kanagawa, Japan
+Key words: hair follicle, vibrissa, mouse, nestin, GFP, bulge area, dermal papilla, spinal cord injury, repair,  
+confocal fluorescence imaging
+used to identify nestin-expressing cells in the hair follicle bulge 
+area (BA).1 The nestin-expressing BA cells were found to be posi-
+tive for the stem cell marker CD34, as well as keratin 15-negative, 
+suggesting their relatively undifferentiated state. Furthermore, 
+BA nestin-expressing cells were shown to differentiate into neu-
+rons, glia, keratinocytes, smooth muscle cells, and melanocytes 
+in vitro.4 
+When nestin-expressing cells from the mouse vibrissa BA 
+were implanted into the gap region of the severed sciatic nerve, 
+they greatly enhanced the rate of nerve regeneration and the 
+restoration of nerve function. The transplanted follicle BA cells 
+transdifferentiated largely into Schwann cells, which are known 
+to support neuron regrowth. The transplanted mice recovered 
+the ability to walk normally.8
+Nestin-expressing mouse vibrissa BA cells were also trans-
+planted to the injury site of C57B16 mice in which the thoracic 
+spinal cord was severed. Most of the transplanted cells also dif-
+ferentiated into Schwann cells that apparently facilitated repair 
+©2011 Landes Bioscience.
+Do not distribute.
+www.landesbioscience.com Cell Cycle 831
+ RepoRt RepoRt
+of the severed spinal cord. The rejoined spinal cord recovered 
+reestablished extensive hind-limb locomotor performance.9 
+Yu et al.10,11 isolated a population of human nestin-express-
+ing hair follicle BA cells. These cells also expressed neural crest 
+and neuron stem cell markers as well as the embryonic stem cell 
+transcription factors Nanog and Oct4. The human BA cells 
+proliferated as spheres, were capable of self-renewal, and dif-
+ferentiated into multiple lineages including myogenic, mela-
+nocytic, and neuronal cell lineages after in vitro clonal single 
+cell culture. In addition, the human nestin-expressing BA cells 
+differentiated into adipocyte, chondrocyte, and osteocyte 
+lineages. The human BA cells shared a similar gene 
+expression pattern with murine skin immature neural crest 
+cells.10,11
+Human nestin-expressing hair follicle cells from the BA were 
+transplanted in the severed sciatic nerve of the mouse where they 
+differentiated into glial fibrillary-acidic-protein (GFAP)-positive 
+Schwann cells and promoted the recovery of pre-existing axons, 
+leading to nerve regeneration. The regenerated nerve recovered 
+function and, upon electrical stimulation, contracted the gastroc-
+nemius muscle.12
+Biernaskie et al.13 showed what they termed skin-derived pre-
+cursors (SKPs), are present in the hair follicle DP. SKPs could be 
+cultured from adult whisker follicle DPs.14-16 SKPs were shown 
+to differentiate into mesodermal and peripheral neural prog-
+eny including adipocytes, skeletogenic cell types, and Schwann 
+cells.17 The DP of hair follicles were said to comprise the niche for 
+SKPs. SKPs were also shown to effect spinal cord repair.13
+The question is what is the major source of hair follicle nestin-
+expressing pluripotent stem cells which can effect spinal cord 
+repair—the BA or DP? In the present study, we show, in the 
+mouse vibrissa follicle, that nestin-expressing pluripotent stem 
+cells, residing in the BA and DP, can effect spinal cord injury 
+repair, with the BA being the major source.
+Results
+Localization of nestin-expressing cells in the vibrissa BA and 
+DP. In order to visualize the localization of nestin-expressing 
+cells in the mouse hair follicle, the anagen vibrissa follicle from 
+ND-GFP mice (8 weeks) was dissected. The follicle was covered 
+by a rigid capsule. It had two blood–filling areas (Fig. 1A1). One 
+was at the BA, the other was at the bulb area, which contained 
+the DP. The BA and DP could be clearly visualized after the cap-
+sule was removed (Fig. 1A2–A7). Very bright GFP fluorescence 
+was found at the BA and DP using the OV100 Small Animal 
+Imaging System (Olympus Corp., Tokyo, Japan) (Fig. 1A3, A5 
+and A7), indicating that nestin-expressing cells existed in these 
+two regions.
+Nestin expression in the BA and DP varies with follicle 
+stage. To understand whether the expression of nestin in BA and 
+DP was related to animal age or follicle stage, vibrissa follicles 
+were dissected from 2-week and 9-month old ND-GFP mice. 
+The BA in all the follicle stages expressed nestin very strongly 
+in animals of both ages. In middle anagen follicles (Fig. 2B1–
+B4, C1–C4, and Fig. 3B1 and B2), the area between the BA 
+and DP was extended and nestin-expressing blood vessels were 
+present. Some blood vessels were associated with the DP directly 
+(Fig. 2C4). The DP had the most extensive nestin expression in 
+middle anagen (Fig. 2, B1–B4, C1–C4). In late anagen follicles, 
+the DP lost nestin expression (Fig. 2, D1–D4). Similar patterns 
+were seen with 9-month old mice (data not shown). 
+Nestin-expressing cells from BA and DP have very simi-
+lar morphology. Confocal two-photon microscopy was used to 
+visualize individual nestin-expressing cells in the DP and BA. 
+The nestin-expressing oval-shaped cells with long dendrite-like 
+structures were observed in both the BA and DP within isolated 
+vibrissa follicles (Fig. 3A and B). The BA and DP oval-shaped 
+cells with long dendrite-like structures were also observed from 
+each region when the cells from each region were cultured on 
+Gelfoam® (Fig. 3C and D). These cells from both the BA and 
+DP were essentially identical in morphology. 
+Nestin-expressing cells from both BA and DP can form 
+spheres. Nestin-expressing cells from the BA and DP were cul-
+tured in serum-free medium supplemented with bFGF and EGF 
+(Fig. 1B and C). After primary culture for 4 to 7 days, nestin-
+expressing cells grew out from the BA and DP. BA cells derived 
+from whiskers from red fluorescent protein (RFP)-expressing mice 
+were also cultured using the same medium as that for ND-GFP 
+BA cells and DP cells (Fig. 1D). Immunocytochemistry dem-
+onstrated that the RFP-BA cells also expressed nestin (Fig. 1E).
+Cells from BA and DP floated in culture. At day 7, spheres 
+were formed from cells from both regions (Fig. 4A1 and A2). 
+Cells from both regions expressed nestin, identified by immuno-
+cytochemistry (Fig. 4B1 and C1). Nestin-expressing cells from 
+the BA had higher sphere-forming efficiency than those from the 
+DP (Fig. 4A3). The spheres started to differentiate after bFGF 
+and EGF were removed from the culture medium. Most cells 
+were Tuj1- or GFAP- positive suggesting that nestin-expressing 
+cells from both the BA and DP can differentiate into neuronal or 
+Schwann cells (Fig. 4B2, B3, C2 and C3). Nestin-expressing DP 
+cells were versican-negative (Fig. 4C4), which is a marker for DP 
+cells. This result suggests that nestin-expressing DP cells may not 
+be native to the DP. 
+Three-dimensional culture of nestin-expressing BA and DP 
+cells on Gelfoam®. Nestin-expressing cells from both the BA 
+and DP grew very well on Gelfoam®. The cells attached to the 
+Gelfoam® within one hour. They grew along the grids of the 
+Gelfoam® during the first 2 or 3 days. Later they spread into the 
+Gelfoam® (Figs. 3, 4D and 4E).
+Fate of nestin-expressing BA and DP cells transplanted into 
+the injured spinal cord. After transplantation of Gelfoam® cul-
+tures of nestin-expressing BA or DP cells into the injured spinal 
+cord (including the Gelfoam®) nestin-expressing BA and DP 
+cells were observed to be viable over 100 days post surgery. The 
+transplanted cells attached to the surrounding tissue very well. 
+The surface of the transplanted area appeared smooth (Fig. 5A2 
+and B1).
+When RFP-BA cells plus Gelfoam® were transplanted 
+into the spinal cord of GFP transgenic nude mice (Fig. 5A1–
+A8), many RFP-BA cells were found in the transplanted area 
+(Fig. 5A3–A7). RFP-BA cells were observed migrating toward 
+©2011 Landes Bioscience.
+Do not distribute.
+832 Cell Cycle Volume 10 Issue 5
+adjacent spinal cord segments (Fig. 5A7). GFP host cells and 
+fibers also grew into the injured area (Fig. 5A5–A7). H&E stain-
+ing showed connections between the transplanted cells and the 
+host tissue (Fig. 5A8).
+When ND-GFP DP-Gelfoam® cultures were transplanted 
+into the injured spinal cord (Fig. 5B1–B8), the transplanted cells 
+grew very well and also migrated toward adjacent spinal cord seg-
+ments (Fig. 5B2, B3 and B7). Some cells had long extensions 
+(Fig. 5B4 and B5). 
+Immunohistochemistry showed many Tuj1-, Isl 1/2, and 
+EN1- positive cells and nerve fibers in the transplanted area of 
+the spinal cord after BA-Gelfoam® or DP-Gelfoam® cultures 
+were transplanted (Fig. 6A1–A3 and B1–B3). Fewer Tuj1-, Isl 
+1/2-, and EN 1- positive cells or nerve fibers were observed in the 
+Gelfoam®-only transplant group (Fig. 6C1–C3). Some 
+cells in the transplanted area were also GFAP - positive (Fig. 6A4, 
+B4 and C4) in the above three groups. The average grey value of 
+the stained fluorescence showed that the BA Gelfoam® transplant 
+group had significantly higher Tuj1-, and EN-1-positive fluores-
+cence grey value than the DP-Gelfoam® group or Gelfoam®-
+only group. The Gelfoam®-only group had significantly lower 
+Tuj1-, Isl 1/2, and EN-1-positive fluorescence grey value than the 
+BA-Gelfoam® and DP-Gelfoam® group (Fig. 6D).
+In the non-transplanted group (Fig. 5C1), Tuj1-
+immunofluorescence staining was negative at the injured area 
+(Fig. 5C2). Many GFAP-positive cells aggregated together and 
+formed a “wall” at the injured site (Fig. 5C2). In the untrans-
+planted group, glia cells formed a barrier at the spinal cord injured 
+Figure 1. Nestin-expressing cells in the bulge area (BA) and dermal papilla (Dp) of mouse vibrissal follicle. A1–A3: Whole view of a ND-GFp follicle. the 
+follicle capsule was intact in (A1). In (A2 and A3), the capsule was removed. the BA and Dp had strong nestin-GFp fluorescence. A4–A7 are the higher 
+magnification of (A2 and A3). the Dp is shown by arrows. (B) primary culture of ND-GFp BA cells. (C) primary culture of ND-GFp Dp cells. two ND-GFp 
+dermal papilla are shown. (D) primary culture of RFp BA cells. (e) Nestin-immunofluorescence staining of RFp BA cells. the BA cells were nestin-positive. 
+panel A1–A7 were observed with the olympus oV100 Small-Animal Imaging System. panel B–e were observed under fluorescence microscopy. Scale 
+bar in A1: 500 μm; Scale bars in A2 and A3: 200 μm; Scale bars in A4–A7: 100 μm; Scale bars in B, D, e: 25 μm; Scale bar in C: 50 μm.
+©2011 Landes Bioscience.
+Do not distribute.
+www.landesbioscience.com Cell Cycle 833
+site. It prevented the regeneration of 
+nerve fibers. The Gelfoam®-only group 
+induced less neuronal marker-positive 
+cells in the injured site than that of the 
+BA-Gelfoam® or DP-Gelfoam® trans-
+plant groups.
+Spinal cord recovery after transplan-
+tation of nestin-expressing BA or DP 
+cells. All the animals had paralysis of 
+the hindlimb at the same side where the 
+spinal cord was injured. Most animals in 
+the BA-Gelfoam® and DP-Gelfoam® 
+transplant groups recovered plantar 
+placing of the paw and frequent dor-
+sal stepping within 3 days after trans-
+plantation. It took the Gelfoam®-only 
+group 7 days to recover this behavior. 
+It took the untransplanted group 14 
+days for locomotion recovery. Twenty-
+eight days after transplantation, both 
+the BA-Gelfoam® and DP-Gelfoam® 
+groups had normal locomotion. Animals 
+walked with consistent plantar stepping, 
+mostly coordinated, and paws in paral-
+lel at initial contact and liftoff. Though 
+animals in the Gelfoam®-only group 
+also had consistent plantar stepping at 
+day 28, they only had some coordination 
+or the paws rotated at initial contact and 
+liftoff. The untransplanted group had 
+the least locomotion recovery. At day 
+28, only a few Gelfoam®-only animals 
+walked with occasional plantar stepping. 
+After 21 days, the BBB locomotor recov-
+ery scores18 of the BA-Gelfoam® and 
+the DP-Gelfoam® transplant animals 
+were similar (Fig. 7). Those two groups 
+achieved significantly greater locomotor 
+recovery than groups transplanted with 
+Gelfoam®-only and untransplanted ani-
+mals from 21 days to 63 days post sur-
+gery. The data suggest that transplanted 
+nestin-expressing pluripotent stem cells 
+from both the BA and DP have similar 
+effects on locomotor recovery, which 
+are better than that of Gelfoam®-only 
+transplantation. 
+Discussion
+Nestin-expressing pluripotent stem 
+cells were found in the BA and DP of 
+the mouse whisker follicle. Nestin-
+expressing BA cells and DP cells co-
+existed in the mouse vibrissal follicle 
+only during part of the hair follicle cycle, 
+Figure 2. Vibrissa follicles from a 2-week-old nestin-GFp mouse. the capsule of the follicles was 
+removed. the BA in all the follicles expressed nestin very strongly. panel (A1–A4) show follicles in 
+early anagen. the area between the BA and Dp was small and the blood vessels in this area were 
+not yet formed. panel (B1–B4) and (C1–C4) show follicles in middle anagen. the area between the 
+BA and Dp was extended and blood vessels were formed. Some blood vessels connected to the Dp 
+directly (C4). the Dp had strong nestin expression. panel (D1–D4) shows a follicle in late anagen. 
+the Dp lost nestin-GFp fluorescence. All imaging was with the olympus oV100. Arrows point to the 
+Dp. panel (A4, B4, C4 and D4) are the higher magnification of dotted squares in (A2, B2, C2 and D2), 
+respectively. Scale bars in (A1–A3 and B1–B3): 200; Scale bars in (C1–C3 and D1–D3): 500 μm; Scale 
+bars in (A4, B4, C4 and D4): 100 μm.
+©2011 Landes Bioscience.
+Do not distribute.
+834 Cell Cycle Volume 10 Issue 5
+including middle anagen. Nestin-expressing cells were 
+present in the DP only in the early and middle anagen 
+stage, independent of age.
+From the early to the late anagen stages, the BA 
+became smaller and the area between the DP and BA 
+became larger. In late anagen, nestin expression in 
+the DP became weaker and disappeared. There were 
+many nestin-expressing blood vessels between the BA 
+and DP that connected those two structures. They 
+started to be formed in the early anagen and formed a 
+blood vessel network in middle anagen. Regression of 
+blood vessels occurred in late anagen. It seemed that 
+nestin expression in the DP coincided with the exis-
+tence of nestin-expressing blood vessels, which may 
+originate from the BA. 
+Skin-derived precursor cells (SKPs) were shown to 
+be multipotent neural crest-related stem cells that grow 
+as self-renewing spheres and are capable of generat-
+ing neurons and myelinating glial cells. Hunt et al.15 
+demonstrated that the DP of the rodent vibrissal fol-
+licle is 1,000-fold enriched for sphere-forming neural 
+crest-derived cells compared with whole facial skin. 
+Biernaskie et al.13 used SKPs to repair the contused rat 
+spinal cord. SKPs reduced the size of the contusion cav-
+ity, myelinated endogenous host axons and recruited 
+endogenous Schwann cells into the injured cord.
+Cells from the BA of the mouse and human express 
+nestin and can differentiate into many cell types, inclu-
+ding neurons and glial cells1,2,4,8,10 and effect nerve8,9 
+and spinal cord repair in mouse models. Yu et al.10,11 
+demonstrated that stem cells with neural crest charac-
+teristics from the BA of cultured human hair follicles 
+can form spheroid structures. SKP cells can also dif-
+ferentiate to neurons and glial cells.14, 15 In the present 
+study, nestin-expressing cells from the BA had higher 
+sphere-forming efficiency than those from the DP.
+The present study showed that transplanted 
+nestin-expressing BA and DP cells in the injured 
+spinal cord both expressed Tuj1, and the motorneuron markers 
+Isl 1/2 and EN1 as well. In the transplanted area of the spine, 
+some GFAP-positive cells were observed in both groups. Nestin-
+expressing BA cells and DP cells differentiated into neuronal 
+cells which appeared to accelerate spinal cord injury repair. The 
+BA-Gelfoam® and DP-Gelfoam® transplant groups had simi-
+lar BMS scores suggesting that nestin-expressing pluripotent 
+stem cells from both regions have similar effects on locomotor 
+recovery and both cell types are candidates for use for spinal cord 
+repair. The greater and more constant expression of nestin in the 
+BA and than the DP suggest the BA may be the major source of 
+pluripotent stem cells.
+Materials and Methods
+Animals. Nestin-driven GFP (ND-GFP) transgenic mice,1,19 at 
+different ages, were used to observe the expression of nestin in 
+the BA and DP, and also for the culture of the nestin-expressing 
+cells. RFP transgenic mice20 were also used as a source of RFP 
+BA cells. GFP transgenic nude mice21 were used as hosts for 
+transplantation of RFP-BA cells into the injured spinal cord. 
+Non-transgenic nude mice were also used for spinal cord trans-
+plantation experiments.
+Isolation and culture of nestin-expressing cells from the 
+bulge area (BA) and dermal papilla (DP) of mouse vibrissa 
+follicles. The whisker pad of the nestin-GFP or RFP transgenic 
+mice was cut free and its inner surface was exposed. The vibrissa 
+follicles were dissected under a binocular microscope. Small scis-
+sors were used to separate each follicle. Anagen follicles were cho-
+sen for cell culture. The isolated vibrissae were washed in PBS 
+three times. Fine needles were used to remove the follicle cap-
+sule. The BA and DP areas were separated with fine needles. All 
+surgical procedures were performed under a sterile environment. 
+A 12-well plate coated with Collagen I was pre-incubated with 
+DMEM-F12 (GIBCO/BRL), containing B-27 (GIBCO/BRL), 
+N2 (GIBCO/BRL) and 1% penicillin/streptomycin (GIBCO/
+Figure 3. (A and B) Isolated vibrissa of an ND-GFp mouse was imaged by optical 
+sectioning in 3D using a confocal two-photon microscope (Fluoview FV1000, olym-
+pus; tokyo Japan) with a high NA objective (40x/NA1.3 oil). the figures demonstrate 
+one optical plane image out of 3D stacks of images. BA (A) and Dp (B) are in middle 
+anagen. ND-GFp expressing cells in the BA and Dp have similar morphology (oval/
+round shaped body with a diameter of approximately 5–7 µm) with long dendrite-
+like structures. Arrows depict typical cells in each region. the blue fluorescence 
+is from Hoechst staining and green fluorescence is from GFp. (C and D) ND-GFp 
+expressing hair follicle stem cells grew out from the BA (C) and Dp (D) when cultured 
+on Gelfoam® after several days of incubation. In both images, nestin-expressing cells 
+from both areas have similar oval/round morphology (diameter of 5–7 µm) with long 
+dendrite-like structures. Arrows depict typical cells from each region.
+©2011 Landes Bioscience.
+Do not distribute.
+www.landesbioscience.com Cell Cycle 835
+Figure 4. Sphere-forming of cells from the BA and Dp. (A1) Spheres formed from RFp BA cells. (A2) Spheres formed from ND-GFp Dp cells. (A3) Cells 
+from the BA had higher sphere-forming efficiency than those from the Dp. Immunofluorescence-staining showed spheres were nestin-positive (B1: BA 
+sphere; C1: Dp sphere). tuj1- or GFAp-positive cells were detected in the spheres after bFGF and eGF were removed from the culture medium (B2–B3, 
+cells from a BA sphere; C2–C3, cells from a Dp sphere). (C4) showed versican-negative staining of ND-GFp Dp cells. Green fluorescence: FItC, Red fluo-
+rescence: tRItC, Blue fluorescence: DApI. Scales in (A1) and (A2): 50 μm; Scales in (B1–B3, C1–C4): 20 μm. (D) RFp BA cells grown on Gelfoam® for 10 days. 
+(e) ND-GFp Dp cells grown on Gelfoam® for 10 days. Scale bar: 50 μm.
+©2011 Landes Bioscience.
+Do not distribute.
+836 Cell Cycle Volume 10 Issue 5
+Figure 5. Appearance of RFp BA cells or ND-GFp Dp cells plus Gelfoam® transplanted to the injured spinal cord. (A1–A8): RFp BA cells grown on Gel-
+foam® were transplanted into the injured spinal cord of GFp mice. (A1) is day 0 after surgery, (A2–A7) is 5 weeks post surgery. In panel (A3–A7), many 
+RFp BA cells were found in the transplanted area. GFp host cells and fibers grew into the injured area (A5–A7). In panel (A7), RFp BA cells are observed 
+migrating toward spinal cord segments. panel (A8) is H&e staining of a transplanted area 7 weeks post-surgery. Many cells and fibers were found at 
+the injured site. (B1–B8): ND-GFp Dp Gelfoam® was transplanted into the injured spinal cord, 8 weeks post-surgery. transplanted cells grew very well 
+and also migrated toward spinal cord segments (B2, B3 and B7). Some cells had long extensions (B4 and B5). panel (B4) is the higher magnification of 
+panel (B3). panel (B5) is the higher magnification of the dotted square in panel (B4). H&e staining in panel (B8) also showed cells and fibers migrating 
+into the injured site. Arrows in panel (A1, A2, A4, B1 and B3) showed the injured and transplanted area of the spinal cord. panel (A1–A4 and B1–B3) 
+were observed with the olympus oV100. panel (A5–A7 and B4–B7) were observed with the olympus IV100 Laser Scanning Microscope. Scale bar in 
+(A1): 100 μm; Scale bars in (A2 and A3): 500 μm; Scale bar in (A4): 200 μm; Scale bars in (A5, A8, B5, and B8): 20 μm; Scale bars in (A6, A7, B4, B6 and B7): 
+50 μm; Scale bars in (B1–B3): 1 mm. (C) Spinal cord injured on the right side without transplantation, 7 weeks post surgery. In the injured area, many 
+GFAp-positive cells aggregated forming a “wall.” tuj1-immunofluorescence staining was negative at the injured area. Dotted lines in panels C2 and 
+C3 represent the injured area. Red fluorescence: tRItC, Blue fluorescence: DApI. Scale bar in (A): 1 mm; Scale bar in (B), 20 µm. panel (C1) shows the in-
+jured site of the spinal cord on the right side (arrow). It was observed with the oV100. panel (C2) and panel (C3) show the immunofluorescent staining 
+of the frozen sections of the injured spinal cord with tuj1- and GFAp- primary antibodies, observed under fluorescence microscopy. the injured area 
+is shown by the dotted lines. It was negative for tuj1-immunofluorescence staining at the injured area. Many GFAp-positive cells (red fluorescence) 
+aggregated toward the injury area to form a “glial wall.” Red fluorescence was stained by tRItC-conjugated secondary antibody; Blue fluorescence 
+was the nuclear counterstaining by DApI. Scale bar in (C1): 1 mm; Scale bars in (C2 and C3): 20 μm
+©2011 Landes Bioscience.
+Do not distribute.
+www.landesbioscience.com Cell Cycle 837
+©2011 Landes Bioscience.
+Do not distribute.
+838 Cell Cycle Volume 10 Issue 5
+BRL). The separated BA and DP attached 
+to the plate bottom within 40 minutes. 
+Five to eight BA or DP were placed in each 
+well. Serum-free culture medium was then 
+added very carefully into the well with a 
+1 ml pipette. Half the medium was changed 
+every other day. 20 ng/ml bFGF and EGF 
+each were added daily. After 4 to 6 days, 
+the attached BA or DP were removed from 
+the plate bottom. The cells were incubated 
+with 0.25% trypsin for 10 minutes at 37°. 
+Fetal bovine serum was added to inhibit 
+typsin. Cells were washed with serum-free 
+culture medium and were seeded in a col-
+lagen I-coated T25 flask.
+High-resolution imaging of BA and 
+DP nestin-expressing cells with a confocal 
+two-photon microscope. A confocal two-
+photon microscope (Fluoview FV1000, 
+Olympus Corp., Tokyo Japan) was used 
+for two- (x,y) and three-dimensional (3D, 
+x,y,z) high-resolution imaging of vibrissa 
+follicles from ND-GFP transgenic mice. 
+Excitation sources included cw semicon-
+ductor lasers at 473 nm for GFP excita-
+tion and 405 nm for Hoechst excitation. 
+A tunable Mai-Tai HP1040 laser emit-
+ting at 700-1020 nm (Newport-Spectra 
+Physics, Irvine, CA) was used for deep 
+multicolor imaging including two-photon 
+induced autofluorescence. Fluorescence 
+images were obtained using the 20x/0.50 
+UPLAN FLN and 40x/1.3 oil Olympus 
+UPLAN FLN objectives. Emission fil-
+ters used were BA 430-455 nm (at 
+exc. 405 nm, Hoechst) and BA 490-590 (at exc. 473 nm, 
+GFP).
+Sphere-forming assay. BA and DP cells, at passage two, were 
+seeded at a density of 30,000 cells per ml in 10 ml of serum-free 
+culture medium in a 25 cm2 tissue culture flask with low attach-
+ment. Sphere numbers were determined at day seven by counting 
+under a low-power fluorescence microscope.
+Three-dimensional culture of cells on Gelfoam®. BA and 
+DP cells passage 2 or 3 were collected and centrifuged for 5 
+minutes. The cell density was 1×107 cells/ml. Sterile Gelfoam® 
+(Pharmacia & Upjohn Co., Kalamazoo, MI) sponges com-
+prised of absorbable gelatin prepared from purified porcine skin, 
+were trimmed into 3 mm3 cubes. Cell suspensions (20 µl) were 
+injected into each sponge cube with a 31G insulin syringe. The 
+Figure 6 (See previous page). Immunofluorescence staining of the transplanted area of the spinal cord. primary antibodies used were tuj1, Isl 1/2, 
+eN1, and GFAp. Secondary antibodies were conjugated with FItC (green fluorescence) or tRItC (red fluorescence). Nuclei were counterstained by  
+DApI (blue fluorescence). positive staining in the sections from the BA Gelfoam® transplanted group appear green. positive staining in the sections 
+of the other two groups is red. In the BA or Dp plus Gelfoam® transplant groups, many tuj1-, Isl 1/2-, and eN 1- positive cells or nerve fibers (arrows) 
+were found in the transplanted area (panel A1–A3, B1–B3). the Gelfoam® transplant group induced fewer neuronal marker-positive cells in the injured 
+area than that of the BA cells + Gelfoam® or Dp cells + Gelfoam® transplant groups. However, the Gelfoam®-only group had more GFAp- positive cells 
+than that in the BA- or Dp- Gelfoam® groups. Scale bar: 20 μm. Glial cells could form a barrier in the spinal cord injured area. the barrier prevented the 
+regeneration of nerve fibers. In the Gelfoam®-only group, some neuronal-like cells appeared in the transplanted area (C1, C3). those cells may come 
+from the surrounding spinal cord tissue. More neuronal-like cells or nerve fibers appeared in the BA- or Dp-Gelfoam® groups, which stimulated the 
+recovery of spinal cord injury much more than Gelfoam® only. the neuronal-like cells in these two groups could come from the implanted BA cells 
+or Dp cells or migrate from the surrounding tissue. (D) Average grey value of the stained fluorescence in the transplanted area of the spinal cord. the 
+BA-Gelfoam® group had significantly higher tuj1-, and eN-1-positive fluorescence grey values than the Dp-Gelfoam® group and Gelfoam®-only group. 
+the Gelfoam®-only group had significantly lower tuj1-, Isl 1/2-, and eN-1-positive fluorescence grey values than that in the BA-Gelfoam® and Dp-
+Gelfoam® groups, except for the GFAp-positive fluorescence grey value. *, BA-Gelfoam® group vs Dp-Gelfoam® group, p<0.05; &, BA-Gelfoam® group vs 
+Gelfoam®-only group, p<0.05; &&, p<0.01; ##, Dp cells + Gelfoam® group vs Gelfoam®-only group, p<0.01.
+Figure 7. Mean Basso mouse scale (BMS) for locomotion (BMS) scores. the locomotor recovery 
+pattern of the BA - Gelfoam® and the Dp - Gelfoam® animals was similar. these two groups 
+achieved significantly greater locomotor recovery than the Gelfoam®-only and non-transplanted 
+control animals.
+©2011 Landes Bioscience.
+Do not distribute.
+www.landesbioscience.com Cell Cycle 839
+Gelfoam® cubes, together with the injected cells, were put in 
+48-well plates and placed in an incubator (37°C, 5% CO
+2
+, 95% 
+humidity) for one hour before 1 ml culture medium was added 
+in each well. Half of the medium was changed every other day. 
+After ten days, the cultures, including the Gelfoam® were used 
+for spinal cord transplantation.
+Surgical procedure, spinal cord injury and transplantation 
+of Gelfoam®-cultured BA and DP cells. Six to eight-week-old 
+non-transgenic nude mice and transgenic GFP nude mice were 
+used. Animals were anesthetized with tribromoethanol. The 
+skin overlaying the vertebral column was cut and a pair of fine 
+scissors was used to separate the muscles along the spine. A par-
+tial laminectomy was performed at T8. A 31G insulin syringe 
+needle was used to cut the right side of the spinal cord. The 
+lesion surface size was 500 µm × 300 µm. The depth of the 
+lesion was from the dorsal to the abdominal surface of the spinal 
+cord. Gelfoam® cultures (including the Gelfoam®) were intro-
+duced into the lesion site with fine forceps within 30 minutes of 
+injury. The animals were divided into four groups, 10 nude mice 
+in each group: (1) mice transplanted in the injured spine with 
+BA cells on Gelfoam®; (2) mice transplanted in the injured 
+spine with DP cells on Gelfoam®; (3) mice transplanted in the 
+injured spine with Gelfoam® only; (4) negative control mice 
+with no transplantation. Spinal cord samples from the injured 
+and transplanted area were obtained at different time points, 
+embedded in OCT, dipped in liquid nitrogen, and kept in a 
+-80°C freezer. 
+Immunocytochemistry and immunohistochemistry. 
+Cultured BA and DP cells or frozen sections from the spinal 
+cord were fixed in pre-cooled 4% paraformaldehyde at RT for 
+10 minutes and washed with PBS three times. Some frozen sec-
+tions were processed for H&E staining. Cells and frozen sections 
+were used for immunofluorescence staining. The main proce-
+dures were as follows: (1) Slides treated with 0.3% Triton X-100 
+were incubased at RT for 30 minutes; (2) 5% normal goat serum 
+was applied at RT for 30 minutes; (3) Primary antibodies were 
+applied at 4˚C for 48 hours. The primary antibodies used were 
+nestin (rabbit, 1:100, Sigma); versican (mouse, 1:100, Millipore); 
+Tuj1 (rabbit, 1:30, Sigma); GFAP (rabbit, 1:100, Sigma); Isl 1/2 
+(rabbit, 1:100, Santa Cruz); EN-1 (rabbit, 1:100, Santa Cruz); 
+(4) Secondary antibodies used were: goat anti-rabbit IgG FITC 
+(Santa Cruz); donkey anti-rabbit IgG TRITC (Santa Cruz); 
+donkey anti-mouse IgG TRITC (Santa Cruz); 1:100, RT, dark, 
+2.5 hours. (5) DAPI, 1:1000, diluted in PBS, RT, 5 minutes. (6) 
+Slides were mounted with Fluoromount (Sigma) and observed 
+under fluorescence microscopy.
+BMS measurement of locomotor recovery. According to the 
+Basso mouse scale, all mice with spinal cord injury (SCI) were 
+tested in an open field for 4 min pre-operatively and weekly for 
+63 days post-operatively. At the first week post surgery, the mice 
+were observed every day. Ankle movements, plantar placing, dor-
+sal stepping, frequency of plantar stepping, stepping coordina-
+tion and the position of the paws were carefully observed by two 
+people.
+Statistical analyses. Images of the immunostaining were 
+processed for average grey value of fluorescence with the use of 
+Paint Shop Pro 8 and Cell (Olympus) software. All data are pre-
+sented as mean ± SEM. Group differences were determined using 
+the unpaired t-test. The significance level for all tests was set at 
+p < 0.05. 
+References
+1. Li L, Mignone J, Yang M, Matic M, Penman S, 
+Enikolopov G, Hoffman RM. Nestin expression in hair 
+follicle sheath progenitor cells. Proc Natl Acad Sci USA 
+2003; 100:9658-61.
+2. Sieber-Blum M, Grim M, Hu YF, Szeder V. Pluripotent 
+neural crest stem cells in the adult hair follicle. Dev 
+Dyn 2004; 231:258-69.
+3. Sieber-Blum M, Schnell L, Grim M, Hu YF, Schneider 
+R, Schwab ME. Characterization of epidermal neural 
+crest stem cell (EPI-NCSC) grafts in the lesioned spinal 
+cord. Mol Cell Neurosci 2006; 32:67-81.
+4. Amoh Y, Li L, Katsuoka K, Penman S, Hoffman RM. 
+Multipotent nestin-positive, keratin-negative hair-folli-
+cle-bulge stem cells can form neurons. Proc Natl Acad 
+Sci USA 2005; 102:5530-4. 
+5. Biernaskie J, Paris M, Morozova O, Fagan BM, Marra 
+M, Pevny L, Miller, F.D. SKPs derive from hair follicle 
+precursors and exhibit properties of adult dermal stem 
+cells. Cell Stem Cell 2009; 5:610-23.
+6. Hoffman RM. The pluripotency of hair follicle stem 
+cells. Cell Cycle 2006; 5:232-3.
+7. Amoh Y, Kanoh M, Niiyama S, Kawahara K, Satoh Y, 
+Katsuoka K, Hoffman RM. Human and mouse hair 
+follicles contain both multipotent and monopotent 
+stem cells. Cell Cycle 2009; 8:176-7.
+8. Amoh Y, Li L, Campillo R, Kawahara K, Katsuoka K, 
+Penman S, Hoffman RM. Implanted hair follicle stem 
+cells form Schwann cells that support repair of severed 
+peripheral nerves. Proc Natl Acad Sci USA 2005; 
+102:17734-8. 
+9. Amoh Y, Li L, Katsuoka K, Hoffman RM. Multipotent 
+hair follicle stem cells promote repair of spinal cord 
+injury and recovery of walking function. Cell Cycle 
+2008; 7:1865-9.
+10. Yu H, Fang D, Kumar SM, Li L, Nguyen TK, Acs G, et 
+al. Isolation of a novel population of multipotent adult 
+stem cells from human hair follicles. Am J Pathol 2006; 
+168:1879–88. 
+11. Yu H, Kumar SM, Kossenkov AV, Showe L, Xu X. Stem 
+cells with neural crest characteristics derived from the 
+bulge region of cultured human hair follicles. J Invest 
+Derm 2010; 130:1227–36. 
+12. Amoh Y, Kanoh M, Niiyama S, Hamada Y, Kawahara 
+K, Sato Y, et al. Human hair follicle pluripotent stem 
+(hfPS) cells promote regeneration of peripheral-nerve 
+injury: An advantageous alternative to ES and iPS cells. 
+J Cell Biochem 2009; 107:1016-20.
+13. Biernaskie J, Sparling JS, Liu J, Shannon CP, Plemel 
+JR, Xie Y, et al. Skin-derived precursors generate 
+myelinating Schwann cells that promote remyelination 
+and functional recovery after contusion spinal cord 
+injury. J Neurosci 2007; 27:9545-59.
+14. Fernandes KJL, McKenzie IA, Mill P, Smith KM, 
+Akhavan M, Barnabe-Heider F, et al. A dermal niche 
+for mutipotent adult skin-derived precursor cells. Nat 
+Cell Biol. 2004; 6:1082-93. 
+15. Hunt DP, Morris PN, Sterling J, Anderson J, Joannides 
+A, Jahoda C, et al. A highly enriched niche of precursor 
+cells with neuronal and glial potential within the hair 
+follicle dermal papilla of adult skin. Stem Cells 2008; 
+26:163–72. 
+16. Joannides A, Gaughwin P, Schwiening C, Majed H, 
+Sterling J, Compston A, Chandran S. Efficient gen-
+eration of neural precursors from adult human skin: 
+Astrocytes promote neurogenesis from skin-derived 
+stem cells. Lancet 2004; 364:172–8. 
+17. McKenzie IA, Biernaskie J, Toma JG, Midha R, 
+Miller FD. Skin-derived precursors generate myelinat-
+ing Schwann cells for the injured and dysmyelinated 
+nervous system. J Neurosci 2006; 26:6651–60.
+18. Basso DM, Fisher LC, Anderson AJ, Jakeman LB, 
+McTigue DM, Popvich PG. Basso Mouse Scale for 
+locomotion detects differences in recovery after spi-
+nal cord injury in five common mouse strains. J 
+Neurotrauma 2006; 23:635-59.
+19. Mignone JL, Kukekov V, Chiang AS, Steindler D, 
+Enikolopov G. Neural stem and progenitor cells in 
+nestin-GFP transgenic mice. J Comp Neurol 2004; 
+469:311-24. 
+20. Yang M, Reynoso J, Bouvet M, Hoffman RM. A trans-
+genic red fluorescent protein-expressing nude mouse 
+for color-coded imaging of the tumor microenviron-
+ment. J Cell Biochem 2009; 106:279-84.
+21. Yang M, Reynoso J, Jiang P, Li L, Moossa AR, Hoffman 
+RM. Transgenic nude mouse with ubiquitous green 
+fluorescent protein expression as a host for human 
+tumors. Cancer Res 2004; 64:8651-6.

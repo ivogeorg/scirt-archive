@@ -1,0 +1,1035 @@
+RESEARCH PAPER
+A novel compound,
+denosomin, ameliorates
+spinal cord injury via axonal
+growth associated with
+astrocyte-secreted vimentin
+Kiyoshi Teshigawara1*, Tomoharu Kuboyama1*, Michiko Shigyo1,
+Aiko Nagata1, Kenji Sugimoto2, Yuji Matsuya2 and Chihiro Tohda1
+1Division of Neuromedical Science, Department of Bioscience, Institute of Natural Medicine,
+University of Toyama, Toyama, Japan, and 2Laboratory of Synthetic Medical Chemistry, Faculty
+of Pharmaceutical Sciences, University of Toyama, Toyama, Japan
+Correspondence
+Chihiro Tohda, Division of
+Neuromedical Science,
+Department of Bioscience,
+Institute of Natural Medicine,
+University of Toyama, 2630
+Sugitani, Toyama 930-0194,
+Japan. E-mail:
+chihiro@inm.u-toyama.ac.jp
+----------------------------------------------------------------
+*These authors contributed
+equally to this work.
+----------------------------------------------------------------
+Keywords
+spinal cord injury; axonal
+growth; Denosomin; reactive
+astrocyte; vimentin; 5-HT fibre
+----------------------------------------------------------------
+Received
+19 June 2012
+Revised
+7 August 2012
+Accepted
+5 September 2012
+BACKGROUND AND PURPOSE
+In the spinal cord injury (SCI) axon regeneration is inhibited by the glial scar, which contains reactive astrocytes that secrete
+inhibitory chondroitin sulphate proteoglycan (CSPG). We previously reported that a novel compound, denosomin, promotes
+axonal growth under degenerative conditions in cultured cortical neurons. In this study, we investigated the effects of
+denosomin on functional recovery in SCI mice and elucidated the mechanism though which denosomin induces axonal
+growth in the injured spinal cord.
+EXPERIMENTAL APPROACH
+Denosomin was administered p.o. for 7 or 14 days to contusion mice. Behavioural evaluations and immunohistochemistry
+were done. Primary cultured cortical neurons and astrocytes were treated with denosomin to investigate the mechanism of
+axonal growth facilitation.
+KEY RESULTS
+Denosomin improved hind limb motor dysfunction and axonal growth, especially in the 5-HT-positive tracts across the scar
+and increased the density of astrocytes. Denosomin increased astrocyte proliferation, inhibited astrocytic death and increased
+the expression and secretion of vimentin in cultured astrocytes. Furthermore, vimentin increased axonal outgrowth in cultured
+neurons, even in the presence of inhibitory CSPG. Denosomin increased the number of vimentin-expressing astrocytes inside
+glial scars of SCI mice, and 5-HT-positive axonal growth occurred in a vimentin-associated manner.
+CONCLUSION AND IMPLICATIONS
+Denosomin increased the ratio of astrocytes that secrete vimentin as an axonal growth facilitator, which, we propose
+enhances axonal growth beyond the glial scar and promotes functional recovery in SCI mice. This study is the first to
+demonstrate this novel role of vimentin in SCI and drug-mediated modification of the inhibitory property of reactive
+astrocytes.
+Abbreviations
+ACM, astroglial conditioned medium; BMS, Basso Mouse Scale; BrdU, 5-bromo-2′-deoxyuridine; BSS, Body Support
+Scale; DAPI, 4′,6-diamidino-2-phenylindole; GFAP, glial fibrillary acidic protein; MAP2, microtubule-associated protein
+2; NF-H, neurofilament-H; pNF-H, phosphorylated neurofilament-H; SCI, spinal cord injury
+BJP British Journal ofPharmacology
+DOI:10.1111/j.1476-5381.2012.02211.x
+www.brjpharmacol.org
+British Journal of Pharmacology (2013) 168 903–919 903© 2012 The Authors
+British Journal of Pharmacology © 2012 The British Pharmacological Society
+Introduction
+Approximately 270 000 people in U.S. suffer from spinal cord
+injury (SCI) (Spinal Cord Injury Facts and Figures at a Glance,
+http://www.nscisc.uab.edu/), for which no effective drug
+therapy currently exists. SCI causes serious locomotor dys-
+function due to the disruption of the descending motor and
+ascending sensory tracts at the lesion site. Several studies
+have suggested that the CNS has the ability to regenerate and
+that the regrowth of injured and/or spared axons may lead to
+recovery from locomotor dysfunction (David and Aguayo,
+1981). However, the environment of the injured spinal cord
+inhibits axonal regeneration (Silver and Miller, 2004).
+The formation of a glial scar, which is composed primarily
+of reactive astrocytes and with a marked expression of glial
+fibrillary acidic protein (GFAP) (Bignami and Dahl, 1974;
+Barrett et al., 1981; Eng, 1985), at the lesion site in response to
+injury is believed to be a major impediment to axonal regen-
+eration after SCI and other forms of CNS injury (Davies et al.,
+1997; Silver and Miller, 2004; Yiu and He, 2006). At the lesion
+site, not only does the glial scar constitute a physical barrier
+to axonal growth, but the reactive astrocytes produce inhibi-
+tory extracellular matrix molecules such as chondroitin sul-
+phate proteoglycan (CSPG) (McKeon et al., 1991; Jones et al.,
+2003). However, several lines of evidence suggest that reactive
+astrocytes in glial scars may possess important beneficial
+functions for stabilizing fragile CNS tissue after injury includ-
+ing the restriction of inflammation and the promotion of
+neuronal survival (Faulkner et al., 2004; Okada et al., 2006;
+Herrmann et al., 2008; Rolls et al., 2009). Reactive astrocytes,
+by producing various neurotrophic factors and cytokines,
+also exhibit adaptive plasticity (Aubert et al., 1995; Ridet
+et al., 1997) and are able to restore the extracellular ionic
+environment (Syková et al., 1992).
+We previously synthesized a novel compound, deno-
+somin (Figure 1) that is an analogous derivative of sominone
+(Matsuya et al., 2009) and is hydrophobic (CLogP = 4.9803).
+Sominone is a sapogenin metabolized from withanoside IV,
+which is one of the constituents of an ayurvedic tonic medi-
+cine Ashwagandha (root of Withania somnifera Dunal)
+(Kuboyama et al., 2006), and is itself a constituent of Ashwa-
+gandha (Atta-ur-Rahman et al., 1992). Our previous data
+showed that denosomin enhances axonal length in cultured
+cortical neurons, even after axonal dystrophy had been
+induced by amyloid b(1–42) treatment (Matsuya et al., 2009).
+Therefore, we expected to find that denosomin induces
+axonal growth in the lesion site in SCI.
+In the present study, we investigated the in vivo activities
+of denosomin in SCI mice and the underlying mechanism for
+its effects on axonal growth in the detrimental environment
+of injured spinal cord. Our results demonstrated that deno-
+somin increases astrocyte density in the injured region of SCI
+mice and is able to convert one property of reactive astrocytes
+into a stimulant for axonal growth. We also clarified that
+denosomin-induced expression and secretion of the interme-
+diate filament protein, vimentin, in astrocytes enhanced
+axonal growth and functional recovery in SCI mice. Altering
+the roles of astrocytes by medication may prove to be a very
+effective route for achieving SCI recovery and should be the
+focus of new therapeutic intervention strategies.
+Methods
+All studies involving animals are reported in accordance with
+the ARRIVE guidelines for reporting experiments involving
+animals (Kilkenny et al., 2010; McGrath et al., 2010). All
+experiments were performed in accordance with the Guide-
+lines for the Care and Use of Laboratory Animals at the
+Sugitani Campus of the University of Toyama and the NIH
+Guidelines for the Care and Use of Laboratory Animals. The
+Committee for Animal Care and Use at the Sugitani Campus
+of the University of Toyama approved each of the study
+protocols. All efforts were made to minimize the number of
+animals used.
+Animals and SCI model experiments
+Seven-week-old male ddY mice (SLC) were used for the SCI
+experiments (total number of mice used = 50). The mice were
+housed with ad libitum access to food and water and were
+maintained under constant environmental conditions (22 
+2°C, 50  5% humidity and 12 h light : 12 h dark cycle start-
+ing at 07 h 00 min). The mice were anaesthetized by admin-
+istration of trichloroacetaldehyde monohydrate (500
+mg·kg-1, i.p.). After the mice had completely lost their right-
+ing reflex, the surgical operations to produce SCI were per-
+formed, as described previously (Krenz and Weaver, 2000)
+with slight modifications. Contusion injuries were produced
+by twice dropping a 6.5 g weight from a height of 3 cm onto
+the exposed dura mater of the lumbar spinal cord L1 level
+using a stereotaxic instrument (Narishige, Tokyo, Japan). One
+hour after surgery, the SCI mice were randomly divided into
+the vehicle-treated and denosomin-treated groups, and appli-
+cation of the drug was initiated. Denosomin at 10 mmol·kg-1
+(Figure 3A–D) or 20 mmol·kg-1 (Figures 2, 3E–H and 8–10) or a
+vehicle control was administered p.o. once daily to the
+animals for 7 days (Figures 8–10) or 14 days (Figures 2 and 3).
+For behavioural scoring, the mice were individually placed in
+an open field (23.5 cm ¥ 16.5 cm ¥ 12.5 cm) and observed for
+5 min. Open-field locomotion was evaluated using the 0–9-
+point Basso Mouse Scale (BMS) locomotion scale and the
+0–4-point Body Support Scale (BSS) locomotion scale.
+Figure 1
+Structure of denosomin.
+BJP K Teshigawara et al.
+904 British Journal of Pharmacology (2013) 168 903–919
+Figure 2
+Denosomin enhances hind limb function in SCI mice. BMS (A) and BSS (B) scores were measured. SCI mice were administered denosomin (open
+squares, 4 mice, 8 hind limbs, n = 8) or vehicle solution (closed squares, 5 mice, 10 hind limbs, n = 10). At 14 days after the SCI, the movements
+of the mice were captured during walking. Sequentially captured images for 0.7 s are shown in (C). Also see movies 1 and 2. #P = 0.0005, drug
+¥ day interaction was analysed using a repeated measures two-way ANOVA, F(14, 244) = 2.89; *P < 0.05, compared to the vehicle-treated control SCI
+mice on the same day; post hoc Bonferroni test.
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 905
+Figure 3
+Denosomin enhances axonal density and reactive astrocytes in SCI mice. Sagittal sections of the spinal cord of vehicle- or denosomin-treated SCI
+mice were immunostained for NF-H (A), GFAP (C) or 5-HT (E). The relative areas of immunostaining for NF-H (B) or GFAP (D) were quantified in
+two locations of the spinal cord: at the centre of the lesion and in the adjacent sections (I). The lower panels in (A) are magnified images of
+the lesion centre. Arrows indicate the NF-H-positive axonal filaments. The blue dashed lines in (A) and (C) indicate the outlines of the glial scar.
+The dashed lines in (E) indicate the outlines of the spinal cords. The 5-HT-positive areas were measured at rostral and caudal sections 2 mm
+from the injury centre (I). The 5-HT-positive axonal densities in the rostral (F) and caudal (G) regions were quantified. (H) The sizes of glial scars
+were measured at the lesion centre in the slices used in (E–G). *P < 0.05, Student’s unpaired t-test (two-tailed); N.S., not significant. The numbers
+of mice are shown in parentheses in the columns. The white scale bars indicate 500 mm, and the yellow bar indicates 200 mm.
+BJP K Teshigawara et al.
+906 British Journal of Pharmacology (2013) 168 903–919
+Antibodies
+The primary antibodies for immunohistochemistry included a
+rabbit anti-neurofilament-H (NF-H) polyclonal antibody (dilu-
+tion 1:500; Chemicon, Temecula, CA, USA), a mouse anti-
+GFAP monoclonal antibody (clone 1D4, dilution 1:1000;
+Applied Biological Materials, Richmond, BC, Canada), a rabbit
+anti-5-HT polyclonal antibody (dilution 1:1000; ImmunoStar,
+Hudson, WI, USA), a mouse anti-vimentin monoclonal anti-
+body (clone RV202, dilution 1:100; Santa Cruz Biotechnology,
+Santa Cruz, CA, USA), a mouse anti-CSPG monoclonal anti-
+body (clone CS-56, dilution 1:500; Sigma, St. Louis, MO, USA),
+a rabbit anti-laminin polyclonal antibody (dilution 1:1000;
+Biomedical Technologies, Stoughton, MA, USA), a rabbit anti-
+b-actin polyclonal antibody (dilution 1:1000; Cell Signaling
+Technology,Danvers,MA,USA), amouse anti-phosphorylated
+NF-H (pNF-H) monoclonal antibody (clone: SMI-35, dilu-
+tion 1:500; Covance, Emeryville, CA, USA), a rabbit anti-
+microtubule associated protein 2 (MAP2) polyclonal antibody
+(dilution 1:500; Chemicon), a rabbit anti-GFAP polyclonal
+antibody (dilution 1:1000; Dako, Glostrup, Denmark) and
+a 5-bromo-2′-deoxyuridine (BrdU) monoclonal antibody
+(clone: Mobu-1, dilution 1:500; Merck Calbiochem, Darm-
+stadt, Germany). The secondary antibodies used were Alexa
+Fluor 488- or 594-conjugated goat anti-mouse IgG (dilution
+1:300), Alexa Fluor 350-conjugated goat anti-mouse IgM (dilu-
+tion 1:300), Alexa Fluor 594-conjugated goat anti-mouse IgG1
+(dilution 1:300) and Alexa Fluor 488- or 568-conjugated goat
+anti-rabbit IgG (dilution 1:300; Invitrogen, Carlsbad, CA,USA).
+Immunohistochemistry
+After behavioural scoring, serial spinal cord slices were
+obtained as 10 mm sagittal sections to determine the expres-
+sion therein of NF-H, GFAP, vimentin, 5-HT, CSPG, laminin
+and b-actin; and these samples were also counterstained with
+DAPI (Biomol, Farmingdale, NY, USA). The fluorescent images
+shown in Figure 3A, C and E were captured at 320 mm ¥
+420 mm or 1600 mm ¥ 2100 mm using a fluorescence micro-
+scope (BX-61/DP70, Olympus, Tokyo, Japan). The densities of
+NF-H-positive axons and GFAP-positive astrocytes were meas-
+ured using an ATTO densitography image analyser (ATTO,
+Tokyo, Japan). Ten randomly selected 100 mm ¥ 100 mm
+squares in the centres of the lesions or adjacent to the lesions
+were measured to calculate the average value per slice
+(Figure 3B and D). The fluorescent images in Figure 3E–Gwere
+captured at distances of 2 mm rostral and caudal from the
+injury centre (Figure 3I) at 1600 mm ¥ 2100 mmusing a BX-61/
+DP70microscope. The fluorescent images in Figures 8–10were
+captured at 106 mm ¥ 142 mm (Figure 8) or at 670 mm ¥ 890 mm
+(Figures 9 and 10) using a fluorescence microscopy system
+(Axio observer Z1, Carl Zeiss, Oberkochen, Germany). The
+densities of the 5-HT-, vimentin-, GFAP- and CSPG-positive
+areas inside of the scar were determined using the ImageJ
+image analyser (NIH). An observer, blind to the different
+treatments, determined the threshold values and ROIs
+(Figures 3F,G, 9 and 10). The GFAP-positive regions (Figure 3)
+and CSPG-positive regions (Figures 9 and 10) of the scar were
+then quantified.
+Primary culture
+Primary cultured spinal cord and cerebral cortical cells were
+prepared from the E17-18 embryos of 30 Sprague–Dawley rats
+(SLC, Hamamatsu, Shizuoka, Japan) at a density of 1.45–1.74
+¥ 105 cells·cm-2 or E14 embryos of three ddY mice (SLC) at a
+density of 1.45–4.35 ¥ 104 cells·cm-2 (Figure 7I–K) as described
+previously (Kuboyama et al., 2005) with modifications.
+Neurons and astrocytes coexisted in our culture conditions
+(data not shown). The cells were cultured in eight-well
+chamber slides (Falcon, Franklin Lakes, NJ, USA). Cortical and
+spinal cell cultures were given Neurobasal medium (Invitro-
+gen) containing 2% B-27 supplement (Invitrogen), 0.6%
+D-glucose and 2 mM L-glutamine. Axonal densities were ana-
+lysed by immunocytochemistry for pNF-H and MAP2 follow-
+ing Denosomin (Matsuya et al., 2009) or vimentin (ProSpec,
+Rehovot, Israel) treatment.
+Rat spinal cord astrocytes were cultured as described pre-
+viously (McCarthy anddeVellis, 1980)withmodifications. Rat
+spinal cord cells (E17-18) were cultured for 12–14 days with
+shaking in T-25 flasks (Falcon) in DMEM/F12 (1:1) medium
+(Invitrogen) containing 10% FBS. Microglia and oligodendro-
+cyte precursor cells were detached by shaking. Immunocyto-
+chemistry indicated that the percentage of GFAP-positive
+astrocytes was greater than 95% using our procedure, and the
+remaining cells weremicroglia. Purified astrocytes were seeded
+in eight-well chamber slides coated with 5 mg·mL-1 poly-D-
+lysine (PDL) at a density of 0.72–1.45 ¥ 105 cells·cm-2. T-25
+flaskswere coatedwith 5 mg·mL-1 PDL. The eight-well chamber
+slides were coated with 5 mg·mL-1 PDL following treatment
+with 0.5 mg·mL-1 aggrecan (Sigma), which is a CSPG (Figure 7J
+and K). Fluorescent images were captured at 670 mm ¥ 890 mm
+using the BX61/DP70 microscope. Axons were automatically
+detected by the Neurocyte image analyser (Kurabo, Osaka,
+Japan), and the densities of axons per neuron were calculated.
+An observer, blind to the different treatments, captured and
+analysed the images (Figure 7I and K).
+BrdU incorporation assay
+Cellular proliferation was evaluated using the BrdU incorpo-
+ration assay. BrdU (Sigma) was added to the culture medium
+for 24 h at a final concentration of 10 mM. The cells were
+incubated in 2 M HCl for 20 min at 37°C after fixation and
+were washed in 0.1 M borate buffer. The cells were immunos-
+tained for BrdU and counterstained with DAPI.
+TUNEL assay
+H2O2 (at a final concentration of 300 mM) was added to the
+astrocyte culture medium for 24 h. The proportion of cells
+that exhibited cellular death was determined using the In Situ
+Cell Death Detection Kit (Roche, Mannheim, Germany)
+according to the manufacturer’s protocol.
+Cell migration assay
+Isolated astrocytes were cultured until fully confluent (a state
+of growth arrest) for 7 days to avoid the influence of cell
+proliferation activity. The central part of the astroglial layer
+was then scratched using a 1.5 mL Pipette tip. The scratched
+cell-free area was observed for 3 days after the scratch wound
+and was recorded with a phase-contrast microscope. Subse-
+quently, astrocytes were immunostained for GFAP and coun-
+terstained with DAPI.
+ELISA for vimentin
+Cultured rat astrocytes were treated with vehicle solution or
+1 mM denosomin for 5 days in DMEM/F12 (1:1) containing
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 907
+10% FBS, and the astrocytes were treated for 1 day with
+denosomin-free and serum-free neurobasal medium. Condi-
+tioned medium (ACM) and astrocyte lysates were collected
+individually. The cells were lysed using a lysis buffer (pH 7.5,
+140 mM NaCl, 50 mM Tris–HCl, 1% NP-40, 10 mM EDTA,
+20 mM NaF, 20 mM b-glycerophosphate, 1 mM PMSF, 1 mM
+DTT, 1 mM sodium vanadate and a protease inhibitor cock-
+tail; Roche). The vimentin concentrations in these samples
+were quantified using a rat vimentin ELISA kit according to the
+manufacturer’s protocol (Cusabio Biotech, Wuhan, Hubei,
+China).
+Statistical analysis
+Statistical comparisons were performed using a one-way
+ANOVA followed by the post hoc Dunnett’s test, or using a
+repeated measures two-way ANOVA followed by the post hoc
+Bonferroni test and an unpaired (two-tailed) t-test. The Prism
+5 (GraphPad software) programme was used for the statistical
+analyses. P-values <0.05 were considered significant. The
+mean values of the data are presented along with the SEM.
+Results
+Administration of denosomin, p.o., induced
+increases in astrocytes, axonal growth and
+functional recovery in SCI mice
+Mice with contusion SCI were administered denosomin, p.o.,
+for 14 consecutive days following injury. Motor function of
+two hind limbs was separately scored using the BMS, which
+evaluates ankle movement and walking stability (Basso et al.,
+2006) (Figure 2A), along with criteria we developed to assess
+the degree of hind limb muscle strength for support of the
+body trunk, that is the BSS (see Table 1 and Figure 2B). Most
+SCI mice displayed complete bilateral hind limb paralysis the
+day after injury. Denosomin-treated SCI mice displayed
+improvements in hind limb function during the first week. At
+14 days after the SCI, denosomin-treated mice showed high
+mobility of their hind limb ankles during walking, but
+vehicle-treated mice had little movement in their ankles
+(Figure 2C; Supporting Information Movies S1,S2). The BMS
+and BSS scores of denosomin-treated mice gradually and sig-
+nificantly increased compared with control SCI mice over the
+14 day course of administration (Figure 2A and B). We
+repeated these experiments were repeated more than three
+times and confirmed that a similar degree of motor dysfunc-
+tion was reproducibly observed in our contusion model. The
+pattern of spontaneous recovery of the motor function,
+which reached a plateau (2–3 in BMS score) at 14 days after
+the injury, and the effectiveness of denosomin were also
+reproducible (data not shown). Denosomin administration
+did not affect the body weight or induce abnormal behav-
+iours in mice (data not shown).
+The injured spinal cords of denosomin-treated (for 14
+days) SCI mice were then histologically examined. In vehicle-
+treated SCI mice, NF-H (an axonal marker)-positive staining
+showed that axons were lost around the centre of the lesion
+and its surroundings (Figure 3A). The areas of NF-H-positive
+axons were measured in the centre of the lesion and the
+adjacent locations (Figure 3I). Axonal density was signifi-
+cantly increased in both the lesion centres and the adjacent
+sections in the spinal cords of denosomin-treated SCI mice
+(Figure 3B). Next, spinal cord slices were immunostained
+for 5-HT (Figure 3E–G), which is a marker of the 5-
+hydroxytryptaminergic raphespinal tract in the spinal cord,
+because the raphespinal tract largely regulates locomotive
+function (Jacobs et al., 2002). The 5-HT-positive areas were
+measured in the caudal and rostral regions at a distance of
+2 mm from the injury centre (Figure 3I). The caudal 5-HT-
+positive axonal densities of animals in the denosomin group
+were greater than those of the vehicle group (Figure 3G), but
+the densities on the rostral sides did not differ notably
+(Figure 3F). At 7 days after denosomin administration, 5-HT-
+positive axons were increased in the lesion region but were
+rarely observed at the caudal site of the injury region
+(Figure 9A). These results suggest denosomin induces the
+axons in the glial scar (at least those in the raphespinal tracts)
+to elongate and towards the caudal site. Immunostaining for
+GFAP was performed to identify reactive astrocytes (Figure 3C
+and D). GFAP-positive astrocytes in SCI control mice were
+localized to the areas adjacent to the lesions. In contrast,
+GFAP-positive astrocytes in denosomin-treated SCI mice were
+located at the centre of the lesions as well as in areas adjacent
+to the lesions (Figure 3C). The sizes of the glial scars were not
+different between the control and denosomin-treated SCI
+mice (Figure 3H). The marked increment in GFAP-positive
+astrocytes in the lesion centre was significantly enhanced by
+denosomin administration (Figure 3D).
+Denosomin increased astrocyte proliferation
+and reduced oxidative stress-induced astrocyte
+death but did not increase astrocyte migration
+To assess the effect of denosomin treatment on astrocytes
+within the scar of SCI mice, astrocyte proliferation was inves-
+tigated in pure cultures of astrocytes isolated from rat spinal
+cords. The astrocytes were cultured with denosomin. Six days
+later, BrdU incorporation, for 24 h, was assessed to evaluate
+any increases in astroglial proliferation. The number of BrdU-
+positive astrocytes was significantly increased after deno-
+somin treatment (Figure 4A and B), and the total number
+of astrocytes also increased (Figure 4C). Furthermore, the
+growth rate of astrocytes and the ratio of BrdU-positive astro-
+Table 1
+Operational definitions of the BSS scale
+Score Criteria
+0 No ankle movement or slight ankle movement, and
+no touching of the sole on the floor
+1 Extensive ankle movement, touching of the sole on
+the floor, but no support of the body trunk
+2 Touching of the sole on the floor, no support of the
+body trunk, sometimes support of hindquarters
+3 Touching of the sole on the floor, always support of
+the body trunk, unstable weight support
+4 Touching of the sole on the floor, always support of
+the body trunk, stable weight support
+BJP K Teshigawara et al.
+908 British Journal of Pharmacology (2013) 168 903–919
+cytes to DAPI-positive astrocytes both significantly increased
+in response to denosomin (Figure 4D).
+The primary mechanical damage associated with SCI is
+followed by a secondary injury phase that involves oxidative
+stress, inflammation and cell death (Rowland et al., 2008;
+Olby, 2010). Thus, the effect of denosomin on astrocyte sur-
+vival was investigated. Astrocyte death was induced in vitro by
+addition of H2O2 and it was then assessed using the TUNEL
+assay (Figure 5). Denosomin treatment was started 24 h
+before the addition of H2O2, and the TUNEL assays were
+performed at 24 h after the addition of H2O2. In untreated
+control astrocytes, almost no TUNEL-positive dead astrocytes
+were observed with or without denosomin treatment. In con-
+trast, H2O2 treatment resulted in a significant increase in the
+number of TUNEL-positive astrocytes. Moreover, denosomin
+pretreatment of H2O2-treated astrocytes markedly and signifi-
+cantly decreased the number of TUNEL-positive astrocytes
+(Figure 5A and B). Denosomin significantly decreased the
+death rate of H2O2-treated astrocytes and the ratio of TUNEL-
+positive astrocytes to DAPI-positive astrocytes (Figure 5C).
+The promotion of astrocyte migration from outside of the
+scar is another possible explanation for the increase in astro-
+cytes within the scar. Thus, an in vitro migration assay was
+performed (Figure 6). The number of astrocytes migrating
+into the scratched space (scar) did not differ in the presence
+or absence of denosomin.
+Denosomin enhanced the secretion of
+vimentin from astrocytes, leading to
+axonal elongation
+Reactive astrocytes in the glial scar are a major impediment to
+axonal regrowth (Davies et al., 1997; Silver and Miller, 2004;
+Tom et al., 2004; Yiu and He, 2006). However, axonal growth
+and reactive astrogliosis were enhanced in the lesion centres
+of denosomin-treated SCI mice (Figure 3), and similar phe-
+nomena were observed in denosomin-treated cultured cells
+(Figures 4, 5, Supporting Information Figures S1 and S2).
+Therefore, we hypothesized that the denosomin-induced
+increase in astrocytes does not inhibit axonal growth but
+rather assists in axonal crossing of the lesion scar. To inves-
+tigate this hypothesis, spinal cord cells were cultured in
+denosomin-free medium and were also co-cultured with iso-
+lated denosomin-treated astrocytes (Figure 7C). The axonal
+densities of spinal cord neurons layered on denosomin-
+treated astrocytes were significantly increased when they
+Figure 4
+Denosomin enhances the proliferation of cultured astrocytes. Isolated astrocytes were cultured in the presence or absence of 1 mM denosomin
+(Deno) for 6 days and then treated with BrdU for 24 h. The astrocytes were immunostained for GFAP and BrdU and counterstained with DAPI (A).
+Astrocyte proliferation (B), total astrocyte number (C) and the astrocyte growth rate (D) were evaluated. Arrows indicate proliferating astrocytes
+(A). *P < 0.05, Student’s unpaired t-test (two-tailed); #P < 0.05, compared to control cells without denosomin and H2O2, one-way ANOVA followed
+by post hoc Bonferroni test. The numbers of photos are shown in parentheses in the columns. The scale bar indicates 100 mm.
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 909
+were not given direct denosomin stimulation (Figure 7A and
+B). Next, we investigated the dependence of astrocyte-
+mediated axonal outgrowth on astrocyte secretion. Cultured
+spinal cord cells were treated with astrocyte-conditioned
+medium (ACM) from astrocyte cultures that had been treated
+with denosomin for 6 days (Figure 7F). The axonal densities
+of the cultured spinal cord cells that were treated with
+denosomin-untreated, ACM for 6 days increased compared
+with those treated with control (non-ACM) medium
+(Figure 7D). Furthermore, denosomin-pretreated ACM sig-
+nificantly increased the axonal densities compared with the
+denosomin-untreated ACM group. The neuron number and
+non-neuronal cell number were not changed by the
+denosomin-pretreated ACM, (Figure 7E). These results dem-
+onstrate that denosomin-treated astrocytes secrete some
+factors that stimulate axonal elongation.
+To identify the proteins that stimulated axonal elonga-
+tion, the levels of astrocyte protein expression were exhaus-
+tively compared between the denosomin- and vehicle-treated
+astrocytes using two-dimensional (2D) PAGE (Supporting
+Information Figure S3) and LC-MS/MS analyses. These analy-
+ses revealed that levels of the intermediate filament protein
+vimentin notably increased in denosomin-treated astrocytes,
+and vimentin was found to produce the most dense band on
+the 2D-PAGE. An ELISA analysis further confirmed the
+increased vimentin levels in denosomin-treated astrocytes
+(Figure 7G). There were also increased vimentin levels in the
+ACM of denosomin-treated astrocytes (Figure 7H). The
+vimentin content in control astrocytes was 3.99 ng·mL-1
+compared with 17.4 ng·mL-1 in denosomin-treated astro-
+cytes. Calibration by protein concentrations showed vimen-
+tin concentrations were 0.55 ng·mg-1 protein and 1.93 ng·mg-1
+Figure 5
+Denosomin inhibits the H2O2-induced death of cultured astrocytes. The isolated astroglial layer was pretreated with 1 mM denosomin (Deno) after
+5 days of culture. Isolated astrocytes were treated with H2O2 for 24 h, and the TUNEL assay and GFAP immunostaining were then performed. All
+cells were counterstained with DAPI (A). Astrocyte death was evaluated by the quantification of TUNEL-positive cells (B). The rate of astrocyte
+death was evaluated using the ratio of TUNEL-positive astrocytes to DAPI-positive astrocytes (C). Arrows indicate dying astrocytes (A). *P < 0.05,
+Student’s unpaired t-test (two-tailed); #P < 0.05, compared to control cells without denosomin and H2O2, one-way ANOVA followed by post hoc
+Bonferroni test. The numbers of photos are shown in parentheses in the columns. The scale bar indicates 100 mm.
+BJP K Teshigawara et al.
+910 British Journal of Pharmacology (2013) 168 903–919
+protein in cortical ACM and denosomin-treated ACM respec-
+tively. This indicates that the ratio of vimentin to total pro-
+teins in ACM was increased by denosomin, suggesting that it
+induces the secretion of vimentin.
+In vivo, the distribution of vimentin primarily overlapped
+that of laminin, an extracellular matrix protein, inside the
+glial scars of denosomin-treated SCI mice (Figure 8A). The
+vimentin-positive areas also appeared to be outside b-actin
+(Figure 8B), which is a cytoplasmic protein that is also dis-
+tributed at the plasma membrane (Hoock et al., 1991). These
+distribution patterns strongly suggest that vimentin was
+being secreted in the spinal cord in vivo. Vimentin secretion
+from astrocytes (Greco et al., 2010; Cordero-Llana et al., 2011)
+and macrophages (Mor-Vaknin et al., 2003; Xu et al., 2004)
+has been reported previously. It has been proposed that
+vimentin interacts with the endoplasmic reticulum (ER)
+membrane and is selectively exported from the ER to the
+Golgi complex and then secreted (Mor-Vaknin et al., 2003;
+Huet et al., 2006). However, the functional significance of
+vimentin secretion with respect to neuronal activity is not
+known. The direct application of vimentin resulted in
+increase in axonal densities at 10 ng·mL-1 in primary cultured
+cortical neurons (Figure 7I), which was consistent with the
+concentration of vimentin in the ACM treated with deno-
+somin (Figure 7H). Vimentin (10 ng·mL-1) also significantly
+increased axonal densities even on inhibitory CSPG-coated
+slides (Figure 7J and K). These results are very important,
+because CSPG is deposited inside the glial scar and generally
+inhibits axonal regeneration in SCIs (Silver and Miller, 2004).
+Together, these results indicate that denosomin treatment
+increases vimentin expression and secretion by astrocytes,
+which then leads to the promotion of axonal growth.
+Denosomin increased the vimentin-positive
+astrocyte frequency and axonal growth along
+vimentin-positive astrocytes in the injured
+regions of SCI mice
+The expression and distribution of vimentin were further
+investigated in vivo. Spinal cord slices from SCI mice that had
+Figure 6
+Denosomin does not influence cell migration in the scratched astroglial culture. After 6 days of culture, the isolated astroglial layer was pretreated
+with 1 mM denosomin (Deno). Twenty-four hours later, the layer was scratched. Astroglial migration into the scratched cell-free area was then
+observed for 3 days (A). Astrocytes were immunostained for GFAP and counterstained with DAPI 3 days after the scratch wounding. The number
+of migrated astrocytes in the cell-free area (surrounded by a dotted square) was quantified (B). A solid line delineates the edge of the astrocyte
+layer immediately adjacent to the scratch wound. N.S., Not significant in, unpaired t-test (two-tailed). The numbers of photos are shown in
+parentheses in the columns. The scale bar indicates 100 mm.
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 911
+Figure 7
+Denosomin-mediated axonal outgrowth in primary cultures is mediated by vimentin secretion from astrocytes. (A–C) Isolated astrocytes were
+cultured in the presence or absence of 1 mM denosomin (Pre-Deno) for 6 days. Rat spinal cord cells were cocultured on the astrocyte layer without
+denosomin for 7 days after the astrocytes had been treated with denosomin. (D–F) Isolated astrocytes were cultured in the presence or absence
+of 1 mM denosomin (Pre-Deno) for 6 days. The culture medium was then replaced with fresh medium without denosomin, and the medium was
+collected 24 h later for use as astrocyte-conditioned medium (ACM). Rat primary cultured spinal cord cells were cultured in normal medium or
+ACM for 6 days (F). (G and H) Cultured astrocytes that were treated with or without denosomin (Deno) (G) and ACM collected from the astrocyte
+culture (H) were used for the ELISA assay. (I–K) Isolated mouse cortical cells were cultured with or without 1 or 10 ng·mL-1 vimentin for 6 days.
+The cells were cultured on slides with (J and K) or without (I–J) a CSPG coating. The cells were immunostained for pNF-H and MAP2, and the
+densities of pNF-H-positive axons on each neuron were quantified (B, D, I and K). Cellular distributions of neurons and non-neuronal cells per
+0.1 mm2 were evaluated by the quantification of MAP2- and DAPI-positive cells (E). In (B, G and H): *P < 0.05, Student’s unpaired t-test
+(two-tailed); #P < 0.05; one-way ANOVA followed by the post hoc Bonferroni test, versus the control ACM treatment (D), versus the control cells (I)
+or versus CSPG-coated control cells (K). The numbers of photos (B, D, E, I, and K) or measurements (G and H) are shown in parentheses in the
+columns. The scale bar indicates 100 mm.
+BJP K Teshigawara et al.
+912 British Journal of Pharmacology (2013) 168 903–919
+been treated with denosomin for 7 days were immunostained
+for 5-HT and vimentin (Figure 9). The sizes of CSPG-positive
+glial scar areas were not significantly different between SCI
+control and denosomin-treated SCI mice (Figure 9C). The
+level of CSPG expressed was also not changed by denosomin
+(Figure 9D). Denosomin administration significantly in-
+creased the frequency of 5-HT-positive (Figure 9E) and
+vimentin-positive areas (Figure 9F) within the scar. Addition-
+ally, 5-HT axons were elongated along the scar rim where
+vimentin was highly expressed (Figure 9A). In control mice,
+5-HT-positive axons rarely overlapped with vimentin-positive
+regions. In contrast, the majority of 5-HT-positive axons were
+co-localized with vimentin in denosomin-treated mice
+(Figure 9B). The frequency of 5-HT axons associating with
+vimentin significantly increased in the denosomin-treated
+group (Figure 9G). These results indicate that denosomin
+enhanced the raphespinal tract growth inside the scar, and
+this growth was probably due to an association of the raphe-
+spinal tracts with secreted vimentin or vimentin-positive
+cells.
+The promotion and inhibition of axonal growth by reac-
+tive astrocytes has previously been well characterized (Silver
+and Miller, 2004; Okada et al., 2006; Yiu and He, 2006; Rolls
+et al., 2009; White et al., 2011). To clarify that the conversion
+of astrocyte function relates to vimentin expression, spinal
+cord slices were immunostained for vimentin, CSPG and
+GFAP (Figure 10). Regions expressing vimentin mainly over-
+lapped with GFAP-positive astrocytes along the scar rim
+(Figure 10A). Denosomin treatment significantly increased
+the frequency of astrocytes that were positive for GFAP and
+vimentin (Figure 10B and C), whereas this treatment did not
+significantly increase the frequency of astrocytes that were
+positive for CSPG and GFAP (Figure 10B and D). As shown in
+Figure 3C and D, denosomin increased the density of astro-
+cytes in the scar. These findings suggest that denosomin spe-
+cifically increases vimentin-positive astrocytes to promote
+axonal growth. However, denosomin did not affect the fre-
+quency of CSPG-positive astrocytes, which inhibit axonal
+growth.
+Discussion and conclusions
+We previously demonstrated that a novel compound, deno-
+somin, has the potential to promote axonal growth and
+attenuate neuronal loss under the amyloid b(1–42)-induced
+neurodegenerative condition in primary cultured cortical
+neurons coexisting with astrocytes (Matsuya et al., 2009).
+Figure 8
+Vimentin is located primarily in the extracellular matrix inside the glial scar of SCI mice. Spinal cord slices of SCI mice that had been treated with
+denosomin were immunostained with antibodies for vimentin and laminin (extracellular matrix) (A) or vimentin and b-actin (cytoplasm and
+plasma membrane) (B). Both combinations were counterstained with DAPI. Arrows indicate gap space between cells. The scale bar indicates
+10 mm.
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 913
+Herein, we showed that denosomin can facilitate axonal
+elongation in primary cultured cortical neurons (Supporting
+Information Figure S1) and spinal cord neurons (Supporting
+Information Figure S2), and that denosomin also has in vivo
+activities (Figures 2, 3, 9 and 10). Specifically, denosomin
+facilitated the growth of axons in the injured region and
+improved hind limb dysfunction in SCI mice. Denosomin
+treatment for 7 days increased the number of 5-HT-positive
+axons in the lesion scar (Figure 9). Further, donosomin treat-
+ment for 14 days significantly increased 5-HT-positive axons
+in the caudal region, at a distance of 2 mm from the injury
+centre (Figure 3E and G). Although the axonal growth
+Figure 9
+Denosomin-induced 5-hydroxytryptaminergic fibres associate with vimentin in SCI mice. (A,B) Spinal cord slices from SCI mice that had been
+treated with denosomin (Deno), or vehicle were triple immunostained for 5-HT, vimentin and CSPG. (B) Enlarged images are of insets shown in
+(A). The ratios of (E) 5-HT- and (F) vimentin-positive areas within the scar areas were quantified. (G) The ratio of 5-HT-positive areas associating
+with vimentin-positive areas were quantified. (C) The sizes of glial scars were measured. (D) The intensities for the expression of CSPG were
+measured. *P < 0.05, Student’s unpaired t-test (two-tailed). The numbers of mice are shown in parentheses in the columns. The scale bar indicates
+500 mm (A) or 20 mm (B).
+BJP K Teshigawara et al.
+914 British Journal of Pharmacology (2013) 168 903–919
+induced by denosomin in the relatively early phase may be
+mainly due to axonal sprouting, any extension beyond the
+lesion centre might be due to regeneration. Although the
+effects of denosomin on the BMS and BSS scores were only
+significant in the late phase (11–14 days after SCI), these
+scores also tended to be improved in denosomin-treated mice
+at early phase. Hence, the possibility that the neuroprotective
+effect of denosomin may be involved in the early phase event
+needs to be investigated further. We also showed that deno-
+somin increases the expression (Figure 7G) and secretion
+(Figure 7H) of vimentin from astrocytes and the ratio of astro-
+cytes that expressed vimentin (Figure 10C), which functions
+as an axon growth facilitator. Hence, our results indicate that
+administration of denosomin, p.o., induces secretion of
+Figure 10
+Denosomin-induced astrocytes associate with vimentin in SCI mice. (A,B) Spinal cord slices from SCI mice that had been treated with denosomin
+(Deno) or vehicle were triple immunostained for vimentin, GFAP and CSPG. (B) Enlarged images of insets shown in (A). Pink arrows indicate regions
+positive to vimentin and GFAP and negative to CSPG. Yellow arrowheads indicate regions positive to GFAP and CSPG and negative to vimentin.
+The ratios of (C) vimentin- and (D) CSPG-positive areas overlapping with the GFAP-positive astrocytes were quantified. *P < 0.05, Student’s unpaired
+t-test (two-tailed). The numbers of mice are shown in parentheses in the columns. The scale bar indicates 500 mm (A) or 20 mm (B).
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 915
+vimentin from astrocytes, axonal growth beyond the inhibi-
+tory glial scar and recovery of hind limb function in SCI mice
+(Figure 11). These also suggest a new astroglial function in the
+injured spinal cord, as they show that the astrocyte supports
+axonal growth via secretion of vimentin.
+In the past, reactive astrocytes, by secreting inhibitory
+CSPG in the injured region of SCI, were considered to impede
+axonal regeneration (Silver and Miller, 2004; Yiu and He,
+2006). Recently, however, it has been gradually accepted that
+the glial scar also has beneficial effects on CNS repair (Rolls
+et al., 2009; White et al., 2011). If the properties of astrocytes
+in the scar can be converted into beneficial ones, the scar
+would additionally support axonal growth. Vimentin as well
+as GFAP is the up-regulated hallmark of reactive gliosis. In
+animals in which vimentin has been knocked down, the size
+of the glial scar in SCI was found to be reduced (Xia et al.,
+2008; Toyooka et al., 2011). However, neurite length and sur-
+vival of cultured cortical neurons were not influenced by
+vimentin knockout (Menet et al., 2001) or knockdown
+(Desclaux et al., 2009) unlike to GFAP. In addition, knockout
+of vimentin did not induce axon regeneration in SCI mice
+(Menet et al., 2003). Thus, the role of vimentin in the pro-
+pensity of astrocytes to induce axonal growth was not
+obvious. In our study, we showed that the ratio of vimentin-
+positive astrocytes was approximately 30% in control SCI
+mice and this was greatly increased by denosomin to ap-
+proximately 80% (Figure 10E). Denosomin treatment also
+enhanced the vimentin concentration in cultured astrocytes
+(Figure 7F). The ratio of 5-HT axons associated with vimentin
+was significantly increased in the injured region of
+denosomin-treated SCI mice (Figure 9E). We also clarified
+that vimentin has an axonal elongation activity even in the
+presence of CSPG (Figure 7J and K). These results suggest that
+denosomin increases the concentration of vimentin in GFAP-
+positive astrocytes and this is associated with the growth of
+axons in the injured region of SCI mice. Other groups have
+reported that axonal growth is associated with vimentin-
+positive cells in the injured region of the spinal cord (Hsu and
+Xu, 2005; Busch et al., 2010). Therefore, an increase in the
+expression of vimentin would support SCI repair.
+Figure 11
+Schema for the effects of denosomin. Oral administration of denosomin to SCI mice induces proliferation of astrocytes, inhibits oxidative
+stress-induced astrocytic death and increases the vimentin expression in astrocytes. As a result, vimentin-positive astrocytes were increased, then
+vimentin secretion is enhanced. Secreted vimentin probably induces elongation of 5HT-positive axons, leading to hind limb motor functional
+recovery of SCI mice.
+BJP K Teshigawara et al.
+916 British Journal of Pharmacology (2013) 168 903–919
+During development, astrocytic vimentin facilitates the
+guidance of outgrowing corticospinal tracts (Joosten and
+Gribnau, 1989). Vimentin levels are known to increase after
+contusive injury in the spinal cord, and this increase was
+thought to contribute to axonal growth during spontaneous
+recovery (Bareyre and Schwab, 2003). Vimentin is also
+secreted from macrophages (Mor-Vaknin et al., 2003; Xu
+et al., 2004) as well as astrocytes (Greco et al., 2010; Cordero-
+Llana et al., 2011). Also, NG2 cells in the injured spinal cord
+have been reported to be positive for vimentin (Busch et al.,
+2010). Although we have not investigated whether deno-
+somin has an effect on macrophages and NG2 cells, our data
+suggest that, at least in astrocytes, denosomin induces the
+secretion of vimentin. However, the role and mechanism of
+this secreted vimentin are still not known. Although, in an
+ongoing study we showed that vimentin, applied to the
+extracellular space, elicits the phosphorylation of several sig-
+nalling factors in neurons (data not shown) and propose that
+vimentin works like a neurotrophic factor or an adhesive
+factor.
+We synthesized denosomin as a derivative of sominone
+(Matsuya et al., 2009) and sominone has been found to phos-
+phorylate RET (a receptor for glial cell line-derived neuro-
+trophic factor, GDNF) in neurons without increasing the
+synthesis and secretion of GDNF (Tohda and Joyashiki, 2009).
+Hence, RET should be considered as a candidate for mediat-
+ing the effect of denosomin in astrocytes. However, the
+expression of RET was not detected in astrocytes in the spinal
+cord (Ryu et al., 2011). In addition, we found no expression of
+RET in astrocytes in the injured spinal cords or in naïve spinal
+cords (data not shown). Therefore, it is unlikely that RET is
+responsible for the signalling of denosomin in astrocytes.
+Denosomin enhances proliferation, reduces oxidative stress-
+induced death and promotes vimentin expression in astro-
+cytes, leading to an increase in the number of astrocytes
+secreting vimentin. The secreted vimentin then probably
+induces axonal growth in the injured spinal cord. Other
+groups have reported that STAT3 (Okada et al., 2006) and
+TGF-a (White et al., 2011) signalling mediate both astrocyte
+proliferation and migration in SCI to enhance the healing
+process. However, denosomin did not affect the cellular
+migration of isolated astrocytes. Although the ephrin
+(EPHA4) receptor-mediated RhoA pathway leads to astrocyte
+proliferation and reactivity (Goldshmit et al., 2004), EPHA4
+signalling should also enhance astrocyte migration (Goldsh-
+mit and Bourne, 2010). Down-regulation experiments have
+indicated that vimentin is associated with astrocyte migra-
+tion (Desclaux et al., 2009), but the possibility that an
+increase in vimentin enhances astrocyte migration has not
+been clarified. Therefore, we think that denosomin increases
+vimentin without influencing astrocyte migration. We
+hypothesize that denosomin signalling affects astrocytes
+through a distinct pathway, in which STAT3, TGF-a and
+EPHA4 are not possibly involved . In addition to inducing
+astrocyte proliferation and vimentin up-regulation, deno-
+somin is also neuroprotective (Matsuya et al., 2009) and has
+astrocyte-protective effects (Figure 5), which suggests that
+denosomin has multiple beneficial effects for SCI repair.
+Whether all these effects of denosomin are mediated by
+vimentin, and the identity of its signalling pathway, are the
+subjects of further investigations.
+The increase in reactive astrocytes associated with SCI was
+thought to be essentially a physical and functional barrier
+inhibiting axonal regeneration. However, the upregulation
+and secretion of vimentin converts this burden into a force
+for functional SCI recovery. Several pharmacotherapies for
+SCI are in clinical trials (Tohda and Kuboyama, 2011), but
+drug candidates that utilize the beneficial effects of reactive
+astrocytes have not been identified. Thus, denosomin, by
+increasing the expression and secretion of vimentin, has the
+potential to be used to convert the role of reactive astrocytes
+from one of impeding axonal growth to one of stimulating
+growth. This study is the first to demonstrate the beneficial
+role of vimentin in SCI and drug-mediated regulation of
+reactive astrocytes.
+Acknowledgements
+This work was partially supported by Grants-in-Aid for Scien-
+tific Research (C) (23500439) and Young Scientists (B)
+(22790246; 23700376) funding from the Japan Society for the
+Promotion of Science, the Expression Program, the Regional
+Innovation Cluster Program, a Global Type (II) grant from the
+Ministry of Education, Culture, Sports, Science and Technol-
+ogy, Japan, the Takeda Science Foundation and the Naito
+Foundation Natural Science Scholarship. KT, TK, MS, AN and
+CT designed and performed the experiments. KS synthesized
+denosomin. YM developed the methodology used to synthe-
+size denosomin. KT, TK and CT prepared the manuscript. KT
+and TK contributed equally to this study. CT conducted the
+entire study. We thank Leave a Nest Co., Ltd. (Tokyo, Japan)
+for performing the 2D-PAGE and LC-MS/MS analyses.
+Conflict of interest
+The authors report no conflict interest.
+References
+Atta-ur-Rahman, Jamal SA, Choudhary MI (1992). Two new
+withanolides from Withania somnifera. Heterocycles 34: 689–698.
+Aubert I, Ridet JL, Gage FH (1995). Regeneration in the adult
+mammalian CNS: guided by development. Curr Opin Neurobiol 5:
+625–635.
+Bareyre FM, Schwab ME (2003). Inflammation, degeneration and
+regeneration in the injured spinal cord: insights from DNA
+microarrays. Trends Neurosci 26: 555–563.
+Barrett CP, Guth L, Donati EJ, Krikorian JG (1981). Astroglial
+reaction in the gray matter lumbar segments after midthoracic
+transection of the adult rat spinal cord. Exp Neurol 73: 365–377.
+Basso DM, Fisher LC, Anderson AJ, Jakeman LB, McTigue DM,
+Popovich PG (2006). Basso Mouse Scale for locomotion detects
+differences in recovery after spinal cord injury in five common
+mouse strains. J Neurotrauma 23: 635–659.
+Bignami A, Dahl D (1974). Astrocyte-specific protein and neuroglial
+differentiation. An immunofluorescence study with antibodies to
+the glial fibrillary acidic protein. J Comp Neurol 53: 27–38.
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 917
+Busch SA, Horn KP, Cuascut FX, Hawthorne AL, Bai L, Miller RH
+et al. (2010). Adult NG2+ cells are permissive to neurite outgrowth
+and stabilize sensory axons during macrophage-induced axonal
+dieback after spinal cord injury. J Neurosci 30: 255–265.
+Cordero-Llana O, Scott SA, Maslen SL, Anderson JM, Boyle J,
+Chowhdury RR et al. (2011). Clusterin secreted by astrocytes
+enhances neuronal differentiation from human neural precursor
+cells. Cell Death Differ 18: 907–913.
+David S, Aguayo AJ (1981). Axonal elongation into peripheral
+nervous system ‘bridges’ after central nervous system injury in
+adult rats. Science 214: 931–933.
+Davies SJ, Fitch MT, Memberg SP, Hall AK, Raisman G, Silver J
+(1997). Regeneration of adult axons in white matter tracts of the
+central nervous system. Nature 390: 680–683.
+Desclaux M, Teigell M, Amar L, Vogel R, Gimenez Y Ribotta M,
+Privat A et al. (2009). A novel and efficient gene transfer strategy
+reduces glial reactivity and improves neuronal survival and axonal
+growth in vitro. PLoS ONE 4: e6227.
+Eng LF (1985). Glial fibrillary acidic protein (GFAP): the major
+protein of glial intermediate filaments in differentiated astrocytes.
+J Neuroimmunol 8: 203–214.
+Faulkner JR, Herrmann JE, Woo MJ, Tansey KE, Doan NB,
+Sofroniew MV (2004). Reactive astrocytes protect tissue and
+preserve function after spinal cord injury. J Neurosci 24:
+2143–2155.
+Goldshmit Y, Bourne J (2010). Upregulation of EphA4 on astrocytes
+potentially mediates astrocytic gliosis after cortical lesion in the
+marmoset monkey. J Neurotrauma 27: 1321–1332.
+Goldshmit Y, Galea MP, Wise G, Bartlett PF, Turnley AM (2004).
+Axonal regeneration and lack of astrocytic gliosis in
+EphA4-deficient mice. J Neurosci 24: 100064–100073.
+Greco TM, Seeholzer SH, Mak A, Spruce L, Ischiropoulos H (2010).
+Quantitative mass spectrometry-based proteomics reveals the
+dynamic range of primary mouse astrocyte protein secretion.
+J Proteome Res 9: 2764–2774.
+Herrmann JE, Imura T, Song B, Qi J, Ao Y, Nguyen TK et al. (2008).
+STAT3 is a critical regulator of astrogliosis and scar formation after
+spinal cord injury. J Neurosci 28: 7231–7243.
+Hoock TC, Newcomb PM, Herman IM (1991). b actin and its mRNA
+are localized at the plasma membrane and the regions of moving
+cytoplasm during the cellular response to injury. J Cell Biol 112:
+653–664.
+Hsu JY, Xu XM (2005). Early profiles of axonal growth and
+astroglial response after spinal cord hemisection and implantation
+of Schwann cell-seeded guidance channels in adult rats. J Neurosci
+Res 82: 472–483.
+Huet D, Bagot M, Loyaux D, Capdevielle J, Conraux L, Ferrara P
+et al. (2006). SC5 mAb represents a unique tool for the detection
+of extracellular vimentin as a specific marker of Sezary cells.
+J Immunol 176: 652–659.
+Jacobs BL, Martín-Cora FJ, Fornal CA (2002). Activity of medullary
+serotonergic neurons in freely moving animals. Brain Res Rev 40:
+45–52.
+Jones LL, Margolis RU, Tuszynski MH (2003). The chondroitin
+sulfate proteoglycans neurocan, brevican, phosphacan, and versican
+are differentially regulated following spinal cord injury. Exp Neurol
+182: 399–411.
+Joosten EA, Gribnau AA (1989). Astrocytes and guidance of
+outgrowing corticospinal tract axons in the rat. An
+immunocytochemical study using anti-vimentin and anti-glial
+fibrillary acidic protein. Neuroscience 31: 439–452.
+Kilkenny C, Browne W, Cuthill IC, Emerson M, Altman DG (2010).
+NC3Rs Reporting Guidelines Working Group. Br J Pharmacol 160:
+1577–1579.
+Krenz NR, Weaver LC (2000). Nerve growth factor in glia and
+inflammatory cells of the injured rat spinal cord. J Neurochem 74:
+730–739.
+Kuboyama T, Tohda C, Komatsu K (2005). Neuritic regeneration
+and synaptic reconstruction induced by withanolide A. Br J
+Pharmacol 144: 961–971.
+Kuboyama T, Tohda C, Komatsu K (2006). Withanoside IV and its
+active metabolite, sominone, attenuate Abeta(25–35)-induced
+neurodegeneration. Eur J Neurosci 23: 1417–1426.
+McCarthy KD, de Vellis J (1980). Preparation of separate astroglial
+and oligodendroglial cell cultures from rat cerebral tissue. J Cell
+Biol 85: 890–902.
+McGrath J, Drummond G, Kilkenny C, Wainwright C (2010).
+Guidelines for reporting experiments involving animals: the
+ARRIVE guidelines. Br J Pharmacol 160: 1573–1576.
+McKeon RJ, Schreiber RC, Rudge JS, Silver J (1991). Reduction of
+neurite outgrowth in a model of glial scarring following CNS injury
+is correlated with the expression of inhibitory molecules on
+reactive astrocytes. J Neurosci 11: 3398–3411.
+Matsuya Y, Yamakawa Y, Tohda C, Teshigawara K, Yamada M,
+Nemoto H (2009). Synthesis of sominone and its derivatives based
+on an RCM strategy: discovery of a novel anti-Alzheimer’s disease
+medicine candidate ‘denosomin’. Org Lett 11: 3970–3973.
+Menet V, Giménez y Ribotta M, Chauvet N, Drian MJ, Lannoy J,
+Colucci-Guyon E et al. (2001). Inactivation of the glial fibrillary
+acidic protein gene, but not that of vimentin, improves neuronal
+survival and neurite growth by modifying adhesion molecule
+expression. J Neurosci 21: 6147–6158.
+Menet V, Prieto M, Privat A, Giménez y Ribotta M (2003). Axonal
+plasticity and functional recovery after spinal cord injury in mice
+deficient in both glial fibrillary acidic protein and vimentin genes.
+Proc Natl Acad Sci U S A 100: 8999–9004.
+Mor-Vaknin N, Punturieri A, Sitwala K, Markovitz DM (2003).
+Vimentin is secreted by activated macrophages. Nat Cell Biol 5:
+59–63.
+Okada S, Nakamura M, Katoh H, Miyao T, Shimazaki T, Ishii K et al.
+(2006). Conditional ablation of Stat3 or Socs3 discloses a dual role
+for reactive astrocytes after spinal cord injury. Nat Med 12:
+829–834.
+Olby N (2010). The pathogenesis and treatment of acute spinal
+cord injuries in dogs. Vet Clin North Am Small Anim Pract 40:
+791–807.
+Ridet JL, Malhotra SK, Privat A, Gage FH (1997). Reactive astrocytes:
+cellular and molecular cues to biological function. Trends Neurosci
+20: 570–577.
+Rolls A, Shechter R, Schwartz M (2009). The bright side of the glial
+scar in CNS repair. Nat Rev Neurosci 10: 235–241.
+Rowland JW, Hawryluk GWJ, Kwon B, Fehlings MG (2008). Current
+status of acute spinal cord injury pathophysiology and emerging
+therapies: promise on the horizon. Neurosurg Focus 25: E2.
+Ryu H, Jeon GS, Cashman NR, Kowall NW, Lee J (2011).
+Differential expression of c-Ret in motor neurons versus
+non-neuronal cells is linked to the pathogenesis of ALS. Lab Invest
+91: 342–352.
+BJP K Teshigawara et al.
+918 British Journal of Pharmacology (2013) 168 903–919
+Silver J, Miller JH (2004). Regeneration beyond the glial scar. Nat
+Rev Neurosci 5: 146–156.
+Syková E, Svoboda J, Simonová Z, Jendelová P (1992). Role of
+astrocytes in ionic and volume homeostasis in spinal cord during
+development and injury. Prog Brain Res 94: 47–56.
+Tohda C, Joyashiki E (2009). Sominone enhances neurite outgrowth
+and spatial memory mediated by the neurotrophic factor receptor,
+RET. Br J Pharmacol 157: 1427–1440.
+Tohda C, Kuboyama T (2011). Current and future therapeutic
+strategies for functional repair of spinal cord injury. Pharmacol
+Ther 132: 57–71.
+Tom VJ, Steinmetz MP, Miller JH, Doller CM, Silver J (2004).
+Studies on the development and behavior of the dystrophic
+growth cone, the hallmark of regeneration failure, in an in vitro
+model of the glial scar and after spinal cord injury. J Neurosci 24:
+6531–6539.
+Toyooka T, Nawashiro H, Shinomiya N, Shima K (2011).
+Down-regulation of glial fibrillary acidic protein and vimentin by
+RNA interference improves acute urinary dysfunction associated
+with spinal cord injury in rats. J Neurotrauma 28: 607–618.
+White RE, Rao M, Gensel JC, McTigue DM, Kaspar BK, Jakeman LB
+(2011). Transforming growth gactor a transforms astrocytes to a
+growth-supportive phenotype after spinal cord injury. J Neurosci
+31: 15173–15187.
+Xia Y, Zhao T, Li J, Li L, Hu R, Hu S et al. (2008). Antisense
+vimentin cDNA combined with chondroitinase ABC reduces glial
+scar and cystic cavity formation following spinal cord injury in rats.
+Biochem Biophys Res Commun 377: 562–566.
+Xu B, deWaal RM, Mor-Vaknin N, Hibbard C, Markovitz DM,
+Kahn ML (2004). The endothelial cell-specific antibody PAL-E
+identifies a secreted form of vimentin in the blood vasculature.
+Mol Cell Biol 24: 9198–9206.
+Yiu G, He Z (2006). Glial inhibition of CNS axon regeneration. Nat
+Rev Neurosci 7: 617–627.
+Supporting information
+Additional Supporting Information may be found in the
+online version of this article:
+Figure S1 Denosomin enhances axonal outgrowth in
+primary cerebrocortical cultures. Rat primary cultured cer-
+ebrocortical cells were cultured in the presence or absence of
+1 mMdenosomin (Deno) for 6 days. Subsequently, the cortical
+neurons were immunostained for pNF-H and MAP2 and
+counterstained with DAPI (A). The densities of pNF-H-
+positive axons per neuron were quantified (B). The distribu-
+tion of neurons and non-neuronal cells per 0.1 mm2 was
+evaluated by the quantification of MAP2- and DAPI-positive
+cells (C). MAP2- and DAPI-positive cells were defined as
+neurons. MAP2-negative and DAPI-positive cells were defined
+as non-neuronal cells. *P < 0.05, Student’s unpaired t-test
+(two-tailed). N.S., not significant. The numbers of photos are
+bracketed in columns. The scale bar indicates 100 mm.
+Figure S2 Denosomin enhances axonal outgrowth and the
+proliferation of non-neuronal cells in primary spinal cord
+cultures. (A, B) Rat primary cultured spinal cord cells were
+cultured in the presence or absence of 1 mM denosomin
+(Deno) for 4 days. Subsequently, the spinal cord neurons were
+immunostained for pNF-H (A) and MAP2. The densities of the
+pNF-H-positive axons per neuron were quantified (B). (C–F)
+Five days after treatment with or without 1 mM denosomin
+(Deno), BrdU was applied to the spinal cord cells for 24 h.
+Subsequently, the cells were immunostained for MAP2 and
+BrdU and counterstained with DAPI (C). Cellular distribu-
+tions of neurons and non-neuronal cells per 0.1 mm2 were
+evaluated by the quantification of MAP2- and DAPI-positive
+cells (D). The proliferation of non-neuronal cells was evalu-
+ated by the quantification of BrdU-positive and MAP2-
+negative cells (E). The growth rate of non-neuronal cells was
+evaluated by the ratio of BrdU-positive cells to MAP2-
+negative cells (F). Arrows indicate the proliferating non-
+neuronal cells. *P < 0.05, Student’s unpaired t-test (two-
+tailed). The numbers of photos are shown in parentheses in
+the columns. The scale bar indicates 100 mm.
+Figure S3 2D-PAGE analysis reveals a dense spot increased
+by denosomin treatment in cultured astrocytes. (A, B) Cul-
+tured rat astrocytes were treated with vehicle solution or
+1 mM denosomin for 6 days. After the cells were lysed, the
+lysates were degenerated and analysed with 2D-PAGE. (B)
+Enlarged images were in insets in (A). The spots enclosed in
+dashed line in (B) were digested with trypsin and analysed
+with LC/MS/MS. The spots were identified as rat vimentin
+(NP_112402) by the Mascot Search (protein sequence cover-
+age: 43%; Matrix Science).
+Movie S1 Movie of vehicle-administered SCI mice on the
+14th postoperative day.
+Movie S2 Movie of denosomin-administered SCI mice on
+the 14th postoperative day.
+BJPRecovery from SCI via vimentin secretion
+British Journal of Pharmacology (2013) 168 903–919 919

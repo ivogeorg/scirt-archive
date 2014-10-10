@@ -1,0 +1,237 @@
+T1	Gene 195 245	Tsukasa Kanchiku · Takashi Imagama · Takahiro Yara
+T2	Gene 3281 3290	repair3–5
+T3	Gene 3745 3748	SCI
+T4	Gene 4163 4166	SCI
+T5	Gene 4317 4320	SCI
+T6	Gene 4886 4906	fl uorescent protein
+T7	Gene 4908 4911	GFP
+T8	Gene 5079 5087	GFP gene
+T9	Gene 5163 5172	GFP trans
+T10	Gene 5460 5467	trypsin
+T11	Gene 6469 6475	nestin
+T12	Gene 6762 6766	bFGF
+T13	Gene 6915 6923	bFGF was
+T14	Gene 7459 7470	T9 vertebra
+T15	Gene 9909 9912	MEP
+T16	Gene 10473 10484	hematoxylin
+T17	Gene 10616 10619	IgG
+T18	Gene 10628 10639	tubulin III
+T19	Gene 10641 10645	Tuj1
+T20	Gene 10702 10743	rabbit IgG anti-glial fi brillary protein
+T21	Gene 10862 10867	GAP43
+T22	Gene 12626 12629	Fig
+T23	Gene 13972 13976	MEPs
+T24	Gene 15868 15872	Tuj1
+T25	Gene 15893 15897	GFAP
+T26	Gene 15925 15928	GFP
+T27	Gene 16916 16920	Tuj1
+T28	Gene 16956 16960	GFAP
+T29	Gene 17030 17033	ED1
+T30	Gene 17146 17149	ED1
+T31	Gene 17975 17979	Tuj1
+T32	Gene 18003 18028	glial fi brillary protein
+T33	Gene 18030 18034	GFAP
+T34	Gene 18195 18199	GFAP
+T35	Gene 18296 18299	GFP
+T36	Gene 18304 18308	Tuj1
+T37	Gene 18312 18316	GFAP
+T38	Gene 18318 18322	Tuj1
+T39	Gene 18448 18452	GFAP
+T40	Gene 18458 18461	GFP
+T41	Gene 19217 19222	GAP43
+T42	Gene 19477 19482	GAP43
+T43	Gene 20228 20233	Trans
+T44	Gene 20820 20824	Tuj1
+T45	Gene 21014 21019	GAP43
+T46	Gene 21253 21256	neu
+T47	Gene 21833 21836	SCI
+T48	Gene 22043 22047	BMSC
+T49	Gene 22702 22705	SCI
+T50	Gene 23849 23852	SCI
+T51	Gene 24207 24211	BMSC
+T52	Gene 24564 24567	SCI
+T53	Gene 24701 24707	nestin
+T54	Gene 24891 24894	SCI
+T55	Gene 24896 24901	BMSCs
+T56	Gene 24989 24993	NSCs
+T57	Gene 26547 26550	Med
+T58	Gene 28126 28146	Saporta S, Janssen W
+T59	Gene 28148 28166	Patel N, Cooper DR
+T60	Gene 28330 28334	Lu D
+T61	Gene 28336 28340	Lu M
+T62	Gene 29183 29192	Sci U S A
+T63	Gene 29598 29644	Suzuki H, Taguchi T, Tanaka H, Kataoka H, Li Z
+T64	Gene 29646 29657	Muramatsu K
+T65	Gene 30580 30589	Vanický I
+T66	Gene 30591 30614	Urdzíková L, Saganová K
+T67	Gene 30616 30625	Cízková D
+T68	Gene 30902 30907	J Neu
+T69	Gene 31734 31739	Tooth
+T70	Gene 32105 32108	cin
+T71	Gene 32701 32709	collagen
+T72	Gene 33166 33186	Coleman C, Kushner R
+T73	Gene 33188 33198	Swanger SA
+T74	Gene 33569 33574	Klein
+T75	Gene 34133 34137	Am J
+T76	Species 150 156	Suzuki
+T77	Species 422 426	rats
+T78	Species 918 922	rats
+T79	Species 1113 1117	rats
+T80	Species 1245 1249	Rats
+T81	Species 1374 1378	rats
+T82	Species 1677 1681	rats
+T83	Species 1899 1905	Suzuki
+T84	Species 4153 4157	rats
+T85	Species 4608 4619	Wistar rats
+T86	Species 4803 4809	bovine
+T87	Species 5180 5183	rat
+T88	Species 5852 5858	Suzuki
+T89	Species 7198 7202	rats
+T90	Species 7259 7263	rats
+T91	Species 7492 7496	rats
+T92	Species 7695 7699	rats
+T93	Species 7817 7821	rats
+T94	Species 7929 7932	rat
+T95	Species 8041 8045	rats
+T96	Species 8160 8164	rats
+T97	Species 8246 8250	rats
+T98	Species 9343 9347	rats
+T99	Species 9403 9407	rats
+T100	Species 9866 9870	rats
+T101	Species 9997 10000	rat
+T102	Species 10610 10615	mouse
+T103	Species 10702 10708	rabbit
+T104	Species 10791 10796	mouse
+T105	Species 10845 10851	rabbit
+T106	Species 11105 11111	rabbit
+T107	Species 11120 11125	mouse
+T108	Species 11384 11388	rats
+T109	Species 11987 11991	rats
+T110	Species 12161 12165	rats
+T111	Species 12226 12230	rats
+T112	Species 12261 12265	Rats
+T113	Species 12362 12366	rats
+T114	Species 13540 13544	rats
+T115	Species 13599 13603	Rats
+T116	Species 13708 13712	rats
+T117	Species 13841 13845	rats
+T118	Species 13884 13888	rats
+T119	Species 13938 13942	rats
+T120	Species 13990 13994	rats
+T121	Species 14113 14117	rats
+T122	Species 14198 14202	rats
+T123	Species 14380 14384	rats
+T124	Species 14459 14463	rats
+T125	Species 14597 14601	rats
+T126	Species 14712 14716	rats
+T127	Species 14742 14746	rats
+T128	Species 15653 15657	rats
+T129	Species 15788 15792	rats
+T130	Species 19389 19393	bers
+T131	Species 19496 19500	bers
+T132	Species 20658 20662	bers
+T133	Species 21033 21037	bers
+T134	Species 23157 23161	rats
+T135	Species 24554 24558	rats
+T136	Species 25153 25156	rat
+T137	Species 26003 26007	rats
+T138	Species 27334 27337	rat
+T139	Species 27706 27712	Suzuki
+T140	Species 27716 27719	Ide
+T141	Species 27937 27940	rat
+T142	Species 27946 27951	human
+T143	Species 28384 28387	rat
+T144	Species 28554 28559	human
+T145	Species 28719 28725	Suzuki
+T146	Species 29409 29413	mice
+T147	Species 29598 29604	Suzuki
+T148	Species 30076 30079	rat
+T149	Species 30316 30321	human
+T150	Species 30545 30549	rats
+T151	Species 30740 30743	rat
+T152	Species 30896 30900	rats
+T153	Species 31287 31291	rats
+T154	Species 31367 31373	Suzuki
+T155	Species 31479 31482	Ide
+T156	Species 31601 31604	rat
+T157	Species 32324 32328	rats
+T158	Species 32574 32577	rat
+T159	Species 33301 33306	human
+T160	Species 34114 34119	human
+T161	InteractionKeyword 388 396	promotes
+T162	InteractionKeyword 556 563	promote
+T163	InteractionKeyword 1626 1635	expressed
+T164	InteractionKeyword 2355 2362	results
+T165	InteractionKeyword 2391 2400	involving
+T166	InteractionKeyword 2769 2778	generated
+T167	InteractionKeyword 3037 3043	limits
+T168	InteractionKeyword 3486 3493	promote
+T169	InteractionKeyword 4329 4338	involving
+T170	InteractionKeyword 5776 5783	changed
+T171	InteractionKeyword 6094 6102	initiate
+T172	InteractionKeyword 6416 6423	changed
+T173	InteractionKeyword 9045 9054	determine
+T174	InteractionKeyword 9092 9099	results
+T175	InteractionKeyword 9236 9245	following
+T176	InteractionKeyword 10204 10212	followed
+T177	InteractionKeyword 10601 10608	follows
+T178	InteractionKeyword 13894 13901	signals
+T179	InteractionKeyword 14287 14296	decreased
+T180	InteractionKeyword 14556 14565	decreased
+T181	InteractionKeyword 14648 14655	results
+T182	InteractionKeyword 14656 14666	correlated
+T183	InteractionKeyword 14694 14701	results
+T184	InteractionKeyword 14898 14906	followed
+T185	InteractionKeyword 15748 15757	decreased
+T186	InteractionKeyword 15945 15953	produced
+T187	InteractionKeyword 15958 15967	following
+T188	InteractionKeyword 16906 16915	expressed
+T189	InteractionKeyword 18286 18295	expressed
+T190	InteractionKeyword 19451 19458	reduced
+T191	InteractionKeyword 19506 19515	increased
+T192	InteractionKeyword 19719 19727	promoted
+T193	InteractionKeyword 20252 20261	expressed
+T194	InteractionKeyword 20407 20416	increased
+T195	InteractionKeyword 20604 20613	increased
+T196	InteractionKeyword 21043 21052	increased
+T197	InteractionKeyword 21349 21358	mobilized
+T198	InteractionKeyword 21686 21696	eliminated
+T199	InteractionKeyword 21798 21806	promotes
+T200	InteractionKeyword 21910 21918	promotes
+T201	InteractionKeyword 21983 21992	expressed
+T202	InteractionKeyword 22072 22078	effect
+T203	InteractionKeyword 22286 22293	results
+T204	InteractionKeyword 22554 22561	changes
+T205	InteractionKeyword 22848 22854	result
+T206	InteractionKeyword 23265 23274	increased
+T207	InteractionKeyword 23415 23422	promote
+T208	InteractionKeyword 23879 23885	induce
+T209	InteractionKeyword 24105 24112	control
+T210	InteractionKeyword 24237 24245	promotes
+T211	InteractionKeyword 24271 24280	decreases
+T212	InteractionKeyword 24547 24553	caused
+T213	InteractionKeyword 25267 25270	led
+T214	InteractionKeyword 28640 28648	increase
+T215	InteractionKeyword 29096 29100	form
+T216	InteractionKeyword 29149 29156	promote
+T217	InteractionKeyword 29508 29515	promote
+T218	InteractionKeyword 29697 29704	induced
+T219	InteractionKeyword 30494 30502	inhibits
+T220	InteractionKeyword 30697 30704	induced
+T221	InteractionKeyword 31558 31565	promote
+T222	InteractionKeyword 31623 31630	reduced
+T223	InteractionKeyword 31923 31928	forms
+T224	InteractionKeyword 33637 33645	reducing
+T225	InteractionKeyword 33659 33669	increasing
+R226	Partner1 Arg1:T177 Arg2:T21
+R227	Partner2 Arg1:T177 Arg2:T18
+R228	Partner1 Arg1:T186 Arg2:T24
+R229	Partner2 Arg1:T186 Arg2:T25
+R230	Partner1 Arg1:T188 Arg2:T28
+R231	Partner2 Arg1:T188 Arg2:T27
+R232	Partner1 Arg1:T189 Arg2:T37
+R233	Partner2 Arg1:T189 Arg2:T35
+R234	Partner1 Arg1:T218 Arg2:T63
+R235	Partner2 Arg1:T218 Arg2:T64
+R236	Partner1 Arg1:T220 Arg2:T66
+R237	Partner2 Arg1:T220 Arg2:T67

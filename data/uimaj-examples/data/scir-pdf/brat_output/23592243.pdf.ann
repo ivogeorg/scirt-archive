@@ -1,0 +1,644 @@
+T1	Gene 64 96	Regenerating Urodele Spinal Cord
+T2	Gene 379 382	lin
+T3	Gene 588 601	Nogo receptor
+T4	Gene 603 606	NgR
+T5	Gene 802 808	Nogo-A
+T6	Gene 813 816	NgR
+T7	Gene 837 841	Sox2
+T8	Gene 1344 1350	 Nogo-
+T9	Gene 1355 1358	 Ng
+T10	Gene 1754 1758	MAFs
+T11	Gene 1891 1921	myelin associated glycoprotein
+T12	Gene 2256 2272	Nogo-66 receptor
+T13	Gene 2274 2277	NgR
+T14	Gene 2387 2390	NgR
+T15	Gene 2455 2470	neuronal GTPase
+T16	Gene 2471 2475	RhoA
+T17	Gene 4858 4861	mag
+T18	Gene 5477 5480	ngr
+T19	Gene 5535 5538	NgR
+T20	Gene 5627 5630	NgR
+T21	Gene 7096 7099	Fig
+T22	Gene 7280 7283	Fig
+T23	Gene 8259 8262	eps
+T24	Gene 8993 9002	HUI ET AL
+T25	Gene 9563 9566	Fig
+T26	Gene 9727 9733	NOGO-A
+T27	Gene 9740 9744	OMGP
+T28	Gene 9830 9833	mag
+T29	Gene 9845 9850	rtn4r
+T30	Gene 9965 9969	MAFs
+T31	Gene 10131 10145	Supp. Table S1
+T32	Gene 10217 10227	human MAFs
+T33	Gene 11224 11238	Nogo-A Protein
+T34	Gene 11493 11506	Nogo proteins
+T35	Gene 11532 11552	ulon homology domain
+T36	Gene 11554 11557	RHD
+T37	Gene 11697 11700	RDH
+T38	Gene 13501 13512	axolotl com
+T39	Gene 13896 13917	tase polymerase chain
+T40	Gene 13928 13930	RT
+T41	Gene 13969 13986	rtn4r transcripts
+T42	Gene 14282 14292	rtn4r tran
+T43	Gene 14473 14479	Nogo-A
+T44	Gene 14484 14487	NgR
+T45	Gene 14642 14648	Nogo-A
+T46	Gene 14653 14672	anti-NgR antibodies
+T47	Gene 14964 14967	neu
+T48	Gene 15036 15039	Fig
+T49	Gene 15041 15044	S2B
+T50	Gene 15485 15516	reticulon proteins. The red box
+T51	Gene 15876 15897	reverse transcriptase
+T52	Gene 16023 16044	Nogo-A, Nogo receptor
+T53	Gene 16046 16049	NgR
+T54	Gene 16146 16187	blastema. M¼PageRuler Broad Range Protein
+T55	Gene 16292 16297	GAPDH
+T56	Gene 16299 16339	glyceraldehyde-3-phosphate dehydrogenase
+T57	Gene 16366 16375	HUI ET AL
+T58	Gene 16500 16521	Reverse transcriptase
+T59	Gene 16549 16551	RT
+T60	Gene 18202 18207	Ef-1a
+T61	Gene 19182 19188	Nogo-A
+T62	Gene 19193 19224	glial fibrillary acidic protein
+T63	Gene 19226 19230	GFAP
+T64	Gene 19326 19330	GFAP
+T65	Gene 19624 19630	Nogo-A
+T66	Gene 19635 19639	NeuN
+T67	Gene 20276 20285	NeuN posi
+T68	Gene 20497 20500	Fig
+T69	Gene 20644 20647	Fig
+T70	Gene 20649 20651	S3
+T71	Gene 20696 20699	Fig
+T72	Gene 20701 20703	S3
+T73	Gene 20822 20825	NgR
+T74	Gene 20898 20904	RT-PCR
+T75	Gene 21058 21064	Nogo-A
+T76	Gene 21069 21072	NgR
+T77	Gene 21171 21196	fibrillary acidic protein
+T78	Gene 21198 21202	GFAP
+T79	Gene 21311 21317	MAG in
+T80	Gene 21395 21406	MAG protein
+T81	Gene 21552 21569	anti-MAG antibody
+T82	Gene 21592 21603	axolotl MAG
+T83	Gene 21687 21698	MAG protein
+T84	Gene 21791 21794	Fig
+T85	Gene 21857 21868	MAG protein
+T86	Gene 22216 22229	Nogo receptor
+T87	Gene 22231 22234	NgR
+T88	Gene 22291 22312	Reverse transcriptase
+T89	Gene 22351 22356	Rtn4R
+T90	Gene 22361 22365	ef1a
+T91	Gene 22386 22388	Sp
+T92	Gene 22418 22425	S¼ skin
+T93	Gene 22427 22435	M¼muscle
+T94	Gene 22445 22452	B¼brain
+T95	Gene 22509 22519	Rtn4R mRNA
+T96	Gene 22620 22624	Ef1a
+T97	Gene 22655 22661	NC rep
+T98	Gene 23002 23022	NgR primary antibody
+T99	Gene 23101 23104	NgR
+T100	Gene 23178 23181	NgR
+T101	Gene 23381 23384	NgR
+T102	Gene 23763 23766	NgR
+T103	Gene 23908 23933	fibrillary acidic protein
+T104	Gene 23935 23939	GFAP
+T105	Gene 24026 24029	NgR
+T106	Gene 24034 24038	GFAP
+T107	Gene 24397 24406	HUI ET AL
+T108	Gene 24437 24440	Fig
+T109	Gene 24482 24488	Nogo-A
+T110	Gene 24493 24496	NgR
+T111	Gene 24512 24518	Nogo-A
+T112	Gene 24520 24523	NgR
+T113	Gene 24529 24532	MAG
+T114	Gene 24566 24569	MAF
+T115	Gene 24676 24679	MAG
+T116	Gene 24886 24892	Nogo-A
+T117	Gene 24894 24897	NgR
+T118	Gene 25551 25555	Sox2
+T119	Gene 25867 25873	Nogo-A
+T120	Gene 25878 25882	Sox2
+T121	Gene 26037 26040	dem
+T122	Gene 26073 26076	Fig
+T123	Gene 26127 26131	Sox2
+T124	Gene 26338 26342	Sox2
+T125	Gene 26439 26443	Sox2
+T126	Gene 26770 26774	GFAP
+T127	Gene 26779 26783	NeuN
+T128	Gene 26842 26846	Sox2
+T129	Gene 26863 26867	GFAP
+T130	Gene 26869 26878	Fig. 8H–J
+T131	Gene 26904 26910	Nogo-A
+T132	Gene 26911 26915	Sox2
+T133	Gene 26920 26923	NgR
+T134	Gene 26924 26928	Sox2
+T135	Gene 26973 26977	Nogo
+T136	Gene 26978 26980	Aþ
+T137	Gene 26981 26986	Sox2þ
+T138	Gene 26991 26995	NgRþ
+T139	Gene 26996 27001	Sox2þ
+T140	Gene 27036 27040	GFAP
+T141	Gene 27166 27171	GFAPþ
+T142	Gene 27172 27177	Sox2þ
+T143	Gene 27201 27205	GFAP
+T144	Gene 27316 27321	GFAPþ
+T145	Gene 27322 27327	Sox2þ
+T146	Gene 27429 27459	myelin associated glycoprotein
+T147	Gene 27461 27464	MAG
+T148	Gene 28530 28533	MAG
+T149	Gene 28623 28626	mag
+T150	Gene 29078 29087	HUI ET AL
+T151	Gene 29255 29259	Sox2
+T152	Gene 29344 29348	Nogo
+T153	Gene 29349 29351	Aþ
+T154	Gene 29352 29357	Sox2þ
+T155	Gene 29362 29366	NgRþ
+T156	Gene 29367 29372	Sox2þ
+T157	Gene 29374 29377	Fig
+T158	Gene 29434 29440	Nogo-A
+T159	Gene 29442 29445	NgR
+T160	Gene 30424 30433	MAF genes
+T161	Gene 30887 30891	OMGP
+T162	Gene 30988 30994	Nogo-A
+T163	Gene 30996 30999	NgR
+T164	Gene 31068 31071	neu
+T165	Gene 31577 31580	NgR
+T166	Gene 31662 31671	NeuNþ neu
+T167	Gene 31767 31772	GFAPþ
+T168	Gene 31774 31781	Nogo-Aþ
+T169	Gene 31786 31791	GFAPþ
+T170	Gene 31792 31796	NgRþ
+T171	Gene 32114 32120	Nogo-A
+T172	Gene 32125 32128	NgR
+T173	Gene 32216 32219	NgR
+T174	Gene 32661 32664	SCI
+T175	Gene 33067 33071	Nogo
+T176	Gene 33145 33148	E12
+T177	Gene 33215 33218	neu
+T178	Gene 33417 33447	myelin associated glycoprotein
+T179	Gene 33449 33452	MAG
+T180	Gene 34887 34890	NgR
+T181	Gene 35118 35138	NgR primary antibody
+T182	Gene 35268 35271	NgR
+T183	Gene 35522 35525	MAG
+T184	Gene 35697 35704	MAG pri
+T185	Gene 36567 36572	neuro
+T186	Gene 36676 36679	NgR
+T187	Gene 36702 36705	Fig
+T188	Gene 36707 36709	S6
+T189	Gene 36961 36967	Nogo-A
+T190	Gene 36969 36972	NgR
+T191	Gene 37529 37535	Nogo-A
+T192	Gene 37540 37543	NgR
+T193	Gene 37769 37772	NgR
+T194	Gene 38196 38203	PNS pro
+T195	Gene 38304 38307	sug
+T196	Gene 38322 38328	Nogo-A
+T197	Gene 38333 38336	NgR
+T198	Gene 38644 38650	Nogo-A
+T199	Gene 38655 38659	Sox2
+T200	Gene 38812 38816	Sox2
+T201	Gene 38937 38943	Nogo-A
+T202	Gene 38948 38952	Sox2
+T203	Gene 39192 39198	Nogo-A
+T204	Gene 39203 39207	Sox2
+T205	Gene 39283 39296	Nogo receptor
+T206	Gene 39298 39301	NgR
+T207	Gene 39307 39311	Sox2
+T208	Gene 39391 39394	NgR
+T209	Gene 39399 39403	Sox2
+T210	Gene 39529 39533	Sox2
+T211	Gene 39670 39674	Sox2
+T212	Gene 39702 39706	Sox2
+T213	Gene 39866 39870	Sox2
+T214	Gene 39875 39906	glial fibrillary acidic protein
+T215	Gene 39908 39912	GFAP
+T216	Gene 39997 40001	Sox2
+T217	Gene 40006 40010	GFAP
+T218	Gene 40119 40123	Sox2
+T219	Gene 40128 40132	GFAP
+T220	Gene 40153 40157	Sox2
+T221	Gene 40197 40201	GFAP
+T222	Gene 40329 40333	GFAP
+T223	Gene 40338 40342	Sox2
+T224	Gene 40530 40534	Sox2
+T225	Gene 40734 40743	HUI ET AL
+T226	Gene 40954 40965	Spinal Cord
+T227	Gene 40991 40995	sox2
+T228	Gene 41335 41349	Mammalian Sox2
+T229	Gene 41366 41369	neu
+T230	Gene 41629 41633	Sox2
+T231	Gene 41914 41918	Sox2
+T232	Gene 42093 42097	Sox2
+T233	Gene 42356 42360	Sox2
+T234	Gene 42656 42660	Sox2
+T235	Gene 42662 42670	vimentin
+T236	Gene 42672 42676	GFAP
+T237	Gene 42678 42684	nestin
+T238	Gene 42965 42971	Nogo-A
+T239	Gene 42985 42989	Sox2
+T240	Gene 43234 43238	Sox2
+T241	Gene 43290 43293	Lin
+T242	Gene 43428 43432	Sox2
+T243	Gene 45203 45209	RT-PCR
+T244	Gene 45629 45632	Rad
+T245	Gene 45840 45851	GGG GAT GTA
+T246	Gene 45852 45855	CGG
+T247	Gene 45892 45899	CTC TGG
+T248	Gene 46035 46042	GCC AGT
+T249	Gene 46665 46679	SP6 polymerase
+T250	Gene 47922 47925	Mus
+T251	Gene 48208 48213	SHADE
+T252	Gene 49171 49173	RT
+T253	Gene 49369 49373	GFAP
+T254	Gene 49375 49381	O’Hara
+T255	Gene 50852 50872	alkaline phosphatase
+T256	Gene 51001 51026	PageRuler Broad Range Pro
+T257	Gene 52053 52059	Lam CS
+T258	Gene 52061 52067	Topp S
+T259	Gene 52183 52211	zebrafish telencephalon. Dev
+T260	Gene 52459 52466	Polo JM
+T261	Gene 52573 52582	HUI ET AL
+T262	Gene 52584 52588	Sox2
+T263	Gene 52845 52855	CNS myelin
+T264	Gene 53298 53305	Ruef BJ
+T265	Gene 53375 53398	Sprunger B, Van Slyke C
+T266	Gene 53823 53830	Ann Med
+T267	Gene 53875 53878	Rho
+T268	Gene 53883 53886	Rac
+T269	Gene 53990 53998	OMgp syn
+T270	Gene 54303 54318	Van Der Haar ME
+T271	Gene 54320 54338	Frank M, Schnell L
+T272	Gene 54340 54352	Spillmann AA
+T273	Gene 54837 54851	reticulon gene
+T274	Gene 55030 55038	Kimura N
+T275	Gene 55040 55045	Cai H
+T276	Gene 55047 55053	Deng K
+T277	Gene 55055 55060	Gao Y
+T278	Gene 55068 55082	Filbin M. 2002
+T279	Gene 55084 55090	Myelin
+T280	Gene 55196 55206	Ferretti P
+T281	Gene 55208 55215	Zhang F
+T282	Gene 55250 55253	FGF
+T283	Gene 55345 55349	S128
+T284	Gene 55489 55493	Sox2
+T285	Gene 55961 55971	Nat Med 12
+T286	Gene 56101 56117	Xenopus tadpoles
+T287	Gene 56149 56153	Sox2
+T288	Gene 56234 56238	SOX2
+T289	Gene 56545 56554	Nogo mRNA
+T290	Gene 56897 56910	Nogo receptor
+T291	Gene 57310 57319	Sci U S A
+T292	Gene 57605 57608	NgR
+T293	Gene 58176 58183	Lang DM
+T294	Gene 58185 58193	Rubin BP
+T295	Gene 58368 58370	JK
+T296	Gene 58543 58546	Neu
+T297	Gene 58564 58592	Li G, Kataoka H, Coughlin SR
+T298	Gene 58723 58729	Cxcl12
+T299	Gene 58734 58740	reelin
+T300	Gene 58779 58785	Lin YP
+T301	Gene 58823 58827	Sox2
+T302	Gene 59436 59465	McHedlishvili L, Epperlein HH
+T303	Gene 60072 60081	Sci U S A
+T304	Gene 60585 60591	neuroD
+T305	Gene 60593 60596	nrd
+T306	Gene 60603 60605	Hu
+T307	Gene 60839 60845	Berlin
+T308	Gene 61051 61058	Dev Dyn
+T309	Gene 61113 61117	Nogo
+T310	Gene 61122 61138	Nogo-66 receptor
+T311	Gene 61491 61498	Park KJ
+T312	Gene 61549 61555	p75NTR
+T313	Gene 61683 61689	Peng X
+T314	Gene 61691 61696	Kim J
+T315	Gene 61990 61992	TE
+T316	Gene 61994 61997	Tet
+T317	Gene 62148 62158	PLoS One 6
+T318	Gene 62159 62165	e24538
+T319	Gene 62336 62358	Richard M, Giannetti N
+T320	Gene 62360 62369	Saucier D
+T321	Gene 62371 62374	Sac
+T322	Gene 62651 62670	Nat Rev Neurosci 11
+T323	Gene 62730 62740	CNS myelin
+T324	Gene 62884 62892	Reuter A
+T325	Gene 63018 63036	Putta S, Walker JA
+T326	Gene 63038 63045	Kump DK
+T327	Gene 63240 63242	SR
+T328	Gene 63244 63251	Kump DK
+T329	Gene 63253 63260	Putta S
+T330	Gene 63262 63269	Pauly N
+T331	Gene 63459 63467	Walder S
+T332	Gene 63469 63476	Zhang F
+T333	Gene 63794 63800	Wang J
+T334	Gene 63802 63808	Wang L
+T335	Gene 63810 63816	Zhao H
+T336	Gene 64042 64077	Oligodendrocyte-myelin glycoprotein
+T337	Gene 64083 64096	Nogo receptor
+T338	Gene 64216 64219	Sox
+T339	Gene 64275 64277	JK
+T340	Gene 64434 64443	HUI ET AL
+T341	Species 427 434	axolotl
+T342	Species 628 635	axolotl
+T343	Species 1008 1016	axolotls
+T344	Species 1117 1124	axolotl
+T345	Species 1285 1292	axolotl
+T346	Species 1524 1531	axolotl
+T347	Species 2961 2968	axolotl
+T348	Species 4530 4538	goldfish
+T349	Species 4543 4550	axolotl
+T350	Species 4942 4951	zebrafish
+T351	Species 5284 5293	zebrafish
+T352	Species 5488 5495	axolotl
+T353	Species 5577 5584	axolotl
+T354	Species 5908 5915	axolotl
+T355	Species 7586 7593	axolotl
+T356	Species 7670 7677	axolotl
+T357	Species 9774 9782	axolotls
+T358	Species 9802 9809	axolotl
+T359	Species 10114 10119	human
+T360	Species 10217 10222	human
+T361	Species 10235 10242	axolotl
+T362	Species 10365 10372	axolotl
+T363	Species 10768 10775	axolotl
+T364	Species 10777 10784	chicken
+T365	Species 11367 11374	axolotl
+T366	Species 11607 11614	axolotl
+T367	Species 11665 11668	rat
+T368	Species 12175 12182	axolotl
+T369	Species 13395 13398	rat
+T370	Species 13493 13496	rat
+T371	Species 13501 13508	axolotl
+T372	Species 13675 13683	axolotls
+T373	Species 16114 16121	axolotl
+T374	Species 16449 16456	axolotl
+T375	Species 16571 16578	axolotl
+T376	Species 16621 16626	human
+T377	Species 16631 16640	X. laevis
+T378	Species 16801 16807	humans
+T379	Species 16812 16821	X. laevis
+T380	Species 17081 17088	axolotl
+T381	Species 17235 17242	axolotl
+T382	Species 19826 19833	axolotl
+T383	Species 21324 21331	Axolotl
+T384	Species 21592 21599	axolotl
+T385	Species 22245 22252	axolotl
+T386	Species 22369 22376	axolotl
+T387	Species 24142 24149	axolotl
+T388	Species 24546 24553	Axolotl
+T389	Species 25642 25649	axolotl
+T390	Species 27469 27476	axolotl
+T391	Species 28767 28774	axolotl
+T392	Species 29141 29150	X. laevis
+T393	Species 29588 29595	axolotl
+T394	Species 30371 30378	axolotl
+T395	Species 30568 30577	zebrafish
+T396	Species 30945 30949	mice
+T397	Species 31016 31023	axolotl
+T398	Species 32591 32598	axolotl
+T399	Species 32688 32695	axolotl
+T400	Species 33036 33041	chick
+T401	Species 33468 33475	axolotl
+T402	Species 33647 33654	axolotl
+T403	Species 35922 35929	Axolotl
+T404	Species 36845 36852	axolotl
+T405	Species 37109 37116	axolotl
+T406	Species 37206 37213	axolotl
+T407	Species 37724 37729	chick
+T408	Species 37734 37739	human
+T409	Species 38075 38084	zebrafish
+T410	Species 38672 38679	axolotl
+T411	Species 41190 41195	chick
+T412	Species 41197 41202	mouse
+T413	Species 41208 41217	X. laevis
+T414	Species 41670 41677	axolotl
+T415	Species 42039 42048	X. laevis
+T416	Species 42173 42182	zebrafish
+T417	Species 42278 42287	zebrafish
+T418	Species 43030 43037	axolotl
+T419	Species 43506 43511	mouse
+T420	Species 43763 43770	Axolotl
+T421	Species 43799 43807	axolotls
+T422	Species 44208 44215	Axolotl
+T423	Species 45210 45218	Axolotls
+T424	Species 47587 47594	Axolotl
+T425	Species 47922 47936	Mus domesticus
+T426	Species 47938 47950	Homo sapiens
+T427	Species 47952 47965	Gallus gallus
+T428	Species 47971 47985	Xenopus laevis
+T429	Species 49648 49653	mouse
+T430	Species 49660 49664	goat
+T431	Species 49674 49680	rabbit
+T432	Species 50135 50142	Axolotl
+T433	Species 50831 50835	goat
+T434	Species 50845 50851	rabbit
+T435	Species 52183 52192	zebrafish
+T436	Species 52678 52682	mice
+T437	Species 52789 52797	goldfish
+T438	Species 52820 52823	rat
+T439	Species 52867 52875	goldfish
+T440	Species 53235 53239	Mani
+T441	Species 53459 53468	Zebrafish
+T442	Species 54186 54189	rat
+T443	Species 55571 55576	mouse
+T444	Species 56606 56609	rat
+T445	Species 56736 56745	zebrafish
+T446	Species 58537 58541	mice
+T447	Species 58897 58902	mouse
+T448	Species 59543 59550	axolotl
+T449	Species 60476 60484	axolotls
+T450	Species 60679 60688	zebrafish
+T451	Species 60954 60961	axolotl
+T452	Species 61142 61147	human
+T453	Species 61152 61157	chick
+T454	Species 62306 62312	humans
+T455	Species 62511 62514	rat
+T456	Species 63750 63755	mouse
+T457	Species 63930 63935	mouse
+T458	Species 64300 64305	mouse
+T459	InteractionKeyword 383 393	associated
+T460	InteractionKeyword 659 668	expressed
+T461	InteractionKeyword 1188 1198	associated
+T462	InteractionKeyword 1242 1252	associated
+T463	InteractionKeyword 1272 1281	expressed
+T464	InteractionKeyword 1364 1373	expressed
+T465	InteractionKeyword 1898 1908	associated
+T466	InteractionKeyword 2063 2069	impair
+T467	InteractionKeyword 2116 2121	limit
+T468	InteractionKeyword 2220 2227	binding
+T469	InteractionKeyword 2415 2424	signaling
+T470	InteractionKeyword 2483 2492	regulates
+T471	InteractionKeyword 2661 2667	signal
+T472	InteractionKeyword 3812 3823	contributed
+T473	InteractionKeyword 4625 4631	induce
+T474	InteractionKeyword 4697 4704	express
+T475	InteractionKeyword 5345 5355	determines
+T476	InteractionKeyword 5431 5438	results
+T477	InteractionKeyword 5643 5652	expressed
+T478	InteractionKeyword 6665 6674	disrupted
+T479	InteractionKeyword 9161 9168	changes
+T480	InteractionKeyword 9694 9703	following
+T481	InteractionKeyword 9905 9914	expressed
+T482	InteractionKeyword 10663 10668	block
+T483	InteractionKeyword 10817 10822	block
+T484	InteractionKeyword 11317 11323	formed
+T485	InteractionKeyword 11919 11926	inhibit
+T486	InteractionKeyword 11953 11960	binding
+T487	InteractionKeyword 14330 14336	change
+T488	InteractionKeyword 14395 14402	results
+T489	InteractionKeyword 14688 14698	recognized
+T490	InteractionKeyword 14705 14712	targets
+T491	InteractionKeyword 14739 14748	expressed
+T492	InteractionKeyword 15937 15945	produced
+T493	InteractionKeyword 16059 16069	associated
+T494	InteractionKeyword 16353 16360	control
+T495	InteractionKeyword 16724 16731	control
+T496	InteractionKeyword 16822 16830	modified
+T497	InteractionKeyword 18259 18266	control
+T498	InteractionKeyword 18374 18381	control
+T499	InteractionKeyword 20328 20338	determined
+T500	InteractionKeyword 20432 20441	decreased
+T501	InteractionKeyword 20951 20960	expressed
+T502	InteractionKeyword 21583 21588	binds
+T503	InteractionKeyword 21611 21620	expressed
+T504	InteractionKeyword 22678 22685	control
+T505	InteractionKeyword 23035 23042	control
+T506	InteractionKeyword 24775 24782	targets
+T507	InteractionKeyword 25495 25504	expressed
+T508	InteractionKeyword 25780 25789	determine
+T509	InteractionKeyword 25803 25812	expressed
+T510	InteractionKeyword 25893 25902	expressed
+T511	InteractionKeyword 27436 27446	associated
+T512	InteractionKeyword 27611 27618	control
+T513	InteractionKeyword 29564 29573	following
+T514	InteractionKeyword 29735 29743	produces
+T515	InteractionKeyword 30304 30313	following
+T516	InteractionKeyword 30414 30423	expresses
+T517	InteractionKeyword 30901 30909	increase
+T518	InteractionKeyword 30928 30937	following
+T519	InteractionKeyword 31678 31685	express
+T520	InteractionKeyword 32103 32113	expressing
+T521	InteractionKeyword 32350 32360	correlated
+T522	InteractionKeyword 32699 32709	associated
+T523	InteractionKeyword 32839 32846	effects
+T524	InteractionKeyword 32865 32874	generated
+T525	InteractionKeyword 33057 33066	expresses
+T526	InteractionKeyword 33097 33105	followed
+T527	InteractionKeyword 33424 33434	associated
+T528	InteractionKeyword 34057 34064	control
+T529	InteractionKeyword 35151 35158	control
+T530	InteractionKeyword 35732 35739	control
+T531	InteractionKeyword 35944 35950	follow
+T532	InteractionKeyword 36666 36675	expresses
+T533	InteractionKeyword 36899 36908	signaling
+T534	InteractionKeyword 37324 37334	associated
+T535	InteractionKeyword 37362 37369	express
+T536	InteractionKeyword 37399 37406	express
+T537	InteractionKeyword 37548 37557	expressed
+T538	InteractionKeyword 37777 37786	expressed
+T539	InteractionKeyword 38032 38038	direct
+T540	InteractionKeyword 38248 38255	results
+T541	InteractionKeyword 38513 38523	associated
+T542	InteractionKeyword 41094 41103	expressed
+T543	InteractionKeyword 41353 41362	expressed
+T544	InteractionKeyword 41522 41530	triggers
+T545	InteractionKeyword 41637 41646	expressed
+T546	InteractionKeyword 41864 41874	expressing
+T547	InteractionKeyword 42205 42214	increases
+T548	InteractionKeyword 42348 42355	express
+T549	InteractionKeyword 42632 42639	express
+T550	InteractionKeyword 43077 43086	expressed
+T551	InteractionKeyword 43677 43687	contribute
+T552	InteractionKeyword 45767 45774	follows
+T553	InteractionKeyword 46523 46531	produced
+T554	InteractionKeyword 46884 46892	followed
+T555	InteractionKeyword 47742 47751	following
+T556	InteractionKeyword 48722 48728	formed
+T557	InteractionKeyword 48818 48827	following
+T558	InteractionKeyword 49211 49221	associated
+T559	InteractionKeyword 49292 49301	following
+T560	InteractionKeyword 50217 50224	control
+T561	InteractionKeyword 50376 50385	resulting
+T562	InteractionKeyword 50814 50822	followed
+T563	InteractionKeyword 51864 51870	formed
+T564	InteractionKeyword 52307 52316	regulated
+T565	InteractionKeyword 52807 52816	inhibited
+T566	InteractionKeyword 53020 53027	inhibit
+T567	InteractionKeyword 53725 53733	increase
+T568	InteractionKeyword 55091 55101	associated
+T569	InteractionKeyword 55115 55124	interacts
+T570	InteractionKeyword 55150 55157	inhibit
+T571	InteractionKeyword 55505 55511	causes
+T572	InteractionKeyword 55534 55542	impaired
+T573	InteractionKeyword 55688 55697	mediating
+T574	InteractionKeyword 55878 55886	enhances
+T575	InteractionKeyword 57236 57246	stimulates
+T576	InteractionKeyword 58741 58750	signaling
+T577	InteractionKeyword 59751 59761	associated
+T578	InteractionKeyword 60337 60346	following
+T579	InteractionKeyword 60450 60459	signaling
+T580	InteractionKeyword 60988 60995	changes
+T581	InteractionKeyword 61388 61396	inhibits
+T582	InteractionKeyword 61607 61616	regulates
+T583	InteractionKeyword 61745 61754	regulates
+T584	InteractionKeyword 64109 64117	inhibits
+R585	Partner1 Arg1:T459 Arg2:T2
+R586	Partner2 Arg1:T459 Arg2:T1
+R587	Partner1 Arg1:T460 Arg2:T3
+R588	Partner2 Arg1:T460 Arg2:T4
+R589	Partner1 Arg1:T464 Arg2:T9
+R590	Partner2 Arg1:T464 Arg2:T8
+R591	Partner1 Arg1:T465 Arg2:T10
+R592	Partner2 Arg1:T465 Arg2:T11
+R593	Partner1 Arg1:T466 Arg2:T12
+R594	Partner2 Arg1:T466 Arg2:T13
+R595	Partner1 Arg1:T469 Arg2:T15
+R596	Partner2 Arg1:T469 Arg2:T16
+R597	Partner1 Arg1:T481 Arg2:T28
+R598	Partner2 Arg1:T481 Arg2:T26
+R599	Partner1 Arg1:T489 Arg2:T45
+R600	Partner2 Arg1:T489 Arg2:T46
+R601	Partner1 Arg1:T493 Arg2:T53
+R602	Partner2 Arg1:T493 Arg2:T52
+R603	Partner1 Arg1:T494 Arg2:T55
+R604	Partner2 Arg1:T494 Arg2:T56
+R605	Partner1 Arg1:T501 Arg2:T73
+R606	Partner2 Arg1:T501 Arg2:T74
+R607	Partner1 Arg1:T502 Arg2:T82
+R608	Partner2 Arg1:T502 Arg2:T81
+R609	Partner1 Arg1:T506 Arg2:T114
+R610	Partner2 Arg1:T506 Arg2:T111
+R611	Partner1 Arg1:T509 Arg2:T119
+R612	Partner2 Arg1:T509 Arg2:T120
+R613	Partner1 Arg1:T511 Arg2:T146
+R614	Partner2 Arg1:T511 Arg2:T147
+R615	Partner1 Arg1:T513 Arg2:T159
+R616	Partner2 Arg1:T513 Arg2:T158
+R617	Partner1 Arg1:T520 Arg2:T172
+R618	Partner2 Arg1:T520 Arg2:T171
+R619	Partner1 Arg1:T525 Arg2:T175
+R620	Partner2 Arg1:T525 Arg2:T176
+R621	Partner1 Arg1:T527 Arg2:T178
+R622	Partner2 Arg1:T527 Arg2:T179
+R623	Partner1 Arg1:T537 Arg2:T191
+R624	Partner2 Arg1:T537 Arg2:T192
+R625	Partner1 Arg1:T540 Arg2:T197
+R626	Partner2 Arg1:T540 Arg2:T195
+R627	Partner1 Arg1:T541 Arg2:T198
+R628	Partner2 Arg1:T541 Arg2:T199
+R629	Partner1 Arg1:T542 Arg2:T226
+R630	Partner2 Arg1:T542 Arg2:T227
+R631	Partner1 Arg1:T543 Arg2:T229
+R632	Partner2 Arg1:T543 Arg2:T228
+R633	Partner1 Arg1:T549 Arg2:T236
+R634	Partner2 Arg1:T549 Arg2:T234
+R635	Partner1 Arg1:T550 Arg2:T239
+R636	Partner2 Arg1:T550 Arg2:T238
+R637	Partner1 Arg1:T552 Arg2:T245
+R638	Partner2 Arg1:T552 Arg2:T246
+R639	Partner1 Arg1:T559 Arg2:T253
+R640	Partner2 Arg1:T559 Arg2:T254
+R641	Partner1 Arg1:T576 Arg2:T298
+R642	Partner2 Arg1:T576 Arg2:T299
+R643	Partner1 Arg1:T584 Arg2:T336
+R644	Partner2 Arg1:T584 Arg2:T337

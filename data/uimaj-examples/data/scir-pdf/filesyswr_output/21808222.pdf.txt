@@ -1,0 +1,174 @@
+Video Article
+Chromatin Immunoprecipitation from Dorsal Root Ganglia Tissue following Axonal
+Injury
+Elisa Floriddia1,2,* , Tuan Nguyen1,* , Simone Di Giovanni1
+1Laboratory for NeuroRegeneration and Repair, Department of Neurology, Hertie Institute for Clinical Brain Research, University of Tuebingen
+2Graduate School for Cellular and Molecular Neuroscience, University of Tuebingen
+*These authors contributed equally
+Correspondence to: Simone Di Giovanni at simone.digiovanni@medizin.uni-tuebingen.de
+URL: http://www.jove.com/details.php?id=2803
+DOI: 10.3791/2803
+Citation: Floriddia E., Nguyen T., Di Giovanni S. (2011). Chromatin Immunoprecipitation from Dorsal Root Ganglia Tissue following Axonal Injury. JoVE. 53.
+http://www.jove.com/details.php?id=2803, doi: 10.3791/2803
+Abstract
+Axons in the central nervous system (CNS) do not regenerate while those in the peripheral nervous system (PNS) do regenerate to a limited
+extent after injury (Teng et al., 2006). It is recognized that transcriptional programs essential for neurite and axonal outgrowth are reactivated
+upon injury in the PNS (Makwana et al., 2005). However the tools available to analyze neuronal gene regulation in vivo are limited and often
+challenging.
+The dorsal root ganglia (DRG) offer an excellent injury model system because both the CNS and PNS are innervated by a bifurcated axon
+originating from the same soma. The ganglia represent a discrete collection of cell bodies where all transcriptional events occur, and thus provide
+a clearly defined region of transcriptional activity that can be easily and reproducibly removed from the animal. Injury of nerve fibers in the PNS
+(e.g. sciatic nerve), where axonal regeneration does occur, should reveal a set of transcriptional programs that are distinct from those responding
+to a similar injury in the CNS, where regeneration does not take place (e.g. spinal cord). Sites for transcription factor binding, histone and DNA
+modification resulting from injury to either PNS or CNS can be characterized using chromatin immunoprecipitation (ChIP).
+Here, we describe a ChIP protocol using fixed mouse DRG tissue following axonal injury. This powerful combination provides a means for
+characterizing the pro-regeneration chromatin environment necessary for promoting axonal regeneration.
+Protocol
+1. Sciatic & dorsal column nerve injury
+NOTE: The same incision is made to expose the sciatic nerve, but the wound is sutured closed leaving the nerve intact for the sham injury.
+NOTE: For most experiments, the laminectomy is considered the Sham injury.
+2. Cross-linking
+CRITICAL STEP. Use fresh, molecular biology grade formaldehyde.
+Page 1 of 4
+Journal of Visualized Experiments www.jove.com
+Copyright © 2011 Journal of Visualized Experiments
+1. The animal is placed on a surgical towel and underneath it a thermopad is present throughout the procedure keeping the body temperature of
+the mouse at 37°C. All animals are anesthetized for surgery with a continuous isoflurane/O2 administration. Surgical instruments are
+autoclaved before the procedure.
+2. For sciatic injury, both hindquarters are carefully shaved, and depilation is completed with generic hair remover prior to cleansing skin with
+alcohol followed by Betadyne 3 times.
+3. The sciatic nerve is exposed by making a 4 mm incision posterior and parallel to the femur at mid-thigh through the skin and by spreading the
+muscles apart of the biceps femoris with fine forceps.
+4. The exposed sciatic nerve is then injured , and the skin is closed with two suture clips.
+5. For dorsal column injury, the back of the mouse is carefully shaved, and depilation is completed with generic hair remover prior to cleansing
+the skin with alcohol spray/swipe.
+6. The spinal cord is exposed by making a 2.5 cm incision from about T7 to T13. The skin is spread apart, and the connective tissue is removed
+along the vertebra from T9 to T11.
+7. A laminectomy is performed at T10 level
+8. A few drops of Xylocain are added to the tissue to anaesthetize the cord, and the dura mater is removed, paying attention not to touch the
+spinal cord.
+9. The dorsal columns are injured and the muscle is sutured close, again paying attention not to touch the spinal cord. Finally, the skin is sutured
+closed with suture clips. Buprenorphine (0.1 mg/kg body weight) should be administered twice daily for 48 hours or until no longer needed.
+1. Dissect L4 and L5 DRG from injured mice after euthanization. Collect a total of 16 DRG into ice-cold HBSS + protease inhibitors cocktail (2
+injured and 2 sham DRG from each animal for a total of 4 animals).
+2. Briefly centrifuge the DRG, then carefully remove the HBSS and add 500 μl of 1% formaldehyde in PBS + protease inhibitors cocktail and
+incubate the sample for 30 minutes at 37°C.
+3. Nuclei preparation and chromatin shearing
+CRITICAL STEP. Lysis and disruption of the tissue are vital for a good yield of crosslinked chromatin.
+CAUTION. The shearing of the chromatin must be optimized for your particular sonication set up and proper fragmentation of the chromatin
+should be checked before running the actual IP experiment (see section 3).
+NOTE. Fragmentation of the chromatin could also be performed by micrococcal nuclease (MNase) digestion. As a rule of thumb, fragmentation
+by sonication is preferred for fixed tissue, while MNase digestion is favored for native tissue chromatin immunoprecipitation. Cross-linked,
+sheared chromatin can be stored at -80° C for up to 2 months, but avoid repeated freeze/thaw cycles.
+4. Analysis of chromatin digestion (recommended)
+CAUTION. Over-fragmentation of chromatin may lead to decreased signal, while incomplete fragmentation will lead to diminished resolution and
+increased background.
+5. Immunoprecipitation
+NOTE. When determining the number of immunoprecipitation, a positive control (e.g. Histone H3 antibody) and a negative control (Normal IgG)
+should be considered. The quantity of antibody used for each IP varies between antibodies and must be empirically determined. However, it is
+usually within a range of 2-10 ?g/immunoprecipitation.
+6. Washing
+7. Elution and reversal of cross-linking
+NOTE. The elution step can be performed at room temperature, too, but it might be not as efficient.
+8. DNA recovery
+CAUTION. The addition of a carrier, such as the glycogen, is needed to enhance the precipitation of relatively small sized DNA fragments.
+Page 2 of 4
+Journal of Visualized Experiments www.jove.com
+Copyright © 2011 Journal of Visualized Experiments
+3. Add 125 mM of glycine to stop the fixation and incubate for 5 minutes at room temperature.
+4. Briefly centrifuge, aspirate off buffer, and wash the tissue twice with 500 μl ice-cold PBS + protease inhibitors cocktail.
+1. Aspirate off PBS, add 400 μl of SDS lysis buffer, transfer to a pre-chilled microcentrifuge tube, and disrupt the tissue with approximately 30
+strokes with the micropestle.
+2. Sonicate the sample with 8 pulses, 10 second each at 70% output (Bandelin, Sonoplus GM70).
+1. Remove 10 μl of your sheared chromatin sample for analysis. Add 200 mM of NaCl to the sample and reverse the cross-link by incubating at
+65° C for 2h.
+2. Purify DNA (see section 8) and run a 1% agarose gel. DNA should be fragmented to a length of approximately 200-1000 bp (Figure 1).
+1. Determine the number of immunoprecipitation reactions (see NOTE below), and divide samples equally into new tubes. Bring the volume of
+each up to 500 μl with ChIP buffer + protease inhibitors cocktail.
+2. Remove 5 μl of your diluted sample and transfer into a new tube. This is your 1% input sample and it will be stored at -20° C until needed
+(Section 7).
+3. For each immunoprecipitation, add appropriate antibody or normal IgG control and incubate at 4°C overnight with rotation.
+4. To immunoprecipitate your antibody/protein/DNA complex, add 30 μl of ChIP Grade Protein G Magnetic Beads and incubate for 2 h at 4°C
+with rotation.
+1. To pull-down bound chromatin-bead complex, place the tube on the magnetic rack. Wait until the solution is clear and then carefully remove
+your supernatant.
+2. Add 1 ml of low salt wash (ChIP buffer) to the beads and incubate at 4°C for 3-5 minutes with rotation, then pull-down beads and aspirate off
+wash as in step 6.1. Repeat this step for a total of 3 washes.
+3. Add 1 ml of high salt wash buffer (ChIP buffer+ 350 mM NaCl) to the beads and incubate for 3-5 minutes with rotation, then pull-down beads
+and aspirate off wash as in step 6.1.
+1. Take your input samples out of the -20°C, add 150 μl of ChIP Elution buffer and set aside at room temperature until Step 7.5.
+2. Add 150 μl of 1x ChIP Elution buffer for each IP sample from Step 6.3.
+3. Place the tubes in a thermomixer and elute the chromatin from the beads by incubating samples at 65°C for 30 minutes with gentle vortexing.
+4. Pull-down beads on the magnetic rack, and carefully transfer the eluted chromatin (supernatant) into new tubes.
+5. To all tubes, including your input samples, add 200mM of NaCl and 40 μg/reaction of Proteinase K and incubate at 65°C for 2 hours.
+1. Add 1 volume of Phenol/Chloroform to your samples from Step 7.5 and vortex for 30 seconds.
+2. Centrifuge at maximum speed in a microcentrifuge at room-temperature for 5 minutes.
+3. Carefully recover the aqueous (upper) phase into new tubes, add 1 volume of chloroform to the aqueous phase, and vortex for 30 seconds.
+4. Centrifuge at maximum speed in a microcentrifuge at room-temperature for 5 minutes.
+5. Carefully recover the aqueous (upper) phase into new tubes, then add 300mM of NaOAc, 20 μg/reaction of glycogen, and 2.5 volumes of
+ice-cold 100% ethanol.
+6. Incubate at -80°C for 2 hours to precipitate DNA.
+NOTE. The precipitation step can also be performed overnight at -20°C.
+9. Representative Results
+A representative result of a ChIP experiment in DRGs following sciatic lesion is shown (Figures 1 and 2). First, we show fragmented DNA to a
+length of approximately 200-1000 bp (Figure 1). Second, we demonstrate a PCR signal following ChIP from the proximal promoter of the growth
+associated protein-43 (GAP-43) only upon sciatic nerve injury (lane 4, Figure 2, 5'). No PCR signal is present when the animal receives a sham
+injury only (lane 3), and when using normal IgG serum for the IP (lane 5 and 6). To test for the specificity of the antibody, we analyzed the same
+DNA samples, but used a control primer set which detects a region in the 3'-UTR of our gene of interest where no occupancy is expected. PCR
+signals are absent from all lanes (lanes 3-6, Figure 2, 3'), except for the input signal, representing non-IP DNA samples as standard PCR controls
+(lane 1-2, Figure 2). This ChIP procedure can be performed following either sciatic or spinal dorsal column injury as summarized in a schematic
+(Figure 3).
+Figure 1. Agarose gel of reversed cross-linked DNA that has been sheared by sonication to the proper range of fragment lengths.
+Figure 2. Semi-quantitative PCR results from DRG tissue following sciatic nerve lesion showing that acetylated p53 binds to the GAP-43 proximal
+promoter region 48 hours after injury to the sciatic nerve. Control PCR from the same DRG tissue show that acetylated p53 does not bind to a
+control region of DNA located in the 3’-untranslated region (UTR) of the GAP-43 gene (S = Sham, I = Injured).
+Figure 3. A general diagram showing the location of the lesion sites on the sciatic nerve, and the dorsal column.
+Page 3 of 4
+Journal of Visualized Experiments www.jove.com
+Copyright © 2011 Journal of Visualized Experiments
+7. Centrifuge the samples at maximum speed in a microcentrifuge for 20 minutes at 4°C.
+8. Carefully remove the supernatant and wash the precipitated DNA pellets with 300 μl of ice-cold 70% ethanol.
+9. Centrifuge the samples at maximum speed in a microcentrifuge for 10 minutes at 4°C.
+10. Carefully remove as much supernatant as possible and let the pellets air-dry.
+11. Resuspend in 20 μl of sterile H2O. Samples are now ready for PCR, or the DNA can be stored at -20°C.
+Discussion
+This protocol provides a method to directly ask about the chromatin environment during axonal regeneration in the adult nervous system following
+axonal injury. It incorporates the DRG injury model with chromatin immunoprecipitation to probe the transcriptional and epigenetic environment
+subsequent to injury to either the PNS or CNS. It is particularly useful for investigators who would like to characterize putative binding sites for
+their favorite transcription factor, and to determine whether the occupancy of these sites occurs in response to injury. Epigenetic modification of
+histones and DNA at these sites can also be simultaneously monitored. A similar protocol can be performed following facial nerve lesion, where
+the facial nerve nuclei can be dissected from the brainstem and processed by ChIP as we previously reported (Tedeschi et al., 2009).
+As typical for chromatin immunoprecipitation assays, two critical steps in the protocol are, (1) efficient fragmentation and solubilization of the
+DNA-protein complex, and (2) the availability of a good immunoprecipitation antibody for your protein of interest. One limitation that might
+confound these two steps is the low level of starting material. Compared to other structures such as the brain or spinal cord, DRG provide a
+relatively small amount of tissue. In addition, DRG consists of a mix population of neurons as well as glial cells, all of which might have different
+chromatin environments. This may lead to heterogeneous IP signals; however this caveat is present in most samples taken from the nervous
+system. A potential solution is to perform ChIP after fluorescent activated cell sorting of transgenically fluorescently labeled DRG neurons, (see
+for example YFP-H mice, Bogdan et al., 2004), or immuno-isolation of neurons via magnetic beads (Lee et al., 2005). However, these two
+approaches need to be validated for ChIP in DRGs and will likely need an increased amount of starting material.
+We have successfully used this method to identify binding sites for several transcription factors and coactivators at the promoter of known
+regeneration associated genes, and we have used both semi-quantitative and quantitative PCR methods to detect the immunoprecipitated DNA.
+One future addition to this protocol could be the use of tiled microarrays following ChIP (ChIP-on-chip), as means to detect the final DNA signal.
+ChIP-on-chip would greatly increase the number of identified transcription sites via a high throughput unbiased approach. It could also allow for
+the study of how two or more transcription factor might cooperatively interact on a genomic level.
+Disclosures
+No conflicts of interest declared.
+Acknowledgements
+We would like to thank Andrea Tedeschi for help in setting the initial ChIP experiments in the laboratory and Ricco Lindner for his contribution to
+fine tune the conditions for ChIP. This work was supported by the Hertie Foundation; the Fortune Grant, University of Tuebingen, and the DFG DI
+1497/1-1 grants (all granted to Simone Di Giovanni).
+References
+Page 4 of 4
+Journal of Visualized Experiments www.jove.com
+Copyright © 2011 Journal of Visualized Experiments
+1. Beirowski, B., et al. Quantitative and qualitative analysis of Wallerian degeneration using restricted axonal labelling in YFP-H mice. Journal of
+Neuroscience Methods. 134 (1), 23-35 (2004).
+2. Carey, M.F., et al. Chromatin immunoprecipitation (ChIP). Cold Spring Harb. Protocol (2009).
+3. Dahl, J.A. et al. A rapid micro chromatin immunoprecipitation assay (μChIP). Nat. Protoc. 3(6), 1032-1045 (2008).
+4. Haring M., et al. Chromatin immunoprecipitation: optimization, quantitative analysis and data normalization. Plant Methods. 11, 3-11 (2007).
+5. Jiang, Y., et al. Isolation of neuronal chromatin from brain tissue. BMC Neurosci. 9, 42 (2008).
+6. Lee, A., et al. Isolation of neural stem cells from the postnatal cerebellum. Nat Neurosci. 8(6), 723-729 (2005).
+7. Makwana et al. Molecular mechanisms in successful peripheral regeneration. Febs J. 272 (11), 2628-2638 (2005).
+8. Tedeschi A., et al. A p53-CBP/p300 transcription module is required for GAP-43 expression, axon outgrowth, and regeneration. Cell Death
+and Differentiation. 16, 543-554 (2009).
+9. Teng, F.Y et al. Axonal regeneration in adult CNS neurons--signaling molecules and pathways. J Neurochem. 96(6), 1501-1508 (2006).

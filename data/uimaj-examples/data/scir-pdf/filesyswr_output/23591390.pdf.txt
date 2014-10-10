@@ -1,0 +1,694 @@
+f n
+ag
+Ha
+, Y
+*
+ology, In
+cDepartment of Neurosurgery, Southern Medical Univer
+dDepartment of Biochemistry, Dalian Medical Universit
+. All rights reserved.
+grafted NPCs tend to differentiate predominantly into glia
+rather than neurons [2]. It has been demonstrated that the
+as largely due to
+llowing SCI where
+fate [3]. Thus, for
+dimensional (3D)
+ecoming increas-
+an exciting regen-
+nctionalization of
+oteins, peptides or
+antagonists could improve stem cell therapies by providing a
+defined microenvironment during transplantation [4]. Stabenfeldt
+et al. developed a methylcellulose scaffold functionalized with
+laminin-1, which supported neuronal and oligodendrocyte differ-
+entiation with minimal astrocyte differentiation of neural stem
+cells [5]. More recently, Lu et al. demonstrated that neural stem cell
+embedded in fibrin matrices containing growth factor cocktails
+could differentiate into multiple cellular phenotypes, including
+28% of neurons [6]. Despite some promising results, the work of
+* Corresponding author. Suzhou Institute of Nano-Tech and Nano-Bionics, Chi-
+nese Academy of Sciences, 398 Ruoshui Road, Suzhou Industrial Park, Suzhou
+215123, China. Tel.: þ86 512 62872766; fax: þ86 512 62872546.
+E-mail address: jwdai@genetics.ac.cn (J. Dai).
+1
+Contents lists available at
+Biomat
+journal homepage: www.elsev
+Biomaterials 34 (2013) 5107e5116These authors contributed equally to this work.neuronal differentiation of neural progenitor cells in vivo.
+ 2013 Elsevier Ltd
+1. Introduction
+Spinal cord injury (SCI) repair has remained one of the most
+challenging clinical problems. To date, clinical therapies are
+largely ineffective. Over recent years, neural progenitor cells
+(NPCs) are considered to be promising in cell replacement stra-
+tegies given their propensity to differentiate into neurons and glia,
+and to repopulate lost or damaged cells and tissues [1]. However,
+any attempt at functional recovery is met with failure as the
+predisposition for glial differentiation of NPCs w
+the inhibitory environment in the lesion site fo
+physicochemical signals are vital for proper cell
+successful SCI repair, reconstruction of three-
+extracellular environment for grafted cells is b
+ingly attractive.
+The advance in tissue engineering provides
+erative strategy to engineer stem cell niche. Fu
+scaffolds with bioactive factors, ECM adhesion prSpinal cord injury repair differentiation of NPCs, enhanced axon regeneration, and promoted functional recovery markedly. A
+well-functionalized scaffold was constructed to improve the recovery of SCI, which could promote thea r t i c l e i n f o
+Article history:
+Received 26 February 2013
+Accepted 25 March 2013
+Available online 13 April 2013
+Keywords:
+Collagen scaffold
+EGFR antibody functionalization
+Neural progenitor cells
+Neuronal differentiation
+Myelin proteins0142-9612/$ e see front matter  2013 Elsevier Ltd.
+http://dx.doi.org/10.1016/j.biomaterials.2013.03.062sity, Guangzhou 510515, China
+y, Dalian 116044, China
+a b s t r a c t
+The main challenge for neural progenitor cell (NPC)-mediated repair of spinal cord injury (SCI) is lack of
+favorable environment to direct its differentiation towards neurons rather than glial cells. The myelin
+associated inhibitors have been demonstrated to promote NPC differentiation into glial lineage. Herein,
+to inhibit the downstream signaling activated by myelin associated inhibitors, cetuximab, an epidermal
+growth factor receptor (EGFR) neutralizing antibody, functionalized collagen scaffold has been developed
+as a vehicle for NPC implantation. It was found that collagen-cetuximab 1 mg scaffolds enhanced
+neuronal differentiation and inhibited astrocytic differentiation of NPCs exposed to myelin proteins
+significantly in vitro. To test the therapeutic effect in vivo, NPCs expressing green fluorescent protein
+(GFP)-embedded scaffolds have been implanted into the 4 mm-long hemisection lesion of rats. We found
+that the collagen-cetuximab 5 mg scaffolds induced neuronal differentiation and decreased astrocyticaDivision of Nanobiomedicine, Suzhou Institute
+bKey Laboratory of Molecular Developmental Bi-Tech and Nano-Bionics, Chinese Academy of Sciences, Suzhou 215123, China
+stitute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100080, ChinaJianwu Dai
+of NanoPromotion of neuronal differentiation o
+using EGFR antibody functionalized coll
+injury repair
+Xiaoran Li a,1, Zhifeng Xiao b,1, Jin Han b, Lei Chen b,
+Xianglin Hou b, Xing Li b, Jie Sun a, Wenyong Ding d
+a,b,All rights reserved.eural progenitor cells by
+en scaffolds for spinal cord
+nshan Xiao b, Fukai Ma c,
+annan Zhao b, Bing Chen b,
+SciVerse ScienceDirect
+erials
+ier .com/locate/biomater ia ls
+als 3functionalized tissue-engineering scaffolds suitable for NPC
+implantation is still in an early stage.
+Accumulating evidence suggests that myelin-associated pro-
+teins such as Nogo, myelin associated glycoprotein (MAG), and
+oligodendrocyte-myelin glycoprotein (OMgp), have shown inhibi-
+tory properties in SCI regeneration [7]. Our previous work has
+demonstrated that myelin proteins could induce astroglial differ-
+entiation of NPCs rather than neuronal differentiation [8].
+Numerous studies have demonstrated that down-regulation of
+Nogo recptor (NgR), the common receptor of myelin-associated
+inhibitors, could promote axon regeneration [9] and induce dif-
+ferentiation of grafted NPCs into neurons and oligodendrocytes
+[10]. In recent years, the study on blockade of epidermal growth
+factor receptor (EGFR) in central nervous system (CNS) injury repair
+has been motivated by a pioneering work that the inhibition of
+EGFR blocked the activities of myelin inhibitors on neurite growth
+and enabled limited regeneration of optic nerve axons. They also
+demonstrated the underlying signaling mechanism that trans-
+activation of EGFR is the downstream of NgR activated by myelin
+associated inhibitors and myelin inhibitors triggered the phos-
+phorylation of EGFR in a calcium-dependent manner [11]. Our
+previous study showed that addition of EGFR antibody 151IgG on
+the collagen scaffold provided effective stimulation effect on axon
+growth and neural regeneration in an extreme rat spinal cord injury
+model [12]. Additionally, it was found that inhibition of EGFR
+signaling reduced microglial inflammatory response [13] and
+attenuated reactive astrogliosis [14], resulting in functional
+outcome after SCI. Also, a recent study revealed that activated EGFR
+blocked neuronal differentiation and promoted glial fate in NPCs
+[15]. These evidences demonstrated that EGFR inhibition may be
+beneficial to CNS trauma [16]. To date, despite the successful trial of
+EGFR antagonists to promote axon growth and suppress astrocyte
+activation, their use for NPC fate regulation has not been reported.
+In this work, a new type of scaffold comprised of cetuximab, an
+EGFR antagonist, functionalized porous collagen scaffold is pre-
+sented. The potential of functionalized collagen scaffold to regulate
+NPC differentiation was investigated in vitro in presence of myelin
+proteins, and subsequently the therapeutic effect of scaffolds
+embedded with NPCs expressing green fluorescent protein (GFP)
+was evaluated in the rat hemisection SCI model.
+2. Materials and methods
+2.1. Fabrication of collagen and collagen-cetuximab scaffolds
+Collagen (Col) scaffolds were produced by freeze-dried dispersions under acidic
+conditions as the following procedure. Collagen (Zhenghai Biotechnology Ltd.,
+Shandong, China) was dissolved in 0.5 M acetic acid for 8 h at 4 C, and homogenized
+in a blender for 15 min, followed by neutralization with 4 M NaOH. The homogenous
+solutionwas dialyzed against deionizedwater for 5 days to remove any residual salts
+and then lyophilized.
+For preparation of collagen-cetuximab (col-cetuximab) scaffolds, chemical
+conjugation of cetuximab to collage scaffold was performed by two-step reactions
+with sulfo-succinimidyl derivatives (Sulfo-SMCC) (Sigma, USA) and Traut’s Reagent
+(Sigma, USA), as the following. Collagen scaffold was immersed in 2.5 mg/mL of
+Traut’s Reagent in PBS with 4 mM EDTA (pH¼ 8) for 2 h at room temperature (RT). In
+a separate reaction, 2.5 mg of Sulfo-SMCC was dissolved in 4 mL of PBS with 4 mM
+EDTA (pH¼ 7.2), and then cetuximabwas added into the Sulfo-SMCC solutionwith a
+ratio of 8:3.7 (mg/mL) followed by reaction for 1 h at RT. The collagen scaffolds treated
+by Traut’s Reagent was washed with PBS for three times and incubated with the
+cetuximab solution for 1 h at RT. Subsequently, the collagen scaffolds were washed
+by PBS for three times, and incubated with 5% (W/V) bovine serum albumin (BSA)
+(Sigma, USA) for 1 h to block remaining reaction groups.
+2.2. Quantification of cetuximab by enzyme-linked immunosorbent (ELISA) assay
+Cetuximab adsorbed or conjugated on scaffolds was quantified by ELISA assay.
+Goat anti-mouse-alkaline phosphatase antibody was used to detect the conjugation
+X. Li et al. / Biomateri5108efficiency. To quantify goat anti-mouse-alkaline phosphatase antibody, 2 mg/mL of
+enzyme substrate para-nitrophenyl-phosphate (p-NPP, Ameresco, USA) in alkalinephosphatase buffer (100 mM TriseHCl; 100 mM NaCl; 10 mM MgCl2, pH 9.6) was
+added, and the bound proteins were quantified at 405 nm using a plate reader
+(Tecan, Sunrise, Australia). The content of cetuximab was calculated according to
+calibration curve.
+2.3. Myelin preparation
+Myelin preparation from adult rat spinal cord was produced according to pre-
+vious study [17]. Briefly, the spinal cord of SpragueeDawley (SD) rats was removed
+and homogenized in 0.3 M of sucrose. The suspension was layered over 0.85 M of
+sucrose and centrifuged at 27,000 g for 1 h. The sample was collected from the 0.32/
+0.85 M interface. The suspension and centrifugation procedures were repeated twice,
+and done in ice bath. After removal of excess sucrose, the resuspened myelin was
+filtered through a 0.22 mm filter (Corning, USA) to sterilize and remove any large
+aggregates.
+2.4. NPC culture
+NPCs were cultured as previously described with slight modification [18].
+Briefly, the telencephalons were dissected from SD rats, cut into 1 mm3 pieces, and
+digested in 0.25% trypsin at 37 C for 40 min. Then trypsin inhibitor was added to
+stop the digestion, followed by centrifugation at 500 g for 5 min. The cell suspension
+was cultured in 25 cm2 tissue culture flask (Corning, USA) in serum-free DMEM/F12
+medium containing 20 ng/mL bFGF (Peprotech Asia, Rehovot, Israel), 20 ng/mL EGF
+(Peprotech Asia), 2% B27 (Invitrogen, GIBCO, NY, USA), 30% glucose (Sigma, USA), and
+1.83 mg/mL heparin (Sigma, USA). After 7-day culture, neurospheres were enzy-
+matically dissociated to single cells for the following experiments. The NPCs were
+resuspened in adhesion medium containing 10% FBS and 2  106 cells were seeded
+on collagen or col-cetuximab scaffolds. After 1-day culture, the adhesion medium
+was removed. After wash with PBS three times, differentiation medium containing
+2% B27 and myelin proteins in DMEM/F12 medium was added. For NPC differenti-
+ation, collagen scaffolds functionalized with a series of dose of cetuximab were
+studied including col scaffold, col-cetuximab 0.5 mg scaffold (scaffold loaded with
+0.5 mg of cetuximab initially), col-cetuximab 1 mg scaffold (scaffold loaded with 1 mg
+of cetuximab initially), col-cetuximab 2 mg scaffold (scaffold loaded with 2 mg of
+cetuximab initially).
+2.5. Western blotting
+After 7-day culture, the cells were collected and lysed by RIPA buffer (Sigma,
+USA) supplemented with proteinase inhibitor cocktail (04693116001, Roche Applied
+Science, Mannheim, Germany) for 30 min on ice after washed with PBS. The cell
+lysates were harvested from the supernatant from centrifugation at 12,000 g for
+30 min. After quantification by BCA assay, 20 mg of protein was separated by sodium
+docecyl sulfate (SDS)-polyacrylamide gel, and transferred to a nitrocellulose mem-
+brane (GE, Amershame, Buckinghamshire, UK). The bolts were probed with indi-
+cated primary antibodies, followed by secondary antibodies conjugated with HRP.
+The primary antibodies used in this study included: anti-TUj1 (1:1000, 05-559,
+Millipore), anti-GFAP (1:1000, MAB360, Millipore), anti-S100 (1:500, Ab4066,
+Abcam), anti-b-actin (1:10,000, T5168, Sigma).
+2.6. Immunocytochemistry
+After 7-day culture in differentiation medium with/without myelin proteins,
+NPCs cultured on the scaffolds were fixed in 4% paraformaldehyde for 30 min, and
+permeabilized by 0.08% triton X-100 for 30min. Then samples were blocked with 5%
+BSA in PBS for 1 h, and incubated with primary antibodies overnight at 4 C. After
+wash with PBS three times, the samples were incubated with secondary FITC-
+conjugated antibodies and Hoechst 3342 (1 mg/mL) for 30 min at 37 C. Primary
+antibodies were diluted as follow: anti-TUj1 at 1:400, and anti-GFAP at 1:500. After
+immunestaining, fluorescent images were taken with scanning laser confocal fluo-
+rescence microscope (A1RSi, Nikon).
+2.7. Scanning electron microscopy (SEM) characterization
+NPCs cultured scaffolds were fixed in 2% glutaraldehyde for 40 min at 4 C.
+Subsequently, they were dehydrated in ethanol with a series of concentrations: 30%,
+50%, 70%, 75%, 80%, 85%, 90%, and 95% for 10 min, and 100% for 20 min. The ethanol
+was extracted in 3:1, 1:1, and 1:3 mixtures of ethanol and amyl acetate for 20 min
+each followed by 100% amyl acetate storage for 20min. Then the samples were dried
+by super critical CO2 extraction, and coated with gold using a sputter. The images
+were captured by HITACHI S-3000N SEM (Hitachi, Tokyo, Japan).
+2.8. Spinal cord hemisection
+GFPeNPCs were obtained from GFP transgenic mouse for the following use in
+animal study. All animal procedures were performed in accordance with Chinese
+4 (2013) 5107e5116Ministry of Public Health (CMPH) Guide and US National Institute of Health (NIH)
+Guide for the care and use of laboratory animals. SD rats (200e220 g) were housed
+in ventilated, humidity and temperature controlled (23e25 C) rooms with a 12 h
+light/dark cycle. Standard food pellets and water were supplied. SCI was performed
+as described before with slight modification [12]. Briefly, following intraperitoneal
+anesthesia with sodium pentobarbital, a 2 cm midline incision was made along the
+vertebrae. After resecting the laminae, the spinal dura mater was incised to expose
+the spinal cord. A lateral hemisection at T13-L2 level was made by creating a 4-mm
+long longitudinal cut along the midline of the cord. Right after the SCI, the scaffolds
+(4-mm-long, 2-mm-diameter) were implanted into transected gap. All animals were
+divided into 4 groups accepting different treatments: col scaffolds, NPC-embedded
+col scaffold, NPC-embedded col-cetuximab 1 mg scaffold, NPC-embedded col-
+cetuximab 5 mg scaffold (scaffold loaded with 5 mg of cetuximab initially). Then, the
+surgery site was closed in layers.
+2.9. Immunohistochemistry
+After 4 weeks and 12 weeks, animals were perfused with 4% paraformaldehyde
+in PBS. Spinal cords were dissected, post-fixed overnight at 4 C, and transferred to
+20% sucrose (overnight at 4 C) and then 30% sucrose (72 h at 4 C). 1.5-cm-long
+horizontal sections of spinal cords containing the lesion/graft site were sectioned on
+a cryostat set at 20 mm thickness. The slides were fixed in acetone for 15 min at 4 C,
+and then the samples were incubated in PBS containing 5% BSA with 0.1% Trition X-
+100 for 1 h at RT. The samples were incubated with primary antibodies: anti-GFP
+(1:200, ab290, Abcam), anti-GFAP (1:500, MAB360, Millipore), anti-MAP2 (1:200,
+M9942, Sigma), anti-neurofilament (NF, 1:100, ab3966, Abcam), and anti-
+synaptophysin (1:1000, MAB368, Millipore) overnight at 4 C, and then incubated
+in Alexa 488 conjugated donkey anti-rabbit secondary antibody (1:500, A21206,
+Invitrogen) and Alexa 594 conjugated donkey anti-mouse secondary antibody
+(1:800, A21203, Invitrogen) for 1 h at RT. DAPI was used for nuclear staining.
+2.10. Functional analysis
+Locomotion recovery after SCI was scored in an open field according to Basso-
+Beattie-Bresnahan (BBB) locomotion rating scale of 0 (complete paralysis) to 21
+(normal locomotion) [19]. Animals were allowed to move freely in an open area and
+comparisons were tested by Student’s test. * represented p value < 0.05, **p value
+< 0.01.
+3. Results
+3.1. Scaffold fabrication and characterization
+The collagen scaffold showed a sponge-like structure, cylindrical
+shape and changeable size (Fig. 1A), suggesting that it could be an
+ideal candidate to bridge across the lesion site in SCI. The collagen
+scaffold was cut into disk-shaped pieces (4 mm in diameter, 1 mm
+in thickness) for in vitro study. Fig. 1B shows a representative SEM
+image of the collagen scaffold. The scaffold possessed lattice-like
+lamellae, high porosity of 98.6% and an interconnected porous
+structure with a pore size of 60e200 mm, which could provide
+sufficient space for cell adherence and growth. NPCs isolated from
+the telencephalons of neonatal rats proliferated and formed
+floating spheres in neurosphere medium containing growth factors
+(bFGF and EGF). A single-cell suspension digested by trypsin was
+seeded on the scaffolds. After NPC attachment, the adhering me-
+diumwith FBS was replaced. After 7 days of culture, cell growth on
+the collagen scaffold was examined via fluorescein diacetate (FDA)
+staining and SEM analysis. The FDA fluorescence staining (Fig. 1C)
+showed that the cells adhered and grew well on the scaffold with a
+high population and good distribution. The SEM analysis (Fig. 1D)
+showed that the cells grew inside the pore, and spread well on the
+wall. These findings indicated that the collagen scaffold was well-
+suited as scaffold for NPC delivery in SCI repair.
+X. Li et al. / Biomaterials 34 (2013) 5107e5116 5109the movements of hindlimb were examined and recorded for 5 min. The evaluation
+was performed by two observers blinded to the treatments weekly. For the inclined
+plane test, the highest degree of inclination was defined as being that at which the
+rats could maintain their position for 5 s on two separate trials [20].
+2.11. Statistical analysis
+The Data are presented as mean  standard deviation. Multiple group com-
+parisons were made using one-way analysis of variance (ANOVA). Two-groupFig. 1. (A) Picture displayed the structure of the collagen scaffold with a diameter of 4 mm. (
+of FDA staining and (D) SEM image of NPCs cultured on collagen scaffold for 7 days.3.2. EGFR antagonist functionalization
+Hetero-bi-functional corss-linker Sulfo-SMCC and Traut’s Re-
+agent were used to conjugate cetuximab on the collagen scaffolds
+to create a functional scaffold which could specifically block EGFR.
+Fig. 2A schematically illustrates the facile conjugation of EGFRB) SEM image showing the morphology of porous collagen scaffold. (C) Confocal image
+als 3X. Li et al. / Biomateri5110antibody with collagen scaffold, both of which are rich in amino
+groups. The cetuximab immobilized on the scaffold was detected
+by enzyme-linked immunosorbent assay. As shown in Fig. 2B, more
+cetuximab was retained on the scaffolds by using covalent conju-
+gation compared with that of physical adsorption, suggesting that
+chemical covalent bond between collagen and antibody is sub-
+stantial for antibody immobilization. Fig. 2C shows the cetuximab
+binding curve on collagen scaffolds with varied loading content. It
+can be seen that the amount of bound antibodies on scaffolds
+increased in a dose dependent manner. The cetuximab on the
+scaffold increased significantly at the first stage, and reached a
+plateau when the input loading content exceeded 5 mg.
+3.3. Prepared myelin proteins inhibited neuronal differentiation of
+NPCs in vitro
+Although transplantation of NPCs holds the promise, the
+regeneration ability was limited in adult SCI largely due to the
+inhibitory milieu. To mimic growth-inhibitory environment in SCI,
+SCI myelin proteins were added in the culture medium for NPC
+culture. Fig. 3A shows the MTT assay of NPCs with different con-
+centration of myelin proteins. It was found that myelin proteins
+markedly promoted the cell proliferation and the cell number was
+highest at concentration of 5 mg/mL. We further assessed the effect
+of myelin on NPC differentiation. Fig. 3B shows representative
+Fig. 2. (A) Schematic illustration of cetuximab conjugation on colllagen scaffold by using Tr
+conjugation measured by ELISA assay. (C) Cetuximab binding curve on collagen scaffold with
+**P < 0.01.4 (2013) 5107e5116images of TUj-1 and GFAP immunostaining of NPCs exposed to 1, 2,
+and 5 mg/mL of myelin after differentiating for 7 days. The
+expression of neuron marker TUj-1 was much lower in the myelin
+groups, and whereas, the expression of glia marker GFAP was
+higher. Quantitative results, as shown in Fig. 3C, showed that per-
+centages of TUj-1 positive cells decreased from around 37%
+(without myelin) to 31% (1 mg/mL of myelin), 23% (2 mg/mL of
+myelin), and 20% (5 mg/mL of myelin). Meanwhile, percentages of
+GFAP positive cells increased from around 50% (without myelin) to
+53% (1 mg/mL of myelin), 54% (2 mg/mL of myelin), and 57% (5 mg/mL
+of myelin) (Fig. 3D). Based on the MTT and differentiation results,
+myelin concentration of 5 mg/mL has been demonstrated to be
+favorable for cell growth and efficient for suppressing neuronal
+differentiation. Therefore, 5 mg/mL of myelin was used in the
+following in vitro experiments.
+3.4. Col-cetuximab scaffolds promoted neuronal differentiation and
+inhibited astrocytic differentiation of NPCs in vitro
+Differentiation of NPCs cultured on collagen scaffolds with a
+series of dose of cetuximab was studied in the presence of 5 mg/mL
+of myelin in the culture medium. Immunostaining results showed
+that the expression of TUj-1, the marker of neurons, was increased
+on col-cetuximab 0.5 mg scaffold and col-cetuximab 1 mg scaffold,
+and decreased on the col-cetuximab 2 mg scaffold, meanwhile, the
+aut’s Reagent and Sulfo-SMCC. (B) Cetuximab binding ability via physical and chemical
+varied loading content. The data are expressed as mean  standard deviation for n ¼ 3.
+ials 3X. Li et al. / Biomaterexpression of GFAP, the marker of astrocytes, was decreased on all
+col-cetuximab scaffolds (Fig. 4A). Percentages of TUj-1 positive cells
+increased from around 21% (collagen scaffold alone) to 28% (col-
+cetuximab 0.5 mg scaffold), and 34% (col-cetuximab 1 mg scaffold),
+and decreased to 18% (col-cetuximab 2 mg scaffold), indicating that
+functionalization with appropriate amount of cetuximab resulted
+Fig. 3. The effect of myelin on cell number and differentiation of NPCs. (A) MTT measurem
+images of TUj-1þ (for neurons) and GFAPþ (for astrocytes) immunostaining of NPCs treated
+Scale bar, 100 mm. *P < 0.05, **P < 0.01.4 (2013) 5107e5116 5111in a more neuronal population (Fig. 4B). Percentages of GFAP pos-
+itive cells decreased from around 55% (collagen scaffold alone) to
+53% (col-cetuximab 0.5 mg scaffold), 48% (col-cetuximab 1 mg
+scaffold) and 40% (col-cetuximab 2 mg scaffold), indicating that the
+col-cetuximab scaffolds inhibited the astrocytic differentiation of
+NPCs (Fig. 4C). The staining results were further confirmed by
+ent showed that myelin markedly promoted the cell proliferation. (B) Representative
+by varied concentration of myelin for 7 days. (C) TUj-1þ and (D) GFAPþ quantification.
+Fig. 4. Cetuximab-cunjugated collagen scaffold promoted neuronal differentiation and inhibited astrocytic differentiation of NPCs exposed to 5 mg/mL of myelin. (A) Representative
+images of TUj-1þ and GFAPþ immunostaining of NPCs cultured on scaffolds exposed to myelin for 7 days. (B) TUj-1þ and (C) GFAPþ quantification. (D, E) Western blot analysis o
+TUj-1þ, GFAPþ and S100þ of NPCs cultured on scaffolds with (D) and without (E) myelin in the culture medium. (F) and (G) quantitation of protein bands in (D) and (E) respectively
+Scale bar, 100 mm. *P < 0.05, **P < 0.01.f
+.
+western blot analysis (Fig. 4D,F). In col-cetuximab scaffold groups,
+GFAP expression was down-regulated gradually, with 8% and 18%
+decrease in col-cetuximab 1 mg scaffold group and col-cetuximab
+2 mg scaffold group respectively. Similarly, S100, another marker
+of astrocytes, showed significant down-regulation, with 23% and
+37% decrease in col-cetuximab 1 mg scaffold group and col-
+cetuximab 2 mg scaffold group respectively. The consistent results
+revealed a decreased astrocytic differentiation on col-cetuximab
+scaffolds. Whereas, TUj-1 expression was up-regulated by 33%
+and 63% for col-cetuximab 0.5 mg scaffold group and col-cetuximab
+1 mg scaffold group respectively, and down-regulated by 34% for
+col-cetuximab 2 mg scaffold group. It can be concluded that func-
+tionalizationwith appropriate amount of cetuximabwas helpful for
+neuronal differentiation. Therefore, to deeper understand the effect
+of EGFR antibody on neuronal differentiation of NPCs, we examined
+NPC differentiation on col-cetuximab scaffolds without the inter-
+vention of myelin (Fig. 4E,G). The decreased neuronal differentia-
+tion suggested that overdose of cetuximab which is above the
+amount that overcomes the effect of myelin proteins would reduce
+the neuronal differentiation. Taken together, collagen scaffolds
+functionalized with a defined amount of cetuximab (col-cetuximab
+1 mg scaffold in this work) was capable of enhancing neuronal
+differentiation as well as inhibiting astrocytic differentiation of
+NPCs exposed to myelin proteins.
+3.5. Col-cetuximab scaffolds increased neuronal differentiation,
+decreased astrocytic differentiation of implanted NPCs, and
+promoted functional recovery post-SCI
+Surgical procedures of SCI are shown in Fig. 5AeD. Rats were
+subjected toT13-L2 spinal cord hemisection inwhich 4mmof tissue
+was removed (Fig. 5A,B). Right after the injury, the lesions were
+bridgedwith col scaffold, GFP-NPC embedded col scaffold, GFP-NPC
+embedded col-cetuximab 1 mg scaffold or GFP-NPC embedded col-
+cetuximab 5 mg scaffold (Fig. 5C,D). Behavioral analysis was per-
+formed to rate open-field locomotion by BBB scale. Immediately
+A) T
+X. Li et al. / Biomaterials 34 (2013) 5107e5116 5113Fig. 5. Surgical procedures of hemisection SCI model and behavioral outcome post-SCI. (
+of scaffolds with or without NPCs. (D) The transection site filled with scaffolds. (E) Hindlim
+**P < 0.01.he exposed hemi-spinal cord of rats. (B) The hemi-transection site. (C) The implantation
+b locomotion: BBB scores. (F) Inclined plane results at 12 weeks post-SCI. *P < 0.05,
+Porous collagen scaffold was used as vehicle for NPC and EGFR
+antagonist delivery owing to its good biocompatibility, large space for
+cell accommodation and well-demonstrated use in neural tissue en-
+Fig. 6. Differentiation of NPCs in hemi-transection site. (A) Overview and (B) an
+enlarged image of NPC-embedded col-cetuximab 5 mg scaffold group at 12 weeks post-
+SCI, showing great integration and filling of the lesion site. (C) Immunostaining
+(MAP2þ/GFPþ) images showing neuronal differentiation of the grafted cells. (D)
+Immunostaining (GFAPþ/GFPþ) images showing astrocytic differentiation of the graf-
+ted cells. (E) Neuronal and astrocytic phenotype quantification. Scale bars, (A) 500 mm,
+(BeD) 50 mm. *P < 0.05, **P < 0.01.
+als 3after surgery, BBB score of every ratwas approximately 0, suggesting
+that the SCI model was successful. As shown in Fig. 5E, the recovery
+was improved by the intervention of scaffold plus NPCs, while the
+scaffold alone group only had modest effect. At 12 weeks post-
+implantation, the BBB score of NPC-embedded col-cetuximab 5 mg
+scaffold group reached a level of 6.4, indicating movement about
+each point of the hindlimb. Inclined plane performance was tested
+for their ability to maintain body position on an inclined plane
+(Fig. 5F). Consistently, the NPC-embedded col-cetuximab 5 mg
+scaffold group showed statistically significant improvement.
+Next, we performed immunostaining through the spinal cord
+lesion to assess the NPC fate in vivo. Fig. 6A shows the overview of
+transected region in NPC-embedded col-cetuximab 5 mg scaffold
+group at 12 weeks post-implantation. It can be seen that the
+implant almost filled the lesion cavity and integrated with host
+tissue. An enlarged image, shown in Fig. 6B, confirmed the great
+host tissue-implant integration. Fig. 6C and D show the double
+immunostaining of MAP2/GFP, and GFAP/GFP respectively. We
+found that GFP-labeled cells co-localized with the mature neuronal
+marker MAP2 (microtubule associated protein 2), and astrocyte
+marker GFAP, indicating that implanted NPCs could differentiate
+into neurons and astrocytes in the surroundings of lesion site.
+Notably, NPCs on col-cetuximab 5 mg scaffolds expressed distinct
+level of MAP2, but lower level of GFAP compared with those on
+collagen scaffolds. Quantitative analysis showed that percentages
+of MAP2 positive cells were 13%, 14% and 25% in GFP positive NPCs
+for col, col-cetuximab 1 mg, and col-cetuximab 5 mg scaffolds
+treated groups respectively at 4 weeks post-SCI. The percentages of
+MAP2 positive cells increased at 12 weeks post-SCI, accounting for
+14%, 15% and 27% respectively. Whereas, percentages of GFAP
+positive cells were 34%, 28% and 21% respectively at 4 weeks post-
+SCI, and 30%, 27% and 16% respectively at 12 weeks post-SCI
+(Fig. 6E). The quantitative results revealed a significant increase
+in MAP2 positive mature neurons and dramatic decrease in GFAP
+positive astrocytes for NPCs on the col-cetuximab 5 mg scaffold
+group, indicating that col-cetuximab 5 mg scaffold favored neuronal
+differentiation, and suppressed astrocytic differentiation. In addi-
+tion to expressing mature neuronal markers, GFP-NPCs extended
+axons, as demonstrated by co-labeling for the axonal marker neu-
+rofilament (Fig. 7A). Therewas muchmore NF positive axons on the
+col-cetuximab 5 mg scaffold group than the collagen scaffold group.
+Additionally, double immunofluorescent labeling for GFP and
+synaptophysin suggested synapse formation between neurons
+(Fig. 7B). It can be seen that col-cetuximab 5 mg scaffold group
+possessed more pronounced enhancement in synapse formation.
+4. Discussion
+Although NPCs have the potential for neuronal differentiation
+in vitro, the majority of implanted NPCs differentiate into astrocytic
+phenotype in the lesion site. Recently, myelin-associated proteins,
+which involved in the niche for NPCs after SCI, have been demon-
+strated to induce astrocytic differentiation of grafted NPCs rather
+than neuronal differentiation [8]. Evidences showed that inhibition
+of EGFR, downstream signaling activated by myelin associated in-
+hibitors, could benefit SCI regeneration, however, little is known
+about the influence of EGFR inhibition on fate decision of NPCs. In-
+hibition of EGFR was recently found to induce neuronal differentia-
+tion from NG2þ glial progenitors, and promote functional recovery
+in mouse contusive SCI [21]. It could be of great significance to
+determine whether inhibition of EGFR signaling would benefit
+neuronal differentiation fromNPCs after SCI. In this study, we aimed
+to fabricate a functionalized scaffold suitable for NPC transplantation
+in SCI repair. Herein, cetuximab, an EGFR antibody, immobilized
+X. Li et al. / Biomateri5114collagen scaffold was developed for NPC implantation in SCI repair.4 (2013) 5107e5116gineering [22e24] (Fig. 1). Cetuximab, the EGFR antagonist, which is
+ame
+ials 3widespreadly used in clinical practice [25]was covalently crosslinked
+onto the scaffolds (Fig. 2). Covalent modification of biochemical
+molecules to the scaffolds has been demonstrated to improve its
+clinical therapy effectiveness due to the effective local concentration,
+prolonged availability and decreased risk of high dose as compared
+with the injection or mini-pump administration at the lesion [26].
+SCI myelin proteins were prepared to mimic the growth-
+inhibitory environment after SCI. The outcome of inhibited
+neuronal differentiation and enhanced astrocytic differentiation of
+Fig. 7. Representative images of GFPþ-grafted cells labeled with the (A) neurofil
+X. Li et al. / BiomaterNPCs (Fig. 3) was consistent with the finding in vivo that adult spinal
+cordprovidesmolecular cues for gial, but forneuronal differentiation
+for NPC transplantation [27]. We then examined the NPC differen-
+tiation on col-cetuximab scaffolds in presence and absence ofmyelin
+proteins in vitro (Fig. 4). It was found that col-cetuximab scaffolds
+decreased the astrocytic differentiation of NPCs. Meanwhile, TUj-1
+antibody was used to identify the differentiated neurons in immu-
+nostaining and western blotting analysis. Encouragingly, the inhibi-
+ted neuronal differentiation induced by myelin proteins was
+recovered partially on the scaffolds functionalized with appropriate
+amount of cetuximab (col-cetuximab 1 mg scaffold in this work). It
+was found that on col-cetuximab 2 mg scaffolds inpresence ofmyelin
+proteins, and all col-cetuximab scaffolds in absence of myelin, a
+decrease in neuronal differentiation of NPCs was observed, indi-
+cating that overdose of cetuximab that exceeded the amount
+required for overcoming theeffect ofmyelinproteinswoulddecrease
+the neuronal differentiation. EGFR signaling has been demonstrated
+to play an important role in neuronal survival [28]. Therefore,
+impaired EGFR signalingwhichmight cause neuron death could be a
+possible reason for the reduced neuronal differentiation on col-
+cetuximab 2 mg scaffold in presence of myelin proteins. From these
+results, we concluded that collagen scaffold immobilized with
+defined amount of cetuximab could neutralize the inhibitory activity
+ofmyelin proteins, resulting in an enhanced neuronal differentiation
+and decreased astrocytic differentiation in vitro.
+We subsequently evaluated whether NPCs embedded on col-
+cetuximab scaffolds may acquire more neuronal phenotypes in
+situ, and subsequently promote functional recovery post-SCI. It was
+found that the construct comprised of porous collagen scaffold,cetuximab functionalization and NPCs was effective in promoting
+neural regeneration following hemisection of the rat spinal cord.
+The locomotion recovery was assessed by the BBB score (Fig. 5E). It
+was found that the intervention of scaffold plus NPCs could help
+improve the functional outcome, but appeared not sufficient. When
+combined with cetuximab functionalization on the scaffold, sig-
+nificant recovery was achieved. Inclined plane results (Fig. 5F)
+mirrored the BBB scoring, indicating that implantation of NPC-
+embedded col-cetuximab 5 mg scaffold could lead to the long-
+nt (NFþ) and (B) synaptophysin (Synþ) at 12 weeks post-SCI. Scale bars, 50 mm.
+4 (2013) 5107e5116 5115term improvement of motor function significantly.
+We further sought to determine the basis for this improvement
+in locomotor function. The immunostaining results showed that
+NPCs on col-cetuximab 5 mg scaffolds differentiated into more
+neurons and fewer astrocytes compared with that on collagen
+scaffolds at 4 weeks and 12 weeks post-SCI (Fig. 6). It can be seen
+that the neuronal differentiation was enhanced and astrocytic dif-
+ferentiation was reduced further with longer observation. This
+finding was consistent with the previous study that suppression of
+the gliogenic determinants allowed the differentiation of NPCs to-
+ward a neurogenic fate post CNS injury [29]. The neurons derived
+from transplanted neural stem cells have been demonstrated to
+restore disrupted neuronal circuitry, and contribute to functional
+improvements post-SCI [30]. On the other hand, it has been
+demonstrated that the reactive astrocytes could migrate towards
+the injured area to constitute the glial scar after SCI and hinder
+functional recovery [31]. Therefore, we can conclude that the col-
+cetuximab scaffold could stimulate implanted NPC into neuronal
+phenotypes rather than astrocytic phenotypes, and subsequently,
+the accumulation of newly generated neurons, and attenuation of
+astrocytes contributed to a better functional recovery.
+Additionally, the lesion site was also stained with other
+neuronal markers i.e. NF and synaptophysin (Fig. 7). Enhanced axon
+generation and synapse formation were observed on the col-
+cetuximab 5 mg scaffolds. The projection of NPC-derived axons
+from the lesion site together with synapse formation also
+contributed to the enhanced functional recovery.
+Here, we demonstrated that col-cetuximab scaffolds could pro-
+mote neuronal differentiation and inhibit astrocytic differentiation
+als 3of NPCs exposed to myelin proteins in vitro and in vivo post-SCI. The
+highly activated EGFR signaling post-SCI, which is considered as one
+of gliogenic signaling for NPCs, could be significantly suppressed by
+cetuximab, which released from the col-cetuximab scaffolds. Under
+this circumstance, more implanted NPCs could acquire neuronal
+phenotypes with the inhibition of EGFR activity.
+5. Conclusions
+In summary, we have demonstrated that cetuximab, an EGFR
+antibody, functionalized collagen scaffold could rescue NPCs from
+adverse effect induced by myelin proteins, direct neuronal differen-
+tiation of NPCs, and eventually promote functional recovery after SCI.
+When in presence of 5 mg/mL of myelin in the culture medium, the
+TUj-1 expression of NPCs on the col-cetuximab 1 mg scaffold was up-
+regulated by 63%, and GFAP and S100 expression were down-
+regulated by 8% and 23% respectively as compared with that on
+collagen scaffold. Furthermore, the therapeutic test in rathemisection
+SCI model showed that the NPC-embedded col-cetuximab 5 mg
+scaffold caused a wide range of positive effects, including enhanced
+neuronal differentiation and decreased astrocytic differentiation of
+NPCs, promoted axonal regeneration and synapse formation, and
+improved functional recovery. Thus, functionalization of collagen
+scaffold with well-defined amount of EGFR antibody appears a suit-
+able scaffold to positively mediate NPC differentiation in SCI repair.
+This engineered collagen scaffold provides a platform in which
+additional stimuli canbe introduced to improve the recoveryafter SCI.
+Acknowledgments
+This work was supported by grants from the Ministry of Science
+and Technology of China (2011CB965001), National Science Foun-
+dation of China (81200963, 30930032) and Chinese Academy of
+Sciences (KSCX2- EW-Q-24).
+Abbreviations
+NPC neural progenitor cell
+SCI spinal cord injury
+EGFR epidermal growth factor receptor
+MAG myelin associated glycoprotein
+OMgp oligodendrocyte-myelin glycoprotein
+NgR Nogo recptor
+CNS central nervous system
+p-NPP para-nitrophenyl-phosphate
+SEM Scanning electron microscopy
+BBB Basso-Beattie-Bresnahan
+FDA fluorescein diacetate
+MTT 3-(4,5-Dimethyl-2-thiazolyl)-2,5-diphenyl-2H-
+tetrazolium bromide
+NF neurofilament
+References
+[1] Cusimano M, Biziato D, Brambilla E, Donega M, Alfaro-Cervello C, Snider S,
+et al. Transplanted neural stem/precursor cells instruct phagocytes and reduce
+secondary tissue damage in the injured spinal cord. Brain 2012;135:447e60.
+[2] Ronaghi M, Erceg S, Moreno-Manzano V, Stojkovic M. Challenges of stem cell
+therapy for spinal cord injury: human embryonic stem cells, endogenous neural
+stem cells, or induced pluripotent stem cells? Stem Cells 2010;28:93e9.
+[3] Aboody K, Capela A, Niazi N, Stern JH, Temple S. Translating stem cell studies
+to the clinic for CNS repair: current state of the art and the need for a rosetta
+stone. Neuron 2011;70:597e613.
+[4] Kim H, Cooke MJ, Shoichet MS. Creating permissive microenvironments for
+X. Li et al. / Biomateri5116stem cell transplantation into the central nervous system. Trends Biotechnol
+2012;30:55e63.[5] Stabenfeldt SE, Munglani G, García AJ, LaPlaca MC. Biomimetic microenvi-
+ronment modulates neural stem cell survival, migration, and differentiation.
+Tissue Eng Part A 2010;16:3747e58.
+[6] Lu P, Wang Y, Graham L, McHale K, Gao M, Wu D, et al. Long-distance growth
+and connectivity of neural stem cells after severe spinal cord injury. Cell
+2012;150:1264e73.
+[7] Akbik F, Cafferty WBJ, Strittmatter SM. Myelin associated inhibitors: a link
+between injury-induced and experience-dependent plasticity. Exp Neurol
+2012;235:43e52.
+[8] Wang B, Xiao Z, Chen B, Han J, Gao Y, Zhang J, et al. Nogo-66 promotes the
+differentiation of neural progenitors into astroglial lineage cells through
+mTOR-STAT3 pathway. PLoS One 2008;3:e1856.
+[9] Wang T, Wang J, Yin C, Liu R, Zhang JH, Qin X. Down-regulation of Nogo re-
+ceptor promotes functional recovery by enhancing axonal connectivity after
+experimental stroke in rats. Brain Res 2010;1360:147e58.
+[10] Xu CJ, Xu L, Huang LD, Li Y, Yu PP, Hang Q, et al. Combined NgR vaccination
+and neural stem cell transplantation promote functional recovery after spinal
+cord injury in adult rats. Neuropathol Appl Neurobiol 2011;37:135e55.
+[11] Koprivica V, Cho KS, Park JB, Yiu G, Atwal J, Gore B, et al. EGFR activation
+mediates inhibition of axon regeneration by myelin and chondroitin sulfate
+proteoglycans. Science 2005;310:106e10.
+[12] Han Q, Jin W, Xiao Z, Ni H, Wang J, Kong J, et al. The promotion of neural
+regeneration in an extreme rat spinal cord injury model using a collagen
+scaffold containing a collagen binding neuroprotective protein and an EGFR
+neutralizing antibody. Biomaterials 2010;31:9212e20.
+[13] Qu W, Tian D, Guo Z, Fang J, Zhang Q, Yu Z, et al. Inhibition of EGFR/
+MAPK signaling reduces microglial inflammatory response and the asso-
+ciated secondary damage in rats after spinal cord injury. J Neuroinflamm
+2012;9:178.
+[14] Li ZW, Tang RH, Zhang JP, Tang ZP, Qu WS, Zhu WH, et al. Inhibiting
+epidermal growth factor receptor attenuates reactive astrogliosis and im-
+proves functional outcome after spinal cord injury in rats. Neurochem Int
+2011;58:812e9.
+[15] Ayuso-Sacido A, Moliterno JA, Kratovac S, Kapoor GS, O’Rourke DM,
+Holland EC, et al. Activated EGFR signaling increases proliferation, survival,
+and migration and blocks neuronal differentiation in post-natal neural stem
+cells. J Neuro-Oncol 2010;97:323e37.
+[16] Berry M, Ahmed Z, Douglas MR, Logan A. Epidermal growth factor receptor
+antagonists and CNS axon regeneration: mechanisms and controversies. Brain
+Res Bull 2011;84:289e99.
+[17] Norton WT, Poduslo SE. Myelination in rat brain: method of myelin isolation.
+J Neurochem 1973;21:749e57.
+[18] Han J, Xiao Z, Chen L, Chen B, Li X, Han S, et al. Maintenance of the self-
+renewal properties of neural progenitor cells cultured in three-dimensional
+collagen scaffolds by the REDD1-mTOR signal pathway. Biomaterials
+2013;34:1921e8.
+[19] Basso DM, Beattie MS, Bresnahan JC. A sensitive and reliable locomotor rating
+scale for open field testing in rats. J Neurotrauma 1995;12:1e21.
+[20] Rivlin AS, Tator CH. Objective clinical assessment of motor function after
+experimental spinal cord injury in the rat. J Neurosurg 1977;47:577e81.
+[21] Ju P, Zhang S, Yeap Y, Feng Z. Induction of neuronal phenotypes from NG2þ
+glial progenitors by inhibiting epidermal growth factor receptor in mouse
+spinal cord injury. Glia 2012;60:1801e14.
+[22] Davidenko N, Gibb T, Schuster C, Best SM, Campbell JJ, Watson CJ, et al. Bio-
+mimetic collagen scaffolds with anisotropic pore architecture. Acta Biomater
+2012;8:667e76.
+[23] Yu H, Cao B, Feng M, Zhou Q, Sun X, Wu S, et al. Combinated transplantation of
+neural stem cells and collagen type I promote functional recovery after ce-
+rebral ischemia in rats. Anat Rec 2010;293:911e7.
+[24] Cholas RH, Hsu HP, Spector M. The reparative response to cross-linked
+collagen-based scaffolds in a rat spinal cord gap model. Biomaterials
+2012;33:2050e9.
+[25] Vale CL, Tierney JF, Fisher D, Adams RA, Kaplan R, Maughan TS, et al. Does
+anti-EGFR therapy improve outcome in advanced colorectal cancer? A sys-
+tematic review and meta-analysis. Cancer Treat Rev 2012;38:618e25.
+[26] Wolinsky JB, Colson YL, Grinstaff MW. Local drug delivery strategies for cancer
+treatment: gels, nanoparticles, polymeric films, rods, and wafers. J Control
+Release 2012;159:14e26.
+[27] Vroemen M, Aigner L, Winkler J, Weidner N. Adult neural progenitor cell
+grafts survive after acute spinal cord injury and integrate along axonal
+pathways. Eur J Neurosci 2003;18:743e51.
+[28] Wagner B, Natarajan A, Grunaug S, Kroismayr R, Wagner EF, Sibilia M.
+Neuronal survival depends on EGFR signaling in cortical but not midbrain
+astrocytes. EMBO J 2006;25:752e62.
+[29] Geoffroy CG, Critchley JA, Castro DS, Ramelli S, Barraclough C, Descombes P,
+et al. Engineering of dominant active basic Helix-Loop-Helix proteins that are
+resistant to negative regulation by postnatal central nervous system anti-
+neurogenic cues. Stem Cells 2009;27:847e56.
+[30] Abematsu M, Tsujimura K, Yamano M, Saito M, Kohno K, Kohyama J, et al.
+Neurons derived from transplanted neural stem cells restore disrupted
+neuronal circuitry in a mouse model of spinal cord injury. J Clin Invest
+2010;120:3255e66.
+[31] Buffo A, Rolando C, Ceruti S. Astrocytes in the damaged brain: molecular and
+4 (2013) 5107e5116cellular insights into their reactive response and healing potential. Biochem
+Pharmacol 2010;79:77e89.

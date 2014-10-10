@@ -1,0 +1,35 @@
+T1	Gene 790 793	gen
+T2	Gene 1387 1397	CNS Injury
+T3	Gene 3125 3135	fibrinogen
+T4	Gene 3140 3148	thrombin
+T5	Gene 4544 4570	Di Wu,1 John Brock,1 Armin
+T6	Gene 5846 5848	Lu
+T7	Gene 6034 6037	Ros
+T8	Gene 6151 6154	Gao
+T9	Species 573 587	rhesus monkeys
+T10	Species 629 633	rats
+T11	Species 731 735	rats
+T12	Species 883 888	human
+T13	Species 1095 1101	humans
+T14	Species 1329 1334	human
+T15	Species 1452 1455	rat
+T16	Species 1652 1656	rats
+T17	Species 1697 1700	rat
+T18	Species 3059 3062	rat
+T19	Species 3278 3284	humans
+T20	Species 3497 3503	humans
+T21	Species 3514 3520	humans
+T22	Species 3772 3778	humans
+T23	Species 4054 4059	human
+T24	Species 4083 4087	rats
+T25	Species 4411 4416	human
+T26	InteractionKeyword 188 193	cause
+T27	InteractionKeyword 359 366	reduced
+T28	InteractionKeyword 1038 1044	direct
+T29	InteractionKeyword 1516 1526	associated
+T30	InteractionKeyword 3091 3100	increased
+T31	InteractionKeyword 3174 3183	resulting
+T32	InteractionKeyword 3486 3493	reduced
+T33	InteractionKeyword 3943 3951	required
+R34	Partner1 Arg1:T30 Arg2:T4
+R35	Partner2 Arg1:T30 Arg2:T3

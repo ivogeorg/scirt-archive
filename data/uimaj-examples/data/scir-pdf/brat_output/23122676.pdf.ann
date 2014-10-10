@@ -1,0 +1,383 @@
+T1	Gene 453 461	collagen
+T2	Gene 465 472	laminin
+T3	Gene 530 534	CNTF
+T4	Gene 619 623	BDNF
+T5	Gene 670 674	CNTF
+T6	Gene 837 841	CNTF
+T7	Gene 846 850	BDNF
+T8	Gene 2094 2102	collagen
+T9	Gene 2185 2193	Collagen
+T10	Gene 2198 2205	laminin
+T11	Gene 2320 2327	laminin
+T12	Gene 2486 2490	LOCS
+T13	Gene 2495 2502	L  LOCS
+T14	Gene 3076 3080	CNTF
+T15	Gene 3084 3088	BDNF
+T16	Gene 3119 3140	collagen binding CNTF
+T17	Gene 3142 3145	CBD
+T18	Gene 3146 3150	CNTF
+T19	Gene 3153 3174	collagen binding BDNF
+T20	Gene 3176 3179	CBD
+T21	Gene 3180 3184	BDNF
+T22	Gene 3190 3210	laminin binding CNTF
+T23	Gene 3223 3243	laminin binding BDNF
+T24	Gene 3250 3254	BDNF
+T25	Gene 3297 3304	laminin
+T26	Gene 3362 3366	LOCS
+T27	Gene 3379 3386	laminin
+T28	Gene 3388 3396	Collagen
+T29	Gene 3408 3444	laminin binding neurotrophic factors
+T30	Gene 3464 3468	LOCS
+T31	Gene 3472 3479	L  LOCS
+T32	Gene 3691 3695	CNTF
+T33	Gene 3700 3704	BDNF
+T34	Gene 3929 3960	Collagen hasAccepted 10 October
+T35	Gene 4068 4075	Laminin
+T36	Gene 4418 4425	Wei Jin
+T37	Gene 4441 4472	Xiaoshan Hou c, Tiansheng Zhu c
+T38	Gene 4898 4906	collagen
+T39	Gene 5807 5811	LOCS
+T40	Gene 5815 5822	L  LOCS
+T41	Gene 6184 6203	collagen or laminin
+T42	Gene 6272 6291	collagen or laminin
+T43	Gene 6375 6382	laminin
+T44	Gene 6424 6428	CNTF
+T45	Gene 6433 6441	LBD-BDNF
+T46	Gene 6507 6511	CNTF
+T47	Gene 6516 6520	BDNF
+T48	Gene 6619 6627	collagen
+T49	Gene 6773 6781	collagen
+T50	Gene 6959 6981	collagen nerve conduit
+T51	Gene 7004 7012	collagen
+T52	Gene 7110 7118	collagen
+T53	Gene 7225 7233	collagen
+T54	Gene 7262 7270	collagen
+T55	Gene 7475 7483	collagen
+T56	Gene 7546 7550	LOCS
+T57	Gene 7555 7562	laminin
+T58	Gene 7570 7574	LOCS
+T59	Gene 7576 7583	L  LOCS
+T60	Gene 7585 7589	LOCS
+T61	Gene 8291 8309	collagen filaments
+T62	Gene 8311 8315	LOCS
+T63	Gene 8409 8413	LOCS
+T64	Gene 8470 8477	L  LOCS
+T65	Gene 8537 8541	LOCS
+T66	Gene 8730 8740	mL laminin
+T67	Gene 10453 10457	LOCS
+T68	Gene 10499 10507	collagen
+T69	Gene 10604 10607	CBD
+T70	Gene 10608 10612	CNTF
+T71	Gene 10908 10911	CBD
+T72	Gene 10913 10917	CNTF
+T73	Gene 10920 10923	CBD
+T74	Gene 10924 10928	BDNF
+T75	Gene 10942 10950	collagen
+T76	Gene 11097 11104	LOCS  L
+T77	Gene 11118 11126	collagen
+T78	Gene 11360 11364	BDNF
+T79	Gene 11378 11386	collagen
+T80	Gene 11418 11425	L  LOCS
+T81	Gene 11541 11549	collagen
+T82	Gene 11651 11655	CNTF
+T83	Gene 14049 14065	anti-NF antibody
+T84	Gene 14925 14933	collagen
+T85	Gene 15081 15089	collagen
+T86	Gene 15132 15140	collagen
+T87	Gene 15659 15666	Fig. 3A
+T88	Gene 16160 16164	LOCS
+T89	Gene 16169 16175	L LOCS
+T90	Gene 17011 17032	CBD-CNTF þ CBD þ BDNF
+T91	Gene 17253 17269	anti-NF antibody
+T92	Gene 17875 17884	CBD-CNTFþ
+T93	Gene 17890 17894	BDNF
+T94	Gene 18494 18503	CBD-CNTFþ
+T95	Gene 18509 18513	BDNF
+T96	Gene 19589 19596	L  LOCS
+T97	Gene 19856 19869	CBD-CNTFþ CBD
+T98	Gene 19872 19876	BDNF
+T99	Gene 20219 20227	collagen
+T100	Gene 20231 20251	laminin binding CNTF
+T101	Gene 20256 20260	BDNF
+T102	Gene 20293 20301	collagen
+T103	Gene 20305 20329	laminin binding proteins
+T104	Gene 20423 20427	BDNF
+T105	Gene 20432 20436	CNTF
+T106	Gene 20574 20578	CNTF
+T107	Gene 20592 20597	STAT3
+T108	Gene 20599 20602	Ras
+T109	Gene 20603 20606	Raf
+T110	Gene 20607 20621	MAP/ERK Kinase
+T111	Gene 20622 20625	ERK
+T112	Gene 20626 20632	p90RSK
+T113	Gene 20638 20642	PI3K
+T114	Gene 20643 20646	Akt
+T115	Gene 20689 20693	BDNF
+T116	Gene 20712 20715	Ras
+T117	Gene 20726 20730	PI3K
+T118	Gene 20731 20734	Akt
+T119	Gene 20801 20805	CNTF
+T120	Gene 20810 20814	BDNF
+T121	Gene 20978 20981	CBD
+T122	Gene 20982 20986	CNTF
+T123	Gene 20989 20992	CBD
+T124	Gene 20993 20997	BDNF
+T125	Gene 21733 21740	laminin
+T126	Gene 21803 21811	collagen
+T127	Gene 22040 22047	laminin
+T128	Gene 22116 22123	Laminin
+T129	Gene 22264 22271	L  LOCS
+T130	Gene 22403 22417	simple laminin
+T131	Gene 22636 22640	CNTF
+T132	Gene 22750 22754	CNTF
+T133	Gene 22759 22763	BDNF
+T134	Gene 22944 22951	L  LOCS
+T135	Gene 23003 23011	Collagen
+T136	Gene 23015 23035	laminin binding CNTF
+T137	Gene 23040 23044	BDNF
+T138	Gene 23123 23143	collagen and laminin
+T139	Gene 23354 23373	collagen or laminin
+T140	Gene 23382 23386	CNTF
+T141	Gene 23391 23395	BDNF
+T142	Gene 24252 24272	Acta Neurochir Suppl
+T143	Gene 24293 24298	Fan W
+T144	Gene 24300 24304	Gu J
+T145	Gene 24306 24310	Hu W
+T146	Gene 24312 24318	Deng A
+T147	Gene 24320 24324	Ma Y
+T148	Gene 25775 25783	collagen
+T149	Gene 25785 25792	laminin
+T150	Gene 25976 25979	gap
+T151	Gene 26176 26188	Trans Am Soc
+T152	Gene 26743 26751	collagen
+T153	Gene 27343 27357	Laminin gamma1
+T154	Gene 27500 27505	Han Q
+T155	Gene 27507 27512	Sun W
+T156	Gene 27514 27519	Lin H
+T157	Gene 27521 27526	ZhaoW
+T158	Gene 27528 27533	Gao Y
+T159	Gene 27598 27606	collagen
+T160	Gene 27741 27746	Han Q
+T161	Gene 27748 27753	Jin W
+T162	Gene 27755 27761	Xiao Z
+T163	Gene 27763 27767	Ni H
+T164	Gene 27911 27951	collagen binding neuroprotective protein
+T165	Gene 28046 28051	Cao J
+T166	Gene 28053 28058	Sun C
+T167	Gene 28060 28066	Zhao H
+T168	Gene 28068 28082	Xiao Z, Chen B
+T169	Gene 28084 28089	Gao J
+T170	Gene 28109 28116	laminin
+T171	Gene 28172 28179	laminin
+T172	Gene 28486 28495	CNTF gene
+T173	Gene 29057 29074	Zhang PH, Chen NL
+T174	Gene 29076 29083	Wang YC
+T175	Gene 29085 29093	Zhang ZF
+T176	Gene 29667 29671	CNTF
+T177	Gene 29676 29680	BDNF
+T178	Gene 29713 29718	Kim C
+T179	Gene 29720 29726	Kim SH
+T180	Gene 30000 30004	CNTF
+T181	Gene 30009 30013	BDNF
+T182	Gene 30152 30157	Sun W
+T183	Gene 30159 30172	Lin H, Chen B
+T184	Gene 30174 30180	Zhao W
+T185	Gene 30182 30188	Zhao Y
+T186	Gene 30237 30245	collagen
+T187	Gene 30268 30276	collagen
+T188	Gene 30362 30369	Zhang J
+T189	Gene 30371 30377	Ding L
+T190	Gene 30379 30385	Zhao Y
+T191	Gene 30387 30400	Sun W, Chen B
+T192	Gene 30402 30407	Lin H
+T193	Gene 30571 30576	Lin H
+T194	Gene 30578 30584	Wang J
+T195	Gene 30586 30600	Zhao Y, Wang B
+T196	Gene 30793 30798	Sun W
+T197	Gene 30800 30805	Sun C
+T198	Gene 30807 30813	Zhao H
+T199	Gene 30815 30820	Lin H
+T200	Gene 30822 30827	Han Q
+T201	Gene 30892 30922	laminin-binding human NGF-beta
+T202	Gene 30924 30937	PLoS One 2009
+T203	Gene 30953 30959	Zhao W
+T204	Gene 30961 30966	Han Q
+T205	Gene 30968 30973	Lin H
+T206	Gene 30975 30980	Sun W
+T207	Gene 30982 30987	Gao Y
+T208	Gene 31052 31068	Kringle4 peptide
+T209	Gene 31080 31086	fibrin
+T210	Gene 31226 31234	Water TR
+T211	Gene 31260 31264	BDNF
+T212	Gene 31269 31273	CNTF
+T213	Gene 31381 31386	Lin H
+T214	Gene 31388 31402	Chen B, Wang B
+T215	Gene 31404 31410	Zhao Y
+T216	Gene 31412 31417	Sun W
+T217	Gene 31674 31677	Neu
+T218	Gene 31778 31781	myo
+T219	Gene 31913 31917	LIFR
+T220	Gene 31941 31946	CNTFR
+T221	Gene 32393 32415	neurotrophin receptors
+T222	Gene 32417 32421	trkB
+T223	Gene 32426 32429	p75
+T224	Species 3637 3640	rat
+T225	Species 4354 4357	rat
+T226	Species 6880 6883	rat
+T227	Species 7103 7109	bovine
+T228	Species 7608 7614	bovine
+T229	Species 9645 9649	rats
+T230	Species 11812 11816	rats
+T231	Species 21179 21183	rats
+T232	Species 23871 23876	human
+T233	Species 24433 24438	human
+T234	Species 24724 24727	rat
+T235	Species 25133 25137	rats
+T236	Species 26518 26521	rat
+T237	Species 26792 26796	dogs
+T238	Species 27051 27057	humans
+T239	Species 27695 27699	rats
+T240	Species 27843 27846	rat
+T241	Species 28250 28254	rats
+T242	Species 28931 28935	mice
+T243	Species 29497 29501	rats
+T244	Species 29647 29651	mice
+T245	Species 30287 30292	human
+T246	Species 30908 30913	human
+T247	Species 31004 31009	Human
+T248	Species 31322 31325	rat
+T249	Species 31470 31476	bovine
+T250	Species 32062 32067	human
+T251	Species 32153 32160	Pollock
+T252	InteractionKeyword 387 395	requires
+T253	InteractionKeyword 473 480	binding
+T254	InteractionKeyword 491 496	fused
+T255	InteractionKeyword 635 642	effects
+T256	InteractionKeyword 692 703	stimulating
+T257	InteractionKeyword 889 895	effect
+T258	InteractionKeyword 1161 1172	contributed
+T259	InteractionKeyword 1216 1222	affect
+T260	InteractionKeyword 1424 1428	form
+T261	InteractionKeyword 1450 1456	target
+T262	InteractionKeyword 1883 1892	following
+T263	InteractionKeyword 2121 2129	produced
+T264	InteractionKeyword 2328 2336	modified
+T265	InteractionKeyword 2673 2680	limited
+T266	InteractionKeyword 2995 3001	caused
+T267	InteractionKeyword 3110 3118	produced
+T268	InteractionKeyword 3128 3135	binding
+T269	InteractionKeyword 3162 3169	binding
+T270	InteractionKeyword 3198 3205	binding
+T271	InteractionKeyword 3231 3238	binding
+T272	InteractionKeyword 3305 3313	modified
+T273	InteractionKeyword 3354 3361	linking
+T274	InteractionKeyword 3397 3404	binding
+T275	InteractionKeyword 3416 3423	binding
+T276	InteractionKeyword 3713 3721	enhanced
+T277	InteractionKeyword 4136 4146	facilitate
+T278	InteractionKeyword 5408 5415	binding
+T279	InteractionKeyword 5494 5501	binding
+T280	InteractionKeyword 5542 5546	bind
+T281	InteractionKeyword 5565 5574	promoting
+T282	InteractionKeyword 6383 6390	binding
+T283	InteractionKeyword 6446 6450	bind
+T284	InteractionKeyword 6497 6503	effect
+T285	InteractionKeyword 6539 6546	enhance
+T286	InteractionKeyword 8933 8942	expressed
+T287	InteractionKeyword 11990 11996	formed
+T288	InteractionKeyword 12348 12354	formed
+T289	InteractionKeyword 12921 12932	stimulating
+T290	InteractionKeyword 15380 15388	controls
+T291	InteractionKeyword 16368 16375	limited
+T292	InteractionKeyword 17328 17335	results
+T293	InteractionKeyword 19609 19616	limited
+T294	InteractionKeyword 20110 20118	produced
+T295	InteractionKeyword 20239 20246	binding
+T296	InteractionKeyword 20313 20320	binding
+T297	InteractionKeyword 20349 20356	binding
+T298	InteractionKeyword 20461 20467	signal
+T299	InteractionKeyword 20533 20540	induced
+T300	InteractionKeyword 20583 20591	activate
+T301	InteractionKeyword 20694 20703	signaling
+T302	InteractionKeyword 21444 21451	control
+T303	InteractionKeyword 21480 21487	results
+T304	InteractionKeyword 21741 21749	modified
+T305	InteractionKeyword 22048 22056	modified
+T306	InteractionKeyword 22097 22104	control
+T307	InteractionKeyword 22174 22183	promoting
+T308	InteractionKeyword 22203 22215	facilitating
+T309	InteractionKeyword 22686 22692	effect
+T310	InteractionKeyword 22857 22865	produced
+T311	InteractionKeyword 23023 23030	binding
+T312	InteractionKeyword 23084 23090	effect
+T313	InteractionKeyword 23374 23381	binding
+T314	InteractionKeyword 25099 25108	following
+T315	InteractionKeyword 25963 25972	influence
+T316	InteractionKeyword 26354 26360	target
+T317	InteractionKeyword 27010 27019	modifying
+T318	InteractionKeyword 27920 27927	binding
+T319	InteractionKeyword 27964 27976	neutralizing
+T320	InteractionKeyword 28117 28125	modified
+T321	InteractionKeyword 28334 28345	potentiates
+T322	InteractionKeyword 28496 28503	results
+T323	InteractionKeyword 28850 28857	effects
+T324	InteractionKeyword 28858 28867	following
+T325	InteractionKeyword 28936 28942	depend
+T326	InteractionKeyword 29191 29199	promotes
+T327	InteractionKeyword 29377 29384	changes
+T328	InteractionKeyword 31041 31046	fused
+T329	InteractionKeyword 31069 31074	binds
+T330	InteractionKeyword 31100 31108	enhances
+T331	InteractionKeyword 31249 31256	effects
+T332	InteractionKeyword 31895 31902	binding
+T333	InteractionKeyword 31918 31927	interacts
+T334	InteractionKeyword 32096 32106	determined
+T335	InteractionKeyword 32237 32246	signaling
+T336	InteractionKeyword 32247 32256	regulates
+T337	InteractionKeyword 32446 32454	regulate
+R338	Partner1 Arg1:T253 Arg2:T2
+R339	Partner2 Arg1:T253 Arg2:T3
+R340	Partner1 Arg1:T255 Arg2:T5
+R341	Partner2 Arg1:T255 Arg2:T4
+R342	Partner1 Arg1:T257 Arg2:T6
+R343	Partner2 Arg1:T257 Arg2:T7
+R344	Partner1 Arg1:T264 Arg2:T9
+R345	Partner2 Arg1:T264 Arg2:T10
+R346	Partner1 Arg1:T269 Arg2:T24
+R347	Partner2 Arg1:T269 Arg2:T21
+R348	Partner1 Arg1:T273 Arg2:T25
+R349	Partner2 Arg1:T273 Arg2:T26
+R350	Partner1 Arg1:T274 Arg2:T31
+R351	Partner2 Arg1:T274 Arg2:T28
+R352	Partner1 Arg1:T276 Arg2:T32
+R353	Partner2 Arg1:T276 Arg2:T33
+R354	Partner1 Arg1:T281 Arg2:T40
+R355	Partner2 Arg1:T281 Arg2:T39
+R356	Partner1 Arg1:T282 Arg2:T44
+R357	Partner2 Arg1:T282 Arg2:T45
+R358	Partner1 Arg1:T285 Arg2:T47
+R359	Partner2 Arg1:T285 Arg2:T48
+R360	Partner1 Arg1:T294 Arg2:T101
+R361	Partner2 Arg1:T294 Arg2:T99
+R362	Partner1 Arg1:T297 Arg2:T102
+R363	Partner2 Arg1:T297 Arg2:T103
+R364	Partner1 Arg1:T298 Arg2:T104
+R365	Partner2 Arg1:T298 Arg2:T105
+R366	Partner1 Arg1:T301 Arg2:T117
+R367	Partner2 Arg1:T301 Arg2:T111
+R368	Partner1 Arg1:T304 Arg2:T125
+R369	Partner2 Arg1:T304 Arg2:T126
+R370	Partner1 Arg1:T311 Arg2:T136
+R371	Partner2 Arg1:T311 Arg2:T137
+R372	Partner1 Arg1:T313 Arg2:T140
+R373	Partner2 Arg1:T313 Arg2:T141
+R374	Partner1 Arg1:T320 Arg2:T170
+R375	Partner2 Arg1:T320 Arg2:T171
+R376	Partner1 Arg1:T329 Arg2:T208
+R377	Partner2 Arg1:T329 Arg2:T209
+R378	Partner1 Arg1:T331 Arg2:T211
+R379	Partner2 Arg1:T331 Arg2:T212
+R380	Partner1 Arg1:T333 Arg2:T220
+R381	Partner2 Arg1:T333 Arg2:T219
+R382	Partner1 Arg1:T337 Arg2:T223
+R383	Partner2 Arg1:T337 Arg2:T221

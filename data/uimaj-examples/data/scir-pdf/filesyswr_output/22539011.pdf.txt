@@ -1,0 +1,1998 @@
+REVIEW
+Recent therapeutic strategies for spinal cord injury
+treatment: possible role of stem cells
+D. Garbossa & M. Boido & M. Fontanella & C. Fronda &
+A. Ducati & A. Vercelli
+Received: 31 January 2011 /Revised: 27 September 2011 /Accepted: 20 November 2011 /Published online: 27 April 2012
+# Springer-Verlag 2012
+Abstract Spinal cord injury (SCI) often results in signifi-
+cant dysfunction and disability. A series of treatments have
+been proposed to prevent and overcome the formation of the
+glial scar and inhibitory factors to axon regrowth. In the last
+decade, cell therapy has emerged as a new tool for several
+diseases of the nervous system. Stem cells act as minipumps
+providing trophic and immunomodulatory factors to en-
+hance axonal growth, to modulate the environment, and to
+reduce neuroinflammation. This capability can be boosted
+by genetical manipulation to deliver trophic molecules. Dif-
+ferent types of stem cells have been tested, according to their
+properties and the therapeutic aims. They differ from each
+other for origin, developmental stage, stage of differentia-
+tion, and fate lineage. Related to this, stem cells differenti-
+ating into neurons could be used for cell replacement, even
+though the feasibility that stem cells after transplantation in
+the adult lesioned spinal cord can differentiate into neurons,
+integrate within neural circuits, and emit axons reaching the
+muscle is quite remote. The timing of cell therapy has been
+variable, and may be summarized in the acute and chronic
+phases of disease, when stem cells interact with a complete-
+ly different environment. Even though further experimental
+studies are needed to elucidate the mechanisms of action,
+the therapeutic, and the side effects of cell therapy, several
+clinical protocols have been tested or are under trial. Here,
+we report the state-of-the-art of cell therapy in SCI, in terms
+of feasibility, outcome, and side effects.
+Keywords Spinal cord injury . Stem cells . Transplantation .
+Regenerative approach . Cell replacement . Axonal
+reorganization
+Introduction
+Spinal cord injury (SCI) often results in significant dysfunc-
+tion and disability. It physically and psychologically affects
+not only the individual but also his/her family and the whole
+society. Worldwide SCI affects approximately six million
+people, most often of young age; the chances of recovery are
+very low and the disability is permanent, with long-lasting
+deficits, such as partial or complete paralysis and loss of
+sensation below the level of the injury. Early rehabilitation
+in an organized multidisciplinary SCI care system lowers
+mortality, decreases pressure sores, slightly increases chance
+of neurologic recovery, and shortens lengths of stay, thus
+reducing hospital charges. Nevertheless, continued func-
+tional dependency, healthcare needs and costs, as well as
+caregiver burden and stress often remain tremendous.
+Functional deficits following SCI result from damage to
+axon fibers, loss of neurons, activation of astrocytes and
+microglia, and degeneration of oligodendrocytes [32] and
+demyelination. The outcome is determined by the mechanical
+insult, i.e., the primary damage, followed by several second-
+ary processes as ischemia, anoxia, free-radical formation, and
+excitotoxicity [56, 96].
+The first mechanism of injury consists of traction and
+compression forces. Compression by bone fragments or soft
+D. Garbossa and M. Boido equally contributed to this article.
+D. Garbossa (*) :M. Fontanella : C. Fronda :A. Ducati
+Department of Neurosurgery, S. Giovanni Battista Hospital,
+University of Torino,
+Via Cherasco 15,
+10126 Torino, Italy
+e-mail: garbossa@libero.it
+M. Boido :A. Vercelli
+Department of Anatomy, Pharmacology and Forensic Medicine,
+University of Torino,
+Corso Massimo D’Azeglio 52,
+10126 Torino, Italy
+Neurosurg Rev (2012) 35:293–311
+DOI 10.1007/s10143-012-0385-2
+tissue injures both central and peripheral nervous structures.
+Within minutes, the spinal cord swells and exceeds venous
+pressure and results in secondary ischemia. The spinal neu-
+rogenic shock leads to systemic hypotension that exacer-
+bates the ischemia. Finally, the release of toxic molecules
+leads to secondary damage [130]. The wave of secondary
+cell death, which mainly affects neurons and oligodendro-
+cytes, spreads rostrally and caudally from the site of impact,
+leading to structural and functional damage. Key secondary
+injury mechanisms include damage of spinal cord vasculature
+and ischemia, glutamatergic excitotoxicity, oxidative cell
+stress, lipid peroxidation, and inflammation, all of which
+alone or in concert can stimulate apoptosis.
+Toxic agents such as intracellular Ca++, free radicals, and
+excitotoxic amino acids are responsible for triggering molec-
+ular pathways leading to cell death, such as caspases andMAP
+kinases, and inflammation. In addition, neutrophils and micro-
+glial cells, stimulated by chemokines released at the lesion
+area, migrate into the site of injury and cause enlargement of
+the lesion area. The traumatic lesion is followed by the de-
+generative changes of astroglia, oligodendroglia, and neurons
+in and around the lesion site [105, 141, 224]. The outcome of
+this sequence of events is the formation of the glial scar, a
+cavity surrounded by reactive glia which represents a physical
+obstacle to axonal regrowth [54, 148, 186, 224].
+Inhibition of axonal growth
+Highly vulnerable to insults, neurons and oligodendroglia
+are spontaneously replaced after SCI to a very limited extent
+due to restricted regenerative potential of endogenous neural
+stem/progenitor cells. Furthermore, axonal regeneration and
+remyelination, especially from mature neurons, are also
+extremely limited if present at all. These disappointing
+limitations can be ascribed to the presence of the glial scar,
+neurotrophic factor deprivation, decreasing cyclic adenosine
+monophosphate levels, inhibitory sulfated proteoglycans,
+and inhibitory myelin-associated molecules. Formation of
+the glial scar represents an attempt by glial cells to limit the
+extent of the injury site and promote healing. Scar formation
+involves oligodendrocyte precursor cells, microglia, macro-
+phages, and extracellular matrix.
+Besides the glial scar, there are other inhibitory obstacles to
+axonal regeneration, such as myelin inhibitory molecules
+including the myelin-associated neurite outgrowth inhibitor
+Nogo-A, the myelin-associated glycoprotein, the proteogly-
+cans brevican and versican V2, and several potentially repul-
+sive/inhibitory axonal guidance molecules [129, 177]. After
+injury, upregulation of chondroitin sulfate proteoglycans
+(CSPGs), which are associated with astrocyte and oligoden-
+drocyte precursors, is a major contributor to the inhibitory
+properties of the adult central nervous system (CNS).
+Therefore, one major therapeutic aim is to modify the
+extracellular matrix. In vitro experiments have demonstrated
+that proteoglycans associated with reactive astrocytes can be
+modified to increase axonal growth by removing or prevent-
+ing the production of sugar epitopes on the proteoglycan
+molecules [21, 64, 132, 133, 191]. An in vivo transgenic
+model whose astrocytes express a CSPG-degrading enzyme
+showed enhanced axonal growth after injury [26]. Neutral-
+izing a heparan/chondroitin sulfate proteoglycan expressed
+after brain injury with a blocking antibody allows neurite
+outgrowth and prevents growth cone collapse in vitro [20].
+Injured corticospinal fibers and uninjured serotonergic
+fibers increase sprouting after enzymatic treatment to re-
+move sugar epitopes [10], and in vivo studies have revealed
+remarkable long-distance regeneration of adult axons
+though CNS white matter tracts after enzymatic treatment
+to digest these proteoglycan side chains [191].
+Timing of transplantation
+The success of any treatment seems strictly dependent on the
+timing of SCI therapy. In fact, the therapeutic time window in
+which the spinal microenvironment is not compromised is
+very narrow [55, 72].
+After the initial injury, the damage site expands from the
+injury epicenter, i.e., many centimeters in a human. Analysis
+of chronic SCI shows that, typically, portions of the outer
+white matter are spared, while there is extensive damage of
+the inner grey matter. Within white matter, both ascending
+and descending axons degenerate, and demyelination occurs
+due to loss of oligodendrocytes. Chronic, progressive de-
+myelination is a persistent feature of SCI [203]. The astro-
+cyte response begins immediately after injury (proliferation,
+hypertrophy, etc.) and evolves over time. Reactive astro-
+cytes produce extracellular matrix components such as
+chondroitin and keratan sulfate proteoglycans. Ultimately,
+a scar-encapsulated cavity many times the size of the initial
+injury forms [54, 186].
+The occurring cellular events are characterized by the
+time-dependent expression of specific molecules, such as
+the early activation of inflammatory cytokines (interleukin-1
+alpha and interleukin-1 beta, tumor necrosis factor alpha,
+and interleukin-6), and the glial cyst and scar formation in
+the following days [147]. The weeks before the complete
+formation of the glial scar may offer a potential temporal
+opportunity to facilitate and maximize benefit from endog-
+enous or transplanted stem cells. This is thought to be the
+interval whereby stem cells can achieve maximum repair in
+the injured CNS.
+Therefore, SCI involves different phenomena, which
+have a specific chronology summarized in acute and chronic
+phases. Consequently, stem cell transplantation occurring at
+294 Neurosurg Rev (2012) 35:293–311
+different time intervals from the injury may interact with
+different mechanisms of damage or repair. Transplantation
+in the acute phase occurs before the formation of the glial
+scar and cyst, and also modulates the early phases of micro-
+glia activation and astrogliosis. On the other hand, since it is
+quite often difficult to foresee the outcome of an injury in
+the acute phase, the lesion must be stabilized before invasive
+treatment. Transplantation in the chronic phase could give
+new hopes to people who are functionally impaired since
+months or years: in fact, several authors have demonstrated
+the stem cell ability to fill the lesion cavity and eventually to
+bridge the gap on the lesion area (Fig. 1a) [141].
+Experimental models of SCI
+Treatment for SCI in patients still remains limited to the
+reduction of the lesion and to the control of inflammation
+and of glial activation [4, 49, 53]. Even though this approach
+has been questioned, cortisone remains the elective treatment
+in many countries, such as Italy. Most of the studies involving
+new therapeutic strategies, and in particular those involving
+stem cell therapy, undergo a preclinical phase. To this aim, the
+major challenge consists in creating a reproducible experi-
+mental model which can mimic the human pathology. Actu-
+ally, two models in mice and rats are commonly used in
+studies on SCI treatment: the compression and the transection
+models. The first one is quite adherent to the SCI due to
+trauma, and is the most relevant for human SCI. However,
+the spared axons and regenerating axons in the injured spinal
+cord are not easy to distinguish [197]. Specific devices have
+been used to create reproducible SCI compression lesions,
+such as the IH device (Precision Systems and Instrumentation
+LLC) [172] or the 23-g clip (Walsh) [90]. On the other hand,
+unilateral [45] or bilateral [164] transection of the dorsolateral
+funiculus in rodents allows to study axon regeneration and
+sprouting while reducing the role of the glial cyst. In particu-
+lar, unilateral transection allows to study axonal sprouting
+from the contralateral side and the effects of stem cell trans-
+plantation [19]. In any case, it must be considered that there
+are consistent differences in the anatomy of the descending
+pathways controlling movement between humans and rodents
+[176].
+In order to assess the outcome of treatment in preclinical
+studies, a general consensus must be achieved on the param-
+eters to consider. First of all, a battery of behavioral tests is
+currently used for testing the improvement of motor perfor-
+mance following treatment in terms of muscular strength,
+resistance, and coordination [180]. Nevertheless, it must be
+considered that in rodents, the relevance of intrinsic spinal
+circuits is much higher than in primates [169]. Second, the
+morphological outcome includes a series of parameters rel-
+ative to (1) fiber sprouting [number of myelinated fibers in
+Fig. 1 a After compression injury and transplantation, neural precur-
+sors (in green) are able to fill the lesion cavity, here well highlighted by
+glial fibrillary acidic protein (GFAP) immunostaining (in red). b In
+vitro neural precursor display heterogeneous morphology, frequently
+showing more or less elongated processes. c Also in vivo, when
+transplanted 2 weeks after hemisection injury, NPs are distributed in
+clusters, display variable aspect, and emit processes of different lengths
+directed caudally and laterally with synaptic boutons in contact with
+local neurons (labeled in red labeled with anti-5HT antibody). Scale
+bar0200 μm in a, 50 μm in b, and 100 μm in c
+Neurosurg Rev (2012) 35:293–311 295
+the white matter, of growth associated protein 43, or 5HT
+(serotonin)-positive fibers], (2) glial activation (microglial
+activation and astrogliosis), and (3) glial scar and cyst size
+[4, 18, 19, 88, 104].
+Treatments that promote recovery following SCI
+The limited spontaneous regeneration and regrowth of the
+proximal segment of the injured spinal cord represents an
+important target for research. Treatments should act on both
+on the intrinsic neuronal mechanisms and on extracellular
+matrix (ECM), and on non-neuronal cells located beyond
+the lesion, especially neutrophils and microglia. On the
+extrinsic side, the ECM is responsible for the formation
+and stabilization of perineuronal nets and matrix networks
+containing potent growth inhibitory molecules, such as
+CSPGs. Interventions that have been combined with trans-
+plants to promote repair and/or recovery include the appli-
+cation of neurotrophic or growth factors, pharmacological
+agents that mimic the action of neurotransmitters, antiapop-
+totic agents, agents that interfere with axonal growth inhib-
+itors, and physical rehabilitation and training [56, 105, 178].
+Most treatments are devoted to cure acute injury, whereas
+chronic injury is a more challenging condition. Recent advan-
+ces in stem cell biology have provided new tools in therapeu-
+tic strategies in neurodegenerative diseases and injury, aiming
+both to cell replacement and trophic support.
+Potential approaches aim to optimize functional recovery
+after SCI. They include minimizing the progression of sec-
+ondary injury, manipulating the neuroinhibitory environment
+of the spinal cord, replacing lost tissue with transplanted cells
+or peripheral nerve grafts, remyelinating denuded axons, and
+maximizing the intrinsic regenerative potential of endogenous
+progenitor cells. Their primary goal has been to replace lost
+cells [148]. While early studies transplanted differentiated
+neural cells and glia, more recent studies have proposed
+transplantation of stem cells or unrestricted progenitors, com-
+mitted to the neural lineage (Fig. 1b). These cells have a
+remarkable ability to differentiate into appropriate cells by
+taking cues from their close environment. Moreover, trans-
+planted cells can provide molecules, such as neurotrophic
+factors, supporting nervous system regeneration.
+The issue of stem cell research is politically and ethically
+charged. As a result, stem cell technology is imbued in an
+ethical conflict between human embryo research raising
+moral concerns on one hand, and the magnitude of the
+potential benefits to patients, on the other. Stem cells may
+be derived from a variety of sources, including early em-
+bryos, fetal tissue, and some adult tissues (e.g., bone marrow
+and blood).
+This review reports the state-of-the-art of cell therapy in
+SCI. First, the limit to regeneration present in the injury site,
+as well as the issues involved in cell sourcing, is detailed.
+Next, the different types of cell therapy are defined with the
+benefits and drawbacks of each type given. Methods for
+delivering cells are also discussed. Finally, suggestions are
+made for future work in developing therapies for SCI.
+Recent advances in neural injury and repair, and the prog-
+ress towards development of neuroprotective and regenera-
+tive interventions are discussed.
+Regenerative approach versus cell replacement
+strategies
+Spinal cord repair consists in axonal regeneration, in the
+restoration of former neural circuits, and eventually in the
+formation of new ones. Cell-based approaches for spinal cord
+functional repair center on two fundamental directions that are
+not mutually exclusive: restitution of white matter long tracts
+(“regenerative” approaches) and cell (i.e., neuronal or oligo-
+dendrocyte) replacement [54, 87, 186] (Fig. 2). The chal-
+lenges to obtain functional recovery are the following: (1)
+cell survival or replacement, (2) axon regeneration or growth,
+(3) correct targeting by growing axons, and (4) establishment
+of correct and functional synaptic connections. The solutions
+proposed include intraspinal transplants with fetal cells or
+progenitor cells to restore the intraspinal circuitry or to func-
+tion as relays for damaged axons. The physiologically dis-
+rupted but anatomically preserved axons can be remyelinated
+by Schwann cells, oligodendrocytes, and olfactory ensheath-
+ing cells (OECs) transplantation.
+When cell replacement is considered, stem cells can
+differentiate into neurons and form new circuits eventually
+bridging the gap on the lesion area. Nevertheless, the loss of
+neurons contributes only minimally to the functional deficits
+in SCI, as only neurons at the injured segmental level are
+lost. Cell-based therapies can substitute lost glial cells to
+some extent and provide growth-promoting factors; howev-
+er, structural and functional recovery is moderate at best
+[166]. Ideally, cell candidates for transplantation should be
+able to replace the function of astrocytes, which build the
+cellular scaffold of the spinal cord and provide guidance
+cues for regenerating axons and oligodendrocytes, which
+myelinate axons, thus allowing proper nerve conduction
+[33, 178]. We have recently obtained a good integration of
+neural precursors collected from the spinal cord of embry-
+onic day 12 (E12) mice into the lesioned spinal cord of the
+adult mouse, with the elongation of axons through several
+neuromers, emitting segmental collaterals [18] (Fig. 1c).
+Regarding the bystander role, it has been shown that
+different types of stem cells can produce and release in the
+environment trophic factors and immunomodulatory mole-
+cules [209]. Various cell types such as fibroblasts, Schwann
+cells, and OECs have been analyzed for their regenerative
+296 Neurosurg Rev (2012) 35:293–311
+potential after transplantation into the injured spinal cord
+[16, 53, 200, 208]. Successful axon regeneration requires
+that injured neurons activate a specific gene program, which
+includes activation of regulatory genes and growth-
+associated proteins needed to sustain the elongation of the
+axon stem. The expression of these genes is modulated by
+extrinsic signals issued by different sources. On one hand,
+intrinsic neuronal properties are influenced by molecular
+cues present in the axonal microenvironment. On the other
+hand, there is increasing evidence that interaction with the
+external world through sensory stimulation or physical ex-
+ercise also exerts a strong modulatory effect on neuritic
+growth and plasticity. Therefore, the growth potential of
+injured neurons (but also of their uninjured counterparts that
+may contribute to repair through circuit reorganization)
+depends on the interaction between intrinsic neuronal prop-
+erties, environmental regulatory molecules, and experience-
+related mechanisms.
+Cell replacement [113] can be achieved by transplanting
+stem cells either differentiated in vitro [94], or naïve, expected
+to differentiate in vivo [15]. Undifferentiated cells, however,
+may aim to replace different cell types such as glia as well as
+neurons. In addition to undifferentiated or progenitor neural
+stem cells, many different cell types such as genetically mod-
+ified fibroblasts, OECs, and Schwann cells have been used to
+promote axonal regeneration [109, 115, 200, 205, 224]. Func-
+tional recovery has been obtained in experimental models of
+SCI following transplantation of embryonic stem cells (ESCs)
+[129], mesenchymal stem cells (MSCs), neural stem cells
+(NSCs), and glia restricted precursor cells [18, 29, 44, 76,
+83, 89, 92, 129, 146, 200].
+Embryonic stem cell transplantation
+ESCs have the broadest potential of any true stem cell. ESCs
+are isolated from the inner cell mass of the blastocyst [62,
+131, 220], derived through in vitro fertilization [52, 126,
+183]. They (a) can replicate indefinitely without aging; (b)
+are pluripotent; i.e., can give rise to all the different types of
+cells in the body; (c) give rise to genetically normal cells;
+and (d) can be easily manipulated genetically [110]. ESCs
+can be differentiated in vitro before transplantation: culture
+in media containing Vitronectin and retinoic acid, Sonic
+hedgehog, Noggin, or SB431542 can promote oligodendro-
+cyte differentiation [57]. Therefore, ESCs can differentiate
+into functional neurons [13, 60, 95, 114, 118, 229], which
+integrate in vivo into host circuits as shown electrophysio-
+logically after transplantation [24, 71, 215]. In addition, they
+are able to differentiate into glia [23, 174], such as oligo-
+dendrocytes, capable of rapid differentiation and myelina-
+tion in mixed neuron/glial cell culture [98, 101] and which
+remyelinate and promote regeneration in the injured axons
+in SCI [131] and functional recovery [61, 106, 144, 166].
+On the other hand, ESCs have an intrinsic potential to give
+origin to teratomas after transplantation [15, 31, 173], even
+after fluorescent-activated cell sorting [35, 199, 214] during
+or after differentiation to purify the neural cells. Moreover,
+they can give rise to normal cells in the wrong place.
+Fig. 2 Regenerative approach versus cell replacement strategy. Fol-
+lowing an injury, spinal cord regeneration can be supported by stem
+cell transplantation. In particular, stem cells can stimulate a regenera-
+tive process, by delivering trophic factors (yellow dots) and immuno-
+modulatory molecules (green triangles), which can enhance axon
+sprouting [see host surviving motoneurons (pink) with axonal growth
+cones]. Alternatively, stem cells can differentiate into neurons (N) and
+integrate into the host circuits, emitting axons able to bridge the lesion
+gap; moreover, they can integrate the remaining functional glia, for
+example, differentiating into astrocytes (A), or they may remain as
+undifferentiated precursors (P)
+Neurosurg Rev (2012) 35:293–311 297
+Therefore, before transplanting ESC-derived cells, it is crit-
+ical to get rid of undifferentiated pluripotent cells, to gain
+control of ESCs, and to guide their differentiation toward
+the neural lineage. Elimination of pluripotent cells has been
+convincingly obtained by spontaneous differentiation of
+ESCs cultured at low density, followed by propagation as
+a monolayer in epidermal growth factor (EGF) and basic
+fibroblast growth factor (bFGF) [38]. ESCs in the presence
+of appropriate signaling molecules can be maintained as a
+relatively homogeneous population of stem cells. Prolonged
+differentiation protocols [22] or inhibition of proliferation
+signaling pathways by genetic manipulation [111] decreases
+the incidence of tumor formation. ESC-derived tumor for-
+mation can be also prevented by co-transplantation with
+BMSCs [127].
+Stem cells of neural origin
+NSCs can be isolated from many regions of the CNS of
+embryonic as well as adult mammals [79], and propagated
+in culture in the presence of EGF and/or bFGF as neuro-
+spheres. Neurospheres, differently to ESCs, represent hetero-
+geneous clusters of proliferating cells including stem cells,
+committed progenitors, and differentiated cells [1]. NSCs also
+seem to be restricted in the variety of neurons they can
+generate. In fact, NSCs did not give rise to motoneurons,
+whereas they could be successfully differentiated into cortical
+projection neurons [50], interneurons [175], and hippocampal
+pyramidal neurons [39]. Differentiated NSCs fully integrated
+into the host circuits, since they could be retrogradely labeled
+from the axon terminals, formed synaptic contacts, and gen-
+erated action potentials in vivo [50]. In addition to be able to
+differentiate into neurons [93, 189], they can differentiate into
+glial cells, such as astrocytes [51, 75, 219] and oligodendro-
+cytes [155, 226], and endothelial cells [223]. NSCs can protect
+against glutamate-induced excitotoxicity and secrete GDNF
+and NGF (nerve growth factor), thus promoting survival of
+injured motoneurons [117]. Embryonic neural precursors can
+integrate into host-damaged tissue, differentiate into neurons,
+astrocytes and oligodendrocytes, and promote regeneration
+and repair [69, 107], enhancing sprouting of serotonergic
+and noradrenergic fibers [18, 137].
+Organotypic cell replacement can be achieved with neu-
+ral precursors cells (NPCs). NPCs from embryonic as well
+as adult CNS tissue have the capacity for self-renewal and
+multipotency [162, 193]. After delayed transplantation of
+embryonic-derived NPCs into the injured rat spinal cord,
+differentiation into glial and neuronal lineages as well as
+modest functional improvement have been reported [68,
+129, 200]. Even though NSCs display a lower tumorigenic
+risk than ESCs, it has been reported at least in one case that
+they can give rise to brain tumor [6].
+Transplantation of neural stem cells and progenitors
+entails ethical concerns, limited availability, and need for
+immunosuppression in the host, which can be avoided by
+the isolation and expansion of autologous adult NPCs. Au-
+tologous adult NPCs transplanted into the intact spinal cord
+of adult rats survive, migrate over considerable distances,
+and differentiate into astroglial and oligodendroglial cells
+[184]. Subventricular zone-derived adult NPCs survive after
+delayed transplantation—at least 7 days post-injury—into the
+spinal cord parenchyma surrounding the injury site [28].
+Acutely injured spine area is an inhospitable CNS environ-
+ment for any cell graft, due to the release of inflammatory
+molecules and the upregulation of mediators of cell death/
+degeneration and secondary ischemic events. It has been
+proposed that neurospheres can survive in the host better than
+single cell suspensions, since cell–cell contacts remain intact
+and detrimental effects by dissociation methods are avoided
+[194]. Adult NPCs transplanted into the fluid-filled lesion
+cavity (cyst) fail to produce extracellular matrix needed to
+survive [129]. On the other hand, adult NPCs migrate and
+align along injured axon pathways caudal and rostral to the
+lesion site, suggesting that they are not sealed off by the
+surrounding host spinal cord, in contrast to other cell types
+such as fibroblasts or Schwann cells [28, 34, 49, 63, 67].
+Remyelination of host axons by neural stem cells may be
+one mechanism generating functional recovery [116]; more-
+over, stem cells can also promote regeneration, enhancing
+sprouting of descending fibers [18]. Peripheral nervous sys-
+tem (PNS) myelinating Schwann cells derived from neural
+crest-like skin-derived precursors, used for autologous graft,
+transplanted into the injured rat spinal cord, reduced contusion
+cavity size, myelinated endogenous host axons, recruited en-
+dogenous stem cells, provided a bridge across the lesion site,
+increased the size of spared tissue rim, reduced reactive glio-
+sis, and generated an environment highly permissive to axonal
+growth [150, 151]. Transplantation of Schwann cells results in
+a strong integration in the host tissue with anatomical and
+functional improvement, excepted when transplanted directly
+into lesion cavity, where they show poor survival rate [49].
+OECs surround olfactory axons and facilitate their life-
+long regeneration. They are attractive for their plasticity and
+allow axons to cross glial scars as well as the PNS–CNS
+boundary. OECs can stimulate tissue repair and neuropro-
+tection, enhance axonal regeneration and remyelination,
+activate angiogenesis, and influence the endogenous glia
+after lesion [163], even though there are contrasting reports
+probably due to the changes in their biological properties
+with increasing age and/or passage number. A recent study
+on seven patients receiving autologous OECs into the lesion
+site after chronic SCI demonstrated a variable extent of
+functional recovery, as far as restoration of bladder sensa-
+tion, voluntary anal sphincter contraction, and improved
+motor and sensory function to variable extent [157].
+298 Neurosurg Rev (2012) 35:293–311
+Bone marrow-derived cells
+Adult bone marrow is easily accessible, containing both
+hematopoietic stem cells (HSC) and bone marrow MSCs,
+and their usage does not imply the ethical concerns associ-
+ated with ES cells. In fact, they can be collected from the
+patient himself or from donors following informed consent.
+Rodent HSCs transplanted into mice with compression
+SCI generate oligodendrocytes, resulting in significant func-
+tional recovery of hindlimb function and general locomotion
+[3]. As neural differentiation of HSCs is controversial, they
+are thought to impart beneficial neuroprotective and/or immu-
+nomodulatory effects by releasing growth or anti-inflammatory
+factors [40, 145, 190].
+Azizi et al. [7] infused rat brains with human marrow
+stromal cells/MSCs, capable of expansion, self-renewal, and
+differentiation into several different cell lineages. Their mi-
+gration into the brain resembles that of paraventricular astro-
+cytes, but whether the cells adopt neural cell fates remains
+uncertain. Several studies have suggested that MSCs, like
+bone marrow mononuclear cells and umbilical cord cells,
+may generate neurons both in vitro and in vivo. Nevertheless,
+these conclusions have been drawn mostly on morphological
+criteria in vitro [46, 221] and in vivo on studies employing
+transferable labels [100, 140, 185], without electrophysiolog-
+ical evidence [122]. Therefore, these studies have been chal-
+lenged [25, 41, 121, 195]. More recently, the appearance of
+neuronal-like MSCs has been ascribed to a process of cell
+fusion rather than that of transdifferentiation [222]. Neverthe-
+less, cell fusion is probably very rare, and the acquisition of
+neural antigens by MSCs might simply reflect their extreme
+immaturity and their undetermined fate [47, 70, 122].
+On the other hand, MSCs, which are currently used in
+association with HSCs in order to decrease immunoreaction
+in the host, have an anti-inflammatory potential, i.e., de-
+crease microglia and astroglia activation, and their usage in
+diseases of the nervous system has a positive functional
+outcome [70, 143]. Recently, MSCs have been transplanted
+into the injured spinal cord, either embedded in a polymer or
+by lumbar puncture, associated with neurotrophic factor
+such as IL-6, brain-derived growth factor (BDNF), NGF,
+vascular endothelial growth factor (VEGF), and
+neurotrophin-3 (NT-3) [42, 81, 103, 108, 122, 135, 142,
+167, 207], with promising results in terms of functional
+outcome [8, 99, 210, 217]. MSCs probably display their
+action by modulating inflammatory response to the insult
+and providing trophic factors for neurons and regenerating
+fibers. Transplantation and intravenous injection of bone
+marrow cells, and especially MSCs, has been repeatedly
+shown to significantly improve locomotion and hindlimb
+sensitivity after contusion, hemisection, and compression
+SCI in mice and rats compared with controls, with an
+increase in spared white matter in treated animals. The
+mechanisms of action underlying these benefits are only
+beginning to be understood [218].
+In our experience, MSCs were able to survive for a long
+time into the injured spinal cord, promoting sprouting of
+raphespinal axons and functional recovery of motor behav-
+ior, probably acting as biologic minipumps able to deliver
+trophic factors and immunomodulatory molecules [18]. Fur-
+thermore, such ability could be exploited by transfecting
+MSCs to produce and release constantly neurotrophic fac-
+tors, thus providing a continuous and in loco source with
+neuroprotective effects [9, 70, 153].
+MSCs migrate toward injury-associated signals in vitro,
+attracted by cytokines and chemokines [136, 156, 188]. Not-
+withstanding the rather poor survival of MSCs following
+transplantation into the brain [41], endovenous administration
+of MSCs lead to significant functional improvement in a
+cerebral ischemia model [78], making unclear their mecha-
+nism of action. Nevertheless, the therapeutic potential of
+MSCs is currently being investigated in several clinical trials
+for neural diseases [58]. To this aim, accurate pre-
+transplantation analyses should be carried such as demonstra-
+tion of a normal karyotype. In fact, even though MSCs are
+thought to be potentially free from side effects, malignant
+transformation has been found after extended culture in vitro
+both for mouse [138, 202] and human [170, 182]. Their
+uncontrolled proliferation could be further supported in vivo
+by their immunosuppressive properties [48, 171, 233].
+Another bone marrow-derived stem cell population,
+called multipotent adult progenitor cells (MAPCs), has been
+described displaying greater potential than MSCs [84, 161].
+In vitro MAPCs can give rise to functional cell types from
+the three embryonic germ layers, including functional neu-
+ronal cells [168, 179, 181, 228]. Zhao et al. [232] have
+employed MAPCs in a rodent model of stroke, showing a
+behavioral function improvement, even if there is no evi-
+dence for their neural differentiation in vivo [25].
+In conclusion, bone marrow-derived cells have been the
+focus of a significant debate in stem cell biology pertaining
+to whether stem cells can transdifferentiate. Some studies
+have shown MSC differentiation to oligodendrocytes after
+implantation, whereas others demonstrated the cells only to
+localize to Schwann and oligodendrocyte cells post-
+transplantation. Other studies detected no transdifferentia-
+tion, even though functional improvement was noted. In
+vivo differentiation to highly pure neural populations has
+not been clearly documented; however, some ex vivo bone
+marrow-derived cells have been shown to express neuronal
+and oligodendroglial markers [9, 218].
+Ex vivo transdifferentiated cells
+A recent innovative approach in regenerative medicine is
+represented by ex vivo transdifferentiated cells, consisting in
+Neurosurg Rev (2012) 35:293–311 299
+reprogramming somatic cells (e.g., fibroblasts) by inserting
+some transcription factors (OCT4, SOX2, KLF4, and
+MYC), thus obtaining the so-called induced pluripotent
+stem cells (iPSCs). These factors play a specific role in
+maintaining cellular pluripotency, assuring the typical mor-
+phology, growth properties, and genetic features of ESCs,
+and allowing the differentiation into endoderm, mesoderm,
+and ectoderm germ layers [196].
+Moreover, there are both advantages and disadvantages
+relative to iPSCs: in fact, their use circumvents many ethical
+issues generally related to ESCs, but similarly to ESCs, they
+can cause teratomas, specific embryonic tumors composed
+by different cell types [111]. Indeed, this problem is related
+to their pluripotency; therefore, the aim is now to induce a
+partial cell commitment: new techniques allow to reduce the
+number of employed transcriptional factors and chemicals,
+generating partially reprogrammed iPSCs able to self-renew
+and differentiate into specific cell lineages, or aberrantly
+reprogrammed cells that can only self-renew [225].
+A valid alternative consists in differentiating in vitro
+iPSCs into neural precursors, successfully obtaining neurons
+and glial cells: when transplanted in the murine brain, iPSCs
+gave rise to glutamatergic, GABAergic, and catecholamin-
+ergic neurons [216]: in addition, to limit the teratoma for-
+mation, authors have separated the undifferentiated cells,
+representing a limited contaminating population, from com-
+mitted neural cells.
+Hence, before using iPSCs in clinical trials, it is funda-
+mental to evaluate their safety and their efficacy. Tsuji et al.
+[204] have already transplanted neurospheres obtained from
+iPSCs into injured murine spinal cords, showing a consis-
+tent functional recovery due to remyelination and serotonin-
+ergic fiber regrowth.
+Finally, a consistent advantage from iPSC use consists in
+that cells can be obtained directly from patients and expanded,
+eliminating graft rejection problems.
+Co-transplantation of different stem cell types
+As mentioned, every stem cell type entails both advantages
+and disadvantages: ESCs, even though totipotent, imply
+ethical problems and can give rise to tumors; on the other
+hand, adult stem cells are easily obtained from many tissues
+and are safe (e.g., MSCs are already employed in several
+clinical trials for hematological pathologies, heart/vascular
+diseases, osteogenesis imperfecta, and amyotrophic lateral
+sclerosis), even though they are more restricted in their
+differentiation potential than ESCs [59, 65].
+A promising approach can consist in co-transplanting dif-
+ferent stem cell types: in fact, some authors have already
+demonstrated the synergistic effects obtained by combined
+graft of stem cells. For example, Zhang et al. [231] co-
+transplanted in a rat-transected spinal cord NSCs and
+Schwann cells transfected with adenoviral vectors carrying
+human NT-3, observing functional recovery due to axonal
+regeneration, remyelination, and neuron survival. Similarly,
+Wang et al. [213] have employed a stem cell cocktail (NSCs
+and OECs) in a rat-injured spinal cord, obtaining locomotor
+recovery, and NSC differentiation into neural cells and the
+regeneration of nerve fibers crossing the lesion site from
+OECs. Therefore, co-transplanted stem cells have a synergis-
+tic effect, mutually acting on neural regeneration and on
+behavioral recovery: indeed, co-transplantation seems more
+effective than a single cell type graft. It is also possible to
+exploit the MSC characteristics, in terms of homing, delivery
+of trophic factors, immunosuppressive properties, to enhance
+the integration of other stem cells, such as neural/embryonic
+stem cells into the injured CNS.
+Recently, MSCs have been injected with embryonic-
+derived oligodendrocyte progenitor cells (OPCs) in dysmye-
+linated mice, obtaining the enhancement of OPC survival
+and their oligodendroglial maturation, in addition to modu-
+lating neuroinflammation [43].
+Proteomics of stem cells
+Due to their enormous potential, stem cells are investigated
+in many molecular profiling studies in order to find new
+markers and regulatory pathways governing their self-
+renewal and differentiation. Neuroproteomics represents
+the most recent approach to study the nervous system pro-
+teome: in fact, techniques like microarrays, two-dimensional
+gel electrophoresis, mass spectrometry, and protein arrays
+for proteomic analysis allow to monitor the changes in gene
+or protein expression of a variety of different molecules
+[11].
+First of all, gene expression profiling stem cells at differ-
+ent stages of differentiation is very important to define and
+characterize the cells which are harvested, cultured, expand-
+ed, and finally transplanted. Some “stemness” genes specif-
+ically expressed in ES cells and involved in maintaining
+pluripotency and self-renewal, such as Oct-3/4, Sox-2, and
+UTF-1, can be identified [14]. On the other hand, Wang and
+Gao [211] identified 23 proteins with changing expression
+levels or phosphorylation states after neural differentiation
+of murine ESCs: in particular, translationally controlled
+tumor protein (TCTP) is downregulated and alpha-tubulin
+upregulated, suggesting a role of TCTP in modulating neu-
+ral differentiation through binding to Ca(2+), tubulin, and
+Na,K-ATPase. Differentiation of fetal NSCs into neural cells
+is accompanied by changes in the expression of proteins
+involved in DNA and RNA binding (hnRNPs A1, A2/B,
+and H), iron storage (Ferritin L subunit), redox regulation
+(Protein DJ-1), mRNA processing, and transport (hnRNPH
+and hnRNP A1) [187]. Seven proteins increase their
+300 Neurosurg Rev (2012) 35:293–311
+expression, and one (HS90B, a tumor-specific transplanta-
+tion antigen) decreases in the transition from ES cells to NS
+cells, whereas eight decrease their expression from NS cells
+to neurons [2]: therefore, protein synthesis and folding,
+oxidoreduction, signal transduction, and changes in the cy-
+toskeleton are upregulated in the transition from ES cells to
+NS cells, and protein synthesis and folding, oxidoreduction,
+and signal transduction are downregulated in that from NS
+cells to neurons.
+Proteomics can represent a resource for the treatment of
+neurodegenerative diseases. Transplanted stem cells and the
+injured environment following ischemia or nerve injury can
+be analyzed by (1) studying the expression of growth and
+neurotrophic factors secreted at the injury site, such as
+insulin growth factor-1, VEGF-A, transforming growth
+factor-beta1, brain-derived neurotrophic factor, stromal de-
+rived factor-1 alpha, and NGF; and (2) evaluating the pos-
+sible interaction between stem cells and the environment
+[30, 42].
+Stem cells, either constitutionally or upon stimulation by
+the injured environment, can change their pattern of expres-
+sion and secrete neurotrophic and/or immunomodulatory
+molecules. MSCs display immunological, reparative, and
+anti-inflammatory properties, making them a promising tool
+in approaches of regenerative cell therapy. MSCs are able to
+secrete several bioactive molecules with trophic (stem cell
+factor SCF, leukemia inhibitory factor LIF, macrophage
+colony-stimulating factor M-CSF, NGF, and NT-3), immu-
+nomodulatory (prostaglandin E2 PGE-2, transforming
+growth factor-beta1 TGF-β1, and LIF), anti-apoptotic, and
+angiogenetic (VEGF, bFGF, interleukin 6 IL-6, and insulin-
+like growth factor-1 IGF-1) properties, fundamental in lead-
+ing to tissue repair at sites of injury [122, 125, 134, 142]. In
+a microarray study, the global transcriptional profile of
+mouse MSCs puts in evidence secreted proteins that play a
+role within the HSC niche such as fibronectin-1 (Fn1),
+osteopontin (Spp1), chemokine C-X-C motif ligand-12
+(Cxcl12), thrombospondin-1 (Thbs1), thrombospondin-2
+(Thbs2), transforming growth factor-β2 (Tgfb2),
+angiopoietin-1 (Angpt1), insulin-like growth factor binding
+protein-4 (Igfbp4), fibroblast growth factor-7 (Fgf7), secret-
+ed frizzled-related protein-1 (Sfrp1), secreted frizzled-
+related protein-2 (Sfrp2), dickkopf-3 (Dkk3), vascular cell
+adhesion molecule-1 (Vcam1), and bone morphogenetic
+protein receptor type 1a (Bmpr1a) [154]. Therefore, MSCs
+express a variety of genes, some of which they share with
+other cell types, and some are specific. The result is the
+expression of a cocktail of proteins that can modulate im-
+mune system, modulate microglia activation and astroglio-
+sis, and provide trophic support for neuron survival and
+axonal growth.
+Neuroprotection can be provided also by neural stem/
+progenitor cells: they can interfere with production of free
+radicals and increase the expression of neuroprotective fac-
+tors by secretion of ciliary neurotrophic factor and VEGF
+[123, 128]. Neural stem cells show also immunomodulatory
+potential, determining a bystander inhibitory effect on T cell
+activation and proliferation in lymph nodes [12].
+Finally, embryonic stem cells are able to deliver several
+factors (hepatocyte growth factor, TGF beta, and BDNF) that
+can act both locally and systemically, promoting biological
+repair and regeneration; moreover, when transplanted, they
+can establish synergistic interactions with endogenous adult
+stem cells, enhancing in this way tissue regeneration [74, 117,
+119, 230].
+Indeed, the study of the reciprocal influences of the
+lesioned environment and the transplanted stem cells at a
+proteomic level is drawing an increasing interest: the func-
+tional roles of neuroproteoma can represent a powerful tool
+in regenerative medicine.
+Usage of genetically modified stem cells
+Genetically modified cells include fibroblasts, Schwann cells,
+macrophages, ES cells, OECs, MSCs, and NSCs: i.e., all cell
+types tested for cell therapy have been genetically modified to
+enhance their therapeutic potential. For genetic modification,
+retroviral vectors provide a stable and safe means to modify
+cells to express high levels of neurotrophic factors without the
+expression of wild-type viral genes [17].
+Gene therapy can provide injured axons and neurons with
+a local source of trophic molecules to stimulate neuronal
+survival and possibly axonal growth [17]. The expression of
+receptors for neurotrophic factors and their pleiotropic
+effects on different neuronal and glial cell types makes it
+necessary to target trophic molecules to either a specific
+subpopulation of neurons or to the injury site itself and its
+immediate proximity.
+NT-3 genetically modified cells grafted into the lesioned
+spinal cord provide not only trophic molecules at the injury
+site but also support axonal growth: moreover, they can
+provide “bridges” for growing axons to potentially connect
+injured spinal cord “stumps” [63].
+Genetically modified cells producing BDNF and/or neuro-
+trophin (NT)-4/5 have been investigated in several studies.
+After midthoracic dorsal hemisection lesions, increased
+growth of primary sensory, noradrenergic coerulospinal, and
+motor axons into BDNF- and NT-4/5-secreting fibroblast
+grafts was observed. BDNF-mediated growth responses of
+sensory and cholinergic axons were also found after midthora-
+cic contusion injuries [135].
+Growth of raphespinal and coerulospinal axons following
+BDNF delivery have also been reported, but its extent varies
+from study to study, perhaps depending on differences in the
+type or site of SCI, in the quality and extent of BDNF
+Neurosurg Rev (2012) 35:293–311 301
+delivery, and in the cells which vehicle BDNF gene delivery
+[135]. Following complete transection at the midthoracic
+spinal cord, placement of Schwann cell grafts and infusions
+of BDNF and NT-3 induced some growth of coerulospinal
+and raphespinal axons [224]. Similar results were obtained
+using grafts of Schwann cells genetically modified to secrete
+BDNF [135]. Growth factors can also serve to coax sprout-
+ing axons to cross the gap across the lesion. Once regener-
+ation is stimulated, molecules that provide directional cues
+are critical for routing axons to their correct targets [178].
+When different growth factors were used in combination
+(for example, BDNF and GDNF), they resulted in signifi-
+cant reduction of motor dysfunction and spinal cord pathol-
+ogy. However, transplantation of fibroblasts genetically
+modified to produce neurotrophic factors BDNF or NT-3
+onto rat spinal lesion did not show advantage in sensorimo-
+tor recovery to either grafting with gelfoam or gelfoam plus
+fibroblasts, in addition to increase thermal hyperalgesia [77,
+102, 167].
+Genetically engineered fibroblasts secreting NGF can
+stimulate axons to regenerate into the center of an injury
+when implanted in this region [87, 91, 206], although this
+sprouting remains within the area of trophic support and
+does not lead to long distance functional regeneration. In-
+trathecally delivered NT-3, NGF, and GDNF can promote
+axonal regeneration across the dorsal root entry zone [158,
+159], and glial overexpression of NGF can stimulate regen-
+eration of nociceptive axons from the dorsal roots which in
+some circumstances may lead to thermal hyperalgesia [165,
+198].
+More recently, in order to achieve axonal growth, Ham-
+ada's [66] group has transfected ES cells with the MASH1
+gene, yielding purified spinal motoneuron precursors defi-
+cient in the expression of Nogo receptor: after graft on
+spinal cord-injured mice, animals showed excellent im-
+provement of the motor functions, confirmed by electro-
+physiological studies.
+Moreover, combination therapy such as treatment with
+NT-3 and cAMP together to stimulate neuronal cell bodies
+has been shown to allow regeneration beyond the lesion site
+of spinal injuries [120], suggesting that the use of multiple
+simultaneous approaches to this complex problem may
+prove important when constructing future strategies for im-
+proving rehabilitation and functional recovery.
+Implantable scaffolds
+As discussed above, the glial scar represents the main barrier
+to axon regeneration at the injury site [186]. Even though
+stem cells can penetrate the lesion cavity and establish a
+permissive environment to axonal growth, this potential is
+limited by many other inhibitory factors [129, 177]. An
+innovative means for delivering stem cells to the injury site
+and promoting axonal growth consists in seeding stem cells
+into scaffolds which support regenerating axons.
+A variety of materials has been evaluated to this aim
+[124]. One consists in fibrin, due to its biocompatibility,
+biodegradability, flexibility, and plasticity [201]. Alone, fi-
+brin promotes regeneration and delays accumulation of re-
+active astrocytes at the lesion site [86]. Alternatively, fibrin,
+enriched with stem cells—usually bone marrow stem cells
+(BMSCs) or NP—and/or growth factors—such as NT-3,
+NGF, and platelet-derived growth factor—improves surviv-
+al, differentiation, and migration of grafted cells, as well as
+it determines an increase in neural fiber density [82, 85,
+234]. Other natural polymers find extensive use in SCI
+treatment, such as collagen and hyaluronic acid, due to their
+elasticity, support to cell adhesion and migration, and time
+of degradation: in fact, the implantation of these scaffolds
+with or without stem cells creates a favorable environment
+for nerve regeneration, significantly improving the recovery
+of locomotor and sensory functions [152, 212]. NVR-N-Gel
+(biodegradable co-polymer neurotube containing viscous
+gel) is a crosslinked hyaluronic acid with the adhesive
+molecule laminin, and growth factors [164]. Time of degra-
+dation is important in order to be progressively replaced by
+the matrix produced from transplanted and host cells. When
+drug or neurotrophic factors were loaded in a polymer nano-
+carrier, this system can reduce neuroinflammation in acute
+stage [36] and support the axonal outgrowth and the synap-
+tic reconnection in the delayed phase [192].
+In alternative to natural scaffolds, synthetic polymers
+allow a wider control of chemical and physical character-
+istics of the material, even succeeding to mimic the structure
+of white and grey matter found in the uninjured spinal cord.
+They consist of biodegradable hydrogels [polyester of lactic
+acid (PLA), polyester of glycolic acid (PGA), and polyeth-
+ylene glycol (PEG)] or non-biodegradable hydrogels,
+methacrylate-based. The delivery of NSCs and Schwann
+cells via PGA scaffold enhances their growth-promoting
+properties on axons across the transected spinal cord
+[149]. These results have been confirmed both by histolog-
+ical analysis in terms of reduction of lost tissue and dimin-
+ished glial scarring, and behavioral assessment in terms of
+coordinated, weight-bearing, and hindlimb stepping [200].
+Moreover, other promising scaffolds such as poly(N-isopro-
+pylacrylamide)-co-poly(ethylene glycol) (PNIPAAm-
+PEG) and HPMA-RGD hydrogels [N-(2-hydroxypropyl)-
+methacrylamide with attached amino acid sequences-Arg-
+Gly-Asp], seeded with MSCs, have obtained positive results
+in SCI [37, 73].
+Finally, as reviewed by Madigan [124], the scaffolds
+seem to support stem cell differentiation, especially fibrin
+scaffolds. Therefore, combining scaffolds with cell trans-
+plantation represents a promising alternative to injection
+302 Neurosurg Rev (2012) 35:293–311
+methods, since such scaffolds not only support regener-
+ation but also enhance cell survival after transplantation
+and promote differentiation into desired phenotypes. On
+the other hand, non-biodegradable biomaterial-based
+treatment can cause a chronic compression of regenerat-
+ing axons, and the transplant site can act as a sink,
+precluding sprouting to escape and reconnect with the host
+spinal cord.
+Clinical trials
+Most in vivo studies relative to therapy of SCI are performed
+in rodents. There are, however, many species specificities
+when compared to humans, for example, in the anatomy of
+motor pathways and behavior. Therefore, although prelimi-
+nary studies in animals are necessary and fundamental, re-
+search on SCI should aim to trials in humans.
+In a clinical trial in 2004, intravenous injection of autolo-
+gous BMSCs resulted in a significant improvement, from
+American Spinal Injury Association score B to D, in only
+one over nine SCI patients [160]; however, BMSCs were well
+tolerated during the observation period. A phase I study
+established safety in acute complete SCI: of eight enrolled
+ASIAA patients, two improved to ASIA C after 6 months and
+three to ASIA C after 1 year, with some bladder recovery [97].
+In the first cell-based therapy for acute complete SCI multi-
+center randomized controlled phase II study (ProCord), en-
+rolling only patients with complete SCI, treated macrophages
+promoted recovery from SCI [97]. Phase II was stopped when
+Proneuron Biotechnologies, Inc. (Los Angeles, CA, USA),
+the parent company, found that most patients had undergone
+surgery twice, a first time for biomechanical stabilization, and
+a second, approximately 2 weeks post-injury, concomitantly
+with macrophage injection. In addition, surgeons had some
+difficulties to accurately identify the border of the lesion
+where activated macrophages were to be injected.
+It has also been suggested that delivery of autologous
+BM precursors via lumbar puncture or activated macro-
+phages into the CNS might be an acceptable alternative to
+the intravenous administration [5, 27, 97]. A phase I/II
+nonrandomized study, using autologous BMCs injection
+into the perilesional area at different time points post-
+injury (within 14 days, between 15 days and 8 weeks, and
+after 8 weeks) in 35 patients with complete SCI, combined
+with administration of GMCS-F (granulocyte macrophage
+colony-stimulating factor), obtained an improvement in the
+American Spinal Injury Association Impairment Scale (AIS)
+impairment scale grade in 30% of patients (from A to B
+or C) compared to controls [227]. Whereas no side
+effects at a 10-month follow-up are reported, neuropath-
+ic pain during the treatment and tumor formation at the
+site of transplantation still remain to be investigated in
+the long term [227].
+Other studies tested the inflammatory microenvironment
+before stem cell administration. Patients first underwent
+intravenous injection of autoimmune T cells. NSCs, trans-
+differentiated from BMSC in culture with autologous auto-
+immune T cells, were injected into the lesion site of two
+patients with chronic SCI, demonstrating some level of
+motor and sensory recovery [139]. In another preliminary
+safety trial in 2006, safety, feasibility, and good tolerance of
+HSC transplantation via lumbar puncture were demonstrat-
+ed in a group of ten patients [139].
+Finally, olfactory mucosa autografts into the SCI lesion
+succeeded to fill the site and trigger some functional recov-
+ery [112]. In another study [80], olfactory bulb derived from
+aborted fetuses was transplanted, but the short follow-up
+precluded any conclusion.
+Clinical trials basically showed the safety of the transplan-
+tation procedures. The benefit of cell replacement therapy
+however can only be established by further clinical phase II/
+III trials. Actually, the variable and sometimes inconclusive
+findings from human trials would argue that a better under-
+standing of the biological mechanisms and potential of cell
+replacement therapies in animal injury models must be
+obtained before clinical translation. Even a stem cell-based
+therapeutic strategy eventually successful in clinical trials still
+faces practical issues to be translated to the clinical practice. It
+must be made easily accessible for hospitals, and this ideally
+includes the availability of cell banks and the possibility to
+distribute stem cells. This is an exciting but not immediately
+actual scenario. Regulatory organizations such as Food and
+Drug Administration will guide the translation of stem cells
+therapy for SCI in animals to human trials. Companies,
+researchers, and patients should be aware of the regulatory
+issues that must be addressed before starting human experi-
+mental trials because of some special concerns: (a) the spinal
+cord is site sensitive and dangerous; (b) stem cell therapy is a
+new treatment and entails a number of complex issues, such as
+toxicities, risk for tumorigenicity, and interactions of cells
+with drugs; and (c) clinical deficit could be worsened by
+inappropriate stem cell differentiation. Operating procedures
+must be compiled to standardize (a) the inclusion criteria and
+potential benefits of participating in the trials with stem cells,
+since patients have done all therapeutic alternatives, (b) in-
+formed consent, (c) the methods in preparing and delivering
+cells, (d) equipment and surgical approach, and (e) evaluation
+in the follow-up.
+Conclusion
+Although we may never be able to “regrow” large areas of
+spinal cord injured, stem cell technology is a rapidly
+Neurosurg Rev (2012) 35:293–311 303
+evolving field that will impact the future treatment of SCI,
+exploiting both limited CNS neurogenesis and exogenous
+stem cells complementary advantages. Transplantation of
+stem cells represents an important new approach to manag-
+ing SCI. Improvements in molecular and microscopic tech-
+niques along with the availability of modified stem cell lines
+have accelerated research into stem cell transplantation. The
+fact that functional gains have been demonstrated in animal
+models after delivery of cells of both neural and non-neural
+origin in preclinical models of CNS injury is encouraging.
+Nevertheless, caution is necessary to ensure the highest
+standards of safety and scientific method as this exciting
+field moves forward. Cell-based therapy in SCI had the goal
+to (1) replace new neurons that die within the first minutes
+to days after injury, (2) provide a source of cells to
+promote remyelination and axonal sprouting, and (3)
+deliver trophic molecules that can promote cellular protection
+and plasticity.
+In order to apply these techniques, however, it is critical
+that we continuously consider that patients might benefit
+from additional treatment. Work from multiple labs is sug-
+gesting that the cell's microenvironment is important in
+establishing the sequence of what cells will and will not
+do, particularly in vitro systems. With this combination of
+expertise, and with important links to national resources, the
+hope is to quickly translate basic science studies into clinical
+trials, avoiding the usual roadblock between the two areas of
+endeavor.
+References
+1. Ahmed S (2009) The culture of neural stem cells. J Cell Biochem
+106(1):1–6
+2. Akama K, Tatsuno R, Otsu M, Horikoshi T, Nakayama T,
+Nakamura M, Toda T, Inoue N (2008) Proteomic identification of
+differentially expressed genes in mouse neural stem cells and neu-
+rons differentiated from embryonic stem cells in vitro. Biochim
+Biophys Acta 1784(5):773–782
+3. Akiyama Y, Radtke C, Kocsis JD (2002) Remyelination of the rat
+spinal cord by transplantation of identified bone marrow stromal
+cells. J Neurosci 22(15):6623–6630
+4. Alexander JK, Popovich PG (2009) Neuroinflammation in spinal
+cord injury: therapeutic targets for neuroprotection and regenera-
+tion. Prog Brain Res 175:125–137
+5. Amador MJ, Guest JD (2005) An appraisal of ongoing experi-
+mental procedures in human spinal cord injury. J Neurol Phys
+Ther 29(2):70–86
+6. Amariglio N, Hirshberg A, Scheithauer BW, Cohen Y, Loewenthal
+R, Trakhtenbrot L, Paz N, Koren-Michowitz M, Waldman D,
+Leider-Trejo L, Toren A, Constantini S, Rechavi G (2009) Donor-
+derived brain tumor following neural stem cell transplantation in an
+ataxia telangiectasia patient. PLoS Med 6(2):e1000029
+7. Azizi SA, Stokes D, Augelli BJ, DiGirolamo C, Prockop DJ
+(1998) Engraftment and migration of human bone marrow stro-
+mal cells implanted in the brains of albino rats—similarities to
+astrocyte grafts. Proc Natl Acad Sci U S A 95(7):3908–3913
+8. Bakshi A, Barshinger AL, Swanger SA, Madhavani V, Shumsky
+JS, Neuhuber B, Fischer I (2006) Lumbar puncture delivery of
+bone marrow stromal cells in spinal cord contusion: a novel
+method for minimally invasive cell transplantation. J Neuro-
+trauma 23(1):55–65
+9. Bareyre FM (2008) Neuronal repair and replacement in spinal
+cord injury. J Neurol Sci 265(1–2):63–72
+10. Barritt AW, Davies M, Marchand F, Hartley R, Grist J, Yip P,
+McMahon SB, Bradbury EJ (2006) Chondroitinase ABC pro-
+motes sprouting of intact and injured spinal systems after spinal
+cord injury. J Neurosci 26:10856–10867
+11. Bayés A, Grant SG (2009) Neuroproteomics: understanding the
+molecular organization and complexity of the brain. Nat Rev
+Neurosci 10(9):635–646
+12. Ben-Hur T (2008) Immunomodulation by neural stem cells. J
+Neurol Sci 265(1–2):102–104
+13. Benninger F, Beck H, Wernig M, Tucker KL, Brüstle O, Scheffler
+B (2003) Functional integration of embryonic stem cell-derived
+neurons in hippocampal slice cultures. J Neurosci 23(18):7075–
+7083
+14. Bhattacharya B, Puri S, Puri RK (2009) A review of gene ex-
+pression profiling of human embryonic stem cell lines and their
+differentiated progeny. Curr Stem Cell Res Ther 4(2):98–106
+15. Bjorklund LM, Sánchez-Pernaute R, Chung S, Andersson T, Chen
+IY, McNaught KS, Brownell AL, Jenkins BG, Wahlestedt C, Kim
+KS, Isacson O (2002) Embryonic stem cells develop into functional
+dopaminergic neurons after transplantation in a Parkinson rat model.
+Proc Natl Acad Sci U S A 99(4):2344–2349
+16. Blakemore WF (1984) Limited remyelination of CNS axons by
+Schwann cells transplanted into the sub-arachnoid space. J Neu-
+rol Sci 64:265–276
+17. Blesch A, Grill RJ, Tuszynski MH (1998) Neurotrophin gene
+therapy in CNS models of trauma and degeneration. Prog Brain
+Res 117:473–484
+18. Boido M, Rupa R, Garbossa D, Fontanella M, Ducati A, Vercelli
+A (2009) Embryonic and adult stem cells promote raphespinal
+axon outgrowth and improve functional outcome following spinal
+hemisection in mice. Eur J Neurosci 30(5):833–846
+19. Boido M, Garbossa D, Vercelli A (2011) Early graft of neural
+precursors in spinal cord compression reduces glial cyst and
+improves function. J Neurosurg Spine 15(1):97–106
+20. Bovolenta P, Fernaud-Espinosa I, Mendez-Otero R, Nieto-
+Sampedro M (1997) Neurite outgrowth inhibitor of gliotic brain
+tissue. Mode of action and cellular localization, studied with
+specific monoclonal antibodies. Eur J Neurosci 9:977–989
+21. Bradbury EJ, Moon LD, Popat RJ, King VR, Bennet GS, Patel
+PN, Fawcett JW, McMahon SB (2002) Chondroitinase ABC
+promotes functional recovery after spinal cord injury. Nature
+416:636–640
+22. Brederlau A, Correia AS, Anisimov SV, Elmi M, Paul G, Roybon
+L, Morizane A, Bergquist F, Riebe I, Nannmark U, Carta M,
+Hanse E, Takahashi J, Sasai Y, Funa K, Brundin P, Eriksson PS,
+Li JY (2006) Transplantation of human embryonic stem cell-
+derived cells to a rat model of Parkinson's disease: effect of in
+vitro differentiation on graft survival and teratoma formation.
+Stem Cells 24(6):1433–1440
+23. Brüstle O, Jones KN, Learish RD, Karram K, Choudhary K,
+Wiestler OD, Duncan ID, McKay RD (1999) Embryonic stem
+cell-derived glial precursors—a source of myelinating trans-
+plants. Science 285:754–756
+24. Brüstle O, Spiro AC, Karram K, Choudhary K, Okabe S, McKay
+RD (1997) In vitro-generated neural precursors participate in
+mammalian brain development. Proc Natl Acad Sci USA
+94:14809–14814
+25. Burns TC, Ortiz-González XR, Gutiérrez-Pérez M, Keene CD,
+Sharda R, Demorest BZL, Jiang Y, Nelson-Holte M, Soriano M,
+304 Neurosurg Rev (2012) 35:293–311
+Nakagawa Y, Luquin MR, Garcia-Verdugo JM, Prósper F, Low
+WC, Verfaillie CM (2006) Thymidine analogs are transferred
+from prelabeled donor to host cells in the central nervous system
+after transplantation: a word of caution. Stem Cells 24(4):1121–
+1127
+26. Cafferty WB, Yang SH, Duffy PJ, Li S, Strittmatter SM (2007)
+Functional axonal regeneration through astrocytic scar genetical-
+ly modified to digest chondroitin sulfate proteoglycans. J Neuro-
+sci 27:2176–2185
+27. Callera F, do Nascimento RX (2006) Delivery of autologous bone
+marrow precursor cells into the spinal cord via lumbar puncture
+technique in patients with spinal cord injury: a preliminary safety
+study. Exp Hematol 34(2):130–131
+28. Cao QL, Zhang YP, Howard RM, Walters WM, Tsoulfas P,
+Whittemore SR (2001) Pluripotent stem cells engrafted into the
+normal or lesioned adult rat spinal cord are restricted to a glial
+lineage. Exp Neurol 167:48–58
+29. Cao Q, Xu XM, Devries WH, Enzmann GU, Ping P, Tsoulfas P,
+Wood PM, Bunge MB, Whittemore SR (2005) Functional recov-
+ery in traumatic spinal cord injury after transplantation of
+multineurotrophin-expressing glial-restricted precursor cells. J
+Neurosci 25(30):6947–6957
+30. Capone C, Frigerio S, Fumagalli S, Gelati M, Principato MC,
+Storini C, Montinaro M, Kraftsik R, De Curtis M, Parati E, De
+Simoni MG (2007) Neurosphere-derived cells exert a neuropro-
+tective action by changing the ischemic microenvironment. PLoS
+One 2(4):e373
+31. Carson CT, Aigner S, Gage FH (2006) Stem cells: the good, bad
+and barely in control. Nat Med 12(11):1237–1238
+32. Chen SW, Xie YF (2009) Glial implications in transplantation
+therapy of spinal cord injury. Chin J Traumatol 12(1):55–61
+33. Chopp M, Li Y (2002) Treatment of neural injury with marrow
+stromal cells. Lancet Neurol 1(2):92–100
+34. Chow SY, Moul J, Tobias CA, Himes BT, Liu Y, Obrocka
+M, Hodge L, Tessler A, Fischer I (2000) Characterization
+and intraspinal grafting of EGF/bFGF-dependent neuro-
+spheres derived from embryonic rat spinal cord. Brain Res
+874:87–106
+35. Chung S, Shin BS, Hedlund E, Pruszak J, Ferree A, Kang UJ,
+Isacson O, Kim KS (2006) Genetic selection of sox1GFP-
+expressing neural precursors removes residual tumorigenic plu-
+ripotent stem cells and attenuates tumor formation after transplan-
+tation. J Neurochem 97(5):1467–1480
+36. Chvatal SA, Kim YT, Bratt-Leal AM, Lee H, Bellamkonda RV
+(2008) Spatial distribution and acute anti-inflammatory effects of
+methylprednisolone after sustained local delivery to the contused
+spinal cord. Biomaterials 29(12):1967–1975
+37. Comolli N, Neuhuber B, Fischer I, Lowman A (2009) In vitro
+analysis of PNIPAAm-PEG, a novel, injectable scaffold for spinal
+cord repair. Acta Biomater 5(4):1046–1055
+38. Conti L, Cattaneo E (2005) Controlling neural stem cell division
+within the adult subventricular zone: an APPealing job. Trends
+Neurosci 28(2):57–59
+39. Corti S, Locatelli F, Papadimitriou D, Donadoni C, Del Bo R,
+Fortunato F, Strazzer S, Salani S, Bresolin N, Comi GP (2005)
+Multipotentiality, homing properties, and pyramidal neurogenesis
+of CNS-derived LeX(ssea-1)+/CXCR4+ stem cells. FASEB J 19
+(13):1860–1862
+40. Coutts M, Keirstead HS (2008) Stem cells for the treatment of
+spinal cord injury. Exp Neurol 209(2):368–377
+41. Coyne TM, Marcus AJ, Woodbury D, Black IB (2006) Marrow
+stromal cells transplanted to the adult brain are rejected by an
+inflammatory response and transfer donor labels to host neurons
+and glia. Stem Cells 24(11):2483–2492
+42. Crigler L, Robey RC, Asawachaicharn A, Gaupp D, Phinney DG
+(2006) Human mesenchymal stem cell subpopulations express a
+variety of neuro-regulatory molecules and promote neuronal cell
+survival and neuritogenesis. Exp Neurol 198(1):54–64
+43. Cristofanilli M, Harris VK, Zigelbaum A, Goossens AM, Lu A,
+Rosenthal H, Sadiq SA (2011) Mesenchymal stem cells enhance
+the engraftment and myelinating ability of allogeneic oligoden-
+drocyte progenitors in dysmyelinated mice. Stem Cells Dev
+20:2065–2076
+44. Cummings BJ, Uchida N, Tamaki SJ, Salazar DL, Hooshmand M,
+Summers R, Gage FH, Anderson AJ (2005) Human neural stem
+cells differentiate and promote locomotor recovery in spinal cord-
+injured mice. Proc Natl Acad Sci U S A 102(39):14069–14074
+45. Davies SJ, Shih CH, Noble M, Mayer-Proschel M, Davies JE,
+Proschel C (2011) Transplantation of specific human astrocytes
+promotes functional recovery after spinal cord injury. PLoS One
+6(3):e17328
+46. Deng W, Obrocka M, Fischer I, Prockop DJ (2001) In vitro
+differentiation of human marrow stromal cells into early progen-
+itors of neural cells by conditions that increase intracellular cyclic
+AMP. Biochem Biophys Res Commun 282(1):148–152
+47. Deng J, Petersen BE, Steindler DA, Jorgensen ML, Laywell ED
+(2006) Mesenchymal stem cells spontaneously express neural
+proteins in culture and are neurogenic after transplantation. Stem
+Cells 4(4):1054–1064
+48. Djouad F, Plence P, Bony C, Tropel P, Apparailly F, Sany J, Noël
+D, Jorgensen C (2003) Immunosuppressive effect of mesenchy-
+mal stem cells favors tumor growth in allogeneic animals. Blood
+102(10):3837–3844
+49. Eftekharpour E, Karimi-Abdolrezaee S, Fehlings MG (2008)
+Current status of experimental cell replacement approaches to
+spinal cord injury. Neurosurg Focus 24(3–4):E19
+50. Englund U, Bjorklund A, Wictorin K, Lindvall O, Kokaia M
+(2002) Grafted neural stem cells develop into functional pyrami-
+dal neurons and integrate into host cortical circuitry. Proc Natl
+Acad Sci U S A 99(26):17089–17094
+51. Eriksson C, Björklund A, Wictorin K (2003) Neuronal differen-
+tiation following transplantation of expanded mouse neurosphere
+cultures derived from different embryonic forebrain regions. Exp
+Neurol 84(2):615–635
+52. Evans MJ, Kaufman MH (1981) Establishment in culture of
+pluripotential cells from mouse embryos. Nature 292(5819):
+154–156
+53. Fawcett JW, Asher RA (1999) The glial scar and central nervous
+system repair. Brain Res Bull 49:377–391
+54. FitchMT, Silver J (2008) CNS injury, glial scars, and inflammation:
+inhibitory extracellular matrices and regeneration failure. Exp Neu-
+rol 209(2):294–301
+55. Fleming JC, Norenberg MD, Ramsay DA, Dakeban GA, Marcillo
+AE, Saenz AD, Pasquale-Styles M, Dietrich WD, Waever LC
+(2006) The cellular inflammatory response in human spinal cords
+after injury. Brain 129(pt 12):3249–3269
+56. Folman Y, Masri WE (1989) Spinal cord injury: prognostic
+indicators. Injury 20:92–93
+57. Gil JE, Woo DH, Shim JH, Kim SE, You HJ, Park SH, Paek SH,
+Kim SK, Kim JH (2009) Vitronectin promotes oligodendrocyte
+differentiation during neurogenesis of human embryonic stem
+cells. FEBS Lett 583(3):561–567
+58. Giordano A, Galderisi U, Marino IR (2007) From the laboratory
+bench to the patient's bedside: an update on clinical trials with
+mesenchymal stem cells. J Cell Physiol 211(1):27–35
+59. Giordano F, De Marzo A, Vetrini F, Marigo V (2007) Fibroblast
+growth factor and epidermal growth factor differently affect dif-
+ferentiation of murine retinal stem cells in vitro. Mol Vis
+13:1842–1850
+60. Glaser T, Brüstle O (2005) Retinoic acid induction of ES-cell-
+derived neurons: the radial glia connection. Trends Neurosci 28
+(8):397–400
+Neurosurg Rev (2012) 35:293–311 305
+61. Glazova M, Pak ES, Moretto J, Hollis S, Brewer KL, Murashov
+AK (2009) Pre-differentiated embryonic stem cells promote neu-
+ronal regeneration by cross-coupling of BDNF and IL-6 signaling
+pathways in the host tissue. J Neurotrauma 26(7):1029–1042
+62. Gottlieb DI (2002) Large-scale sources of neural stem cells. Annu
+Rev Neurosci 25:381–407
+63. Grill RJ, Blesch A, Tuszynski MH (1997) Robust growth of
+chronically injured spinal cord axons induced by grafts of
+genetically modified NGF-secreting cells. Exp Neurol 148:
+444–452
+64. Grimpe B, Silver J (2004) A novel DNA enzyme reduces gly-
+cosaminoglycan chains in the glial scar and allows microtrans-
+planted dorsal root ganglia axons to regenerate beyond lesions in
+the spinal cord. J Neurosci 24:1393–1397
+65. Habib NA, Gordon MY (2006) Clinical applications of stem cell
+therapy—the pros and cons of stem cell sources. Regen Med 1
+(3):301–302
+66. Hamada M, Yoshikawa H, Ueda Y, Kurokawa MS, Watanabe K,
+Sakakibara M, Tadokoro M, Akashi K, Aoki H, Suzuki N (2006)
+Introduction of the MASH1 gene into mouse embryonic stem
+cells leads to differentiation of motoneuron precursors lacking
+Nogo receptor expression that can be applicable for transplanta-
+tion to spinal cord injury. Neurobiol Dis 22(3):509–522
+67. Hammang JP, Archer DR, Duncan ID (1997) Myelination fol-
+lowing transplantation of EGF-responsive neural stem cells into a
+myelin-deficient environment. Exp Neurol 147:84–95
+68. Han SS, Kang DY, Mujtaba T, Rao MS, Fischer I (2002) Grafted
+lineage-restricted precursors differentiate exclusively into neu-
+rons in the adult spinal cord. Exp Neurol 177:360–375
+69. Han SS, Liu Y, Tyler-Polsz C, Rao MS, Fischer I (2004) Trans-
+plantation of glial-restricted precursor cells into the adult spinal
+cord: survival, glial-specific differentiation, and preferential mi-
+gration in white matter. Glia 45:1–16
+70. Hardy SA, Maltman DJ, Przyborski SA (2008) Mesenchymal
+stem cells as mediators of neural differentiation. Curr Stem Cell
+Res Ther 3(1):43–52
+71. Harkany T, Andäng M, Kingma HJ, Görcs TJ, Holmgren CD,
+Zilberter Y, Ernfors P (2004) Region-specific generation of func-
+tional neurons from naive embryonic stem cells in adult brain. J
+Neurochem 88(5):1229–1239
+72. Hausmann ON (2003) Post-traumatic inflammation following
+spinal cord injury. Spinal Cord 41(7):369–378
+73. Hejčl A, Sedý J, Kapcalová M, Toro DA, Amemori T, Lesný P,
+Likavčanová-Mašínová K, Krumbholcová E, Přádný M, Michálek
+J, Burian M, Hájek M, Jendelová P, Syková E (2010) HPMA-RGD
+hydrogels seeded with mesenchymal stem cells improve functional
+outcome in chronic spinal cord injury. Stem Cells Dev 19
+(10):1535–1546
+74. Heng BC, Liu H, Cao T (2005) Transplanted human embryonic
+stem cells as biological ‘catalysts’ for tissue repair and regener-
+ation. Med Hypotheses 64(6):1085–1088
+75. Herrera DG, Garcia-Verdugo JM, Alvarez-Buylla A (1999) Adult-
+derived neural precursors transplanted into multiple regions in the
+adult brain. Ann Neurol 46(6):867–877
+76. Hofstetter CP, Schwarz EJ, Hess D, Widenfalk J, El Manira A,
+Prockop DJ, Olson L (2002) Marrow stromal cells form guiding
+strands in the injured spinal cord and promote recovery. Proc Natl
+Acad Sci USA 99:2199–2204
+77. Hofstetter CP, Holmström NA, Lilja JA, Schweinhardt P, Hao J,
+Spenger C, Wiesenfeld-Hallin Z, Kurpad SN, Frisén J, Olson L
+(2005) Allodynia limits the usefulness of intraspinal neural stem
+cell grafts; directed differentiation improves outcome. Nat Neuro-
+sci 8:346–353
+78. Honma T, Honmou O, Iihoshi S, Harada K, Houkin K, Hamada
+H, Kocsis JD (2006) Intravenous infusion of immortalized human
+mesenchymal stem cells protects against injury in a cerebral
+ischemia model in adult rat. Exp Neurol 199(1):56–66
+79. Hsu YC, Lee DC, Chiu IM (2007) Neural stem cells, neural
+progenitors, and neurotrophic factors. Cell Transplant 16
+(2):133–150
+80. Huang H, Wang H, Chen L, Gu Z, Zhang J, Zhang F, Song Y, Li
+Y, Tan K, Liu Y, Xi H (2006) Influence factors for functional
+improvement after olfactory ensheathing cell transplantation for
+chronic spinal cord injury. Zhongguo Xiu Fu Chong Jian Wai Ke
+Za Zhi 20(4):434–438
+81. Hurtado A, Moon LD, Maquet V, Blits B, Jérôme R, Oudega
+M (2006) Poly(D,L-lactic acid) macroporous guidance scaf-
+folds seeded with Schwann cells genetically modified to
+secrete a bi-functional neurotrophin implanted in the com-
+pletely transected adult rat thoracic spinal cord. Biomaterials
+27(3):430–442
+82. Itosaka H, Kuroda S, Shichinohe H, Yasuda H, Yano S, Kamei S,
+Kawamura R, Hida K, Iwasaki Y (2009) Fibrin matrix provides a
+suitable scaffold for bone marrow stromal cells transplanted into
+injured spinal cord: a novel material for CNS tissue engineering.
+Neuropathology 29(3):248–257
+83. Iwanami A, Kaneko S, Nakamura M, Kanemura Y, Mori H,
+Kobayashi S, Yamasaki M, Momoshima S, Ishii H, Ando K,
+Tanioka Y, Tamaoki N, Nomura T, Toyama Y, Okano H (2005)
+Transplantation of human neural stem cells for spinal cord injury
+in primates. J Neurosci Res 80(2):182–190
+84. Jiang Y, Jahagirdar BN, Reinhardt RL, Schwartz RE, Keene CD,
+Ortiz-Gonzalez XR, Reyes M, Lenvik T, Lund T, Blackstad M,
+Du J, Aldrich S, Lisberg A, LowWC, Largaespada DA, Verfaillie
+CM (2002) Pluripotency of mesenchymal stem cells derived from
+adult marrow. Nature 418(6893):41–49, Erratum in: Nature. 2007
+Jun 14;447(7146):879–80
+85. Johnson PJ, Tatara A, Shiu A, Sakiyama-Elbert SE (2010) Con-
+trolled release of neurotrophin-3 and platelet-derived growth fac-
+tor from fibrin scaffolds containing neural progenitor cells
+enhances survival and differentiation into neurons in a subacute
+model of SCI. Cell Transplant 19(1):89–101
+86. Johnson PJ, Parker SR, Sakiyama-Elbert SE (2010) Fibrin-based
+tissue engineering scaffolds enhance neural fiber sprouting and
+delay the accumulation of reactive astrocytes at the lesion in a
+subacute model of spinal cord injury. J Biomed Mater Res A 92
+(1):152–163
+87. Jones LL, Sajed D, Tuszynski MH (2003) Axonal regeneration
+through regions of chondroitin sulfate proteoglycan deposition
+after spinal cord injury: a balance of permissiveness and inhibi-
+tion. J Neurosci 23:9276–9288
+88. Kamada T, Koda M, Dezawa M, Anahara R, Toyama Y, Yoshinaga
+K, Hashimoto M, Koshizuka S, Nishio Y, Mannoji C, Okawa A,
+Yamazaki M (2011) Transplantation of human bone marrow stro-
+mal cell-derived Schwann cells reduces cystic cavity and promotes
+functional recovery after contusion injury of adult rat spinal cord.
+Neuropathology 31(1):48–58
+89. Karimi-Abdolrezaee S, Eftekharpour E, Wang J, Morshead CM,
+Fehlings MG (2006) Delayed transplantation of adult neural
+precursor cells promotes remyelination and functional neurolog-
+ical recovery after spinal cord injury. J Neurosci 26(13):3377–
+3389
+90. Karimi-Abdolrezaee S, Eftekharpour E, Wang J, Schut D, Fehlings
+MG (2010) Synergistic effects of transplanted adult neural stem/
+progenitor cells, chondroitinase, and growth factors promote func-
+tional repair and plasticity of the chronically injured spinal cord. J
+Neurosci 30(5):1657–1676
+91. Kawaja MD, Gage FH (1991) Reactive astrocytes are substrates
+for the growth of adult CNS axons in the presence of elevated
+levels of nerve growth factor. Neuron 7:1019–1030
+306 Neurosurg Rev (2012) 35:293–311
+92. Keirstead HS, Nistor G, Bernal G, Totoiu M, Cluotier F, Sharp K,
+Steward O (2005) Human embryonic stem cell-derived oligoden-
+drocyte progenitor cell transplants remyelinate and restore loco-
+motion after spinal cord injury. J Neurosci 25(19):4694–4705
+93. Kelly S, Bliss TM, Shah AK, Sun GH, Ma M, Foo WC, Masel J,
+Yenari MA, Weissman IL, Uchida N, Palmer T, Steinberg GK
+(2004) Transplanted human fetal neural stem cells survive, mi-
+grate, and differentiate in ischemic rat cerebral cortex. Proc Natl
+Acad Sci U S A 101(32):11839–11844
+94. Kim BJ, Seo JH, Bubien JK, Oh YS (2002) Differentiation of
+adult bone marrow stem cells into neuroprogenitor cells in vitro.
+Neuroreport 13(9):1185–1188
+95. Kim DW, Chung S, Hwang M, Ferree A, Tsai HC, Park JJ, Chung
+S, Nam TS, Kang UJ, Isacson O, Kim KS (2006) Stromal cell-
+derived inducing activity, Nurr1, and signaling molecules syner-
+gistically induce dopaminergic neurons from mouse embryonic
+stem cells. Stem Cells 24(3):557–567
+96. King BS, Gupta R, Narayan RK (2000) The early assessment and
+intensive care unit management of patients with severe traumatic
+brain and spinal cord injuries. Surg Clin North Am 80(3):855–
+870
+97. Knoller N, Auerbach G, Fulga V, Zelig G, Attias J, Bakimer R,
+Marder JB, Yoles E, Belkin M, Schwartz M, Hadani M (2005)
+Clinical experience using incubated autologous macrophages as a
+treatment for complete spinal cord injury: phase I study results. J
+Neurosurg Spine 3(3):173–181
+98. Koch P, Kokaia Z, Lindvall O, Brüstle O (2009) Emerging concepts
+in neural stem cell research: autologous repair and cell-based dis-
+ease modelling. Lancet Neurol 8(9):819–829
+99. Koda M, Okada S, Nakayama T, Koshizuka S, Kamada T, Nishio
+Y, Someya Y, Yoshinaga K, Okawa A, Moriya H, Yamazaki M
+(2005) Hematopoietic stem cell and marrow stromal cell for
+spinal cord injury in mice. Neuroreport 16(16):1763–1767
+100. Kopen GC, Prockop DJ, Phinney DG (1999) Marrow stromal cells
+migrate throughout forebrain and cerebellum, and they differentiate
+into astrocytes after injection into neonatal mouse brains. Proc Natl
+Acad Sci USA 96:10711–10716
+101. Kuai XL, Gagliardi C, Flaat M, Bunnell BA (2009) Differentia-
+tion of nonhuman primate embryonic stem cells along neural
+lineages. Differentiation 77(3):229–238
+102. Kuh SU, Cho YE, Yoon DH, Kim KN, Ha Y (2005) Functional
+recovery after human umbilical cord blood cells transplantation
+with brain-derived neutrophic factor into the spinal cord injured
+rat. Acta Neurochir (Wien) 147(9):985–992
+103. Kumar S, Chanda D, Ponnazhagan S (2008) Therapeutic poten-
+tial of genetically modified mesenchymal stem cells. Gene Ther
+15(10):711–715
+104. Lavdas AA, Chen J, Papastefanaki F, Chen S, Schachner M,
+Matsas R, Thomaidou D (2010) Schwann cells engineered to
+express the cell adhesion molecule L1 accelerate myelination
+and motor recovery after spinal cord injury. Exp Neurol 221
+(1):206–216
+105. Lee TT, Green BA (2002) Advances in the management of acute
+spinal cord injury. Orthop Clin North Am 33(2):311–315
+106. Lee KH, Suh-Kim H, Choi JS, Jeun SS, Kim EJ, Kim SS, Yoon
+do H, Lee BH (2007) Human mesenchymal stem cell transplan-
+tation promotes functional recovery following acute spinal cord
+injury in rats. Acta Neurobiol Exp (Wars) 67(1):13–22
+107. Lepore AC, Fischer I (2005) Lineage-restricted neural precursors
+survive, migrate, and differentiate following transplantation into
+the injured adult spinal cord. Exp Neurol 194:230–242
+108. Levenberg S, Burdick JA, Kraehenbuehl T, Langer R (2005)
+Neurotrophin-induced differentiation of human embryonic stem
+cells on three-dimensional polymeric scaffolds. Tissue Eng 11(3–
+4):506–512
+109. Li Y, Field PM, Raisman G (1997) Repair of adult rat cortico-
+spinal tract by transplants of olfactory ensheathing cells. Science
+277:2000–2002
+110. Li M, Pevny L, Lovell-Badge R, Smith A (1998) Generation of
+purified neural precursors from embryonic stem cells by lineage
+selection. Curr Biol 8(17):971–974
+111. Li JY, Christophersen NS, Hall V, Soulet D, Brundin P (2008)
+Critical issues of clinical human embryonic stem cell therapy for
+brain repair. Trends Neurosci 31(3):146–153
+112. Lima C, Pratas-Vital J, Escada P, Hasse-Ferreira A, Capucho C,
+Peduzzi JD (2006) Olfactory mucosa autografts in human spinal
+cord injury: a pilot clinical study. J Spinal Cord Med 29(3):191–203
+113. Lindvall O, Kokaia Z (2006) Stem cells for the treatment of
+neurological disorders. Nature 441(7097):1094–1096
+114. Liour SS, Yu RK (2003) Differentiation of radial glia-like cells
+from embryonic stem cells. Glia 42(2):109–117
+115. Liu Y, Kim D, Himes BT, Chow SY, Schallert T, Murray M,
+Tessler A, Fischer I (1999) Transplants of fibroblasts genetically
+modified to express BDNF promote regeneration of adult rat
+rubrospinal axons and recovery of forelimb function. J Neurosci
+19:4370–4387
+116. Liu S, Qu Y, Stewart TJ, Howard MJ, Chakrabortty S, Holekamp
+TF, McDonald JW (2000) Embryonic stem cells differentiate into
+oligodendrocytes and myelinate in culture and after spinal cord
+transplantation. Proc Natl Acad Sci USA 97:6126–6131
+117. Lladó J, Haenggeli C, Maragakis NJ, Snyder EY, Rothstein JD
+(2004) Neural stem cells protect against glutamate-induced exci-
+totoxicity and promote survival of injured motor neurons through
+the secretion of neurotrophic factors. Mol Cell Neurosci 27
+(3):322–331
+118. Lowell S, Benchoua A, Heavey B, Smith AG (2006) Notch
+promotes neural lineage entry by pluripotent embryonic stem
+cells. PLoS Biol 4(5):e121
+119. Lu P, Jones LL, Snyder EY, Tuszynski MH (2003) Neural stem
+cells constitutively secrete neurotrophic factors and promote ex-
+tensive host axonal growth after spinal cord injury. Exp Neurol
+181(2):115–129
+120. Lu P, Yang H, Jones LL, Filbin MT, Tuszynski MH (2004)
+Combinatorial therapy with neurotrophins and cAMP promotes
+axonal regeneration beyond sites of spinal cord injury. J Neurosci
+24:6402–6409
+121. Lu P, Blesch A, Tuszynski MH (2004) Induction of bone marrow
+stromal cells to neurons: differentiation, transdifferentiation, or
+artifact? J Neurosci Res 77(2):174–191
+122. Lu P, Tuszynski MH (2005) Can bone marrow-derived stem cells
+differentiate into functional neurons? Exp Neurol 193:273–278
+123. Madhavan L, Ourednik V, Ourednik J (2008) Neural stem/pro-
+genitor cells initiate the formation of cellular networks that pro-
+vide neuroprotection by growth factor-modulated antioxidant
+expression. Stem Cells 26(1):254–265
+124. Madigan NN, McMahon S, O'Brien T, Yaszemski MJ,
+Windebank AJ (2009) Current tissue engineering and novel
+therapeutic approaches to axonal regeneration following spinal
+cord injury using polymer scaffolds. Respir Physiol Neurobiol
+169(2):183–199
+125. Mareschi K, Novara M, Rustichelli D, Ferrero I, Guido D, Carbone
+E, Medico E, Madon E, Vercelli A, Fagioli F (2006) Neural differ-
+entiation of human mesenchymal stem cells: evidence for expres-
+sion of neural markers and eag K+ channel types. Exp Hematol 34
+(11):1563–1572
+126. Martin GR (1981) Isolation of a pluripotent cell line from early
+mouse embryos cultured in medium conditioned by teratocarci-
+noma stem cells. Proc Natl Acad Sci U S A 78(12):7634–7638
+127. Matsuda R, YoshikawaM, Kimura H, Ouji Y, Nakase H, Nishimura
+F, Nonaka J, Toriumi H, Yamada S, Nishiofuku M, Moriya K,
+Neurosurg Rev (2012) 35:293–311 307
+Ishizaka S, Nakamura M, Sakaki T (2009) Cotransplantation of
+mouse embryonic stem cells and bone marrow stromal cells follow-
+ing spinal cord injury suppresses tumor development. Cell Trans-
+plant 18(1):39–54
+128. Maurer MH, Tripps WK, Feldmann RE Jr, Kuschinsky W (2003)
+Expression of vascular endothelial growth factor and its receptors
+in rat neural stem cells. Neurosci Lett 344(3):165–168
+129. McDonald JW, Liu XZ, Qu Y, Liu S, Mickey SK, Turetsky D,
+Gottlieb DI, Choi DW (1999) Transplanted embryonic stem cells
+survive, differentiate and promote recovery in injured rat spinal
+cord. Nature Med 5:1410–1412
+130. McDonald JW, Sadowsky C (2002) Spinal-cord injury. Lancet
+359(9304):417–425
+131. McDonald JW, Howard MJ (2002) Repairing the damaged spinal
+cord: a summary of our early success with embryonic stem cell
+transplantation and remyelination. Prog Brain Res 137:299–309
+132. McKeon RJ, Hoke A, Silver J (1995) Injury-induced proteogly-
+cans inhibit the potential for laminin-mediated axon growth on
+astrocytic scars. Exp Neurol 136:32–43
+133. McKeon RJ, Schreiber RC, Rudge JS, Silver J (1991) Reduction
+of neurite outgrowth in a model of glial scarring following CNS
+injury is correlated with the expression of inhibitory molecules on
+reactive astrocytes. J Neurosci 11:3398–3411
+134. Meirelles Lda S, Fontes AM, Covas DT, Caplan AI (2009)
+Mechanisms involved in the therapeutic properties of mesenchy-
+mal stem cells. Cytokine Growth Factor Rev 20(5–6):419–427
+135. Menei P, Montero-Menei C, Whittemore SR, Bunge RP, Bunge
+MB (1998) Schwann cells genetically modified to secrete human
+BDNF promote enhanced axonal regrowth across transected adult
+rat spinal cord. Eur J Neurosci 10:607–621
+136. Menon LG, Picinich S, Koneru R, Gao H, Lin SY, Koneru M,
+Mayer-Kuckuk P, Glod J, Banerjee D (2007) Differential gene
+expression associated with migration of mesenchymal stem cells
+to conditioned medium from tumor cells or bone marrow cells.
+Stem Cells 25(2):520–528
+137. Mitsui T, Shumsky JS, Lepore AC, Murray M, Fischer I (2005)
+Transplantation of neuronal and glial restricted precursors into
+contused spinal cord improves bladder and motor functions,
+decreases thermal hypersensitivity, and modifies intraspinal cir-
+cuitry. J Neurosci 25:9624–9636
+138. Miura M, Miura Y, Padilla-Nash HM, Molinolo AA, Fu B, Patel
+V, Seo BM, Sonoyama W, Zheng JJ, Baker CC, Chen W, Ried T,
+Shi S (2006) Accumulated chromosomal instability in murine
+bone marrow mesenchymal stem cells leads to malignant trans-
+formation. Stem Cells 24(4):1095–1103
+139. Moviglia GA, Fernandez Viña R, Brizuela JA, Saslavsky J,
+Vrsalovic F, Varela G, Bastos F, Farina P, Etchegaray G, Barbieri
+M, Martinez G, Picasso F, Schmidt Y, Brizuela P, Gaeta CA,
+Costanzo H, Moviglia Brandolino MT, Merino S, Pes ME,
+Veloso MJ, Rugilo C, Tamer I, Shuster GS (2006) Combined
+protocol of cell therapy for chronic spinal cord injury. Report on the
+electrical and functional recovery of two patients. Cytotherapy 8
+(3):202–209
+140. Muñoz-Elias G, Marcus AJ, Coyne TM, Woodbury D, Black IB
+(2004) Adult bone marrow stromal cells in the embryonic brain:
+engraftment, migration, differentiation, and long-term survival. J
+Neurosci 24(19):4585–4595
+141. Myckatyn TM, Mackinnon SE, McDonald JW (2004) Stem cell
+transplantation and other novel techniques for promoting recov-
+ery from spinal cord injury. Tanspl Immunol 12(3–4):343–358
+142. Neuhuber B, Timothy Himes B, Shumsky JS, Gallo G, Fischer I
+(2005) Axon growth and recovery of function supported by
+human bone marrow stromal cells in the injured spinal cord
+exhibit donor variations. Brain Res 1035(1):73–85
+143. Nishio Y, Koda M, Kamada T, Someya Y, Yoshinaga K, Okada S,
+Harada H, Okawa A, Moriya H, Yamazaki M (2006) The use of
+hemopoietic stem cells derived from human umbilical cord blood to
+promote restoration of spinal cord tissue and recovery of hindlimb
+function in adult rats. J Neurosurg Spine 5(5):424–433
+144. Nistor GI, Totoiu MO, Haque N, Carpenter MK, Keirstead HS
+(2005) Human embryonic stem cells differentiate into oligoden-
+drocytes in high purity and myelinate after spinal cord transplan-
+tation. Glia 49(3):385–396
+145. Noël D, Djouad F, Bouffi C, Mrugala D, Jorgensen C (2007)
+Multipotent mesenchymal stromal cells and immune tolerance.
+Leuk Lymphoma 48(7):1283–1289
+146. Ogawa Y, Sawamoto K, Miyata T, Miyao S, Watanabe M,
+Nakamura M, Bregman BS, Koike M, Uchiyama Y, Toyama Y,
+Okano H (2002) Transplantation of in vitro-expanded fetal neural
+progenitor cells results in neurogenesis and functional recovery
+after spinal cord contusion injury in adult rats. J Neurosci Res 69
+(6):925–933
+147. Okano H (2002) Stem cell biology of the central nervous system.
+J Neurosci Res 69(6):698–707
+148. Okano H, Ogawa Y, Nakamura M, Kaneko S, Iwanami A,
+Toyama Y (2003) Transplantation of neural stem cells into
+the spinal cord after injury. Semin Cell Dev Biol 14(3):191–
+198
+149. Olson HE, Rooney GE, Gross L, Nesbitt JJ, Galvin KE, Knight
+A, Chen B, Yaszemski MJ, Windebank AJ (2009) Neural stem
+cell- and Schwann cell-loaded biodegradable polymer scaffolds
+support axonal regeneration in the transected spinal cord. Tissue
+Eng Part A 15(7):1797–1805
+150. Oudega M, Xu XM (2006) Schwann cell transplantation for
+repair of the adult spinal cord. J Neurotrauma 23(3–4):453–467
+151. Pannucci C, Myckatyn TM, Mackinnon SE, Hayashi A (2007)
+End-to-side nerve repair: review of the literature. Restor Neurol
+Neurosci 25(1):45–63
+152. Park J, Lim E, Back S, Na H, Park Y, Sun K (2010) Nerve regener-
+ation following spinal cord injury using matrix metalloproteinase-
+sensitive, hyaluronic acid-based biomimetic hydrogel scaffold con-
+taining brain-derived neurotrophic factor. J Biomed Mater Res A 93
+(3):1091–1099
+153. Parr AM, Kulbatski I, Wang XH, Keating A, Tator CH (2008)
+Fate of transplanted adult neural stem/progenitor cells and bone
+marrow-derived mesenchymal stromal cells in the injured adult
+rat spinal cord and impact on functional recovery. Surg Neurol 70
+(6):600–607
+154. Pedemonte E, Benvenuto F, Casazza S, Mancardi G, Oksenberg
+JR, Uccelli A, Baranzini SE (2007) The molecular signature of
+therapeutic mesenchymal stem cells exposes the architecture of
+the hematopoietic stem cell niche synapse. BMC Genomics 8:65
+155. Pluchino S, Quattrini A, Brambilla E, Gritti A, Salani G, Dina G,
+Galli R, Del Carro U, Amadio S, Bergami A, Furlan R, Comi G,
+Vescovi AL, Martino G (2003) Injection of adult neurospheres
+induces recovery in a chronic model of multiple sclerosis. Nature
+422(6933):688–694
+156. Ponte AL, Marais E, Gallay N, Langonné A, Delorme B, Hérault
+O, Charbord P, Domenech J (2007) The in vitro migration capac-
+ity of human bone marrow mesenchymal stem cells: comparison
+of chemokine and growth factor chemotactic activities. Stem
+Cells 25(7):1737–1745
+157. Radtke C, Sasaki M, Lankford KL, Vogt PM, Kocsis JD (2008)
+Potential of olfactory ensheathing cells for cell-based therapy in
+spinal cord injury. J Rehabil Res Dev 45(1):141–151
+158. Ramer MS, Priestley JV, McMahon SB (2000) Functional regen-
+eration of sensory axons into the adult spinal cord. Nature
+403:312–316
+159. Ramer MS, Bishop T, Dockery P, Mobarak MS, O’Leary D,
+Fraher JP, Priestley JV, McMahon SB (2002) Neurotrophin-3-
+mediated regeneration and recovery of proprioception following
+dorsal rhizotomy. Mol Cell Neurosci 19:239–249
+308 Neurosurg Rev (2012) 35:293–311
+160. Reier PJ (2004) Cellular transplantation strategies for spinal cord
+injury and translational neurobiology. NeuroRx 1(4):424–451
+161. Reyes M, Verfaillie CM (2001) Characterization of multipotent
+adult progenitor cells, a subpopulation of mesenchymal stem
+cells. Ann N YAcad Sci 938:231–233
+162. Reynolds BA, Weiss S (1992) Generation of neurons and astro-
+cytes from isolated cells of the adult mammalian central nervous
+system. Science 255:1707–1710
+163. Richter MW, Roskams AJ (2008) Olfactory ensheathing cell
+transplantation following spinal cord injury: hype or hope? Exp
+Neurol 209:353–367
+164. Rochkind S, Shahar A, Fliss D, El-Ani D, Astachov L, Hayon T,
+Alon M, Zamostiano R, Ayalon O, Biton IE, Cohen Y, Halperin
+R, Schneider D, Oron A, Nevo Z (2006) Development of a tissue-
+engineered composite implant for treating traumatic paraplegia in
+rats. Eur Spine J 15(2):234–245
+165. Romero MI, Rangappa N, Li L, Lightfoot E, Garry MG, Smith
+GM (2000) Extensive sprouting of sensory afferents and hyper-
+algesia induced by conditional expression of nerve growth factor
+in the adult spinal cord. J Neurosci 20:4435–4445
+166. Ronaghi M, Erceg S, Moreno-Manzano V, Stojkovic M (2010)
+Challenges of stem cell therapy for spinal cord injury: human
+embryonic stem cells, endogenous neural stem cells, or induced
+pluripotent stem cells? Stem Cells 28(1):93–99
+167. Ronsyn MW, Daans J, Spaepen G, Chatterjee S, Vermeulen K,
+D'Haese P, Van Tendeloo VF, Van Marck E, Ysebaert D, Berne-
+man ZN, Jorens PG, Ponsaerts P (2007) Plasmid-based genetic
+modification of human bone marrow-derived stromal cells: anal-
+ysis of cell survival and transgene expression after transplantation
+in rat spinal cord. BMC Biotechnol 7:90
+168. Ross JJ, Hong Z, Willenbring B, Zeng L, Isenberg B, Lee EH,
+Reyes M, Keirstead SA, Weir EK, Tranquillo RT, Verfaillie CM
+(2006) Cytokine-induced differentiation of multipotent adult pro-
+genitor cells into functional smooth muscle cells. J Clin Invest
+116(12):3139–3149, Erratum in: J Clin Invest. 2007 Jul;117
+(7):2014
+169. Rossignol S (2006) Plasticity of connections underlying locomo-
+tor recovery after central and/or peripheral lesions in the adult
+mammals. Philos Trans R Soc Lond B Biol Sci 361(1473):1647–
+1671
+170. Rubio D, Garcia-Castro J, Martín MC, de la Fuente R, Cigudosa
+JC, Lloyd AC, Bernad A (2005) Spontaneous human adult stem
+cell transformation. Cancer Res 65(8):3035–3039, Erratum in:
+Cancer Res. 2005 Jun 1;65(11):4969
+171. Ryan JM, Barry FP, Murphy JM, Mahon BP (2005) Mesenchymal
+stem cells avoid allogeneic rejection. J Inflamm (Lond) 2(8)
+172. Salazar DL, Uchida N, Hamers FP, Cummings BJ, Anderson AJ
+(2010) Human neural stem cells differentiate and promote loco-
+motor recovery in an early chronic spinal cord injury NOD-scid
+mouse model. PLoS One 5(8):e12272
+173. Sánchez-Pernaute R, Studer L, Ferrari D, Perrier A, Lee H,
+Viñuela A, Isacson O (2005) Long-term survival of dopa-
+mine neurons derived from parthenogenetic primate embry-
+onic stem cells (cyno-1) after transplantation. Stem Cells 23
+(7):914–922
+174. Scheffler B, Schmandt T, Schröder W, Steinfarz B, Husseini L,
+Wellmer J, Seifert G, Karram K, Beck H, Blümcke I, Wiestler
+OD, Steinhäuser C, Brüstle O (2003) Functional network integra-
+tion of embryonic stem cell-derived astrocytes in hippocampal
+slice cultures. Development 130(22):5533–5541
+175. Scheffler B, Walton NM, Lin DD, Goetz AK, Enikolopov G,
+Roper SN, Steindler DA (2005) Phenotypic and functional char-
+acterization of adult brain neuropoiesis. Proc Natl Acad Sci U S A
+102(26):9353–9358
+176. Schoen JH (1964) Comparative aspects of the descending fibre
+systems in the spinal cord. Prog Brain Res 11:203–222
+177. Schwab JM, Beschorner R, Nguyen TD,Meyermann R, Schluesener
+HJ (2001) Differential cellular accumulation of connective tissue
+growth factor defines a subset of reactive astrocytes, invading fibro-
+blasts, and endothelial cells following central nervous system injury
+in rats and humans. J Neurotrauma 18:377–388
+178. Schwab ME (2002) Repairing the injured spinal cord. Science
+295:1029–1031
+179. Schwartz RE, Reyes M, Koodie L, Jiang Y, Blackstad M,
+Lund T, Lenvik T, Johnson S, Hu WS, Verfaillie CM (2002)
+Multipotent adult progenitor cells from bone marrow differ-
+entiate into functional hepatocyte-like cells. J Clin Invest 109
+(10):1291–1302
+180. Sedý J, Urdzíková L, Jendelová P, Syková E (2008) Methods for
+behavioral testing of spinal cord injured rats. Neurosci Biobehav
+Rev 32(3):550–580
+181. Serafini M, Dylla SJ, Oki M, Heremans Y, Tolar J, Jiang Y, Buckley
+SM, Pelacho B, Burns TC, Frommer S, Rossi DJ, Bryder D,
+Panoskaltsis-Mortari A, O'Shaughnessy MJ, Nelson-Holte M, Fine
+GC, Weissman IL, Blazar BR, Verfaillie CM (2007) Hematopoietic
+reconstitution by multipotent adult progenitor cells: precursors to
+long-term hematopoietic stem cells. J Exp Med 204(1):129–139,
+Erratum in: J Exp Med. 2007 Jul 9;204(7):1729
+182. Serakinci N, Guldberg P, Burns JS, Abdallah B, Schrødder H, Jensen
+T, KassemM (2004)Adult humanmesenchymal stem cell as a target
+for neoplastic transformation. Oncogene 23(29):5095–5098
+183. Shamblott MJ, Axelman J, Wang S, Bugg EM, Littlefield JW,
+Donovan PJ, Blumenthal PD, Huggins GR, Gearhart JD (1998)
+Derivation of pluripotent stem cells from cultured human primordial
+germ cells. Proc Natl Acad Sci U S A 95(23):13726–13731
+184. Shihabuddin LS, Horner PJ, Ray J, Gage FH (2002) Adult spinal
+cord stem cells generate neurons after transplantation in the adult
+dentate gyrus. J Neurosci 20:8727–8735
+185. Shyu WC, Lin SZ, Chiang MF, Su CY, Li H (2006) Intracerebral
+peripheral blood stem cell (CD34+) implantation induces neuro-
+plasticity by enhancing beta1 integrin-mediated angiogenesis in
+chronic stroke rats. J Neurosci 26(13):3444–3453
+186. Silver J, Miller JH (2004) Regeneration beyond the glial scar. Nat
+Rev Neurosci 5:146–156
+187. Skalnikova H, Halada P, Vodicka P, Motlik J, Rehulka P, Hørning
+O, Chmelik J, Nørregaard Jensen O, Kovarova H (2007) A
+proteomic approach to studying the differentiation of neural stem
+cells. Proteomics 7(11):1825–1838
+188. Son BR, Marquez-Curtis LA, Kucia M, Wysoczynski M, Turner
+AR, Ratajczak J, Ratajczak MZ, Janowska-Wieczorek A (2006)
+Migration of bone marrow and cord blood mesenchymal stem
+cells in vitro is regulated by stromal-derived factor-1-CXCR4 and
+hepatocyte growth factor-c-met axes and involves matrix metal-
+loproteinases. Stem Cells 24(5):1254–1264
+189. Song H, Stevens CF, Gage FH (2002) Astroglia induce neuro-
+genesis from adult neural stem cells. Nature 417:39–44
+190. Song L, Tuan RS (2004) Transdifferentiation potential of human
+mesenchymal stem cells derived from bone marrow. FASEB J 18
+(9):980–982
+191. Steinmets MP, Horn KP, Tom VJ, Miller JH, Busch SA, Nair D,
+Silver DJ, Silver J (2005) Chronic enhancement of the intrinsic
+growth capacity of sensory neurons combined with the degrada-
+tion of inhibitory proteoglycans allows functional regeneration of
+sensory axons through the dorsal root entry zone in the mamma-
+lian spinal cord. J Neurosci 25:8066–8076
+192. Storer PD, Dolbeare D, Houle JD (2003) Treatment of chronically
+injured spinal cord with neurotrophic factors stimulates betaII-
+tubulin and GAP-43 expression in rubrospinal tract neurons. J
+Neurosci Res 74(4):502–511
+193. Suda Y, Suzuki M, Ikawa Y, Aizawa S (1987) Mouse embryonic
+stem cells exhibit indefinite proliferative potential. J Cell Physiol
+133:197–201
+Neurosurg Rev (2012) 35:293–311 309
+194. Svendsen CN, Skepper J, Rosser AE, ter Borg MG, Tyres P,
+Ryken T (1997) Restricted growth potential of rat neural precur-
+sors as compared to mouse. Brain Res Dev Brain Res 99(2):253–
+258
+195. Svendsen CN, Bhattacharyya A, Tai YT (2001) Neurons from
+stem cells: preventing an identity crisis. Nat Rev Neurosci 2
+(11):831–834
+196. Takahashi K, Yamanaka S (2006) Induction of pluripotent stem
+cells from mouse embryonic and adult fibroblast cultures by
+defined factors. Cell 126(4):663–676
+197. Talac R, Friedman JA, Moore MJ, Lu L, Jabbari E, Windebank
+AJ, Currier BL, YaszemskiMJ (2004) Animalmodels of spinal cord
+injury for evaluation of tissue engineering treatment strategies.
+Biomaterials 25(9):1505–1510
+198. Tang XQ, Cai J, Nelson KD, Peng XJ, Smith GM (2004) Func-
+tional repair after dorsal root rhizotomy using nerve conduits and
+neurotrophic molecules. Eur J Neurosci 20:1211–1218
+199. Tate CM, Fishel ML, Holleran JL, Egorin MJ, Skalnik DG (2009)
+Embryonic stem cells lacking the epigenetic regulator Cfp1 are
+hypersensitive to DNA-damaging agents and exhibit decreased
+Ape1/Ref-1 protein expression and endonuclease activity. DNA
+Repair (Amst) 8(12):1411–1423
+200. Teng YD, Lavik EB, Qu X, Park KI, Ourednik J, Zurakowski D,
+Langer R, Snyder EY (2002) Functional recovery following traumat-
+ic spinal cord injury mediated by a unique polymer scaffold seeded
+with neural stem cells. Proc Natl Acad Sci USA 99:3024–3029
+201. Terasaka S, Iwasaki Y, Shinya N, Uchida T (2006) Fibrin glue
+and polyglycolic acid nonwoven fabric as a biocompatible dural
+substitute. Neurosurgery 58(suppl1):134–139
+202. Tolar J, Nauta AJ, Osborn MJ, Panoskaltsis Mortari A, McElmurry
+RT, Bell S, Xia L, ZhouN, RiddleM, Schroeder TM,Westendorf JJ,
+McIvor RS, Hogendoorn PC, Szuhai K, Oseth L, Hirsch B, Yant
+SR, Kay MA, Peister A, Prockop DJ, Fibbe WE, Blazar BR (2007)
+Sarcoma derived from cultured mesenchymal stem cells. Stem Cells
+25(2):371–379
+203. Mo T, Keirstead HS (2005) Spinal cord injury is accompanied by
+chronic progressive demyelination. J CompNeurol 486(4):373–383
+204. Tsuji O, Miura K, Okada Y, Fujiyoshi K, Mukaino M, Nagoshi N,
+Kitamura K, Kumagai G, Nishino M, Tomisato S, Higashi H,
+Nagai T, Katoh H, Kohda K, Matsuzaki Y, Yuzaki M, Ikeda E,
+Toyama Y, Nakamura M, Yamanaka S, Okano H (2010) Thera-
+peutic potential of appropriately evaluated safe-induced pluripo-
+tent stem cells for spinal cord injury. Proc Natl Acad Sci U S A
+107(28):12704–12709
+205. Tuszynski MH, Peterson DA, Ray J, Baird A, Nakahara Y, Gage
+FH (1994) Fibroblasts genetically modified to produce nerve
+growth factor induce robust neuritic ingrowth after grafting to
+the spinal cord. Exp Neurol 126:1–14
+206. Tuszynski MH, Murai K, Blesch A, Grill R, Miller I (1997)
+Functional characterization of NGF-secreting cell grafts to the
+acutely injured spinal cord. Cell Transplant 6:361–368
+207. Tuszynski MH, Weidner N, McCormack M, Miller I, Powell H,
+Conner J (1998) Grafts of genetically modified Schwann cells to
+the spinal cord—survival, axon growth, and myelination. Cell
+Transplant 7:187–196
+208. Tuszynski MH, Gabriel K, Gerhardt K, Szollar S (1999) Human
+spinal cord retains substantial structural mass in chronic stages
+after injury. J Neurotrauma 16(6):523–531
+209. Uccelli A, Mancardi G (2010) Stem cell transpaltation in multiple
+sclerosis. Curr Opin Neurol 23(3):218–225
+210. Vaquero J, Zurita M, Oya S, Santos M (2006) Cell therapy using
+bone marrow stromal cells in chronic paraplegic rats: systemic or
+local administration? Neurosci Lett 398(1–2):129–134
+211. Wang D, Gao L (2005) Proteomic analysis of neural differentiation
+of mouse embryonic stem cells. Proteomics 5(17):4414–4426
+212. Wang Y, Lapitsky Y, Kang CE, Shoichet MS (2009) Accelerated
+release of a sparingly soluble drug from an injectable hyaluronan-
+methylcellulose hydrogel. J Control Release 140(3):218–223
+213. Wang G, Ao Q, Gong K, Zuo H, Gong Y, Zhang X (2010)
+Synergistic effect of neural stem cells and olfactory ensheathing
+cells on repair of adult rat spinal cord injury. Cell Transplant 19
+(10):1325–1337
+214. Wernig M, Tucker KL, Gornik V, Schneiders A, Buschwald R,
+Wiestler OD, Barde YA, Brüstle O (2002) Tau EGFP embryonic
+stem cells: an efficient tool for neuronal lineage selection and
+transplantation. J Neurosci Res 69(6):918–924
+215. Wernig M, Benninger F, Schmandt T, Rade M, Tucker KL,
+Büssow H, Beck H, Brüstle O (2004) Functional integration of
+embryonic stem cell-derived neurons in vivo. J Neurosci 24
+(22):5258–5268
+216. Wernig M, Zhao JP, Pruszak J, Hedlund E, Fu D, Soldner F,
+Broccoli V, Constantine-Paton M, Isacson O, Jaenisch R (2008)
+Neurons derived from reprogrammed fibroblasts functionally in-
+tegrate into the fetal brain and improve symptoms of rats with
+Parkinson's disease. Proc Natl Acad Sci U S A 105(15):5856–
+5861
+217. Willerth SM, Arendas KJ, Gottlieb DI, Sakiyama-Elbert SE
+(2006) Optimization of fibrin scaffolds for differentiation of
+murine embryonic stem cells into neural lineage cells. Biomate-
+rials 27(36):5990–6003
+218. Willerth SM, Sakiyama-Elbert SE (2008) Cell therapy for spinal
+cord regeneration. Adv Drug Deliv Rev 60(2):263–276
+219. Winkler C, Fricker RA, Gates MA, Olsson M, Hammang JP,
+Carpenter MK, Björklund A (1998) Incorporation and glial dif-
+ferentiation of mouse EGF-responsive neural progenitor cells after
+transplantation into the embryonic rat brain. Mol Cell Neurosci 11
+(3):99–116
+220. Wobus AM (2001) Potential of embryonic stem cells. Mol
+Aspects Med 22(3):149–164
+221. Woodbury D, Schwarz EJ, Prockop DJ, Black IB (2000) Adult rat
+and human bone marrow stromal cells differentiate into neurons.
+J Neurosci Res 61:364–370
+222. Wurmser AE, Gage FH (2002) Stem cells: cell fusion causes
+confusion. Nature 416:485–487
+223. Wurmser AE, Nakashima K, Summers RG, Toni N, D'Amour
+KA, Lie DC, Gage FH (2004) Cell fusion-independent differen-
+tiation of neural stem cells to the endothelial lineage. Nature 430
+(6997):350–356
+224. Xu XM, Guenard V, Kleitman N, Bunge MB (1995) Axonal
+regeneration into Schwann cell-seeded guidance channels grafted
+into transected adult rat spinal cord. J Comp Neurol 351:145–160
+225. Yamanaka S (2009) A fresh look at iPS cells. Cell 137(1):13–17
+226. Yandava BD, Billinghurst LL, Snyder EY (1999) “Global” cell
+replacement is feasible via neural stem cell transplantation—
+evidence from the dysmyelinated shiverer mouse brain. Proc Natl
+Acad Sci USA 96:7029–7034
+227. Yoon SH, Shim YS, Park YH, Chung JK, Nam JH, Kim MO,
+Park HC, Park SR, Min BH, Kim EY, Choi BH, Park H, Ha Y
+(2007) Complete spinal cord injury treatment using autologous
+bone marrow cell transplantation and bone marrow stimulation
+with granulocyte macrophage-colony stimulating factor: phase I/
+II clinical trial. Stem Cells 25(8):2066–2073
+228. Zeng L, Rahrmann E, Hu Q, Lund T, Sandquist L, Felten M,
+O'Brien TD, Zhang J, Verfaillie C (2006) Multipotent adult pro-
+genitor cells from swine bone marrow. Stem Cells 24(11):2355–
+2366
+229. Zhang RL, Zhang ZG, Zhang L, Chopp M (2001) Proliferation
+and differentiation of progenitor cells in the cortex and the sub-
+ventricular zone in the adult rat after focal cerebral ischemia.
+Neuroscience 105(1):33–41
+310 Neurosurg Rev (2012) 35:293–311
+230. Zhang YW, Denham J, Thies RS (2006) Oligodendrocyte pro-
+genitor cells derived from human embryonic stem cells express
+neurotrophic factors. Stem Cells Dev 15(6):943–952
+231. Zhang X, Zeng Y, Zhang W, Wang J, Wu J, Li J (2007) Co-
+transplantation of neural stem cells and NT-3-overexpressing
+Schwann cells in transected spinal cord. J Neurotrauma 24
+(12):1863–1877
+232. Zhao LR, Duan WM, Reyes M, Keene CD, Verfaillie CM, Low
+WC (2002) Human bone marrow stem cells exhibit neural phe-
+notypes and ameliorate neurological deficits after grafting into the
+ischemic brain of rats. Exp Neurol 174(1):11–20
+233. Zhu W, Xu W, Jiang R, Qian H, Chen M, Hu J, Cao W, Han C,
+Chen Y (2006) Mesenchymal stem cells derived from bone
+marrow favor tumor cell growth in vivo. Exp Mol Pathol 80
+(3):267–274
+234. Zurita M, Otero L, Aguayo C, Bonilla C, Ferreira E, Parajón A,
+Vaquero J (2010) Cell therapy for spinal cord repair: optimization
+of biologic scaffolds for survival and neural differentiation of
+human bone marrow stromal cells. Cytotherapy 12(4):522–237
+Comments
+Matthias Kirsch, Dresden, Germany
+The manuscript reviews an important issue for the near future of
+neurosurgical restorative approaches: the use of various stem cell types
+for the treatment of spinal cord injury.
+It is a timely overview and important to the neurosurgical community.
+More than in any other experimental field in neurosurgery, restor-
+ative therapies require multidisciplinary approaches—both for cooper-
+ating scientists as well as for the experimental approaches. From the
+recent literature, no single cell type, no single shot of cells±biomatrices
+might be sufficient. Success seems to be waiting at the doorstep but
+requires inflationary experimental preclinical work. Some of the many
+difficulties for translating the current body of experimental preclinical
+therapies seem to be as follows:
+(a) The size of the clinically relevant lesions is many times bigger in
+humans than in preclinical models. In humans, complete tissue remod-
+eling is necessary, grafts need to be immediately vascularized to
+prevent failure, and distances covered by axons are usually many times
+longer compared to preclinical models. No efforts have been undertak-
+en so far, to evaluate a critical lesion size amendable for a given kind of
+therapy.
+(b) Monitoring of restorative therapies might be difficult since
+tissue changes cannot be analyzed in vivo as of today. We have no
+means besides clinical outcome, which is the final parameter. Neuro-
+radiological imaging does not support cellular resolution nor any
+indication of secondary parameters of success such as vascularization,
+axonal sprouting, and glial scarring.
+(c) The most potent cell types, such as ES cells, might also present
+the most dangerous cell type, if uncontrolled cell growth occurs. Only
+very few preclinical setups implement fallback strategies, such as the
+integration of suicide genes into transplanted cells in order to remove
+these cells if the need occurs.
+(d) To define achievable intermediate and final end points for
+cellular replacements and for tissue regeneration.
+The authors have succeeded in summarizing the many efforts in
+cellular transplantation for spinal cord injury. As with most fascinating
+scientific endeavors, new questions arise with every new achievement.
+The authors have shown that a detailed understanding of developmen-
+tal biology, tissue remodeling, tumor biology, biomaterial engineering,
+and many more is necessary to advance spinal cord regenerative
+therapies into the clinical setting.
+Neurosurg Rev (2012) 35:293–311 311

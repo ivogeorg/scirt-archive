@@ -1,0 +1,1201 @@
+Neurosci Bull    August 1, 2013, 29(4): 421–435. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1358-3 421
+·Review·
+The glial scar in spinal cord injury and repair
+Yi-Min Yuan, Cheng He 
+Institute of Neuroscience and Key Laboratory of Molecular Neurobiology of the Ministry of Education, Neuroscience 
+Research Center of Changzheng Hospital, Second Military Medical University, Shanghai 200433, China
+Corresponding author: Cheng He. E-mail: chenghe@smmu.edu.cn
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+Glial scarring following severe tissue damage and inflammation after spinal cord injury (SCi) is due to an 
+extreme, uncontrolled form of reactive astrogliosis that typically occurs around the injury site. The scarring 
+process includes the misalignment of activated astrocytes and the deposition of inhibitory chondroitin sulfate 
+proteoglycans. Here, we first discuss recent developments in the molecular and cellular features of glial 
+scar formation, with special focus on the potential cellular origin of scar-forming cells and the molecular 
+mechanisms underlying glial scar formation after SCi. Second, we discuss the role of glial scar formation in the 
+regulation of axonal regeneration and the cascades of neuro-inflammation. Last, we summarize the physical 
+and pharmacological approaches targeting the modulation of glial scarring to better understand the role of glial 
+scar formation in the repair of SCi.
+Keywords: glial scar; spinal cord injury; axonal regeneration; astrocyte activation; reactive astrogliosis; neuro-
+inflammation
+Introduction
+Spinal cord injury (SCi) is a common and devastating 
+central nervous system (CNS) insult that results in 
+disruption of cord microstructure and is followed by limited 
+neuronal regeneration and insufficient functional recovery 
+in adult mammals. After severe SCi, and in response 
+to changes in the local microenvironment, astrocytes, 
+the most abundant glial cells in the CNS, transform into 
+reactive astrocytes and undergo dramatic morphological 
+changes[1] as wel l  as massive var iat ions in gene 
+expression[2]. Reactive astrocytes, the major component 
+of glial scars, along with other cells in the spinal cord and 
+blood-borne cells leaking from the damaged blood-spinal 
+cord barrier, participate in the process of scar formation[3]. 
+From the historical perspective, a glial scar is recognized 
+as an impediment to the regeneration of axons in the cord 
+because of the irregular rearrangement of hypertrophic 
+astrocytic processes, as well as major components of 
+the axonal inhibitory extracellular matrix (ECM), including 
+chondroitin sulfate proteoglycans (CSPGs) that are 
+secreted by the reactive astrocytes[4]. Currently, increasing 
+evidence is advancing our knowledge of the mechanism 
+of the formation of glial scars after a lesion and the roles 
+of glial scars in the regulation of neuro-inflammation and 
+repair processes[5,6].
+This article reviews the following: (1) the molecular 
+and cellular properties of glial scar formation following SCi; 
+(2) the roles of glial scar formation in axonal regeneration 
+and neuro-inflammation; and (3) the current status of scar-
+modulating therapeutic strategies for spinal cord repair after 
+injury.
+Molecular and Cellular Properties of Glial Scars
+Characterization of Glial Scars
+Traumatic damage of the spinal cord can result in seal-
+like scar tissue in the lesion zone, which is filled with dense 
+cellular components and a connective matrix. Generally, 
+the scar tissue is classified into two parts, fibrotic and glial. 
+Neurosci Bull     August 1, 2013, 29(4): 421–435422
+The fibrotic scar, primarily composed of invading fibroblasts 
+derived from perivascular and meningeal cells, occupies 
+the epicenter of the lesion area, with sedimentation of 
+collagen matrix[7]. Close to the outer layer of the fibrotic 
+scar, a specialized structure is found, the glial limiting 
+membrane, which marks the interface between the 
+fibrotic scar and glial scar tissue[8]. The glial scar (mainly 
+astrocytic) evolves from the dynamic process of reactive 
+gliosis, which is characterized by complicated and mesh-
+like processes extended by reactive astrocytes converging 
+on the peri-lesion zone, thus building a physical barrier to 
+axonal growth after SCi. it is noteworthy that the glial scar 
+has a spatial orientation. Magnetic resonance imaging has 
+revealed that the mean thickness of the glial scar rostral/
+caudal to the cavity is thicker than that in the region lateral 
+to the cavity formed in rat spinal cord[9].
+Another important feature of the glial scar is the 
+increased expression of ECM components, which are 
+predominantly secreted by reactive astrocytes. Among 
+the ECM components, the CSPGs and the nature of their 
+inhibition of axonal regeneration and restriction of plasticity 
+have been studied extensively[10-12]. After injury to the rat 
+spinal cord, there is increasing expression of members of 
+the CSPG family, including neurocan, versican, brevican 
+and NG2[13,14]. in humans, after SCi, the CSPG family 
+members NG2 and phosphacan are both detectable in the 
+evolving astroglial scar, while neurocan and versican exist 
+exclusively in the lesion epicenter[15]. Mediated by Rho 
+kinase, CSPGs inhibit neurite growth in vitro and in vivo[16]. 
+Recently, Siebert and osterhout found that CSPGs directly 
+suppress the process outgrowth from oligodendrocyte 
+progenitor cells (oPCs) and their differentiation into mature 
+oligodendrocytes in vitro[17]. interestingly, CSPGs also 
+control the activity of resident microglia and infiltrating 
+blood-borne monocytes via the CD44 receptor, thus playing 
+a beneficial role in the acute phase of SCI[18].
+in general, the formation of the glial scar depends on 
+the severity of the lesion, as severe trauma can give rise 
+to a permanent glial scar in the affected region. in addition, 
+the disparity of astrocytic location within the spinal cord can 
+also influence the development of glial scars. Astrocytes 
+proximal to the lesion site densely overlap newly-
+proliferated astrocytes and those that have migrated from 
+distal areas, and undergo isomorphic gliosis, leading to an 
+established glial scar, while reactive astrocytes far from the 
+site of injury eventually reacquire a quiescent state with 
+normal morphological and functional features[19]. Therefore, 
+the highly heterogeneous state of astrocytes that have 
+been altered to respond to the specific injury appears to be 
+a critical determinant of glial scar formation[20].
+Cellular Origin of Glial Scars
+Glial scar formation after SCi is generally referred to as 
+reactive astrogliosis. Most reactive astrocytes in a glial scar 
+have two origins: those proximal to the lesion zone that 
+experience dramatic up-regulation of cytoskeletal proteins 
+[such as glial fibrillary acidic protein (GFAP), vimentin and 
+nestin], and those that acquire stem-cell properties to form 
+new astrocytic progeny[21]. The other source is astrocytes 
+that have migrated from a distal area to the lesion site[22]. in 
+addition to the astrocytic origin of the astrocytes localized 
+in the spinal cord[23], glial scar formation also involves the 
+activation of cells including ependymal cells, NG2-positive 
+cells, and meningeal cells surrounding the lesion site[24–26]. 
+More importantly, several studies have shown that the 
+various aforementioned cells, which are able to change 
+their phenotypes, are eventually fated to become reactive 
+astrocytes and are located in the glial scar[25,27,28].
+in the adult rodent spinal cord, stem/progenitor cells 
+exist at two main locations: the zone proximal to the central 
+canal and the outer circumference below the pial surface of 
+the cord[29]. Via genetic fate mapping, ependymal cells have 
+been identified as the dominant proliferating cell population 
+that act as neural stem cells and give rise to new cells in 
+the intact adult spinal cord[30] (Fig. 1).
+in response to SCi, ependymal cells lining the central 
+canal are induced to generate migratory progeny that 
+differentiate into astrocytes and participate in glial scar 
+formation[31]. Most ependymal cell-derived astrocytes 
+are GFAP-negative but express other markers and have 
+ultrastructural characteristics of astrocytes. The ependymal 
+cell-derived astrocytes form the core of the glial scar, and 
+the astrocytes at the periphery arise by self-duplication[26].
+NG2, a membrane-spanning CSPG, is not only 
+expressed in a population of fate-restricted oPCs but 
+also exists on many cellular surfaces after damage to the 
+spinal cord[32]. Previous work has provided evidence that 
+the NG2+ cell population includes oPCs[33], pericytes[34], 
+non-myelinating Schwann cells[35], meningeal cells[36], 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 423
+macrophages[37] and microgl ia [38],  suggest ive of a 
+heterogeneous cell population within the injured spinal 
+cord. Sellers and colleagues have demonstrated that NG2 
+progenitors have a diverse differentiation profile, producing 
+oligodendrocytes, expressing myelin basic protein in 
+processes that wrap axons 7 days after injury, and 
+differentiating into scar-forming astrocytes during 24 h post-
+lesion[28]. Evidence has also been presented that nestin- 
+and double cortin-positive meningeal cells may be a new 
+source of multipotential adult stem/precursor cells in the 
+spinal cord parenchyma, and these cells can differentiate 
+and migrate to participate in glial scar formation[27]. in 
+addition, Nestin+ and Nkx6.1+ vascular muscle cells[39], 
+which are characteristic of mineralization, can give rise to 
+scar-forming stromal cells, but their interaction with glial 
+scar-forming astrocytes is not fully established. Further 
+studies are required to clarify the features and the fate 
+of NG2+ infiltrating macrophages and resident microglia 
+around the scar[40,41].
+Mechanisms of Glial Scar Formation 
+Considerable research on the signaling pathways and 
+molecular mediators involved in the triggering and 
+modulation of reactive astrocytes has advanced our 
+understanding of the important role of reactive astrogliosis 
+Fig. 1. Schematic of the cellular origin of glial scar formation following spinal cord injury (SCI). Astrocytes (blue), ependymal cells 
+(rose) and NG2+ progenitor cells (green) can give rise to a heterogeneous scar-forming astrocyte population within the glial scar 
+established after SCI.
+Neurosci Bull     August 1, 2013, 29(4): 421–435424
+in CNS injury. However, the molecular mechanisms 
+underlying glial scar formation after SCi have not been fully 
+elucidated. Here, we briefly summarize some molecules 
+associated with the initiation and maintenance of the glial 
+scar in different animal models of SCi (Table 1).
+Bone morphogenetic proteins (BMPs)  Traumatic injury 
+to the spinal cord results in the up-regulation of BMPs 
+2/4/7 and noggin in reactive astrocytes at the lesion 
+site[42]. Neurosphere cultures from the cord of the adult 
+mouse show that BMP-4 promotes astrocyte differentiation 
+from NSCs while suppressing the production of neurons 
+and oligodendrocytes[43]. Moreover, genetic ablation of 
+BMPR1b, a subtype of the type 1 BMP receptor, leads to 
+an attenuated glial scar in the chronic stages following 
+compression injury, indicative of a vital role in glial scar 
+progression[44]. interestingly, BMPR1a and BMPR1b 
+signaling have opposite effects on the early beneficial 
+phases of astrocytic hypertrophy, while an apparent 
+disruption of reactive astrocytic gliosis at the acute stage 
+following SCi occurs in BMPR1a conditional knockout 
+animals. Collectively, these findings reveal that BMPs are 
+deeply involved in the initial establishment and progressive 
+maintenance of glial scar formation. 
+Matrix metalloproteinases (MMPs)  MMP-2 and MMP-9, 
+members of the MMP family implicated in ECM remodeling, 
+are spatially and temporally correlated with glial scar 
+formation[45]. By using specific gene-deficient mice, MMP-2 
+and MMP-9 have been demonstrated to play a synergistic 
+role in glial scar formation. An overt role of limiting 
+extensive glial scarring has been found in the MMP-2-null 
+mouse[46], while MMP-9 is instrumental in the development 
+of an inhibitory glial scar by increasing the migration 
+of reactive astrocytes surrounding the lesion site[47]. 
+Furthermore, infusion of a recombinant extracellular MMP 
+inducer adenovirus into the contused animal spinal cord, 
+and, consequently, increasing the secretion of MMP-3, 
+reduces CSPG deposition in the glial scar and improves 
+locomotor recovery[48].
+Epidermal growth factor receptor (EGFR)  EGFR, 
+which is undetectable in astrocytes in normal adult CNS, 
+is upregulated in astrocytes after contusive damage to 
+the spinal cord[49]. Further study has demonstrated that 
+EGFR induces reactive astrocytes to migrate, undergo 
+hypertrophy, and form a glial scar through activation of 
+the Rheb–mToR signal pathway[50]. Deprivation of EGFR 
+activity in mice results in malformed glial borders and larger 
+lesions after SCi[51]. in addition, EGFR ligands, such as 
+EGF and transforming growth factor-alpha (TGF-alpha), 
+stimulate astrocytes to secrete CSPGs to further form the 
+glial scar[52]. EGFR also favors the activation of microglia 
+via the phosphorylation of MAPK and downstream 
+mediators[53]. Hence, EGFR at the lesion area is a critical 
+player responsible for glial scar formation during the acute 
+stage after SCi. 
+Eph/Ephrins  The Eph family of receptor tyrosine kinases 
+is well known for its role in guiding axonal growth during 
+development. After damage to the adult spinal cord, 
+members of the Eph family, along with their ligands 
+(ephrins), accumulate in the proximal axon stump and 
+reactive astrocytes and are thus implicated in glial scar 
+formation[54]. The studies of the effects of ephrin-B2 on 
+reactive astrocytes and EphB2 on meningeal fibroblasts 
+demonstrate that cellular interplay mediated by ephrin-B2 
+and EphB2 is an early event that results in the development 
+of a glial scar in the injured spinal cord[55]. in addition, 
+the up-regulation of EphA4 in injured axons leads to the 
+retraction of corticospinal axons and inhibition of axon 
+regeneration in the weeks after a spinal lesion[56]. Notably, a 
+study by Turnley’s team showed that astrocytic gliosis and 
+glial scars are greatly reduced in EphA4-deficient mice after 
+a lateral spinal cord hemisection[57]. in contrast, the genetic 
+deletion of EphA4 does not significantly alter the astroglial 
+response or cause the development of an astroglial 
+fibrotic scar after dorsal hemisection SCi in mice[58]. This 
+discrepancy cannot be simply explained by the lesion 
+models used. Turnley’s team re-examined astrocytic gliosis 
+following injury in EphA4-null mice and revealed that these 
+mice no longer show attenuation of astrocyte reactivity, 
+while other phenotypes, such as decreased size of the 
+dorsal funiculus, are unaltered. They demonstrated that 
+the change in the EphA4-mediated astroglial phenotype is 
+associated with long-term breeding of the EphA4 colony 
+but does not appear to be influenced by the background 
+mouse strain[59]. 
+Cytoskeleton   Viment in and GFAP are the main 
+cytoskeletal intermediate filaments of astrocytes expressed 
+during development and adulthood, respectively. After 
+SCi, both vimentin and GFAP are up-regulated in reactive 
+astrocytes[60]. An analysis of mice that are genetically 
+deficient in vimentin or GFAP showed that glial scar 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 425
+Table 1. Triggers and mediators involved in the formation of glial scar
+Molecules Manipulation injury model GS formation outcome Ref
+BMPs 4&7 ↑By injection into  Local demyelination  ↑CSPGs such as ↓Axonal regeneration, [42]
+ spinal cord by lysolecithin neurocan and aggrecan ↓functional recovery
+BMPR1b BMPR1b KO mouse Compression  ↓Gial scar in chronic stages ↓Iesion size; ↑compaction  [44]
+    of inflammatory cells
+MMP-2 MMP-2-null mouse Contusion  ↑CSPGs and extensive  ↓Serotonergic fibers,  [46] 
+   astrocytic scar ↓white matter sparing, 
+    ↓locomotor performance
+MMP-9 MMP-9-null mouse Contusion  ↓CSPGs and glial scar  Abnormalities in actin [47]
+   formation cytoskeletal organization, 
+    impaired migration 
+EGFR C57BL/6J- Egfr(Vel)/J Contusion at T9 Malformed glial borders ↑Lesion area; [51]
+ mouse   ↓recovery of function
+ ↓By specific EGFR  Contusion at T10 ↓Accumulation of CSPGs ↓Demyelination; [53]
+ inhibitor (AG1478)   ↑GAP-43 expression, hindlimb
+    function
+EphA4 EphA4 (-/-) KO mouse Lateral hemisection ↓GS formation ↑Axonal regeneration [57] 
+  at T12 
+ EphA4 (-/-) KO mouse Dorsal hemisection  No formation of astroglial- No change in lesion size, [58]
+  at T8 fibrotic scar neuronal survival, inflam-
+    mation marker expression 
+ViM & GFAP VIM & GFAP (-/-)  Hemisection ↓GS formation ↑Density of serotonergic fibers [63]
+ double Ko mouse
+TGF-beta1 ↓By antibody Contusion at T9/10 ↓GS formation, CSPG  ↑Accumulation and activation [67]
+   expression of microglia/macrophages;
+     ↑growth and/or preservation 
+    of serotonergic axons 
+Stat3 Gfap-Stat3 (-/-)  Crush injury at L1/L2 ↓GS formation ↑Inflammation and lesion  [71]
+ CKO mouse   volume; ↓motor recovery
+IL-6 ↓By IL-6 receptor Contusion  ↓GS formation ↓Connective scar formation,  [78]
+ monoclonal antibody   ↓inflammation; 
+    ↑functional recovery
+S100A4 S100A4 (-/-)  Focal demyelination  ↓GS formation ↑Astrocyte migration into  [79]
+ Ko mouse by ethidium bromide  demyelinated area
+SoX9 Sox9 (-/-) CKO  Contusion at T9 ↓CSPG deposition ↑Hindlimb function, ↑locomotor [80]
+ mouse   recovery; ↑NF+ and 5-HT+ fibers
+PKC ↓By Gö6976 Dorsal hemisection ↓Inhibitory activity of  ↑Regeneration of dorsal  [81]
+   CSPGs column axons 
+Abbreviations: “-”, deficient; “↓”, down-regulation; “↑”, upregulation; 5-HT, 5-hydroxytryptamine (serotonin); CSPGs, chondroitin sulfate 
+proteoglycans; GAP-43, growth-associated protein-43; GFAP, glial fibrillary acidic protein; GS, glial scar; IL-6, interleukin-6; KO, knockout; NF, 
+neurofilament; Ref, reference; VIM, vimentin.
+Neurosci Bull     August 1, 2013, 29(4): 421–435426
+formation appears normal after spinal cord or brain lesions. 
+However, less dense scars frequently accompanied by 
+bleeding occur in mice double-deficient in vimentin and 
+GFAP[61], most likely due to the impaired astrocytic motility 
+resulting from the ablation of intermediate filaments[62]. 
+Moreover, the genetic absence of vimentin and GFAP 
+also improves axonal sprouting[63] and facilitates functional 
+recovery in the context of a spinal cord hemisection 
+model[64]. 
+Transforming growth factor-beta  TGF-beta expression 
+increases immediately after SCi in the injured segment[65]. 
+Both TGF-beta1 and TGF-beta2 are detectable in 
+macrophages and astrocytes, while TGF-beta1 is also 
+neuron-associated[66]. The cellular localization and temporal 
+expression pattern of TGF-beta after SCi suggest that early 
+induction of TGF-beta1 at the point of SCi modulates acute 
+inflammatory responses and glial scar formation[67], while 
+the later induction of TGF-beta2 indicates a regulatory role 
+in the maintenance of the scar[68].
+Signal transducer and activator of transcription and 
+interleukin (STAT/IL) family STAT3, which contributes 
+to neuro-inflammation[69] and promotes neuronal survival 
+and regeneration[70] after SCi, is one of the most important 
+transducers in the process of glial scar formation. A marked 
+reduction of glial scarring and a significant improvement of 
+locomotion occur in animals with conditional knockdown 
+of STAT3 compared with their wild-type counterparts[71]. 
+Notably, the post-injury inhibition of STAT3 nuclear 
+translocation mitigates the proliferation and migration 
+of spinal astrocytes, suggesting that regulating STAT3 
+is an effective avenue to control the development and 
+maintenance of glial scars[72,73]. A wide spectrum of 
+extracellular triggers is able to activate intracellular STAT3, 
+particularly type i and ii interferons, neurocytokines, and 
+growth factors including EGF and platelet-derived growth 
+factor[74]. In the case of the interleukin-6 (IL-6) family, 
+cytokines such as IL-6, leukemia inhibitory factor and 
+ciliary neurotrophic factor, which undergo dimerization of 
+the gp130 signal transduction subunit with other specific 
+receptors, direct the activation of STAT3 and elicits changes 
+in reactive astroglia and astrocytic scar formation[75–77]. 
+Emerging lines of evidence indicate that neutralization of 
+pro-inflammatory signals such as IL-6 during the acute 
+phase of SCi significantly suppresses the astrocytic 
+differentiation-promoting effect of endogenous neural stem/
+progenitor cells, implying a cellular impact on glial scar 
+formation by IL-6[78].
+Moreover, using knock-out mice, S100A[79] and 
+SoX9[80] are also reported to be directly involved in glial 
+scar formation by promoting reactive astrocytic migration 
+and targeting CSPG deposition, respectively. in addition, a 
+study of PKC disruption by the inhibitor Gö6976 has linked 
+an increase in the regeneration of dorsal column axons 
+with the inactivation of CSPGs after dorsal spinal cord 
+hemisection[81]. More interestingly, Bhalala et al. recently 
+reported that miR-21 regulates astrocytic hypertrophy 
+and glial scar progression after SCi, which implicates 
+epigenetic regulation as a potential therapeutic target for 
+manipulating glial scar formation and improving functional 
+performance[82].
+Roles of Glial Scars in SCI 
+in a relative sense, there are two facets of glial scar 
+function in the injured spinal cord. At the acute and 
+subacute stages after SCi, the glial scar serves to seclude 
+the lesion area from healthy tissue by limiting disruption 
+of the blood-spinal cord barrier, the amplification of an 
+overwhelming inflammatory response[83] and massive 
+cellular degeneration[11]. Gradually, the glial scar has its 
+detrimental effect, which is characteristically a long-lasting 
+physical and chemical barrier to axonal regrowth during the 
+chronic period[84,85]. 
+Influence on Axonal Growth
+over the past decade, increasing evidence has attributed 
+the fai lure of axonal regrowth after SCi to l imited 
+intrinsic neuronal plasticity and the local non-permissive 
+microenvironment including myelin-associated growth 
+inhibitors as well as the glial scar[86,87]. inhibition of glial 
+scar formation by deleting key signals that mediate the 
+process has shown an overt facilitation of the affected axon 
+regrowth. Of note, MRL/MpJ mice are a genetically inbred 
+strain that exhibit decreased scarring and fibrosis with a 
+rapid regenerative healing response in several somatic 
+tissue wounds[88,89]. Bona fide axonal regrowth, including 
+sprouting and regeneration, has been observed in MRL/
+MpJ mice with dorsal hemi-section and contusion[90,91]. 
+However, there are many differences between the two 
+studies. In the MRL/MpJ mice with mid-thoracic spinal 
+contusion, poor locomotor recovery is accompanied by 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 427
+ongoing degeneration both within and surrounding the 
+chronic lesion site[89]. On the contrary, MRL/MpJ mice that 
+undergo a dorsal hemisection show improved recovery of 
+motor function, a reduced astrocytic response, and fewer 
+micro-cavities at the injury site[90]. Although a spectrum of 
+axonal growth-promoting molecules, such as laminin[92] 
+and fibronectin[93], is induced by scar tissue after damage 
+to the spinal cord, the prominent chemical constituents 
+secreted by reactive astrocytes, CSPGs, stimulate axonal 
+regrowth in the inhibitory milieu[94]. Currently, the two 
+predominant receptor protein tyrosine phosphatase (RPTP) 
+receptors, RPTP-sigma[95] and leukocyte common antigen-
+related receptor (LAR)[85] have been identified as functional 
+receptors of CSPGs. in RPTP-sigma-deficient mice, the 
+regrowth of axons across the CSPG-rich glial scar has 
+been reported in many SCi models, including those of 
+dorsal column crush, spinal hemisection and contusion[96]. 
+Fisher et al. demonstrated that the LAR-CSPG complex 
+triggers the inhibition of axonal growth, partially via 
+inactivating Akt and activating RhoA signals; furthermore, 
+the deletion of LAR in knock-out mice or the blockade 
+of LAR with sequence-selective peptides significantly 
+overcomes the growth restriction of serotonergic fibers by 
+CSPG and promotes functional locomotor recovery[97]. 
+Regulation of Neuro-inflammation
+The neuroinflammatory response includes the activation of 
+tissue-resident microglia and the infiltration of blood-borne 
+macrophages, further contributing to secondary damage 
+in the spinal cord, along with glial scarring and progressive 
+cavitation[98,99]. in the acute stage after SCi, the single-layer 
+perivascular basement membrane in the specialized blood-
+spinal cord barrier often separates into an inner endothelial 
+basement membrane and an outer parenchymal basement 
+membrane. Numerous mononuclear phagocytes accu-
+mulate in the space between the membranes and infiltrate 
+into the surrounding parenchyma. Attenuation of the 
+inflammatory cascade exerted by infiltrating monocytes 
+occurs during the subacute period following SCi and 
+coincides with the appearance of the glial scar and glia 
+limitans, suggesting the potential regulation of inflammation 
+by glial scarring[100]. Moreover, disruption of astroglial scar 
+formation using astrocytic STAT3-CKo mice to augment 
+the spread of inflammation after SCi underscores the 
+beneficial effect of glial scars on inflammatory restriction[70]. 
+From a historical perspective, neuro-inflammation has 
+a negative reputation in the context of SCi. However, 
+increasing evidence over the past decade has changed 
+this perception due to the existence of alternative anti-
+inflammatory monocytes[5]. The alternative activation of 
+mononuclear (IL-10 producing) phagocytes, in contrast to 
+the classic phenotype of pro-inflammatory features, has 
+a strong matrix-resolving property to degenerate the glial 
+scar depending on the expression of the matrix-degrading 
+enzyme MMP-13 [101,102]. More interestingly, CSPGs, 
+the predominant component of glial-scar ECM, directly 
+activate microglia/macrophages via the CD44 receptor 
+and modulate neurotrophic factor secretion by these cells 
+during the first two days after injury[18]. These studies 
+advance our knowledge of the interaction between glial 
+scar formation and the neuro-inflammatory response after 
+SCI and emphasize the synergistic impact on the reparative 
+process, suggesting a promising strategy for controlling 
+neuro-inflammation by manipulating glial scarring.
+Targeting Glial Scars to Promote Repair after SCI
+SCi, with high morbidity and poor prognosis, including 
+paraplegia, hemiplegia and quadriplegia, is a worldwide 
+medical problem. Clinically, in addition to surgical 
+decompression and spinal stabilization[103], the administration 
+of methyl-prednisolone has been used to prevent secondary 
+neuronal damage[104]. However, these interferences have not 
+translated into significant functional recovery or sparing of 
+neuronal tissue. in the past two decades, great progress has 
+been made on the development of remedial interventions 
+targeting the glial scar formed after traumatic damage to the 
+spinal cord.
+Physical Interventions
+Low-power laser irradiation, a modified physical therapy, is 
+used in the treatment of severely injured peripheral nervous 
+system and CNS[105]. in SCi, regardless of whether the 
+damage is contusive or compressive, the irradiated spinal 
+cord reveals a prominent reduction in the extent of the 
+astrocyte response, manifesting attenuated CSPG-matrix 
+accumulation, glial scar and syringomyelia[106]. in addition, 
+the conversion of a normally non-permissive environment 
+into a friendly milieu induced by low-dose irradiation is 
+conducive to motor recovery after SCi[107].
+Based on a study of the injured mammalian spinal 
+cord, the instructive effect of an imposed electrical field 
+Neurosci Bull     August 1, 2013, 29(4): 421–435428
+may be attributed to a shift in the arrangement of reactive 
+astrocytes in undamaged white matter near the lesion and 
+the significantly reduced number of astrocytes possessing 
+oriented cell processes within the injury site, which 
+potentially has an influence on glial scar formation after 
+SCi[108]. More importantly, in patients with complete SCi, 
+implantation of an oscillating field stimulator for 15 weeks 
+allows the recording of upper-extremity somatosensory-
+evoked potentials at 6 weeks, 6 months, and 1 year[109].
+Pharmacological Strategies
+Following SCI, the specialized microstructure of the blood-
+spinal cord barrier is damaged, and the permeability 
+between spinal cord tissue and blood vessels is unres-
+tricted until the subacute phase[110]. Thus, by harnessing 
+this window of barrier impairment, the delivery of 
+pharmacological agents is a feasible approach to treat 
+SCi. Agents that have been reported to promote axonal 
+regeneration or/and functional recovery after SCi by 
+manipulating glial scar formation are listed in Table 2. 
+Many studies have provided evidence of the growth-
+inhibitory nature of CSPG-containing glial scars, which 
+are primary targets for therapeutic strategies after 
+SCi[92]. it is well-established that chondroitinase ABC 
+(ChABC) significantly ameliorates the hostile-matrix 
+microenvironment following SCI by enzymatically digesting 
+the glycosaminoglycan side-chains of CSPGs and promotes 
+functional recovery[4,111,112]. in accord with these findings, 
+a recent study showed that the infusion of ChABC is also 
+successful in restoring neuronal glycosylation to normal[113]. 
+However, the clinical translation of ChABC may be set 
+back by two major challenges: (1) its poor thermostability 
+and (2) its synthesis from an Escherichia coli origin, which 
+may carry immunological risk[114,115]. in addition to ChABC, 
+there is evidence that MMPs can degrade the protein 
+backbone of some CSPGs to restrict the formation of a glial 
+scar[116], and the process is associated with mitigation of a 
+functional deficit; however, axonal dieback is an unpleasant 
+secondary response[117]. Grimpe and Silver showed that a 
+newly-designed DNA enzyme against xylosyltransferase-1, 
+a critical enzyme that initiates glycosylation of the 
+protein core of CSPGs, blocks the formation of intact 
+glycosaminoglycan-bearing CSPGs in the glial scar and 
+allows micro-transplanted dorsal root ganglia axons to 
+regenerate around the core of the lesion[118].
+Decorin, a small leucine-rich proteoglycan containing 
+only one glycosaminoglycan chain, is a versatile player 
+in regulating glial scar formation following SCi. Mini-
+pump administration of decorin into acute stub injuries 
+of the adult rat spinal cord inhibits neurocan, brevican, 
+phosphacan and NG2 expression[119]. in addition, decorin 
+is reported to attenuate glial scar formation in the rat 
+cerebral hemisphere[120]. in accord with these findings, 
+decorin treatment in acute SCi induces the synthesis of 
+plasminogen/plasmin by microglia, and these are known 
+to play major roles in degrading the inhibitory components 
+of the glial scar and promoting CNS plasticity[121]. More 
+interestingly, a recent study showed that decorin has 
+the ability to directly stimulate neurons to extend axons 
+within CSPG- or myelin-rich environments, suggestive of 
+a coherent pharmacological base that suppresses scar-
+formation to facilitate axonal regrowth after SCi[122].
+it is well established that anaerobic metabolism at 
+the lesion site due to the loss of high-energy metabolites 
+is an important contributor to secondary damage and 
+neurological deficits[123]. Before undergoing a moderate 
+spinal cord contusion, rats pretreated with creatine, a 
+potent intracellular energy buffer, score better than controls 
+in the BBB open-field locomotor rating scale and have 
+significantly less scar tissue surrounding the cavity[124]. 
+our recent study found that ethyl pyruvate, which is able 
+to compensate for cellular ATP synthesis[125], improves 
+functional recovery by evoking a significant amelioration 
+of the abnormal glial microenvironment after SCi[126]. in the 
+damaged cord, glial scar formation is markedly reduced, 
+whereas the number of proliferative astrocytes decreases 
+in an astrocyte culture scratch injury model after ethyl 
+pyruvate administration. Moreover, ethyl pyruvate affects 
+activated microglia and CD11b-positive inflammatory cells 
+in an anti-inflammatory fashion.
+A recent study showed that the delayed expression 
+of cell-cycle proteins contributes to astroglial scar 
+formation and chronic inflammation after rat spinal cord 
+contusion, suggesting that pharmacological agents 
+against cell-cycle proteins ameliorate the non-permissive 
+microenvironment[127]. Specifically, the use of olomoucine 
+to inhibit cell cycle kinases (CDKs) 2 and 5 results in the 
+persistent down-regulation of astroglia[128] and microglia[129] 
+proliferation within the glial scar around the site of a spinal 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 429
+Table 2. Pharmacological agents that affect glial scar formation
+Compound injury model Mechanism Effect on GS outcome Ref
+ChABC Moderate  Intracellular energy  ↓Scar tissue  Better BBB open  [4]
+ contusion supplement in   surrounding  field locomotor score  
+  maintaining cellular  cavity than control
+  energy homeostasis
+Decorin Stub lesion  Elevated plasminogen/  ↓CSPGs and  ↑Ability of axons from [119]
+ at C1/2 plasmin to digest CSPGs inflammation microtransplanted adult [121]
+    sensory neurons to enter, [122]
+    grow within lesion area  
+Ethyl pyruvate Hemisection Supplement of energy ↓Reactive astrogliosis ↑Survival of neurons, [125]
+ at T8 substrate and anti-  and CSPG deposits regrowth of CST and [126]
+  inflammation signal   functional locomotor 
+  pathway    recovery
+Creatine Moderate  Intracellular energy   ↓Scar tissue Better BBB open field [124]
+ contusion supplement in maintaining  surrounding cavity locomotor score than 
+  cellular energy homeostasis  control
+Olomoucine Hemisection   Selective inhibition of cell  ↓Astroglia and microglia ↑Expression of GAP-43 [128] 
+ at T12–T13 cycle kinase (CDK) 2 and 5 proliferation; accumulation and functional recovery [129]
+   of CSPGs
+Flavopiridol Moderate   Reduction of Cyclin D1  ↓Proportional area of ↑BBB and CBS [130]
+ contusion  and G1 protein GFAP-labeled tissue 
+ at T9  around lesion epicenter  
+CR8 Moderate   Inhibition of CDKs  ↓Astrogliosis and ↑BBB and CBS [131]
+ contusion  1, 2, 5, 7 and 9 inflammatory protein   [132]
+ at T8  expression
+Rapamycin Ischemia Selective inhibition of  ↓Reactive astrogliosis ↑Anti-inflammation; [50]
+  Rheb-mTOR pathway  ↓neural tissue damage
+     and locomotor impairment 
+Triptolide Hemisection Blocking JAK2-STAT3  ↓Astrocytic gliosis and  ↑Regrowth of CST and  [134]
+ at T8 pathway CSPG expression functional locomotor  
+    recovery
+Rolipram Hemisection  Inhibition of  ↓Reactive gliosis;   ↑Axon regrowth into em- [135]
+ at C3/4 phosphodiesterase formation of GS bryonic spinal transplant;
+    significant improvement  
+    in motor function
+Rose Bengal Contusive  Photochemical  Ablation of astrocytes No change in behavioral [136]
+ injury irradiation in scar tissue, partial score
+   spared tissue   
+7 beta-OH  Hemisected  Not mentioned ↓Astrocyte hyperplasia  ↑Regrowth of axons in de- [137]
+cholesteryl- at T8/9  and hypertrophy nervated dorsal horn, below
+oleate      hemisection originating
+    from contralateral side 
+Abbreviations: “↓”, reduction or decrease; “↑”, promotion or enhancement; BBB, Basso Beattie and Bresnahan locomotor rating scale; CBS, 
+combined behavioral score; CR8, N6-biaryl-substituted derivative of roscovitine; CSPGs, chondroitin sulfate proteoglycans; CST, corticospinal tract; 
+GAP-43, growth-associated protein-43; GFAP, glial fibrillary acidic protein; GS, glial scar; Ref, reference; SCI, spinal cord injury.
+Neurosci Bull     August 1, 2013, 29(4): 421–435430
+lesion, and this, in turn, results in successful neuronal 
+sprouting and functional recovery. Similarly, flavopiridol, 
+a non-selective CDK inhibitor that also inhibits the 
+transcription of cyclin D1, reduces glial scar formation 
+and mitigates the functional deficits from 21 days post-
+injury[130]. Recently, CR8, a potent and selective roscovitine-
+derived inhibitor of CDKs that has been reported to provide 
+neuroprotection in experimental traumatic brain injury[131], 
+was found to have a beneficial effect after impact contusive 
+SCi in rats[132]. The systemic and continuous administration 
+of CR8 limits the sustained elevation of cell-cycle proteins 
+related to delayed astroglial scar formation and chronic 
+inflammation, thus significantly improving the functional 
+recovery. 
+There is strong evidence that rapamycin is neurop-
+rotective and promotes functional recovery by overcoming 
+glial-scar inhibition through inhibition of a specific signal 
+pathway[50]. Rapamycin, an mToR-selective inhibitor, 
+promotes autophagy and anti-inflammation, thereby playing 
+a neuroprotective role[133]. Based on a screen of the active 
+ingredients of Tripterygium wilfordii Hook. F., we found that 
+triptolide reduces glial scar formation by inactivating the 
+JAK2–STAT3 signal pathway[134]. Moreover, observations 
+from sporadic studies suggest that compounds such as 
+rolipram[135], rose Bengal[136] and 7 beta-oH cholesteryl-
+oleate[137] may be beneficial in treating SCI by manipulating 
+glial scarring. 
+Concluding Remarks
+Glial scar formation is an important biological event after 
+SCi. Research in recent years has highlighted the pivotal 
+and complex roles played by the glial scar in secondary 
+damage in SCi. We have discussed recent progress in our 
+understanding of the glial scar: its molecular and cellular 
+properties; its role in regulating axonal regeneration and 
+neuro-inflammation; and its manipulation by physical and 
+pharmacological approaches. However, many important 
+questions remain to be answered, and the key implications 
+of the glial scar need to be further explored. Basic research 
+that focuses on investigating the mechanisms underlying 
+glial scar formation, especially the role of endogenous 
+stem/progenitor cells localized in the parenchyma of the 
+injured spinal cord, as well as developing pharmacological 
+approaches to manipulate glial scar formation and promote 
+axonal regeneration, will be helpful in achieving successful 
+therapeutic explorations for SCi.
+ACKNOWLEDGEMENTS
+This review was supported by grants from the National Basic 
+Research Development Program of China (2011CB504401) and 
+the National Natural Science Foundation of China (31130024, 
+31070922 and 81261130313).
+Received date: 2012-12-18; Accepted date: 2013-05-03
+REFERENCES 
+[1] Wilhelmsson U, Bushong EA, Price DL, Smarr BL, Phung 
+V, Terada M, et al. Redefining the concept of reactive 
+astrocytes as cells that remain within their unique domains 
+upon reaction to injury. Proc Natl Acad Sci U S A 2006, 
+103(46): 17513–17518.
+[2] Su Z, Yuan Y, Chen J, Zhu Y, Qiu Y, Zhu F, et al. Reactive 
+astrocytes inhibit the survival and differentiation of 
+oligodendrocyte precursor cells by secreted TNF-α. J 
+Neurotrauma 2011, 28(6): 1089–1100.
+[3] Fawcett JW, Asher RA. The glial scar and central nervous 
+system repair. Brain Res Bull 1999, 49(6): 377–391.
+[4] Bradbury EJ, Moon LD, Popat RJ, King VR, Bennett GS, 
+Patel PN, et al. Chondroitinase ABC promotes functional 
+recovery after spinal cord injury. Nature 2002, 416(6881): 
+636–640.
+[5] Rolls A, Shechter R, Schwartz M. The bright side of the glial 
+scar in CNS repair. Nat Rev Neurosci 2009,10(3): 235–241.
+[6] Kawano H, Kimura-Kuroda J, Komuta Y, Yoshioka N, Li HP, 
+Kawamura K, et al. Role of the lesion scar in the response 
+to damage and repair of the central nervous system. Cell 
+Tissue Res 2012, 349(1): 169–180.
+[7] Göritz C, Dias DO, Tomilin N, Barbacid M, Shupliakov O, 
+Frisén J. A pericyte origin of spinal cord scar tissue. Science 
+2011, 333(6039): 238–242.
+[8] Matthews MA, St Onge MF, Faciane CL, Gelderd JB. Axon 
+sprouting into segments of rat spinal cord adjacent to the 
+site of a previous transection. Neuropathol Appl Neurobiol 
+1979, 5(3): 181–196.
+[9] Hu R, Zhou J, Luo C, Lin J, Wang X, Li X, et al. Glial 
+scar and neuroregeneration: histological, functional, and 
+magnetic resonance imaging analysis in chronic spinal cord 
+injury. J Neurosurg Spine 2010, 13(2): 169–180.
+[10] Matsui F, oohira A. Proteoglycans and injury of the central 
+nervous system. Congenit Anom 2004, 44: 181–188.
+[11] Silver J, Miller JH. Regeneration beyond the glial scar. Nat 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 431
+Rev Neurosci 2004, 5(2): 146–156.
+[12] Rhodes  KE,  Fawce t t  JW.  Chondro i t i n  su lpha te 
+proteoglycans: preventing plasticity or protecting the CNS? 
+J Anat 2004, 204: 33–48.
+[13] Tang X, Davies JE, Davies, SJ. Changes in distribution, 
+cell associations, and protein expression levels of NG2, 
+neurocan, phosphacan, brevican, versican V2, and 
+tenascin-C during acute to chronic maturation of spinal cord 
+scar tissue. J Neurosci Res 2003, 71: 427–444.
+[14] Jones LL, Margolis RU, Tuszynski MH. The chondroitin 
+sulfate proteoglycans neurocan, brevican, phosphacan, and 
+versican are differentially regulated following spinal cord 
+injury. Exp Neurol 2003, 182: 399–411.
+[15] Buss A, Pech K, Kakulas BA, Martin D, Schoenen J, Noth 
+J, et al. NG2 and phosphacan are present in the astroglial 
+scar after human traumatic spinal cord injury. BMC Neurol 
+2009, 9: 32. 
+[16] Monnier PP, Sierra A, Schwab JM, Henke-Fahle S, Mueller 
+BK. The Rho/RoCK pathway mediates neurite growth-
+inhibitory activity associated with the chondroitin sulfate 
+proteoglycans of the CNS glial scar. Mol Cell Neurosci 
+2003, 22(3): 319–330.
+[17] Siebert JR, Osterhout DJ.The inhibitory effects of 
+chondroitin sulfate proteoglycans on oligodendrocytes. J 
+Neurochem 2011, 119(1): 176–188.
+[18] Rolls A, Shechter R, London A, Segev Y, Jacob-Hirsch 
+J, Amariglio N, et al. Two faces of chondroitin sulfate 
+proteoglycan in spinal cord repair: a role in microglia/
+macrophage activation. PLoS Med 2008, 5(8): e171.
+[19] Malhotra SK, Svensson M, Aldskogius H, Bhatnagar R, 
+Das GD, Shnitka TK. Diversity among reactive astrocytes: 
+proximal reactive astrocytes in lacerated spinal cord 
+preferentially react with monoclonal antibody J1-31. Brain 
+Res Bull 1993, 30(3–4): 395–404.
+[20] Zamanian JL, Xu L, Foo LC, Nouri N, Zhou L, Giffard RG, 
+et al. Genomic analysis of reactive astrogliosis. J Neurosci 
+2012, 32(18): 6391–6410.
+[21] Buffo A, Rite I, Tripathi P, Lepier A, Colak D, Horn AP, 
+et al. origin and progeny of reactive gliosis: a source of 
+multipotent cells in the injured brain. Proc Natl Acad Sci U S 
+A 2008, 105: 3581–3586.
+[22] Renault-Mihara F, okada S, Shibata S, Nakamura M, 
+Toyama Y, Okano H. Spinal cord injury: emerging beneficial 
+role of reactive astrocytes' migration. Int J Biochem Cell Biol 
+2008, 40(9): 1649–1653.
+[23] Guo F, Maeda Y, Ma J, Delgado M, Sohn J, Miers L, et al. 
+Macroglial plasticity and the origins of reactive astroglia in 
+experimental autoimmune encephalomyelitis. J Neurosci 
+2011, 31(33): 11914–11928.
+[24] Horky LL, Galimi F, Gage FH, Horner PJ. Fate of 
+endogenous stem/progenitor cells following spinal cord 
+injury. J Comp Neurol 2006, 498: 525–538.
+[25] Lytle JM, Wrathall JR. Glial cell loss, proliferation and 
+replacement in the contused murine spinal cord. Eur J 
+Neurosci 2007, 25: 1711–1724.
+[26] Decimo I, Bifari F, Rodriguez FJ, Malpeli G, Dolci S, Lavarini 
+V, et al. Nestin- and doublecortin-positive cells reside in 
+adult spinal cord meninges and participate in injury-induced 
+parenchymal reaction. Stem Cells 2011, 29(12): 2062–
+2076.
+[27] Meletis K, Barnabé-Heider F, Carlén M, Evergren E, 
+Tomilin N, Shupliakov o, et al. Spinal cord injury reveals 
+multilineage differentiation of ependymal cells. PLoS Biol 
+2008, 6(7): e182.
+[28] Sellers DL, Maris DO, Horner PJ. Postinjury niches induce 
+temporal shifts in progenitor fates to direct lesion repair after 
+spinal cord injury. J Neurosci 2009, 29(20): 6722–6733.
+[29] Horner PJ, Power AE, Kempermann G, Kuhn HG, Palmer 
+TD, Winkler J, et al. Proliferation and differentiation of 
+progenitor cells throughout the intact adult rat spinal cord. J 
+Neurosci 2000, 20(6): 2218–2228.
+[30] Barnabé-Heider F, Göritz C, Sabelström H, Takebayashi 
+H, Pfrieger FW, Meletis K, et al. origin of new glial cells in 
+intact and injured adult spinal cord. Cell Stem Cell 2010, 7: 
+470–482.
+[31] Johansson CB, Momma S, Clarke DL, Risling M, Lendahl 
+U, et al. identification of a neural stem cell in the adult 
+mammalian central nervous system. Cell 1999, 96(1): 25–
+34.
+[32] Fox K, Caterson B. Neuroscience. Freeing the brain from 
+the perineuronal net. Science 2002, 298: 1187–1189.
+[33] McTigue DM, Wei P, Stokes BT. Proliferation of NG2-
+positive cells and altered oligodendrocyte numbers in the 
+contused rat spinal cord. J Neurosci 2001, 21: 3392–3400.
+[34] Daneman R, Zhou L, Kebede AA, Barres BA. Pericytes 
+are required for blood-brain barrier integrity during 
+embryogenesis. Nature 2010, 468(7323): 562–566.
+[35] McTigue DM, Tripathi R, Wei P. NG2 colocalizes with axons 
+and is expressed by a mixed cell population in spinal cord 
+lesions. J Neuropathol Exp Neurol 2006, 65: 406–420.
+[36] Shearer MC, Niclou SP, Brown D, Asher RA, Holtmaat AJ, 
+Levine JM, et al. The astrocyte/meningeal cell interface is 
+a barrier to neurite outgrowth which can be overcome by 
+manipulation of inhibitory molecules or axonal signalling 
+pathways. Mol Cell Neurosci 2003, 24(4): 913–925.
+[37] Jones LL, Yamaguchi Y, Stallcup WB, TuszynskiMH. NG2 
+is a major chondroitin sulfate proteoglycan produced after 
+spinal cord injury and is expressed by macrophages and 
+oligodendrocyte progenitors. J Neurosci 2002, 22: 2792–
+2803.
+Neurosci Bull     August 1, 2013, 29(4): 421–435432
+[38] Zhu L, Xiang P, Guo K, Wang A, Lu J, Tay SS, et al. 
+Microglia/monocytes with NG2 expression have no 
+phagocytic function in the cortex after LPS focal injection 
+into the rat brain. Glia 2012, 60(9): 1417–1426.
+[39] Mamaeva D, Ripoll C, Bony C, Teigell M, Perrin FE, 
+Rothhut B, et al. Isolation of mineralizing Nestin+ Nkx6.1+ 
+vascular muscular cells from the adult human spinal cord. 
+BMC Neurosci 2011, 12: 99. 
+[40] de Castro R Jr, Tajrishi R, Claros J, Stallcup WB. Differential 
+responses of spinal axons to transection: influence of the 
+NG2 proteoglycan. Exp Neurol 2005, 192(2): 299–309.
+[41] Moransard M, Dann A, Staszewski O, Fontana A, 
+Prinz M, Suter T. NG2 expressed by macrophages 
+and oligodendrocyte precursor cells is dispensable in 
+experimental autoimmune encephalomyelitis. Brain 2011, 
+134(Pt 5): 1315–1330.
+[42] Matsuura I, Taniguchi J, Hata K, Saeki N, Yamashita T. 
+BMP inhibition enhances axonal growth and functional 
+recovery after spinal cord injury. J Neurochem 2008, 105: 
+1471–1479.
+[43] Xiao Q, Du Y, Wu W, Yip HK. Bone morphogenetic proteins 
+mediate cellular response and, together with Noggin, 
+regulate astrocyte differentiation after spinal cord injury. Exp 
+Neurol 2010, 221(2): 353–366.
+[44] Sahni V, Mukhopadhyay A, Tysseling V, Hebert A, Birch 
+D, McGuire TL, et al. BMPR1a and BMPR1b signaling 
+exert opposing effects on gliosis after spinal cord injury. J 
+Neurosci 2010, 30: 1839–1855.
+[45] Duchossoy Y, Horvat JC, Stettler O. MMP-related gelatinase 
+activity is strongly induced in scar tissue of injured adult 
+spinal cord and forms pathways for ingrowing neurites. Mol 
+Cell Neurosci 2001, 17(6): 945–956.
+[46] Zhang H, Chang M, Hansen CN, Basso DM, Noble-
+Haeusslein LJ. Role of matrix metalloproteinases and 
+therapeutic benefits of their inhibition in spinal cord injury. 
+Neurotherapeutics 2011, 8(2): 206–220.
+[47] Hsu JY, Bourguignon LY, Adams CM, Peyrollier K, Zhang 
+H, Fandel T, et al. Matrix metalloproteinase-9 facilitates glial 
+scar formation in the injured spinal cord. J Neurosci 2008, 
+28(50): 13467–13877. 
+[48] Pizzi MA, Crowe MJ. Transplantation of fibroblasts that 
+overexpress matrix metalloproteinase-3 into the site of 
+spinal cord injury in rats. J Neurotrauma 2006, 23(12): 
+1750–1765.
+[49] Planas AM, Justicia C, Soriano MA, Ferrer I. Epidermal 
+growth factor receptor in proliferating reactive glia following 
+transient focal ischemia in the rat brain. Glia 1998, 23(2): 
+120–129.
+[50] Codeluppi S, Svensson Ci, Hefferan MP, Valencia F, 
+Silldorff MD, oshiro M, et al. The Rheb-mToR pathway is 
+upregulated in reactive astrocytes of the injured spinal cord. 
+J Neurosci 2009, 29(4): 1093–1104.
+[51] White RE, Rao M, Gensel JC, McTigue DM, Kaspar BK, 
+Jakeman LB. Transforming growth factor α transforms 
+astrocytes to a growth-supportive phenotype after spinal 
+cord injury. J Neurosci 2011, 31(42): 15173–15187.
+[52] Liu B, Neufeld AH. Activation of epidermal growth factor 
+receptor causes astrocytes to form cribriform structures. 
+Glia 2004, 46: 153–168.
+[53] Qu WS, Tian DS, Guo ZB, Fang J, Zhang Q, Yu ZY, et 
+al. inhibition of EGFR/MAPK signaling reduces microglial 
+inflammatory response and the associated secondary 
+damage in rats after spinal cord injury. J Neuroinflammation 
+2012, 9: 178.
+[54] Goldshmit Y, McLenachan S, Turnley A. Roles of Eph 
+receptors and ephrins in the normal and damaged adult 
+CNS. Brain Res Rev 2006, 52: 327–345.
+[55] Bundesen LQ, Scheel TA, Bregman BS, Kromer LF. 
+Ephrin-B2 and EphB2 regulation of astrocyte-meningeal 
+fibroblast interactions in response to spinal cord lesions in 
+adult rats. J Neurosci 2003, 23(21): 7789–7800.
+[56] Fabes J, Anderson P, Yáñez-Muñoz RJ, Thrasher A, 
+Brennan C, Bolsover S. Accumulation of the inhibitory 
+receptor EphA4 may prevent regeneration of corticospinal 
+tract axons following lesion. Eur J Neurosci 2006, 23(7): 
+1721–1730.
+[57] Goldshmit Y, Galea MP, Wise G, Bartlett PF, Turnley AM. 
+Axonal regeneration and lack of astrocytic gliosis in EphA4-
+deficient mice. J Neurosci 2004, 24(45): 10064–10073.
+[58] Herrmann JE, Shah RR, Chan AF, Zheng B. EphA4 
+deficient mice maintain astroglial-fibrotic scar formation 
+after spinal cord injury. Exp Neurol 2010, 223(2): 582–598.
+[59] Dixon KJ, Munro KM, Boyd AW, Bartlett PF, Turnley AM. 
+Partial change in EphA4 knockout mouse phenotype: loss 
+of diminished GFAP upregulation following spinal cord 
+injury. Neurosci Lett 2012, 525(1): 66–71.
+[60] Baldwin SA, Broderick R, Blades DA, Scheff SW. Alterations 
+in temporal/spatial distribution of GFAP- and vimentin-
+positive astrocytes after spinal cord contusion with the New 
+York University spinal cord injury device. Neurotrauma 
+1998, 15(12): 1015–1026.
+[61] Pekny M, Johansson CB, Eliasson C, Stakeberg J, Wallén 
+A, Perlmann T, et al. Abnormal reaction to central nervous 
+system injury in mice lacking glial fibrillary acidic protein 
+and vimentin. J Cell Biol 1999, 145(3): 503–514.
+[62] Lepekhin EA, Eliasson C, Berthold CH, Berezin V, Bock E, 
+Pekny M. Intermediate filaments regulate astrocyte motility. 
+J Neurochem 2001, 79(3): 617–625.
+[63] Ribotta MG, Menet V, Privat A. Glial scar and axonal 
+regeneration in the CNS: lessons from GFAP and vimentin 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 433
+transgenic mice. Acta Neurochir Suppl 2004, 89: 87–92.
+[64] Menet V, Prieto M, Privat A, Giménez y Ribotta M. Axonal 
+plasticity and functional recovery after spinal cord injury 
+in mice deficient in both glial fibrillary acidic protein and 
+vimentin genes. Proc Natl Acad Sci U S A 2003, 100(15): 
+8999–9004.
+[65] Wang X, Chen W, Liu W, Wu J, Shao Y, Zhang X. The role 
+of thrombospondin-1 and transforming growth factor-beta 
+after spinal cord injury in the rat. Clin Neurosci 2009, 16(6): 
+818–821.
+[66] Buss A, Pech K, Kakulas BA, Martin D, Schoenen J, Noth J, 
+et al. TGF-beta1 and TGF-beta2 expression after traumatic 
+human spinal cord injury. Spinal Cord 2008, 46(5): 364–
+731.
+[67] Kohta M, Kohmura E, Yamashita T. inhibition of TGF-
+beta1 promotes functional recovery after spinal cord injury. 
+Neurosci Res 2009, 65(4): 393–401.
+[68] Lagord C, Berry M, Logan A. Expression of TGFbeta2 but 
+not TGFbeta1 correlates with the deposition of scar tissue 
+in the lesioned spinal cord. Mol Cell Neurosci 2002, 20(1): 
+69–92.
+[69] Dominguez E, Mauborgne A, Mallet J, Desclaux M, Pohl 
+M. SOCS3-mediated blockade of JAK/STAT3 signaling 
+pathway reveals its major contribution to spinal cord 
+neuroinflammation and mechanical al lodynia after 
+peripheral nerve injury. J Neurosci 2010, 30(16): 5754–
+5766.
+[70] Dziennis S, Alkayed NJ. Role of signal transducer and 
+activator of transcription 3 in neuronal survival and 
+regeneration. Rev Neurosci 2008, 19(4–5): 341–361. 
+[71] Herrmann JE, Imura T, Song B, Qi J, Ao Y, Nguyen TK, 
+et al. STAT3 is a critical regulator of astrogliosis and scar 
+formation after spinal cord injury. J Neurosci 2008, 28(28): 
+7231–7243.
+[72] Tsuda M, Kohro Y, Yano T, Tsujikawa T, Kitano J, Tozaki-
+Saitoh H, et al. JAK-STAT3 pathway regulates spinal 
+astrocyte proliferation and neuropathic pain maintenance in 
+rats. Brain 2011, 134(Pt 4): 1127–1139.
+[73] Okada S, Nakamura M, Katoh H, Miyao T, Shimazaki T, Ishii 
+K, et al. Conditional ablation of Stat3 or Socs3 discloses a 
+dual role for reactive astrocytes after spinal cord injury. Nat 
+Med 2006, 12(7): 829–834.
+[74] Regis G, Pensa S, Boselli D, Novelli F, Poli V. Ups and 
+downs: the STAT1:STAT3 seesaw of interferon and gp130 
+receptor signalling. Semin Cell Dev Biol 2008, 19(4): 351–
+359.
+[75] Gr is  P,  Tighe  A ,  Lev in  D ,  Sharma R ,  B rown  A . 
+Transcriptional regulation of scar gene expression in 
+primary astrocytes. Glia 2007, 55(11): 1145–1155.
+[76] Kirsch M, Trautmann N, Ernst M, Hofmann HD. involvement 
+of gp130-associated cytokine signaling in Müller cell 
+activation following optic nerve lesion. Glia 2010, 58(7): 
+768–779.
+[77] Ye J, Cao L, Cui R, Huang A, Yan Z, Lu C, et al. The effects 
+of ciliary neurotrophic factor on neurological function and 
+glial activity following contusive spinal cord injury in the rats. 
+Brain Res 2004, 997(1): 30–39.
+[78] Okada S, Nakamura M, Mikami Y, Shimazaki T, Mihara 
+M, ohsugi Y, et al. Blockade of interleukin-6 receptor 
+suppresses reactive astrogliosis and ameliorates functional 
+recovery in experimental spinal cord injury. J Neurosci Res 
+2004, 76(2): 265–276.
+[79] Fang Z, Duthoit N, Wicher G, Källskog o, Ambartsumian 
+N, Lukanidin E, et al. intracellular calcium-binding protein 
+S100A4 influences injury-induced migration of white matter 
+astrocytes. Acta Neuropathol 2006, 111(3): 213–219.
+[80] McKillop WM, Dragan M, Schedl A, Brown A. Conditional 
+Sox9 ablation reduces chondroitin sulfate proteoglycan 
+levels and improves motor function following spinal cord 
+injury. Glia 2013, 61(2): 164–177. 
+[81] Sivasankaran R, Pei J, Wang KC, Zhang YP, Shields CB, 
+Xu XM, et al. PKC mediates inhibitory effects of myelin and 
+chondroitin sulfate proteoglycans on axonal regeneration. 
+Nat Neurosci 2004, 7(3): 261–268.
+[82] Bhalala OG, Pan L, Sahni V, McGuire TL, Gruner K, 
+Tourtellotte WG, et al. microRNA- 21 regulates astrocytic 
+response following spinal cord injury. J Neurosci 2012 
+32(50): 17935–17947.
+[83] Karimi-Abdolrezaee S, Billakanti R. Reactive Astrogliosis 
+after Spinal Cord injury- Be- neficial and Detrimental 
+Effects. Mol Neurobiol 2012, 46(2): 251–264.
+[84] Gervasi NM, Kwok JC, Fawcett JW. Role of extracellular 
+factors in axon regeneration in the CNS: implications for 
+therapy. Regen Med 2008, 3(6): 907–923.
+[85] Yiu G, He Z. Glial inhibition of CNS axon regeneration. Nat 
+Rev Neurosci 2006, 7(8): 617–627.
+[86] Cafferty WB, McGee AW, Strittmatter SM. Axonal growth 
+therapeutics: regeneration or sprouting or plasticity? Trends 
+Neurosci 2008, 31(5): 215–220.
+[87] Sharma K, Selzer ME, Li S. Scar-mediated inhibition and 
+CSPG receptors in the CNS. Exp Neurol 2012, 237(2): 
+370–378.
+[88] Clark LD, Clark RK, Heber-Katz E. A new murine model for 
+mammalian wound repair and regeneration. Clin immunol 
+immunopathol 1998, 88: 35–45.
+[89] Li X, Gu W, Masinde G, Hamilton-Ulland M, Xu S, Mohan S, 
+et al. Genetic control of the rate of wound healing in mice. 
+Heredity 2001, 86: 668–674.
+[90] Kostyk SK, Popovich PG, Stokes BT, Wei P, Jakeman LB. 
+Robust axonal growth and a blunted macrophage response 
+Neurosci Bull     August 1, 2013, 29(4): 421–435434
+are associated with impaired functional recovery after spinal 
+cord injury in the MRL/MpJ mouse. Neuroscience 2008, 
+156(3): 498–514.
+[91] Thuret S, Thallmair M, Horky LL, Gage FH. Enhanced 
+functional recovery in MRL/MpJ mice after spinal cord 
+dorsal hemisection. PLoS One 2012, 7(2): e30904.
+[92] Frisén J, Haegerstrand A, Risling M, Fried K, Johansson 
+CB, Hammarberg H, et al. Spinal axons in central 
+nervous system scar tissue are closely related to laminin-
+immunoreactive astrocytes. Neuroscience 1995, 65(1): 
+293–304.
+[93] King VR, Henseler M, Brown RA, Priestley JV. Mats made 
+from fibronectin support oriented growth of axons in the 
+damaged spinal cord of the adult rat. Exp Neurol 2003, 
+182(2): 383–398.
+[94] Morgenstern DA, Asher RA, Fawcett JW. Chondroitin 
+sulphate proteoglycans in the CNS injury response.  Prog 
+Brain Res 2002, 137: 313–332.
+[95] Shen Y, Tenney A, Busch SA, Horn KP, Cuascut FX, Liu 
+K, et al. PTP sigma is a receptor for chondroitin sulfate 
+proteoglycan, an inhibitor of neural regeneration. Science 
+2009, 326 (5952): 592–596.
+[96] Fry EJ, Chagnon MJ, López-Vales R, Tremblay ML, David 
+S. Corticospinal tract regeneration after spinal cord injury in 
+receptor protein tyrosine phosphatase sigma deficient mice. 
+Glia 2010, 58(4): 423–433.
+[97] Fisher D, Xing B, Dill J, Li H, Hoang HH, Zhao Z, et al. 
+Leukocyte common antigen-related phosphatase is a 
+functional receptor for chondroitin sulfate proteoglycan axon 
+growth inhibitors. J Neurosci 2011, 31(40): 14051–14066.
+[98] Inman DM, Steward O. Physical size does not determine 
+the unique histopathological response seen in the injured 
+mouse spinal cord. J Neurotrauma 2003, 20(1): 33–42.
+[99] Sroga JM, Jones TB, Kigerl KA, McGaughy VM, Popovich 
+PG. Rats and mice exhibit distinct inflammatory reactions 
+after spinal cord injury. J Comp Neurol 2003, 462(2): 223–
+240.
+[100] Takigawa T, Yonezawa T, Yoshitaka T, Minaguchi J, 
+Kurosaki M, Tanaka M, et al. Separation of the perivascular 
+basement membrane provides a conduit for inflammatory 
+cells in a mouse spinal cord injury model. J Neurotrauma 
+2010, 27(4): 739–751.
+[101] Kigerl KA, Gensel JC, Ankeny DP, Alexander JK, Donnelly 
+DJ, Popovich PG. Identification of two distinct macrophage 
+subsets with divergent effects causing either neurotoxicity 
+or regeneration in the injured mouse spinal cord. J Neurosci 
+2009, 29: 13435–13444.
+[102] Shechter R, Raposo C, London A, Sagi I, Schwartz M. The 
+glial scar-monocyte interplay: a pivotal resolution phase in 
+spinal cord repair. PLoS One 2011, 6(12): e27969.
+[103] Raslan AM, Nemecek AN. Controversies in the surgical 
+management of spinal cord injuries. Neurol Res int 2012, 
+2012: 417834.
+[104] Anghelescu N, Petrescu A, Alexandrescu i. Therapy study 
+on the experimental injury of spinal cord. iV. High doses 
+of methyl-prednisolone. Rom J Neurol Psychiatry 1995, 
+33(3–4): 241–249.
+[105] Rochkind S, ouaknine GE. New trend in neuroscience: low-
+power laser effect on peripheral and central nervous system 
+(basic science, preclinical and clinical studies). Neurol Res 
+1992, 14(1): 2–11.
+[106] Zhang SX, Geddes JW, Owens JL, Holmberg EG. 
+X-irradiation reduces lesion scarring at the contusion site of 
+adult rat spinal cord. Histol Histopathol 2005, 20(2): 519–
+530.
+[107] Ridet JL, Pencalet P, Belcram M, Giraudeau B, Chastang C, 
+Philippon J, et al. Effects of spinal cord X-irradiation on the 
+recovery of paraplegic rats. Exp Neurol 2000, 161(1): 1–14.
+[108] Moriarty LJ, Borgens RB. An oscillating extracellular 
+voltage gradient reduces the density and influences the 
+orientation of astrocytes in injured mammalian spinal cord. 
+J Neurocytol 2001, 30(1): 45–57.
+[109] Shapiro S, Borgens R, Pascuzzi R, Roos K, Groff M, 
+Purvines S, et al. Oscillating field stimulation for complete 
+spinal cord injury in humans: a phase 1 trial. J Neurosurg 
+Spine 2005, 2(1): 3–10.
+[110] Fassbender JM, Whittemore SR, Hagg T. Targeting 
+microvascu la ture  fo r  neuropro tec t ion  a f te r  SCi . 
+Neurotherapeutics 2011, 8(2): 240–251.
+[111] Carter LM, Starkey ML, Akrimi SF, Davies M, McMahon SB, 
+Bradbury EJ, et al. The yellow fluorescent protein (YFP-H) 
+mouse reveals neuroprotection as a novel mechanism 
+underlying chondroitinase ABC-mediated repair after spinal 
+cord injury. J Neurosci 2008, 28(52): 14107–14120.
+[112] Bartus K, James ND, Bosch KD, Bradbury EJ. Chondroitin 
+sulphate proteoglycans: Key modulators of spinal cord and 
+brain plasticity. Exp Neurol 2012, 235: 5–17.
+[113] Kilcoyne M, Sharma S, McDevitt N, O'Leary C, Joshi 
+L, McMahon SS. Neuronal glycosylation differentials in 
+normal, injured and chondroitinase-treated environments. 
+Biochem Biophys Res Commun 2012, 420(3): 616–622.
+[114] Onose G, Anghelescu A, Muresanu DF, Padure L, Haras 
+MA, Chendreanu Co, et al. A review of published reports 
+on neuroprotection in spinal cord injury. Spinal Cord 2009, 
+47(10): 716–726.
+[115] Bradbury EJ, Carter LM. Manipulating the glial scar: 
+chondroitinase ABC as a therapy for spinal cord injury. 
+Brain Res Bull 2011, 84(4-5): 306–316.
+[116] Zuo J, Ferguson TA, Hernandez YJ, Stetler-Stevenson 
+WG, Muir D. Neuronal matrix metalloproteinase-2 degrades 
+Yi-Min Yuan, et al.    The glial scar in SCi and repair 435
+and inactivates a neurite-inhibiting chondroitin sulfate 
+proteoglycan. J Neurosci 1998, 18(14): 5203–5211.
+[117] Busch SA, Hamilton JA, Horn KP, Cuascut FX, Cutrone 
+R, Lehman N, et al. Multipotent adult progenitor cells 
+prevent macrophage-mediated axonal dieback and promote 
+regrowth after spinal cord injury. J Neurosci 2011, 31(3): 
+944–953.
+[118] Grimpe B, Si lver J. A novel DNA enzyme reduces 
+glycosaminoglycan chains in the glial scar and allows 
+microtransplanted dorsal root ganglia axons to regenerate 
+beyond lesions in the spinal cord. J Neurosci 2004, 24(6): 
+1393–1397.
+[119] Davies JE, Tang X, Denning JW, Archibald SJ, Davies SJ. 
+Decorin suppresses neurocan, brevican, phosphacan and 
+NG2 expression and promotes axon growth across adult 
+rat spinal cord injuries. Eur J Neurosci 2004, 19(5): 1226–
+1242.
+[120] Logan A, Baird A, Berry M. Decorin attenuates gliotic 
+scar formation in the rat cerebral hemisphere. Exp Neurol 
+1999,159: 504–510.
+[121] Davies JE, Tang X, Bournat JC, Davies SJ. Decorin 
+promotes plasminogen/plasmin expression within acute 
+spinal cord injuries and by adult microglia in vitro. J 
+Neurotrauma 2006, 23(3–4): 397–408.
+[122] Minor K, Tang X, Kahrilas G, Archibald SJ, Davies JE, 
+Davies SJ. Decorin promotes robust axon growth on 
+inhibitory CSPGs and myelin via a direct effect on neurons. 
+Neurobiol Dis 2008, 32(1): 88–95.
+[123] Beal MF. Energetics in the pathogenesis of neurodegen-
+erative diseases. Trends Neurosci 2000, 23: 298–304.
+[124] Hausmann oN, Fouad K, Wallimann T, Schwab ME. 
+Protective effects of oral creatine supplementation on spinal 
+cord injury in rats. Spinal Cord 2002, 40(9): 449–456.
+[125] Kao KK, Fink MP. The biochemical basis for the anti-
+inflammatory and cytoprotective actions of ethyl pyruvate 
+and related compounds. Biochem Pharmacol 2010, 80(2): 
+151–159.
+[126] Yuan Y, Su Z, Pu Y, Liu X, Chen J, Zhu F, et al. Ethyl 
+pyruvate promotes spinal cord repair by ameliorating the 
+glial microenvironment. Br J Pharmacol 2012, 166(2): 749–
+763.
+[127] Wu J, Stoica BA, Faden AI. Cell cycle activation and spinal 
+cord injury. Neurotherapeutics 2011, 8(2): 221–228.
+[128] Tian DS, Yu ZY, Xie MJ, Bu BT, Witte OW, Wang W. 
+Suppression of astroglial scar formation and enhanced 
+axonal regeneration associated with functional recovery 
+in a spinal cord injury rat model by the cell cycle inhibitor 
+olomoucine. J Neurosci Res 2006, 84(5): 1053–1063.
+[129] Tian DS, Xie MJ, Yu ZY, Zhang Q, Wang YH, Chen B, 
+et al. Cell cycle inhibition attenuates microglia induced 
+inflammatory response and alleviates neuronal cell death 
+after spinal cord injury in rats. Brain Res 2007, 1135(1): 
+177–185.
+[130] Byrnes KR, Stoica BA, Fricke S, Di Giovanni S, Faden Ai. 
+Cell cycle activation contributes to post-mitotic cell death 
+and secondary damage after spinal cord injury. Brain 2007, 
+130(Pt 11): 2977–2992.
+[131] Kabadi SV, Stoica BS, Hanscom M, Loane DJ, Kharebava 
+G, Murray MG, et al. CR8, a selective and potent CDK 
+inhibitor, provides neuroprotection in experimental traumatic 
+brain injury. Neurotherapeutics 2012, 9: 405–421.
+[132] Wu J,  Pa joohesh-Ganj i  A ,  Sto ica BA,  D in izo M, 
+Guanciale K, Faden Ai. Delayed expression of cell cycle 
+proteins contributes to astroglial scar formation and 
+chronic inflammation after rat spinal cord contusion. J 
+Neuroinflammation 2012, 9(1): 169.
+[133] Chen HC, Fong TH, Hsu PW, Chiu WT. Multifaceted effects 
+of rapamycin on functional recovery after spinal cord injury 
+in rats through autophagy promotion, anti-inflammation, and 
+neuroprotection. J Surg Res 2012, 179(1): e203–210.
+[134] Su Z, Yuan Y, Cao L, Zhu Y, Gao L, Qiu Y, et al. Triptolide 
+promotes spinal cord repair by inhibiting astrogliosis and 
+inflammation. Glia 2010, 58(8): 901–915.
+[135] Nikulina E, Tidwell JL, Dai HN, Bregman BS, Filbin MT. The 
+phosphodiesterase inhibitor rolipram delivered after a spinal 
+cord lesion promotes axonal regeneration and functional 
+recovery. Proc Natl Acad Sci U S A 2004, 101(23): 8786–
+8790. 
+[136] Zhang S, Kluge B, Huang F, Nordstrom T, Doolen S, 
+Gross M, et al. Photochemical scar ablation in chronically 
+contused spinal cord of rat. J Neurotrauma 2007, 24(2): 
+411–420. 
+[137] Pivat A, Gimenez-Ribotta M, Pencalet P, Kamenka JM. 
+Experimental medullary lesions: prevention of the extension 
+of secondary lesions and formation of glial scarring. Bull 
+Acad Natl Med 1994, 178(3): 445–452; discussion 452–454.

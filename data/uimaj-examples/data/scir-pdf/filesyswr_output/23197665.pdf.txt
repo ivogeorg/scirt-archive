@@ -1,0 +1,1053 @@
+®Concise Review: The Potential of Stromal
+Cell-Derived Factor 1 and Its Receptors to Promote
+Stem Cell Functions in Spinal Cord Repair
+ANNE JAERVE,* JESSICA SCHIRA,* HANS WERNER MÜLLER
+Key Words. Stromal derived factor-1 (SDF-1) • Stem/progenitor cell • Spinal cord injury •
+Somatic cell therapy • Mesenchymal stem cells • Neural stem cell •
+Umbilical cord blood
+Molecular Neurobiology
+Laboratory, Department of
+Neurology, Heinrich-Heine-
+University Medical Center
+Düsseldorf, Düsseldorf,
+Germany
+*Contributed equally as first
+authors.
+Correspondence: Hans Werner
+Müller, Ph.D., Molecular Neuro-
+biology Laboratory, Department
+of Neurology, Heinrich-Heine-
+University Medical Center Düs-
+seldorf, Moorenstrasse 5,
+40225 Düsseldorf, Germany.
+Telephone: 49-211-8118410;
+Fax: 49-211-8118411;
+e-mail: hanswerner.mueller@
+uni-duesseldorf.de
+Received June 1, 2012;
+accepted for publication August
+8, 2012; first published online in
+SCTM EXPRESS October 10,
+2012.
+©AlphaMed Press
+1066-5099/2012/$20.00/0
+http://dx.doi.org/
+10.5966/sctm.2012-0068
+ABSTRACT
+Transplanted stem cells provide beneficial effects on regeneration/recovery after spinal cord injury
+(SCI) by the release of growth-promoting factors, increased tissue preservation, and provision of a
+permissive environment for axon regeneration. A rise in chemokine stromal cell-derived factor 1
+(SDF-1/CXCL12) expression levels in central nervous system (CNS) injury sites has been shown toplay
+a central role in recruiting transplanted stem cells. Although technically more challenging, it has
+been shown that after SCI few endogenous stem cells are recruited via SDF-1/CXCR4 signaling.
+Evidence is accumulating that increasing SDF-1 levels at the injury site (e.g., by exogenous applica-
+tion or transfection methods) further enhances stem cell recruitment. Moreover, SDF-1 might, in
+addition to migration, also influence survival, proliferation, differentiation, and cytokine secretion
+of stem cells. Here, we discuss the experimental data available on the role of SDF-1 in stem and
+progenitor cell biology following CNS injury and suggest strategies for how manipulation of the
+SDF-1 system could facilitate stem cell-based therapeutic approaches in SCI. In addition, we discuss
+challenges such as how to circumvent off-target effects in order to facilitate the transfer of SDF-1 to
+the clinic. STEM CELLS TRANSLATIONAL MEDICINE 2012;1:732–739
+INTRODUCTION
+Stromal cell-derived factor 1 (SDF-1), also known
+as CXCL12, and its G-protein-coupled receptors
+CXCR4 and CXCR7 play a critical role in the devel-
+opment of the central nervous system (CNS) and
+heart, respectively, as their deficiency is lethal
+during either embryonic or perinatal develop-
+ment [1, 2]. CXCR4- and SDF-1-deficient mice
+show abnormal development of the dentate
+gyrus of the hippocampus [3, 4] and the granule
+cell layer of the cerebellum [1, 5]. In the adult
+spinal cord, SDF-1 is expressedmainly in the dor-
+sal corticospinal tract and the meninges [6],
+whereas its receptor CXCR4 is strongly expressed
+in the ependymal layer of the central canal [6, 7].
+After traumatic spinal cord injury (SCI), SDF-1 and
+CXCR4 expression is upregulated on mRNA and
+protein level 2 days postoperation (dpo) in a rat
+model of light and severe thoracic spinal cord
+contusion. Induced expression levels are also de-
+tectable at 42 dpo [8]. The main source of SDF-1
+after SCI is most likely reactive astrocytes [8],
+which also upregulate SDF-1 after stroke [9] and
+hypoxic-ischemic injury [10]. Cell types secreting
+SDF-1 and carrying CXCR4 in the context of SCI
+are shown in Table 1.
+STEM CELL TYPES
+Established stem cell types that are frequently
+used in experimental models of spinal cord re-
+pair are considered in this review, including em-
+bryonic stem cells (ESCs) and somatic stem cells.
+The latter are found in fetal, neonatal, and ma-
+ture tissues of different organs and comprise, for
+example, neural progenitor cells and mesenchy-
+mal stem cells. The potential of stem cells to gen-
+erate various cell types has received great inter-
+est for preclinical and clinical investigations to
+treat and regenerate the injured spinal cord. On
+the other hand, beneficial effects have been
+demonstrated without any lineage-specific dif-
+ferentiation or obvious cell replacement. The
+ability of transplanted stem cells or their deriva-
+tives to release growth-promoting factors or
+modulate the inflammatory response, providing
+a permissive environment for regenerating ax-
+ons or neuroprotection, is discussed. Spinal cord
+injury has a great impact on cell motility of en-
+dogenous or transplanted stem cells, which is in-
+fluenced by several chemoattractants and cell-
+surface adhesion molecules. The SDF-1/CXCR4
+axis plays a critical role for stem cell motility, as
+well as for stem cell survival and self-renewal,
+TISSUE-SPECIFIC PROGENITOR AND STEM CELLS
+STEM CELLS TRANSLATIONAL MEDICINE 2012;1:732–739 www.StemCellsTM.com
+which is discussed in detail in this section. Furthermore, recent
+approaches to manipulating the SDF-1/CXCR4 axis to enhance
+regeneration after spinal cord injury are discussed (Fig. 1).
+Endogenous Spinal Cord Stem Cells
+After SCI, endogenous proliferating progenitor cells [11, 12] mi-
+grate to the site of injury. It is assumed that neural precursor cells
+(NPCs) originate from the ependyma of the central canal and the
+subpial layer in the adult spinal cord [11–14] and differentiate into
+neural cells after SCI [15–18]. These findings indicate that adult en-
+dogenous NPCsmight be useful to enhance functional recovery.
+As SDF-1 has been shown to be crucial during development
+of the CNS, it is suggested that the SDF-1/CXCR4 axis might also
+play a key role in migration of adult endogenous stem cells after
+SCI [19]. In the adult spinal cord, the chemokine receptor CXCR4
+is strongly expressed in the ependymal layer around the central
+canal from which endogenous stem cells originate [6, 7]. How-
+ever, the specific function of CXCR4 expression in ependymal
+cells is still unknown.
+In the report by Knerlich-Lukoschus et al. [8] it is shown that
+radial glia-like cells that appear in the subpial layer express CXCR4
+andSDF-1 after SCI. However, although the specific functionof SDF-
+1/CXCR4 in radial glia-like cells after SCI has yet to be defined, the
+impact onproliferation, survival, andmigration to the injury sitehas
+been described for neural precursor cells (see below).
+Exogenous Stem Cells
+Multipotent Neural Lineage Restricted Progenitor Cells
+During development of the CNS, CXCR4 is highly expressed in the
+ventricular zone [20, 21]. Expression of CXCR4 has also been de-
+tected in adult neurogenic regions [22], as well as in both human
+and rodent adult NPCs from different sources in vitro [23–25].
+Grafted NPCs invade damaged areas in various lesion paradigms
+[26, 27], where they promote recovery through either differen-
+tiation into neural cells or neuroprotective [27] and neurite
+growth-promoting [28] functions. ESCs, on the other hand, are
+mostly transplanted after predifferentiation into highly purified
+neural cell populations to avoid tumor formation. Transplanta-
+tion of ESC-derivedNPCs into the injured spinal cord (SC) leads to
+results similar to those described for NPCs [29–31]. Importantly,
+responsiveness to injury-mediated migratory stimuli is variable
+between different NPC populations [32]. NPC as well as ESC-
+derived NPC migration is mediated mainly by CXCR4, as NPCs
+respond to SDF-1 by migrating in a dose-dependent manner [21,
+33–35]. Because of inflammation, transplanted NPCs upregulate
+both CXCR4 and CXCR7 [34], possibly leading to enhancedmigra-
+tion to the site of injury. In addition to an increased migratory
+potential, transplantation ofNPCs into the subacute SCI seems to
+be optimal as NPCs show a good survival rate and lead to func-
+tional recovery [36]. However, not all migrating NPC populations
+express CXCR4 as shown for human NPCs derived from fetal
+brain tissue that have been transplanted into the ischemic rat
+brain. Here, only subpopulations of the NPCs expressed CXCR4,
+but all transplanted cells showed extensive migration potency
+[26]. These data indicate a CXCR4-independent mechanism of
+migration that might include CC chemokine receptors. CCR2-ex-
+pressing NPCs are known to respond to sites of inflammation, as
+NPCs generated from CCR2 knockout mice exhibit only little mi-
+gration toward inflammatory sites [37]. Furthermore, hepato-
+cyte growth factor (HGF) has been described to regulate neural
+stem cell migration [38]. After SCI, transplanted NPCs respond
+with migration to the lesion site and improve locomotor recov-
+ery because of differentiation into functional neural cells [36, 39,
+40] or because of their supportive properties [28, 41]. It is sug-
+gested that the SDF-1/CXCR4 axis is the key player for NPC mi-
+gration. As SDF-1 enhances NPC proliferation [14, 33, 42] and
+survival [43], coadministration of SDF-1 might be a possibility to
+promote the engraftment of transplanted NPCs after SCI result-
+ing in enhanced functional recovery. For ESC-derivedNPCs, Hart-
+mann et al. [44] showed that the SDF-1/CXCR4 axis plays a key
+role inmigration after transplantation intomouse hippocampus,
+which raises the possibility that SDF-1 is also sufficient for target-
+ing grafted ESC-derived NPCs in the injured spinal cord.
+Mesenchymal Stem Cells Derived from Bone Marrow or
+Umbilical Cord Blood
+Transplantedmesenchymal stemcells (MSCs) derived fromadult
+bone marrow or umbilical cord blood migrate to the acute or
+subacute spinal cord lesion site and enhance regeneration [45–
+47]. Migration of MSCs is under the control of a large range of
+growth factors, such asHGF [48, 49] andCC andCXC chemokines.
+SDF-1 inducesmigration ofMSCs in vitro, but with limited effect,
+as growth factors such as insulin-like growth factor-1 and plate-
+let-derived growth factor-AB are more potent chemoattractants
+[50, 51]. Blocking of the SDF-1/CXCR12 axis does not inhibit mi-
+gration completely, indicating that additionalmolecules regulate
+MSC migration [52]. Interestingly, migration of MSCs might de-
+pend on the inflammatory state as tumor necrosis factor- and
+interferon- upregulate the expression of CXCR4, which, in turn,
+leads to increased MSC migration toward SDF-1 [51, 53]. On the
+other hand, transforming growth factor-1 (TGF-1) downregu-
+lates the expression of CXCR4 in MSCs, resulting in reduced mi-
+gration capacity [54]. The incubation ofMSCswith SDF-1 leads to
+an upregulation of proinflammatory cytokines such as interleu-
+kin-6 and regeneration-associated molecules such as leukemia
+inhibitory factor [55], which could have an impact on inflamma-
+tion and regeneration. Moreover, SDF-1 could promote survival
+of transplanted MSCs, as pretreatment of MSCs with SDF-1 re-
+sults in enhanced survival after oxidative stress in vitro and an
+increased secretion of prosurvival and angiogenesis-promoting
+factors [56].
+In contrast, other authors reported that a population of
+CD34 adult bone marrow-derived stem cells do not express
+Table 1. Cell types expressing SDF-1 and CXCR4 in the context of
+spinal cord injury
+Cell types
+Expression
+of SDF-1
+Expression
+of CXCR4
+Dorsal corticospinal tract [6] [7]
+Meninges [6] n.d.
+Reactive astrocytes [8–10] [7]
+Monocytes/macrophages [6, 111] [6]
+Endothelial cells [82] n.d.
+Endothelial progenitor cells n.d. [82]
+Pericytes n.d. [88, 90]
+Radial glia-like cells in the subpial layer
+of the spinal cord
+[8] [8]
+Neural progenitor cells n.d. [23–25]
+Ependymal layer of the central canal n.d. [6, 7]
+Oligodendrocyte precursor cells n.d. [24]
+Mesenchymal stem cells [43] [51]
+Cancer cells n.d. [103, 106]
+Numbers in brackets indicate references.
+Abbreviations: n.d., not determined; SDF-1, stromal cell-derived factor 1.
+733Jaerve, Schira, Müller
+www.StemCellsTM.com
+functional CXCR4 [57], or only a small proportion of MSCs ex-
+press functionally active CXCR4 [58], which reflects the contro-
+versial definition of theMSC. Unfortunately, a specific molecular
+marker definingMSCs has yet to be found [59]. On the one hand,
+human umbilical cord blood (hUCB)-derived MSCs migrate to-
+ward SDF-1 gradients [60] via Akt, extracellular signal-regulated
+kinase, and p38 transduction pathways. On the other hand, a
+subpopulation of stem cells from hUCB (unrestricted somatic
+stem cells) migrate to SC injury sites mainly driven by HGF gradi-
+ents [61].
+MSCs are known to secrete SDF-1, which has been shown to
+enhance neurite growth on inhibitory myelin [62] and in the
+presence of Semaphorin 3A/3C [63] in vitro, as well as axonal
+sprouting in vivo [7, 62]. In addition, transplanted MSCs could
+influenceglial scarringbystimulatingastrocyteproliferation [64], as
+well as survival of endogenous neural progenitor cells invading the
+lesion spinal cord, as MSC-secreted SDF-1 protects neural progeni-
+tor cells during hypoxia through activation of CXCR7 [43].
+EFFECT OF SDF-1 ON REMYELINATION
+SCI leads to a dramatic loss of oligodendrocytes, resulting in de-
+myelinated “naked” axons near the lesion that are vulnerable
+and nonfunctional [65]. Protection of oligodendrocytes from
+death or promotion of remyelination by endogenous oligoden-
+drocyte precursor cells (OPCs) might be a possibility to enhance
+functional regeneration. SCI elicits rapid proliferation of OPCs
+throughout the gray and white matter in both adult rodent and
+primate spinal cord [65, 66], as well as of ependymal cells sur-
+rounding the central canal,which also could give rise to oligoden-
+drocytes after injury [17]. The robust proliferation response that
+is followed bymigration of OPCs into the injury site indicates the
+presence of local chemoattractants. SDF-1 might function as
+such a factor in SCI, as the receptor CXCR4 is expressed by pri-
+mary neonatal OPCs [24] and by neuron glial antigen 2-positive
+subpial cells (a marker for OPCs) early after SCI [8]. Indeed, it has
+been shown that SDF-1 increases CXCR4-dependent OPC sur-
+vival, migration [24], and proliferation in vitro [67]. Moreover,
+CXCR4-deficient mice show defective OPC survival and ventral
+to dorsal migration in the embryonic spinal cord. These find-
+ings support the idea that manipulation of SDF-1 could speed
+up recruitment, as well as enhancing OPC survival and prolif-
+eration following SCI.
+OPC differentiate into oligodendrocytes, which could remy-
+elinate axons starting in the subacute phase at 2 weeks postin-
+jury. Thus, boosting proper differentiation of resident precursor
+cells would enhance CNS remyelination. Two groups have shown
+that SDF-1 promotesOPCmaturation andmyelin production [68,
+69]. However, in these studies with different models of demyeli-
+nation different receptors responsible for OPC maturation have
+been identified: CXCR4 in cuprizone-mediated demyelination of
+the corpus callosum [68], and CXCR7 in experimental autoim-
+mune encephalomyelitis (EAE) in the spinal cord [69]. It should
+be noted that because of the recent discovery of CXCR7 as a
+second SDF-1/CXCL12 receptor [70], earlier studies have investi-
+gated only SDF-1/CXCR4 signaling. Therefore, it still needs to be
+determined which SDF-1/CXCL12 receptor is required for oligo-
+dendrocytematuration following SCI. If the receptor responsible
+Figure 1. Approaches to promotion of stem and progenitor cell function in spinal cord repair. Endogenous or applied SDF-1 cells enhance the
+attraction, proliferation, survival, and differentiation of endogenous cells, as well as transplanted stem/progenitor cells (indicated in red),
+counteracting pathological processes of spinal cord injury. Potential hazards associated with SDF-1 application are indicated in violet.
+Abbreviations: EPC, endothelial progenitor cell; OPC, oligodendrocyte progenitor cell; SDF-1, stromal cell-derived factor 1.
+734 The Role of SDF-1 and Stem Cells in SCI and Repair
+STEM CELLS TRANSLATIONAL MEDICINE
+for OPC differentiation is CXCR7, then CXCR7-specific small mol-
+ecule-based activators could promote remyelination without in-
+terference with immune cells, which in adult mammals do not
+express CXCR7 [44, 71].
+CONTROVERSIAL FUNCTION OF SDF-1 IN THE WOUND HEALING
+RESPONSE
+A fibrotic glial scar forms during the first week after traumatic SCI
+and seals the blood-spinal cord barrier. The collagen-rich lesion
+scar is considered a major impediment for axon regeneration,
+and several strategies suppressing scar formation have been
+shown to increase axon regrowth into the lesion site and beyond
+[72, 73]. Thus far it is not known whether SDF-1 influences scar
+formation. Intriguingly, SDF-1was reported to act antifibrotically
+in the infarcted heart [74], as the adenovirus-mediated transduc-
+tion of the infarcted heart with SDF-1 in the acute stage led to
+decreased TGF-1 expression, which, in turn, led to reduced col-
+lagen accumulation in the infarcted area [74]. Similarly, in an-
+other study, acute transplantation of lentivirally SDF-1-infected
+endothelial progenitor cells revealed a lower collagen content in
+the infarctedmyocardium [75]. On the other hand, SDF-1/CXCR4
+signaling has been implicated in promoting migration of acti-
+vated CD14 CXCR4 peripheral blood mononuclear cells to
+wound sites, where they might differentiate into fibrocytes
+and myofibroblasts, thus contributing to the development of
+a hypertrophic scar [76]. In line with this, depletion of SDF-1 in
+a mouse model of sickle cell disease resulted in a marked
+reduction of fibrocyte trafficking into the lungs, resulting in
+reduced lung collagen content and improved lung compliance
+[77]. Therefore, it still remains to be investigated whether
+SDF-1 acts antifibrotically or contributes to scar formation in
+SCI.
+NEOVASCULARIZATION
+After SCI, endothelial cells and blood vessels degenerate during
+the first days, exacerbating hemorrhage and tissue ischemia
+[78]. In addition, SCI leads to breakdown of the blood-spinal cord
+barrier (BSCB) with the influx of ions, neurotoxic substances, and
+inflammatory cells, all contributing to secondary damage [79]. A
+robust angiogenic response is observed 3–14 days after injury
+[78]. The formation of new vessels to deliver oxygen and nutri-
+ents is considered vital for neuronal regeneration and functional
+recovery, as shown in a number of models of SCI, where the
+treatments increased blood vessel density [80–82]. The aim of
+the therapies is to stimulate angiogenesis without excessive vas-
+cular permeability and restoration of the BSCB in the subacute
+phase after SCI. The crucial role of SDF-1/CXCR4 in embryonic
+vasculogenesis is shown by blood vessel abnormalities mani-
+fested in SDF-1a/ and CXCR4/ mice [5]. Interestingly, the
+CXCR7 knockout mouse showed disrupted cardiac development
+[2], indicating that SDF-1/CXCR7 signaling could play a special
+role in endothelial biology [83].
+Hypoxia induces expression of SDF-1 [84], which is likely one
+mechanism by which hypoxia drives neovascularization. Indeed,
+application of SDF-1 promotes neovascularization after trau-
+matic brain injury (TBI) [85], after stroke [86], and in ischemic
+tissues [87]. After TBI, injection of SDF-1 into the brain penumbra
+at the acute stage increased the microvessel density around the
+injured area, whereas application of a SDF-1 neutralizing anti-
+body significantly decreased spontaneous neovascularization
+[85]. Similarly to TBI, in a strokemodel, intracerebral administra-
+tion of SDF-1 in acute phase increased vascular density and con-
+sequently enhanced functional local cerebral blood flow in the
+penumbra and hippocampus. In both studies, significant im-
+provement of neurological function upon SDF-1 application
+was found, which might be partially caused by an angiogenic
+effect [86]. It remains to be studied whether application of
+SDF-1 into the lesion area could improve microcirculation and
+restore the BSCB with proper morphology after SCI. In addi-
+tion, SDF-1 might engage itself in neurovascular niche simi-
+larly to brain [88].
+The likely mechanism of the SDF-1/CXCR4 axis enhancing
+neovascularization comprises the attraction of endogenous
+CXCR4 endothelial progenitor cells (EPCs) or pericyte progeni-
+tors [89] to the injury site. It has been demonstrated that resi-
+dent microvascular CD133 pericytes show a corresponding
+trend with SDF-1 levels following SCI [90]. Additionally, rat MSCs
+that were engineered to overexpress CXCR4 and intravenously
+infused were recruited at significantly higher numbers and in-
+creased the capillary vascular volume of the peri-infarct area
+after stroke [91].
+STRATEGIES TO MANIPULATE THE SDF-1/CXCR4 AXIS TO
+ENHANCE RECOVERY AFTER SCI
+The SDF-1/CXCR4 axis has not beenmanipulated in humans after
+SCI. Moreover, the expression pattern of SDF-1 and CXCR4/
+CXCR7 has to be analyzed in detail in humans after SCI. However,
+the SDF-1/CXCR4 axis has been experimentally manipulated in
+different ways: SDF-1 has been intrathecally infused with mini-
+pumps [62] or scaffolds have been transplanted releasing SDF-1
+over periods of up to 7 days [92]. Additionally, local transfection
+with SDF-1 plasmids [93] and transplantation of SDF-1- or CXCR4-
+overexpressing cells [91] have been used. The latter approach
+might have advantages as frequently passaged cells downregu-
+late CXCR4 expression [56]. Transplantation of cells constitu-
+tively secreting SDF-1 enclosed in microcapsules would be an
+alternative. Importantly, the short half-life of SDF-1 due to rapid
+degradation/inactivation by proteases at the injury site and in
+the blood is even less than half an hour [94]. Therefore, SDF-1
+applied in solution should contain a carrier protein to increase its
+stability. An alternative for SDF-1 would be the newly developed
+small peptide analogs with improved bioavailability, higher sta-
+bility, and comparable or even increased functionality [87,
+95–97].
+On the other hand, strategies enhancing SDF-1/CXCR4 sig-
+naling might counteract the limited time of SDF-1 action in tis-
+sues. For example, priming of human bone marrow CD34 stem
+cells with complement cleavage fragments enhanced their hom-
+ing in a murine transplant model [98], because cells respond
+robustly even to very low SDF-1 gradients in the presence of
+priming factors [99]. Moreover, low levels of TGF-1 can modu-
+late SDF-1 responsiveness [100]. Interestingly, pretreatment of
+cells with SDF-1 increases their homing after transplantation as
+shown, for example, for human cardiac mesoangioblasts trans-
+planted into the heart [101].
+Under physiological conditions, SDF-1 readily changes be-
+tweenmonomeric and dimeric states that influence its action.
+735Jaerve, Schira, Müller
+www.StemCellsTM.com
+However, there is some discrepancy between published re-
+sults. It was reported that SDF-1 dimers, which preferentially
+form at higher concentrations, halt cell migration, whereas
+monomers promote chemotaxis in vivo [102]. In contrast, Ray
+et al. [103] found that dimeric SDF-1 more effectively pro-
+motes chemotaxis of CXCR4-expressing breast cancer cells.
+Although CXCR7 preferentially sequestered monomeric SDF-1
+from the extracellular space, it had minimal effects on dimeric
+SDF-1 [103]. Importantly, at high concentrations, SDF-1 repels
+many CXCR4-expressing cell types [104]. Since SDF-1 in-
+creases the vascular permeability, therapeutic dosages of
+SDF-1 need to be adjusted carefully in clinical applications [86,
+105]. Nonetheless, acute intracerebral administration of
+SDF-1 did not alter physiological parameters such as systemic
+blood pressure, blood gases, blood glucose, or serum electro-
+lyte levels [86].
+Manipulation of the SDF-1/CXCR4 axis could be beneficial for
+acute or subacute stages as it has an impact on early processes
+after SCI, such as inflammation andneovascularization, aswell as
+creating an environment for axon regeneration. In fact, most of
+the stem/progenitor cell transplantations have been conducted
+in acute or subacute phase of SCI, as the transplanted cells sur-
+vive best at this stage and transplantation into the chronic SCI
+does not lead to functional recovery (at least in rodents). In
+chronic stages, the beneficial effects might be weaker. It is likely
+that incomplete SCI would profit more than complete regardless
+of the injury level.
+TUMORIGENIC POTENCY AND NEUROPATHIC PAIN
+In addition to stem cells, SDF-1 might mobilize transformed
+stem cells (cancer stem cells) [106]. Most tumors are, indeed,
+CXCR4 and tend to metastasize to the bones and lymph
+nodes that highly express SDF-1 in an SDF-1-dependent man-
+ner [107]. Although there is no evidence that local application
+of SDF-1 would increase tumor incidence, systematic evalua-
+tion is a basic prerequisite for clinical translation of SDF-1.
+SDF-1 could potentially modulate sensitivity following SCI.
+When injected into the adult rat hind paw, SDF-1 produces dose-
+dependent tactile allodynia by directly exciting nociceptive dor-
+sal root ganglia neurons that express CXCR4 [108]. Knerlich-Lu-
+koschus et al. [109] reported a correlation between increased
+SDF-1 immunoreactivity in the dorsal column and dorsal horns
+with lowering of thermal and mechanical thresholds on spinal
+cord level L3–L5 at 6 weeks post-SCI, whereas there was no cor-
+relation of increased CXCR4 immunoreactivity in the dorsal
+horns with the nociceptive thresholds [109]. However, in our
+experiments, we did not observe signs of extra hypersensitivity
+by postoperative care of rats, which had received SDF-1 infusion
+for 1 week and were observed for 4 months. Clearly, it should be
+investigated whether application of SDF-1 into the spinal cord
+would change nociception following SCI, but application of SDF-1
+in a long-term approach to the spinal cord is not likely to be
+feasible because of potential oncogenic characteristics.
+STIMULATION OF THE IMMUNE RESPONSE
+SDF-1 was shown to be involved in macrophage infiltration into
+the spinal cord lesion site, as application of the CXCR4 inhibitor
+AMD3100 reduced the influx of myeloid cells by 28%–30% [110].
+Additionally, Tysseling et al. [6] observed massive infiltration of
+CXCR4macrophages in green fluorescence protein-CXCR4mice
+following SCI, which also appeared to secrete SDF-1 [6, 111].
+None of these studies, however, distinguished among the proin-
+flammatoryM1 or anti-inflammatoryM2macrophage subtypes.
+Importantly, M2 macrophages show expression levels of CXCR4
+16 times as high as those ofM1macrophages [112], suggesting a
+higher responsiveness to SDF-1. If so, infusion of SDF-1 into the
+acute or subacute injury site might enable selective modulation
+of inflammatory responses in SCI.
+CONCLUSION
+SDF-1,which is upregulated at the site of traumatic spinal cord or
+brain injury, has been shown to be crucial for the recruitment of
+transplanted stem cells and endogenous progenitor cells to pro-
+mote functional recovery. It remains to be investigated whether
+grafting cells in combination with SDF-1 application would result
+in synergistic promotion of recruitment of both endogenous and
+transplanted stem/progenitor cells. Furthermore, SDF-1 can di-
+rectly drive the proliferation, survival, and maturation of OPC
+and EPCs to promote remyelination and neovascularization, re-
+spectively.Moreover, it has been shown that SDF-1 directly stim-
+ulates axon growth in vitro and in damaged spinal cord. There is
+a substantial amount of supporting data about SDF-1 in CNS con-
+ditions such as stroke, TBI, and EAE. However, many of the find-
+ings remain to be shown in SCI. SDF-1 ismore likely tomanipulate
+the SDF-1/CXCR4 axis in acute or subacute stages than in chronic
+stages, as this manipulation has an impact on early processes
+after SCI, such as neovascularization and remyelination.
+Whether SDF-1 application could promote functional recovery in
+chronic SCI has to be investigated. It is crucial to systematically
+evaluate potential hazards (neuropathic pain, tumorigenicity)
+that might go along with long-term application of SDF-1. None-
+theless, tumorigenic potency could be overcome, for example,
+by transplantation ofmodified stemcells, overexpressing CXCR4,
+which were reported showing increased recruitment compared
+to controls. Only the accomplishment of the crucial studies will
+allow full assessment of the clinical potential of SDF-1 in SCI.
+ACKNOWLEDGMENTS
+Work of the authors’ laboratory mentioned in this review has
+been funded by the German Research Council (Deutsche For-
+schungsgemeinschaft) (SFB 590/TPC2, Grant MU 630/10-1 and
+Research Training Group 1033), the Wings-for-Life Spinal Cord
+Research Foundation, and the Christiane and Claudia-Hempel
+Foundation for Clinical Stem Cell Research.
+AUTHOR CONTRIBUTIONS
+A.J.: outline and writing of the manuscript, design of Figure 1;
+J.S.: outline and writing of the manuscript, improving Figure 1;
+H.W.M.: editing and final approval of the manuscript.
+DISCLOSURE OF POTENTIAL CONFLICTS OF INTEREST
+The authors indicate no potential conflicts of interest.
+736 The Role of SDF-1 and Stem Cells in SCI and Repair
+STEM CELLS TRANSLATIONAL MEDICINE
+REFERENCES
+1 Zou YR, Kottmann AH, Kuroda M et al.
+Function of the chemokine receptor CXCR4 in
+haematopoiesis and in cerebellar develop-
+ment. Nature 1998;393:595–599.
+2 Sierro F, Biben C, Martinez-Munoz L et al.
+Disrupted cardiac development but normal he-
+matopoiesis in mice deficient in the second
+CXCL12/SDF-1 receptor, CXCR7. Proc Natl Acad
+Sci USA 2007;104:14759–14764.
+3 Bagri A, Gurney T, He X et al. The chemo-
+kine SDF1 regulates migration of dentate gran-
+ule cells. Development 2002;129:4249–4260.
+4 Lu M, Grove EA, Miller RJ. Abnormal de-
+velopment of the hippocampal dentate gyrus
+inmice lacking the CXCR4 chemokine receptor.
+Proc Natl Acad Sci USA 2002;99:7090–7095.
+5 Ma Q, Jones D, Borghesani PR et al. Im-
+paired B-lymphopoiesis, myelopoiesis, and de-
+railed cerebellar neuron migration in CXCR4-
+and SDF-1-deficient mice. Proc Natl Acad Sci
+USA 1998;95:9448–9453.
+6 Tysseling VM,Mithal D, Sahni V et al. SDF1
+in the dorsal corticospinal tract promotes
+CXCR4 cell migration after spinal cord injury.
+J Neuroinflammation 2011;8:16.
+7 Jaerve A, Schiwy N, Schmitz C et al. Differ-
+ential effect of aging on axon sprouting and
+regenerative growth in spinal cord injury. Exp
+Neurol 2011;231:284–294.
+8 Knerlich-Lukoschus F, von der Ropp-
+Brenner B, Lucius R et al. Chemokine expres-
+sion in the white matter spinal cord precursor
+niche after force-defined spinal cord contusion
+injuries in adult rats. Glia 2010;58:916–931.
+9 Hill WD, Hess DC,Martin-Studdard A et al.
+SDF-1 (CXCL12) is upregulated in the ischemic
+penumbra following stroke: Association with
+bone marrow cell homing to injury. J Neuro-
+pathol Exp Neurol 2004;63:84–96.
+10 Miller JT, Bartley JH,Wimborne HJC et al.
+The neuroblast and angioblast chemotaxic fac-
+tor SDF-1 (CXCL12) expression is briefly up reg-
+ulated by reactive astrocytes in brain following
+neonatal hypoxic-ischemic injury. BMC Neuro-
+sci 2005;6:63.
+11 Namiki J, Tator CH. Cell proliferation and
+nestin expression in the ependyma of the adult
+rat spinal cord after injury. J Neuropathol Exp
+Neurol 1999;58:489–498.
+12 Shibuya S, Miyamoto O, Auer RN et al.
+Embryonic intermediate filament, nestin, ex-
+pression following traumatic spinal cord injury
+in adult rats. Neuroscience 2002;114:905–916.
+13 Shibuya S, Miyamoto O, Itano T et al.
+Temporal progressive antigen expression in ra-
+dial glia after contusive spinal cord injury in
+adult rats. Glia 2003;42:172–183.
+14 Wu D, Shibuya S, Miyamoto O et al. In-
+crease of NG2-positive cells associatedwith ra-
+dial glia following traumatic spinal cord injury
+in adult rats. J Neurocytol 2005;34:459–469.
+15 Dias TB, Yang YJ, Ogai K et al. Notch sig-
+naling controls generation of motor neurons in
+the lesioned spinal cord of adult zebrafish.
+J Neurosci 2012;32:3245–3252.
+16 Mothe AJ, Tator CH. Proliferation,migra-
+tion, and differentiation of endogenous
+ependymal region stem/progenitor cells fol-
+lowing minimal spinal cord injury in the adult
+rat. Neuroscience 2005;131:177–187.
+17 Meletis K, Barnabe-Heider F, CarlenM et
+al. Spinal cord injury reveals multilineage dif-
+ferentiation of ependymal cells. PLoS Biol
+2008;6:e182.
+18 Ke Y, Chi L, Xu R et al. Early response of
+endogenous adult neural progenitor cells to
+acute spinal cord injury in mice. STEM CELLS
+2006;24:1011–1019.
+19 Jaerve A, Bosse F, Muller HW. SDF-1/
+CXCL12: Its role in spinal cord injury. Int
+J Biochem Cell Biol 2012;44:452–456.
+20 Stumm RK, Zhou C, Ara T et al. CXCR4
+regulates interneuron migration in the devel-
+oping neocortex. J Neurosci 2003;23:5123–
+5130.
+21 Tissir F, Wang C-E, Goffinet AM. Expres-
+sion of the chemokine receptor Cxcr4 mRNA
+during mouse brain development. Brain Res
+Dev Brain Res 2004;149:63–71.
+22 Tran PB, Banisadr G, Ren D et al. Chemo-
+kine receptor expression by neural progenitor
+cells in neurogenic regions of mouse brain.
+J Comp Neurol 2007;500:1007–1033.
+23 Tran PB, Ren D, Veldhouse TJ et al.
+Chemokine receptors are expressed widely by
+embryonic and adult neural progenitor cells.
+J Neurosci Res 2004;76:20–34.
+24 DziembowskaM, Tham TN, Lau P et al. A
+role for CXCR4 signaling in survival and migra-
+tion of neural and oligodendrocyte precursors.
+Glia 2005;50:258–269.
+25 Peng H, Kolb R, Kennedy JE et al. Differ-
+ential expression of CXCL12 and CXCR4 during
+human fetal neural progenitor cell differentia-
+tion. J Neuroimmune Pharmacol 2007;2:251–
+258.
+26 Kelly S, Bliss TM, Shah AK et al. Trans-
+planted human fetal neural stem cells survive,
+migrate, and differentiate in ischemic rat cere-
+bral cortex. Proc Natl Acad Sci USA 2004;101:
+11839–11844.
+27 Pluchino S, Zanotti L, Rossi B et al. Neu-
+rosphere-derived multipotent precursors pro-
+mote neuroprotection by an immunomodula-
+tory mechanism. Nature 2005;436:266–271.
+28 Lu P, Jones LL, Snyder EY et al. Neural
+stem cells constitutively secrete neurotrophic
+factors and promote extensive host axonal
+growth after spinal cord injury. Exp Neurol
+2003;181:115–129.
+29 McDonald JW, Liu XZ, Qu Y et al. Trans-
+planted embryonic stem cells survive, differen-
+tiate andpromote recovery in injured rat spinal
+cord. Nat Med 1999;5:1410–1412.
+30 Liu S, Qu Y, Stewart TJ et al. Embryonic
+stem cells differentiate into oligodendrocytes
+and myelinate in culture and after spinal cord
+transplantation. Proc Natl Acad Sci USA 2000;
+97:6126–6131.
+31 Nistor GI, Totoiu MO, Haque N et al. Hu-
+man embryonic stem cells differentiate into
+oligodendrocytes in high purity and myelinate
+after spinal cord transplantation. Glia 2005;49:
+385–396.
+32 Darsalia V, Kallur T, Kokaia Z. Survival,
+migration and neuronal differentiation of hu-
+man fetal striatal and cortical neural stem cells
+grafted in stroke-damaged rat striatum. Eur
+J Neurosci 2007;26:605–614.
+33 Imitola J, Raddassi K, Park Ki et al. Di-
+rectedmigration of neural stem cells to sites of
+CNS injury by the stromal cell-derived factor
+1alpha/CXC chemokine receptor 4 pathway.
+Proc Natl Acad Sci USA 2004;101:18117–
+18122.
+34 Carbajal KS, Schaumburg C, Strieter R et
+al. Migration of engrafted neural stem cells is
+mediated by CXCL12 signaling through CXCR4
+in a viral model of multiple sclerosis. Proc Natl
+Acad Sci USA 2010;107:11068–11073.
+35 Hartman NW, Carpentino JE, LaMonica K
+et al. CXCL12-mediated guidance of migrating
+embryonic stem cell-derived neural progeni-
+tors transplanted into the hippocampus. PLoS
+One 2010;5:e15856.
+36 Karimi-Abdolrezaee S, Eftekharpour E,
+Wang J et al. Delayed transplantation of adult
+neural precursor cells promotes remyelination
+and functional neurological recovery after spi-
+nal cord injury. J Neurosci 2006;26:3377–3389.
+37 Belmadani A, Tran PB, Ren D et al.
+Chemokines regulate the migration of neural
+progenitors to sites of neuroinflammation.
+J Neurosci 2006;26:3182–3191.
+38 Takeuchi H, Natsume A, Wakabayashi T
+et al. Intravenously transplanted humanneural
+stem cells migrate to the injured spinal cord in
+adult mice in an SDF-1- and HGF-dependent
+manner. Neurosci Lett 2007;426:69–74.
+39 Cummings BJ, Uchida N, Tamaki SJ et al.
+Human neural stem cells differentiate and pro-
+mote locomotor recovery in spinal cord-in-
+jured mice. Proc Natl Acad Sci USA 2005;102:
+14069–14074.
+40 Salazar DL, Uchida N, Hamers FPT et al.
+Human neural stem cells differentiate and pro-
+mote locomotor recovery in an early chronic
+spinal cord injuryNOD-scidmousemodel. PLoS
+One 2010;5:e12272.
+41 Pallini R, Vitiani LR, Bez A et al. Homolo-
+gous transplantation of neural stem cells to the
+injured spinal cord of mice. Neurosurgery
+2005;57:1014–1025; discussion 1014–1025.
+42 Gong X, He X, Qi L et al. Stromal cell de-
+rived factor-1 acutely promotes neural progen-
+itor cell proliferation in vitro by a mechanism
+involving the ERK1/2 and PI-3K signal path-
+ways. Cell Biol Int 2006;30:466–471.
+43 Bakondi B, Shimada IS, Peterson BM et
+al. SDF-1 secreted by human CD133-derived
+multipotent stromal cells promotes neural pro-
+genitor cell survival through CXCR7. Stem Cells
+Dev 2011;20:1021–1029.
+44 Hartmann TN, Grabovsky V, Pasvolsky R
+et al. A crosstalk between intracellular CXCR7
+and CXCR4 involved in rapid CXCL12-triggered
+integrin activation but not in chemokine-trig-
+gered motility of human T lymphocytes and
+CD34 cells. J Leukoc Biol 2008;84:1130–
+1140.
+45 Pal R, Gopinath C, Rao NM et al. Func-
+tional recovery after transplantation of bone
+marrow-derived humanmesenchymal stromal
+cells in a rat model of spinal cord injury. Cyto-
+therapy 2010;12:792–806.
+46 Himes BT, Neuhuber B, Coleman C et al.
+Recovery of function following grafting of hu-
+man bone marrow-derived stromal cells into
+the injured spinal cord. Neurorehabil Neural
+Repair 2006;20:278–296.
+47 Cízková D, Rosocha J, Vanický I et al.
+Transplants of humanmesenchymal stem cells
+improve functional recovery after spinal cord
+injury in the rat. Cell Mol Neurobiol 2006;26:
+1167–1180.
+737Jaerve, Schira, Müller
+www.StemCellsTM.com
+48 Neuss S, Becher E, Wöltje M et al. Func-
+tional expression of HGF and HGF receptor/c-
+met in adult human mesenchymal stem cells
+suggests a role in cell mobilization, tissue re-
+pair, and wound healing. STEM CELLS 2004;22:
+405–414.
+49 Vogel S, Trapp T, Börger V et al. Hepato-
+cyte growth factor-mediated attraction of
+mesenchymal stem cells for apoptotic neuro-
+nal and cardiomyocytic cells. Cell Mol Life Sci
+2010;67:295–303.
+50 Ozaki Y, Nishimura M, Sekiya K et al.
+Comprehensive analysis of chemotactic fac-
+tors for bonemarrowmesenchymal stem cells.
+Stem Cells Dev 2007;16:119–129.
+51 Ponte AL, Marais E, Gallay N et al. The in
+vitro migration capacity of human bone mar-
+row mesenchymal stem cells: Comparison of
+chemokine and growth factor chemotactic ac-
+tivities. STEM CELLS 2007;25:1737–1745.
+52 Abbott JD, Huang Y, Liu D et al. Stromal
+cell-derived factor-1alpha plays a critical role in
+stem cell recruitment to the heart after myo-
+cardial infarction but is not sufficient to induce
+homing in the absence of injury. Circulation
+2004;110:3300–3305.
+53 Hemeda H, Jakob M, Ludwig A-K et al.
+Interferon-gamma and tumor necrosis factor-
+alpha differentially affect cytokine expression
+and migration properties of mesenchymal
+stem cells. Stem Cells Dev 2010;19:693–706.
+54 Wright N, de Lera TL, García-Moruja C et
+al. Transforming growth factor-beta1 down-
+regulates expression of chemokine stromal
+cell-derived factor-1: Functional consequences
+in cell migration and adhesion. Blood 2003;
+102:1978–1984.
+55 Stich S, Haag M, Häupl T et al. Gene ex-
+pression profiling of human mesenchymal
+stem cells chemotactically induced with
+CXCL12. Cell Tissue Res 2009;336:225–236.
+56 Liu X, Duan B, Cheng Z et al. SDF-1/CXCR4
+axis modulates bone marrow mesenchymal
+stem cell apoptosis, migration and cytokine se-
+cretion. Protein Cell 2011;2:845–854.
+57 Von Lüttichau I, Notohamiprodjo M,
+Wechselberger A et al. Human adult CD34-
+progenitor cells functionally express the
+chemokine receptors CCR1, CCR4, CCR7,
+CXCR5, and CCR10 but not CXCR4. Stem Cells
+Dev 2005;14:329–336.
+58 Wynn RF, Hart CA, Corradi-Perini C et al.
+A small proportion of mesenchymal stem cells
+strongly expresses functionally active CXCR4
+receptor capable of promoting migration to
+bone marrow. Blood 2004;104:2643–2645.
+59 Hirvonen T, SuilaH, Kotovuori A et al. The
+i blood group antigen as a marker for umbilical
+cord blood-derived mesenchymal stem cells.
+Stem Cells Dev 2012;21:455–464.
+60 Ryu CH, Park SA, Kim SM et al. Migration
+of human umbilical cord blood mesenchymal
+stem cells mediated by stromal cell-derived
+factor-1/CXCR4 axis via Akt, ERK, and p38 sig-
+nal transduction pathways. Biochem Biophys
+Res Commun 2010;398:105–110.
+61 Schira J, Gasis M, Estrada V et al. Signifi-
+cant clinical, neuropathological and behav-
+ioural recovery from acute spinal cord trauma
+by transplantation of a well-defined somatic
+stem cell from human umbilical cord blood.
+Brain 2012;135:431–446.
+62 Opatz J, Kury P, Schiwy N et al. SDF-1
+stimulates neurite growth on inhibitory CNS
+myelin. Mol Cell Neurosci 2009;40:293–300.
+63 Chalasani SH, Sabelko KA, SunshineMJ et
+al. A chemokine, SDF-1, reduces the effective-
+ness of multiple axonal repellents and is re-
+quired for normal axon pathfinding. J Neurosci
+2003;23:1360–1371.
+64 Bajetto A, Barbero S, Bonavia R et al.
+Stromal cell-derived factor-1alpha induces as-
+trocyte proliferation through the activation of
+extracellular signal-regulated kinases 1/2 path-
+way. J Neurochem 2001;77:1226–1236.
+65 Rabchevsky AG, Sullivan PG, Scheff SW.
+Temporal-spatial dynamics in oligodendrocyte
+and glial progenitor cell numbers throughout
+ventrolateralwhitematter following contusion
+spinal cord injury. Glia 2007;55:831–843.
+66 Yang H, Lu P, McKay HM et al. Endoge-
+nous neurogenesis replaces oligodendrocytes
+and astrocytes after primate spinal cord injury.
+J Neurosci 2006;26:2157–2166.
+67 Kadi L, Selvaraju R, de Lys P et al. Differ-
+ential effects of chemokines on oligodendro-
+cyte precursor proliferation andmyelin forma-
+tion in vitro. J Neuroimmunol 2006;174:
+133–146.
+68 Patel JR, McCandless EE, Dorsey D et al.
+CXCR4 promotes differentiation of oligoden-
+drocyte progenitors and remyelination. Proc
+Natl Acad Sci USA 2010;107:11062–11067.
+69 Göttle P, Kremer D, Jander S et al. Acti-
+vation of CXCR7 receptor promotes oligoden-
+droglial cell maturation. Ann Neurol 2010;68:
+915–924.
+70 Balabanian K, Lagane B, Infantino S et al.
+The chemokine SDF-1/CXCL12 binds to and sig-
+nals through the orphan receptor RDC1 in T
+lymphocytes. J Biol Chem 2005;280:35760–
+35766.
+71 Berahovich RD, Zabel BA, Penfold ME et
+al. CXCR7 protein is not expressed on humanor
+mouse leukocytes. J Immunol 2010;185:5130–
+5139.
+72 Klapka N, Hermanns S, Straten G et al.
+Suppression of fibrous scarring in spinal cord
+injury of rat promotes long-distance regenera-
+tion of corticospinal tract axons, rescue of pri-
+mary motoneurons in somatosensory cortex
+and significant functional recovery. Eur J Neu-
+rosci 2005;22:3047–3058.
+73 Schiwy N, Brazda N, Müller HW. En-
+hanced regenerative axon growth of multiple
+fibre populations in traumatic spinal cord in-
+jury following scar-suppressing treatment. Eur
+J Neurosci 2009;30:1544–1553.
+74 Tang J, Wang J, Song H et al. Adenovirus-
+mediated stromal cell-derived factor-1 alpha
+gene transfer improves cardiac structure and
+function after experimental myocardial infarc-
+tion through angiogenic and antifibrotic ac-
+tions. Mol Biol Rep 2010;37:1957–1969.
+75 Schuh A, Kroh A, Konschalla S et al. Myo-
+cardial regeneration by transplantation of
+modified endothelial progenitor cells express-
+ing SDF-1 in a rat model. J Cell Mol Med 2012
+(in press).
+76 Ding J, Hori K, Zhang R et al. Stromal cell-
+derived factor 1 (SDF-1) and its receptor CXCR4
+in the formation of postburn hypertrophic scar
+(HTS).Wound Repair Regen 2011;19:568–578.
+77 Field JJ, Burdick MD, DeBaun MR et al.
+The role of fibrocytes in sickle cell lung disease.
+PLoS One 2012;7:e33702.
+78 Casella GT, Bunge MB, Wood PM. Endo-
+thelial cell loss is not amajor cause of neuronal
+and glial cell death following contusion injury
+of the spinal cord. Exp Neurol 2006;202:8–20.
+79 Popovich PG,Horner PJ,Mullin BB et al. A
+quantitative spatial analysis of the blood-spinal
+cord barrier. I. Permeability changes after ex-
+perimental spinal contusion injury. Exp Neurol
+1996;142:258–275.
+80 Zhang Z, Guth L. Experimental spinal
+cord injury: Wallerian degeneration in the dor-
+sal column is followed by revascularization,
+glial proliferation, and nerve regeneration. Exp
+Neurol 1997;147:159–171.
+81 Glaser J, Gonzalez R, Perreau VM et al.
+Neutralization of the chemokine CXCL10 en-
+hances tissue sparing and angiogenesis follow-
+ing spinal cord injury. J Neurosci Res 2004;77:
+701–708.
+82 Kaneko S, Iwanami A, Nakamura M et al.
+A selective Sema3A inhibitor enhances regen-
+erative responses and functional recovery of
+the injured spinal cord. Nat Med 2006;12:
+1380–1389.
+83 Yan X, Cai S, Xiong X et al. Chemokine
+receptor CXCR7 mediates human endothelial
+progenitor cells survival, angiogenesis, but not
+proliferation. J Cell Biochem 2012;113:1437–
+1446.
+84 Ceradini DJ, Kulkarni AR, CallaghanMJ et
+al. Progenitor cell trafficking is regulated by hy-
+poxic gradients through HIF-1 induction of
+SDF-1. Nat Med 2004;10:858–864.
+85 Li S, Wei M, Zhou Z et al. SDF-1alpha in-
+duces angiogenesis after traumatic brain in-
+jury. Brain Res 2012;1444:76–86.
+86 Shyu WC, Lin SZ, Yen PS et al. Stromal
+cell-derived factor-1 alpha promotes neuro-
+protection, angiogenesis, and mobilization/
+homing of bonemarrow-derived cells in stroke
+rats. J Pharmacol Exp Ther 2008;324:834–849.
+87 Ziegler M, Elvers M, Baumer Y et al. The
+bispecific SDF1-GPVI fusion protein preserves
+myocardial function after transient ischemia in
+mice. Circulation 2012;125:685–696.
+88 Song N, Huang Y, Shi H et al. Overexpres-
+sion of platelet-derived growth factor-BB in-
+creases tumor pericyte content via stromal-de-
+rived factor-1alpha/CXCR4 axis. Cancer Res
+2009;69:6057–6064.
+89 Kokovay E, Goderie S,Wang Y et al. Adult
+SVZ lineage cells home to and leave the vascu-
+lar niche via differential responses to SDF1/
+CXCR4 signaling. Cell Stem Cell 2010;7:163–
+173.
+90 Graumann U, Ritz MF, Rivero BG et al.
+CD133 expressing pericytes and relationship to
+SDF-1 and CXCR4 in spinal cord injury. Curr
+Neurovasc Res 2010;7:144–154.
+91 Yu X, Chen D, Zhang Y et al. Overexpres-
+sion of CXCR4 in mesenchymal stem cells pro-
+motes migration, neuroprotection and angio-
+genesis in a rat model of stroke. J Neurol Sci
+2012;316:141–149.
+92 Rabbany SY, Pastore J, Yamamoto M et
+al. Continuous delivery of stromal cell-derived
+factor-1 from alginate scaffolds accelerates
+wound healing. Cell Transplant 2010;19:399–
+408.
+93 Kuliszewski MA, Kobulnik J, Lindner JR et
+al. Vascular gene transfer of SDF-1 promotes
+endothelial progenitor cell engraftment and
+enhances angiogenesis in ischemic muscle.
+Mol Ther 2011;19:895–902.
+738 The Role of SDF-1 and Stem Cells in SCI and Repair
+STEM CELLS TRANSLATIONAL MEDICINE
+94 Misra P, Lebeche D, Ly H et al. Quantita-
+tion of CXCR4 expression in myocardial infarc-
+tion using 99mTc-labeled SDF-1alpha. J Nucl
+Med 2008;49:963–969.
+95 Hiesinger W, Frederick JR, Atluri P et al.
+Spliced stromal cell-derived factor-1alpha ana-
+log stimulates endothelial progenitor cell mi-
+gration and improves cardiac function in a
+dose-dependent manner after myocardial in-
+farction. J Thorac Cardiovasc Surg 2010;140:
+1174–1180.
+96 HiesingerW, Perez-Aguilar JM, Atluri P et
+al. Computational protein design to reengineer
+stromal cell-derived factor-1alpha generates
+an effective and translatable angiogenic poly-
+peptide analog. Circulation 2011;124:18–26.
+97 Segers VF, Tokunou T, Higgins LJ et al.
+Local delivery of protease-resistant stromal
+cell derived factor-1 for stem cell recruitment
+after myocardial infarction. Circulation 2007;
+116:1683–1692.
+98 Wysoczynski M, Reca R, Ratajczak J et al.
+Incorporation of CXCR4 into membrane lipid
+rafts primes homing-related responses of he-
+matopoietic stem/progenitor cells to an SDF-1
+gradient. Blood 2005;105:40–48.
+99 RatajczakMZ, Kim CH, Abdel-Latif A et al.
+A novel perspective on stem cell homing and
+mobilization: Review on bioactive lipids as po-
+tent chemoattractants and cationic peptides
+as underappreciated modulators of respon-
+siveness to SDF-1 gradients. Leukemia 2012;
+26:63–72.
+100 Basu S, Broxmeyer HE. Transforming
+growth factor-beta1 modulates responses of
+CD34 cord blood cells to stromal cell-derived
+factor-1/CXCL12. Blood 2005;106:485–493.
+101 Bernal A, SanMartin N, FernandezM et
+al. L-Selectin and SDF-1 enhance the migration
+ofmouse and human cardiacmesoangioblasts.
+Cell Death Differ 2012;19:345–355.
+102 Drury LJ, Ziarek JJ, Gravel S et al. Mono-
+meric and dimeric CXCL12 inhibit metastasis
+through distinct CXCR4 interactions and signal-
+ing pathways. Proc Natl Acad Sci USA 2011;
+108:17655–17660.
+103 Ray P, Lewin SA, Mihalko LA et al. Se-
+creted CXCL12 (SDF-1) forms dimers under
+physiological conditions. Biochem J 2012;442:
+433–442.
+104 Poznansky MC, Olszak IT, Foxall R et al.
+Active movement of T cells away from a
+chemokine. Nat Med 2000;6:543–548.
+105 Brooks HL, Jr., Caballero S, Jr., Newell
+CK et al. Vitreous levels of vascular endothelial
+growth factor and stromal-derived factor 1 in
+patients with diabetic retinopathy and cystoid
+macular edemabefore and after intraocular in-
+jection of triamcinolone. Arch Ophthalmol
+2004;122:1801–1807.
+106 KuciaM, RecaR,Miekus K et al. Traffick-
+ing of normal stem cells and metastasis of can-
+cer stem cells involve similar mechanisms: Piv-
+otal role of the SDF-1-CXCR4 axis. STEM CELLS
+2005;23:879–894.
+107 RatajczakMZ, Zuba-SurmaE, KuciaMet
+al. The pleiotropic effects of the SDF-1-CXCR4
+axis in organogenesis, regeneration and tu-
+morigenesis. Leukemia 2006;20:1915–1924.
+108 Oh SB, Tran PB, Gillard SE et al. Chemo-
+kines and glycoprotein120 produce pain hy-
+persensitivity by directly exciting primary
+nociceptive neurons. J Neurosci 2001;21:
+5027–5035.
+109 Knerlich-Lukoschus F, von der Ropp-
+Brenner B, Lucius R et al. Spatiotemporal CCR1,
+CCL3(MIP-1alpha), CXCR4, CXCL12(SDF-1al-
+pha) expression patterns in a rat spinal cord
+injury model of posttraumatic neuropathic
+pain. J Neurosurg Spine 2011;14:583–597.
+110 Zhang H, Trivedi A, Lee JU et al. Matrix
+metalloproteinase-9 and stromal cell-derived
+factor-1 act synergistically to support migra-
+tion of blood-bornemonocytes into the injured
+spinal cord. J Neurosci 2011;31:15894–15903.
+111 Sánchez-Martín L, Estecha A, Sa-
+maniego R et al. The chemokine CXCL12 regu-
+lates monocyte-macrophage differentiation
+and RUNX3 expression. Blood 2011;117:88–
+97.
+112 Martinez FO, Gordon S, Locati M et al.
+Transcriptional profiling of the human mono-
+cyte-to-macrophage differentiation and polar-
+ization: New molecules and patterns of gene
+expression. J Immunol 2006;177:7303–7311.
+739Jaerve, Schira, Müller
+www.StemCellsTM.com

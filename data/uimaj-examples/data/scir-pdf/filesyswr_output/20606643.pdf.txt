@@ -1,0 +1,1185 @@
+original article© The American Society of Gene & Cell Therapy
+Molecular Therapy  vol. 18 no. 10, 1769–1777 oct. 2010 1769
+Tenascin-C (TNC), a major component of the  extracellular 
+matrix, is strongly upregulated after injuries of the central 
+nervous system (CNS) but its role in tissue repair is not 
+understood. Both regeneration promoting and inhibit-
+ing roles of TNC have been proposed considering its 
+abilities to both support and restrict neurite outgrowth 
+in vitro. Here, we show that spontaneous recovery of 
+locomotor functions after spinal cord injury is impaired 
+in adult TNC-deficient (TNC–/–) mice in comparison to 
+wild-type (TNC+/+) mice. The impaired recovery was 
+associated with attenuated excitability of the plantar 
+Hoffmann reflex (H-reflex), reduced glutamatergic input, 
+reduced sprouting of monaminergic axons in the lumbar 
+spinal cord and enhanced post-traumatic degeneration 
+of corticospinal axons. The degeneration of corticospi-
+nal axons in TNC–/– mice was normalized to TNC+/+ 
+levels by application of the alternatively spliced TNC 
+fibronectin type III homologous domain D (fnD). Finally, 
+overexpression of TNC-fnD via adeno-associated virus in 
+wild-type mice improved locomotor recovery, increased 
+monaminergic axons sprouting, and reduced lesion scar 
+volume after spinal cord injury. The functional efficacy 
+of the viral-mediated TNC indicates a potentially useful 
+approach for treatment of spinal cord injury.
+Received 20 May 2010; accepted 28 May 2010; published online  
+6 July 2010. doi:10.1038/mt.2010.133
+IntroductIon
+Lack of regeneration in the mature central nervous system (CNS) 
+of mammals is attributed to the prevalence of neurite outgrowth 
+inhibitory over conducive molecules. Several CNS myelin-
+ associated inhibitors have been identified and characterized: 
+Nogo-A,1 myelin-associated glycoprotein,2 oligodendrocyte myelin 
+glycoprotein,3 semaphorin 3A,4 chondroitin sulfate proteoglycans,5 
+and tenascin-R.6 Enzymatic degradation of the chondroitin  sulfate 
+moiety of chondroitin sulfate proteoglycans improves axon regen-
+eration7 after spinal cord injury in adult rats, indicating a prominent 
+role of these extracellular matrix  constituents in preventing axonal 
+regeneration.
+A major component of the extracellular matrix is the 
+ glycoprotein tenascin-C (TNC), which is expressed by mature and 
+immature astrocytes, radial glia, meningeal fibroblasts,  subsets 
+of neurons, and Schwann cells.8–11 TNC expression is upregu-
+lated by glial cells following CNS trauma,10 as well as by neurons 
+after exposure to excitotoxic agents or induction of long-term 
+potentiation.12,13 TNC has been implicated not only in enhance-
+ment of neurite outgrowth and polarity of some neurons in vitro, 
+but also in inhibition of other neuronal cell types.14–16 TNC  inhibits 
+outgrowth when offered as a sharp substrate boundary abutting 
+onto a neurite outgrowth conducive environment.17 These dual 
+properties have been assigned to different splice variants of TNC18 
+and molecular epitopes within those splice variants.14,16,19–23
+Little is known about the in vivo functional role of TNC after 
+CNS lesions. In this study, we studied a TNC-deficient mouse, 
+which has normal gross anatomy of the CNS.24 We found that 
+compression lesion of the spinal cord of adult mice leads to 
+reduced functional outcome, and a more pronounced dying back 
+of severed corticospinal axons in TNC–/– compared to TNC+/+ 
+mice. This axonal retraction was reduced by application of the 
+alternatively spliced fibronectin type III homologous domain D 
+(fnD) to the injured spinal cord of TNC–/– mice. Overexpression 
+of fnD by an adeno-associated viral (AAV) vector promoted the 
+locomotor functional and morphological recovery in wild-type 
+mice after compression spinal cord injury. These results indicate 
+that TNC promotes spinal cord regeneration.
+results
+locomotor recovery of tnc–/– mice is inferior to that 
+of tnc+/+ littermates after spinal cord injury
+To evaluate the role of TNC in regeneration after spinal cord 
+injury, we first compared locomotor recovery after compres-
+sion injury between TNC–/– and TNC+/+ mice using the Basso 
+Mouse Score (BMS) rating scale25 and an objective numerical 
+measure of the plantar stepping abilities, the foot-stepping angle 
+during beam walking.6 Locomotor performance of TNC–/– mice 
+The first two authors contributed equally to this work.
+Correspondence: Melitta Schachner, W.M. Keck Center, 604 Allison Road, Piscataway, New Jersey 08854, USA. E-mail: schachner@biology.rutgers.edu
+The Extracellular Matrix Glycoprotein Tenascin-C 
+Is Beneficial for Spinal Cord Regeneration
+Jian Chen1, Hyun Joon Lee2, Igor Jakovcevski2, Ronak Shah1, Neha Bhagat1, Gabriele Loers2,  
+Hsing-Yin Liu3, Sally Meiners3, Grit Taschenberger4, Sebastian Kügler4, Andrey Irintchev2,5  
+and Melitta Schachner1,2
+1W.M. Keck Center for Collaborative Neuroscience, Department of Cell Biology and Neuroscience, Rutgers the State University of New Jersey, Piscataway, 
+New Jersey, USA; 2Zentrum für Molekulare Neurobiologie, University Hospital Hamburg-Eppendorf, Universität Hamburg, Hamburg, Germany; 
+3UMDNJ-Robert Wood Johnson Medical School, Department of Pharmacology, Piscataway, New Jersey, USA; 4DFG Research Center Molecular 
+Physiology of the Brain (CMPB) at Department of Neurology, University of Goettingen, Goettingen, Germany; 5Department of Otorhinolaryngology, 
+Friedrich-Schiller-University Jena, Jena, Germany
+1770 www.moleculartherapy.org  vol. 18 no. 10 oct. 2010 
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+before injury was similar to that of TNC+/+ mice (Figure 1), in 
+agreement with previous observations that TNC–/– mice have 
+no apparent motor deficits.26 One week after compression injury, 
+both TNC+/+ and TNC–/– mice had a severe decline in the 
+BMS score and a prominent increase in the foot-stepping angle 
+(Figure 1a,b). During the 12-week observation period, locomo-
+tor abilities recovered to a moderate degree in both genotypes, 
+but this recovery was more impaired in TNC–/– mice in com-
+parison to their TNC+/+ littermates (Figure 1). Group mean 
+values differed statistically only for the BMS score 12 weeks 
+after injury (Figure 1a). However, analysis of recovery indexes, 
+which estimate gain of function after the first week as a frac-
+tion of the functional loss induced by the injury in individual 
+animals,6 revealed significant differences for both parameters at 
+6 and 12 weeks after injury (Figure 1c,d). These results indicate 
+an adverse effect of TNC ablation on hindlimb locomotion after 
+spinal cord injury.
+reduced H-reflex activity in tnc–/– mice versus 
+tnc+/+ littermates after spinal cord injury
+In addition to assessment of locomotor recovery, we analyzed the 
+plantar H-reflex (Hoffmann reflex), an electrically elicited analog of 
+the spinal stretch reflex providing information about the  functional 
+properties of Ia afferents and homonymous α-motoneurons. 
+Before injury, the H-reflex responses were strongly reduced in 
+both TNC–/– and TNC+/+ mice when the stimulation frequency 
+was increased stepwise from baseline  frequency (0.1 Hz) to 5 Hz, 
+a phenomenon known as rate depression (Figure 2). One week 
+after injury, the rate depression was severely reduced in both 
+genotypes (Figure 2). At later time points, 3–12 weeks, the rate 
+sensitivity declined further, as compared with 1 week, in TNC+/+ 
+mice, but not in TNC–/– mice (Figure 2). Thus, reflex excitability 
+upon repetitive stimulation was significantly reduced in TNC–/– 
+mice compared with TNC+/+ littermates at 6 and 12 weeks, which 
+is consistent with previous locomotor recovery observations. 
+Previous work in rats and mice has shown that reduced reflex 
+excitability is associated with reduced locomotor recovery.27 Thus, 
+our combined observations suggest that TNC deficiency prevents 
+functionally favorable changes in reflex excitability with time after 
+injury. In contrast to TNC–/– mice, mice deficient in tenascin-R, a 
+TNC-related extracellular matrix molecule, show both improved 
+locomotor recovery and enhanced reflex excitability compared 
+with wild-type littermates after compression spinal cord injury.6,27
+reduced afferent input to lamina VII in tnc–/– mice 
+versus tnc+/+ littermates after spinal cord injury
+The degree of locomotor recovery after spinal cord injury is largely 
+determined by preservation and functionality of primary afferent 
+inputs.28 We therefore investigate, whether some aspects of spinal 
+cord connectivity are altered in TNC–/– mice. We analyzed vesicu-
+lar glutamate transporter 1 (VGLUT1)+ synaptic terminals, which 
+are derived from medium- to large-sized neurons in the dorsal 
+root ganglia and convey mechano- and proprioceptive information 
+to the spinal cord.29 We selected three areas for analysis in which 
+VGLUT1+ terminal densities were prominent: the Clarke’s column, 
+which receives proprioceptive information (Figure 3a,b), an adja-
+cent part of lamina VII, an area in the spinal cord containing, among 
+0
+H
+/M
+ ra
+tio
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Intact
+TNC+/+ (7) (7)
+TNC−/− (9) (9)
+(6)
+(9)
+(6)
+(7)
+(4)
+(5)
+***
+*
+**
+1 week 3 weeks 6 weeks 12 weeks
+1 2 3 4 5 0 1 2 3 4 5 0 1 2 3 4
+Stimulation frequency (Hz)
+5 0 1 2 3 4 5 0 1 2 3 4 5
+Figure 2 rate depression of the Hoffmann reflex at different time 
+points after spinal cord injury in tnc–/– and tnc+/+ mice. Shown 
+are mean values (±SEM) of H/M ratios at different stimulation frequencies 
+before operation and 1, 3, 6, and 12 weeks after spinal cord injury. At 6 
+and 12 weeks after injury, the H/M ratios in TNC–/– mice are significantly 
+lower than in TNC+/+ littermates at high frequencies (analysis of vari-
+ance for repeated measurements with Tukey’s post hoc test, *P < 0.05). 
+Number of animals are indicated in parenthesis. TNC, tenascin-C.
+Foot-stepping angle
+BMS score Foot-stepping angle
+TNC+/+ (n = 7)
+TNC−/− (n = 8)
+Weeks after SCI
+de
+gr
+ee
+s
+0 3 6 9 12
+0
+10
+20
+30
+40
+50
+0
+10
+20
+30
+40
+50
+0
+50
+100
+150
+Recovery time-period
+R
+ec
+ov
+er
+y 
+in
+de
+x 
+(%
+)
+6 weeks 12 weeks
+Recovery time-period
+a b
+c d
+6 weeks 12 weeks
+*
+*
+*
+*
+Weeks after SCI
+BMS score
+TNC+/+
+TNC−/−
+0
+2
+4
+6
+8
+3 6 9 12
+*
+Figure 1 Functional recovery after compression spinal cord injury in 
+tnc–/– and tnc+/+ mice estimated by Basso Mouse score (BMs) 
+rating and foot-stepping angle. Mean values (±SEM) of (a) BMS scores 
+and (b) foot-stepping angles before surgery (day 0) and at 1, 3, 6, and 
+12 weeks after injury. Recovery indexes (mean values ± SEM) calculated 
+from individual animal values for (c) BMS score and (d) foot-stepping angle 
+at 6 and 12 weeks after injury. Numbers of animals per group are indi-
+cated in c. Asterisks indicate significant differences between group mean 
+values at a given time period (one-way analysis of variance for repeated 
+measurements with Tukey’s post hoc test, P < 0.05). TNC, tenascin-C.
+Molecular Therapy  vol. 18 no. 10 oct. 2010 1771
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+other neurons, last-order interneurons, i.e., innervating motoneu-
+rons (Figure 3a,c) and the motoneuron region, lamina IX, where 
+proprio- and mechanoreceptors form contacts predominantly on 
+motoneuron dendrites (Figure 3a,d). Analysis of TNC+/+ mice 12 
+weeks after injury revealed a significant, compared with noninjured 
+mice, decline in the terminal densities in Clarke’s column and lamina 
+VII, and, interestingly, a strong increase in lamina IX (Figure 3e–g). 
+Similar injury-related changes were found in TNC–/– mice with 
+one prominent exception: a severe reduction of VGLUT1+ boutons 
+in lamina VII compared with both noninjured TNC–/– mice and 
+injured TNC+/+ mice (Figure 3f). This genotype-related difference 
+indicates that TNC ablation leads to area-specific deficits in afferent 
+inputs to the injured spinal cord.
+reduced regrowth/sprouting of monaminergic 
+and cst axons in tnc–/– versus tnc+/+ littermates 
+after spinal cord injury
+The deficit in the glutamatergic innervation of lamina VII in 
+TNC–/– mice suggested that absence of TNC in the injured spinal 
+cord has a negative impact on axonal survival and/or sprouting. 
+To further analyze this possibility, we examined monaminergic 
+(tyrosine hydroxylase-positive, TH+) axons in the lumbar  spinal 
+cord. These axons often survive after thoracic compression or 
+contusion injuries and are able to regrow and sprout.30 In support 
+of this view, we found a dramatic deficit in TH+ axonal innerva-
+tion of the lumbar spinal cord of injured TNC–/– mice compared 
+with TNC+/+ mice (Figure 4). Considering that the degree of 
+monaminergic innervation of the lumbar spinal cord is an impor-
+tant determinant of locomotor abilities after spinal cord injury in 
+rats and mice,31–33 we conclude that the observed axonal deficit 
+accounts, at least in part, for the inferior functional recovery in 
+TNC–/– mice.
+In addition to unmyelinated monaminergic fibers, we exam-
+ined corticospinal tract (CST) axons to evaluate the response 
+of large myelinated axons to spinal cord injury. The proximal 
+segments of these axons degenerate rapidly, within hours after 
+injury, and thus retract from the lesion site by several hundred 
+micrometers.34,35 We analyzed this “dying back” by measuring 
+the distance between the tips of the anterogradely fluoro-ruby-
+labeled axons and the center of the lesion site (Figure 5). In 
+TNC+/+ mice, this distance was about 400 µm at 1 week after 
+injury, and it did not change at 2 weeks as well as 30 days after 
+injury. Similar retraction was found at 1 and 2 weeks after 
+injury in TNC–/– mice. At 30 days, however, the distance in 
+TNC–/– was more than doubled compared with the previous 
+time points. Thus, TNC deficiency leads to a delayed second-
+ary axonal degeneration. Combined, our findings support the 
+300 µm
+a
+e f g
+b
+c
+d
+30 µm
+30 µm
+30 µm
+0
+2
+4
+6
+8
+TNC+/+ TNC−/−
+*
+*#
+0
+2
+4
+6
+8
+10
+TNC+/+ TNC−/−
+*
+*
+#
+TNC+/+
+0
+D
+en
+si
+ty
+ (×
+10
+3 /m
+m
+2 )
+5
+10
+15
+20
+TNC−/−
+*
+*
+12 weeks
+Intact
+Figure 3 Immunohistochemical analysis of VGlut1+ terminals in 
+the spinal cord of intact and injured tnc–/– and tnc+/+ mice. 
+(a) A representative section of the spinal cord of a TNC+/+ mouse shows 
+the distribution of VGLUT1+ puncta. Digital images of VGLUT1+ termi-
+nals in the (b) Clarke’s column, (c) medial lamina VII, and (d) lamina IX 
+obtained at high magnification (insets b, c, d) were used for estimation 
+of terminal densities (number of puncta per unit area). Mean densities 
+(±SEM) of terminals in the three areas in injured and intact TNC–/– 
+(n  = 5) and TNC+/+ mice (n = 4) are shown in e–g. Six sections 250 µm 
+apart were analyzed per animal. Asterisks indicate differences between 
+noninjured and injured mice of the same genotype, cross-hatches 
+denote differences between intact or injured TNC–/– and TNC+/+ mice 
+(P < 0.05, two-sided t-test for independent samples). TNC, tenascin-C; 
+VGLUT1, vesicular glutamate transporter 1.
+LS
+C
+R
+250 µm
+200 µm200 µm
+a b
+TNC+/+
+0
+N
+um
+be
+r o
+f a
+xo
+ns
+20
+10
+30
+40
+TNC−/−
+*
+c
+d
+Figure 4 Analysis of monaminergic axons in the lumbar spinal cord 
+of tnc–/– and tnc+/+ mice 12 weeks after injury. Representative 
+images of tyrosine hydroxylase-positive (TH+) fibers in (a) TNC+/+ 
+and (b) TNC–/– mice. (c) Mean numbers (±SEM) of TH+ axons in four 
+TNC+/+ and three TNC–/– mice. Every 5th parasagittal serial section 
+from the spinal cord of each animal was analyzed. (d) The axon count-
+ing paradigm is illustrated in the Neurolucida drawing. Asterisk indicates 
+significant difference between TNC–/– and TNC+/+ mice (P < 0.05, two-
+sided t-test for independent samples). C, caudal; LS, lesion site; R, rostral; 
+TNC, tenascin-C.
+1772 www.moleculartherapy.org  vol. 18 no. 10 oct. 2010 
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+notion that lack of TNC renders the hostile environment in the 
+injured spinal cord even more unfavorable for axonal survival 
+and regrowth.
+tnc expression in the injured spinal cord  
+of tnc+/+ mice
+We further analyzed the expression pattern of TNC in the 
+injured spinal cord of wild-type mice by immunohistochemis-
+try rostral and caudal to the lesion site as a function of time 
+after lesion. In noninjured TNC+/+ mice (Figure 6a) and in 
+lesioned TNC–/– mice (data not shown), no TNC immuno-
+reactivity was detected. In injured TNC+/+ mice, TNC was 
+upregulated already 2 days after injury rostral and caudal to the 
+lesion site, reached a peak between 4 and 7 days after injury to 
+be reduced thereafter, but still being elevated when compared to 
+the uninjured spinal cords at 30 days (Figure 6b). To quantify 
+TNC expression, digital images taken from serial sections were 
+subjected to mean gray value detection as a measure of average 
+fluorescence intensity. Significantly stronger TNC immunore-
+activity was found rostral (125 ± 6.0 arbitrary units, AU) than 
+TNC+/+ 
+TNC−/− 
+a 
+b 
+TNC+/+ 
+0 
+D
+is
+ta
+nc
+e 
+(µm
+) 
+1,000 
+1,200 
+7 days 
+14 days 
+30 days 
+400 
+600 
+800 
+200 
+TNC−/− 
+* 
+c
+Figure 5 corticospinal tract axonal ‘dying-back’ is reduced in 
+tnc–/– mice after spinal cord injury. Localization of corticospinal tract 
+axons anterogradely labeled with fluoro-ruby (red) with respect to the 
+center of the lesion (indicated by stars) as seen by immunolabeling of 
+astrocytes by GFAP (green) in consecutive longitudinal sections of a (a) 
+TNC+/+ and (b) TNC–/– mice 30 days after spinal cord injury. Tips of the 
+longest axons of the corticospinal tracts are indicated by arrows. Bar = 
+100 µm. (c) Mean distances (±SEM) between the tips of the corticospinal 
+tract axons and the lesion center in TNC–/– mice and TNC+/+ mice at 
+7, 14, and 30 days after injury (n = 4 for each time point). Broken lines 
+indicate extent of the glial scar. Asterisk indicates a significant difference 
+between the genotypes (P < 0.01, t-test). GFAP, glial fibrillary acidic pro-
+tein; TNC, tenascin-C.
+LF
+TNC+/+
+Intact
+183 kd
+25 kd
+6
+G
+ra
+y 
+va
+lu
+e 
+in
+te
+ns
+ity
+0 0
+0.5
+1.0
+1.5
+2.0
+2.5
+5
+10
+15
+20
+25
+30
+35
+*
+*
+5 4 3 2 1 L 1 2 3 4 5 6
+Rostral Caudal Intact Rostral Caudal
+Intact Rostral Caudal
+TNC−/−
+TNC
+TN
+C/
+G
+AP
+DH
+GAPDH
+LF LF
+LF
+DF
+a
+c
+d e
+b
+DF
+Figure 6 Immunohistochemical and western blot analysis of tnc 
+expression in intact and injured spinal cords 4 days after injury. 
+(a) By immunohistochemistry, TNC is hardly detectable in the intact 
+spinal cord. (b) In the lesioned spinal cords of TNC+/+ mice, 4 days 
+after injury, TNC is upregulated in both gray matter and white matter. 
+(c) Western blot analysis of TNC expression is consistent with the fluores-
+cence intensity evaluation (n = 4 for western blot), with TNC being more 
+predominantly expressed in the spinal cord rostral to the lesion site, less 
+in the spinal cord caudal to the lesion site, and least in the intact spinal 
+cord. Equal loading of protein extracts is seen by western blot analy-
+sis of GAPDH. (d) Mean immunofluorescence intensities in consecutive 
+transverse spinal cord sections show higher levels of TNC in the spinal 
+cord rostral than caudal to the lesion site (n = 4 for immunofluores-
+cence, mean values ± SEM are shown). The lesion center is designated 
+as level “L,” and other sequential levels are designated as levels 1, 2, 
+etc. at 600-µm spaced intervals rostrally and caudally from the lesion. 
+(e) Quantitative evaluation of band intensities by western blot analy-
+sis of intact spinal cords and segments of injured spinal cords proximal 
+and distal to the lesion site. Asterisk indicates a significant difference 
+between groups (P < 0.01, t-test). Bar = 100 µm. DF, dorsal funiculus; 
+GAPDH, glyceraldehyde-3-phosphate dehydrogenase; LF, lateral funicu-
+lus; TNC, tenascin-C.
+Molecular Therapy  vol. 18 no. 10 oct. 2010 1773
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+caudal to the lesion site (86 ± 7.7 AU; Figure 6d). It is note-
+worthy that prominent TNC expression was visible in both gray 
+and white matter of the spinal cord including the dorsal and the 
+lateral funiculi occupied by the main descending axonal tracts, 
+including the CST. Results of western blot analysis were consis-
+tent with the fluorescence intensity evaluation in that TNC is 
+more expressed in the spinal cord rostral to the lesion site (1.96 ± 
+0.06 AU), less in the spinal cord caudal to the lesion site (1.34 
+± 0.08 AU), and least in the intact spinal cord (0.95 ± 0.05 AU; 
+Figure 6c). These observations, in conjunction observations of 
+on injury-induced axonal retraction, suggest that TNC exerts 
+a positive influence on the integrity of severed axonal stumps 
+rostral to the lesion site.
+rescue of injury-induced axonal retraction in tnc–/– 
+mice by exogenous tnc
+To test the assumption that TNC is essential for maintenance of 
+axonal integrity, we administered the TNC-derived fusion protein 
+GST-fnD to the injured spinal cord of TNC–/– and TNC+/+ mice. 
+This fnD TNC promotes neurite outgrowth in vitro and is derived 
+from TNC splice variants closely related to periods of increased 
+axonal growth in the developing CNS.14–16,20–22,36 In control 
+TNC–/– mice, which received only GST, the distance between the 
+lesion center and the tips of the CST axons was 1,160 ± 280 µm on 
+average (see Figure 7 for individual  values), which is similar to the 
+distance of retraction in lesioned and untreated TNC–/– mice (see 
+earlier text). In TNC–/– mice treated with GST-fnD fusion pro-
+tein, axonal retraction was significantly reduced to 446 ± 93 µm (P 
+< 0.05, t-test, compared with control treatment). This result shows 
+that the amount of GST-fnD that had been applied to the injured 
+spinal cord of TNC–/– mice is sufficient to reduce the overt retrac-
+tion to levels seen in TNC+/+ mice. Exogenous TNC application 
+to TNC+/+ mice did not influence the extent of axonal retrac-
+tion (axonal retraction of 304 ± 79 and 261 ± 48 µm in TNC+/+ 
+mice, which received GST-fnD fusion protein or glutathione 
+S-transferase (GST) alone, respectively; no significant difference 
+by t-test; see Figure 7 for individual values). The experiment using 
+fnD and GST proteins was designed to test effects on the integrity 
+of corticospinal axons. To deliver maximum amounts of protein 
+locally, a catheter was inserted in the subdural space at the level of 
+cauda equina, passed along the sacral and lumbar spinal segments 
+and its tip was fixed in close vicinity of the lesion scar. This posi-
+tioning of the catheter caused, as indicated by histological exami-
+nations, some damage to the distal spinal cord that precluded use 
+of outcome measures used for TNC–/– and TNC+/+ mice like 
+analyses of locomotion, H-reflex, and monaminergic axons.
+AAV-fnd improves functional recovery in wild-type 
+mice after spinal cord injury
+Considering the negative effects of TNC deficiency on spinal cord 
+regeneration and the rescue of injury-induced axonal retraction in 
+TNC–/– mice by exogenous TNC, we tested the effect of a long-
+lasting viral-mediated delivery of TNC on functional recovery. 
+We designed AAV vectors, which carry either the fnD-c-myc gene 
+or the GFP gene for in vivo application.6 We injected AAV-fnD 
+(n = 11) or AAV-GFP (n = 9) into the spinal cords of TNC+/+ 
+mice immediately after injury and detected the expression of the 
+target genes by staining the c-myc tagged on the fnD 1 week after 
+the injection (Supplementary Figure S1). The expression lasted 
+for at least 8 weeks after the injection, the longest observation 
+time (data not shown). Analyses of locomotor recovery revealed a 
+strong positive effect of AAV-fnD compared to AAV-GFP, which 
+was apparent as early as 2 weeks after injury and lasted for the 
+whole observation period of 8 weeks (Figure 8). The results of 
+this experiment clearly indicate that TNC-fnD improves spinal 
+cord regeneration and that its delivery by viral vectors to the 
+injured spinal cord can be considered as a potential therapeutic 
+approach.
+500
+0
+TNC
++/+  fnD
+TNC
++/+  GS
+T
+TNC
+−/−  fnD
+TNC
+−/−  GS
+T
+D
+is
+ta
+nc
+e 
+(µm
+)
+1,000
+1,500
+Figure 7 tnc-derived fusion protein Gst-fnd rescues the dying 
+back of corticospinal tract axons in tnc–/– mice but does not pro-
+mote further regrowth of corticospinal tract axons in tnc+/+ mice. 
+The distance between the tips of the corticospinal tract axons and lesion 
+center was used as index of axonal degeneration after spinal cord injury 
+in individual animals (indicated by circles). Four groups were tested: 
+TNC-derived fusion protein GST-fnD was administered to the spinal 
+cords of TNC+/+ (TNC+/+ fnD, n = 3) and TNC–/– (TNC–/– fnD, n = 4) 
+mice; similarly, GST was administered as control to TNC+/+ (TNC+/+ 
+GST, n = 3) and TNC–/– (TNC–/– GST, n = 3) mice. fnD, fibronec-
+tin type III homologous domain D; GST, glutathione S-transferase; 
+TNC, tenascin-C.
+In
+ta
+ct
+0
+2
+BM
+S
+4
+6
+8
+10
+20
+40
+60
+80
+100
+120
+140
+180
+160
+a b
+1 
+w
+ee
+k
+2 
+w
+ee
+ks
+3 
+we
+ek
+s
+*
+*
+* *
+AAV-fnD
+AAV-GFP
+AAV-fnD
+AAV-GFP
+4 
+w
+ee
+ks
+6 
+we
+ek
+s
+8 
+we
+ek
+s
+In
+ta
+ct
+1 
+w
+ee
+k
+ 
+2 
+w
+ee
+ks
+3 
+we
+ek
+s
+4 
+w
+ee
+ks
+6 
+we
+ek
+s
+8 
+we
+ek
+s
+Fo
+ot
+-s
+te
+pp
+in
+g 
+an
+gl
+e * * *
+*
+*
+Figure 8 AAV-fnd improves locomotor recovery after spinal cord 
+injury. Recovery was evaluated by (a) BMS and (b) foot-stepping angle 
+at 1, 2, 3, 4, 6, and 8 weeks after spinal cord injury and AAV injection. 
+Locomotor recovery in the AAV-fnD group (n = 11) is better than in 
+AAV-GFP group (n = 9). Shown are mean values ± SEM. Asterisk indicates 
+statistical significance (t-test) (*P < 0.05). AAV, adeno-associated virus; 
+BMS, Basso Mouse Scale; fnD, fibronectin type III homologous domain 
+D; GFP, green fluorescent protein.
+1774 www.moleculartherapy.org  vol. 18 no. 10 oct. 2010 
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+AAV-fnd increases regrowth/sprouting of 
+monaminergic axons and reduces lesion scar volume 
+in wild-type mice
+Because significant correlations had been found between func-
+tional recovery, evaluated by either foot-stepping angle or BMS 
+score, and monaminergic reinnervation of the distal spinal 
+cord after injury,33 on one hand, and TNC deficiency reduced 
+monaminergic regrowth/sprouting (Figure 4), on the other, we 
+examined whether enhanced functional recovery in AAV-fnD-
+treated wild-type mice could be related to improved monaminer-
+gic reinnervation. Quantification of TH+ axons in the distal spinal 
+cords revealed that the numbers of monaminergic fibers at 8 weeks 
+were significantly higher in AAV-fnD-treated mice (69 ± 11; n = 
+8) than in AAV-GFP-treated controls (28 ± 1.6; n = 7, P < 0.01). 
+This observation indicates a more vigorous regenerative response 
+of monaminergic fibers in the AAV-fnD-treated spinal cords. In 
+contrast to TH+ axons, anterograde labeling revealed that AAV-
+fnD in C57BL/6J mice, similar to GST-fnD in TNC+/+ mice, did 
+not attenuate the retraction of corticospinal axons (axonal retrac-
+tion of 433 ± 23 and 480 ± 43 µm in AAV-fnD- and AAV-GFP-
+treated mice, n = 6 for each group, P > 0.05, t-test). This finding 
+is not in contradiction to the observed functional effects since the 
+locomotor abilities estimated by the BMS score and the foot step-
+ping angle are not dependent on CST functions.6
+Previous study also demonstrated a high degree of covariation 
+between functional estimates and scar volume after spinal cord 
+injury in mice.6 We hence examined the lesion scar volume and 
+observed that the volume was smaller in the AAV-fnD-treated 
+mice (0.67 ± 0.08 mm3; n = 8) compared with controls (1.03 ± 
+0.09 mm3; n = 7, P < 0.05). This observation, taken together with 
+the improved regrowth/sprouting of TH+ axons in the AAV-fnD-
+treated spinal cords, indicates that AAV-fnD exerts its beneficial 
+effects through decrease in scaring and improved axonal regen-
+eration after spinal cord injury.
+dIscussIon
+Here, we provide evidence that TNC is beneficial for CNS regen-
+eration. TNC–/– mice show reduced locomotor recovery after 
+spinal cord injury when compared with TNC+/+ littermates. This 
+inferior outcome is associated with attenuated H-reflex excit-
+ability and reduced survival and/or sprouting of axons. Positive 
+functional effects were achieved by infusion of TNC-fnD into the 
+spinal cord and overexpression of this TNC domain in the injured 
+spinal cord of wild-type mice via a viral construct.
+Mechanisms of tnc influence on spinal cord 
+regeneration
+Upregulation of TNC has previously been observed after lesions 
+of the CNS,10,13,37 but its role in tissue repair has not been under-
+stood. Our results indicate that TNC has beneficial functions 
+after  spinal cord lesion by preservation of axonal integrity and/
+or sprouting. In TNC–/– mice, myelinated corticospinal axons 
+undergo a more pronounced secondary degeneration and non-
+myelinated monaminergic axons distal to the site of injury 
+are less numerous compared with TNC+/+ mice. Moreover, 
+ administration of a beneficial domain of TNC, TNC-fnD, rescues 
+this degeneration. These findings are in agreement with previous 
+observations that TNC, when presented to growing neurites as 
+a uniform substrate, enhances neurite outgrowth and supports 
+neuronal survival.14–17,36 In addition to influences exerted by TNC 
+in close vicinity of axons, TNC may influence axonal survival by 
+more indirect mechanisms.
+In addition to neuroprotection, we have to consider that 
+TNC is involved in synaptic plasticity.21 The observed reduc-
+tion of  spinal afferent inputs to lamina VII in the spinal cords 
+of injured TNC–/– mice may reflect a region-specific effect on 
+injury- induced synaptic remodeling. In line with this notion is 
+the finding that TNC overexpression is associated with seizure-
+induced synaptic formation in the hippocampus.38 The positive 
+effects of TNC on regeneration may not be restricted to the CNS: 
+TNC expression is upregulated in various tissues after injury, for 
+example, peripheral nerve, skin, and skeletal muscle39,40 and the 
+absence of TNC has negative impacts on the outcome of facial 
+nerve injury.41 Therefore, substantial evidence indicates that TNC 
+promotes healing in various tissues.
+therapeutic potential of tnc
+The scanty knowledge of the mechanisms regulating TNC 
+ expression in the injured spinal cord currently precludes the 
+possibility to devise strategies for enhancement of its expression 
+via regulatory pathways. Therefore, we used an AAV construct, 
+previously shown to be an efficient vehicle for exogenous protein 
+expression in the injured spinal cord,42 to achieve overexpression 
+of the neurite outgrowth-promoting fnD of TNC in wild-type, 
+i.e., TNC-competent, mice. Because AAV constructs are con-
+sidered compatible with clinical applications,43 the functional 
+and morphological improvement observed in TNC-fnD-treated 
+mice compared with control animals is promising. Moreover, it 
+is  conceivable that combinatorial AAV-based treatments using, 
+in addition to TNC, other molecules beneficial for regenera-
+tion, such as L1,42 or combination with treatment of regeneration 
+conducive chondroitinase ABC, proteases, cytokines, and other 
+agents could generate a higher potential for treatment of spinal 
+cord injury and other CNS traumas and diseases. Simultaneous 
+overexpression of TNC and TNC receptors may be another 
+efficient approach. This notion is supported by recent observa-
+tions that AAV-mediated overexpression of α9 integrin, a recep-
+tor for the nonalternatively spliced region of TNC, in DRG and 
+spinal cord neurons in adult rats, increases regeneration of sen-
+sory axons and enables recovery of thermosensation.44 Efficient 
+delivery of TNC may not be restricted to viral constructs, as a 
+neurite outgrowth-promoting peptide derived from the fnD of 
+TNC also promotes axonal regeneration in the hemisected spi-
+nal cord of wild-type rats when  covalently attached to polyamide 
+nanofibers.45
+MAterIAls And MetHods
+Animals. C57BL/6J mice (female, 8 weeks old) were purchased from 
+Taconic (Hudson, NY). TNC-deficient mice were derived from the origi-
+nal stock.24 Heterozygous (TNC+/–) mice were intercrossed to yield homo-
+zygous TNC-deficient (TNC–/–) and wild-type (TNC+/+) littermates 
+on a C57BL/6J genetic background after six generations of backcrossing 
+with C57BL/6J mice. Genotypes were determined by PCR analysis using 
+primers derived from the intron between exons 1 and 2 (5′-AGC CCC 
+Molecular Therapy  vol. 18 no. 10 oct. 2010 1775
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+TGC CTA CCT TTT CCT AAT G-3′), from the single LoxP–BamHI site 
+(5′-CCA GCT TTA TCG GAT CCA TAA CTT CG-3′), and from exon 2 
+(5′-CTT CGG GAG TGA GGG CAA ACA AAG-3′).
+Antibodies. The polyclonal antibodies pK7 and KAF 9-2 to TNC have been 
+described.8 Rabbit polyclonal antibody to glial fibrillary acidic protein and 
+mouse monoclonal antibody to fibronectin were purchased from Sigma 
+Chemical (St Louis, MO). Rabbit polyclonal antibody to TH and mouse 
+monoclonal antibody to glyceraldehyde-3-phosphate dehydrogenase 
+(MAB374) were purchased from Chemicon (Hofheim, Germany). Mouse 
+monoclonal antibody against VGLUT1 was purchased from Synaptic 
+Systems (Göttingen, Germany). For indirect immunofluorescence and 
+western blot analysis, secondary antibodies against rabbit or mouse IgGs 
+and conjugated with Cy2, Cy3, or horseradish peroxidase were purchased 
+from Dianova (Hamburg, Germany).
+Spinal cord injury. All surgical procedures and postoperative care were 
+approved by the local authorities and were in agreement with the guidelines 
+of the European Community and the National Institutes of Health. The 
+animals were deeply anesthetized by intraperitoneal injection (0.01 ml/g 
+body weight) with a mixture of Ketanest (ketamine) (20%; Parke-Davis, 
+Berlin, Germany) and Rompun (xylazine) (8%; Bayer, Leverkusen, 
+Germany). Laminectomy was performed at the T7–T9 level with mouse 
+laminectomy forceps (Fine Science Tools, Heidelberg, Germany). The spi-
+nal cord was compressed by a mouse spinal cord compression device.42 
+This device controls a pair of watchmaker forceps, which are mounted on 
+a metal block attached to a stereotaxic frame and automated with regard 
+to the force and time of compression by an electromagnetic device. The 
+spinal cord was compressed for 1 second by a time-controlled current flow 
+through the electromagnetic drive. The skin was closed using 6-0 nylon 
+sutures (Ethicon, Norderstedt, Germany). The operated mice were kept at 
+37 °C for 12 hours to prevent hypothermia. Afterward, they were housed 
+individually in standard cages and kept in a conditioned room (22 °C) with 
+standard water and food provided ad libitum. If animals died prior to the 
+time points they were excluded from the cohort.
+Evaluation of motor functions. The recovery of ground locomotion 
+was evaluated using a mouse rating scale, the BMS.26 In addition, motor 
+ recovery was analyzed using a numerical measure for plantar stepping 
+evaluation, the foot-stepping angle.6 In brief, a left- and a right-side view 
+of each animal during two consecutive walking trials on a wooden beam 
+(1-m long, 4-cm wide) was captured before the operation and at various 
+time points after the operation with a video camera (A602fc camera; Basler, 
+Ahrensburg, Germany) at 100 frames per second and analyzed with the 
+affiliated analysis software (SIMI Motion; SIMI Reality Motion Systems, 
+Unterschleissheim, Germany).
+H-reflex recordings. Preparation of animals and the H-reflex recording tech-
+nique were previously described.27 Briefly, under ketamine–xylazine anes-
+thesia (see earlier text), a ground needle electrode was applied at the base of 
+the animal’s tail. Needle electrodes (stainless steel, diameter: 0.4 mm) were 
+used for sciatic nerve stimulation. The stimulating electrodes were inserted 
+between the two heads of the biceps femoris muscle in the thigh so that the 
+cathode was located rostrally to the anode. For electromyography record-
+ings, a reference stainless steel electrode was fixed to the skin between the 
+first and second digit and an active recording electrode (tungsten, diameter: 
+0.25 mm) was inserted between the second and the third cuneiform bones. 
+Electrode positioning was performed under a  stereomicroscope. The sciatic 
+nerve was stimulated using bipolar electrical pulses of 0.2-ms duration to 
+elicit reflex responses. Stimulus intensity was gradually increased until both 
+M- and H-waves with latencies of ~2 and 5 ms, respectively, were visible. 
+After the threshold measurement, stimulus intensity was further increased 
+until maximal and stable H-responses were elicited. Thereafter, stimulation 
+continued at the defined suprathreshold level at frequencies of 0.1, 0.3, 0.5, 
+1, 2, 3, and 5 Hz. Six consecutive responses were recorded at each frequency. 
+The amplitudes of M- and H-waves were measured as peak-to-peak  values, 
+averaged (excluding the first response at each frequency) and used to 
+ calculate H/M ratios. The latencies of the responses were measured as time 
+elapsed between trigger and peak of each waveform.
+Anterograde labeling of CST. For CST anterograde labeling, TNC+/+ and 
+TNC–/– mice were subjected to the spinal cord injury according to the 
+time points (7 days, 14 days and 30 days, for number of mice per group, see 
+legend to Figure 5). Seven days before being perfused, the animals were 
+anesthetized and their heads were fixed in a stereotaxic frame. Three 1-mm 
+wide holes were drilled through the cranium overlying the sensorimotor 
+cortex (coordinates: –0.5 mm, –1.75 mm, –3.0 mm Bregma, 2 mm lateral, 
+2 mm deep).42 A glass micropipette was used to inject 2 µl of a 10% solution 
+of fluoro-ruby ( dextran tetramethylrhodamine 10,000 MW, lysine fixable; 
+Molecular Probes, Eugene, OR) into the motor cortex. Animals survived 
+for 7 days. Serial, 30-µm thick parasagittal  sections were obtained from the 
+spinal cords. The sections were analyzed by confocal microscopy. To quan-
+tify axon retraction,34 the center of the compression lesion was chosen as a 
+reference point. The distance between this point and the nearest detectable 
+axon tips of the CST were measured.
+Injection of TNC-fnD-GST fusion protein. To probe whether exogenous 
+TNC can compensate for the loss of TNC in TNC–/– mice, TNC-derived 
+fusion protein GST-fnD, which corresponds to the alternatively spliced 
+fibronectin type III homologous repeat D of human TNC, and was previ-
+ously shown to enhance neurite outgrowth in vitro,22,36 was administered 
+into the injured spinal cord locally by means of a catheter (300 µm outer 
+diameter, 100 µm inner diameter) connected to an Alzet osmotic pump 
+(Model 1002; DURECT, Cupertino, CA). The GST-fnD fusion protein was 
+tested for bioactivity and found to be neurite outgrowth promoting in vitro 
+in the presence of the GST tag (data not shown). The catheter was inserted 
+in the subdural space at the level of cauda equina, passed along the sacral 
+and lumbar spinal segments and its tip was fixed 2 mm caudal to the lesion 
+site. FnD-GST (200 µg/ml, dissolved in 0.9% saline solution) was infused at 
+a rate of 0.25 µl/hour for 14 days. Control animals were infused with GST. 
+Anterograde labeling of the CST was introduced 23 days after spinal cord 
+injury. Mice were euthanized 7 days after tracer injection, i.e., 30 days after 
+spinal cord injury.
+AAV vector production. An AAV serotype 5–based viral vector was 
+ constructed to express the secreted form of TNC-fnD. The vector genome 
+consisted of AAV-2 inverted terminal repeats, the short version (530 bp) 
+of the murine immediate-early cytomegalovirus promoter, a C-terminally 
+c-myc tagged complementary DNA encoding TNC-fnD (directed for 
+secretion by an N-terminal fusion to the signal peptide of secreted  alkaline 
+phosphatase), the woodchuck hepatitis virus post-translational control 
+element for enhanced transgene expression, and a bovine growth hormone 
+polyadenylation site. This type of viral vector has been demonstrated to 
+permit transgene expression in neurons and glial cells of the lesioned 
+ spinal cord.42 Vectors were produced by transient transfection of HEK-293 
+cells using pDP5 as a helper plasmid. Cells were harvested at 2.5 days after 
+transfection, viral particles were purified by iodixanol step- gradient cen-
+trifugation and fast protein liquid chromatography (Äkta FPLC; Amersham 
+Biosciences, Freiburg, Germany) on 1 ml Q-FF anion-exchange column 
+(GE Healthcare, Freiburg, Germany), dialysis against excess amounts of 
+phosphate-buffered saline, and concentration on centrifugal spin concen-
+trators (150 kd cutoff; Orbital Biosciences, Dulles, VA). Vector genomes 
+were determined by quantitative PCR, and purity was confirmed to be at 
+least 99.5% by sodium dodecyl sulfate–polyacrylamide gel electrophoresis 
+and silver staining (data not shown).
+AAV-TNC-fnD and AAV-GFP injection. The virus was injected into the 
+lesion site immediately after compression spinal cord injury as described.42 
+In brief, the viral constructs AAV-TNC-fnD and AAV-GFP (3 × 107 
+ transducing units in 1 μl) were injected with a nanoliter  microinjector 
+1776 www.moleculartherapy.org  vol. 18 no. 10 oct. 2010 
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+(World Precision Instruments, Sarasota, FL) over a time period of 
+5  minutes. The needle was kept in the tissue for another 2 minutes before 
+it was slowly withdrawn.
+Histological processing. Mice were anesthetized and perfused with 4% 
+formaldehyde in 0.1 mol/l phosphate buffer, pH 7.4. The spinal cords were 
+dissected and postfixed in the same fixative overnight at 4 °C. Spinal cords 
+were embedded in Tissue-Tek (Sakura Finetek Europe, Zoeterwoude, The 
+Netherlands) and frozen in isopentane precooled with liquid nitrogen. 
+Spinal cords were then cut transversely or parasagittally on a cryostat to 
+obtain serial 25-µm thick sections. Sections were collected on Superfrost 
+Plus slides (Menzel, Braunschweig, Germany) from 25 equidistant 
+(600-µm spaced) segments of the spinal cord, i.e., up to 1.5 cm rostrally 
+and caudally from the lesion epicenter. The lesion center was designated 
+as level “L”.
+Immunohistochemistry. Sections were subjected to antigen retrieval in 
+10 mmol/l sodium citrate solution (80 °C, 30 minutes), followed by non-
+specific blocking with normal goat serum (room temperature, 1 hour) 
+before the application of the primary antibodies. For counting TH+ axons 
+and VGLUT1+ synaptic terminals, antibodies were used at optimal dilu-
+tions (1:800 and 1:500, respectively). For detection of TNC, fibronectin and 
+glial fibrillary acidic protein, antibodies against TNC (1:500), fibronectin 
+(1:500), and glial fibrillary acidic protein (1:500) were applied to the sec-
+tions overnight at 4 °C followed by Cy2- or Cy3-conjugated anti-rabbit IgG 
+antibodies. All sections were counterstained with bis-benzimide (Hoechst 
+dye 32258) (Sigma Chemical) and, after washing, mounted with Aqua-
+Poly/mount (Polysciences, Warrington, PA). Sections were viewed on a 
+fluorescence microscope (Axiophot 2, Zeiss, Thornwood, NY) and/or a 
+confocal laser microscope (LSM 510, Zeiss). Gray value measurements 
+were performed with ImageJ software (National Institute of Health, USA, 
+free software available at http://rsb.info.nih.gov/ij/) from digital images.
+Parasagittal spinal cord sections stained for TH were used to analyze 
+monaminergic axons in the lumbar spinal cord. TH+ axons projecting 
+beyond an arbitrarily selected border 250 µm caudally to the lesion site 
+were counted in every 5th parasagittal serial section from the spinal cord 
+of each animal on an Axiophot 2 microscope (Zeiss) equipped with a 
+motorized stage and Neurolucida software-controlled computer system 
+(MicroBrightField Europe, Magdeburg, Germany).
+To investigate densities of VGLUT1+ synaptic terminals, transverse 
+spinal cord sections caudal to the lesion scar were used for analysis. Digital 
+images were obtained on an LSM 510 confocal microscope using a ×63 
+oil immersion objective and a digital resolution of 1,024 × 1,024 pixels. 
+The gray value was adjusted using threshold to convert the images to 
+gray scale for optimal color intensity with ImageJ software. Criteria 
+for identification of synaptic terminals were: objects with size >2 µm2 
+and circularity 0–1. Number and perimeter of synaptic terminals were 
+sampled in the Clarke’s column, lamina VII, and lamina IX (Figure 3) of 
+each section. Density was calculated as number of VGLUT1+ synaptic 
+terminals per unit area. The values for left and right areas were averaged 
+for each section. Six sections 250 µm apart were analyzed per animal, and 
+the mean values from individual animals were used to calculate group 
+mean values.
+To estimate the lesion scar volume, spaced serial sections 250 µm 
+apart were stained with fibronectin and used for estimations of the scar 
+volume using the Cavalieri principle as described previously.6 Areas of the 
+scar required for volume estimation were measured by ImageJ software.
+Western blot analysis. For western blot analysis, four TNC+/+ and four 
+TNC–/– mice were euthanized 4 days after spinal cord injury. The spi-
+nal cords were dissected out on ice and divided into two segments with 
+regard to the lesion center, one rostral to the lesion center and the other 
+caudal to it, with 5-mm length for each segment. The samples were then 
+homogenized separately, centrifuged at 1,000 g and 4 °C for 15 minutes to 
+remove insoluble material, and the supernatants were collected. Protein 
+ concentrations were determined by the bicinchoninic acid assay (Pierce 
+Chemical, Rockford, IL). Samples were subjected to 8% sodium dodecyl 
+sulfate– polyacrylamide gel electrophoresis and transferred onto a nitro-
+cellulose membrane  following standard protocols.42 Signal was detected by 
+an enhanced chemiluminescence detection system (Amersham Biosciences 
+Europe, Freiburg, Germany). Equal amounts of protein were loaded into 
+each lane and band intensities were normalized to those of glyceraldehyde-
+3-phosphate dehydrogenase.
+Statistical analyses. Data were collected in a blinded manner. Group mean 
+values were compared using two-sided Student’s t-test for independent 
+samples or one-way analysis of variance for repeated measurements and 
+post hoc Tukey’s test. The accepted level of significance was 5%. Values are 
+shown as mean values with standard errors of the mean (SEM).
+suPPleMentArY MAterIAl
+Figure S1. Expression of transgene products 1 week after spinal cord 
+compression and injection of AAV-fnD or AAV-GFP.
+AcKnoWledGMents
+We are grateful to Fabio Morellini for breeding of TNC+/+ and TNC–/– 
+mice, Mirjam Sibbe for discussions, Emanuela Szpotowicz for technical 
+assistance, Achim Dahlman for genotyping, Charles ffrench- Constant 
+for comments on the manuscript, and the German Research Society 
+(GRK 255, SPP 1109 and SPP 1135), Canadian Spinal Research 
+Organization, The Daniel Heumann Fund for Spinal Cord Research and 
+the National Institutes of Health (R01 NS40394) for support. M.S. is 
+New Jersey Professor of Spinal Cord Research.
+reFerences
+1. GrandPré, T, Nakamura, F, Vartanian, T and Strittmatter, SM (2000). Identification of 
+the Nogo inhibitor of axon regeneration as a Reticulon protein. Nature 403: 439–444.
+2. McKerracher, L, David, S, Jackson, DL, Kottis, V, Dunn, RJ and Braun, PE (1994). 
+Identification of myelin-associated glycoprotein as a major myelin-derived inhibitor of 
+neurite growth. Neuron 13: 805–811.
+3. Wang, KC, Koprivica, V, Kim, JA, Sivasankaran, R, Guo, Y, Neve, RL et al. (2002). 
+Oligodendrocyte-myelin glycoprotein is a Nogo receptor ligand that inhibits neurite 
+outgrowth. Nature 417: 941–944.
+4. Niclou, SP, Franssen, EH, Ehlert, EM, Taniguchi, M and Verhaagen, J (2003). 
+Meningeal cell-derived semaphorin 3A inhibits neurite outgrowth. Mol Cell Neurosci 
+24: 902–912.
+5. Jones, LL, Margolis, RU and Tuszynski, MH (2003). The chondroitin sulfate 
+proteoglycans neurocan, brevican, phosphacan, and versican are differentially 
+regulated following spinal cord injury. Exp Neurol 182: 399–411.
+6. Apostolova, I, Irintchev, A and Schachner, M (2006). Tenascin-R restricts posttraumatic 
+remodeling of motoneuron innervation and functional recovery after spinal cord 
+injury in adult mice. J Neurosci 26: 7849–7859.
+7. Bradbury, EJ, Moon, LD, Popat, RJ, King, VR, Bennett, GS, Patel, PN et al. (2002). 
+Chondroitinase ABC promotes functional recovery after spinal cord injury. Nature 
+416: 636–640.
+8. Bartsch, U, Faissner, A, Trotter, J, Dörries, U, Bartsch, S, Mohajeri, H et al. (1994). 
+Tenascin demarcates the boundary between the myelinated and nonmyelinated 
+part of retinal ganglion cell axons in the developing and adult mouse. J Neurosci 14: 
+4756–4768.
+9. Steindler, DA, Settles, D, Erickson, HP, Laywell, ED, Yoshiki, A, Faissner, A et al. (1995). 
+Tenascin knockout mice: barrels, boundary molecules, and glial scars. J Neurosci 15: 
+1971–1983.
+10. Zhang, Y, Winterbottom, JK, Schachner, M, Lieberman, AR and Anderson, PN (1997). 
+Tenascin-C expression and axonal sprouting following injury to the spinal dorsal 
+columns in the adult rat. J Neurosci Res 49: 433–450.
+11. Jones, FS and Jones, PL (2000). The tenascin family of ECM glycoproteins: structure, 
+function, and regulation during embryonic development and tissue remodeling. 
+Dev Dyn 218: 235–259.
+12. Nakic, M, Manahan-Vaughan, D, Reymann, KG and Schachner, M (1998). Long-term 
+potentiation in vivo increases rat hippocampal tenascin-C expression. J Neurobiol 37: 
+393–404.
+13. Nakic, M, Mitrovic, N, Sperk, G and Schachner, M (1996). Kainic acid activates 
+transient expression of tenascin-C in the adult rat hippocampus. J Neurosci Res 44: 
+355–362.
+14. Husmann, K, Faissner, A and Schachner, M (1992). Tenascin promotes cerebellar 
+granule cell migration and neurite outgrowth by different domains in the fibronectin 
+type III repeats. J Cell Biol 116: 1475–1486.
+15. Lochter, A and Schachner, M (1993). Tenascin and extracellular matrix glycoproteins: 
+from promotion to polarization of neurite growth in vitro. J Neurosci 13: 3986–4000.
+16. Dörries, U, Taylor, J, Xiao, Z, Lochter, A, Montag, D and Schachner, M (1996). Distinct 
+effects of recombinant tenascin-C domains on neuronal cell adhesion, growth cone 
+guidance, and neuronal polarity. J Neurosci Res 43: 420–438.
+Molecular Therapy  vol. 18 no. 10 oct. 2010 1777
+© The American Society of Gene & Cell Therapy
+TNC in SCI Regeneration
+17. Taylor, J, Pesheva, P and Schachner, M (1993). Influence of janusin and tenascin on 
+growth cone behavior in vitro. J Neurosci Res 35: 347–362.
+18. Meiners, S and Geller, HM (1997). Long and short splice variants of human tenascin 
+differentially regulate neurite outgrowth. Mol Cell Neurosci 10: 100–116.
+19. Meiners, S, Mercado, ML, Nur-e-Kamal, MS and Geller, HM (1999). Tenascin-C 
+contains domains that independently regulate neurite outgrowth and neurite 
+guidance. J Neurosci 19: 8443–8453.
+20. Rigato, F, Garwood, J, Calco, V, Heck, N, Faivre-Sarrailh, C and Faissner, A (2002). 
+Tenascin-C promotes neurite outgrowth of embryonic hippocampal neurons through 
+the alternatively spliced fibronectin type III BD domains via activation of the cell 
+adhesion molecule F3/contactin. J Neurosci 22: 6596–6609.
+21. Dityatev, A and Schachner, M (2003). Extracellular matrix molecules and synaptic 
+plasticity. Nat Rev Neurosci 4: 456–468.
+22. Mercado, ML, Nur-e-Kamal, A, Liu, HY, Gross, SR, Movahed, R and Meiners, S 
+(2004). Neurite outgrowth by the alternatively spliced region of human tenascin-C is 
+mediated by neuronal α7β1 integrin. J Neurosci 24: 238–247.
+23. Liu, HY, Nur-E-Kamal, A, Schachner, M and Meiners, S (2005). Neurite guidance by 
+the FnC repeat of human tenascin-C: neurite attraction vs. neurite retention. Eur J 
+Neurosci 22: 1863–1872.
+24. Evers, MR, Salmen, B, Bukalo, O, Rollenhagen, A, Bösl, MR, Morellini, F et al. (2002). 
+Impairment of L-type Ca2+ channel-dependent forms of hippocampal synaptic 
+plasticity in mice deficient in the extracellular matrix glycoprotein tenascin-C. 
+J Neurosci 22: 7177–7194.
+25. Basso, DM, Fisher, LC, Anderson, AJ, Jakeman, LB, McTigue, DM and Popovich, PG 
+(2006). Basso Mouse Scale for locomotion detects differences in recovery after spinal 
+cord injury in five common mouse strains. J Neurotrauma 23: 635–659.
+26. Morellini, F and Schachner, M (2006). Enhanced novelty-induced activity, reduced 
+anxiety, delayed resynchronization to daylight reversal and weaker muscle strength 
+in tenascin-C-deficient mice. Eur J Neurosci 23: 1255–1268.
+27. Lee, HJ, Jakovcevski, I, Radonjic, N, Hoelters, L, Schachner, M and Irintchev, A (2009). 
+Better functional outcome of spinal cord injury in mice is associated with enhanced 
+H-reflex excitability. Exp Neurol 513: 496–510.
+28. Lavrov, I, Dy, CJ, Fong, AJ, Gerasimenko, Y, Courtine, G, Zhong, H et al. (2008). 
+Epidural stimulation induced modulation of spinal locomotor networks in adult spinal 
+rats. J Neurosci 28: 6022–6029.
+29. Brumovsky, P, Watanabe, M and Hökfelt, T (2007). Expression of the vesicular 
+glutamate transporters-1 and -2 in adult mouse dorsal root ganglia and spinal cord 
+and their regulation by nerve injury. Neuroscience 147: 469–490.
+30. Erschbamer, M, Pernold, K and Olson, L (2007). Inhibiting epidermal growth 
+factor receptor improves structural, locomotor, sensory, and bladder recovery from 
+experimental spinal cord injury. J Neurosci 27: 6428–6435.
+31. Edgerton, VR, Tillakaratne, NJ, Bigbee, AJ, de Leon, RD and Roy, RR (2004). 
+Plasticity of the spinal neural circuitry after injury. Annu Rev Neurosci 27: 145–167.
+32. Fouad, K and Pearson, K (2004). Restoring walking after spinal cord injury. 
+Prog Neurobiol 73: 107–126.
+33. Jakovcevski, I, Wu, J, Karl, N, Leshchyns’ka, I, Sytnyk, V, Chen, J et al. (2007). Glial scar 
+expression of CHL1, the close homolog of the adhesion molecule L1, limits recovery 
+after spinal cord injury. J Neurosci 27: 7222–7233.
+34. Houle, JD and Jin, Y (2001). Chronically injured supraspinal neurons exhibit only 
+modest axonal dieback in response to a cervical hemisection lesion. Exp Neurol 169: 
+208–217.
+35. Bareyre, FM, Kerschensteiner, M, Misgeld, T and Sanes, JR (2005). Transgenic labeling 
+of the corticospinal tract for monitoring axonal responses to spinal cord injury. 
+Nat Med 11: 1355–1360.
+36. Meiners, S, Nur-e-Kamal, MS and Mercado, ML (2001). Identification of a neurite 
+outgrowth-promoting motif within the alternatively spliced region of human 
+tenascin-C. J Neurosci 21: 7215–7225.
+37. Laywell, ED, Dörries, U, Bartsch, U, Faissner, A, Schachner, M and Steindler, DA 
+(1992). Enhanced expression of the developmentally regulated extracellular matrix 
+molecule tenascin following adult brain injury. Proc Natl Acad Sci USA 89: 2634–2638.
+38. Represa, A and Ben-Ari, Y (1997). Molecular and cellular cascades in seizure-induced 
+neosynapse formation. Adv Neurol 72: 25–34.
+39. Daniloff, JK, Crossin, KL, Pinçon-Raymond, M, Murawsky, M, Rieger, F and Edelman, 
+GM (1989). Expression of cytotactin in the normal and regenerating neuromuscular 
+system. J Cell Biol 108: 625–635.
+40. Irintchev, A, Salvini, TF, Faissner, A and Wernig, A (1993). Differential expression of 
+tenascin after denervation, damage or paralysis of mouse soleus muscle. J Neurocytol 
+22: 955–965.
+41. Guntinas-Lichius, O, Angelov, DN, Morellini, F, Lenzen, M, Skouras, E, Schachner, M 
+et al. (2005). Opposite impacts of tenascin-C and tenascin-R deficiency in mice on the 
+functional outcome of facial nerve repair. Eur J Neurosci 22: 2171–2179.
+42. Chen, J, Wu, J, Apostolova, I, Skup, M, Irintchev, A, Kügler, S et al. (2007). Adeno-
+associated virus-mediated L1 expression promotes functional recovery after spinal 
+cord injury. Brain 130: 954–969.
+43. Perabo, L, Huber, A, Märsch, S, Hallek, M and Büning, H (2008). Artificial evolution 
+with adeno-associated viral libraries. Comb Chem High Throughput Screen 11: 118–126.
+44. Andrews, MR, Czvitkovich, S, Dassie, E, Vogelaar, CF, Faissner, A, Blits, B et al. (2009). 
+α9 Integrin promotes neurite outgrowth on tenascin-C and enhances sensory axon 
+regeneration. J Neurosci 29: 5546–5557.
+45. Meiners, S, Ahmed, I, Ponery, AS, Amor, N, Harris, SL, Ayres, V et al. (2007). 
+Engineering electrospun nanofibers for spinal cord repair: a discussion. Polym Int 56: 
+1340–1348.

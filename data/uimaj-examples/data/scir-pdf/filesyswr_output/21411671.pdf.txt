@@ -1,0 +1,1253 @@
+Development/Plasticity/Repair
+Axon Regeneration Can Facilitate or Suppress Hindlimb
+Function after Olfactory Ensheathing Glia Transplantation
+Aya Takeoka,1 Devin L. Jindrich,1,3 Cintia Muñoz-Quiles,4 Hui Zhong,1 Rubia van den Brand,1 Daniel L. Pham,1
+Matthias D. Ziegler,1 Almudena Ramón-Cueto,5 Roland R. Roy,1,2 V. Reggie Edgerton,1,2 and Patricia E. Phelps1,2
+1Department of Integrative Biology and Physiology and 2Brain Research Institute, UCLA, Los Angeles, California 90095, 3Department of Kinesiology,
+Arizona State University, Tempe, Arizona 85287, 4Fundación Investigación en Regeneración del Sistema Nervioso, 46019 Valencia, Spain, and 5Instituto de
+Biomedicina de Valencia, Consejo Superior de Investigaciones Científicas, 46010 Valencia, Spain
+Reports based primarily on anatomical evidence suggest that olfactory ensheathing glia (OEG) transplantation promotes axon regener-
+ation across a complete spinal cord transection in adult rats. Based on functional, electrophysiological, and anatomical assessments, we
+found that OEG promoted axon regeneration across a complete spinal cord transection and that this regeneration altered motor re-
+sponses over time. At 7 months after transection, 70% of OEG-treated rats showed motor-evoked potentials in hindlimb muscles after
+transcranial electric stimulation. Furthermore, a complete spinal cord retransection performed 8months after injury demonstrated that
+this axon regeneration suppressed locomotor performance and decreased the hypersensitive hindlimbwithdrawal response tomechan-
+ical stimulation. OEG transplantation alone promoted reorganization of lumbosacral locomotor networks and, when combined with
+long-term training, enhanced some stepping measures. These novel findings demonstrate that OEG promote regeneration of mature
+axons across a complete transection and reorganization of spinal circuitry, both of which contribute to sensorimotor function.
+Introduction
+Adult rodent spinal cords retain an inherent plasticity to reorga-
+nize descending connections that directly influence motor out-
+put after incomplete injuries (Bareyre et al., 2004; Courtine et al.,
+2008). After a complete spinal cord transection, however,
+achieving axon regeneration across the lesion that contributes
+to functional recovery remains a difficult challenge. Olfactory
+ensheathing glia (OEG) transplantation reportedly promotes tis-
+sue sparing, axon remyelination, and improvements in motor
+performance in incomplete and complete adult spinal cord injury
+(SCI) models (Imaizumi et al., 1998; Ramón-Cueto et al., 2000;
+García-Alías et al., 2003; Li et al., 2003; Fouad et al., 2005; Li et al.,
+2007; Kubasak et al., 2008; Muñoz-Quiles et al., 2009). However,
+the results of SCI studies involving OEG transplantation vary
+substantially depending on the injury model, the duration of the
+study, and the source, age, and methods used to prepare and
+transplant the OEG (Franssen et al., 2007). Promising transplan-
+tation candidates that promote axon regeneration are purified
+cultures of olfactory bulb-derived, p75-nerve growth factor re-
+ceptor (NGFR)-positive OEG (Ramón-Cueto et al., 2000) be-
+cause these cells intermingle with astrocytes and migrate well
+within the reactive astrocytic environment after injury (Lakatos
+et al., 2000, 2003).
+OEG transplantation combined with task-specific training
+improves the motor function of adult rats with a complete spinal
+cord transection (i.e., spinal rats) (Ramón-Cueto et al., 2000;
+Kubasak et al., 2008; Muñoz-Quiles et al., 2009), but we know
+little about how this treatment promotes functional recovery.
+The spinal cord alone is capable of inducing locomotor activity
+without supraspinal innervation and can be trained to enhance
+the efficacy of locomotion (Edgerton et al., 2004). For example,
+long-term step training promotes reorganization of the lumbo-
+sacral locomotor circuitry in adult spinal cats by downregulating
+inhibitory neurotransmitters associated with interneurons and
+somatic motor neurons (Edgerton et al., 1997; de Leon et al.,
+1999; Tillakaratne et al., 2000, 2002; Rossignol et al., 2001; Côté
+and Gossard, 2003) and by modifying motor neuron excitability
+in response to hindlimb loading and sensory stimulation (Côté et
+al., 2003). Combined with pharmacological or epidural electrical
+stimulation, long-term step training also increases the efficacy of
+specific sensorimotor connections and activates specific neurons
+during locomotion (Ichiyama et al., 2008; Courtine et al., 2009).
+We hypothesized that OEG transplantation combined with
+long-term step training promotes both axon regeneration across
+the transection and/or reorganization of the lumbosacral loco-
+motor circuitry in adult spinal rats. We then asked whether both
+regeneration and reorganization attributed to the treatments can
+influence functional outcomes. To test this, we used sensorimo-
+tor and electrophysiological assessments over 8 months and
+performed a complete retransection rostral to the original tran-
+section 8 months after the initial lesion. OEG transplantation
+Received Sept. 22, 2010; revised Nov. 7, 2010; accepted Dec. 22, 2010.
+This work was supported by National Institute of Neurological Disorders and Stroke Grants R21NS42000-01 and
+RO1NS54159.
+We thank Dr. J. Gornbein for assistance in the statistical analyses, Dr. R. Ichiyama and S. Zdunowski for expert
+advice in behavioral data collection and analyses, Dr. G. Lawson and M. Herrera for the aid in postsurgical animal
+care, Drs. Ava Udvadia and Pate Skene for advice on GAP-43 experiments, and Allen Cheng, Alisha Aiello, Kimberly
+McFarland, Frank Lee, and numerous University of California, Los Angeles undergraduate students for assistance
+with animal care and preparation of data for analyses.
+Correspondence should be addressed toDr. Patricia E. Phelps, Department of Integrative Biology andPhysiology,
+UCLA, Box 951606, Los Angeles, CA 90095-1606. E-mail: pphelps@physci.ucla.edu.
+DOI:10.1523/JNEUROSCI.4967-10.2011
+Copyright © 2011 the authors 0270-6474/11/314298-13$15.00/0
+4298 • The Journal of Neuroscience, March 16, 2011 • 31(11):4298–4310
+promoted functional axon regeneration across the complete le-
+sion, and, when combined with long-term step training, it facil-
+itated reorganization of spinal locomotor networks. Moreover,
+some of the changes in motor function attributed to OEG trans-
+plantation and step training point to facilitation, whereas others
+result in suppression of sensorimotor function.
+Materials andMethods
+OEG culture and transplantation
+All procedures followed the National Institutes of Health guidelines
+and were approved by the Chancellor’s Animal Research Committee
+at UCLA. Methods for OEG culture were adopted from those of
+Ramón-Cueto et al. (2000) and Muñoz-Quiles et al. (2009). OEG
+were dissected from the outer two olfactory bulb layers of two 8- to
+10-week-old male Wistar Hannover rats (Charles River Laboratories)
+for transplantation into one spinal rat. Primary cultures were immu-
+nopurified against p75-NGFR antibody (1:5) (Chandler et al., 1984)
+at 7–8 d and harvested for transplantation at 14 d. Cultures (n  10)
+were 95  1% p75-NGFR-positive and expressed S100 and GFAP.
+Forty-one female Wistar Hannover rats, 10–12 weeks old, were anes-
+thetized with 2–2.5% isoflurane. The spinal cord was completely tran-
+sected at approximately T9, leaving the ventral and lateral dura intact.
+Injections of DMEM alone or with OEG (200,000 per stump) were in-
+jected1mm from the transection site at themidline (coordinates from
+the dorsal surface: 1.75, 1.25, 1, and 0.5 m) into both the rostral and
+caudal spinal cord stumps. After transplantation, the spine was stabilized
+with a stainless steel bar (3.2 cm in length and 0.1 cm in diameter)
+attached to the T7 and T13 vertebral processes.
+Step training and behavioral analyses
+Twoweeks after injury, the rats beganmanual step training on a treadmill
+for 20 min/d, 5 d/week for 7.5 months as described by Kubasak et al.
+(2008). Stepping ability was evaluated before transection, monthly be-
+tween 1 and 7 months after transection, and after spinal cord retransec-
+tion at 8 months at treadmill speeds of 10, 13.5, and 17.5 cm/s and with a
+body weight support of 85% (i.e., the hindlimbs supported 15% body
+weight). Recording of treadmill stepping was conducted as described by
+Kubasak et al. (2008). Each trial consisted of 90 s of stepping. The highest
+number of plantar steps at three treadmill speeds was sampled for each
+rat. At 5 months after transection, spinal rats were injected with quipa-
+zine (0.3 mg/kg, i.p.) (Ichiyama et al., 2005), a 5-HT2A receptor agonist,
+and stepping ability was tested 15 min later.
+We used principal components analysis (PCA) to measure the con-
+sistency of the toe trajectories (Fong et al., 2005; Cai et al., 2006).
+Briefly, stride transitions were identified visually, kinematics trajec-
+tories of toe markers were resampled every 0.1 s, and corresponding
+points across all measured steps were averaged. The first principal
+component, similar to an average that explains the greatest amount of
+variance among trajectories, was calculated and the variance ac-
+counted for by the first component was calculated as a “score.” A
+larger PCA score (i.e., closer to 100%) represents more consistent
+stepping. The best PCA score (percentage) from three treadmill
+speeds was sampled for each rat that performed three or more alter-
+nating steps. A PCA score of 45%, the lowest PCA percentage mea-
+surable as defined by Cai et al. (2006), was assigned for spinal rats that
+performed two or fewer alternating steps. We also measured mean
+stance length, step height, and trajectory length to characterize the
+step patterns during treadmill testing.
+Weight-support testing. Rats were supported using a harness con-
+nected to an automated body weight-support system (Robomedica)
+that lowered 10% of the rat’s body weight every 10 s until the rat
+collapsed. The percentage body weight support at collapse was deter-
+mined by an observer blind to the experimental status of the rat.
+Because ankle joint angles are good indicators of weight-support abil-
+ity (Timoszyk et al., 2002), data from rats that collapsed forward were
+used to calculate the joint angle as described previously (Ichiyama et
+al., 2009). Ankle angle analyses were performed using the Simi three-
+dimensional motion.
+von Frey test. An experimenter blind to the treatment status of the
+spinal rats conducted the von Frey up–down test (Chaplan et al., 1994)
+on both hindpaws at 1, 3, 5, and 7 months after transection and 5 d after
+spinal cord retransection to determine any injury-induced changes in the
+withdrawal threshold. A series of nine hairs (3.61–5.46 g, starting with
+the 4.56 g; North Coast Medical) were used to elicit the hindpaw with-
+drawal response to determine the 50% withdrawal threshold (grams).
+Electrophysiological assessment of hindlimb motor-evoked
+potentials
+We performed transcranial electric stimulation at 1, 4, and 7 months
+after transection of all spinal rats and immediately after and 3 and 5 d
+after a retransection on 17 rats. Stimulation of four intact rats also was
+studied before and after acute transection. Rats were anesthetized lightly
+with 0.7–1% isoflurane and received stimulation on the primary motor
+cortex (approximately bregma3.5 to2 mm) using a method modi-
+fied from López-Vales et al. (2006) and on the brainstem (approximately
+bregma6 to10 mm). Motor-evoked potentials (MEPs) were elicited
+by a series of single-pulse stimulations [0.1 ms duration, from 40 to 200
+mA in 40 mA increments, 30 times/intensity applied at 30 s intervals;
+constant-current stimulator model DS7AH (Digitimer)]. MEPs were re-
+corded bilaterally from the tibialis anterior (TA) and medial gastrocne-
+mius (MG) muscles with subcutaneously inserted needle electrodes
+[needle: 30 gauge (BD Biosciences); wire: 50 m in diameter (California
+Fine Wire)]. All MEPs were amplified (1000) and filtered (10–10,000
+Hz). Each MEP was defined as a sharp peak with a latency longer than 8
+ms and an amplitude larger than 0.05 mV. Electrical stimulation with
+high currents as used in this study can potentially introduce artifacts in
+MEP recordings as a result of volume conduction, stimulation of axial
+spinal musculature, and/or the activation of cutaneous trunci pathways
+(Gruner et al., 1993). Direct stimulation artifacts were of very short du-
+ration (i.e.,1 ms) and were observed in both media and OEG animals.
+Although we cannot exclude the possibility of extraspinal stimulation
+artifacts (e.g., via cutaneous trunci pathways), we consider it unlikely that
+such a reflex would only occur in OEG rats and would be eliminated by
+retransection.
+Morphological analyses
+Retrograde tracer injections and analyses. Twenty-two chronic spinal rats
+(media-untrained, n 5; media-trained, n 7; OEG-untrained, n 5;
+OEG-trained, n  5) were injected with horseradish peroxidase conju-
+gated with wheat germ agglutinin (WGA–HRP) 8 months after transec-
+tion. Additional controls included three intact and three media-injected
+spinal rats maintained 1 month after transection. Rats were anesthetized
+with 2% isoflurane, and a 0.65l mixture of 5%WGA (Sigma) and 25%
+HRP (Sigma) was injected 5mm caudal to the transection in 13 locations
+(coordinates expressed in mm: midline, 1.8, 1.4, 1.0, 0.8, and 0.4; at 1.2
+mm to the right or left of the midline, 1.6, 1.2, 0.8, and 0.4) as reported
+previously (Ramón-Cueto et al., 1998; Muñoz-Quiles et al., 2009). After
+72 h, the rats were perfused for tissue analyses.
+We sectioned the primary motor cortex and brainstem and mounted
+every third section (40mthick) on slides forWGA immunohistochem-
+istry. Additionally, every eighth spinal cord section (25 m thick) from
+the cervical enlargement and the transection site of all WGA–HRP-
+injected spinal rats was processed for WGA immunoreactivity to detect
+long propriospinal neurons and to ensure that no tracer leaked into the
+lesion core and rostral stump, respectively. None of the rats evaluated for
+retrograde tracing data had WGA–HRP leakage into the lesion core or
+rostral stump (supplemental Fig. 1C, available at www.jneurosci.org as
+supplemental material). We used an imaging system (Simple PCI soft-
+ware; Compix Imaging Systems, Hamamatsu Corporation) to measure
+the optical density of WGA immunoreactivity in brainstem and spinal
+cord neurons. The maximum background level of 20 large neurons
+outside the regions of interest, i.e., neurons that do not project to the
+spinal cord, were measured first to determine the maximal background
+level of each section. Cells within the nuclei of interest were detected only
+if their optical densitieswere 5%or greater than themaximal background
+level. Optical densitometry measurements were performed on every
+third section (120 m apart) throughout the red and vestibular nuclei
+Takeoka et al. • Functional Regeneration after OEG Transplants J. Neurosci., March 16, 2011 • 31(11):4298–4310 • 4299
+and the locus coeruleus and every 12th section
+(480 m apart) throughout the reticular for-
+mation and raphe nucleus. All measurements
+were performed blind to the transplantation or
+training status of the rats.
+Tissue preparation. Rats were anesthetized
+deeply with ketamine (100mg/kg, i.p.) and xy-
+lazine (5 mg/kg, i.p.), perfused with 4% para-
+formaldehyde, and postfixed at 4°C for 4 h.
+Spinal cords, brains, and brainstems were dis-
+sected and cryoprotected.
+Antibodies. Monoclonal antibodies used in-
+cluded the following: anti-GFAP (1:1000; BD
+Pharmingen), anti-Neuronal-specific Nuclear
+protein (NeuN) (1:100), and anti-GAP43 (1:
+10,000; Millipore Corporation). Polyclonal
+antibodiesused included the following: goat anti-
+WGA (1:2000; Vector Laboratories), goat anti-
+5-HT (1:20,000; ImmunoStar), and rabbit
+anti-GFAP (1:30,000; Dako).
+Immunohistochemistry and lesion site analy-
+ses.We sectioned the transection site in the sag-
+ittal plane (25 m) and mounted the sections
+on a series of 16 slides such that every 16th
+section was mounted on a slide. All immuno-
+histochemistry procedures with diamino-
+benzidine (DAB), followed the monoclonal,
+polyclonal, or double immunolabeling proto-
+cols described previously (Takeoka et al., 2009,
+2010). For immunofluorescence of GFAP and
+NeuN, we omitted the presoak and Triton
+X-100 steps. Species appropriate Alexa Fluor
+488 and 584 (1:200; Invitrogen) were used for
+localization.
+Quantification of 5-HT axons and GAP43 so-
+mata. 5-HT axons were quantified as reported
+by Takeoka et al. (2009). GAP43-positive so-
+mata present in the lower thoracic cord caudal
+to the original lesion were quantified in every
+eighth section of the caudal stump andnormal-
+ized based on tissue volume.
+Volume of the lesion core and associated cavi-
+ties. Approximately 85% of the lesion site was
+GFAP labeled to delineate the lesion core and
+to anatomically confirm that all transections
+were complete. In all rats, the GFAP-negative
+core always separated the GFAP-positive ros-
+tral and caudal stumps as reported in our pre-
+vious study (Kubasak et al., 2008). The volume
+of the lesion core and the associated cavities
+was quantified as reported (Kubasak et al.,
+2008). We outlined the GFAP-negative tran-
+section site and the nearby cavities of all rats
+injected with the retrograde tracer (n  22
+rats). The GFAP-positive area was subtracted
+from the total section area in every eighth sec-
+tion (25 m thick) and normalized based on
+tissue volume. We focused on differences be-
+tween the media and OEG groups because
+there were no training effects.
+Length of the non-neuronal tissue and lesion
+core.Wedouble labeled every eighth section for
+GFAP and NeuN to estimate the extent of
+lesion-induced neuronal degeneration in spi-
+nal cord tissue rostral and caudal to the injury site. We measured (1) the
+shortest distance betweenNeuN-labeled neurons and the GFAP-positive
+border adjacent to the GFAP-negative lesion core in both the rostral and
+caudal stumps and (2) the total lengths of the non-neuronal region and
+the lesion core.
+Statistical analyses. The nonparametric Mann–Whitney test was
+used for the von Frey analyses. All other statistical comparisons were
+conducted with nonparametric resampling analyses to compare group
+mean differences and minimize the assumptions on the underlying data
+distribution (Efron and Tibshirani, 1991).
+Figure 1. OEG transplantation and long-term step training influence locomotor function in spinal rats. A, Ankle flexion and
+extension (highlighted in pink) are critical for successful plantar stepping, which is rarely achieved by adult spinal rats. Stepping is
+oriented toward the left (stick representation is sampled every 0.2 s). Step heights of spinal plantar steppers are usually not as high
+as thoseof intact rats. Foot (pink) is placedvertical to the treadmill during successful plantar stepsperformedby intact rats that step
+on their footpads,whereas the foot of nonplantar steppers anddraggers is parallel to the treadmill.B, Step trajectories of intact rats
+are consistent,whereas those of spinal rats are erratic. Each colored line indicates a single step, and the thick red line represents the
+average trajectory. Step height is lower and stance and step trajectory lengths are shorter in media- and OEG-injected spinal rats
+than intact rats. C, OEG-untrained rats generatedmore plantar steps thanmedia-untrained rats at 1, 3, and 5months (*p 0.05)
+and more plantar steps than OEG-trained rats at 1 month ( #p 0.05). D, PCA showed that both OEG groups produced more
+consistent step trajectories than both media groups at 1, 3, and 5 months (*p 0.05). OEG-untrained rats scored higher than
+OEG-trained rats at 1month ( #p 0.05). E, OEG andmedia groups differed in their stance and trajectory lengths at all time points
+(*p 0.05). F, Step training improved the number of plantar steps taken in 10 s in response to 5-HT2A receptor activation (*p
+0.05; see supplemental videos, available atwww.jneurosci.org as supplementalmaterial). Data for individual rats are represented
+as a circle or square.G,H, OEG injection but not step training enhanced step consistency (G) and stance and trajectory lengths (H )
+after quipazine injection (*p 0.05). I, OEG-trained rats exhibit better ankle extension than all other rats when the hindlimbs
+support up to 10% of their body weight at 7 months after transection (*p 0.05). Data are mean SEM.
+4300 • J. Neurosci., March 16, 2011 • 31(11):4298–4310 Takeoka et al. • Functional Regeneration after OEG Transplants
+Results
+After a complete spinal cord transection at T9, spinal rats re-
+ceived injections of olfactory bulb-derived OEG suspended in
+media or media alone. Long-term step training of one half of the
+spinal rats started 2 weeks after transection and continued for 20
+min/d, 5 d/week for 7.5 months. The four experimental groups
+were as follows: media-untrained (n  9), media-trained (n 
+10), OEG-untrained (n  11), and OEG-trained (n  9). Eight
+months after the initial transection, 50% of the spinal rats re-
+ceived a complete retransection rostral to the original lesion, and
+the remaining 50% were injected with a retrograde tracer.
+OEG transplantation improves hindlimb step performance
+Plantar foot placement during hindlimb stepping requires a se-
+ries of joint movements, i.e., knee and ankle flexion during the
+swing phase and ankle extension during the stance phase, and is
+rarely achieved spontaneously by adult spinal rats (Fig. 1A) (Edg-
+erton et al., 2004). Step trajectories of spinal rats measured by
+PCAare often erratic comparedwith those of intact rats (Fig. 1B).
+To determine whether OEG transplantation promotes hindlimb
+stepping ability in adult spinal rats, we first compared the number
+of plantar steps taken by media- and OEG-untrained spinal rats.
+OEG-untrained rats generated signifi-
+cantly more plantar steps than media-
+untrained rats at 1–5 months after
+transection but not at later time points
+(Fig. 1C). Neither the media- nor the
+OEG-untrained rats improved their plan-
+tar stepping ability over time (Fig. 1C).
+Next we asked whether or not there was a
+training effect. The average number of
+plantar steps did not differ statistically be-
+tween the media-untrained and -trained
+groups throughout the study (Fig. 1C).
+The OEG-untrained group consistently
+produced as many or more plantar steps
+than the OEG-trained group, with signif-
+icant differences detected early in the
+study (Fig. 1C).
+We used PCA to calculate the consis-
+tency of the step trajectories and also com-
+pared stance lengths, step heights, and
+trajectory lengths. PCA analysis assesses
+the ability to produce locomotor move-
+ment, i.e., hindlimb alternation with or
+without hindlimb plantar placement. The
+stepping pattern was more consistent,
+represented by higher PCA scores, for
+both OEG-untrained and -trained groups
+comparedwithmedia groups at 1, 3, and 5
+but not at 7 months (Fig. 1D). The OEG-
+untrained rats hadhigher PCA scores than
+OEG-trained rats at 1 month. Both OEG
+groups demonstrated longer stance and
+trajectory lengths than media groups
+throughout the duration of the study (Fig.
+1E). Mean step height did not differ
+among groups at any time point, and
+there was no improvement in step consis-
+tency, step height, or stance and trajectory
+lengths over time in any group. Together,
+these results indicate that OEG transplan-
+tation alone can enhance stepping ability,
+and these improvements occurred early in the study with no
+change over time.
+OEG transplantation and step training improve plantar
+stepping ability associated with 5-HT2A receptor activation
+Administration of quipazine, a 5-HT2A receptor agonist, can ac-
+tivate and modulate the lumbosacral locomotor networks in spi-
+nal rats (Gerasimenko et al., 2007; Ichiyama et al., 2008). We
+therefore gave a single injection of quipazine 5months after tran-
+section to determine the extent to which OEG transplantation
+and/or step training affected the locomotor circuitry associated
+with 5-HT2A receptors. The administration of quipazine dramat-
+ically improved the number of consecutive plantar steps, step-
+ping consistency, step height, and stance and step trajectory
+lengths in all four treatment groups compared with their predrug
+performance (supplemental Videos 1–4, available at www.
+jneurosci.org as supplemental material). Although we did not
+detect a training effect on plantar stepping without quipazine,
+activation of the 5-HT2A receptors by quipazine unmasked a re-
+finement in plantar stepping ability in media- and OEG-trained
+spinal rats (Fig. 1F, 17.5 cm/s). In addition, 5-HT2A receptor
+activation resulted in a more consistent stepping pattern (Fig.
+Figure 2. Retransection experiments demonstrate that functional regeneration contributes tomotor recovery.A, OEG-injected
+rats generate more plantar steps after than before retransection (after minus before retransection; *p 0.01), whereas media-
+injected rats do not change ( p 0.34). Data for individual rats are represented as a circle. B, OEG-injected rats have more
+consistent step trajectories after than before retransection (*p  0.05). Media groups did not differ. C, After retransection,
+OEG-trained rats have longer stance and step trajectory lengths than OEG-untrained rats (*p  0.05). D, E, After quipazine
+injection, retransection did not alter the step consistency of any group (D). Only the OEG-trained group had longer stance and step
+trajectory lengths after than before retransection (E; *p 0.05). F, Regardless of transplantation or training status, all spinal rats
+were hypersensitive to mechanical hindpaw stimulation between 1 and 5 months after transection. At 7 months, media groups
+remainedhypersensitive,whereasOEGgroupsbecame less sensitive, i.e., have ahigherwithdrawal threshold (*p0.001). Spinal
+cord retransection (retx) reversed the improvement observed in OEG-injected rats ( #p 0.001) but had no effect on media-
+injected rats ( p 0.65). Data are mean SEM. OEG-untrained and -trained groups were combined in A and B because of a lack
+of a training effect.
+Takeoka et al. • Functional Regeneration after OEG Transplants J. Neurosci., March 16, 2011 • 31(11):4298–4310 • 4301
+1G) and stance and trajectory lengths
+were longer (Fig. 1H) in the OEG com-
+pared with the media groups. These re-
+sults indicate that long-term step training
+and OEG transplantation contributed to
+the reorganization of the lumbosacral lo-
+comotor networks modified by seroto-
+nergic (5-HT) receptor activation.
+Only OEG-trained rats show greater
+ankle extension during the stand test
+The effects of OEG transplantation and
+training on weight-support ability were
+measured as a part of the evaluation of
+locomotor ability. Spinal rats increased
+the amount of self-weight support before
+collapse between 1 and 4 months regard-
+less of treatment (10 1% increase), but
+only the OEG-injected groups improved
+between 4 and 7 months after transection
+(6  1% increase). Step training did not
+further enhance standing ability in any
+group.
+We then measured changes in ankle
+extension during standing as an evalua-
+tion of weight-support ability (Timoszyk
+et al., 2002). At 1 and 4months after tran-
+section, themean ankle angles did not dif-
+fer across the treatment groups at any
+level of weight support ( p  0.05 for all
+comparisons). At 7 months, however,
+OEG-trained rats demonstrated greater
+ankle extension at 0 and 10% body weight
+support compared with the other three
+groups (Fig. 1 I). Beyond 10%, there were
+no group differences. These results indi-
+cate that OEG transplantation and step
+training together, but not individually,
+improved ankle extension up to the
+10% body weight load used during step
+training.
+Plantar stepping ability improves after
+retransection only in OEG-injected rats
+To test whether axon regeneration con-
+tributes to locomotor activity, we com-
+pared the number of plantar steps
+generated by media or OEG rats before
+and after a complete retransection 0.5 cm
+rostral to the original lesion. We sub-
+tracted the number of plantar steps gener-
+ated at 7 months from those produced
+after the retransection at 8 months; a pos-
+itive number, therefore, indicates a better
+stepping performance after retransec-
+tion. Because there was no training effect
+on the number of plantar steps taken
+after retransection, we combined media-
+untrained and -trained, and OEG-
+untrained and -trained groups. Although the mean number of
+plantar steps for the media group did not change after retransec-
+tion, the OEG group showed a considerable improvement (Fig.
+2A). Remarkably, two OEG-injected spinal rats that never
+stepped before retransection generated six to nine plantar steps
+after retransection. The number of plantar steps taken after re-
+transection was significantly greater in OEG- than media-
+injected rats (media, 0.9  0.2; OEG, 1.7  0.4; p  0.05). In
+Figure 3. OEG promote functional reconnections of descending pathways across the transection.A, The top trace represents an
+MEP (8 ms latency) from the MG of an intact rat in response to brainstem stimulation. The bottom three traces are recordings
+from the left MG of an OEG-injected rat. MEPswere not detected 1month after transection. At 7months, a typical MEP had a small
+amplitude (0.25 mV) and long latency (20ms). Retransection rostral to the initial transection site abolished the MEP signals
+(bottom trace, retx).B, Only OEG-injected rats displayedMEPs at 4 and 7months. Several OEG-injected spinal rats displayedMEPs
+to both cortical and brainstem stimulation at 4 and 7 months. C, The MEP amplitude in response to brainstem stimulation was
+larger in the OEG-trained than OEG-untrained group (*p 0.05), but the latency did not differ. D, When MEPs were detected in
+OEG-injected rats,50%exhibitedMEP inmultiplemuscles at 7months.E,MoreMGmuscles responded tobrainstemstimulation
+than TAmuscles at 7 months after injury. Higher stimulation intensities inducedmore MEPs in both muscles. The total number of
+muscles across all OEG-injected rats is shown. F, AnOEG-treated ratwithmultipleMEPswith long latencies (*) in the rightMGafter
+10 consecutive stimulations at 160 mA. Responses occurred inconsistently (MEP in blue traces and no response in red traces) and
+varied in latency and amplitude. G, Both the latency and amplitude of MEPs recorded from OEG rats are different from those from
+intact rats (*p 0.05). MEPs in response to cortical and brainstem stimulation are longer in latency and larger in amplitude at 7
+than 4months ( #p 0.05). NoMEPswere detected inmedia-injected rats. OEG-untrained and -trained groupswere combined in
+B, D, E, and G due to the lack of a training effect.
+4302 • J. Neurosci., March 16, 2011 • 31(11):4298–4310 Takeoka et al. • Functional Regeneration after OEG Transplants
+addition, OEG groups demonstratedmore consistent step trajec-
+tories after retransection than before, whereas the media groups
+did not differ, as determined by PCA (Fig. 2B). There was no
+training effect on stepping consistency in either the media or
+OEG groups after retransection (data not shown). Stance and
+trajectory lengths were longer in OEG-trained than OEG-
+untrained rats after retransection, whereas no difference was ob-
+served between themedia-trained andmedia-untrained rats (Fig.
+2C). The results from the retransection experiments suggest that
+OEG implantation promoted axon regeneration across the orig-
+inal transection site, and the reestablished connections predom-
+inantly acted to suppress locomotor performance.
+After the combination of retransection and quipazine injec-
+tion, stepping parameters were compared with those before
+retransection (5 months) (Fig. 1F). Retransection did not alter
+the number of plantar steps in any group (data not shown).
+Moreover, consistency of step trajectories (Fig. 2D) or step
+heights evaluated with PCA did not differ after retransection
+among groups. Only the OEG-trained rats improved their stance
+and trajectory lengths after retransection (Fig. 2E). These find-
+ings imply that the improvement in step-
+ping performance with quipazine reflects
+some intraspinal reorganization not di-
+rectly dependent on axon regeneration.
+OEG transplantation decreases the
+withdrawal reflex threshold
+The hindlimb flexion response to me-
+chanical stimulation primarily represents
+a spinally organized sensorimotor re-
+sponse (Zemlan et al., 1984). Because
+lesion-induced hyper-reflexia is com-
+monly associated with SCI (Magladery et
+al., 1952; Reese et al., 2006), we used the
+von Frey test (Chaplan et al., 1994) to ex-
+amine the effects of OEG transplantation
+and long-term step training on the
+hindlimb withdrawal response to me-
+chanical stimulation. Adult intact rats had
+a withdrawal threshold of 7.9 1.0 g (n
+8). One month after transection, all four
+groups of spinal rats were hypersensitive
+to stimulation (Fig. 2F) (overall mean,
+2.1 0.2 g). Although we did not detect
+a training effect at any time point, the
+OEG groups were less sensitive to me-
+chanical stimulation than the media
+groups at 7 months (Fig. 2F). We then
+compared the withdrawal threshold be-
+fore and after retransection. Retransec-
+tion did not alter this response in
+media-injected rats but abolished the
+improvement in OEG-injected rats.
+These findings indicate that functional
+connections across the transection me-
+diated the reduced hypersensitivity ob-
+served in rats with OEG transplantation.
+OEG transplantation promotes axon
+regeneration across the transection:
+electrophysiological evidence
+We used transcranial electric stimulation
+to evaluate whether OEG promote func-
+tional connectivity across the lesion site after a complete spinal
+cord transection. Because the stimulation intensity required to
+elicit MEPs depends on the type of anesthetic, level of anesthesia,
+location of stimulation and recordings, and diameter of stimula-
+tion/recording electrodes, we initially performed control experi-
+ments on intact rats. Stimulation of both the motor cortex and
+brainstem of intact rats (n  4) consistently elicited MEP bilat-
+erally in the MG and TA muscles that disappeared after acute
+spinal cord transection, indicating thatMEPs detected inMGand
+TA are transmitted through the spinal cord. Additionally, MEPs
+had longer latencies and/or were eliminated by pharmacological
+blockage of excitatory neurotransmitters in intact controls (Pro-
+tas et al., 2008), suggesting that evoked potentials with latencies
+longer than 1 ms are very likely attributable to neural transmis-
+sion. Typical MEPs from intact rats were 2–10 mV with a latency
+of 8 ms (Fig. 3A,G). With stronger stimulation intensities,
+MEP amplitudes increased, whereas the latencies were unaffected
+(data not shown).
+The recordings at 1 month after lesion confirmed electro-
+physiologically that the spinal cord transections were complete
+Figure 4. WGA-immunolabeled somata are present in coronal brainstem sections and parasagittal sections of the cervical
+enlargement of intact (A), media-injected (B), and OEG-injected (C) rats. A, WGA–HRP labels projection neurons in five brainstem
+nuclei and long propriospinal neurons in laminae VII–VIII of the cervical spinal cord in intact rats.B, C, FewerWGA-positive somata
+weredetected inmedia-injected (B) andOEG-injected (C) rats than in the sameareas of intact rats (A). Scale bars: rednucleus, locus
+ceruleus, and vestibular nucleus, 100 m; raphe nucleus and reticular formation, 50 m; cervical spinal cord, 25 m. D, The
+number ofWGA-labeled somatawere greater in OEG-injected than in short- or long-termmedia groups in all areas (*p 0.05 for
+all comparisons) except the reticular formation. Short- and long-term media controls did not differ in brainstem nuclei or in the
+cervical spinal cord. WGA-positive somata in the reticular formation did not differ between any groups. Error bars are SEM.
+Takeoka et al. • Functional Regeneration after OEG Transplants J. Neurosci., March 16, 2011 • 31(11):4298–4310 • 4303
+(Fig. 3A). No media-injected rats responded to stimulation at
+either site at any time point. Four months after transection, we
+detected MEPs with long latencies and small amplitudes in 15%
+(motor cortex, n  1 of 22; brainstem, n  3 of 22) of OEG-
+injected rats (Fig. 3B,G). More OEG-injected rats exhibited
+MEPs, the mean latency was shorter, and the amplitude was
+larger at 7 than 4 months after transection (Fig. 3B,G). When
+combined, a total of 70% (motor cortex, 5 of 20; brainstem, 12 of
+20) of the OEG-injected rats responded to cortical and/or brain-
+stem stimulation at 7 months (Fig. 3B). Brainstem stimulation
+elicited relatively stronger MEPs, i.e., shorter latencies and larger
+amplitudes, than cortical stimulation (Fig. 3G). In contrast to
+intact rats, theMEP amplitudes recorded fromOEG-injected rats
+did not increase consistently with increased stimulation intensity
+(data not shown). In addition, MEP latencies and amplitudes
+were longer and smaller, respectively, in OEG than intact rats
+(Fig. 3G). Interestingly, 15% (3 of 20) of OEG-injected rats dis-
+playedMEPswith latencies indistinguishable from those in intact
+rats, i.e.,8 ms, in response to either motor cortex or brainstem
+stimulation at 7 months after transection. Long-term step train-
+ing did not influence MEP occurrence because 50% (OEG-
+untrained, 7 of 14; OEG-trained, 7 of 14) of the rats with MEPs
+were in each OEG group. The mean MEP amplitude, however,
+was larger in the OEG-trained than -untrained group despite
+no differences in the mean latency between groups (Fig. 3C).
+Because fresh muscle weight of bilateral medial gastrocne-
+mius, tibialis anterior, soleus, and extensor digitorum longus
+examined postmortem did not differ between OEG-untrained
+and trained groups (data not shown), the higher MEP ampli-
+tude in OEG-trained rats is likely attributable to changes in the
+spinal cord reorganization rather than increased muscle mass
+from training.
+The number of muscles with MEPs in response to either cor-
+tical or brainstem stimulation varied in each rat at 7months (Fig.
+3D). Seventy-percent (11 of 14) of OEG-injected spinal rats had
+responses in two or more muscles, and 21% (3 of 14) of rats had
+responses in all four muscles tested. More MEPs were elicited in
+the MG than TA at all stimulation intensities in response to both
+brainstem and cortical stimulation (Fig. 3E). Although stimula-
+tion intensity did not correlate with MEP amplitude, more mus-
+cles were recruited with higher stimulation intensities, i.e., more
+TA andMG displayed MEPs at the higher stimulation intensities
+(Fig. 3E).Many of thesemuscles exhibited inconsistent responses
+to the same stimulation intensity, in that not all stimulation
+pulses in a series elicited an MEP (incidence of response varied
+from 10 to 100%) and the stimulation intensity did not appear to
+influence the incidence of response (data not shown). Moreover,
+consecutive stimulations at a single intensity could elicit evoked
+potentials with different latencies and amplitudes in 30% of the
+rats (6 of 14) (Fig. 3F), a phenomenon not observed in intact rats.
+This variation suggests that different synaptic reconnectionswere
+activated in response to a specific stimulus and that the functional
+reconnections of descending pathwayswere not robust enough to
+respond to every stimulation.
+Eight months after injury, we performed transcranial stimu-
+lation on 7media-injected and 10OEG-injected rats immediately
+before, immediately after, and 3 and 5 d after retransection to
+determine whether these MEP signals represent physiological re-
+connections across the original transection site. The MEPs were
+abolished after retransection in every rat with detectable evoked
+potentials before retransection (Fig. 3A, bottom trace, retx), pro-
+viding additional evidence that OEG promoted electrophysi-
+ologically viable reconnections across the original lesion.
+OEG transplantationmay promote axon regeneration across
+the transection: anatomical evidence
+Regeneration of descending brainstem and cervical spinal
+cord axons
+To determine the extent of axon regeneration across the transec-
+tion, we injected WGA–HRP into the lower thoracic cords of 3
+intact and 22 spinal rats 8 months after transection (media-un-
+trained; n  5, media-trained; n  7, OEG-untrained; n  5,
+OEG-trained; n  5). None of the spinal rats included in addi-
+tional analyses had leakage of WGA–HRP into the lesion core or
+the rostral stump (supplemental Fig. 1C, available at www.
+jneurosci.org as supplemental material). In intact rats, we de-
+tected WGA-positive somata in the motor cortex (supplemental
+Fig. 1A, available at www.jneurosci.org as supplemental mate-
+rial), red nucleus, locus coeruleus, vestibular nucleus, reticular
+formation, raphe nucleus, and cervical enlargement (Fig. 4A).
+Based on an objective densitometry method, the number of
+WGA-positive somata in the brainstem and rostral spinal cord of
+both media and OEG groups was quantified without knowledge
+of the experimental status of each rat (Fig. 4B,C). Immunoreac-
+tive cells were considered as WGA-positive only when their
+optical density was at least 5% greater than themaximum back-
+ground level determined in each section (supplemental Fig.
+1D–G, available at www.jneurosci.org as supplementalmaterial).
+TheWGA-labeled neurons in spinal rats were similar in location,
+size, and shape to those found in intact rats (Fig. 4A–C). We
+foundmoreWGA-positive somata in the red nucleus, locus coer-
+uleus, vestibular nucleus, and raphe nucleus but not in the retic-
+ular formation of OEG- than media-injected rats (Table 1, Fig.
+4D). There were noWGA-positive somata in the primary motor
+cortex of any spinal rat (supplemental Fig. 1B, available at www.
+jneurosci.org as supplemental material). We detected more
+WGA-positive somata in laminae VII, VIII, and X of the cervical
+enlargement in OEG- than media-injected rats (Fig. 4D). These
+retrogradely labeled cell bodies were round or oval in shape and
+20–30m in diameter withmultipolar processes, features typical
+of long propriospinal neurons that contact lumbar somatic mo-
+tor neurons (Menétrey et al., 1985).
+Next we asked whether the number of retrogradely labeled
+somata inmedia-injected controls was consistent with spontane-
+ous axon regeneration or nonspecific uptake of the tracer. To
+address this issue, we injected WGA–HRP into three media-
+injected spinal rats 1 month after transection as an additional
+control.We detectedWGA-labeled somata in all threemedia rats
+Table 1. Quantification of WGA-labeled cell bodies from the retrograde tracing study
+Treatment Red nucleus* Locus coeruleus*
+Vestibular
+nucleus* Raphe nucleus* Reticular formation
+Cervical
+enlargement*
+Sham rats (n 3) 2253 509 789 150 972 266 499 9 1468 138 1361 127
+Short-termmedia-injected rats (n 3) 87 51 56 20 34 20 25 6 91 45 20 5
+Long-termmedia-injected rats (n 10) 116 30 33 9 47 7 24 7 49 11 19 4
+OEG-injected rats (n 10) 199 34 117 21 83 20 67 26 90 30 50 18
+More WGA-positive cell bodies were detected in OEG-injected than short- or long-termmedia-injected rats, i.e., controls. *p 0.05, statistical significance between both short- and long-termmedia-injected versus OEG-injected rats.
+4304 • J. Neurosci., March 16, 2011 • 31(11):4298–4310 Takeoka et al. • Functional Regeneration after OEG Transplants
+maintained for1month thatpresumablywouldhavenoaxonregen-
+eration (Table 1, Fig. 4D).Moreover, the average number of labeled
+cells in the brainstem or cervical spinal cord did not differ signifi-
+cantly between media rats after 1 or 8 months post-injury. These
+results suggest a consistent level of spuriousWGA-labeled somata in
+spinal rats rather than spontaneous regeneration (Fig. 4D). Over-
+all, detection of more retrogradely labeled cells in the brainstem
+(excluding the reticular formation) and spinal cord ofOEG- than
+media-injected long-term spinal rats is consistent with our be-
+havioral and electrophysiological evidence that OEG transplan-
+tation promoted axon regeneration across the transection.
+Raphespinal regeneration
+To test whether OEG transplantation promotes raphespinal re-
+generation, we examined the presence of serotonergic axons
+spanning the lesion. We found examples of axons that projected
+across both GFAP borders and the GFAP-negative lesion core
+only in OEG-injected rats (Fig. 5A). We also observed 5-HT
+axons that sprouted within the lesion core in both media- and
+OEG-injected rats (Fig. 5B,C), with more found in OEG- than
+media-injected rats (Fig. 5D). To determine whether these 5-HT
+axons in the lesion core originated from the raphe nucleus or
+spinal cord interneurons (Newton and Hamill, 1988; Takeoka et
+al., 2009), we examined the original lesion core from retransected
+spinal rats and found few 5-HT axons. This finding suggests that
+the 5-HT axons that sprouted into the lesion core originated
+primarily from raphespinal neurons rather than intraspinal 5-HT
+neurons. We did not examine the 5-HT axons in the caudal
+stump because they could originate from the rare serotonergic
+spinal neurons and do not necessarily represent raphespinal re-
+generation (Takeoka et al., 2009).
+Ascending axon regeneration
+GAP43 is transiently expressed in somata and growing axons of
+most neurons during development (Jacobson et al., 1986; Goslin
+et al., 1990). After axotomy, adult neurons, such as retinal gan-
+glion cells, dorsal root ganglion, and spinal neurons, transiently
+express GAP43 in their somata (Doster et al., 1991; Schreyer and
+Skene, 1991; Siebert et al., 2010). Because GAP43 is a marker of
+recent axotomy, we hypothesized that any ascending axons that
+regenerated across the original transection would transiently up-
+regulate GAP43 in their cell bodies after retransection 0.5 cm
+rostral to the initial site (diagram in Fig. 5E). First, we examined
+spinal rats that did not receive a retransection and found no
+labeled somata but numerous GAP43-positive axons within the
+lesion core, fibers associated with the meninges and penetrating
+blood vessels, and labeled axons within the dorsal and ventral
+roots (data not shown), in a pattern similar to peripherally de-
+rived noradrenergic axons (Takeoka et al., 2010). After retransec-
+tion, axotomized GAP43-positive somata filled the rostral stump
+Figure 5. Axons regenerate in OEG-injected rats. A, A 5-HT-labeled axon (black, arrowheads) projects into and spans the transection site in an OEG-injected rat. Rostral and caudal
+GFAP-positive borders (brown) are at the top and bottom of the image. B, C, Many 5-HT axons (black) cross the rostral GFAP-positive border (brown, at the top) in both media-injected
+(B) and OEG-injected (C) rats. D, More 5-HT axons are found within the lesion core of OEG- than media-injected rats (*p 0.02). E, Diagram of the injury site of the retransected spinal
+cord. Only GAP43 expression in somata within the caudal stump (*) after retransection suggests axon regeneration of ascending axons. F, G, GAP43-positive cell bodies (black) in media
+(F ) and OEG (G) GFAP-positive caudal stumps (brown).H, More GAP43-positive somata are detected in the caudal stump of OEG- thanmedia-injected rats (*p 0.01). Scale bars, 50m.
+Data are mean SEM.
+Takeoka et al. • Functional Regeneration after OEG Transplants J. Neurosci., March 16, 2011 • 31(11):4298–4310 • 4305
+between the initial and retransection sites
+in both media and OEG groups (diagram
+in Fig. 5E). In contrast, sparse GAP43-
+labeled somata occupied the caudal stump
+of the retransected cords, primarily in
+lamina V with a few cells in lamina X (Fig.
+5F,G). These GAP43-labeled somata cau-
+dal to the initial transection likely repre-
+sent neurons with axons that had
+regenerated past the original lesion and
+far enough rostrally to be axotomized by
+the retransection. This interpretation of
+upregulated somatic GAP43 is only valid
+in the caudal stump of spinal cord injury
+studies that use an initial complete tran-
+section, followed by a lengthy period for
+axon regeneration to occur, a complete
+spinal cord retransection rostral to the
+original injury, and then perfusions per-
+formed within 14 d after retransection. We
+quantified GAP43-labeled cell bodies in the
+caudal stump and found more GAP43-
+immunopositive somata in OEG than me-
+dia groups (Fig. 5H ). These results
+suggest that OEG implantation pro-
+motes regeneration of ascending axons
+and that a limited amount of spontane-
+ous regeneration may occur in long-
+term, media-injected rats.
+OEG preserve tissue and neurons
+surrounding the lesion
+We measured the volume of the GFAP-
+negative lesion core and associated cavitations to determine
+whether OEG attenuate tissue degeneration after the injury. The
+average volume of the injury site was larger in media- than OEG-
+injected rats (Fig. 6A,B), results consistent with our previous
+studies (Kubasak et al., 2008; Muñoz-Quiles et al., 2009). We
+identified the rostral and caudal stumps with anti-GFAP and
+spinal cord neurons with anti-NeuN to evaluate the extent of
+injury-induced neuronal degeneration (Fig. 6C). We found
+NeuN-labeled cell bodies immediately adjacent to the GFAP-
+negative lesion core more often in OEG-injected (Fig. 6D) than
+media-injected (Fig. 6C) spinal cords. The distance between the
+most proximal NeuN-labeled neuron and the GFAP-negative le-
+sion core was shorter in the rostral than in the caudal stump of all
+spinal rats (media: rostral, 0.67 0.06 cmand caudal, 1.31 0.11
+cm;OEG: rostral, 0.25 0.07 cmand caudal, 0.48 0.06 cm; p
+0.05), a result that indicates that more neurons in the rostral
+stump were preserved than in the caudal stump. Furthermore,
+both the average GFAP-positive non-neuronal zone (Fig. 6E)
+and the total distance between neurons located in the rostral and
+caudal stumps (Fig. 6F) were shorter in OEG thanmedia groups.
+These results suggest thatOEG transplantationpromotes neuronal
+survival after a complete transection, and, consequently, in combi-
+nationwith a smaller lesion volume, regenerating axonswould have
+a shorter distance to project to aneuronal target on the opposite side
+of the transection in OEG- thanmedia-injected rats.
+p75-NGFR-positive OEG survive 8 months
+after transplantation
+OEG were prelabeled with Hoechst (Ramón-Cueto et al.,
+2000), and, 8months later, we used anti-p75-NGFR to identify
+immunolabeled OEG with Hoechst-labeled nuclei in and near
+the transection (Pearse et al., 2007; Lankford et al., 2008). We
+detected a number of p75-NGFR- and Hoechst-labeled cells
+within the spinal stumps (Fig. 7A,B) and the lesion core (Fig.
+7C). These putative OEG usually are clustered, frequently
+aligned with each other, and form tubular structures (Fig.
+7B,C) as reported after transplantation in vivo (Sasaki et al.,
+2004). OEG also are characterized by smooth oval nuclei
+(Field et al., 2003; Smithson et al., 2010), a feature that distin-
+guishes them from macrophages or activated microglia
+(Nguyen et al., 1994; Raivich et al., 1998). In addition to OEG,
+endogenous Schwann cells that migrate into the core of the
+injury also express p75-NGFR and thus are not distinguishable
+from OEG. However, colocalized p75-NGFR/Hoechst-labeled
+cells in the spinal cord stumps are likely to be OEG because
+Schwann cells do not integrate into spinal cord areas bordered
+by an astrocytic scar (Lakatos et al., 2000; Raisman and Li,
+2007). Other Hoechst-labeled nuclei without p75-NGFR ex-
+pression likely represent the portion of transplanted OEG that
+downregulate p75-NGFR expression or a redistribution of
+Hoechst dye to host cells (Iwashita et al., 2000). We also de-
+termined that ED1-positive macrophages rarely contained
+Hoechst-labeled nuclei in OEG-injected rats (Fig. 7D) and
+that the distribution of ED1-positive macrophages around the
+lesion core was similar in media- and OEG-injected spinal
+cords at 8 months after transection. Although Hoechst labeling
+alone cannot determine the full extent of OEG survival, double-
+labeled p75-NGFR andHoechst profiles suggest that OEG are pres-
+ent 8 months after implantation.
+Figure 6. OEG transplantation preserves spinal cord tissue (A, B) and neurons (C–F ) around the transection site. A, The
+GFAP-negative lesion core and surrounding cavitations (asterisks) weremeasured to estimate the volume of tissue degeneration.
+B, Media-injected rats have a larger lesion core and associated cavities than OEG-injected rats (*p  0.05). C, To estimate
+injury-induced neuronal degeneration, a sagittal section containing the lesion core of amedia-injected rat was double labeled for
+GFAP and NeuN. Neuron-free regions (designated as E) above and below the transection and theminimum distance between the
+rostral and caudal stump neurons (arrows, designated as F ) were measured. D, An example of an OEG-injected rat shows that
+neurons (red) are foundnear theGFAP (green)-negative lesion core (asterisk).E, Distance between themost proximal neurons and
+the lesion border is smaller in OEG thanmedia groups (see E in C; *p 0.001). F, Average distance between neurons in the rostral
+and caudal stumps (see F in C) is smaller in OEG- thanmedia-injected rats (*p 0.01). Scale bars: A, C, 400m; D, 50m. Error
+bars are SEM.
+4306 • J. Neurosci., March 16, 2011 • 31(11):4298–4310 Takeoka et al. • Functional Regeneration after OEG Transplants
+Discussion
+OEG facilitated regeneration across the lesion and reorganization
+of neural circuits in the caudal stump. Behavioral and electro-
+physiological data after complete spinal
+cord retransection experiments 8 months
+after the initial lesion convincingly dem-
+onstrated that the regenerating axons in
+OEG-injected rats were functional. After
+retransection, noMEPs remained, the de-
+creased hypersensitivity to mechanical
+stimulation was reversed, and some
+OEG-injected rats dramatically im-
+proved their locomotor performance.
+OEG transplantation combined with step
+training facilitated the reorganization of
+lumbosacral circuits that contributed to
+improved stepping with quipazine and to
+the weight-supporting ability of adult spi-
+nal rats. OEG transplantation also pre-
+served neurons and reduced the volume
+of the lesion core, changes that would
+facilitate axon regeneration across the
+transection. These changes reflect the
+combination of spinal circuit reorganiza-
+tion and axon regeneration that together
+suppressedor facilitatedsensorimotor func-
+tion (Fig. 8).
+Evidence of caudal stump
+reorganization in the recovery of
+motor function
+Our previous study (Kubasak et al., 2008)
+reported that step training alone did not
+improve locomotor function of media-
+injected adult rats but OEG transplantation
+alone improved hindlimb locomotion,
+findings confirmed by the current results.
+Kubasak et al. (2008) also showed that
+OEG-trained rats improved their stepping
+ability over time, whereas in the present
+study, improvement of plantar stepping
+plateaued early. This early improvement
+likely represents reorganization within the
+caudal stump because there was no electro-
+physiological evidence of regeneration at 1
+month after transection. Improved plantar
+stepping in OEG groups and longer stance
+and step trajectories in OEG-trained
+compared with OEG-untrained rats
+after retransection suggest that OEG
+transplantation alone strengthened, and
+long-term training further enhanced, func-
+tion within the locomotor networks. One
+factor that could facilitate locomotion is the
+increased frequency of serotonergic and
+noradrenergic varicosities apposing the
+motor-associated cholinergic neurons in
+OEG-injected rats (Takeoka et al., 2009,
+2010). Additionally, OEG and step training
+improved locomotor performance after
+pharmacological activation of 5-HT2A re-
+ceptors. Because retransection did not alter
+the improved plantar stepping ability of
+media- andOEG-trained rats with quipazine, the improvementwas
+likely attributable to changes within the caudal stump rather than
+axonal regeneration.
+Figure 7. OEG identified with anti-p75-NGFR and ED1-labeled macrophages are detected at 8 months after transection. A, B,
+Hoechst-labeled nuclei (blue) are foundwithin p75-NGFR-positive cells (red) and suggest the presence of transplantedOEG (white
+arrowheads) in the rostral (A) and caudal (B) spinal cord stumps. C, Hoechst-labeled nuclei (blue; white arrowheads) within
+p75-NGFR-positive cells (red) in the lesion core are likely OEG but Schwann cells within the transection also express p75-NGFR. D,
+Most ED1-labeledmacrophages (red; white arrowheads) do not colocalizewith Hoechst-positive nuclei (blue). Scale bars, 25m.
+Figure 8. Summary diagram of how axon regeneration and caudal stump reorganization might contribute to sensorimotor
+function. Left, Immediately after a complete transection (approximately T9, curved red line), the lumbar spinal cord (SC) is isolated
+from supraspinal and rostral spinal connections.Middle row, At 8months after lesion,media-untrained rats have little evidence of
+locomotor recovery (small oval, thin red outline) and hypersensitive hindlimb withdrawal (large oval, thin blue outline). In
+OEG-trained rats, direct or indirect connections, i.e., connections including long and short propriospinal neurons, are formed across
+the transection that activate or suppress lumbar somatic motor neurons. Functionally, OEG-trained rats have improved locomotor
+circuits (small oval, thick red outline) and less sensitive hindlimb withdrawal (small oval, thin blue outline). Right, Although
+retransection (approximately T6, straight red line) does not alter locomotor and hindlimb withdrawal functions of media-
+untrained rats, OEG-trained rats step better (large oval, thick red outline) and become hypersensitive to mechanical stimulation
+(large oval, thin blue outline). Retransection removes the suppression of the sensorimotor function. Corticospinal neurons are light
+blue, brainstem projection neurons are dark blue, and spinal interneurons, i.e., long and short propriospinal neurons, are light
+purple and black and represent suppression or facilitation of motor functions, respectively. Axons drawn in dotted lines indicate
+only anatomical evidence of regeneration. The size of spinal circuits represents the relative contribution to the functional outcome,
+and changes in thickness of outlines for locomotor function represent the extent of intraspinal reorganization.
+Takeoka et al. • Functional Regeneration after OEG Transplants J. Neurosci., March 16, 2011 • 31(11):4298–4310 • 4307
+Evidence of axon regeneration across the transection
+Spinal cord retransections provided critical evidence that OEG
+transplantation facilitated functionally relevant axon regenera-
+tion. Surprisingly, several OEG-injected rats that never plantar
+stepped during the 7 monthly kinematics tests dramatically im-
+proved their stepping performance after retransection, a result
+that suggests that regenerated axons suppressed stepping (Fig. 8).
+Both facilitation and suppression of the spinal circuitry are im-
+portant in the control of intact locomotion (Bonnot et al., 1998;
+Iglesias et al., 2008). It is unclear the extent to which the
+regenerated axons are functional, i.e., the net effect is that they
+are “inhibitory” to locomotor circuits in the classical neuro-
+physiological definition, or dysfunctional in the sense that
+they interfere with hindlimb stepping functions. Nonetheless,
+axon regeneration appears to have a net suppressive effect on
+the locomotor networks and the injury-induced hypersensitive
+hindlimb withdrawal in this study. These results emphasize that,
+even when axon regeneration is identified electrophysiologi-
+cally and anatomically, behavioral consequences may be
+unpredictable.
+Our electrophysiological results indicate that axons regener-
+ate across the transection and form functional connections in
+OEG-injected rats, but the process occurred slowly and connec-
+tions were less stable than those in intact rats. By 4 months after
+transection, we found reconnections with long latencies, features
+consistent with polysynaptic and/or slow electrical conduction.
+We rarely, and only at 7 months, detected MEPs with latencies
+similar to those of intact rats. The small amplitudes of most
+MEPs imply that relatively few connections were reestab-
+lished. Although intact rats had a 100% frequency of response
+to transcranial stimulation, we saw inconsistent responses in
+OEG-injected rats, reflecting weak connections established by
+regenerating axons.
+Combined with electrophysiological data, retrograde trac-
+ing results suggest that the re-established projections to so-
+matic motor neurons were mainly polysynaptic. For example,
+two OEG-injected rats that responded to cortical stimulation
+were injected with the retrograde tracer, but neither had
+WGA-labeled somata in the motor cortex. Interpreta-
+tions consistent with these data are that corticospinal axons
+sprouted in the rostral stump and contacted interneurons that
+then crossed the transection or that corticospinal axons
+crossed the transection site and contacted an interneuron that
+eventually projected to somatic motor neurons (Fig. 8). Sim-
+ilarly, the brainstem nuclei re-established connections that
+were predominantly polysynaptic, and this may explain why
+someOEG-injected rats had relatively few retrogradely labeled
+cells in the brainstem although MEPs were recorded in their
+hindlimb muscles. Alternatively, some regenerated axons
+could be electrically silent but able to transport the tracer.
+Perhaps some regenerating axons establish nonfunctional or
+aberrant connections that then are later eliminated (Bareyre et
+al., 2004; Calancie et al., 2005), recapitulating the process of
+synapse elimination during development. Additional evidence
+consistent with axon regeneration in OEG-injected rats in-
+cludes raphespinal axons that spanned the transection and
+upregulation of GAP43 in somata that likely represents a re-
+sponse to axotomy after retransection. GAP43-positive so-
+mata in the caudal stump of OEG-injected rats were located
+primarily in lamina V, which contains many ascending sen-
+sory neurons (Baker and Giesler, 1984; Menétrey and Bas-
+baum, 1987; Villanueva et al., 1991; Ramón-Cueto et al.,
+1998). Detailed sensory testing was not performed in this
+study, and therefore it is unclear whether these axons have
+functional consequences.
+Finally, there is an inconsistency between the electrophysio-
+logical and anatomical results in long-term media-injected rats.
+Although some spurious labeling occurred after WGA–HRP in-
+jections, we detected extensive WGA-labeled somata in the red
+nucleus of twomedia rats maintained for 8months after transec-
+tion but not in 1 month media controls. Chronic media rats also
+had several GAP43-positive somata in the caudal stump after
+retransection. Because we electrophysiologically and anatomi-
+cally confirmed that transections were complete, these results
+leave open the possibility that limited spontaneous axon regen-
+eration may occur in long-term spinal rats as suggested by
+Muñoz-Quiles et al. (2009). In the present study, however, there
+was no evidence that spontaneous regeneration contributed to
+functional changes. Importantly, the combination of retro-
+grade tracer and retransection data caution against the over-
+interpretation of anatomical evidence of regeneration and
+demonstrate the value of a retransection experiment to deter-
+mine whether regenerating axons are functional.
+Promotion of axon regeneration and beyond
+The current study raises an important question of how OEG
+promote axon regeneration after injury. Olfactory bulb-derived
+OEG can reduce inhibitory molecules (García-Alías et al., 2004),
+alter immune and inflammatory responses (López-Vales et al.,
+2004; Chuah et al., 2010), and integrate into the CNS environ-
+ment as they intermingle with astrocytes both in vitro and in vivo
+(Franklin et al., 1996; Imaizumi et al., 1998; Lakatos et al., 2000,
+2003; Raisman and Li, 2007). The present results do not provide
+additional insight into the possible mechanisms.
+How axon regeneration and the reorganization of spinal neu-
+ral circuitrymight contribute to the improvement inmotor func-
+tion is complex (Fig. 8). Having now established that mature
+regenerating axons can form functionally relevant connections
+across a complete spinal cord transection, an important future
+challenge is to optimize the extent and balance of axon regener-
+ation, maximize functionally useful axon–target reconnections,
+and identify strategies to further facilitate functional efficacy.
+References
+BakerML, Giesler GJ Jr (1984) Anatomical studies of the spinocervical tract
+of the rat. Somatosens Res 2:1–18.
+Bareyre FM, Kerschensteiner M, Raineteau O, Mettenleiter TC, Weinmann
+O, Schwab ME (2004) The injured spinal cord spontaneously forms a
+new intraspinal circuit in adult rats. Nat Neurosci 7:269–277.
+Bonnot A, Corio M, Bouc AM, Viala D (1998) Involvement of AMPA re-
+ceptors in posterior locomotor activity in the rabbit: an in vivo study.
+J Physiol Paris 92:5–15.
+Cai LL, Fong AJ, Otoshi CK, Liang Y, Burdick JW, Roy RR, Edgerton VR
+(2006) Implications of assist-as-needed robotic step training after a com-
+plete spinal cord injury on intrinsic strategies of motor learning. J Neu-
+rosci 26:10564–10568.
+Calancie B, Alexeeva N, Broton JG, Molano MR (2005) Interlimb reflex
+activity after spinal cord injury in man: strengthening response patterns
+are consistent with ongoing synaptic plasticity. Clin Neurophysiol
+116:75–86.
+Chandler CE, Parsons LM, Hosang M, Shooter EM (1984) A monoclonal
+antibody modulates the interaction of nerve growth factor with PC12
+cells. J Biol Chem 259:6882–6889.
+Chaplan SR, Bach FW, Pogrel JW, Chung JM, Yaksh TL (1994) Quanti-
+tative assessment of tactile allodynia in the rat paw. J Neurosci Meth-
+ods 53:55–63.
+Chuah MI, Hale DM, West AK (2010) Interaction of olfactory ensheathing
+cells with other cell types in vitro and after transplantation: glial scars and
+inflammation. Exp Neurol. Advance online publication. Retrieved Janu-
+ary 24, 2011. doi:10.1016/j.expneurol.2010.08.012.
+4308 • J. Neurosci., March 16, 2011 • 31(11):4298–4310 Takeoka et al. • Functional Regeneration after OEG Transplants
+CôtéMP, Gossard JP (2003) Task-dependent presynaptic inhibition. J Neu-
+rosci 23:1886–1893.
+Côté MP, Ménard A, Gossard JP (2003) Spinal cats on the treadmill:
+changes in load pathways. J Neurosci 23:2789–2796.
+Courtine G, Song B, Roy RR, Zhong H, Herrmann JE, Ao Y, Qi J, Edgerton
+VR, Sofroniew MV (2008) Recovery of supraspinal control of stepping
+via indirect propriospinal relay connections after spinal cord injury. Nat
+Med 14:69–74.
+Courtine G, Gerasimenko Y, van den Brand R, YewA,Musienko P, ZhongH,
+Song B, Ao Y, Ichiyama RM, Lavrov I, Roy RR, Sofroniew MV, Edgerton
+VR (2009) Transformation of nonfunctional spinal circuits into func-
+tional states after the loss of brain input. Nat Neurosci 12:1333–1342.
+de Leon RD, Tamaki H, Hodgson JA, Roy RR, Edgerton VR (1999)
+Hindlimb locomotor and postural training modulates glycinergic inhibi-
+tion in the spinal cord of the adult spinal cat. J Neurophysiol 82:359–369.
+Doster SK, Lozano AM, Aguayo AJ, Willard MB (1991) Expression of the
+growth-associated protein GAP-43 in adult rat retinal ganglion cells fol-
+lowing axon injury. Neuron 6:635–647.
+Edgerton VR, de Leon RD, Tillakaratne N, Recktenwald MR, Hodgson JA,
+Roy RR (1997) Use-dependent plasticity in spinal stepping and stand-
+ing. Adv Neurol 72:233–247.
+Edgerton VR, Tillakaratne NJ, Bigbee AJ, de Leon RD, Roy RR (2004) Plas-
+ticity of the spinal neural circuitry after injury. Annu Rev Neurosci
+27:145–167.
+Efron B, Tibshirani R (1991) Statistical data analysis in the computer age.
+Science 253:390–395.
+Field P, Li Y, Raisman F (2003) Ensheathment of the olfactory nerves in the
+adult rat. J Neurocytol 32:317–324.
+Fong AJ, Cai LL, Otoshi CK, Reinkensmeyer DJ, Burdick JW, Roy RR, Edg-
+ertonVR (2005) Spinal cord-transectedmice learn to step in response to
+quipazine treatment and robotic training. J Neurosci 25:11738–11747.
+Fouad K, Schnell L, Bunge MB, Schwab ME, Liebscher T, Pearse DD (2005)
+Combining Schwann cell bridges and olfactory-ensheathing glia grafts
+with chondroitinase promotes locomotor recovery after complete tran-
+section of the spinal cord. J Neurosci 25:1169–1178.
+Franklin RJ, Gilson JM, Franceschini IA, Barnett SC (1996) Schwann cell-
+like myelination following transplantation of an olfactory bulb-
+ensheathing cell line into areas of demyelination in the adult CNS. Glia
+17:217–224.
+Franssen EH, de Bree FM, Verhaagen J (2007) Olfactory ensheathing glia:
+their contribution to primary olfactory nervous system regeneration and
+their regenerative potential following transplantation into the injured
+spinal cord. Brain Res Rev 56:236–258.
+García-Alías G, Verdú E, Forés J, López-Vales R, Navarro X (2003) Func-
+tional and electrophysiological characterization of photochemical graded
+spinal cord injury in the rat. J Neurotrauma 20:501–510.
+García-Alías G, López-Vales R, Forés J, Navarro X, Verdú E (2004) Acute
+transplantation of olfactory ensheathing cells or Schwann cells promotes
+recovery after spinal cord injury in the rat. J Neurosci Res 75:632–641.
+Gerasimenko YP, Ichiyama RM, Lavrov IA, Courtine G, Cai L, Zhong H, Roy
+RR, Edgerton VR (2007) Epidural spinal cord stimulation plus quipa-
+zine administration enable stepping in complete spinal adult rats. J Neu-
+rophysiol 98:2525–2536.
+Goslin K, Schreyer DJ, Skene JH, Banker G (1990) Changes in the distribu-
+tion of GAP-43 during the development of neuronal polarity. J Neurosci
+10:588–602.
+Gruner JA, Wade CK, Menna G, Stokes BT (1993) Myoelectric evoked po-
+tentials versus locomotor recovery in chronic spinal cord injured rats.
+J Neurotrauma 10:327–347.
+Ichiyama RM, Gerasimenko YP, Zhong H, Roy RR, Edgerton VR (2005)
+Hindlimb steppingmovements in complete spinal rats induced by epidu-
+ral spinal cord stimulation. Neurosci Lett 383:339–344.
+Ichiyama RM, Courtine G, Gerasimenko YP, Yang GJ, van den Brand R,
+Lavrov IA, Zhong H, Roy RR, Edgerton VR (2008) Step training rein-
+forces specific spinal locomotor circuitry in adult spinal rats. J Neurosci
+28:7370–7375.
+Ichiyama R, Potuzak M, Balak M, Kalderon N, Edgerton VR (2009) En-
+hanced motor function by training in spinal cord contused rats following
+radiation therapy. PLoS One 4:e6862.
+Iglesias C, Nielsen JB,Marchand-Pauvert V (2008) Corticospinal inhibition
+of transmission in propriospinal-like neurones during human walking.
+Eur J Neurosci 28:1351–1361.
+Imaizumi T, Lankford KL,Waxman SG, Greer CA, Kocsis JD (1998) Trans-
+planted olfactory ensheathing cells remyelinate and enhance axonal con-
+duction in the demyelinated dorsal columns of the rat spinal cord.
+J Neurosci 18:6176–6185.
+Iwashita Y, CrangAJ, BlakemoreWF (2000) Redistribution of bisbenzimide
+Hoechst 33342 from transplanted cells to host cells. Neuroreport
+11:1013–1016.
+Jacobson RD, Virág I, Skene JH (1986) A protein associated with axon
+growth, GAP-43, is widely distributed and developmentally regulated in
+rat CNS. J Neurosci 6:1843–1855.
+Kubasak MD, Jindrich DL, Zhong H, Takeoka A, McFarland KC, Muñoz-
+Quiles C, Roy RR, Edgerton VR, Ramón-Cueto A, Phelps PE (2008)
+OEG implantation and step training enhance hindlimb-stepping ability
+in adult spinal transected rats. Brain 131:264–276.
+Lakatos A, Franklin RJ, Barnett SC (2000) Olfactory ensheathing cells and
+Schwann cells differ in their in vitro interactions with astrocytes. Glia
+32:214–225.
+Lakatos A, Barnett SC, Franklin RJ (2003) Olfactory ensheathing cells in-
+duce less host astrocyte response and chondroitin sulphate proteoglycan
+expression than Schwann cells following transplantation into adult CNS
+white matter. Exp Neurol 184:237–246.
+Lankford KL, Sasaki M, Radtke C, Kocsis JD (2008) Olfactory ensheathing
+cells exhibit unique migratory, phagocytic, and myelinating properties in
+the X-irradiated spinal cord not shared by Schwann cells. Glia
+56:1664–1678.
+Li Y, Sauvé Y, Li D, Lund RD, Raisman G (2003) Transplanted olfactory
+ensheathing cells promote regeneration of cut adult rat optic nerve axons.
+J Neurosci 23:7783–7788.
+Li Y, Yamamoto M, Raisman G, Choi D, Carlstedt T (2007) An experimen-
+talmodel of ventral root repair showing the beneficial effect of transplant-
+ing olfactory ensheathing cells. Neurosurgery 60:734–740; discussion
+740–741.
+López-Vales R, García-Alías G, Forés J, Vela JM, Navarro X, Verdú E (2004)
+Transplanted olfactory ensheathing cells modulate the inflammatory re-
+sponse in the injured spinal cord. Neuron Glia Biol 1:201–209.
+López-Vales R, Forés J, Verdú E, Navarro X (2006) Acute and delayed trans-
+plantation of olfactory ensheathing cells promote partial recovery after
+complete transection of the spinal cord. Neurobiol Dis 21:57–68.
+Magladery JW, Teasdall RD, Park AM, Languth HW (1952) Electrophysio-
+logical studies of reflex activity in patients with lesions of the nervous
+system. I. A comparison of spinal motoneurone excitability following
+afferent nerve volleys in normal persons and patients with upper motor
+neurone lesions. Bull Johns Hopkins Hosp 91:219–244; passim.
+Menétrey D, Basbaum AI (1987) Spinal and trigeminal projections to the
+nucleus of the solitary tract: a possible substrate for somatovisceral and
+viscerovisceral reflex activation. J Comp Neurol 255:439–450.
+Menétrey D, de Pommery J, Roudier F (1985) Propriospinal fibers reaching
+the lumbar enlargement in the rat. Neurosci Lett 58:257–261.
+Muñoz-Quiles C, Santos-Benito FF, Llamusí MB, Ramón-Cueto A (2009)
+Chronic spinal injury repair by olfactory bulb ensheathing glia and feasi-
+bility for autologous therapy. J Neuropathol Exp Neurol 68:1294–1308.
+Newton BW, Hamill RW (1988) The morphology and distribution of rat
+serotonergic intraspinal neurons: an immunohistochemical study. Brain
+Res Bull 20:349–360.
+NguyenKB,McCombePA, PenderMP (1994) Macrophage apoptosis in the
+central nervous system in experimental autoimmune encephalomyelitis.
+J Autoimmum 7:145–152.
+Pearse DD, Sanchez AR, Pereira FC, Andrade CM, Puzis R, Pressman Y,
+Golden K, Kifay BM, Blits B, Wood PM, Bunge MB (2007) Transplan-
+tation of Schwann cells and/or olfactory ensheathing glia into the con-
+tused spinal cord: survival, migration, axon association, and fundamental
+recovery. Glia 55:976–1000.
+Protas DT, Brown BG, Jung R, Jindrich DL (2008) Selective neurotransmit-
+ter blockers affect motor evoked potentials in anesthetized rats. Soc Neu-
+rosci Abstr 34:74.7.
+Raisman G, Li Y (2007) Repair of neural pathways by olfactory ensheathing
+cells. Nat Rev Neurosci 8:312–319.
+Raivich G, Jones LL, Kloss CU, Werner A, Neumann H, Kreutzberg GW
+(1998) Immune surveillance in the injured nervous system:
+T-lymphocytes invade the axotomized mouse facial motor nucleus
+and aggregate around sites of neuronal degeneration. J Neurosci
+18:5804–5816.
+Takeoka et al. • Functional Regeneration after OEG Transplants J. Neurosci., March 16, 2011 • 31(11):4298–4310 • 4309
+Ramón-Cueto A, Plant GW, Avila J, Bunge MB (1998) Long-distance ax-
+onal regeneration in the transected adult rat spinal cord is promoted by
+olfactory ensheathing glia transplants. J Neurosci 18:3803–3815.
+Ramón-Cueto A, Cordero MI, Santos-Benito FF, Avila J (2000) Functional
+recovery of paraplegic rats and motor axon regeneration in their spinal
+cords by olfactory ensheathing glia. Neuron 25:425–435.
+Reese NB, Skinner RD, Mitchell D, Yates C, Barnes CN, Kiser TS, Garcia-Rill
+E (2006) Restoration of frequency-dependent depression of the
+H-reflex by passive exercise in spinal rats. Spinal Cord 44:28–34.
+Rossignol S, Giroux N, Chau C, Marcoux J, Brustein E, Reader TA (2001)
+Pharmacological aids to locomotor training after spinal injury in the cat.
+J Physiol 533:65–74.
+SasakiM, Lankford KL, ZemedkunM, Kocsis JD (2004) Identified olfactory
+ensheating cells transplanted into the transected dorsal funiculus bridge
+the lesion and form myelin. J Neurosci 24:8485–8493.
+Schreyer DJ, Skene JH (1991) Fate of GAP-43 in ascending spinal axons of
+DRG neurons after peripheral nerve injury: delayed accumulation and
+correlation with regenerative potential. J Neurosci 11:3738–3751.
+Siebert JR, Middelton FA, Stelzner DJ (2010) Intrinsic response of thoracic
+propriospinal neurons to axotomy. BMC Neuroscience 11:69.
+Smithson LJ, Kawaja MD (2010) Microglial/macrophage cells in mamma-
+lian olfactory nerve fascicles. J Neurosci Res 88:858–865.
+Takeoka A, KubasakMD, ZhongH, Roy RR, Phelps PE (2009) Serotonergic
+innervation of the caudal spinal stump in rats after complete spinal tran-
+section: effect of olfactory ensheathing glia. J CompNeurol 515:664–676.
+Takeoka A, Kubasak MD, Zhong H, Kaplan J, Roy RR, Phelps PE (2010)
+Noradrenergic innervation of the rat spinal cord caudal to a complete
+spinal cord transection: effects of olfactory ensheathing glia. Exp Neurol
+222:59–69.
+Tillakaratne NJ, Mouria M, Ziv NB, Roy RR, Edgerton VR, Tobin AJ (2000)
+Increased expression of glutamate decarboxylase (GAD67) in feline lum-
+bar spinal cord after complete thoracic spinal cord transection. J Neurosci
+Res 60:219–230.
+Tillakaratne NJ, de Leon RD, Hoang TX, Roy RR, Edgerton VR, Tobin AJ
+(2002) Use-dependent modulation of inhibitory capacity in the feline
+lumbar spinal cord. J Neurosci 22:3130–3143.
+Timoszyk WK, De Leon RD, London N, Roy RR, Edgerton VR, Reinkens-
+meyerDJ (2002) The rat lumbosacral spinal cord adapts to robotic load-
+ing applied during stance. J Neurophysiol 88:3108–3117.
+Villanueva L, de Pommery J, Menétrey D, Le Bars D (1991) Spinal afferent
+projections to subnucleus reticularis dorsalis in the rat. Neurosci Lett
+134:98–102.
+Zemlan FP, Kow LM, Pfaff DW (1984) Analgesia after lesions of nucleus
+reticularismagnocellularis: differential effect on supraspinal versus spinal
+pain reflexes. Pain 18:221–237.
+4310 • J. Neurosci., March 16, 2011 • 31(11):4298–4310 Takeoka et al. • Functional Regeneration after OEG Transplants

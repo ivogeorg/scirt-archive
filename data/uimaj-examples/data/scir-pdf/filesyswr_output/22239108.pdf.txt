@@ -1,0 +1,1093 @@
+Clostridium botulinum produces the prototype of ADP-
+ribosylating C3 transferases (C3bot) that target RhoA, B
+and C proteins rendering them inactive (Aktories and Just
+2005; Vogelsgesang et al. 2007). C3 transferases therefore
+represent a common tool to study Rho-dependent cellular
+functions. In neuroscience research, C3bot transferase has
+been demonstrated to promote axonal growth in primary
+neuronal culture (Jin and Strittmatter 1997), optic nerve lesion
+models (Lehmann et al. 1999; Bertrand et al. 2007) and
+experimental spinal cord injury (Dergham et al. 2002;
+Dubreuil et al. 2003). Over the years, evidence has accumu-
+lated that clostridial C3 transferase (C3bot) not only acts as an
+enzyme, but in addition is able to promote neurite outgrowth
+in a non-enzymatic mode of action (Ahnert-Hilger et al.
+2004). Interestingly, application of enzyme-deficient C3bot,
+in which the catalytic amino acid glutamate at position 174
+was mutated, resulted in growth promoting effects on
+hippocampal neurons. In subsequent studies, we successfully
+identified a 29-amino acid fragment covering the residues
+154–182 (C3bot154)182) still capable of inducing axonal as
+well as dendritic growth and branching in neuronal primary
+culture and organotypical brain slices (Höltje et al. 2009).
+Received November 22, 2011; revised manuscript received January 8,
+2012; accepted January 8, 2012.
+Address correspondence and reprints request to Markus Höltje, Cen-
+trum für Anatomie, Institut für Integrative Neuroanatomie, Charité-
+Universitätsmedizin Berlin, Philippstr. 12, D-10115 Berlin, Germany.
+E-mail: markus.hoeltje@charite.de
+1These authors contributed equally to the manuscript.
+2Present address: Université Pierre et Marie Curie, Institut de la Vision,
+Paris, France
+Abbreviations used: 5-HT, 5-hydroxytryptamine; ARTT, ADP-
+ribosylation toxin-turn-turn; BMS, Basso Mouse Scale; CSPG, chon-
+droitinsulfate proteoglycans; eGFP, enhanced green fluorescence; Map2,
+microtubule-associated protein 2; MEM, minimal essential medium;
+PBS, phosphate-buffered saline; SCI, spinal cord injury; VGAT, vesi-
+cular GABA transporter.
+,1 ,1,2
+*Center for Anatomy, Functional Cell Biology, Charité-Universitätsmedizin Berlin, Berlin, Germany
+Department of Morphology & BIOMED Institute, Hasselt University, Hasselt, Belgium
+Institute of Toxicology, Hannover Medical School (MHH), Hannover, Germany
+Abstract
+C3 ADP-ribosyltransferase is a valuable tool to study Rho-
+dependent cellular processes. In the current study we inves-
+tigated the impact of enzyme-deficient peptides derived from
+Clostridium botulinum C3 transferase in the context of neu-
+ronal process elongation and branching, synaptic connectivity,
+and putative beneficial effects on functional outcome following
+traumatic injury to the CNS. By screening a range of peptidic
+fragments, we identified three short peptides from C3bot that
+promoted axon and dendrite outgrowth in cultivated hippo-
+campal neurons. Furthermore, one of these fragments, a 26-
+amino acid peptide covering the residues 156–181 enhanced
+synaptic connectivity in primary hippocampal culture. This
+peptide was also effective to foster axon outgrowth and re-
+innervation in organotypical brain slice culture. To evaluate
+the potential of the 26mer to foster repair mechanisms after
+CNS injury we applied this peptide to mice subjected to spinal
+cord injury by either compression impact or hemisection. A
+single local administration at the site of the lesion improved
+locomotor recovery. In addition, histological analysis revealed
+an increased serotonergic input to lumbar motoneurons in
+treated compared with control mice. Pull-down assays
+showed that lesion-induced up-regulation of RhoA activity
+within the spinal cord was largely blocked by C3bot peptides
+despite the lack of enzymatic activity.
+Keywords: C3 transferase, regeneration, RhoA, spinal cord
+injury.
+J. Neurochem. (2012) 120, 1084–1096.
+JOURNAL OF NEUROCHEMISTRY | 2012 | 120 | 1084–1096 doi: 10.1111/j.1471-4159.2012.07657.x
+1084 Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+Furthermore, beneficial effects on axonal regeneration and
+functional recovery after spinal cord injury in mice were
+observed when this enzyme-deficient peptide was applied at
+the site of injury (Boato et al. 2010). To date, the exact
+molecular basis, by which enzyme-deficient C3bot peptides
+exhibit neurotrophic effects, remains to be elucidated. Also,
+important open questions regarding the use of C3bot peptides
+to foster neuronal regenerative growth still remain. This is, for
+instance, whether a motif such as the surface-exposed ADP-
+ribosylation toxin-turn-turn (ARTT) loop that confers sub-
+strate specificity and catalytic activity (Ménétrey et al. 2008)
+and is included in the 29-amino acid fragment is also essential
+for peptide action. Moreover, it is indispensable to gain more
+information about the minimal essential length of C3bot-
+derived peptides for exhibiting functional growth-promoting
+effects within the CNS. To minimise the risk for an unwanted
+immune response and to facilitate delivery in the in vivo
+situation the effective peptide should be designed as short as
+possible. We generated one peptide with a modified sequence,
+one C-terminal fragment and four further truncated C3bot
+peptides from the original sequence and tested them in a
+substantial range of both in vitro and in vivo models. The
+effects on neuronal morphology in culture, synaptic connec-
+tivity both in culture and the injured spinal cord, and the
+influence on axon growth in two different organotypical brain
+culture systems were investigated. Two different behavioural
+paradigms were applied to study the putative effects on motor
+restoration following spinal cord injury in mice. Last but not
+least, the impact of C3bot peptides on active RhoA levels
+within the injured spinal cord was analyzed.
+Materials and methods
+Animals
+All in vivo experiments were done with Balb/C wild-type mice
+(females, 8- to 12-week-old) and were performed in accordance with
+German and Flemish guidelines on the use of laboratory animals.
+Development of C3bot-derived peptides
+C3bot154)182 E/Q (C3bot 29mer E174Q), C3bot154)182 (C3bot
+29mer), C3bot156)181 (C3bot 26mer), C3bot160)179 (C3bot 20mer),
+C3bot163)177 (C3bot 15mer) and C3bot163)174 (C3bot 12mer) were
+synthesized at Pharis Biotec GmbH (Hannover, Germany).
+C3bot181)211 (C3bot 31mer) was expressed as recombinant GST-
+fusion protein in Escherichia coli TG1 harboring the DNA fragment
+in the plasmid pGEX-2T. Peptides were reconstituted in phosphate-
+buffered saline (PBS) pH7.5, sterile filtered (0.22 lm) and used for
+the respective experiments.
+Antibodies
+Immunofluorescence
+Monoclonal antibodies against neurofilament protein (200 kDa) and
+polyclonal antiserum against microtubule-associated proteins 2,
+were from Chemicon International (Hofheim, Germany). Rabbit or
+chicken anti-GFP antisera were used to further enhance green
+fluorescence (eGFP) (Invitrogen, Eugene, OR, USA). Synaptophy-
+sin-expressing terminals were visualized by a monoclonal anti-
+synaptophysin antibody (Synaptic Systems, Göttingen, Germany).
+Vesicular GABA transporter (VGAT) immunoreactivity was
+detected using guinea pig polyclonal serum (Calbiochem, Gibbs-
+town, NJ, USA). Serotonin-positive boutons in spinal cord sections
+were detected by a polyclonal anti-5-hydroxytryptamine (5-HT)
+antiserum obtained from Immunostar (Hudson, WI, USA). Immu-
+noreactivity was visualized using goat anti-mouse, goat anti-chicken
+Alexa Fluor 488, goat anti-rabbit Alexa Fluor 594, donkey anti-
+rabbit as well as donkey anti-guinea pig Cy3- and Cy5-coupled
+secondary antibodies (Molecular Probes, Eugene, OR, USA).
+Immunoblotting
+The Map2 and synaptophysin antisera were the same as used for
+immunofluorescence. A mouse monoclonal IgG from Cytoskeleton
+(Denver, CO, USA) was applied to detect RhoA. b-actin was
+detected by a polyclonal antiserum purchased from Sigma (St Louis,
+MO, USA).
+Hippocampal cell culture
+Hippocampal neurons were prepared from fetal NMRI mice at
+embryonic day 16 (E16). Dissected pieces of hippocampi were
+rinsed with PBS, then with dissociation medium [minimal essential
+medium (MEM) supplemented with 10% fetal calf serum, 100 IE
+insuline/l, 0.5 mM glutamine, 100 U/mL penicillin/streptomycin,
+44 mM glucose and 10 mM HEPES buffer] and dissociated
+mechanically. Sedimented cells were resuspended in starter medium
+(serum-free neurobasal medium supplemented with B27, 0.5 mM
+glutamine, 100 U/mL penicillin/streptomycin and 25 lM glutamate)
+and plated at a density of 2x104 cells/well (morphometrical analysis)
+or 8 x 104 cells/well (analysis of synaptic connectivity) on glass
+cover slips pre-coated with poly-L-lysine/collagen. An additional
+coating with 10 lg/mL chondroitin sulfate proteoglycans (Proteo-
+glycan Mix; Millipore, Billerica, MA, USA) was performed in some
+experiments. All ingredients were obtained from Gibco/BRL Life
+Technologies, Eggenstein, Germany. One day after plating peptide
+fragments were added to the culture medium for the indicated time
+periods.
+Morphometrical analysis
+Total length and the overall number of branches from axons and
+dendrites were analyzed morphometrically using the Neurolucida
+software (MicroBrightField, Williston, ND, USA). The parameter
+‘axon length’ represents the integral length of all visible parts of an
+axon, including all branches. Experiments were carried out on the
+basis of cultures prepared on the same day, from the same animal pool.
+Typically, three coverslips were prepared per condition and 8–10
+neurons were evaluated on each coverslip. Provided no significant
+differences between coverslip means (tested by ANOVA) data were
+pooled and given as means ± SEM. Experiments were repeated at
+least three times following identical experimental protocols.
+Analysis of synaptic connectivity
+Detailed analysis was performed using the in-house written software
+NeMo 1.4, as described earlier (Henneberger et al. 2005). Briefly,
+hippocampal neurons cultured at high density were incubated with
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+C3 peptide-mediated synaptic connectivity | 1085
+or without C3bot peptides from DIV 4–7. Cultures were transfected
+with eGFP to visualize a low number of non-overlapping individual
+neurons using the Effectene Transfection Reagent (Qiagen, Hilden,
+Germany). After an expression period of 22 h cultures were fixed
+and stained for eGFP (to further enhance green fluorescence) and
+synaptophysin or the respective vesicular transmitter transporters.
+Labeled neurons were visualized by epifluorescence using a 63
+times oil immersion objective. Stained terminals were quantified
+within a circular region of interest with a radius of 50 lm centered
+on the soma of an eGFP-labeled neuron. Only fluorescence spots
+with a diameter of 0.5–2 lm contacting a dendrite and supra-
+threshold intensity (average intensity plus three times its SD) were
+included in the analysis. In some experiments, synaptic contacts
+were counted in individual viewfields (area 350 · 262 lm) at 40
+times magnification using untransfected cultures. Neurons were
+pooled from different coverslips for statistical analysis provided that
+significant differences between the coverslip means (tested by
+ANOVA) were absent. Pooled data were then compared using
+Student’s t-test.
+Organotypical brain slice culture and outgrowth assay
+Entorhinal cortex slices were prepared at postnatal day 2 from mouse
+brains as described earlier (Hechler et al. 2006; Schmitt et al. 2007;
+Boato et al. 2010). Dissection of entorhinal cortex slices was
+performed in ice-cold MEM, with 2 mM L-glutamine and 8 mM Tris
+base added. Using a tissue chopper (Bachhofer, Reutlingen, Ger-
+many) transverse slices of 350 lmwere cut. Slices were embedded in
+a collagen I matrix on glass slides. For cultivation, MEM supple-
+mented with 25% Hank‘s Balanced Salt Solution, 25% heat-
+inactivated normal horse serum, 4 mM L-glutamine, 4 lg/mL insulin
+(Gibco, Karlsruhe, Germany), 2.4 mg/mL glucose (Braun, Melsun-
+gen, Germany), 0.1 mg/mL streptomycin, 100 U/mL penicillin and
+800 ng/mL ascorbic acid (all from Sigma-Aldrich, Taufkirchen,
+Germany) was used. Cultures were kept at 37C and 5%CO2 for 48 h
+(with C3 peptides added) before microscopic analysis.
+Axon counting
+For measurement of axonal outgrowth from the explants, neurites of
+the explant were evaluated at a total magnification of 200, using a 20
+times Olympus LCPLANFL objective (Olympus IX70, Hamburg,
+Germany). Axons that crossed a virtual line running at a distance of
+100 lm parallel to the border of the concave explant side were
+counted.
+Re-innervation assay
+To analyze re-innervation of the denervated hippocampus in vitro an
+assay was used which combines an entorhinal cortex of a b-actin-
+eGFP+ mouse with a hippocampus of a wild-type littermate. The
+entorhinal-hippocampal eGFP slice cultures were prepared from
+mouse brains at day 2 post-partum as described elsewhere (Hechler
+et al. 2006). In brief, transverse hippocampal slices (350 lm) from
+wild-type animals were placed on membranes (Millicell-CM,
+Millipore, Eschborn, Germany) adjacent to eGFP+ entorhinal cortex
+slices, rearranging in vitro the correct anatomy of the hippocampal
+formation in vivo. The slices were kept at 5% CO2 at 37 C. The
+medium contained 50% MEM, 25% BME basal medium, 25% heat-
+inactivated normal horse serum, 2 mM glutamax (all Gibco) and
+0.65% glucose (Braun), adjusted to pH 7.2. Slice co-cultures were
+treated for 48 h with C3bot peptides. After treatment, the entorhinal-
+hippocampal eGFP slices were fixed with 4% paraformaldehyde and
+0.5% glutaraldehyde.
+Measurement of axonal ingrowth (re-innervation)
+To evaluate the axonal ingrowth from GFP-positive entorhinal
+cortices into the GFP-negative hippocampal target tissue, the GFP-
+labeled fibers, which had grown into the hippocampus, were
+photodocumented with a fluorescent microscope (Olympus BX50)
+and a Photometrics CoolSNAPTMES camera (VisitronSystems
+GmbH, Munich, Germany). Photomicrographs were then analyzed
+with MetaMorph Image Software (VisitronSystems GmbH) to
+determine the average intensity in a standardized area, including the
+interface entorhinal cortex/hippocampus and the perforant path. The
+values from the experimental cultures were compared with control
+cultures prepared in the same experiment. Subsequently, the data of
+multiple experiments were pooled for statistical analysis. After
+confirming that significant differences existed between groups by
+performing a Kruskal–Wallis Test, p-values (significance level of
+0.05) were determined, using a Mann–Whitney U test (applies both
+to outgrowth and re-innervation assay).
+Experimental spinal cord injury
+Compression injury
+Spinal cord compression injury was performed as described
+previously (Sieber-Blum et al. 2006; Boato et al. 2010). Briefly,
+9- to 11-week-old anesthetized Balb/C mice (20–24 g) underwent a
+dorsal laminectomy at thoracic level T8, and a compression lesion
+was performed with a SPI Correx tension/compression gauge (Penn
+Tool, Maplewood, MN, USA) modified with the feeler bended to a
+90 degree angle, and with a flat 1.25 mm tip designed to precisely fit
+in the cavity created by the laminectomy. Compression of the mouse
+spinal cord was then performed by two investigators (both blinded
+to experimental groups, one compressing the spinal cord and the
+other double checking pressure and time applied to each animal) at
+20 cN for 1 s. Under these conditions, this injury type approximates
+the rapid force/acceleration injuries common to weight drop models.
+After positioning of the gelfoam patch on top of the perforated dura,
+the muscles were sutured and the back skin closed with wound clips.
+Dorsal hemisection
+For the spinal cord bilateral dorsal hemisection, iridectomy scissors
+were used to transect left and right dorsal funiculus, the dorsal horns
+(Simonen et al. 2003) and additionally the ventral funiculus (to cut
+also the small proportion of ventrally running corticospinal as well
+as raphespinal fibers close to the midline). Thus, the hemisection
+resulted in a complete transection of dorsal and medio-ventral
+descending fiber tracts (Boato et al. 2010). Following this proce-
+dure, mice were treated as described above. Both spinal cord injury
+(SCI) procedures were performed under a Leica MS5 stereo
+microscope.
+Locomotion tests
+Mice were continuously tested for functional recovery three weeks
+following SCI with the Basso Mouse Scale (BMS; Basso et al.
+2006). The BMS is a 10-point locomotor rating scale (9 = normal
+locomotion; 0 = complete hind limb paralysis), in which mice are
+scored by two investigators blinded to experimental groups based on
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+1086 | P. Loske et al.
+hind limb movements made in an open field during a 4-min interval.
+After allowing mice to recover for 5 days, Rotarod performance
+(Sheng et al. 2004) was determined continuously up to the end of
+the observation periods. The mice were placed on an accelerated
+rolling rod (Ugo Basile, Comeris VA, Italy). The latency to jump off
+from the rod was automatically recorded by the action of the mouse
+dropping onto a trigger plate. For BMS analysis we used the mean
+of the left and right hindlimb scores for each animal. Rotarod and
+BMS data were analyzed using a two-way ANOVA as previously
+described (Basso et al. 2006) and represent mean values for all the
+animals of each experimental group ± SEM.
+Rho GTPase pull-down assay
+Pull-down assays to detect activated RhoA in spinal cord tissue were
+performed using a Rho activation assay kit according to manufac-
+turer‘s instructions (Cytoskeleton, Denver, CO, USA). Briefly,
+dissected pieces of spinal cord of 1 cm length that included the
+lesioned area were obtained from PBS-perfused animals, homogen-
+ated and lysed in lysis buffer. The soluble fraction was obtained by
+centrifugation (10 500 g for 2 min). Aliquots were saved for
+analysis of total RhoA and loading control. Lysates were then
+added to rhotekin-RBD beads for 1 h (4C). Pelleted beads were
+washed three times, and bound proteins were mobilized by
+incubation with Laemmli sample buffer at 95C for 5 min. Samples
+were subjected to sodium dodecyl sulfate–polyacrylamide gel
+electrophoresis and western blot analysis.
+Histological analysis of spinal cord tissue
+Spinal cord cryosections (20 lm) from transcardially perfused
+animals were preincubated with 10% normal goat serum dissolved
+in PBS containing 0.5% Triton X-100 for 30 min at 20C.
+Incubation with primary antibodies was carried out overnight at
+4C. Following repeated washing steps with PBS, secondary
+antibodies were applied for 2 h at 20C. After removal of unbound
+antibodies, sections were mounted.
+Quantification of GABAergic and serotonergic inputs to lumbar
+a-motoneurons
+a-motorneurons of lumbar segments 1–2 (L1–L2) of the most
+ventral part of the ventral horn (representing Rexed‘s lamina 9)
+were analyzed. The number of VGAT-positive inputs (vesicular
+GABA transporter) and 5HT-positive boutons on motoneurons was
+calculated according to the criteria given elsewhere (Müllner et al.
+2008). Briefly, 5HT-positive swellings and VGAT-positive spots
+directly contacting a-motoneuron somata were counted in relation
+to the cell body perimeter as measured by Leica Application Suite
+software (Leica Microsystems, Wetzlar, Germany). Measurements
+are expressed as number of boutons (spots) per 100 lm cell
+perimeter.
+Results
+To investigate putative growth-promoting effects of short
+peptides derived from Clostridium botulinum C3 transferase
+(C3bot) on hippocampal neurons, we generated different
+peptides from a sequence comprising the amino acids 154–
+182 known to exhibit neurotrophic activity (Höltje et al.
+2009). In one of the peptides, the catalytic glutamate at
+position 174 was exchanged for glutamine (C3bot154)182
+E174Q referred to as C3bot 29mer E174Q). Four peptides
+represented further truncated versions of the original 29
+amino acid sequence: C3bot156)181 or C3bot 26mer,
+C3bot160)179 or C3bot 20mer, C3bot163)177 or C3bot
+15mer and C3bot163)174 or C3bot 12mer (Fig. 1a). Finally,
+a peptide that flanked the initial 29mer to the C-terminal end
+was used covering the amino acids 181–211 (C3bot 31mer).
+To test for beneficial effects on neuronal outgrowth murine
+hippocampal cultures kept under serum-free conditions were
+incubated with 50 nM of the respective peptides for four
+days. In contrast to full length C3bot, these peptides harbour
+no enzymatic activity as expected and already demonstrated
+for the initial 29mer (Höltje et al. 2009). Following incuba-
+tion, fixed neurons were stained for axonal neurofilament
+protein and dendritic microtubule-associated protein 2
+(Map2) as markers for axons and dendrites, respectively,
+and were morphometrically analysed. The rationale for the
+use of the modified 29mer peptide with glutamine instead of
+glutamate at position 174 (essential for catalytic function of
+full length protein), was to check whether this residue is also
+involved in peptide effects on neuronal morphology. Treat-
+ment of hippocampal neurons with C3bot 29mer E174Q
+indeed enhanced axon and dendrite length. Complexity of
+branching, on the other hand, was not significantly altered
+(Fig. 1b and e). The four further shortened peptides were
+designed to pinpoint the minimal length of C3bot-derived
+fragments to foster neuronal outgrowth with the shortest one
+reflecting the 12 amino acid of the ARTT loop responsible
+for substrate recognition of the full length C3bot transferase.
+In addition, the C-terminal 31mer was used to demonstrate
+whether an inclusion of substantial parts of the residues
+located between position 154 and 182 is essential for
+biological activity. Following incubation with the respective
+peptides two candidates exhibited promoting effects on
+neuronal process growth: C3bot 26mer (Fig. 1c and e)
+resulted in a significant promotion of axonal and dendritic
+length and, in addition, enhanced the complexity of branch-
+ing in these two compartments. Application of the shorter
+C3bot 15mer also resulted in the promotion of axonal length
+and branching, effects on dendrite morphology, however, did
+not reach statistical significance (Fig. 1c and e). The other
+three peptides were without effects on the parameters
+studied. Therefore, the 29mer peptide seems to be effective
+even with an amino acid exchange at a critical position, and
+certain further truncated peptides still exhibit beneficial
+effects on the morphology of cultivated neurons. Next, we
+addressed the question whether the observed morphological
+effects elicited by the shorter C3bot 26mer and C3bot 15mer
+were accompanied by functional changes such as the number
+of synaptic inputs. To this end, we quantified the number of
+synaptophysin-positive terminals contacting the proximal
+dendrites of individual eGFP-transfected neurons
+(Fig. 2a). Using NeMo software (Henneberger et al. 2005)
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+C3 peptide-mediated synaptic connectivity | 1087
+synaptophysin-expressing inputs that contacted proximal
+dendrites were counted based on size and intensity criteria.
+Incubation with C3bot 26mer enhanced the level of connec-
+tivity by about 50% (Fig. 2b and c). Accompanying Western
+blot analysis confirmed an increased expression of synapt-
+ophysin together with a higher level of dendritic Map2
+expression in cultures treated with C3bot 26mer (Fig. 2d).
+Despite its beneficial effects at least on axonal morphology
+C3bot 15mer was without effect on the number of synaptic
+inputs (Fig. 2e). Also, incubation with C3bot 20mer or
+C3bot 12mer did not result in any detectable effects on
+general synaptic connectivity in culture as tested for non-
+transfected neurons (Figure S1, C3bot 26mer was used as
+positive control). To investigate the efficacy of C3bot
+peptides to act also on growth-inhibitory substrate we
+cultivated hippocampal cultures on extracellular matrix
+constituents such as chondroitinsulfate proteoglycans
+(CSPG), which are strongly secreted in response to lesions
+of the CNS. CSPGs are known to act as RhoA activators
+(Schweigreiter et al. 2004). The growth of hippocampal
+neurons on CSPG substrate exhibited a reduced morpholog-
+ical complexity (Fig. 2f) and, presumably as a consequence
+of that, also expressed less synaptic contacts than neurons
+grown on normal substrate (Fig. 2g). Incubation with C3bot
+26mer, but not C3bot 15mer, however, prevented this CSPG-
+induced loss of synaptic contacts (Fig. 2g). So, albeit lacking
+Fig. 1 Effects of C3bot peptides on the
+morphology of hippocampal neurons. (a)
+Schematic illustration of the various pep-
+tides generated from the sequence of
+clostridial C3 transferase (C3bot).
+C3bot181–211 was expressed as re-
+combinant protein, all other peptides were
+synthetically manufactured. ARTT: ADP-
+ribosylation toxin-turn-turn motif; E174:
+catalytic glutamate at position 174. (b)
+Hippocampal neurons were prepared at
+embryonic day 16 and cultivated for 4 days
+under serum-free conditions with 50 nM of
+C3bot 29mer E174Q. Neurons were fixed
+and double stained for neurofilament pro-
+tein (NFP) as axonal and microtubule
+associated protein 2 (Map2) as dendritic
+marker. Axonal and dendritic process
+length and branch nodes were morpho-
+metrically quantified using Neurolucida
+software. Incubation with C3bot 29mer
+E174Q significantly increased axonal length
+and dendritic length but did not significantly
+affect branching. (c, d) Application of the
+31mer and further shortened peptides for
+4 days at 50nM. Incubation with C3bot
+26mer significantly increased all parame-
+ters. C3bot 15mer had beneficial effects on
+axonal length and branching. C3bot 31mer,
+20mer and 12mer were without significant
+effects. N = 3 or more experiments, data
+were taken from a representative experi-
+ment. Data shown are from 25 neurons per
+condition. Statistical significance was veri-
+fied using Student’s t-test. *p < 0.05;
+**p < 0.005; ***p < 0.001. (e) Photomicro-
+graphs illustrating the effects of the different
+peptides in double-stained hippocampal
+culture.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+1088 | P. Loske et al.
+enzymatic activity to inhibit Rho proteins, C3bot 26mer
+seems to mediate its effects on synaptic connectivity by
+interference with RhoA activation.
+Organotypical brain slice culture is an established model
+to evaluate the influence of drugs on axonal outgrowth or re-
+innervation (Hechler et al. 2010; Schmitt et al. 2010). It
+(a) (b)
+(c)
+(f)
+(d) (e)
+(g)
+Fig. 2 C3bot 26mer but not C3bot 15mer increases the number of
+synaptic connections in hippocampal culture. (a) Sample pictures of an
+eGFP-transfected hippocampal neuron at DIV 6 immunostained
+against green fluorescent protein (GFP) and the synaptic marker
+protein synaptophysin (SyP). The number of synaptophysin-positive
+inputs was quantified on proximal dendrites within a circular region of
+interest at a radius of 50 lm centered on the soma of the cell. The
+boxed area in the merged picture is enlarged and depicts typical
+synaptophysin-positive terminals (arrowheads) contacting dendrites of
+the transfected neuron. (b) Histogram of data from neurons treated for
+4 days with 50 nM C3bot 26mer indicating the relative occurrence of
+SyP terminals within individual regions of interest. Terminal counts
+were class-divided (nine classes, x-axis) and plotted against the per-
+centage of neurons that exhibited the respective number of counts
+(probability of occurrence in %). C3bot 26mer shifts the number of
+inputs to higher values. N = 3 or more experiments, data were taken
+from a representative experiment. Data shown are from 45 (control)
+and 63 neurons (C3bot 26mer). (c) C3bot significantly increases the
+number of SyP terminals by around 50% compared with untreated
+neurons. Primary data were the same as in panel (b). (d) Western blot
+analysis of the effects of 50 nM C3bot 26mer on the expression of
+Map2 and synaptophysin. Both proteins were found to be up-regulated
+and support the observations shown in Fig. 1c and the current figure.
+(e) In contrast to C3bot 26mer, the shorter peptide C3bot 15mer
+(50 nM) did not affect the number of synaptophysin-expressing ter-
+minals. N = 3 or more experiments, data were taken from a repre-
+sentative experiment. Data shown are from 29 (control) and 30
+neurons (C3bot 15mer). Experiments were repeated at least three
+times. (f, g) Parallel cultures were cultivated on growth-inhibitory
+chondroitinsulfate proteoglycans (CSPG) substrate and synaptic
+contacts were counted. Incubation with C3bot 26mer was able to
+prevent the observed strong down-regulation of synaptic inputs in
+cultures grown on CSPG substrate. C3bot 15mer was without effect.
+N = 3 or more experiments, data were taken from a representative
+experiment. Data shown are from 68 (control), 45 (control CSPG), 28
+(C3bot 26mer CSPG) and 24 neurons (C3bot 15mer CSPG) respec-
+tively. (c, g) Statistical significance was verified using Student’s t-test.
+***p < 0.001.
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+C3 peptide-mediated synaptic connectivity | 1089
+resembles more closely the in vivo situation than dissociation
+culture since all the cell populations of the brain are present
+in the brain explants, and additionally it allows for a more
+exact control of experimental conditions than in the animal
+model. Murine entorhinal cortex explant cultures (Fig. 3a
+and b) were then incubated with medium only, C3bot 26mer
+or C3bot 15mer for 48 h. Subsequently, the number of
+outgrowing axons comprising the perforant path in the intact
+brain was quantified. Incubation with C3bot 26mer enhanced
+the number of axons by 35% compared with control
+conditions (Fig. 3c and d). Treatment with C3bot 15mer on
+the other hand was without any effect. Another organotypical
+culture system was used to investigate the growth-promoting
+effects of C3bot peptides: we applied an eGFP/wild-type
+co-culture model that combines the entorhinal cortex of a
+b-actin-eGFP mouse with the hippocampus of a wild-type
+mouse. eGFP-expressing axons of the perforant path were
+clearly detectable and quantifiable in the non-fluorescent
+wild-type hippocampus. Slices were treated as described for
+the outgrowth model. An increased re-innervation of the
+hippocampus by perforant path fibers was detected after
+application of C3bot 26mer (measured as an increase in
+fluorescence intensity by 50%). Again, no effects were
+observed for C3bot 15mer (Fig. 3e and f).
+In the light of these findings, we refrained from a further
+use of C3bot 15mer and, instead, applied the more
+promising 26mer in the subsequent in vivo experiments.
+Using either compression injury model of the spinal cord or
+a dorsal hemisection lesion paradigm at thoracic level T8
+we tested for beneficial effects of C3bot 26mer on the
+(a)
+(e) (f)
+(b) (d)
+(c)
+Fig. 3 C3bot 26mer promotes axon outgrowth and re-innervation in
+organotypical brain slice cultures. Organotypical brain slices from
+entorhinal cortex (EC) were cultivated for 48 h with no additions or
+50 nM of C3bot 26mer and C3bot 15mer. (a) Schematic drawing of the
+EC-hippocampus formation with the localization of the cutting lesion.
+CA: Cornu ammonis; DG: dentate gyrus; Fi: fimbra hippocampi; PP:
+perforant path; Su: subiculum. (b) Sample picture of an entorhinal
+cortex explant under dark field illumination. Re-growing perforant path
+fibers are clearly visible. (c) Analysis of axonal density as measured by
+the number of outgrowing axons (see Materials and methods section).
+Values under control conditions were set as 100%. Application of
+C3bot 26mer, but not C3bot 15mer, resulted in highly significant
+beneficial effects on axon counts. N = 3 or more experiments. Data
+are shown form n = 61 (control), n = 55 (C3bot 26mer), and n = 34
+brain slices (C3bot 15mer) Statistical significance was verified using
+Student’s t-test. ***p < 0.001. (d) Under phase contrast optics out-
+growing axons (arrowheads) comprising the perforant path in the intact
+animal were clearly observable. The micrographs demonstrate an
+enhanced outgrowth after application of C3bot 26mer. (e) C3bot
+26mer, but not C3bot 15mer sigificantly enhanced the moderate re-
+growth observed under control conditions by 50%. (f) Re-innervation of
+the hippocampus by perforant path fibers: b-actin-eGFP expressing
+entorhinal cortex (EC) from a transgenic mouse was co-cultured with a
+littermate wild-type hippocampus (HC). Ingrowth of green fluorescent
+axons of the perforant path (PP) to the HC was followed after appli-
+cation of C3bot 26mer or C3bot 15mer (both at 50 nM) for 48 h. n = 12
+(control), n = 10 (26mer), n = 13 (15mer). Statistical significance was
+verified using Student’s t-test. **p < 0.005.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+1090 | P. Loske et al.
+regain of motor function in the BMS open field test (Basso
+et al. 1995) and Rotarod experiments as a forced movement
+test system. Animals were operated and gel-foam patches
+soaked with 5 lL of 40 lM C3bot 26mer (790 ng/
+animal) or PBS were applied directly at the injury site on
+top of the perforated dura. The gelfoam patch remained in
+the animals for the entire time of investigation. According
+to the BMS behavioural tests, animals treated with the
+peptide showed an improved recovery from both types of
+injury than mice that received PBS only (Fig. 4a and b).
+After both contusion injury and spinal hemisection, mice
+gained relatively constant score points two weeks after
+surgery. Mice treated with C3bot 26mer reached values 1.5
+score points higher than the control group. As previously
+shown (Boato et al. 2010) this model of dorsal hemisection
+in general represented a more severe form of lesion. A
+beneficial effect of the C3bot peptide on locomotor
+recovery was also detectable in the Rotarod experiments,
+and in case of hemisection it reached significance (Fig. 4c
+and d). Following hemisection, motor performance of either
+group was more affected than after contusion injury,
+confirming the BMS data.
+For the 29mer, enhanced recovery of motor function
+following SCI was reflected by an improved serotonergic
+input to lumbar motoneurons, a part of them being engaged
+in hind limb muscle control (Boato et al. 2010). In this
+context, we asked whether incubation with C3bot 26mer (and
+C3bot 29mer) also had an effect on inhibitory GABA- and
+glycinergic input to these neurons after spinal hemisection. In
+this injury model fiber tracts are transected and allow for the
+study of neuronal plasticity and regeneration. Following
+completion of the behavioural experiments shown before,
+spinal cord sections were stained for the vesicular GABA /
+glycine transporter VGAT and 5-HT. First, we counted
+VGAT-positive spots contacting the somata of lumbar a-
+motoneurons at levels L1-L2 in the ventral horn (Fig. 5a and
+b). However, no detectable alterations in the average number
+of inhibitory inputs were detected after treatment with C3bot
+26mer. This holds true also for C3bot 29mer (data not
+shown). On the other hand, quantification of serotonergic
+boutons contacting these motoneurons revealed a 2-fold
+increase after treatment with this peptide (Fig. 5c).
+Next, we addressed the question whether treatment with
+C3bot peptides impacts on RhoA activation in the spinal
+Fig. 4 Local application of C3bot 26mer improves locomotor resto-
+ration following spinal cord injury by compression or hemisection. Mice
+were subjected to two different experimental spinal cord injury (SCI)
+models. At thoracic level T8, either a compression injury or a dorsal
+hemisection were conducted. Mice were allowed to recover for
+approximately three weeks. The regain of motor function was evalu-
+ated by open field and forced movement tests. (a, b) C3bot 26mer
+application (40 lM/5 lL) significantly increased the performance
+according to the Basso Mouse Scale using either lesion paradigm.
+Note that hemisection resulted in a more severe motor impairment.
+Statistical significance was verified using two-way ANOVA. compres-
+sion: ***F6–16 (1, 10) = 2,589; p < 0.001; n = 9 (PBS), n = 10
+(26mer); hemisection: ***F7–21 (1, 5) = 3,517; p < 0.0001; n = 6
+(PBS), 7 (26mer). (c, d) Motor restoration according to Rotarod
+experiments starting five days after injury. C3bot 26mer application
+increased the latency time until mice jumped off the Rotarod especially
+following hemisection. Two-way ANOVA: **F7–21(1, 5) = 4,21; p <
+0.001; n = 6 (PBS), n = 7 (26mer).
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+C3 peptide-mediated synaptic connectivity | 1091
+cord after lesion. This issue was tested for the hemisection
+model. By performing pull-down assays we analysed active
+(GTP-bound) RhoA levels from lysates of spinal cord
+fragments that included the lesion area (Fig. 6a) or the
+laminectomy site in sham-operated animals. Two time points
+were chosen, one at 24 h and the other at 7 days after
+surgery. In addition to C3bot 26mer, C3bot 29mer was also
+tested in vivo because of its known effect on RhoA
+activation in vitro.
+As expected, active RhoA (RhoA-GTP) showed a ten-
+dency to be up-regulated 24 h after surgery compared with
+sham-operated mice that exhibited only weak RhoA-GTP
+signals (Fig. 6b and c). However, the two peptides did not
+clearly affect RhoA activation. However, RhoA activation
+was still prominent 7 days after surgery in PBS animals but
+was clearly reduced in mice that received treatment with
+C3bot 26mer or 29mer (Fig. 6b and c).
+In conclusion, we were able to show in this study that a
+fragment of C3bot covering 26 amino acid residues is able to
+stimulate neuronal outgrowth and connectivity in different in
+vitro and in vivo systems. A further truncation of the
+fragment to 15 amino acid residues largely constricts the
+neuronal growth promoting effects. Other peptides were
+completely inactive in the experimental settings applied.
+Discussion
+The primary goal of the present study was to investigate the
+minimum length of Clostridium botulinum C3 transferase to
+sufficiently exhibit beneficial effects on neuronal process
+growth, connectivity and regeneration following CNS lesion.
+Additionally, interactions with putative downstream partners
+such as the small GTPase RhoA, generally considered as a
+negative regulator of neuronal regeneration, were examined.
+The data reveal that a 26-amino acid fragment from C3bot
+encompassing the residues 156–181 is sufficient to produce
+promoting effects in a wide range of experimental settings
+dealing with neuronal growth and interaction. Behavioural
+experiments indicate that treatment of SCI-injured mice with
+this fragment results in improved locomotor restoration
+probably involving C3bot peptide-mediated reduced RhoA
+activation in the spinal cord. Further shortening of the
+peptide resulted in partial or even complete loss of activity in
+the applications tested.
+(a)
+(b) (c)
+Fig. 5 C3bot 26mer enhances the number of 5HT-positive boutons
+contacting lumbar a-motoneurons. (a) Photomicrographs showing
+double staining for VGAT and serotonin (5-hydroxytryptamine, 5-HT) at
+lumbar segments L1–L2 from mice injured by spinal cord hemisection
+(treated with PBS for control or C3bot 26mer) 3 weeks after injury.
+Arrowheads depict VGAT contacts on a-motoneurons, arrows show 5-
+HT contacts. vh: ventral horn; vfu: ventral funiculus. (b) Quantification of
+VGAT contacts to lumbar a-motoneurons normalized to the cell body
+perimeter. C3bot 26mer did not alter the number of inhibitory contacts.
+N = 4 (control) and 3 animals (C3bot 26mer). Data shown are from 16
+sections (control) and 13 sections (C3bot 26mer). (c) The number of
+5HT-positive boutons was analyzed for C3bot 26mer. In contrast to
+VGAT contacts, the counts of 5-HT contacts were enhanced by C3bot
+26mer. N = 3 animals (control and C3bot 26mer). 13 sections (control)
+and 12 sections (C3bot 26mer) were analyzed. Statistical significance
+was verified using Student’s t-test. ***p < 0.001.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+1092 | P. Loske et al.
+Morphological measurements
+First, we addressed the question whether the exact amino
+acid sequence covering the so-called ARTT-loop (Han et al.
+2001) included in all the peptides used is essential even
+for its non-enzymatic action. Application of C3bot 29mer
+with glutamate 174 exchanged still exhibited promoting
+effects on process elongation comparable to the initially
+designed 29mer, effects by the modified 29mer on axonal
+and dendritic branching, however, were not significant
+(for comparison, see Höltje et al. 2009). Noteworthy,
+elongation and branching crucial for network assembly are
+distinct mechanisms that are differentially regulated (Kalil
+et al. 2000; Hall and Lalli 2010). Branching mechanisms
+often include Rac activity (Albertinazzi et al. 1998) and
+Cdc42-governed filopodia extension (Kakimoto et al. 2006)
+that are obviously not affected by this peptide. For dendrite
+branching, that was promoted by C3bot 26mer, it was shown
+that activated RhoA acts to inhibit expression of a protein
+named cypin and, by doing so, decreases dendrite complexity
+(Chen and Firestein 2007).The observation that C3bot 12mer
+(identical to the ARTT loop) representing the shortest
+peptide used exhibited no activity on cultured neurons
+(a)
+(b)
+(c)
+Fig. 6 Prevention of sustained RhoA activation by C3bot peptides
+C3bot 26mer and 29mer. RhoA pull-down experiments were per-
+formed from spinal cord lysates to investigate the influence of C3bot
+peptides on active RhoA levels following spinal cord injury by hemi-
+section. (a) Photomicrograph illustrating the lesion generated by
+hemisection. A longitudinal spinal cord section was stained for glial
+acidic fibrillary protein (GFAP), an astroglial marker used to visualize
+the lesion. Pieces of the spinal cord that included the lesion area
+(arrow) were used for pull-down experiments. (b) Spinal cord frag-
+ments were obtained from mice injured by spinal cord injury 24 h or
+7 days following surgery. Tissue lysates were subjected to rhotekin
+pull-down assays to detect active RhoA levels (RhoA-GTP). Active
+RhoA levels were increased 24 h after surgery in PBS, 29mer-
+(C3bot154–182), and C3bot 26mer-treated mice compared with sham-
+operated animals. Sustained RhoA activation was still detected one
+week after injury in PBS animals, which was reduced in mice treated
+with the C3bot peptides. Proper assay function was controlled by
+addition of the non-hydrolyzable G protein activator GTPcS as positive
+control and GDP as negative control to lysates from a sham-operated
+mouse. (c) Quantification of RhoA-GTP levels by LabImage software
+(Kapelan Bio-Imaging GmbH, Leipzig, Germany). RhoA signals were
+calculated and normalized to actin signals used as loading controls.
+N = 3 animals for each condition. Statistical significance was verified
+using Student’s t-test with *p < 0.05.
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+C3 peptide-mediated synaptic connectivity | 1093
+further underlines the fact that the exact ARTT loop alone is
+not sufficient for enzyme-independent neurotrophic action.
+Also, regions closer to the C-terminal end of C3bot do not
+seem to contribute to the beneficial effects because the C-
+terminal 31mer was without effects. An open question
+remains, why the 15mer, but not the 20mer, exhibited
+axonotrophic activity. This was surprising, since the 20mer
+includes the 15mer sequence. Most likely the three-dimen-
+sional structure of the peptide or the property to dimerize/
+oligomerize is the basis for the axonotrophic activity.
+We were able to show that C3bot 26mer (and C3bot
+29mer) can inhibit RhoA activation. The fact, that C3bot
+26mer promotes axon outgrowth and re-innervation in
+organotypical culture systems further strengthens the data
+already obtained for the 29mer (Höltje et al. 2009) and
+confirms the effects observed in dissociation culture for more
+complex culture systems. Interestingly, the 15-amino acid
+fragment was without effect in brain slice culture despite its
+effectiveness on axon growth in primary dissociation culture.
+Given the working hypothesis that C3bot peptides bind to a
+neuronal receptor structure to achieve their effects (reviewed
+in Just et al. 2011) one must assume that the 15mer falls
+below a critical length for acting as a ligand, at least for
+receptors expressed on the surface of neurons cultivated in
+their organotypical context, obtained from postnatal animals
+(dissociation cultures represent neurons prepared at embry-
+onic stage).
+Synaptic connectivity
+Analysis of synaptic connectivity in primary culture revealed
+promoting effects of C3bot 26mer, but not C3bot 15mer (or
+other peptides ineffective also in morphometrical measure-
+ments) on the number of synaptic inputs. The observed
+higher number of synaptic contacts corresponds with the
+increased dendritic length and branching detected after
+application of C3bot 26mer, a phenomenon that was not
+seen in cultures treated with C3bot 15mer. The effects on
+synaptophysin and Map2 elicited by the 26mer were also
+evident when analysed by Western blot analysis. Moreover,
+treatment with C3bot 26mer prevented CSPG-mediated
+down-regulation of synaptic inputs. Inhibitory effects of
+extracellular matrix components such as CSPG achieve their
+inhibitory effects on neuronal growth largely by signalling
+pathways which converges on RhoA activation (Schweigre-
+iter et al. 2004). In accordance to our observations for axonal
+and dendritic growth of cultivated hippocampal neurons in
+the current study and in our earlier observation (Boato et al.
+2010), it was shown that CSPG treatment can result in a
+strong reduction of neuronal growth by up to 50% (Shen
+et al. 2009). So, it appears very likely that the observed
+reduced synaptic input in cultures grown on CSPG without
+peptide reflects the reduced possibility to establish inter-
+neuronal connections in the absence of an extensive network
+of neuronal processes. However, impairment of RhoA
+signalling by C3bot 26mer seems to be a likely mechanism
+by which its beneficial effects on (functional) neuronal
+outgrowth are achieved.
+In addition to the in vitro experiments, effects of C3bot
+26mer on neuronal connectivity were also investigated for
+the input to lumbar a-motoneurons after spinal cord injury in
+mice. In a previous study we were able to show that
+application of C3bot154)182 (C3bot 29mer) enhances the
+number of regenerating corticospinal fibers following tho-
+racic SCI (Boato et al. 2010). Complementing the improved
+regenerational growth of glutamatergic corticospinal fibers
+(Rekling et al. 2000), we detected a higher number of
+serotonergic inputs to lumbar motoneurons in animals treated
+with C3bot 29mer. Serotonergic brainstem fibers set spinal
+motoneurons in an excitable state rendering them ready to
+cause muscle contraction mainly by activation of 5-HT2C
+receptors, regulating persisting Ca2+ and Na+ currents (Li
+et al. 2007; Murray et al. 2010). In the present study, we
+could show a positive effect for C3bot 26mer on serotonergic
+input to lumbar a-motoneurons, but we were unable to detect
+changes in inhibitory GABAergic/glycinergic input to these
+neurons in mice treated with C3bot 26mer. One possible
+explanation for this differential outcome might be that the
+peptides were applied locally at the site of spinal cord injury
+(T8) 6–7 segments above the localization of the lumbar
+motoneurons (L1–L2). By using this form of application
+descending fibers that pass or regenerate through the thoracic
+lesion area might benefit from the peptide effect, rather than
+inhibitory fibers originating from local inhibitory interneu-
+rons localized to lumbar segments.
+Clinical outcome after spinal cord injury
+In this study, we used two different models of experimental
+spinal cord injury, compression injury and hemisection.
+While the former reflects the most frequent type of injury in
+humans (Sekhon and Fehlings 2001), the latter might
+produce a more defined lesion and is better suited to study
+truly regenerating fibers. The behavioural data clearly show
+an improved recovery of the treatment group (C3bot 26mer)
+compared with the control group after either form of lesion.
+This could reflect an increase in the intrinsic plasticity of the
+spinal cord axons resulting in regeneration of axotomized
+axons or collateral sprouting of unlesioned tracts. Alterna-
+tively, the effects could be due to enhanced sparing of spinal
+tissue, particularly in the case of the compression injury.
+Moreover, it can be assumed that the observed increase in
+serotonergic input to lumbar motoneurons in mice which
+underwent hemisection, results from enhanced regenerative
+growth of raphespinal fibers or increased neuroprotection
+mediated by the peptide, as observed in the case of C3bot
+29mer (Boato et al. 2010). A dominant role of serotonin for
+spinal motoneuron excitability has been demonstrated
+repeatedly (Harvey et al. 2006; Ung et al. 2008; Boido
+et al. 2009).
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+1094 | P. Loske et al.
+C3bot peptides and RhoA activation
+Despite the lack of ADP-ribosylating activity, C3bot peptide-
+mediated effects on neuronal outgrowth still seem to be
+based on Rho-dependent signaling mechanisms. Evidence
+for this comes from pull-down studies that detected a reduced
+RhoA activation in spinal cord tissue one week after
+experimental SCI in mice treated with C3bot 26mer and
+29mer. Up-regulation of Rho proteins following SCI is
+considered to be a p75 neurotrophin receptor-dependent
+process and represents a hallmark in the cellular responses to
+this type of injury (Yamashita and Tohyama 2003; Conrad
+et al. 2005; McKerracher and Higuchi 2006). Increased
+levels of activated RhoA seem to account to a great extent for
+axonal growth-inhibition following CNS lesions. So far, the
+exact molecular events resulting in RhoA inhibition by
+C3bot peptides remain elusive. Putative mechanisms include
+binding to a neuronal receptor to trigger intracellular
+signaling pathways. Alternatively, a putative receptor would
+only mediate uptake of C3bot peptides to act in an
+intracellular way. A direct non-enzymatic interaction of
+C3bot with intracellular targets was shown for the small
+GTPase RalA (Wilde et al. 2002), but can be excluded for
+C3bot peptides (I. Just, unpublished observations). Never-
+theless, non-enzymatic interaction of C3bot peptides with
+RhoA is also detectable in cultured hippocampal neurons
+(Boato et al. 2010) leading to the assumption that this indeed
+represents a general mechanism of action to promote
+neuronal outgrowth by short C3bot-derived peptides.
+Overall, the present study clearly demonstrates the high
+potential of the 26-amino acid peptide C3bot156)181 to
+stimulate the limited intrinsic repair mechanisms in the CNS
+after lesion. Further truncation of the peptide sequence
+results in substantial loss of function. It is conceivable, that
+the length of the peptides defines the range of activated
+cellular effectors. Compared with the use of wild-type C3
+exoenzyme, the use of neuron-specific enzyme-deficient C3
+peptides to stimulate neuronal growth processes seems to be
+favourable especially in the in vivo situation. Observations
+from our laboratory showed that application of C3bot wild
+type at equimolar dose to C3bot peptides after SCI resulted in
+serious unwanted side effects including death in half of the
+animals tested. Although the detailed reasons for this
+observation yet remain to be determined, it is tempting to
+assume that they are linked to ubiquitous effects mediated by
+C3bot on various cell types not shared by C3bot peptides.
+Acknowledgements
+The authors are indebted to Birgit Metze, Annemarie Löchner and
+Julia König for their engaged and skillful technical assistance. Work
+was supported by grants from the Deutsche Forschungsgemeins-
+chaft (DFG) to MH and GAH (HO 3249/2–1), IJ (JU 231/5–1) and
+SH (SPP1394). This study was also supported in part by grants from
+the Berlin-Brandenburg Center for Regenerative Therapies and the
+Flemish Research Council (FWO) to SH. All authors declare no
+conflicts of interest.
+Supporting information
+Additional supporting information may be found in the online
+version of this article:
+Figure S1. Treatment with C3bot 20mer or C3bot 12mer does
+not alter synaptic connectivity in hippocampal neurons.
+As a service to our authors and readers, this journal provides
+supporting information supplied by the authors. Such materials are
+peer-reviewed and may be re-organized for online delivery, but are
+not copy-edited or typeset. Technical support issues arising from
+supporting information (other than missing files) should be
+addressed to the authors.
+References
+Ahnert-Hilger G., Höltje M., Grosse G., Pickert G., Mucke C., Nixdorf-
+Bergweiler B., Boquet P., Hofmann F. and Just I. (2004) Differ-
+ential effects of Rho GTPases on axonal and dendritic development
+in hippocampal neurones. J. Neurochem. 90, 9–18.
+Aktories K. and Just I. (2005) Clostridial Rho-inhibiting protein toxins.
+Curr. Top. Microbiol. Immunol. 291, 113–145.
+Albertinazzi C., Gilardelli D., Paris S., Longhi R. and de Curtis I. (1998)
+Overexpression of a neural-specific rho family GTPase, cRac1B,
+selectively induces enhanced neuritogenesis and neurite branching
+in primary neurons. J. Cell Biol. 142, 815–825.
+Basso D. M., Beattie M. S. and Bresnahan J. C. (1995) A sensitive and
+reliable locomotor rating scale for open field testing in rats.
+J. Neurotrauma 12, 1–21.
+Basso D. M., Fisher L. C., Anderson A. J., Jakeman L. B., McTigue D.
+M. and Popovich P. G. (2006) Basso Mouse Scale for locomotion
+detects differences in recovery after spinal cord injury in five
+common mouse strains. J. Neurotrauma 23, 635–659.
+Bertrand J., Di Polo A. and McKerracher L. (2007) Enhanced survival
+and regeneration of antagonists. Neurobiol. Dis. 25, 65–72.
+Boato F., Hendrix S., Huelsenbeck S. C. et al. (2010) C3 peptide en-
+hances recovery from spinal cord injury by improved regenerative
+growth of descending fiber tracts. J. Cell Sci. 123, 1652–1662.
+Boido M., Rupa R., Garbossa D., Fontanella M., Ducati A. and Vercelli
+A. (2009) Embryonic and adult stem cells promote raphespinal
+axon outgrowth and improve functional outcome following spinal
+hemisection in mice. Eur. J. Neurosci. 30, 833–846.
+Chen H. and Firestein B. L. (2007) RhoA regulates dendrite branching in
+hippocampal neurons by decreasing cypin protein levels. J. Neu-
+rosci. 27, 8378–8386.
+Conrad S., Schluesener H. J., Trautmann K., Joannin N., Meyermann R.
+and Schwab J. M. (2005) Prolonged lesional expression of RhoA
+and RhoB following spinal cord injury. J. Comp. Neurol. 487,
+166–175.
+Dergham P., Ellezam B., Essagian C., Avedissian H., Lubell W. D. and
+McKerracher L. (2002) Rho signaling pathway targeted to promote
+spinal cord repair. J. Neurosci. 22, 6570–6577.
+Dubreuil C. I., Winton M. J. and McKerracher L. (2003) Rho activation
+patterns after spinal cord injury and the role of activated Rho in
+apoptosis in the central nervous system. J. Cell Biol. 162, 233–243.
+Hall A. and Lalli G. (2010) Rho and Ras GTPases in axon growth,
+guidance, and branching. Cold Spring Harb. Perspect. Biol. 2,
+a001818.
+Han S., Arvai A. S., Clancy S. B. and Tainer J. A. (2001) Crystal
+structure and novel recognition motif of rho ADP-ribosylating C3
+ 2012 The Authors
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+C3 peptide-mediated synaptic connectivity | 1095
+exoenzyme from Clostridium botulinum: structural insights for
+recognition specificity and catalysis. J. Mol. Biol. 305, 95–107.
+Harvey P. J., Li X., Li Y. and Bennett D. J. (2006) 5-HT2 receptor
+activation facilitates a persistent sodium current and repetitive fir-
+ing in spinal motoneurons of rats with and without chronic spinal
+cord injury. J. Neurophysiol. 96, 1158–1170.
+Hechler D., Nitsch R. and Hendrix S. (2006) Green-fluorescent-protein-
+expressing mice as models for the study of axonal growth and
+regeneration in vitro. Brain Res. Rev. 52, 160–169.
+Hechler D., Boato F., Nitsch R. and Hendrix S. (2010) Differential
+regulation of axon outgrowth and reinnervation by neurotrophin-3
+and neurotrophin-4 in the hippocampal formation. Exp. Brain Res.
+205, 215–221.
+Henneberger C., Jüttner R., Schmidt S. A., Walter J., Meier J. C., Rothe
+T. and Grantyn R. (2005) GluR- and TrkB-mediated maturation of
+GABA receptor function during the period of eye opening. Eur. J.
+Neurosci. 2, 431–440.
+Höltje M., Djalali S., Hofmann F. et al. (2009) A 29-amino acid fragment
+of Clostridium botulinum C3 protein enhances neuronal outgrowth,
+connectivity, and reinnervation. FASEB J. 23, 1115–1126.
+Jin Z. and Strittmatter S. M. (1997) Rac1 mediates collapsin-1-induced
+growth cone collapse. J. Neurosci. 17, 6256–6263.
+Just I., Rohrbeck A., Huelsenbeck S. C. and Hoeltje M. (2011) Thera-
+peutic effects of Clostridium botulinum C3 exoenzyme. Naunyn
+Schmiedebergs Arch. Pharmacol. 383, 247–252.
+Kakimoto T., Katoh H. and Negishi M. (2006) Regulation of neuronal
+morphology by Toca-1, an F-BAR/EFC protein that induces
+plasma membrane invagination. J. Biol. Chem. 281, 29042–29053.
+Kalil K., Szebenyi G. and Dent E. W. (2000) Common mechanisms
+underlying growth cone guidance and axon branching. J. Neuro-
+biol. 44, 145–158.
+Lehmann M., Fournier A., Selles-Navarro I., Dergham P., Sebok A.,
+Leclerc N., Tigyi G. and McKerracher L. (1999) Inactivation
+of Rho signaling pathway promotes CNS axon regeneration.
+J. Neurosci. 19, 7537–7547.
+Li X., Murray K., Harvey P. J., Ballou E. W. and Bennett D. J. (2007)
+Serotonin facilitates a persistent calcium current in motoneurons of
+rats with and without chronic spinal cord injury. J. Neurophysiol.
+97, 1236–1246.
+McKerracher L. and Higuchi H. (2006) Targeting Rho to stimulate repair
+after spinal cord injury. J. Neurotrauma 23, 309–317.
+Ménétrey J., Flatau G., Boquet P., Ménez A. and Stura E. A. (2008)
+Structural basis for the NAD-hydrolysis mechanism and the
+ARTT-loop plasticity of C3 exoenzymes. Protein Sci. 17, 878–
+886.
+Müllner A., Gonzenbach R. R., Weinmann O., Schnell L., Liebscher T.
+and Schwab M. E. (2008) Lamina-specific restoration of seroto-
+nergic projections after Nogo-A antibody treatment of spinal cord
+injury in rats. Eur. J. Neurosci. 27, 326–333.
+Murray K. C., Nakae A., Stephens M. J. et al. (2010) Recovery of
+motoneuron and locomotor function after spinal cord injury
+depends on constitutive activity in 5-HT2C receptors. Nat. Med.
+16, 694–700.
+Rekling J. C., Funk G. D., Bayliss D. A., Dong X. W. and Feldman J. L.
+(2000) Synaptic control of motoneuronal excitability. Physiol. Rev.
+80, 767–852.
+Schmitt K. R., Kern C., Lange P. E., Berger F., Abdul-Khaliq H. and
+Hendrix S. (2007) S100B modulates IL-6 release and cytotoxicity
+from hypothermic brain cells and inhibits hypothermia-induced
+axonal outgrowth. Neurosci. Res. 59, 68–73.
+Schmitt K. R., Boato F., Diestel A., Hechler D., Kruglov A., Berger F. and
+Hendrix S. (2010) Hypothermia-induced neurite outgrowth is med-
+iated by tumor necrosis factor-alpha. Brain Pathol. 20, 771–779.
+Schweigreiter R., Walmsley A. R., Niederöst B., Zimmermann D. R.,
+Oertle T., Casademunt E., Frentzel S., Dechant G., Mir A. and
+Bandtlow C. E. (2004) Versican V2 and the central inhibitory do-
+main of Nogo-A inhibit neurite growth via p75NTR/NgR-indepen-
+dent pathways that converge at RhoA.Mol. Cell. Neurosci. 27, 163–
+174.
+Sekhon L. H. and Fehlings M. G. (2001) Epidemiology, demographics,
+and pathophysiology of acute spinal cord injury. Spine 26(24
+Suppl.) 2–12.
+Shen Y., Tenney A. P., Busch S. A., Horn K. P., Cuascut F. X., Liu K.,
+He Z., Silver J. and Flanagan J. G. (2009) PTPsigma is a receptor
+for chondroitin sulfate proteoglycan, an inhibitor of neural regen-
+eration. Science 326(5952), 592–596.
+Sheng H., Wang H., Homi H. M., Spasojevic I., Batinic-Haberle I.,
+Pearlstein R. D. and Warner D. S. (2004) A no-laminectomy spinal
+cord compression injury model in mice. J. Neurotrauma 21, 595–
+603.
+Sieber-Blum M., Schnell L., Grim M., Hu Y. F., Schneider R. and
+Schwab M. E. (2006) Characterization of epidermal neural crest
+stem cell (EPI-NCSC) grafts in the lesioned spinal cord. Mol. Cell.
+Neurosci. 32, 67–81.
+Simonen M., Pedersen V., Weinmann O., Schnell L., Buss A., Leder-
+mann B., Christ F., Sansig G., van der. Putten. H. and Schwab M.
+E. (2003) Systemic deletion of the myelin-associated outgrowth
+inhibitor Nogo-A improves regenerative and plastic responses after
+spinal cord injury. Neuron 38, 201–211.
+Ung R. V., Landry E. S., Rouleau P., Lapointe N. P., Rouillard C. and
+Guertin P. A. (2008) Role of spinal 5-HT2 receptor subtypes in
+quipazine-induced hindlimb movements after a low-thoracic spinal
+cord transection. Eur. J. Neurosci. 28, 2231–2242.
+Vogelsgesang M., Pautsch A. and Aktories K. (2007) C3 exoenzymes,
+novel insights into structure and action of Rho-ADP-ribosylating
+toxins. Naunyn Schmiedebergs Arch. Pharmacol. 374, 347–360.
+Wilde C., Barth H., Sehr P., Han L., Schmidt M., Just I. and Aktories K.
+(2002) Interaction of the Rho-ADP-ribosylating C3 exoenzyme
+with RalA. J. Biol. Chem. 277, 14771–14776.
+Yamashita T. and Tohyama M. (2003) The p75 receptor acts as a dis-
+placement factor that releases Rho from Rho-GDI. Nat. Neurosci.
+6, 461–467.
+Journal of Neurochemistry  2012 International Society for Neurochemistry, J. Neurochem. (2012) 120, 1084–1096
+ 2012 The Authors
+1096 | P. Loske et al.

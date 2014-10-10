@@ -1,0 +1,911 @@
+aSchool, 30625 Hannover, Germany
+many
+ve Surger
+e Department of Neurology and Center for Neuroscience a
+a r t i c l e i n f o
+Article history:
+Experimental Neurology 229 (2011) 80–87
+Contents lists available at ScienceDirect
+Experimental
+j ourna l homepage: www.e lsev ie r.com/ locate /yexnrprocedures. This article is part of a Special Issue entitled: Understanding olfactory ensheathing glia and their
+prospect for nervous system repair.
+© 2010 Elsevier Inc. All rights reserved.
+Contents
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+In vitro proliferation and mitogens for OECs and SCs from different species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Growth, differentiation, and immortalization of OECs and SCs from different species in long-term culture . . . . . . . . . . . . . . . . . . . . . 84
+Transplantation and in vivo effects OECs and SCs from different species . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85⁎ Corresponding author. Department of Pathology, Un
+Hannover, Bünteweg 17, 30559 Hannover, Germany. Fa
+E-mail address: konstantin.wewetzer@tiho-hannove
+0014-4886/$ – see front matter © 2010 Elsevier Inc. Al
+doi:10.1016/j.expneurol.2010.08.029experimental in vivo studies in large animals are essential to fully define the axonal growth-promoting
+potential of OECs and SCs. Based on the homology of the in vitro growth control between porcine, canine and
+human glia, it is concluded that these species may serve as valuable translational models for scaling up humanReceived 30 June 2010
+Accepted 22 August 2010
+Available online 15 September 2010
+Keywords:
+Cell transplantation
+Spinal cord injury
+OECs
+SCs
+Translational research
+Immortalization
+Autologous transplantation
+Regenerationnd Regeneration Research, Yale University School of Medicine, New Haven, CT 06510, USA
+a b s t r a c t
+Autologous transplantation of olfactory ensheathing cells (OECs) and Schwann cells (SCs) is considered a
+promising option to promote axonal regrowth and remyelination after spinal cord injury in humans.
+However, if the experimental data from the rodent model can be directly extrapolated to humans, as widely
+believed, remains to be established. While limitations of the rodent system have recently been discussed with
+regard to the distinct organization of the motor systems, the question whether OECs and SCs may display
+species-specific properties has not been fully addressed. Prompted by recent studies on canine and porcine
+glia, we performed a detailed analysis of the in vitro and in vivo properties of OECs and SCs and show that
+rodent but not human, monkey, porcine, and canine glia require mitogens for in vitro expansion, display a
+complex response to elevated intracellular cAMP, and undergo spontaneous immortalization upon prolonged
+mitogen stimulation. These data indicate fundamental inter-species differences of the control of cellular
+proliferation. Whether OECs and SCs from large animals and humans share growth-promoting in vivo
+properties with their rodent counterpart is not yet clear. Autologous implantation studies in humans did not
+reveal adverse effects of cell transplantation so far. However, in vivo studies of large animal or human glia and
+rodent recipients mainly focused on the remyelinating potential of the transplanted cells. Thus, furtherIntroduction
+Many differe
+implantation of
+iversity of Veterinary Medicine
+x: +49 511 953 8675.
+r.de (K. Wewetzer).
+l rights reserved.c Center of Systems Neuroscience, Hannover, Ger
+d Department of Plastic, Hand- and Reconstructi y, Hannover Medical School, 30625 Hannover, GermanyDepartment of Pathology, University of Veterinary Medicine, 30559 Hannover, Germany
+b Department of Functional and Applied Anatomy, Center of Anatomy, Hannover MedicalKonstantin Wewetzer a,b,c,⁎, Christine Radtke d, JefferReview
+Species-specific control of cellular proliferation and the impact of large animal
+models for the use of olfactory ensheathing cells and Schwann cells in spinal
+cord repair
+y Kocsis e, Wolfgang Baumgärtner a,cNeurologynt in vivo studies have provided evidence that
+olfactory ensheathing cells (OECs) and Schwann
+cells (SCs) into the lesioned central and peripheral nervous system
+promotes both axonal regeneration and remyelination (Lankford
+et al., 2002; Wewetzer et al., 2002; Santos-Benito and Ramón-Cueto
+2003; Lavdas et al., 2008). Thus, transplantation of growth-promoting
+glia, such as OECs and SCs is considered a promising option for the
+treatment of nervous system injury and disease (Kocsis, 1999;
+Franssen et al., 2007, Radtke et al., 2010b). However, due to the
+limited availability of human tissue, the vast majority of studies have
+been carried out in rodents and very little is known about human
+OECs and SCs (Radtke and Wewetzer, 2009). Currently, we face a
+situationwhere awealth of experimental data from rodents faces only
+few clinical phase I studies in humans (Féron et al., 2005; Lima et al.,
+2006, 2010; Mackay-Sim et al., 2008). So far only a few investigations
+used glia from large animals to study the regenerative capacity of
+OECs and SCs within the same experimental paradigm (for review, see
+Wewetzer et al., 2002; Wewetzer and Brandes, 2006). This is due to
+the fact that research on the regenerative potential of OECs and its
+translation into clinical practice in the past has been dominated by
+two main assumptions. First, it is generally believed that OECs, which
+are associated in situ with olfactory neurons entering the olfactory
+bulb throughout life-time (Graziadei and Monti Graziadei, 1985,
+Raisman, 1985) display unique regenerative properties that are
+superior to the ones of SCs from the peripheral nerve (Ramón-Cueto
+and Valverde, 1995; Franklin and Barnett, 1997; Lankford et al., 2008;
+Kocsis et al., 2009). Second, it was hypothesized that human OECs and
+SCs behave similarly if not identical as their rodent counterpart. As a
+consequence of the former assumption, in vivo effects of OECs were
+mainly characterized in relation to vehicle solution controls rather
+than in direct comparison with the closely related SCs (for review, see
+Wewetzer et al., 2002; Wewetzer and Brandes, 2006).
+The fact that putative species-specific effects of OECs and SCs have
+not been discussed so far is also a result of the second hypothesis. The
+thorough review of the current literature clearly reveals (see below,
+Table 1) that primate or human OECs have been regularly maintained
+so far in vitro according to protocols originally established for rodent
+cells. Instead, it would be important to clarify and investigate
+independently the importance and relevance of certain factors, such
+as an elevated intracellular cAMP level, for the in vitro growth of
+primate and human glia. The idea that the rodent data can be
+extrapolated to the human system also becomes apparent when
+analyzing the in vivo approaches. Considering the experimental data
+currently available it seems that the gap between the species, rodents
+and humans, is at least as relevant as the literal gap in spinal cord
+injury.
+To translate the rodent data into clinical practice, it is essential to
+do a comparative analysis between the species and to answer two
+major questions. First, are there any differences in the organization of
+the motor systems between rodents and humans relevant to the
+clinical application of growth-promoting glia? And second, do human
+OECs and SCs display species-specific properties different from
+rodents? If the answer is yes, the next step should be the identification
+of species with closest homology to the human system. Whereas the
+former issue has been recently covered by Courtine et al. (2007), who
+recommended the use of nonhuman primates as translational models,
+a critical and comparative analysis of OECs and SCs has not been done
+so far. On a methodological level, it is important to analyze the
+protocols designed for cell isolation since distinct protocols may lead
+to the cultivation of different cell types resulting in varying results,
+including cell purity (Kawaja et al., 2009). Another level refers to the
+functional capacity of the cells and the question, in how far rodent glia
+Table 1
+Comparative analysis of in vitro properties of olfactory ensheathing cells (OECs) and Schwann cells (SCs) from different species. Nd,—— (not done)+/−=controversial results have
+g-t
+ces
+uah
+010
+gam
+000
+mke
+rt (1
+*; Sc
+995
+ewe
+cha
+000
+ood
+004
+: ––
+ewe
+gam
+ff et
+et al
+y: A
+et a
+nigr
+008
+clest
+an
+gam
+o et
+bio
+gam
+ocke
+gam
+ski
+bio
+gam
+– pi
+81K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87been provided; * = studies that tested OECs and Schwann cells in parallel, ** = that lon
+Rat Pig Dog Monkey Human Referen
+Schwann cell mitogen-
+induced proliferation
+OEC + + + + + Rat: Ch
+et al. (2
+Techan
+et al. (2
+SC + Nd + + + Rat: Le
+Schube
+(2009)
+et al. (1
+Autonomous growth in vitro OEC − + + + + Rat: W
+dog: Te
+et al. (2
+SC − Nd + + Nd Rat: W
+et al. (2
+human
+Response to elevated
+intracellular cAMP
+OEC + Nd − − − Rat: W
+Techan
+SC + Nd − − +/− Rat: Ra
+Jessen
+monke
+Fregien
+Long-term culture:
+I. Spontaneous immortalization
+OEC + Nd − − Nd Rat: So
+et al. (2
+SC + Nd − (−)** (−)** Rat: Ec
+Saravan
+Techan
+Morett
+Long-term culture:
+II. proliferation
+OEC − − + + Nd Rat: Ru
+Techan
+SC − Nd + + +/− Rat: Br
+Techan
+Rutkow
+Long-term culture:
+III. p75NTR expression
+OEC − − + + Nd Rat: Ru
+Techan
+SC − Nd + Nd Nd Rat: ––erm studies were performed, but no reports on immortalization events were provided.
+and Teague (1999); Wewetzer et al. (2001); Yan et al. (2001); pig: Radtke
+b); dog: Smith et al. (2002); Krudewig et al. (2006); Bock et al. (2007);
+suwan et al. (2008); (2009); monkey: Rubio et al. (2008)*; human: Barnett
+)
+and Brockes (1984); Porter et al. (1986); Davis and Stroobant (1990);
+992); pig: ––––; dog: Pauls et al. (2004); Techangamsuwan et al. (2008)*,
+hmitte et al. (2009); monkey: Avellana-Adalid et al. (1998); human: Rutkowski
+)*; Monje et al. (2006)
+tzer et al. (2001); Yan et al. (2001); pig: Radtke et al. (2004); Radtke et al. (2010b);
+ngamsuwan et al. (2008)*; primate: Rubio et al. (2008)*; human: Barnett
+)
+and Bunge (1975); Porter et al. (1986); Rubio et al. (2008)*; pig: ––––; dog: Pauls
+); Techangamsuwan et al. (2008)*; monkey: Avellana-Adalid et al. (1998);
+––
+tzer et al. (2001); Yan et al. (2001); pig: ––––; dog: Krudewig et al. (2006);
+suwan et al. (2008)*; monkey: Rubio et al. (2008); human: Barnett et al. (2000)
+al. (1978); Chen et al. (1991);Sobue et al. (1986); Davis and Stroobant (1990);
+. (1991); Stewart et al. (1991); pig: ––––; dog: Techangamsuwan et al. (2008);
+vellana-Adalid et al. (1998); human: Levi et al. (1995); Rutkowski et al. (1995);
+l. (2004); Monje et al. (2006)
+a et al. (1996); pig: ––––; dog: Krudewig et al. (2006); Techangamsuwan
+)*; (2009); monkey: Rubio et al. (2008)* human: ––––
+on et al. (1991); Goda et al. (1991); Bolin et al. (1992); Watabe et al. (1995);
+et al. (2007); Shen et al. (2002); Ohsawa et al. (2005); pig: –––; dog:
+suwan et al. (2008)*; (2009); monkey: Avellana-Adalid et al. (1998); human:
+al. (1984); Rutkowski et al. (1995); Van den Berg et al. (1995)
+et al. (2008)*; pig: Radtke et al. (2010b) dog: Krudewig et al. (2006);
+suwan et al. (2008)*; (2009)*; monkey: Rubio et al. (2008)* human: ––––;
+s et al. (1980); Porter et al. (1986); Davis and Stroobant (1990) pig: ––– dog:
+suwan et al. (2008)*; (2009)* monkey: –––– human: Moretto et al. (1984);
+et al. (1995); Van den Berg et al. (1995)
+et al. (2008)*; pig: Radtke et al. (2010b) dog: Krudewig et al. (2006);
+suwan et al. (2008)* (2009) monkey: Rubio et al. (2008)* human: ––––
+g: ––– dog: Techangamsuwan et al. (2008)*, (2009)*, monkey:–––––; human: ––––
+hum
+cos
+82 K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87reflects the human system and whether large animals are closer
+related to humans or rodents (Kastner and Gauthier, 2008). The
+Table 2
+Transplantation of large animal or human OECs into either rodent or large animals and
+spinal cord of large animals and humans, respectively. (Olfactory bulb OB, olfactory muproperties of large animal and human OECs and SCs can be
+determined either by in vitro analysis or by implantation of the cells
+into the rodent or large animal/human spinal cord.
+In the present review, we performed a detailed comparative in
+vitro and in vivo analysis of published properties of OECs from
+different species, such as monkeys, dogs, and pigs. Though adult dogs
+and pigs were initially introduced as models for in vivo studies
+(Imaizumi et al., 2000; Smith et al., 2002, Radtke et al. 2004; Jeffery
+et al., 2005, 2006), a detailed in vitro characterization of the cells has
+not been done until recently in the dog (Krudewig et al., 2006; Bock
+et al., 2007; Techangamsuwan et al., 2008, 2009; Haastert et al., 2009;
+Schmitte et al., 2009) or has just begun as in the pig (Radtke et al.,
+2010a). The same is true for human cells that have been implanted in
+the rat or into humans but whose in vitro characterization has
+remained fragmentary. We include SCs in our analysis, since many of
+the aspects of glial cell properties were originally studied in SCs and
+the number of papers that focused on the direct comparison of OECs
+and SCs are still scarce (Angelov et al., 2005; Lankford et al., 2008;
+Franssen et al., 2009). The present review is divided into two main
+parts that refer to the in vitro and in vivo properties of glial cells. Since
+in vitro approaches generally have the inherent advantage of a
+reduced complexity that facilitates a comparative analysis, the main
+emphasis is on the in vitro behaviour of OECs and SCs from different
+species, including rats and mice. Special attention was given to the
+responsiveness to growth factors, in vitro proliferation and differen-
+tiation together with the susceptibility of the cells to immortalization
+following sustained mitogen stimulation (Table 1). These criteria
+were defined, at least in part, on the basis of availability of
+experimental evidence. Due to space limitations and the fact that in
+vivo properties of rodent OECs and SCs have already been reviewed
+previously, the analysis of the in vivo effects is restricted to OECs and
+SCs from large infrahuman animals and humans (Tables 2, 3).In vitro proliferation and mitogens for OECs and SCs from
+different species
+ans. Shaded in light grey and grey are the papers that applied OECs to the lesioned
+a OM). * = studies that tested the effects of OECs and SCs in parallel.The comparative analysis of OECs and SCs from different species
+(Table 1) is complicated for several reasons. First, so far the number of
+published studies in large animals and humans is very low. Although
+the genetic diversity of large animals and humans asks for an
+increased number of experiments compared to the rodent system,
+the opposite is in fact the case. Second, the criteria used in the present
+review have not been addressed systematically for OECs and SCs.
+Based on the assumption that human cells will behave similarly to
+their rodent counterpart, many investigators transferred cell culture
+protocols established in rodents to large animals directly (Hanemann
+et al., 1998; Barnett et al., 2000; Imaizumi et al., 2000; Kato et al.,
+2000) without testing the relevance of single culture parameters
+separately.
+One consistent parameter across all studies is the responsive-
+ness of OECs and SCs to typical Schwann cell mitogens (Table 1).
+These factors including neuregulins and fibroblast growth factor-2
+were originally identified during the isolation of neonatal rodent
+SCs (Raff et al., 1978; Lemke and Brockes, 1984) and have been
+subsequently shown to stimulate proliferation of rodent, canine,
+porcine, primate, and human OECs (Table 1; Chuah and Teague,
+1999; Wewetzer et al., 2001; Yan et al., 2001, Krudewig et al., 2006;
+Techangamsuwan et al., 2008, 2009; Rubio et al., 2008; Barnett
+et al., 2000) in addition to SCs (Table 1; Lemke and Brockes, 1984;
+Porter et al., 1986; Davis and Stroobant, 1990; Schubert, 1992;
+Rutkowski et al., 1995; Avellana-Adalid et al., 1998; Pauls et al.,
+2004; Monje et al., 2006; Techangamsuwan et al., 2008, 2009)
+independent of the developmental stage of the used cells. Although
+adult cells generally display lower proliferation rates than early
+postnatal cells, the response is apparently the same at any postnatal
+age. Bianco et al. (2004) reported mitogenic effects of neurotro-
+phin-3 (NT-3) on human OECs. Further studies are needed to
+rod
+83K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87demonstrate whether this neurotrophin has the same effects on SCs
+and whether this applies to cells from other species. Summarized,
+there is no evidence that the so far used growth factors affect OECs
+and SCs from various species differently.
+The observation that OECs and SCs from different species
+proliferate in response to the same mitogens does not provide
+information about proliferation in the absence of exogenous factors. It
+is well established that neonatal and adult rodent OECs (Pollock et al.,
+1999; Alexander et al., 2002; Wewetzer et al., 2001; Yan et al., 2001)
+and SCs (Raff et al., 1978; Wood and Bunge, 1975; Davis and
+Stroobant, 1990) are mitogenically quiescent after isolation and
+require the presence of growth factors or neurons for cellular
+proliferation. Although this important cellular capacity has not
+directly been addressed and is not readily apparent from the reports
+published so far, there is growing evidence that large animal and
+human OECs and SCs behave differently. Recently, Rubio et al. (2008)
+demonstrated that rodent but not primate OECs enter a senescent
+state rapidly in vitro. Previously, we reported similar properties for
+canine OECs. Even under serum-free culture conditions, canine OECs
+and SCs proliferated over many passages (Techangamsuwan et al.,
+Table 3
+Transplantation of large animal (monkey) and human Schwann cells (SCs) into either
+transplantation of SCs. * = studies that tested OECs and Schwann cells in parallel.2008). Interestingly, no differences were found between canine OECs
+and SCs (Techangamsuwan et al., 2008). The idea that proliferation in
+OECs and SCs is controlled by similar mechanisms is also underscored
+by the recent unexpected finding that transfection at early passage
+with human TERT significantly reduced proliferation in both cell types
+to the same extent (Techangamsuwan et al., 2009). Proliferation of
+porcine OECs also does not require addition of growth factors (Radtke
+et al., 2004) and cells can be grown for a limited time in vitro in the
+absence of mitogen stimulation (Radtke et al., 2010b). Whether
+human OECs or SCs share the capacity of autonomous growth in vitro
+with primate and canine glia is not clear. Since many studies focused
+on the effects of growth factors and investigated proliferation in the
+absence of growth factors, the data can be only indirectly discerned
+from the reports. Such an analysis, however, demonstrates that
+human OECs and SCs display a limited growth factor-independent
+proliferative capacity (Moretto et al., 1984; Van den Berg et al., 1995).
+Another crucial aspect for the comparative analysis is the glial cell
+response to increased intracellular cAMP levels. It has been recog-
+nized for some time, that proliferation of rodent SCs and OECs is
+stimulated by agents increasing the intracellular cAMP level, e.g.
+forskolin, dibutyryl-cAMP, cholera toxin (Raff et al., 1978; Sobue et al.,
+1986; Davis and Stroobant, 1990; Chen et al., 1991; Stewart et al.,
+1991; Jessen et al., 1991). The majority of the studies agree that theseagents under serum-containing culture conditions are sufficient to
+drive proliferation, while absence of serum requires the addition of
+growth factors. In the presence of serum pharmacologically induced
+elevations in intracellular cAMP results in synergistic effects on
+proliferation, which is paralleled by a transition in the morphology
+from a spindle-shaped to a more flattened phenotype (Jessen et al.,
+1991; Morgan et al., 1991). The cells then display a fenestrated
+cytoplasm and are difficult to differentiate from fibroblast-like cells
+under phase contrast optics. The same has been shown for rodent
+OECs (Wewetzer et al., 2001; Yan et al., 2001).
+When it comes to human and large animal glia, the picture is not as
+clear. This is due, as outlined above, to the close orientation of human
+studies on the rodent model, resulting in routine applications of a
+forskolin/growth factor mixtures rather than an independent analysis
+of the forskolin effect alone (Imaizumi et al., 2000, Smith et al., 2002;
+Kato et al., 2000). The majority of studies reported that forskolin
+potentiated the effects of growth factors in human glia but had no
+effects when applied alone (Levi et al., 1995; Rutkowski et al., 1995;
+Casella et al., 2000; Monje et al., 2006). This is underscored by findings
+of Avellana-Adalid et al. (1998) in the monkey, where forskolin
+ent or large animals/humans. Shaded in grey are studies that used autologousstimulates proliferation of SCs only in combination with growth
+factors. Forskolin in human SCs was shown to increase neuregulin
+receptors without increasing receptor mRNA in a density-dependent
+manner (Casella et al., 2000; Fregien et al., 2004). However, other in
+vitro studies failed to detect any effects of forskolin on human OEC and
+SC proliferation, even when applied in combination with other
+growth factors (Morrissey et al., 1995; Barnett et al., 2000).
+Analysis of the morphological phenotype of forskolin-treated
+human glia, although not explicitly addressed in these studies, clearly
+reveals that human SCs do not alter their morphological phenotype in
+response to forskolin (Levi et al., 1995; Hanemann et al., 1998). This is
+in striking contrast to the rodentmodel. Interestingly, both canine and
+porcine OECs and SCs treated with forskolin neither increased
+proliferation nor altered their morphology as observed in rats
+(Krudewig et al., 2006; Techangamsuwan et al., 2008; 2009). Since
+forskolin effectively stimulates intracellular cAMP level in a variety of
+different canine cell types (Luo et al., 1997; Zhang et al., 2000; Chu
+et al., 2004), it has to be concluded that the intracellular signalling
+pathways downstream to this event are different between rodent and
+humans, and, that canine cells are closely related to human cells.
+Whether there is a significant difference in cAMP signalling
+between OECs and SCs in large animals or humans remains
+undetermined due to the low number of studies focusing on the effect
+84 K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87of forskolin in humans and primates. This hinders the critical
+comparison between both cell types. At present, there is no indication
+that OECs behave differently from SCs. With regard to the canine
+system, direct comparison between OECs and SCs from the same
+species did not reveal any significant differences (Techangamsuwan
+et al., 2008; 2009). Taken together it can be concluded from these data,
+that large animal and human OECs and SCs do not display the same
+complex response to increased intracellular cAMP glia as observed in
+rodent glia. In this respect, the canine system may be a relevant
+translational model (Krudewig et al., 2006; Techangamsuwan et al.,
+2008).
+Growth, differentiation, and immortalization of OECs and SCs
+from different species in long-term culture
+The question how cellular proliferation is controlled is not only
+relevant for the expansion of cells for transplantation purposes but
+also for estimating the risk of immortalization and tumor formation
+following mitogen stimulation and implantation into the nervous
+system (Langford et al., 1988; Emery et al., 1999). What is also
+important is the antigenic expression because a differential regener-
+ative capacity of a specific cell type is only conceivable within a
+distinct gene expression profile. Although several groups carried out
+systematic molecular studies (Vincent et al., 2005; Boyd et al., 2006;
+Franssen et al., 2008), the number of differentially expressed
+candidate genes is still low. Only a limited number of studies have
+focused on the behaviour of OECs and SCs in long-term culture and the
+question of whether these cells have the potential to undergo
+immortalization. However, the comparative analysis of this question
+is of particular relevance and reveals significant differences between
+the species that may be relevant to cell transplantation. As described
+above, rodent glia does not proliferate in the absence of growth
+factors. It is well known that sustained mitogen stimulation either by
+forskolin alone or in combination with growth factors is sufficient to
+induce immortalization in rodent OECs (Sonigra et al., 1996) and SCs
+(Porter et al., 1987; Eccleston et al., 1991; Goda et al., 1991; Bolin et al.,
+1992; Watabe et al., 1995; Shen et al., 2002; Saravanan et al., 2007).
+Thus, there seems to be a reciprocal relation between autonomous
+growth in vitro and the susceptibility to immortalization.
+Long-term studies have been carried out with primate OECs (Rubio
+et al., 2008) and canine SCs and OECs (Krudewig et al., 2006;
+Techangamsuwan et al., 2008; 2009). Cells could be easily maintained
+over many passages but immortalization was not observed. Similarly,
+long-term in vitro studies in humans lacked features of immortaliza-
+tion (Moretto et al., 1984; van den Berg et al., 1995; Rubio et al., 2008).
+How porcine glia fits into this categorization is not yet clear. Recently,
+we noted that the proliferation rate of porcine OECs declines during a
+six week culture interval (Radtke et al., 2010b). As outlined below,
+this reduced proliferative capacity correlated with a reduced
+remyelinating potential following transplantion into the demyeli-
+nated spinal cord (Radtke et al., 2010b).
+Although there have been several molecular studies on the specific
+gene expression of rodent OECs and SCs (Vincent et al., 2005; Boyd
+et al., 2006; Franssen et al., 2008), there are only a few data available
+on putative differences in the expression between species. Although
+expression of classical cell type-specific markers, such as the
+neurotrophin receptor p75 (p75NTR), seems to be well conserved
+across the species, differences with respect to the time course of
+expression have been reported recently. Parallel to differences in the
+proliferation there is distinct regulation of p75NTR expression in
+rodent and porcine and primate OECs (Rubio et al., 2008). While
+primate OECs display stable expression of p75NTR in vitro (Rubio et al.,
+2008) both rodent and porcine OECs display down-regulation in vitro
+during long-term cultivation (Rubio et al., 2008; Radtke et al., 2004,
+2010b) OECs and SCs from adult dogs have been shown to behave
+similar to primate cells (Krudewig et al., 2006; Techangamsuwanet al., 2008, 2009) and expression of p75NTR is maintained throughout
+multiple passages.
+Taken together, it is concluded that significant species-specific
+differences exist regarding proliferation and that canine OECs and to a
+lesser extent porcine OECs and SCs share a number of characteristics
+with human cells. These data suggest that canine, primate and human
+but not rodent and porcine OECs and SCs can easily maintained in
+long-term culture. Contrary to rodent cells, however, there is no
+immortalization of the cells. This indicates subtle differences in the
+growth control of glia between the different species. Mitogen
+stimulation can be ruled out as the only critical parameter, since
+canine glia does not immortalize even under sustained mitogen
+stimulation. The sustained proliferative capacity of canine, primate
+and human OECs and SCs is associated with the stable expression of
+p75NTR (Rubio et al., 2008; Techangamsuwan et al., 2008; 2009).
+Again, this seems to be in contrast with the rodent system. As shown
+by Rubio et al. (2008) rodent but not primate OECs displayed down-
+regulation of the neurotrophin receptor in long-term culture.
+Transplantation and in vivo effects OECs and SCs from
+different species
+Although there is a huge number of in vivo studies demonstrating
+that OECs and SCs promote axonal regrowth and remyelination
+(Wewetzer et al., 2002; Santos-Benito and Ramón-Cueto, 2003), the
+specific regenerative potential of both cell types even in the rodent
+model is still not clearly defined (Radtke andWewetzer, 2009). The in
+vivo paradigms used to define the in vivo effects of OECs in the rat
+originally included dorsal horn rhizotomy, corticospinal tract or spinal
+cord transection in addition to ethidium bromide-induced demyelin-
+ation (Ramón-Cueto and Nieto-Sampedro, 1994; Li et al., 1997;
+Navarro et al., 1999; Kato et al. 2000). While the capacity of OECs to
+promote axonal ingrowth into the CNS after rhizotomy has been
+questioned recently (Goméz et al., 2003; Ramer et al., 2004; Riddell
+et al., 2004), there is also a controversy about the myelinogenic
+potential of transplanted OECs (Harvey and Plant, 2006; Wewetzer
+and Brandes, 2006). Due to the lack of cell type-specific markers for
+OECs and SCs, it cannot be excluded presently that presence of
+peripheral type myelin after transplantation of OECs is at least in part
+due to SCs contaminating the OEC transplants. Classical studies in the
+rodent model focused on axonal regeneration in the spinal cord and
+reported that OECs and SCs increased long distance axonal growth
+and axonal sprouting at the lesion site, respectively (Li and Raisman,
+1994; Li et al., 1997; Ramón-Cueto et al., 2000; Imaizumi et al., 2000).
+Due to the lack of comparable approaches testing both cell types in
+parallel in the same model, the relevance of this effect remains to be
+confirmed (Wewetzer et al., 2002).
+The discussion of these data aims to provide a historical
+background rather than to concentrate on discrepancies to the rodent
+model. The relevant questions within the scope of the present review
+are whether OECs and SCs from large animals display similar or
+distinct in vivo effects compared rodent glia, and, mechanistically and
+easier to answer, which experimental models have been chosen to
+demonstrate the in vivo capacity of large animal and human OECs. To
+allow a focussed interpretation, only studies that used large animal
+and human glia for grafting were included in the present analysis. The
+fact that OECs (Table 2; Barnett et al., 2000; Imaizumi et al., 2000; Kato
+et al., 2000, Smith et al., 2002; Deng et al., 2006; Shyu et al., 2008)
+were more frequently used for transplantation than SCs (Table 3;
+Avellana-Adalid et al., 1998; Imaizumi et al., 2000; Kohama et al.,
+2001; Girard et al., 2005; Bachelin et al., 2010) most likely reflects the
+idea that the regenerative potential of these cells is superior to that of
+SCs. Surprisingly, the vast majority of in vivo studies with OECs and
+SCs and rodent recipients (Tables 2, 3, white) used chemically induced
+demyelination as experimental approach (e.g. Bachelin et al., 2005;
+Girard et al., 2005; Kohama et al., 2001) instead of spinal cord
+199–207.
+Chuah, M.I., Teague, R., 1999. Basic fibroblast growth factor in the primary olfactory
+factors are mitogens for rat Schwann cells. J. Cell Biol. 110, 1353–1360.
+Deng, C., Gorrie, C., Hayward, I., Elston, B., Venn, M., Mackay-Sim, A., Waite, P., 2006.
+85K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87transection or contusion injury (Deng et al., 2006; Gorrie et al. 2010).
+This indicates that the classical injury models that mainly defined the
+regenerative capacity of rodent OECs were only rarely used for large
+animal and human OECs. One of the few studies that critically
+compared the effects of rat and human OECs after implantation into
+the intact and lesioned rat spinal cord was carried out by Deng et al.
+(2006). However, since the authors mainly concentrated on the
+survival and migration of the grafted cells, this study does not
+provide any clue to answer the question whether large animal as
+well as human OECs and SCs possess the same regenerative potential
+as rodent cells. Guest et al. (2008) who used spinal cord transection
+and transplantation of human OECs failed to detect long tract
+corticospinal tract regeneration, while Calancie et al. (2009)
+reported on axonal regeneration after transplantation of human
+SCs into mice. It also becomes evident that the majority of studies
+demonstrated increased remyelination by OECs from large animals
+in comparison to vehicle controls morphologically while functional
+analyses were often included only in studies using SCs (Imaizumi et
+al., 2000; Kohama et al., 2001; Girard et al., 2005). This observation
+further underscores the need to analyze effects of the transplanted
+glial cells in the same experimental paradigm (Wewetzer et al.,
+2002; Radtke and Wewetzer, 2009).
+It can be concluded that transplantation of large animal and
+human OECs in the rodent model apparently increased the formation
+of morphologically detectable myelin. Whether this correlates with a
+functional improvement or one of the two cell types displays a
+superior regenerative potential remains unclear at present. What also
+remains to be established is whether human and rodent OECs and SCs
+differ in their in vivo actions from each other. The result of the present
+analysis is sobering since the regenerative potential of large animal
+and human OECs and SCs is still poorly defined. In this respect, the
+autologous transplantation studies do not provide more information
+(Tables 2, 3). Since themain emphasis of these studies is the detection
+of putative adverse effects, which were either not (Saberi et al., 2008)
+or only rarely observed (Lima et al., 2006), no conclusions regarding
+the regenerative potential of the implanted cells can be drawn. The
+question is whether large animal models may provide valuable
+information of the in vivo effects and help to improve human
+procedures. Jeffery et al. (2005) reported that autologous transplan-
+tation of canine OECs is reliable and safe in naturally occurring spinal
+cord lesion models. It is the hope that such studies in translational
+models will speed up the transfer of experimental data to clinical
+practice (Jeffery et al., 2006).
+Conclusions
+In the present review a comprehensive in vitro and in vivo analysis
+of OEC and SC properties based on own and published experiments
+was performed. The presented evidence clearly reveals the existence
+of species-specific properties of growth-promoting glia. Based on the
+in vitro analysis of cellular proliferation, we conclude that human and
+rodent glia display significant differences in the control of cellular
+proliferation and that glia from large animals, e.g. dogs, pigs and
+monkeys more closely resemble their human counterpart. Moreover,
+the summarized data are also evidence for a close relationship
+between OECs and SCs. There were no significant differences between
+both cell types that became evident during this analysis.
+However, whether the observed differences are relevant for the in
+vivo application of the cells is not apparent from the currently
+available data. The in vivo effects of OECs and SCs from large animals
+and humans are still poorly defined. Moreover, due to the low number
+of comparative studies between OECs and SCs and between glia from
+different species, it remains to be determined whether OECs from
+humans share the same regenerative effects as detected in the rodent
+system. It is recommended to cross the bridge between humans and
+rodents by intensifying the work with translational models thatSurvival and migration of human and rat olfactory ensheathing cells in intact and
+injured spinal cord. J. Neurosci. Res. 83, 1201–1212.
+Eccleston, P.A., Mirsky, R., Jessen, K.R., 1991. Spontaneous immortalisation of Schwann
+cells in culture: short-term cultured Schwann cells secrete growth inhibitory
+activity. Development 112, 33–42.
+Emery, E., Li, X., Brunschwig, J.P., Olson, L., Levi, A.D., 1999. Assessment of the malignant
+potential of mitogen stimulated human Schwann cells. J. Peripher. Nerv. Syst. 4,pathway: mitogenic effect on ensheathing cells. Neuroscience 88, 1043–1050.
+Courtine, G., Bunge, M.B., Fawcett, J.W., Grossman, R.G., Kaas, J.H., Lemon, R., Maier, I.,
+Martin, J., Nudo, R.J., Ramón-Cueto, A., Rouiller, E.M., Schnell, L., Wannier, T.,
+Schwab, M.E., Edgerton, V.R., 2007. Can experiments in nonhuman primates
+expedite the translation of treatments for spinal cord injury in humans? Nat. Med.
+13, 561–566.
+Davis, J.B., Stroobant, P., 1990. Platelet-derived growth factors and fibroblast growthdisplay higher homology to the human system than rodents. In this
+context the canine and the porcine system may be in the future of
+great relevance. It is hoped that research in these translational large
+animal models will accelerate the transfer of experimental cell
+transplantation therapies to clinical practice.
+Acknowledgments
+Previous and current studies by KW, CR and WB reviewed in the
+present article have been supported by the German Research
+Foundation (DFG; BA815/9-1, BA815/10-1, RA1901/1-1).
+References
+Alexander, C.L., Fitzgerald, U.F., Barnett, S.C., 2002. Identification of growth factors that
+promote long-term proliferation of olfactory ensheathing cells and modulate their
+antigenic phenotype. Glia 37, 349–364.
+Angelov, D.N., Guntinas-Lichius, O., Wewetzer, K., Neiss, W.F., Streppel, M., 2005.
+Axonal branching and recovery of coordinated muscle activity after transection of
+the facial nerve in adult rats. Adv. Anat. Embryol. Cell Biol. 180, 1–130.
+Avellana-Adalid, V., Bachelin, C., Lachapelle, F., Escriou, C., Ratzkin, B., Baron-Van
+Evercooren, A., 1998. In vitro and in vivo behaviour of NDF-expanded monkey
+Schwann cells. Eur. J. Neurosci. 10, 291–300.
+Bachelin, C., Lachapelle, F., Girard, C., Moissonnier, P., Serguera-Lagache, C., Mallet, J.,
+Fontaine, D., Chojnowski, A., Le Guern, E., Nait-Oumesmar, B., Baron-Van
+Evercooren, A., 2005. Efficient myelin repair in the macaque spinal cord by
+autologous grafts of Schwann cells. Brain 128, 540–549.
+Bachelin, C., Zujovic, V., Buchet, D., Mallet, J., Baron-Van Evercooren, A., 2010. Ecoptic
+expression of the polysialylated neural cell adhesion molecule in adult macaque
+Schwann cells promotes their migration and remyelination potential in the central
+nervous system. Brain 133, 406–420.
+Barnett, S.C., Alexander, C.L., Iwashita, Y., Gilson, J.M., Crowther, J., Clark, L., Dunn, L.T.,
+Papanastassiou, V., Kennedy, P.G., Franklin, R.J., 2000. Identification of a human
+olfactory ensheathing cell that can effect transplant-mediated remyelination of
+demyelinated CNS axons. Brain 123, 1581–1588.
+Bianco, J.I., Perry, C., Harkin, D.G., Mackay-Sim, A., Féron, F., 2004. Neurotrophin-3
+promotes proliferation of olfactory ensheathing cells from human nose. Glia 45,
+111–123.
+Bock, P., Beineke, A., Techangamsuwan, S., Baumgärtner, W., Wewetzer, K., 2007.
+Differential expression of HNK-1 and p75(NTR) in adult canine Schwann cells and
+olfactory ensheathing cells in situ but not in vitro. J. Comp. Neurol. 505, 572–585.
+Bolin, L.M., Iisma, T.P., Shooter, E.M., 1992. Isolation of activated adult Schwann cells
+and a spontaneous immortal Schwann cell clone. J. Neurosci. Res. 33, 231–238.
+Boyd, J.G., Jahed, A., McDonald, T.G., Krol, K.M., VanEyk, J.E., Doucette, R., Kawaja, M.D.,
+2006. Proteomic evaluation reveals that olfactory ensheathing cells but not
+Schwann cells express calponin. Glia 53, 434–440.
+Brockes, J.P., Lemke, G.E., Balzer Jr., D.R., 1980. Purification and preliminary
+characterization of a glial growth factor from the bovine pituitary. J. Biol. Chem.
+255, 8374–8377.
+Calancie, B., Madsen, P.W., Marcillo, A.E., Levi, A.D., Bunge, R.P., 2009. A guidance
+channel seeded with autologous Schwann cells for repair of cauda equine injury in
+a primate model. J. Spinal Cord Med. 32, 379–388.
+Casella, G.T., Wieser, R., Bunge, R.P., Margitich, I.S., Katz, J., Olson, L., Wood, P.M., 2000.
+Density dependent regulation of human Schwann cell proliferation. Glia 30,
+165–177.
+Chen, J.K., Yao, L.L., Jenq, C.B., 1991. Mitogenic response of rat Schwann cells to
+fibroblast growth factors is potentiated by increased intracellular cyclic AMP levels.
+J. Neurosci. Res. 30, 321–327.
+Chu, L., Norota, I., Yomogida, S., Ishii, K., Endoh, M., 2004. Differential inotropic effects of
+endothelin-1, angiotensin II, and phenylephrine induced by crosstalk with cAMP-
+mediated signaling process in dog ventricular myocardium. J. Pharmacol. Sci. 96,107–116.
+86 K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87Féron, F., Perry, C., Cochrane, J., Licina, P., Nowitzke, A., Urquhart, S., Geraghty, T.,
+Mackay-Sim, A., 2005. Autologous olfactory ensheathing cell transplantation in
+human spinal cord injury. Brain 128, 2951–2960.
+Franklin, R.J., Barnett, S.C., 1997. Do olfactory glia have advantages over Schwann cells
+for CNS repair? J. Neurosci. Res. 50, 665–672.
+Franssen, E.H., de Bree, F.M., Verhaagen, J., 2007. Olfactory ensheathing glia: their
+contribution to primary olfactory nervous system regeneration and their
+regenerative potential following transplantation into the injured spinal cord.
+Brain Res. Rev. 56, 236–258.
+Franssen, E.H., De Bree, F.M., Essing, A.H., Ramón-Cueto, A., Verhaagen, J., 2008.
+Comparative gene expression profiling of olfactory ensheathing glia and Schwann
+cells indicates distinct tissue repair characteristics of olfactory ensheathing glia.
+Glia 56, 1285–1298.
+Franssen, E.H., Roet, K.C., de Bree, F.M., Verhaagen, J., 2009. Olfactory ensheathing glia
+and Schwann cells exhibit a distinct interaction behavior with meningeal cells. J.
+Neurosci. Res. 87, 1556–1564.
+Fregien, N.L., White, L.A., Bunge, M.B., Wood, P., 2004. Forskolin increases neuregulin
+receptors in human Schwann cells without increasing receptor mRNA. Glia 49,
+24–35.
+Girard, C., Bemelmans, A.-P., Dufour, N., Mallet, J., Bachelin, C., Nait-Oumesmar, B.,
+Baron-van Evercooren, A., Lachapelle, F., 2005. Grafts of brain-derived neurotrophic
+factor and neurotrophin 3-transduced primate Schwann cells lead to functional
+recovery of the demyelinated mouse spinal cord. J. Neurosci. 25, 7924–7933.
+Goda, S., Hammer, J., Kobiler, D., Quarles, R.H., 1991. Expression of the myelin-
+associated glycoprotein in cultures of immortalized Schwann cells. J. Neurochem.
+56, 1354–1361.
+Goméz, V.M., Averill, S., King, V., Yang, Q., Doncel-Pérez, E., Chacón, S.C., Ward, R., Nieto-
+Sampedro, M., Priestley, J., Taylor, J., 2003. Transplantation of olfactory ensheathing
+cells fails to promote significant axonal regeneration from dorsal roots into the
+cervical cord. J. Neurocytol. 32, 53–70.
+Gorrie, C.A., Hayward, I., Cameron, N., Kailainathan, G., Nandapalan, N., Sutharsan, R.,
+Wang, J., Mackay-Sim, A., Waite, P.M., 2010. Effects of human OEC-derived cell
+transplants in rodent spinal cord contusion injury. Brain Res. 1337C, 8–20.
+Graziadei, P.P., Monti Graziadei, G.A., 1985. Neurogenesis and plasticity of the olfactory
+sensory neurons. Ann. NY Acad. Sci. 457, 127–142.
+Guest, J.D., Herrera, L., Margitich, I., Oliveria, M., Marcillo, A., Casas, C.E., 2008.
+Xenografts of expanded primate olfactory ensheathing glia support transient
+behavioral recovery that is independent of serotonergic or corticospinal axonal
+regeneration in nude rats following spinal cord transection. Exp. Neurol. 212,
+261–274.
+Haastert, K., Seef, P., Stein, V.M., Tipold, A., Grothe, C., 2009. A new cell culture protocol
+for enrichment and genetic modification of adult canine Schwann cells suitable for
+peripheral nerve tissue engineering. Res. Vet. Sci. 87, 140–142.
+Hanemann, C.O., Rosenbaum, C., Kupfer, S., Wosch, S., Stoegbauer, F., Müller, H.W.,
+1998. Improved culture methods to expand Schwann cells with altered growth
+behaviour from CMT1A patients. Glia 23, 89–98.
+Harvey, A.R., Plant, G.W., 2006. Olfactory ensheathing glia and spinal cord injury: basic
+mechanisms to transplantation. Future Neurol. 1, 453–463.
+Imaizumi, T., Lankford, K.L., Burton, W.V., Fodor, W.L., Kocsis, J.D., 2000. Xenotrans-
+plantation of transgenic pig olfactory ensheathing cells promotes axonal
+regeneration in rat spinal cord. Nat. Biotechnol. 18, 949–953.
+Jeffery, N.D., Lakatos, A., Franklin, R.J., 2005. Autologous olfactory glial cell transplan-
+tation is reliable and safe in naturally occurring canine spinal cord injury. J.
+Neurotrauma 22, 1282–1293.
+Jeffery, N.D., Smith, P.M., Lakatos, A., Ibanez, C., Ito, D., Franklin, R.J., 2006. Clinical canine
+spinal cord injury provides an opportunity to examine the issues in translating
+laboratory techniques into practical therapy. Spinal Cord 44, 584–593.
+Jessen, K.R., Mirsky, R., Morgan, L., 1991. Role of cyclic AMP and proliferation controls in
+Schwann cell differentiation. Ann. NY Acad. Sci. 633, 78–89.
+Kastner, A., Gauthier, P., 2008. Are rodents an appropriate pre-clinical model for
+treating spinal cord injury? Examples from the respiratory system? Exp. Neurol.
+213, 249–256.
+Kato, T., Honmou, O., Uede, T., Hashi, K., Kocsis, J.D., 2000. Transplantation of human
+olfactory ensheathing cells elicits remyelination of demyelinated rat spinal cord.
+Glia 30, 209–218.
+Kawaja, M.D., Boyd, J.G., Smithson, L.J., Jahed, A., Doucette, R., 2009. Technical strategies
+to isolate olfactory ensheathing cells for intraspinal implantation. J. Neurotrauma
+26, 1–24.
+Kocsis, J.D., 1999. Restoration of function by glial cell transplantation into demyelinated
+spinal cord. J. Neurotrauma 16, 695–703.
+Kocsis, J.D., Lankford, K.L., Sasaki, M., Radtke, C., 2009. Unique in vivo properties of
+olfactory ensheathing cells that may contribute to neural repair and protection
+following spinal cord injury. Neurosci. Lett. 456, 137–142.
+Kohama, I., Lankford, K.L., Preiningerova, J., White, F.A., Vollmer, T.L., Kocsis, J.D., 2001.
+Transplantation of cryopreserved adult human Schwann cells enhances axonal
+conduction in demyelinated spinal cord. J. Neurosci. 21, 944–950.
+Krudewig, C., Deschl, U., Wewetzer, K., 2006. Purification and in vitro characterization
+of adult canine olfactory ensheathing cells. Cell Tissue Res. 26, 687–696.
+Langford, L.A., Porter, S., Bunge, R.P., 1988. Immortalized rat Schwann cells produce
+tumours in vivo. J. Neurocytol. 17, 521–529.
+Lankford, K.L., Imaizumi, T., Honmou, O., Kocsis, J.D., 2002. A quantitativemorphometric
+analysis of rat spinal cord remyelination following transplantation of allogeneic
+Schwann cells. J. Comp. Neurol. 443, 259–274.
+Lankford, K.L., Sasaki, M., Radtke, C., Kocsis, J.D., 2008. Olfactory ensheathing cells
+exhibit unique migratory, phagocytic, and myelinating properties in the X-
+irradiated spinal cord not shared by Schwann cells. Glia 56, 1664–1678.Lavdas, A.A., Papastefanaki, F., Thomaidou, D., Matsas, R., 2008. Schwann cell
+transplantation for CNS repair. Curr. Med. Chem. 15, 151–160.
+Lemke, G.E., Brockes, J.P., 1984. Identification and purification of glial growth factor. J.
+Neurosci. 4, 75–83.
+Levi, A.D., Bunge, R.P., Lofgren, J.A., Meima, L., Hefti, F., Nikolics, K., Sliwkowski, M.X.,
+1995. The influence of heregulins on human Schwann cell proliferation. J. Neurosci.
+15, 1329–1340.
+Li, Y., Raisman, G., 1994. Schwann cells induce sprouting in motor and sensory axons in
+the adult spinal cord. J. Neurosci. 14, 4050–4063.
+Li, Y., Field, P.M., Raisman, G., 1997. Repair of adult corticospinal tract by transplants of
+olfactory ensheathing cells. Science 277, 2000–2002.
+Lima, C., Pratas-Vital, J., Escada, P., Hasse-Ferreira, A., Capucho, C., Peduzzi, J.D., 2006.
+Olfactory mucosa autografts in human spinal cord injury: a pilot clinical study. J.
+Spinal Cord Med. 29, 191–206.
+Lima, C., Escada, P., Pratas-Vital, J., Branco, C., Arcangeli, C.A., Lazzeri, G., Maia, C.A.,
+Capucho, C., Hasse-Ferreira, A., Peduzzi, J.D., 2010. Olfactory mucosal autografts and
+rehabilitation for chronic traumatic spinal cord injury. Neurorehabil. Neural Repair
+24, 10–22.
+Luo, S.F., Chiu, C.T., Tsao, H.L., Fan, L.W., Tsai, C.T., Pan, S.L., Yang, C.M., 1997. Effect of
+forskolin on bradykinin-induced calcium mobilization in cultured canine tracheal
+smooth muscle cells. Cell. Signal. 9 (2), 159–167 Feb.
+Mackay-Sim, A., Féron, F., Cochrane, J., Bassingthwaighte, L., Bayliss, C., Davies, W.,
+Fronek, P., Gray, C., Kerr, G., Licina, P., Nowitzke, A., Perry, C., Silburn, P.A., Urquhart,
+S., Geraghty, T., 2008. Autologous olfactory ensheathing cell transplantation in
+human paraplegia: a 3-year clinical trial. Brain 131, 2376–2386.
+Monje, P.V., Bunge, M.B., Wood, P.M., 2006. Cyclic AMP synergistically enhances
+neuregulin-dependent ERK and Akt activation and cell cycle progression in
+Schwann cells. Glia 53, 649–659.
+Moretto, G., Kim, S.U., Shin, D.H., Pleasure, D.E., Rizzuro, N., 1984. Long-term cultures of
+human adult Schwann cells isolated from autopsy materials. Acta Neuropathol. 64,
+15–21.
+Morgan, L., Jessen, K.R., Mirsky, R., 1991. The effects of cAMP on differentiation of
+cultured Schwann cells: progression from an early phenotype (04+) to a myelin
+phenotype (P0+, GFAP−, N−CAM−, NGF-receptor−) depends on growth
+inhibition. J. Cell Biol. 112, 457–467.
+Morrissey, T.K., Bunge, R.P., Kleitman, N., 1995. Human Schwann cells in vitro. I. Failure
+to differentiate and support neuronal health under co-culture conditions that
+promote full function of rodent cells. J. Neurobiol. 28, 171–189.
+Navarro, X., Valero, A., Gudiño, G., Fores, J., Rodriquez, F.J., Verdu, E., Pascual, R., Cuadras,
+J., Nieto-Sampedro, M., 1999. Ensheathing glia transplants promote dorsal root
+regeneration and spinal reflex restitution after multiple lumbar rhizotomy. Ann.
+Neurol. 45, 207–215.
+Ohsawa, M., Kotani, M., Tajima, Y., Tsuji, D., Ishibashi, Y., Kuroki, A., Itoh, K., Watabe, K.,
+Sango, K., Yamanaka, S., Sakuraba, H., 2005. Establishment of immortalized
+Schwann cellls from Sandhoff mice and corrective effect of recombinant human
+β-hexoaminidase A on the accumulated GM2 ganglioside. J. Hum. Genet. 50,
+460–467.
+Pauls, J., Nolte, C., Forterre, F., Brunnberg, L., 2004. Cultivation and expansion of canine
+Schwann cells using reexplantation. Berl. Münch. Tierärztl. Wochenschr. 117,
+341–352.
+Pollock, G.S., Franceschini, I.A., Graham, G., Marchionni, M.A., Barnett, S.C., 1999.
+Neuregulin is a mitogen and survival factor for olfactory bulb ensheathing cells and
+an isoform is produced by astrocytes. Eur. J. Neurosci. 11, 769–780.
+Porter, S., Clark, M.B., Glaser, L., Bunge, R.P., 1986. Schwann cells stimulated to
+proliferate in the absence of neurons retain full functional capability. J. Neurosci. 6,
+3070–3078.
+Porter, S., Glaser, L., Bunge, R.P., 1987. Release of autocrine growth factor by primary
+and immortalized Schwann cells. Proc. Natl Acad. Sci. USA 87, 7768–7772.
+Radtke, C., Wewetzer, K., 2009. Translating basic research into clinical practice or what
+else do we have to learn about olfactory ensheathing cells? Neurosci. Lett. 456,
+133–136.
+Radtke, C., Akiyama, Y., Brokaw, J., Lankford, K.L., Wewetzer, K., Fodor, W.L., Kocsis, J.D.,
+2004. Remyelination of the nonhuman primate spinal cord by transplantation of H-
+transferase transgenic adult pig olfactory ensheathing cells. FASEB J. 18, 335–337.
+Radtke, C., Lankford, K.L., Wewetzer, K., Imaizumi, T., Fodor, W.L., Kocsis, J.D., 2010a.
+Impaired spinal cord remyelination by long-term cultured adult porcine olfactory
+ensheathing cells correlates with altered in vitro properties. Xeno transplantation
+17, 71–80.
+Radtke C., Wewetzer K., Reimers K., Vogt P.M. Transplantation of olfactory ensheathing
+cells as adjunct cell therapy for peripheral nerve injury. Cell Transplant 2010b;
+accepted.
+Raff, M.C., Hornby-Smith, A., Brockes, J.P., 1978. Cyclic AMP as a mitogenic signal for
+cultured rat Schwann cells. Nature 273, 672–673.
+Raisman, G., 1985. Specialized neuroglial arrangement may explain the capacity of
+vomeronasal axons to reinnervate central neurons. Neuroscience 14, 237–254.
+Ramer, L.M., Richter, M.W., Roskams, A.J., Tetzlaff, W., Ramer, M.S., 2004. Peripherally-
+derived olfactory ensheathing cells do not promote primary afferent regeneration
+following dorsal root injury. Glia 47, 189–206.
+Ramón-Cueto, A., Nieto-Sampedro, M., 1994. Regeneration into the spinal cord of
+transected dorsal root axons is promoted by ensheathing glia transplants. Exp.
+Neurol. 127, 232–244.
+Ramón-Cueto, A., Valverde, F., 1995. Olfactory bulb ensheathing glia: a unique cell type
+with axonal growth-promoting properties. Glia 14, 163–173.
+Ramón-Cueto, A., Cordero, I.M., Santos-Benito, F.F., Avila, J., 2000. Functional recovery of
+paraplegic rats and motor axon regeneration in their spinal cords by olfactory
+ensgheathing glia. Neuron 25, 425–435.
+Riddell, J.S., Enriquez-Denton, M., Toft, A., Fairless, R., Barnett, S.C., 2004. Olfactory
+ensheathing cell grafts have minimal influence on regeneration at the dorsal root
+entry zone following rhizotomy. Glia 47, 150–167.
+Rubio, M.P., Muñoz-Quiles, C., Ramón-Cueto, A., 2008. Adult olfactory bulbs from
+primates provide reliable ensheathing glia for cell therapy. Glia 56, 539–551.
+Rutkowski, J.L., Kirk, C.J., Lerner, M.A., Tennekoon, G.I., 1995. Purification and expansion
+of human Schwann cells in vitro. Nat. Med. 1, 80–83.
+Saberi, H., Moshayedi, P., Aghayan, H.R., Arjmand, B., Hosseini, S.K., Emami-Razavi, S.H.,
+Rahimi-Movaghar, V., Raza, M., Firouzi, M., 2008. Treatment of chronic thoracic
+spinal cord injury patients with autologous Schwann cell transplantation: an
+interim report on safety considerations and possible outcomes. Neurosci. Lett. 443,
+46–50.
+Santos-Benito, F.F., Ramón-Cueto, A., 2003. Olfactory ensheathing glia transplantation:
+a therapy to promote repair in the mammalian central nervous system. Anat. Rec.
+271B, 77–85.
+Saravanan, K., Büssow, H., Weiler, N., Gieselmann, V., Franken, S., 2007. A spontaneously
+immortalized Schwann cell line to study the molecular aspects of metachromatic
+leukodystrophy. J. Neurosci. Methods 161, 223–233.
+Schmitte, R., Tipold, A., Stein, V.M., Schenk, H., Flieshardt, C., Grothe, C., Haastert, K.,
+2009. Genetically modified canine Schwann cells — in vitro and in vivo evaluation
+of their suitability for peripheral nerve tissue engineering. J. Neurosci. Methods
+Epub ahead of print, Dec 3, 2009.
+Schubert, D., 1992. Synergistic interactions between transforming growth factor beta and
+fibroblast growth factor regulate Schwann cell mitosis. J. Neurobiol. 23, 143–148.
+Shen, J.S., Watabe, K., Meng, X.L., Ida, H., Ohashi, T., Eto, Y., 2002. Establishment and
+characterization of spontaneously immortalized Schwann cells frommurine model
+of globoid cell leukodystrophy (twicher). J. Neurosci. Res. 68, 588–594.
+Shyu, W.-C., Liu, D.D., Lin, S.-Z., Li, W.-W., Su, C.-Y., Chang, Y.-C., Wang, H.-J., Wang, H.-
+W., Tsai, C.-H., Li, H., 2008. Implantation of olfactory ensheathing cells promotes
+neuroplasticity in murine models of stroke. J. Clin. Investig. 118, 2482–2495.
+Smith, P.M., Lakatos, A., Barnett, S.C., Jeffery, N.D., Franklin, R.J., 2002. Cryopreserved
+cells isolated from the adult canine olfactory bulb are capable of extensive
+remyelination following transplantation into the adult rat CNS. Exp. Neurol. 176,
+402–406.
+Sobue, G., Shuman, S., Pleasure, D., 1986. Schwann cell responses to cyclic AMP:
+proliferation, change in shape, and appearance of surface galactocerebroside. Brain
+Res. 362, 23–32.
+Sonigra, R.J., Kandiah, S.S., Wigley, C.B., 1996. Spontaneous immortalisation of
+ensheathing cells from adult rat olfactory nerve. Glia 16, 247–256.
+Stewart, H.J., Eccleston, P.A., Jessen, K.R., Mirsky, R., 1991. Interaction between cAMP
+elevation, identified growth factors, and serum components in regulating Schwann
+cell growth. J. Neurosci. Res. 30, 346–352.
+Techangamsuwan, S., Imbschweiler, I., Kreutzer, R., Kreutzer, M., Baumgärtner, W.,
+Wewetzer, K., 2008. Similar behaviour and primate-like properties of adult canine
+Schwann cells and olfactory enheathing cells in long-term culture. Brain Res. 1240,
+31–38.
+Techangamsuwan, S., Kreutzer, R., Kreutzer, M., Imbschweiler, I., Rohn, K., Wewetzer,
+K., Baumgärtner, W., 2009. Transfection of adult canine Schwann cells and olfactory
+ensheathing cells at early and late passage with human TERT differentially affects
+growth factor responsiveness and in vitro growth. J. Neurosci. Methods 176,
+112–120.
+Van den Berg, L.H., Bär, P.R., Sodaar, P., Mollee, I., Wokke, J.J., Logtenberg, T., 1995.
+Selective expansion and long-term culture of human Schwann cells from sural
+nerve biopsies. Ann. Neurol. 38, 674–678.
+Vincent, A.J., Taylor, J.M., Choi-Lundberg, D.L., West, A.K., Chuah, M.I., 2005. Genetic
+expression profile of olfactory ensheathing cells is distinct from that of Schwann
+cells. Glia 51, 132–147.
+Watabe, K., Fukuda, T., Tanaka, J., Honda, H., Toyohara, K., Sakai, O., 1995. Spontaneously
+immortalized adult mouse Schwann cells secrete autocrine and paracrine growth-
+promoting activities. J. Neurosci. Res. 41, 279–290.
+Wewetzer, K., Brandes, G., 2006. Axonal signalling and the making of olfactory
+ensheathing cells: a hypothesis. Neuron Glia Biol. 2, 217–224.
+Wewetzer, K., Grothe, C., Claus, P., 2001. In vitro expression and regulation of ciliary
+neurotrophic factor and its alpha receptor subunit in neonatal rat olfactory
+ensheathing cells. Neurosci. Lett. 306, 165–168.
+Wewetzer, K., Verdú, E., Angelov, D.N., Navarro, X., 2002. Olfactory ensheathing glia and
+Schwann cells: two of a kind? Cell Tissue Res. 309, 337–345.
+Wood, P.M., Bunge, R.P., 1975. Evidence that sensory axons are mitogenic for Schwann
+cells. Nature 256, 662–664.
+Yan, H., Bunge, M.B., Wood, P.M., Plant, G.W., 2001. Mitogenic response of adult rat
+olfactory ensheathing glia to four growth factors. Glia 33, 334–342.
+Zhang, M., Schleicher, R.L., Fink, A.S., Gunter-Smith, P., Savard, C., Nguyen, T., Lee, S.P.,
+2000. Growth and function of isolated canine pancreatic ductal cells. Pancreas 20,
+67–76.
+87K. Wewetzer et al. / Experimental Neurology 229 (2011) 80–87

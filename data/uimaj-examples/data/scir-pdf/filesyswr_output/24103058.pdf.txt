@@ -1,0 +1,1125 @@
+MOLECULAR AND SYNAPTIC MECHANISMS
+Upregulation of axon guidance molecules in the adult
+central nervous system of Nogo-A knockout mice restricts
+neuronal growth and regeneration
+Anissa Kempf,1,* Laura Montani,1,†,* Marija M. Petrinovic,1,‡,* Aileen Schroeter,1,§ Oliver Weinmann,1
+Andrea Patrignani2 and Martin E. Schwab1
+1Department of Health Sciences and Technology, Brain Research Institute, University of Zurich, Swiss Federal Institute of
+Technology (ETH) Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland
+2Functional Genomics Center, University of Zurich, Winterthurerstrasse 190, CH-8057 Zurich, Switzerland
+Keywords: compensation, EphA4, EphrinA3, myelin, Nogo-A, spinal cord injury
+Abstract
+Adult central nervous system axons show restricted growth and regeneration properties after injury. One of the underlying mecha-
+nisms is the activation of the Nogo-A/Nogo receptor (NgR1) signaling pathway. Nogo-A knockout (KO) mice show enhanced
+regenerative growth in vivo, even though it is less pronounced than after acute antibody-mediated neutralization of Nogo-A.
+Residual inhibition may involve a compensatory component. By mRNA expression profiling and immunoblots we show increased
+expression of several members of the Ephrin/Eph and Semaphorin/Plexin families of axon guidance molecules, e.g. EphrinA3
+and EphA4, in the intact spinal cord of adult Nogo-A KO vs. wild-type (WT) mice. EphrinA3 inhibits neurite outgrowth of EphA4-
+positive neurons in vitro. In addition, EphrinA3 KO myelin extracts are less growth-inhibitory than WT but more than Nogo-A KO
+myelin extracts. EphA4 KO cortical neurons show decreased growth inhibition on Nogo-A KO myelin as compared with WT
+neurons, supporting increased EphA4-mediated growth inhibition in Nogo-A KO mice. Consistently, in vivo, Nogo-A/EphA4 double
+KO mice show increased axonal sprouting and regeneration after spinal cord injury as compared with EphA4 KO mice. Our
+results reveal the upregulation of developmental axon guidance cues following constitutive Nogo-A deletion, e.g. the EphrinA3/
+EphA4 ligand/receptor pair, and support their role in restricting neurite outgrowth in the absence of Nogo-A.
+Introduction
+Adult central nervous system (CNS) injuries result in chronic func-
+tional impairment as a consequence of the extremely limited ability
+of lesioned axons to successfully regrow and repair the damaged
+neuronal network (Yiu & He, 2006; Schwab, 2010). CNS regenera-
+tion is prevented by various cell-intrinsic suppressors of growth sig-
+naling, e.g. phosphatase and tensin homolog (PTEN; Park et al.,
+2008), as well as by cell-extrinsic mechanisms (Yiu & He, 2006).
+The latter include growth inhibitory factors present in the glial scar,
+e.g. chondroitin sulfate proteoglycans (Bradbury et al., 2002; Fawc-
+ett, 2006), as well as in myelin, e.g. Nogo-A (Chen et al., 2000;
+GrandPre et al., 2000; Prinjha et al., 2000), myelin-associated
+glycoprotein (MAG; McKerracher et al., 1994; Mukhopadhyay
+et al., 1994), oligodendrocyte myelin glycoprotein (OMgp; Wang
+et al., 2002) or the lipid sulfatide (Winzeler et al., 2011). In the last
+decade, several scar- or myelin-associated developmental axon guid-
+ance molecules and their receptors have been shown to possess
+growth-inhibitory properties – repulsive guidance molecule RGMa
+(Hata et al., 2006), EphrinB3 (Benson et al., 2005; Duffy et al.,
+2012), EphA4 (Goldshmit et al., 2004, 2011; Fabes et al., 2006),
+EphB3 (Liu et al., 2006), Sema3A (Kaneko et al., 2006; Pasterk-
+amp & Verhaagen, 2006; Montolio et al., 2009), Sema4D (Moreau-
+Fauvarque et al., 2003), Sema5A (Goldberg et al., 2004), Netrin1
+(Low et al., 2008) and PlexinA2 (Shim et al., 2012).
+Among myelin-associated growth inhibitors, Nogo-A has been
+most extensively studied in vitro and in vivo. Neutralization via func-
+tion-blocking antibodies led to regenerative growth and enhanced
+sprouting and plasticity in rodent and primate models of spinal cord
+injury (Zorner & Schwab, 2010), paving the way for clinical trials in
+acute spinal cord-injured, amyotrophic lateral sclerosis and multiple
+sclerosis patients (ClinicalTrials.gov – NCT00406016, NCT00875446
+and NCT01424423; Buchli et al., 2007). Similar results were obtained
+by blocking the Nogo-A receptor NgR1 (Akbik et al., 2012). Despite
+the consistent association of acute Nogo-A or NgR1 blockade with
+Correspondence: Dr A. Kempf, as above.
+E-mail: kempf@hifo.uzh.ch.
+*These authors contributed equally to this study.
+†Present address: Institute of Molecular Health Sciences, Swiss Federal Institute of
+Technology, ETH, Schafmattstrasse 22, CH-8093 Zurich, Switzerland
+‡Present address: F. Hoffmann-La Roche AG, Pharma Research and Early Develop-
+ment, pRED, DTA Neuroscience, Grenzacherstrasse 124, CH-4070 Basel, Switzerland
+§Present address: Institute for Biomedical Engineering, Swiss Federal Institute of Tech-
+nology, ETH, Zurich, Schafmattstrasse 22, CH-8093 Zurich, Switzerland
+Received 26 June 2013, revised 14 August 2013, accepted 15 August 2013
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, Vol. 38, pp. 3567–3579, 2013 doi:10.1111/ejn.12357
+European Journal of Neuroscience
+increased axonal sprouting and regeneration after CNS injury, the gen-
+eration of different Nogo-A, Nogo-A/B or Nogo-A/B/C knockout
+(KO) mice by several laboratories led to more moderate and contro-
+versial phenotypes (Kim et al., 2003; Simonen et al., 2003; Zheng
+et al., 2003; Dimou et al., 2006; Lee et al., 2009, 2010; Cafferty
+et al., 2010). These were attributed to differences in Nogo deletion
+mutants, mouse strain genetic background effects, differences in
+experimental protocols, or possible compensation by other Nogo iso-
+forms, other reticulon proteins or functionally related genes (Schwab,
+2004; Lee & Zheng, 2012; Tews et al., 2013). However, genetic com-
+pensation in Nogo-A KO mice as well as its functional implication
+with regard to axonal growth and regeneration has not yet been sys-
+tematically addressed.
+By performing a microarray screen, we investigated the upregula-
+tion of potential subsidiary inhibitors in the spinal cord of adult
+Nogo-A KO mice. We found an upregulation of several axon guid-
+ance molecules, and identified EphrinA3 as a novel neuronal growth
+inhibitor signaling via the receptor EphA4. Our results suggest a
+role for EphA4 in partially mediating the residual inhibition
+observed in Nogo-A KO mice.
+Material and methods
+Experimental animals
+All animal experiments were performed with the approval and in
+accordance with the guidelines of the Zurich Cantonal Veterinary
+Office. Experiments were carried out in accordance with the Euro-
+pean Communities Council Directive of 24 November 1986 (86/609/
+EEC). All efforts were made to minimize the number of animals
+required. Postnatal day 5–8 (P5–8) and adult C57BL/6 male and
+female wild-type (WT), Nogo-A KO (Simonen et al., 2003; Dimou
+et al., 2006), EphA4 KO (Dottori et al., 1998; Kullander et al.,
+2001) and Nogo-A/EphA4 double KO mice were used in this study.
+All lines were backcrossed for at least ten generations and maintained
+on a pure C57BL/6 background to exclude strain-specific effects.
+EphA4 KO mice (Dottori et al., 1998; Kullander et al., 2001) were
+kindly provided by R. Klein (Max-Planck Institute for Neurobiology,
+Martinsried, Germany). Nogo-A/EphA4 double KO mice were gener-
+ated by crossing Nogo-A KO with EphA4 KO mice. EphrinA3 KO
+(Cutforth et al., 2003) spinal cord tissue was a generous gift from D.
+Feldheim (University of California, Santa Cruz, CA, USA).
+Antibodies and recombinant proteins
+The following antibodies were used (including dilutions used for
+Western blot (WB) and immunohistochemistry (IHC)) – mouse anti-
+EphA4 (WB 1 : 200; Cat. No. 37-1600; Invitrogen, Carlsbad, CA,
+USA; antibody specifically recognizes the C terminus of human
+EphA4 and cross-reacts with mouse), rabbit anti-EphrinA3 (WB
+1 : 200, IHC 1 : 150; Cat. No. 36-7500; Invitrogen; antibody spe-
+cifically recognizes the C terminus of mouse EphrinA3), rabbit anti-
+glial fibrillary acidic protein (GFAP; IHC 1 : 500; Cat. No. Z0334;
+DakoCytomation, Glostrup, Denmark; antibody specifically recog-
+nizes cow GFAP and cross-reacts with all mammalian GFAP),
+mouse anti-glyceraldehyde-3-phosphate dehydrogenase (GAPDH;
+WB 1 : 20,000; Cat. No. ab8245; Abcam, Cambridge, UK; antibody
+specifically recognizes rabbit GAPDH and cross-reacts with all
+mammalian GAPDH), rabbit anti-S/L myelin-associated glycoprotein
+(MAG; WB 1 : 1000; Cat. No. 34-6200; Invitrogen; antibody spe-
+cifically recognizes human MAG and cross-reacts with rat MAG),
+rabbit anti-Nogo-A/B serum (Bianca, Rb1; Oertle et al. (2003); WB
+1 : 15,000; antibody specifically recognizes the N terminus of rat
+Nogo-A/B (amino acids 1–31 + 59–172) and cross-reacts with
+mouse Nogo-A/B), mouse anti-NeuN (IHC 1 : 200; Cat. No.
+MAB377; Millipore, Billerica, MA, USA; antibody specifically rec-
+ognizes mouse NeuN and cross-reacts with all mammalian NeuN),
+rabbit anti-Sema3F (WB 1 : 1000; Cat. No. ab135880; Abcam; anti-
+body specifically recognizes the C terminus of human Sema3F and
+cross-reacts with mouse and rat Sema3F), mouse anti-Sema4D (WB
+1 : 2000; Cat. No. 610670; BD Biosciences, Franklin Lakes, NJ,
+USA; antibody specifically recognizes human Sema4D (amino acids
+721–861) and cross-reacts with rat and mouse), mouse anti-bIII
+Tubulin (ICC 1 : 2000; Cat. No. G7121; Promega, Madison, WI,
+USA; antibody specifically recognizes the C terminus of rat bIII
+Tubulin and cross-reacts with mouse), mouse anti-receptor interacting
+protein (RIP; Oligo; IHC 1 : 100; Cat. No. MAB1580; Millipore),
+goat anti-mouse IgG horseradish peroxidase (HRP)-conjugated (WB
+1 : 15 000; Cat. No. 31446; Thermo Fisher Scientific, Waltham, MA,
+USA), donkey anti-rabbit IgG HRP-conjugated (WB 1 : 10 000; Cat.
+No. 31458; Thermo Fisher Scientific), goat anti-mouse IgG Cy3-
+conjugated (IHC 1 : 1000; Cat. No. 115-165-166; Jackson Immuno-
+Research Laboratories, West Grove, PA, USA), goat anti-rabbit IgG
+Cy3-conjugated (IHC 1 : 1000; Cat. No. 115-165-003; Jackson
+ImmunoResearch Laboratories) and goat anti-rabbit IgG Alexa488-
+conjugated (IHC 1 : 1000; Cat. No. A11034; Invitrogen). EphrinA3
+and EphA4 antibodies were validated with KO lysates.
+The following recombinant proteins were used – human EphrinA3-
+Fc (Cat. No. 359EA; R&D Systems, Minneapolis, MN, USA), human
+Fc (Cat. No. 009-000-008; Jackson Laboratories) and goat anti-human
+IgG-Fcc fragment (Cat. No. 109-005-098; Jackson Laboratories).
+Affymetrix GeneChips
+Lumbar spinal cords from three adult (3–4 months old) male WT
+and Nogo-A KO mice were dissected and transferred into ‘RNA
+later’ stabilization solution (Ambion, Austin, TX, USA). Total RNA
+extraction, cRNA preparation, array hybridization on GeneChip®
+Mouse Genome 430 2.0 arrays, data acquisition and analysis were
+performed as described previously (Craveiro et al., 2008). Data were
+analysed applying a one-way analysis of variance (ANOVA; P < 0.05).
+A final threshold of ≥ 1.2-fold increase or decrease in the expression
+level of each single transcript was applied. Regulated transcripts were
+assigned to functional categories according to GeneOntology (http://
+www.geneontology.org) as well as literature and database mining
+(PubMed: http://www.pubmed.com; Bioinformatics Harvester EMBL
+Heidelberg: http://harvester.kit.edu/HarvesterPortal). GeneChip data
+are available online at the GEO database (http://www.ncbi.nlm.nih.
+gov/geo/query/acc.cgi?token=jlcnjkwuyccocxk&acc=GSE11276).
+Quantitative real-time PCR (qRT-PCR)
+Primer and probe sets were designed through Primer Express Soft-
+ware version 2.0 (Applied Biosystems, Carlsbad, CA, USA). Total
+RNA from three Nogo-A KO and three WT adult (4 months old)
+lumbar spinal cords was transcribed to cDNA using the TaqMan
+Reverse Transcription Reagents (Applied Biosystems) and TaqMan
+qRT-PCR was performed. Target amplification with TaqMan Univer-
+sal PCR Master Mix for three replicates per sample was performed
+according to the manufacturer’s instructions. Signal was detected with
+the ABI Prism 7700 Sequence Detection System (software version
+1.6). Relative quantification was performed using the comparative CT
+method (Muller et al., 2002). The 18S ribosomal subunit was used
+as an endogenous reference control. The following primers were
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+3568 A. Kempf et al.
+used: EphrinA3 (Fwd 5′-TGTCTGAGGATGAAGGTGTTCG-3′,
+Rev 5′-GACCGGCTTCTCCCCG-3′); EphA4 (Fwd 5′-GGCTCCTT
+GGATGCTTTCC-3′, Rev 5′-GCATGCCCACCAGCTGA-3′); Sema-
+phorin3F (Sema3F, Fwd 5′-CATCAACCGAGAGCCCCTTA-3′,
+Rev 5′-ATGCACTCCTCAATGCGCT-3′); Semaphorin4D (Sema4D,
+Fwd 5′-CCTTGAGGACGGAGTATGCC-3′, Rev 5′-TCTGGATCA
+CGTCAGCAAAGA-3′); PlexinB2 (Fwd 5′-CTTCCACGGAGAAAT
+CCAGT-3′, Rev 5′-GAGCCGCATGGGAAGC-3′); and 18S RNA
+(Fwd 5′-CTTTGGTCGCTCGCTCCTC-3′, Rev 5′-CTGACCGGGTT
+GGTTTTGAT-3′).
+To determine changes in EphrinA3 and GFAP expression 7 days
+after spinal cord injury (see below), a dissected spinal cord segment
+spanning the lesion site (5 mm) was dissected from four WT mice.
+Sham-operated mice were used as control (n = 4). Total RNA and
+cDNA was processed as described above. cDNA was amplified using
+the Light Cycler 480 thermocycler (Roche Diagnostics AG, Rotkreuz,
+Switzerland) with the polymerase ready mix (SYBR Green I Master;
+Roche Diagnostics AG). Relative quantification was performed using
+the comparative CT method. cDNA levels were normalized to the re-
+ference gene Gapdh (Fwd 5′-CAGCAATGCATCCTGCACC-3′, Rev
+5′-TGGACTGTGGTCATGAGCCC-3′). The following primers were
+used for GFAP (Fwd 5′-CCAC CAAACTGGCTGATGTCTAC-3′,
+Rev 5′- TTCTCTCCAAATCCA CACGAGC -3′). Each reaction was
+done in triplicate.
+Immunoblotting
+Tissues were homogenized and proteins extracted on ice in lysis
+buffer (50 mM NaH2PO4 pH 8.0, 150 mM NaCl, 0.5% 3-[(3-cholam-
+idopropyl)dimethylammonio]-1-propanesulfonate (CHAPS), protease
+inhibitors cocktail (Roche, Basel, Switzerland)) and processed as
+previously described (Montani et al., 2009). Twenty or 40 lg pro-
+tein was loaded per lane. Densitometry analysis was performed with
+IMAGEJ software (NIH, Bethesda, MD, USA). Values were norma-
+lized to the housekeeping gene GAPDH and to the mean value of
+the corresponding control group.
+Cell culture
+Dissociated cortical neurons
+Cortices from P5–P8 mice were rapidly dissected in ice-cold Hiber-
+nate A medium (BrainBits, Springfield, IL, USA) supplemented with
+1% penicillin/streptomycin (Gibco, Carlsbad, CA, USA), 2% B27
+supplement (Gibco) and 200 mM L-glutamine (Gibco), and digested
+for 35 min at 30 °C with 2 mg/mL papain (Worthington, Lakewood,
+NJ, USA). After gentle trituration with a flame-polished Pasteur
+pipette, cortical neurons were purified from oligodendrocytes and
+microglial cells on an OptiPrep (Greiner, Monroe, NC, USA) density
+gradient. Cells were plated at 15 000 cells/cm2 on glass coverslips
+coated with 1 lg/mL poly-L-ornithine (poly(O); Sigma, St Louis,
+MO, USA). Cultures were grown for 48 h at 37 °C/5% CO2 in Neu-
+robasal A medium (Gibco) supplemented with 1% penicillin/strepto-
+mycin (Gibco), 2% B27 (Gibco) and 200 mM L-glutamine (Gibco).
+Dissociated dorsal root ganglia (DRG) neurons
+DRG were removed from P5–P8 mice and processed as previously
+described (Montani et al., 2009). DRG neurons were cultured at a
+density of 4500 cells/cm2 for 10 h at 37 °C/5% CO2 on glass cover-
+slips coated with 20 lg/mL poly-L-lysine (PLL; Sigma) and
+5 lg/mL laminin (Invitrogen).
+Neurite outgrowth assays
+For assays involving recombinant Fc chimeric proteins, EphrinA3-Fc
+was clustered with goat anti-human IgG-Fcc in a ratio of 1 : 10 for
+2 h at 37 °C. Glass coverslips were coated with poly(O) or PLL/lami-
+nin (see above) and overlaid with 50 nM clustered EphrinA3-Fc or
+control Fc in phosphate-buffered saline (PBS; 0.1 M, pH 7.4) for 2 h
+at 37 °C before plating of the cells. For outgrowth assays on myelin-
+enriched spinal cord lysates, membrane-enriched spinal cord extracts
+were prepared. Dissected spinal cords were homogenized and pro-
+teins extracted on ice in lysis buffer (20 mM Tris-HCl, pH 8.0,
+60 mM CHAPS, 1 mM EDTA, 1 mM phenylmethanesulfonyl fluoride
+(PMSF), protease inhibitor cocktail (Complete Mini; Roche)). Lysates
+were enriched in membrane proteins by centrifugation for 1 h at
+100 000 g at 4 °C in a Beckman TL-100 ultracentrifuge. Glass co-
+verslips were coated with poly(O) and 6 lg/cm2 spinal cord extracts
+for 2 h at 37 °C before plating of the cells.
+Cells were fixed with 4% paraformaldehyde (PFA) and stained
+for bIII-Tubulin as previously described (Joset et al., 2010). Cul-
+tures were imaged with a DFC 350 FX Leica camera in a Leica
+DM 5500 B microscope equipped with a 10 9 objective (HCX PL
+FLUOTAR, NA 0.3). Neurite outgrowth was quantified using Meta-
+Morph software (Visitron systems GmbH, Puchheim, Germany).
+Spinal cord injury and corticospinal tract (CST) tracing
+Twenty-week-old C57BL/6 WT (n = 11), Nogo-A KO (n = 12),
+EphA4 KO (n = 13) and Nogo-A/EphA4 double KO (n = 11) mice
+of either sex were deeply anaesthetized by intraperitoneal injection
+of Hypnorm (0.3 mg/kg body weight; Jansen Pharmaceuticals,
+Titusville, NJ, USA)/Dormicum (0.6 mg/kg body weight; Roche). A
+laminectomy was performed at thoracic level 8 (T8). The dura was
+opened and a bilateral lesion of the dorsal and the dorsolateral funi-
+culi and the dorsal horns was produced with iridectomy scissors
+under a surgical microscope. Subsequently, back muscles were
+sutured and the skin was closed with surgical staples. For antero-
+grade tracing of the CST, mice received four injections (0.5 lL
+each) of a 10% biotin dextran amine (BDA; 10 000 mol. wt; Invi-
+trogen) solution in 0.1 M phosphate buffer (PB; pH 7.2) into the
+right sensory-motor cortex immediately after spinal cord injury. Ani-
+mals were killed 24 days post-injury. To determine changes in Eph-
+rinA3 expression after spinal cord injury, four WT mice underwent
+a dorsal hemisection surgery. Four sham-operated WT mice were
+used as control. Tissue was dissected 7 days post-injury and pro-
+cessed as described above.
+Immunohistochemistry
+Tissue preparation
+Animals were deeply anaesthetized with pentobarbital (Nembutal,
+75 mg/100 g body weight; Abbott Laboratories, Abbott Park, IL,
+USA) and transcardially perfused with PBS followed by 4% PFA
+containing 5% sucrose. Spinal cords were dissected and postfixed in
+the same fixative overnight at 4 °C before they were cryoprotected
+in 30% sucrose, embedded in Tissue-Tek OCT compound (Sakura
+Finetechnical, Tokyo, Japan) and rapidly frozen in isopentane at
+40 °C.
+Immunofluorescence staining
+Forty lm-thick cross or longitudinal sections were cut on a cryostat
+and transferred to ice-cold PBS for free-floating immunostaining.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+Genetic compensation in the CNS of Nogo-A KO mice 3569
+Free aldehyde groups were quenched in antigen retrieval solution
+(0.1 M Tris, pH 8.0, 50 mM glycine) for 3 min at 80 °C. After per-
+meabilization with 0.3% Triton X-100 for 20 min, sections were
+blocked with 4% goat serum in 0.1 M PB for 1 h. Primary antibod-
+ies were applied overnight at 4 °C. After washing, sections were
+incubated with the appropriate secondary antibodies for 2 h at room
+temperature. Sections were then counterstained with Hoechst dye
+33342 (Invitrogen), mounted on Superfrost-Plus slides (Menzel-
+Gl€aser, Braunschweig, Germany) and coverslipped with Mowiol/2%
+DABCO (Sigma). Images were acquired with a cooled CCD camera
+(CoolSNAP HQ, Photometrics) on a Zeiss Axiophot microscope and
+collected using image analysis software MCID ELITE Software version
+7.0 (Imaging Research). A 5 9 objective (Plan NEOFLUAR, NA
+0.15) was used. Single-cell densitometry analysis was performed
+using the IMAGEJ software (NIH; Version 1.44). The same exposure
+time was used for all images of a given staining. Ten images were
+taken from a region of interest and averaged for each animal. Mean
+gray level values were background-corrected and normalized to the
+mean value of the corresponding control group. Confocal images
+were acquired by using a TCS SP2 AOBS spectral confocal micro-
+scope (Leica Microsystems) with a 20 9 (HC PL FLUOTAR, NA
+0.50) or 63 9 oil immersion objective (HCX PL APO Oil, NA
+1.32).
+Peroxidase diaminobenzidine staining
+Thirty lm-thick sagittal sections comprising the lesion site and
+~15 mm of the spinal cord caudal to the lesion site were cut on a
+cryostat. The medulla oblongata was cut in the transverse plane to
+control for labeling efficiency. Sections were stained for BDA
+according to the nickel-enhanced diaminobenzidine (DAB) protocol
+as described previously (Herzog and Brosamle, 1997). Subsequently,
+sections were dehydrated and coverslipped with Eukitt (Kindler,
+Freiburg im Breisgau, Germany).
+Quantification of regenerative properties of the CST
+Animals showing a smaller or bigger (almost complete transection)
+lesion of the CST were excluded from the study (WT: n = 1, EphA4
+KO: n = 2, Nogo-A/EphA4 KO: n = 2). The number of CST sprout-
+ing fibers 1 mm rostral to the lesion site was assessed using a 0–3
+point scoring scale (0, no sprouting; 1, single and short fine fibers; 2,
+longer fibers, rarely reaching the lesion center and rarely having
+growth cones; 3, dense outgrowth of fibers from the main CST
+toward and around the lesion, frequent growth cones) as previously
+described (Liebscher et al., 2005; Dimou et al., 2006). The number
+of labeled axons caudal to the lesion site was quantified on all adja-
+cent sagittal sections of the traced half of the spinal cord using dorso-
+ventral lines positioned at the lesion center and at 1, 3, 5 and 10 mm
+caudal to the lesion as described previously (Liebscher et al., 2005;
+Dimou et al., 2006). BDA tracing efficiency, expressed as the ave-
+rage number of BDA-positive CST axons in the medullary pyramids,
+was comparable between the genotypes (WT: 2126.38  72.00,
+Nogo-A KO: 1958.06  52.75, EphA4 KO: 1995.33  47.22,
+Nogo-A/EphA4 KO: 2013.19  78.16; F3,38 = 2.542, P > 0.05;
+one-way ANOVA). Thus, the obtained sum of fibers at each distance
+quantified was expressed as the raw number of axons per section.
+Quantification of the lesion and scar volume
+To visualize the lesion and the scar volume, all sagittal sections of
+each animal were immunostained with an anti-GFAP antibody.
+Lesion area was defined as the GFAP-negative area of the lesion
+core, whereas the scar area was defined as the GFAP-positive region
+surrounding the lesion core. Sections were reconstructed using a
+Neurolucida software-controlled computer system (MBF Bioscience,
+Williston, VT, USA) to estimate the lesion and scar volume. Images
+were taken under a Leica DM 5500 B microscope equipped with a
+10 9 objective (HCX PL FLUOTAR, NA 0.3).
+Statistical analysis
+Statistical analyses were conducted using the statistical software
+SPSS (IBM) and GRAPHPAD PRISM (GraphPad Software Inc., La
+Jolla, CA, USA). For quantification of neurite outgrowth, the
+mean  SEM of neurite length for each condition (150–200 cells)
+was determined from multiple independent experiments. For quanti-
+fication of immunoblots, the mean  SEM of normalized densi-
+tometry values for each condition was determined from 3–4 mice.
+For quantification of immunohistochemistry, the mean  SEM of
+normalized densitometry values for each condition (ten cells) was
+determined from three mice. Immunoblotting, immunohistochemi-
+cal, neurite outgrowth and qRT-PCR data were analysed using an
+unpaired Student’s t test (two-tailed). For quantification of regene-
+rative growth, the number of BDA-positive axons at specified
+distances was counted as described above. The mean  SEM of
+CST axons per section was determined from 9–12 mice and
+subjected to a Welch’s t test to account for unequal variances and
+non-normal distributions. The mean  SEM of sprouting fibers
+1 mm rostral to the lesion site was determined from 9–12 mice
+and was analysed by a Welch’s t test. The mean  SEM of the
+lesion and scar volume was determined from 5–10 mice and sub-
+jected to a one-way ANOVA followed by a post hoc Bonferroni’s
+test; n identifies the number of independent experiments or mice.
+A P value of less than 0.05 was considered statistically significant.
+All data are shown as mean values  SEM with *P < 0.05,
+**P < 0.01 and ***P < 0.001.
+Results
+Upregulation of developmental axon guidance molecules in
+the spinal cord of adult Nogo-A KO mice
+To investigate compensatory changes due to the constitutive genetic
+ablation of Nogo-A, we compared the transcriptome of the intact lum-
+bar spinal cord of adult C57BL/6 Nogo-A KO vs. WT mice. The
+Affymetrix GeneChip analysis revealed the statistically significant
+regulation of 606 transcripts above or below a 1.2-fold change thresh-
+old (P < 0.05; ANOVA). In total, 554 (91.4%) genes showed an
+increased expression, and 52 (8.6%) a decreased expression. The
+main represented functional categories, with assignments based on
+GeneOntology and literature mining, were – signaling (14%), tran-
+scription and RNA processing (13%), transport (9%), cell growth
+(9%), metabolism (7%), protein processing (6.5%), synapse related
+and vesicles (5.5%), axon guidance and cell adhesion (5%), DNA
+and chromatin processing (4.5%), proteolysis and peptidolysis (4%),
+defense/immune response (4%), cytoskeleton (3%), apoptosis (3%)
+and response to stress (1%; Fig. 1A, Supporting Information Table S1).
+In accordance with our previously published data showing a role for
+neuronal Nogo-A in remodeling of the growth cone cytoskeleton in
+the intact CNS (Montani et al., 2009), we observed the upregulation
+of microtubule-associated proteins (TAU (1.54-fold), MAP1 (1.51-
+fold), moesin (1.30-fold)), actin-binding factors (gelsolin (1.62-fold),
+coronin (1.43-fold), talin (1.38-fold)), motor molecules (kinesin2
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+3570 A. Kempf et al.
+(1.39-fold)) and cytoskeletal regulators (PAK4 (1.20-fold), RhoGDI
+(1.51-fold)) (Table S1).
+To address a possible upregulation of growth-inhibitory molecules
+in Nogo-A KO mice, we focused on changes in the expression of
+the known myelin-associated growth inhibitors as well as on devel-
+opmental repulsive/inhibitory axon guidance molecules. Analysis of
+the growth-inhibitory myelin proteins MAG and OMgp revealed a
+1.46-fold upregulation of MAG mRNA, whereas no change was
+observed for OMgp (Table S1). Interestingly, specific members
+of the Sema/Plexin and Ephrin/Eph families of axon guidance
+molecules responded to the ablation of Nogo-A: the mRNA levels
+of Sema4D, Sema3F and the Sema receptor PlexinB2 were
+significantly upregulated by 1.31-, 1.63- and 1.50-fold, respectively
+(Fig. 1A). Among Ephrin/Eph members, EphrinA3 mRNA was
+found to be 1.56-fold enriched, whereas the change for EphA4 was
+below 1.2-fold (1.18) albeit significant (Fig. 1A). All observed tran-
+scriptional changes in Ephrin/Eph and Sema/Plexin family members
+were further verified by qRT-PCR. We confirmed significant
+changes for EphrinA3, Sema3F and Sema4D, and additionally
+showed a significant 1.36-fold upregulation of EphA4 (Fig. 1A),
+whose role in inhibiting CNS regeneration has been the object of
+recent studies (Goldshmit et al., 2004, 2011; Cruz-Orengo et al.,
+2006, 2007; Fabes et al., 2006, 2007; Herrmann et al., 2010b;
+Munro et al., 2012).
+A
+B C
+Fig. 1. Transcriptomic profiling of the spinal cord of adult Nogo-A KO mice. (A) Percentage of total transcripts (n = 606) significantly regulated in the spinal
+cord of adult Nogo-A KO vs. WT mice and assigned to functional categories based on GeneOntology and literature and database mining. The further discussed
+category ‘Axon guidance and cell adhesion’ is highlighted. Expression changes of candidate axon guidance molecules regulated in the spinal cord of adult
+Nogo-A KO vs. WT mice (WT = 1) as assessed by microarray and qRT-PCR. A final threshold of a 1.2-fold increase or decrease in the expression level was
+applied. 18S RNA was used as housekeeping gene. (B) Western blot analyses of EphrinA3, EphA4, Sema3F and Sema4D expression in adult Nogo-A KO vs.
+WT spinal cord lysates and densitometry quantification thereof. Protein levels are normalized to GAPDH used as loading control. (C) qRT-PCR analysis of
+EphrinA3 and GFAP expression levels in sham-operated vs. lesioned WT spinal cord tissue 7 days post-injury. GAPDH was used as housekeeping gene. Data
+shown are means  SEM (n = 3–4 mice; *P < 0.05, **P < 0.01, ***P < 0.001; Student’s t test). DHx = dorsal hemisection.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+Genetic compensation in the CNS of Nogo-A KO mice 3571
+EphrinA3 is upregulated in spinal cord oligodendrocytes and
+neurons of adult Nogo-A KO mice
+We hypothesized that MAG as well as the guidance cues EphrinA3,
+EphA4, Sema3F and Sema4D might compensate for the lack of
+Nogo-A in Nogo-A KO mice. Their upregulation was therefore fur-
+ther investigated at the protein level by immunoblotting (Fig. 1B).
+MAG protein levels did not change significantly in Nogo-A KO
+spinal cord lysates (WT: 100.0  4.5%, KO: 114.6  7.6%;
+P = 0.150, n = 4; unpaired two-tailed Student’s t test). However,
+we found that EphrinA3 (t6 = 4.948, P = 0.003, n = 4), EphA4
+(t6 = 4.613, P = 0.004, n = 4), Sema3F (t4 = 4.305, P = 0.013,
+n = 3) and Sema4D (t6 = 8.180, P < 0.0001, n = 4) were signifi-
+cantly upregulated in Nogo-A KO spinal cord lysates (unpaired two-
+tailed Student’s t test; Fig. 1B). The large fold change in EphrinA3
+mRNA and protein (WT: 100.0  9.1%, KO: 179.5  13.3%,
+n = 4) expression as well as its unknown role for growth inhibition
+in the adult CNS prompted us to select EphrinA3 for further analy-
+sis. EphrinA3 can bind to several Ephrin receptors. Interestingly, a
+number of signaling components known to be modulated by the
+EphrinA3/EphA4 axis were also increased in the Nogo-A KO spinal
+cord, e.g. the Cyclin-dependent kinase 5 (Cdk5) regulators
+p35-Cdk5, Cables1 and Fnbp2/Cdkrap2 (Table S1). Together, these
+data point to a potential upregulation of EphrinA3/EphA4 signaling
+following constitutive genetic deletion of Nogo-A in vivo.
+Sema4D, Sema3F and EphA4 have been reported to be upregu-
+lated following spinal cord injury and thereby to increase growth
+inhibition (Moreau-Fauvarque et al., 2003; Goldshmit et al., 2004;
+Lindholm et al., 2004; Fabes et al., 2006). To investigate changes
+in EphrinA3 expression 7 days post-injury, a semi-quantitative
+RT-PCR analysis of EphrinA3 in lesioned spinal cord tissue
+including the lesion site was performed. As opposed to GFAP
+(t6 = 6.399, P < 0.001, n = 4), denoting reactive astrogliosis fol-
+lowing injury (Fawcett, 2006), EphrinA3 mRNA levels did not
+significantly change when compared with sham-operated WT mice
+(Fig. 1C).
+The cell type-specific localization of EphrinA3 in the adult
+spinal cord has not yet been addressed. Immunohistochemical
+analysis of EphrinA3 in the spinal cord of adult WT and Nogo-
+A KO mice revealed its expression in NeuN-positive neurons
+(Fig. 2A–C) but not in GFAP-positive astrocytes (Fig. 2D–F).
+Double immunostaining with the oligodendrocyte marker receptor-
+interacting protein (RIP) showed that EphrinA3 is also expressed
+in oligodendrocytes (Fig. 2G and H). Single-cell densitometric
+quantification of EphrinA3 expression in the lumbar spinal cord
+at level L4–L6 (Fig. 2I) revealed its significant upregulation in
+both neurons and oligodendrocytes of Nogo-A KO mice (Fig. 2J).
+The upregulation of EphrinA3 in the gray matter was reflected by
+a marked increase in the analysed Rexed’s laminae I–III (~54%;
+t4 = 3.479, P = 0.025, n = 3), IV (~46%; t4 = 4.513, P = 0.011,
+n = 3), VII (~56%; t4 = 2.711, P = 0.054, n = 3) and IX (~71%;
+t4 = 3.308, P = 0.030, n = 3; unpaired two-tailed Student’s t test;
+Fig. 2J). In the white matter, EphrinA3 immunoreactivity in oligo-
+dendrocytes was increased by ~120% (t4 = 4.193, P = 0.014,
+n = 3) and ~97% (t4 = 4.501, P = 0.011, n = 3) in the dorsal
+and ventral funiculus, respectively (unpaired two-tailed Student’s t
+test; Fig. 2J). The predominant upregulation of EphrinA3 in mye-
+linating oligodendrocytes, coupled to the known axonal expression
+of EphA4 (Kullander et al., 2001; Leighton et al., 2001), sug-
+gested that myelin-associated EphrinA3 might restrict axonal
+growth and regeneration via EphA4 in the spinal cord of Nogo-A
+KO mice.
+EphrinA3 inhibits neurite outgrowth via EphA4 in vitro
+We investigated the growth-inhibitory properties of EphrinA3 by
+analysing the outgrowth of two neuronal cell types plated on a
+clustered EphrinA3-Fc substrate. P5–P8 WT cortical neurons, which
+endogenously express the EphA4 receptor (Fig. 3A; Benson et al.,
+2005), were significantly inhibited by EphrinA3-Fc when compared
+with the Fc control (t10 = 6.606, P < 0.001, n = 6; unpaired two-
+tailed Student’s t test; Fig. 3B and C). By contrast, P5–P8 DRG
+neurons, which do not express detectable levels of EphA4, were
+not significantly inhibited by EphrinA3-Fc (P = 0.465, n = 3;
+unpaired two-tailed Student’s t test; Fig. 3A, D and E). To confirm
+the role of EphA4 for EphrinA3-mediated growth inhibition, corti-
+cal neurons were isolated from EphA4 KO mice and plated on
+clustered EphrinA3-Fc. Notably, EphA4 KO cortical neurons were
+not inhibited by EphrinA3-Fc when compared with control Fc
+(P = 0.602, n = 6; unpaired two-tailed Student’s t test; Fig. 3B
+and C), showing that EphA4 mediates EphrinA3-induced growth
+inhibition.
+We then addressed the inhibitory properties of membrane-
+enriched EphrinA3 KO spinal cord extracts on neurite outgrowth of
+cortical neurons. When compared with extracts prepared from WT
+and Nogo-A KO mice, we found that EphrinA3 KO extracts were
+significantly less inhibitory than WT (t12 = 3.046, P = 0.011, n = 7;
+unpaired two-tailed Student’s t test) but more than Nogo-A KO
+extracts (t12 = 2.234, P = 0.047, n = 7; unpaired two-tailed
+Student’s t test; Fig. 3F and G). Finally, we investigated whether
+EphA4 KO cortical neurons grown on Nogo-A KO spinal cord
+extracts would show a decreased inhibition as compared with WT
+neurons. Indeed, EphA4 KO cortical neurons were significantly less
+inhibited by Nogo-A KO spinal cord extracts than WT neurons
+(t14 = 2.462, P = 0.026, n = 7; unpaired two-tailed Student’s t test;
+Fig. 3H and I). These results support a functional role for the broad-
+range Ephrin receptor EphA4 in mediating increased growth inhibi-
+tion following constitutive Nogo-A ablation.
+CST regeneration after spinal cord injury in WT, Nogo-A KO,
+EphA4 KO and Nogo-A/EphA4 double KO mice
+Given the increased EphA4-mediated growth inhibition in Nogo-A
+KO mice, we reasoned that the combined deletion of Nogo-A and
+EphA4 may have an additive or synergistic effect on axonal rege-
+neration. This was addressed by analysing axonal sprouting and
+regeneration following spinal cord injury in newly generated Nogo-
+A/EphA4 double KO mice. As described for EphA4 KO mice, also
+Nogo-A/EphA4 KO mice showed a majority of normally positioned
+CST axons within the dorsal funiculus but these axons had aberrant
+projections across the midline forming bilateral connections (Dottori
+et al., 1998; Coonan et al., 2001; Kullander et al., 2001; Leighton
+et al., 2001). In addition, Nogo-A/EphA4 KO mice showed a ven-
+tral displacement of the mature CST termination pattern reaching
+the intermediate zone of the spinal cord as described for EphA4 KO
+alone (Coonan et al., 2001). Thus, the aberrant CST projections pre-
+cluded a reliable comparison between EphA4-positive and -negative
+genotypes, especially in the zone of regenerative sprouting at the
+lesion site (surviving displaced CST axon branches could not be dis-
+tinguished from sprouting fibers in the tissue bridge ventral to the
+lesion) and in the caudal spinal cord. Therefore, WT mice were
+compared with Nogo-A KO mice, and EphA4 KOs with Nogo-A/
+EphA4 KOs. Similar to EphA4 KO mice (Herrmann et al., 2010b),
+Nogo-A/EphA4 double KO mice also showed pronounced balance
+problems manifested as lateral recumbency after spinal cord injury,
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+3572 A. Kempf et al.
+which made many behavioral tests difficult or impossible to per-
+form.
+In 20-weeks-old WT, Nogo-A KO, EphA4 KO and Nogo-A/
+EphA4 double KO mice, the dorsal half of the spinal cord, including
+the main CST and its minor components in the dorso-lateral funiculi,
+was transected bilaterally. The volume of the GFAP-negative lesion
+core was measured. No significant differences could be observed
+among the mice of different genotypes (WT: 0.067  0.004 mm3
+(n = 6), Nogo-A KO: 0.055  0.006 mm3 (n = 10), EphA4 KO:
+0.059  0.006 mm3 (n = 7), Nogo-A/EphA4 KO: 0.065 
+0.004 mm3 (n = 5); F3,24 = 1.007, P = 0.406; one-way ANOVA with
+Bonferroni’s post hoc test) (Fig. 4A and B). In accordance with a
+previous study (Goldshmit et al., 2004), the astrocytic scar volume,
+defined as GFAP-positive tissue volume surrounding the lesion core,
+was significantly smaller in EphA4 KO (P < 0.01) and Nogo-A/
+EphA4 double KO (P < 0.05), but not in Nogo-A KO mice
+when compared with WT mice (WT: 0.528  0.059 mm3 (n = 6),
+Nogo-A KO: 0.413  0.061 mm3 (n = 10), EphA4 KO:
+A B C
+D E
+I J
+F
+G H
+Fig. 2. EphrinA3 is upregulated in spinal cord neurons and oligodendrocytes of Nogo-A KO mice. (A–C) Immunohistochemical analysis of EphrinA3 expres-
+sion in the lumbar spinal cord gray matter of WT (A) and Nogo-A KO mice (B) reveals the presence of EphrinA3 in NeuN-positive neurons (Lamina IX) (C).
+(D–F) Double immunostaining of EphrinA3 (D–F) and GFAP (F) in the lumbar spinal cord white matter (df) shows the lack of EphrinA3 expression in astro-
+cytes. (G,H) Co-localization of EphrinA3 (G) with the oligodendrocyte marker RIP (H) reveals the presence of EphrinA3 in oligodendrocytes of Nogo-A KO
+mice. (I) Schematic drawing of a lumbar spinal cord cross-section illustrating the analysed regions (left) in the gray and white matter. (J) Single-cell densitome-
+tric quantification of EphrinA3 expression in NeuN-positive neurons in Laminae I–III, IV, VII and IX; and of RIP-positive oligodendrocytes in the dorsal (df)
+and ventral (vf) white matter. Ten cells were analysed per condition. Arrows indicate EphrinA3-positive cells in the Nogo-A KO spinal cord. Data shown are
+means  SEM (n = 3 mice; *P < 0.05; Student’s t test). GM = gray matter; WM = white matter; df = dorsal funiculus; vf = ventral funiculus; lf = lateral
+funiculus; Scale bars: 100 lm.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+Genetic compensation in the CNS of Nogo-A KO mice 3573
+0.189  0.039 mm3 (n = 7), Nogo-A/EphA4 KO: 0.313  0.093
+mm3 (n = 5)) (F3,24 = 7.245, P = 0.001; one-way ANOVA with
+Bonferroni’s post hoc test; Fig. 4A and C).
+Sprouting of CST axons 1 mm rostral to the lesion was assessed
+using a 0–3 point scoring scale. As previously described by Dimou
+et al. (2006), sprouting was moderate in WTs and significantly
+increased in Nogo-A KO mice (WT: 1.24  0.18 n = 10, Nogo-A
+KO: 1.86  0.21 n = 12; t13 = 2.604, P = 0.03; Welch’s t test;
+Fig. 5A, A′, B and B′). In EphA4 KO and Nogo-A/EphA4 KO
+mice, sprouting was further increased but comparable between the
+genotypes (EphA4 KO: 2.20  0.24, n = 11; Nogo-A/EphA4 KO:
+2.33  0.19, n = 9; t11 = 0.847, P = 0.69; Welch’s t test; Fig. 5C,
+C′, D and D′). Many of these fibers extended laterally and ventrally
+from the main CST into the adjacent gray and white matter and
+below the lesion (Fig. 5A′–D′; arrows). In both EphA4 KO and
+Nogo-A/EphA4 double KO mice, many sprouts ended very close to
+or in the lesion itself (Fig. 5C′ and D′; arrowheads). Due to the
+aberrant ventral course of some CST fibers in the EphA4 KO spinal
+cord, an unknown proportion of the fibers curving around the lesion
+in the ventral tissue bridge in EphA4 KO and Nogo-A/EphA4 KOs
+may be intact spared CST fibers in addition to regenerating and
+sprouting fibers (Fig. 5E ‘lesion site’). Nevertheless, the number of
+fibers that bypassed the lesion on the ventral tissue bridges was lar-
+ger in Nogo-A KO and Nogo-A/EphA4 KO mice than in the respec-
+tive controls. CST axons that were present in the spinal cord caudal
+to the lesion were quantified at 1, 3, 5 and 10 mm past the lesion
+(Dimou et al., 2006). An irregular, tortuous and often branched
+growth pattern of thin fibers typical of regenerative growth was
+observed (Simonen et al., 2003; Liebscher et al., 2005; Fig. 5A″–D″).
+As previously described, Nogo-A KO mice showed a significant
+increase in the number of regenerating fibers at 1, 3 and 5 mm past
+the lesion when compared with WT mice (Fig. 5E; Simonen et al.,
+2003; Dimou et al., 2006). EphA4 KO mice displayed more fibers
+than WT and Nogo-A KO mice up to 10 mm caudal to the lesion,
+even though these fibers probably represent a mixture of regenerated
+axons and branches/sprouts of spared axons (see above; Fig. 5E).
+These results support previous evidence for a role of EphA4 in
+restricting axonal regeneration in the adult CNS (Goldshmit et al.,
+2004, 2011) and suggest that Nogo-A and EphA4 may additively
+restrict axonal sprouting and regeneration in the adult CNS.
+Discussion
+We performed mRNA expression profiling of the intact spinal cord
+of adult constitutive C57BL/6 Nogo-A KO (Simonen et al., 2003;
+Dimou et al., 2006) vs. WT mice to identify compensatory altera-
+tions that may account for residual growth inhibition in the absence
+of Nogo-A. Our study shows that the repulsive axon guidance mole-
+cules Sema4D, Sema3F, EphrinA3 and EphA4 are upregulated in
+the adult spinal cord of Nogo-A KO mice at transcript and protein
+level. We identify EphrinA3 as a novel, myelin-associated inhibitor
+of neurite outgrowth in the adult CNS and we find EphA4-mediated
+growth inhibition upregulated in Nogo-A KO mice. In vivo, we con-
+firm a role for EphA4 in restricting axonal regeneration in the adult
+CNS and show that combined deletion of Nogo-A and EphA4
+results in increased regenerative growth after spinal cord injury
+when compared with EphA4 KO mice.
+EphrinA3 has been known mainly for its role in synaptic remod-
+eling and plasticity in the hippocampus (Pasquale, 2005). Here we
+show that EphrinA3 is also expressed in adult white matter oligo-
+dendrocytes and inhibits neurite outgrowth of primary neurons in an
+EphA4-dependent manner in vitro. The upregulation of three major
+A
+B C
+D E
+F G
+H I
+Fig. 3. EphrinA3 inhibits neurite outgrowth of cortical neurons (CNs) via
+EphA4 in vitro. (A) Western blot showing that EphA4 is expressed in WT
+P5–P8 dissociated CNs but not DRG neurons. WT and EphA4 KO brain tis-
+sue was used as positive and negative control, respectively. GAPDH was
+used as loading control. (B) Representative pictures of WT and EphA4 KO
+CNs cultured on a clustered Fc (control) or EphrinA3-Fc substrate
+(0.5 lg/cm2). (C) Clustered EphrinA3-Fc inhibits neurite outgrowth of
+EphA4-positive WT CNs but not of EphA4 KO CNs. (D) Representative pic-
+tures of WT DRG neurons cultured on a clustered Fc (control) or EphrinA3-
+Fc substrate (0.5 lg/cm2). (E) Clustered EphrinA3-Fc does not inhibit neurite
+outgrowth of DRG neurons. (F) Representative pictures of WT CNs plated
+on WT, EphrinA3 KO or Nogo-A KO membrane-enriched spinal cord
+extracts (6 lg/cm2). Poly(O) was used as control. (G) EphrinA3 KO spinal
+cord extracts are significantly less inhibitory than WT but more than Nogo-A
+KO spinal cord extracts. (H) Representative images of WT and EphA4 KO
+CNs on Nogo-A KO spinal cord extracts. Poly(O) was used as control. (I)
+EphA4 KO CNs are significantly less inhibited than WT CNs by Nogo-A
+KO spinal cord extracts. Data shown are means  SEM (n = 3–7 indepen-
+dent experiments; *P < 0.05, ***P < 0.001; Student’s t test). In total, 150–
+200 cells were analysed per condition. CN = cortical neurons; DRG = dorsal
+root ganglia; SC = spinal cord. Scale bars: 50 lm.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+3574 A. Kempf et al.
+Cdk5 regulators (p35-Cdk5, Cables1 and Fnbp2/Cdkrap2), previ-
+ously implicated in dendritic spine retraction upon EphrinA3-
+induced activation of EphA4 in the hippocampus (Zukerberg et al.,
+2000; Fu et al., 2007), suggests that Cdk5 might be a key down-
+stream mediator of the EphrinA3/EphA4 inhibitory pathway. Further
+studies will be needed to further address the role of Cdk5 in neurite
+outgrowth inhibition. A chemorepellent function has also been pre-
+viously attributed to Sema3F and Sema4D in the injured CNS and
+scar tissue (Pasterkamp & Verhaagen, 2006). Sema4D is expressed
+in oligodendrocytes, upregulated after CNS injury, and inhibits the
+growth of postnatal sensory and cerebellar granule cell neurons
+in vitro (Moreau-Fauvarque et al., 2003). Sema3F is secreted into
+the glial-fibrotic scar by meningeal fibroblasts (Pasterkamp et al.,
+1999; De Winter et al., 2002), upregulated after intraspinal moto-
+neuron axotomy (Lindholm et al., 2004) and induces growth cone
+collapse in vitro (Atwal et al., 2003). Together, these changes indi-
+cate that Sema4D, Sema3F and EphrinA3 may also impact the
+regenerative response observed in Nogo-A KO mice. Their relative
+functional contributions remain to be determined. It would be of
+particular interest to know whether similar compensatory changes
+also occur in other targeted and gene trap Nogo mutants and how
+closely they are associated with the observed, line-specific regenera-
+tive phenotypes. Variations in the degree of upregulation of com-
+pensatory mechanisms could play an important role for the observed
+differential growth and regeneration capacity in the different
+Nogo-A, Nogo-A/B and Nogo-A/B/C KO lines (Kim et al., 2003;
+Simonen et al., 2003; Zheng et al., 2003; Cafferty & Strittmatter,
+2006; Dimou et al., 2006; Lee et al., 2009).
+Our results point to a functional role for the broad-range Ephrin
+receptor EphA4 in mediating growth-restricting signals in Nogo-A
+KO mice. By using a dorsal bilateral hemisection spinal cord injury
+model, we specifically assessed a potential additive or synergistic
+role of Nogo-A and of EphA4 in axonal regeneration. It is of note
+that signaling pathways induced by Nogo-A and EphA4 converge
+A
+B C
+Fig. 4. Astrocytic glyosis is diminished in mice lacking EphA4. (A) Representative images of spinal cord mid-sagittal sections from WT, Nogo-A KO, EphA4
+KO and Nogo-A/EphA4 KO mice showing GFAP immunoreactivity around the lesion site 24 days after spinal cord lesion. (B) Quantification of lesion-induced
+tissue damage expressed as lesion volume, which is defined as the GFAP-negative region of the lesion core. Lesion volume was comparable between mice of
+all four genotypes. (C) Quantification of astrocytic gliosis expressed as scar tissue volume. The scar area was defined as the GFAP-positive region surrounding
+the lesion core. Gliotic scarring was reduced in EphA4 KO and Nogo-A/EphA4 KO after spinal cord injury. Dotted line outlines the GFAP-immunopositive
+scar area. Data shown are means  SEM (n = 5–10 mice; *P < 0.05, **P < 0.01; one-way ANOVA followed by Bonferroni’s post hoc test). DOKO = double
+KO. Scale bar: 300 lm.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+Genetic compensation in the CNS of Nogo-A KO mice 3575
+towards the activation of the small GTPase RhoA, which is central
+to growth repulsion and inhibition of axonal regeneration (Pasquale,
+2005; Schwab, 2010). In line with previous studies (Goldshmit
+et al., 2004; Dimou et al., 2006), we observed a significantly larger
+number of sprouting and regenerating fibers in single Nogo-A KO
+and EphA4 KO mice rostral and caudal to the lesion site, respec-
+tively, which was augmented in Nogo-A/EphA4 double KO mice.
+These results suggest an additive role for Nogo-A and EphA4 in
+restricting axonal regeneration post-injury. However, despite strict
+quantification criteria, it is possible that an unknown proportion of
+A A’ A”
+B B’ B”
+C C’ C”
+D
+E
+D’ D”
+Fig. 5. Sprouting and long-distance regeneration of CST axons in WT, Nogo-A KO, EphA4 KO and Nogo-A/EphA4 double KO mice. (A–D) Representative
+images of BDA-labeled CST axons in sagittal sections of the thoracic spinal cord after dorsal hemisection (delineated by dotted lines) in WT (A), Nogo-A KO
+(B), EphA4 KO (C) and Nogo-A/EphA4 DOKO (D) mice. Higher-magnification views immediately rostral to the lesion site (A′–D′) illustrate enhanced sprout-
+ing and reduced CST retraction from the lesion site in mutant mice. Numerous sprouting fibers extended laterally and ventrally from the main CST into the
+adjacent gray and white matter (arrows). In EphA4 KO mice, fiber sprouts ended very close to the lesion edge (arrowheads). High-magnification views caudal
+to the injury (A″–D″) and corresponding to the marked regions in A–D illustrate regenerating CST fibers extending past the lesion site. (E) Quantification of
+the number of BDA-labeled CST axons in the lesion center and at 1, 3, 5 and 10 mm caudal to the lesion. Nogo-A KO mice exhibited significantly more CST
+axons at the lesion site and up to 10 mm caudal to the lesion site. Regenerative sprouting and long-distance regeneration is significantly increased in Nogo-A/
+EphA4 DOKO compared with single EphA4 KO mice. CST axon guidance defects in EphA4 KO and Nogo-A/EphA4 DOKO mice, which include an increased
+number of ventrally misplaced fibers, precluded a reliable direct statistical comparison between EphA4-negative genotypes and WT or Nogo-A KO mice. Data
+shown are means  SEM (n = 9–12 mice; *P < 0.05, **P < 0.01, ***P < 0.001; Welch’s t test). DOKO = double KO. Scale bars: 1 mm (A–D), 500 lm (A
+′–D′) and 50 lm (A″–D″).
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+3576 A. Kempf et al.
+ventrally misplaced CST axons, inappropriately terminating within
+the intermediate zone of the spinal cord, escaped the lesion in
+EphA4 KO and Nogo-A/EphA4 KO mice. Fibers caudal to the
+lesion might thus be a mixture of regenerating and spared, sprouting
+fibers in these mutants. For this reason, cross-comparisons of EphA4
+KO and Nogo-A/EphA4 KO mice with WT or Nogo-A single KO
+mice could not be made and were not included in the analysis.
+Importantly, these fibers do not arise from a different neuronal sub-
+population but their misplacement is rather due to an axonal guid-
+ance defect of the developing CST (Coonan et al., 2001). Further
+studies using inducible conditional EphA4 KO mice without major
+developmental defects will allow further clarifying the functional
+role of EphA4 in axonal regeneration (Herrmann et al., 2010a).
+EphA4 is expressed in astrocytes and neurons (including CST
+axons) of the adult spinal cord (Kullander et al., 2001; Leighton
+et al., 2001; Goldshmit et al., 2004; Herrmann et al., 2010b) and is
+upregulated after spinal cord injury (Goldshmit et al., 2004; Fabes
+et al., 2006). Previous studies showed that genetic deletion or func-
+tional blockade of EphA4 using soluble ligands or receptors resulted
+in enhanced axonal sprouting and in a variable degree of regenera-
+tion and functional recovery 6 weeks after a spinal cord lesion in
+vivo (Goldshmit et al., 2004, 2011; Cruz-Orengo et al., 2007; Fabes
+et al., 2007). The mechanisms by which EphA4 modulates axonal
+regeneration are probably complex given its ligand-binding promis-
+cuity, its expression pattern and the occurrence of Ephrin/Eph bidi-
+rectional signaling (Klein, 2009). EphA4 binds multiple EphrinA
+and EphrinB ligand subtypes, thereby enabling a variety of molecu-
+lar and intercellular interactions (Pasquale, 2005). Activation of axo-
+nal EphA4 by Ephrin ligands expressed on astrocytes and/or on
+myelin such as EphrinB2 and EphrinB3 has been proposed to result
+in growth cone collapse via the Ephexin1/RhoA pathway (Shamah
+et al., 2001; Bundesen et al., 2003; Benson et al., 2005; Sahin
+et al., 2005). In vivo, genetic deletion of EphrinB3 resulted in
+increased axonal regeneration and functional recovery after a dorsal
+hemisection spinal cord lesion, suggesting that EphrinB3 also con-
+tributes to the myelin-dependent inhibition of axonal regeneration
+(Duffy et al., 2012). In addition, Ephrins expressed in axonal
+growth cones may also induce growth cone collapse upon contact
+with astrocytic EphA4 via reverse signaling (Goldshmit et al.,
+2004). A different mechanism may also be the modulation of the
+neuroinflammatory response in EphA4 KO mice after spinal cord
+injury (Munro et al., 2012).
+Goldshmit et al. (2004) reported decreased astrocyte reactivity in
+the scar area as an additional mechanism that could positively influ-
+ence regenerative fiber growth in EphA4 KO mice as opposed to a
+similar study by Herrmann et al. (2010b). We obtained similar
+results to those of Goldshmit et al. (2004) in our EphA4 KO and
+Nogo-A/EphA4 double KO mice, indicating that increased regenera-
+tion at the lesion site might rely on a reduction in astrocytic gliosis
+as well as on reduced levels of and decreased axonal sensitivity to
+myelin-associated inhibitors. In Nogo-A KO mice, astrocytic gliosis
+was not affected, suggesting that the increased number of CST fibers
+caudal to the lesion site are most likely the result of a reduced mye-
+lin-mediated growth inhibition by genetic removal of Nogo-A.
+In summary, our results show the upregulation of several known
+repellent axon guidance family members and of their receptors in the
+adult CNS of Nogo-A KO mice. In the injured spinal cord, these mo-
+lecules, e.g. EphrinA3/EphA4, impede axonal regeneration and their
+upregulation may partially account for the retained inhibitory proper-
+ties observed in Nogo-A KO mice. Their modulation was detectable
+in the intact adult spinal cord, further suggesting that these upregula-
+ted repulsive cues may not only counteract regeneration following a
+lesion, but also contribute to the growth- and plasticity-restricting, cir-
+cuit-stabilizing function attributed to Nogo-A in the adult CNS
+(Schwab, 2010; Akbik et al., 2012). Further studies will be key to
+further clarify their specific role in this context.
+Supporting Information
+Additional supporting information can be found in the online
+version of this article:
+Table S1. Differentially expressed transcripts in the spinal cord of
+Nogo-A KO vs. WT mice
+Acknowledgements
+This work was supported by grants of the Swiss National Science Foundation
+(SNF; 3100A0-122527/1 and 310030B-138676/1), the NCCR ‘Neural Plas-
+ticity and Repair’ of the SNF, and the Spinal Cord Consortium of the Chris-
+topher and Dana Reeve Foundation (Springfield, NJ, USA). We thank R.
+Klein (Max-Planck Institute for Neurobiology, Martinsried, Germany) for
+providing EphA4 KO mice and D. Feldheim (University of California, Santa
+Cruz, CA, USA) for supplying EphrinA3 KO tissue. We thank F. Christ, M.
+Gullo and R. Schneider for excellent technical help, and M. Kuenzli and U.
+Wagner of the Functional Genomic Center of Zurich for valuable advices
+and practical help on the GeneChip experimental setup and data analysis. We
+thank F. Verrey (Institute of Physiology, University of Zurich, Switzerland)
+for providing access to the Applied Biosystem qRT-PCR system, A. Bruns
+for helping with the statistical analysis, and L. Bachmann, M. Arzt and V.
+Pernet for critical reading of the manuscript. The authors declare no compet-
+ing financial interests.
+Abbreviations
+ANOVA, analysis of variance; BDA, biotin dextran amine; CNS, central
+nervous system; CST, corticospinal tract; DAB, diaminobenzidine; DRG,
+dorsal root ganglia; GADPH, glyceraldehyde-3-phosphate dehydrogenase;
+GFAP, glial fibrillary acidic protein; IHC, immunohistochemistry; KO,
+knockout; MAG, myelin-associated glycoprotein; OMgp, oligodendrocyte
+myelin glycoprotein; PB, phosphate buffer; PBS, phosphate-buffered saline;
+PFA, paraformaldehyde; PLL, poly-L-lysine; PMSF, phenylmethanesulfonyl
+fluoride; qRT-PCR, quantitative real-time PCR; RIP, receptor interacting
+protein; SEM, standard error of the mean; WB, Western blot.
+References
+Akbik, F., Cafferty, W.B. & Strittmatter, S.M. (2012) Myelin associated
+inhibitors: a link between injury-induced and experience-dependent plastic-
+ity. Exp. Neurol., 235, 43–52.
+Atwal, J.K., Singh, K.K., Tessier-Lavigne, M., Miller, F.D. & Kaplan, D.R.
+(2003) Semaphorin 3F antagonizes neurotrophin-induced phosphatidylino-
+sitol 3-kinase and mitogen-activated protein kinase kinase signaling: a
+mechanism for growth cone collapse. J. Neurosci., 23, 7602–7609.
+Benson, M.D., Romero, M.I., Lush, M.E., Lu, Q.R., Henkemeyer, M. &
+Parada, L.F. (2005) Ephrin-B3 is a myelin-based inhibitor of neurite
+outgrowth. Proc. Natl. Acad. Sci. USA, 102, 10694–10699.
+Bradbury, E.J., Moon, L.D., Popat, R.J., King, V.R., Bennett, G.S., Patel,
+P.N., Fawcett, J.W. & McMahon, S.B. (2002) Chondroitinase ABC pro-
+motes functional recovery after spinal cord injury. Nature, 416, 636–640.
+Buchli, A.D., Rouiller, E., Mueller, R., Dietz, V. & Schwab, M.E. (2007)
+Repair of the injured spinal cord. A joint approach of basic and clinical
+research. Neurodegener. Dis., 4, 51–56.
+Bundesen, L.Q., Scheel, T.A., Bregman, B.S. & Kromer, L.F. (2003)
+Ephrin-B2 and EphB2 regulation of astrocyte-meningeal fibroblast inter-
+actions in response to spinal cord lesions in adult rats. J. Neurosci., 23,
+7789–7800.
+Cafferty, W.B. & Strittmatter, S.M. (2006) The Nogo-Nogo receptor pathway
+limits a spectrum of adult CNS axonal growth. J. Neurosci., 26,
+12242–12250.
+Cafferty, W.B., Duffy, P., Huebner, E. & Strittmatter, S.M. (2010) MAG and
+OMgp synergize with Nogo-A to restrict axonal growth and neurological
+recovery after spinal cord trauma. J. Neurosci., 30, 6825–6837.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+Genetic compensation in the CNS of Nogo-A KO mice 3577
+Chen, M.S., Huber, A.B., van der Haar, M.E., Frank, M., Schnell, L., Spill-
+mann, A.A., Christ, F. & Schwab, M.E. (2000) Nogo-A is a myelin-asso-
+ciated neurite outgrowth inhibitor and an antigen for monoclonal antibody
+IN-1. Nature, 403, 434–439.
+Coonan, J.R., Greferath, U., Messenger, J., Hartley, L., Murphy, M., Boyd,
+A.W., Dottori, M., Galea, M.P. & Bartlett, P.F. (2001) Development and
+reorganization of corticospinal projections in EphA4 deficient mice.
+J. Comp. Neurol., 436, 248–262.
+Craveiro, L.M., Hakkoum, D., Weinmann, O., Montani, L., Stoppini, L. &
+Schwab, M.E. (2008) Neutralization of the membrane protein Nogo-A
+enhances growth and reactive sprouting in established organotypic hippo-
+campal slice cultures. Eur. J. Neurosci., 28, 1808–1824.
+Cruz-Orengo, L., Figueroa, J.D., Velazquez, I., Torrado, A., Ortiz, C.,
+Hernandez, C., Puig, A., Segarra, A.C., Whittemore, S.R. & Miranda, J.D.
+(2006) Blocking EphA4 upregulation after spinal cord injury results in
+enhanced chronic pain. Exp. Neurol., 202, 421–433.
+Cruz-Orengo, L., Figueroa, J.D., Torrado, A., Puig, A., Whittemore, S.R. &
+Miranda, J.D. (2007) Reduction of EphA4 receptor expression after spinal
+cord injury does not induce axonal regeneration or return of tcMMEP
+response. Neurosci. Lett., 418, 49–54.
+Cutforth, T., Moring, L., Mendelsohn, M., Nemes, A., Shah, N.M., Kim,
+M.M., Frisen, J. & Axel, R. (2003) Axonal ephrin-As and odorant receptors:
+coordinate determination of the olfactory sensory map. Cell, 114, 311–322.
+De Winter, F., Oudega, M., Lankhorst, A.J., Hamers, F.P., Blits, B., Ruiten-
+berg, M.J., Pasterkamp, R.J., Gispen, W.H. & Verhaagen, J. (2002) Injury-
+induced class 3 semaphorin expression in the rat spinal cord. Exp. Neurol.,
+175, 61–75.
+Dimou, L., Schnell, L., Montani, L., Duncan, C., Simonen, M., Schneider,
+R., Liebscher, T., Gullo, M. & Schwab, M.E. (2006) Nogo-A-deficient
+mice reveal strain-dependent differences in axonal regeneration. J. Neuro-
+sci., 26, 5591–5603.
+Dottori, M., Hartley, L., Galea, M., Paxinos, G., Polizzotto, M., Kilpatrick,
+T., Bartlett, P.F., Murphy, M., Kontgen, F. & Boyd, A.W. (1998) EphA4
+(Sek1) receptor tyrosine kinase is required for the development of the cort-
+icospinal tract. Proc. Natl. Acad. Sci. USA, 95, 13248–13253.
+Duffy, P., Wang, X., Seigel, C.S., Tu, N., Henkemeyer, M., Cafferty, W.B.
+& Strittmatter, S.M. (2012) Myelin-derived ephrinB3 restricts axonal
+regeneration and recovery after adult CNS injury. Proc. Natl. Acad. Sci.
+USA, 109, 5063–5068.
+Fabes, J., Anderson, P., Yanez-Munoz, R.J., Thrasher, A., Brennan, C. &
+Bolsover, S. (2006) Accumulation of the inhibitory receptor EphA4 may
+prevent regeneration of corticospinal tract axons following lesion. Eur.
+J. Neurosci., 23, 1721–1730.
+Fabes, J., Anderson, P., Brennan, C. & Bolsover, S. (2007) Regeneration-
+enhancing effects of EphA4 blocking peptide following corticospinal tract
+injury in adult rat spinal cord. Eur. J. Neurosci., 26, 2496–2505.
+Fawcett, J.W. (2006) The glial response to injury and its role in the inhibi-
+tion of CNS repair. Adv. Exp. Med. Biol., 557, 11–24.
+Fu, W.Y., Chen, Y., Sahin, M., Zhao, X.S., Shi, L., Bikoff, J.B., Lai, K.O.,
+Yung, W.H., Fu, A.K., Greenberg, M.E. & Ip, N.Y. (2007) Cdk5 regulates
+EphA4-mediated dendritic spine retraction through an ephexin1-dependent
+mechanism. Nat. Neurosci., 10, 67–76.
+Goldberg, J.L., Vargas, M.E., Wang, J.T., Mandemakers, W., Oster, S.F.,
+Sretavan, D.W. & Barres, B.A. (2004) An oligodendrocyte lineage-specific
+semaphorin, Sema5A, inhibits axon growth by retinal ganglion cells.
+J. Neurosci., 24, 4989–4999.
+Goldshmit, Y., Galea, M.P., Wise, G., Bartlett, P.F. & Turnley, A.M. (2004)
+Axonal regeneration and lack of astrocytic gliosis in EphA4-deficient mice.
+J. Neurosci., 24, 10064–10073.
+Goldshmit, Y., Spanevello, M.D., Tajouri, S., Li, L., Rogers, F., Pearse, M.,
+Galea, M., Bartlett, P.F., Boyd, A.W. & Turnley, A.M. (2011) EphA4
+blockers promote axonal regeneration and functional recovery following
+spinal cord injury in mice. PLoS ONE, 6, e24636.
+GrandPre, T., Nakamura, F., Vartanian, T. & Strittmatter, S.M. (2000) Identi-
+fication of the Nogo inhibitor of axon regeneration as a Reticulon protein.
+Nature, 403, 439–444.
+Hata, K., Fujitani, M., Yasuda, Y., Doya, H., Saito, T., Yamagishi, S., Muel-
+ler, B.K. & Yamashita, T. (2006) RGMa inhibition promotes axonal
+growth and recovery after spinal cord injury. J. Cell Biol., 173, 47–58.
+Herrmann, J.E., Pence, M.A., Shapera, E.A., Shah, R.R., Geoffroy, C.G. &
+Zheng, B. (2010a) Generation of an EphA4 conditional allele in mice.
+Genesis, 48, 101–105.
+Herrmann, J.E., Shah, R.R., Chan, A.F. & Zheng, B. (2010b) EphA4 defi-
+cient mice maintain astroglial-fibrotic scar formation after spinal cord
+injury. Exp. Neurol., 223, 582–598.
+Herzog, A. & Brosamle, C. (1997) ‘Semifree-floating’ treatment: a simple
+and fast method to process consecutive sections for immunohistochemistry
+and neuronal tracing. J. Neurosci. Meth., 72, 57–63.
+Joset, A., Dodd, D.A., Halegoua, S. & Schwab, M.E. (2010) Pincher-gener-
+ated Nogo-A endosomes mediate growth cone collapse and retrograde sig-
+naling. Cell, 188, 271–285.
+Kaneko, S., Iwanami, A., Nakamura, M., Kishino, A., Kikuchi, K., Shibata,
+S., Okano, H.J., Ikegami, T., Moriya, A., Konishi, O., Nakayama, C.,
+Kumagai, K., Kimura, T., Sato, Y., Goshima, Y., Taniguchi, M., Ito, M.,
+He, Z., Toyama, Y. & Okano, H. (2006) A selective Sema3A inhibitor
+enhances regenerative responses and functional recovery of the injured
+spinal cord. Nat. Med., 12, 1380–1389.
+Kim, J.E., Li, S., GrandPre, T., Qiu, D. & Strittmatter, S.M. (2003) Axon
+regeneration in young adult mice lacking Nogo-A/B. Neuron, 38,
+187–199.
+Klein, R. (2009) Bidirectional modulation of synaptic functions by Eph/eph-
+rin signaling. Nat. Neurosci., 12, 15–20.
+Kullander, K., Mather, N.K., Diella, F., Dottori, M., Boyd, A.W. & Klein,
+R. (2001) Kinase-dependent and kinase-independent functions of EphA4
+receptors in major axon tract formation in vivo. Neuron, 29, 73–84.
+Lee, J.K. & Zheng, B. (2012) Role of myelin-associated inhibitors in axonal
+repair after spinal cord injury. Exp. Neurol., 235, 33–42.
+Lee, J.K., Chan, A.F., Luu, S.M., Zhu, Y., Ho, C., Tessier-Lavigne, M. &
+Zheng, B. (2009) Reassessment of corticospinal tract regeneration in
+Nogo-deficient mice. J. Neurosci., 29, 8649–8654.
+Lee, J.K., Geoffroy, C.G., Chan, A.F., Tolentino, K.E., Crawford, M.J., Leal,
+M.A., Kang, B. & Zheng, B. (2010) Assessing spinal axon regeneration
+and sprouting in Nogo-, MAG-, and OMgp-deficient mice. Neuron, 66,
+663–670.
+Leighton, P.A., Mitchell, K.J., Goodrich, L.V., Lu, X., Pinson, K., Scherz,
+P., Skarnes, W.C. & Tessier-Lavigne, M. (2001) Defining brain wiring
+patterns and mechanisms through gene trapping in mice. Nature, 410,
+174–179.
+Liebscher, T., Schnell, L., Schnell, D., Scholl, J., Schneider, R., Gullo, M.,
+Fouad, K., Mir, A., Rausch, M., Kindler, D., Hamers, F.P. & Schwab,
+M.E. (2005) Nogo-A antibody improves regeneration and locomotion of
+spinal cord-injured rats. Ann. Neurol., 58, 706–719.
+Lindholm, T., Skold, M.K., Suneson, A., Carlstedt, T., Cullheim, S. &
+Risling, M. (2004) Semaphorin and neuropilin expression in motoneurons
+after intraspinal motoneuron axotomy. NeuroReport, 15, 649–654.
+Liu, X., Hawkes, E., Ishimaru, T., Tran, T. & Sretavan, D.W. (2006) EphB3:
+an endogenous mediator of adult axonal plasticity and regrowth after CNS
+injury. J. Neurosci., 26, 3087–3101.
+Low, K., Culbertson, M., Bradke, F., Tessier-Lavigne, M. & Tuszynski,
+M.H. (2008) Netrin-1 is a novel myelin-associated inhibitor to axon
+growth. J. Neurosci., 28, 1099–1108.
+McKerracher, L., David, S., Jackson, D.L., Kottis, V., Dunn, R.J. & Braun,
+P.E. (1994) Identification of myelin-associated glycoprotein as a major
+myelin-derived inhibitor of neurite growth. Neuron, 13, 805–811.
+Montani, L., Gerrits, B., Gehrig, P., Kempf, A., Dimou, L., Wollscheid, B.
+& Schwab, M.E. (2009) Neuronal Nogo-A modulates growth cone motility
+via Rho-GTP/LIMK1/cofilin in the unlesioned adult nervous system.
+J. Biol. Chem., 284, 10793–10807.
+Montolio, M., Messeguer, J., Masip, I., Guijarro, P., Gavin, R., Antonio Del
+Rio, J., Messeguer, A. & Soriano, E. (2009) A semaphorin 3A inhibitor
+blocks axonal chemorepulsion and enhances axon regeneration. Chem.
+Biol., 16, 691–701.
+Moreau-Fauvarque, C., Kumanogoh, A., Camand, E., Jaillard, C., Barbin, G.,
+Boquet, I., Love, C., Jones, E.Y., Kikutani, H., Lubetzki, C., Dusart, I. &
+Chedotal, A. (2003) The transmembrane semaphorin Sema4D/CD100, an
+inhibitor of axonal growth, is expressed on oligodendrocytes and upregu-
+lated after CNS lesion. J. Neurosci., 23, 9229–9239.
+Mukhopadhyay, G., Doherty, P., Walsh, F.S., Crocker, P.R. & Filbin, M.T.
+(1994) A novel role for myelin-associated glycoprotein as an inhibitor of
+axonal regeneration. Neuron, 13, 757–767.
+Muller, P.Y., Janovjak, H., Miserez, A.R. & Dobbie, Z. (2002) Processing of
+gene expression data generated by quantitative real-time RT-PCR. Biotech-
+niques, 32, 1372–1374, 1376, 1378-1379.
+Munro, K.M., Perreau, V.M. & Turnley, A.M. (2012) Differential gene
+expression in the EphA4 knockout spinal cord and analysis of the
+inflammatory response following spinal cord injury. PLoS ONE, 7,
+e37635.
+Oertle, T., van der Haar, M.E., Bandtlow, C.E., Robeva, A., Burfeind, P.,
+Buss, A., Huber, A.B., Simonen, M., Schnell, L., Brosamle, C., Kaup-
+mann, K., Vallon, R. & Schwab, M.E. (2003) Nogo-A inhibits neurite out-
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+3578 A. Kempf et al.
+growth and cell spreading with three discrete regions. J. Neurosci., 23,
+5393–5406.
+Park, K.K., Liu, K., Hu, Y., Smith, P.D., Wang, C., Cai, B., Xu, B.,
+Connolly, L., Kramvis, I., Sahin, M. & He, Z. (2008) Promoting axon
+regeneration in the adult CNS by modulation of the PTEN/mTOR path-
+way. Science, 322, 963–966.
+Pasquale, E.B. (2005) Eph receptor signalling casts a wide net on cell behav-
+iour. Nat. Rev. Mol. Cell Biol., 6, 462–475.
+Pasterkamp, R.J. & Verhaagen, J. (2006) Semaphorins in axon regeneration:
+developmental guidance molecules gone wrong? Philos. T. Roy. Soc. B,
+361, 1499–1511.
+Pasterkamp, R.J., Giger, R.J., Ruitenberg, M.J., Holtmaat, A.J., De Wit, J.,
+De Winter, F. & Verhaagen, J. (1999) Expression of the gene encoding
+the chemorepellent semaphorin III is induced in the fibroblast component
+of neural scar tissue formed following injuries of adult but not neonatal
+CNS. Mol. Cell. Neurosci., 13, 143–166.
+Prinjha, R., Moore, S.E., Vinson, M., Blake, S., Morrow, R., Christie, G.,
+Michalovich, D., Simmons, D.L. & Walsh, F.S. (2000) Inhibitor of neurite
+outgrowth in humans. Nature, 403, 383–384.
+Sahin, M., Greer, P.L., Lin, M.Z., Poucher, H., Eberhart, J., Schmidt, S.,
+Wright, T.M., Shamah, S.M., O’Connell, S., Cowan, C.W., Hu, L., Gold-
+berg, J.L., Debant, A., Corfas, G., Krull, C.E. & Greenberg, M.E. (2005)
+Eph-dependent tyrosine phosphorylation of ephexin1 modulates growth
+cone collapse. Neuron, 46, 191–204.
+Schwab, M.E. (2004) Nogo and axon regeneration. Curr. Opin. Neurobiol.,
+14, 118–124.
+Schwab, M.E. (2010) Functions of Nogo proteins and their receptors in the
+nervous system. Nat. Rev. Neurosci., 11, 799–811.
+Shamah, S.M., Lin, M.Z., Goldberg, J.L., Estrach, S., Sahin, M., Hu, L.,
+Bazalakova, M., Neve, R.L., Corfas, G., Debant, A. & Greenberg, M.E.
+(2001) EphA receptors regulate growth cone dynamics through the novel
+guanine nucleotide exchange factor ephexin. Cell, 105, 233–244.
+Shim, S.O., Cafferty, W.B., Schmidt, E.C., Kim, B.G., Fujisawa, H. & Stritt-
+matter, S.M. (2012) PlexinA2 limits recovery from corticospinal axotomy
+by mediating oligodendrocyte-derived Sema6A growth inhibition. Mol.
+Cell. Neurosci., 50, 193–200.
+Simonen, M., Pedersen, V., Weinmann, O., Schnell, L., Buss, A., Leder-
+mann, B., Christ, F., Sansig, G., van der Putten, H. & Schwab, M.E.
+(2003) Systemic deletion of the myelin-associated outgrowth inhibitor
+Nogo-A improves regenerative and plastic responses after spinal cord
+injury. Neuron, 38, 201–211.
+Tews, B., Schonig, K., Arzt, M.E., Clementi, S., Rioult-Pedotti, M.S.,
+Zemmar, A., Berger, S.M., Schneider, M., Enkel, T., Weinmann, O.,
+Kasper, H., Schwab, M.E. & Bartsch, D. (2013) Synthetic microRNA-
+mediated downregulation of Nogo-A in transgenic rats reveals its role as
+regulator of synaptic plasticity and cognitive function. Proc. Natl. Acad.
+Sci. USA, 110, 6583–6588.
+Wang, K.C., Koprivica, V., Kim, J.A., Sivasankaran, R., Guo, Y., Neve,
+R.L. & He, Z. (2002) Oligodendrocyte-myelin glycoprotein is a Nogo
+receptor ligand that inhibits neurite outgrowth. Nature, 417, 941–944.
+Winzeler, A.M., Mandemakers, W.J., Sun, M.Z., Stafford, M., Phillips, C.T.
+& Barres, B.A. (2011) The lipid sulfatide is a novel myelin-associated
+inhibitor of CNS axon outgrowth. J. Neurosci., 31, 6481–6492.
+Yiu, G. & He, Z. (2006) Glial inhibition of CNS axon regeneration. Nat.
+Rev. Neurosci., 7, 617–627.
+Zheng, B., Ho, C., Li, S., Keirstead, H., Steward, O. & Tessier-Lavigne, M.
+(2003) Lack of enhanced spinal regeneration in Nogo-deficient mice.
+Neuron, 38, 213–224.
+Zorner, B. & Schwab, M.E. (2010) Anti-Nogo on the go: from animal mod-
+els to a clinical trial. Ann. NY Acad. Sci., 1198(Suppl. 1), E22–E34.
+Zukerberg, L.R., Patrick, G.N., Nikolic, M., Humbert, S., Wu, C.L., Lanier,
+L.M., Gertler, F.B., Vidal, M., Van Etten, R.A. & Tsai, L.H. (2000)
+Cables links Cdk5 and c-Abl and facilitates Cdk5 tyrosine phosphoryla-
+tion, kinase upregulation, and neurite outgrowth. Neuron, 26, 633–646.
+© 2013 Federation of European Neuroscience Societies and John Wiley & Sons Ltd
+European Journal of Neuroscience, 38, 3567–3579
+Genetic compensation in the CNS of Nogo-A KO mice 3579

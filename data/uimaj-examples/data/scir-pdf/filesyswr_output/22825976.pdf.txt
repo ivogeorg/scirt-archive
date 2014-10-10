@@ -1,0 +1,1073 @@
+RESEARCH ARTICLE
+Neuronal Release and Successful Astrocyte
+Uptake of Aminoacidergic Neurotransmitters
+After Spinal Cord Injury in Lampreys
+Blanca Fernandez-Lopez, Silvia Marıa Valle-Maroto, Anton Barreiro-Iglesias,
+and Marıa Celina Rodicio
+In contrast to mammals, the spinal cord of lampreys spontaneously recovers from a complete spinal cord injury (SCI). Under-
+standing the differences between lampreys and mammals in their response to SCI could provide valuable information to pro-
+pose new therapies. Unique properties of the astrocytes of lampreys probably contribute to the success of spinal cord
+regeneration. The main aim of our study was to investigate, in the sea lamprey, the release of aminoacidergic neurotrans-
+mitters and the subsequent astrocyte uptake of these neurotransmitters during the first week following a complete SCI by
+detecting glutamate, GABA, glycine, Hu and cytokeratin immunoreactivities. This is the first time that aminoacidergic neuro-
+transmitter release from neurons and the subsequent astrocytic response after SCI are analysed by immunocytochemistry in
+any vertebrate. Spinal injury caused the immediate loss of glutamate, GABA and glycine immunoreactivities in neurons close
+to the lesion site (except for the cerebrospinal fluid-contacting GABA cells). Only after SCI, astrocytes showed glutamate,
+GABA and glycine immunoreactivity. Treatment with an inhibitor of glutamate transporters (DL-TBOA) showed that neuronal
+glutamate was actively transported into astrocytes after SCI. Moreover, after SCI, a massive accumulation of inhibitory neuro-
+transmitters around some reticulospinal axons was observed. Presence of GABA accumulation significantly correlated with a
+higher survival ability of these neurons. Our data show that, in contrast to mammals, astrocytes of lampreys have a high
+capacity to actively uptake glutamate after SCI. GABA may play a protective role that could explain the higher regenerative
+and survival ability of specific descending neurons of lampreys.
+GLIA 2014;62:1254–1269
+Key words: glia, glutamate, glycine, GABA, spinal cord injury, cytokeratin, regeneration
+Introduction
+Spinal cord injury (SCI) leads to loss of function and sen-sitivity below the lesion site in non-regenerating verte-
+brates (e.g. mammals) and, so far, an appropriate therapy
+does not exist. In other vertebrates (regenerating vertebrates),
+such as lampreys (Cohen et al., 1986; Wood and Cohen,
+1979; Yin and Selzer, 1983), fishes (Bernstein and Gelderd,
+1970; Bunt and Fill-Moebs, 1984; Becker et al., 1997; Cog-
+geshall et al., 1982) and amphibians (Davis et al., 1990; Lee,
+1982) there is a process of spontaneous axonal regeneration
+after SCI leading to functional recovery. Lampreys have been
+used as a model of spontaneous spinal regeneration since the
+late 1950s (Maron, 1959). They are the only vertebrates that
+have been shown to satisfy the 5 NIH criteria to demonstrate
+functional regeneration after SCI (Guth et al., 1980; Rodicio
+and Barreiro-Iglesias, 2012). The high regenerative ability of
+identifiable descending (reticulospinal) neurons confers them
+several advantages respect to other models for studying the
+factors that impede/facilitate spinal regeneration. In lampreys,
+functional recovery after SCI is achieved not only due to
+regeneration processes, but also to plastic and neuronal reor-
+ganization events (Rodicio and Barreiro-Iglesias, 2012). This
+is very important because recovery after SCI in humans will
+also rely on neuronal circuit reorganization (Escların-De Ruz
+et al., 2009). Interestingly, a recent study using TUNEL and
+Fluoro Jade staining has shown that there is an almost
+View this article online at wileyonlinelibrary.com. DOI: 10.1002/glia.22678
+Published online April 15, 2014 in Wiley Online Library (wileyonlinelibrary.com). Accepted for publication Apr 3, 2014.
+Address correspondence to Marıa Celina Rodicio, Departamento de Biologıa Celular y Ecologıa, Edificio CIBUS, Campus Vida, Universidad de Santiago
+de Compostela, CP. 15782, Santiago de Compostela, A Coru~na, Spain. E-mail: mcelina.rodicio@usc.es
+From the Department of Cell Biology and Ecology, CIBUS, University of Santiago de Compostela, 15782, Santiago de Compostela, Spain.
+Blanca Fernandez-Lopez and Silvia Marıa Valle-Maroto contributed equally to this work.
+1254 VC 2014 Wiley Periodicals, Inc.
+complete lack of cell death in the sea lamprey spinal cord
+during the first month after a complete spinal cord transec-
+tion (Shifman et al., 2012).
+In mammals, SCI causes a secondary response in the
+spinal cord that involves the release of aminoacidergic neuro-
+transmitters and a subsequent astrocyte reaction. Reactive
+astrocytosis after CNS injury appears to be a conserved phe-
+nomenon throughout vertebrate evolution (Larner et al.,
+1995), which has suggested that this process could have selec-
+tive survival advantages in mammals (Faulkner et al., 2004;
+Karimi-Abdolrezaee and Billakanti, 2012). However, in spite
+of this, it also leads to some detrimental effects like being an
+obstacle for axonal regeneration (Karimi-Abdolrezaee and Bill-
+akanti, 2012). Beneficial activities of astrocytes include clear-
+ance of glutamate, c-aminobutyric acid (GABA), and glycine
+(Seifert et al., 2006), which could protect neurons from exci-
+totoxicity and cell death (Eulenburg and Gomeza, 2010). The
+astrocytes of lamprey express cytokeratins (Merrick et al.,
+1995), whereas, glial fibrillary acid protein (GFAP) is only
+expressed by ependymal cells of the central canal (Wasowicz
+et al., 1994). Even though a glial scar is present in lampreys
+after SCI, it creates a permissive environment for axon
+regrowth (Selzer, 1978). A system of inactivation of synapti-
+cally released amino acid neurotransmitters is also present in
+lampreys (Brodin and Grillner, 1985; Gundersen et al., 1995)
+and the astrocytes appear to be involved in neurotransmitter
+clearance, like in mammals (Baudoux and Parker, 2008). Spe-
+cial properties of the astrocytes of lampreys could also be one
+of the reasons that lead to a lack of cell death after SCI in
+the lamprey spinal cord (Shifman et al., 2012).
+Glutamate release after SCI causes glutamate excitotox-
+icity (Liu et al., 1991), which can lead to neuronal and oligo-
+dendrocyte death (Liu et al., 1999; Xu et al., 2004).
+Glutamate uptake by astrocytes could protect neurons and
+oligodendrocytes from excitotoxicity. However, in mammals,
+a decrease in GLT1 (EAAT2) (the main glutamate transporter
+of astrocytes) expression has been observed for at least 2
+weeks following SCI (Lepore et al., 2011), while the extracel-
+lular levels of glutamate rise to toxic levels in minutes (Liu
+et al., 1991). An increase in glycine and GABA extracellular
+levels after SCI has been also reported (Demediuk et al.,
+1989; Panter et al., 1990). As previously suggested (Panter
+et al., 1990), extracellular glycine could contribute to gluta-
+mate excitotoxicity, since it is a coagonist of the N-methyl-D-
+aspartate (NMDA) glutamate receptor (Ransom and Stec,
+1988). In contrast, GABA has been shown to have neuropro-
+tective effects (Han et al., 2008).
+The process of aminoacidergic neurotransmitter release
+after SCI has not been studied in any regenerating species
+and a direct histological observation of this phenomenon has
+not been reported in any vertebrate either. Knowing how
+regenerating vertebrates deal with this process could clearly
+help to propose new lines of research or therapies to protect
+the injured spinal cord from secondary damage. We aimed to
+investigate the release of aminoacidergic neurotransmitters in
+response to SCI and the subsequent astrocytic response in the
+sea lamprey. Specifically, we studied: (1) the short-term
+changes in cytokeratins expression (a marker of astrocytes in
+lampreys) in response to a complete spinal cord transection;
+(2) the changes in glutamate, glycine and GABA immunor-
+eactivities that take place in the first week after SCI; (3) the
+colocalization of glutamate, glycine and GABA with cytokera-
+tins to investigate whether any of these neurotransmitters is
+taken up by the astrocytes of lampreys after SCI; and (4) the
+effect of DL-TBOA (an inhibitor of glutamate transporters)
+on the active uptake of glutamate by astrocytes after SCI. We
+present evidence showing that the astrocytes of lampreys have
+a better response against glutamate release than those of
+mammals and that, after SCI, GABA could play a role
+favouring the survival of specific descending neurons.
+Materials and Methods
+Ethical Statement
+All experiments were approved by the Bioethics Committee at the
+University of Santiago de Compostela and conformed to the Euro-
+pean Union and the Spanish guidelines on animal care and
+experimentation.
+Subjects
+Mature and developmentally stable larval sea lampreys, Petromyzon
+marinus L. (n5 45; between 80 and 156 mm in body length, 5 to 7
+years of age), were used in the present study. Animals were collected
+from the river Ulla (Galicia, northwestern Spain) with permission
+from the Xunta de Galicia and maintained in aerated fresh water
+aquaria at 15C with a bed of river sediment until their use for
+experimental procedures.
+Spinal Cord Transection
+Animals were deeply anaesthetized by immersion in 0.1% tricaine
+methanesulphonate (MS-222 ; Sigma, St. Louis, MO) in Ringer
+solution (pH 7.4) of the following composition: 137 mM NaCl, 2.9
+mM KCl, 2.1 mM CaCl2, 2 mM HEPES. Larvae were placed with
+their dorsal side up in a Sylgard-lined dish filled with Ringer solu-
+tion. The spinal cord was exposed by a transverse incision made on
+the body wall from the dorsal midline at the level of the 5th gill. A
+complete spinal cord transection was performed with a scalpel at this
+spinal level, and the spinal cord cut ends were visualized under a
+microscope. After surgery, lampreys were maintained on ice for 1 h
+to allow the wound to air dry (except for those processed immedi-
+ately after the transection). During this hour, the animals were main-
+tained in a paper towel soaked with Ringer solution not in direct
+contact with the ice. After this time, the animals were allowed to
+recover in aerated freshwater tanks at 19.5C. Lampreys are known
+to be able to recover normal appearing locomotion at this
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1255
+temperature (Cohen et al., 1999). Each transected animal was exam-
+ined 24 h after surgery to confirm that there was no movement cau-
+dal to site of injury. A spinal transection was considered complete if
+on the stimulation of the head, the animal could move only its body
+rostral to the lesion site.
+Tissue Collection and Processing
+After the different recovery periods [0 (n5 8), 1 (n5 8), 2 (n5 6), 3
+(n5 6), 4 (n5 5), and 7 days after injury (n5 5)], animals were
+deeply anaesthetized with 0.1% MS-222 in Ringer solution and killed
+by decapitation. The body of the animal was fixed by immersion in
+5% glutaraldehyde and 1% sodium metabisulfite (MB) in 0.05 M
+Tris-buffered saline (TBS; pH 7.4) for 20 hours. After fixation, the
+body region comprising the spinal cord between the 4th and the 6th
+gills (i.e. 3.5 mm rostral and caudal to the site of injury) was cut and
+embedded in Neg 50TM (Microm International GmbH, Walldorf,
+Germany), frozen in liquid nitrogen-cooled isopentane, sectioned on a
+cryostat in the transverse plane (14 mm thick) and mounted on Super-
+frost VR Plus glass slides (Menzel, Braunschweig, Germany).
+Immunofluorescence
+For immunofluorescence, sections were pretreated with 0.2%
+NaBH4 in deionized water for 45 minutes to quench autofluores-
+cence. Sections were incubated with a cocktail of a mouse monoclo-
+nal anti-GABA antibody (Sigma; 1: 1,200) or a mouse monoclonal
+anti-glutamate antibody (Swant, Bellinzona, Switzerland; 1:1,000)
+and a rabbit polyclonal anti-glycine antibody (Immunosolution, Jes-
+mond, Australia; 1:3,000) or with a cocktail of a rabbit polyclonal
+anti-GABA antibody (Affiniti, Mamhead, UK; 1:500) or a rabbit
+polyclonal anti-glutamate antibody (Immunosolution; 1:4.500) or a
+rabbit polyclonal anti-glycine antibody and a mouse monoclonal
+anti-cytokeratin (LCM29) antibody (supplied by Dr. Selzer, Philadel-
+phia; 1:100) or a mouse anti-HuC/HuD antibody (Molecular Probes
+Europe, Leiden, The Netherlands; 1:100) in 0.05 M TBS with 1%
+MB during 3 days at 4C. After rinsing in TBS with 1% MB, sec-
+tions were incubated for 1 h at room temperature with Cy3- conju-
+gated goat anti-rabbit immunoglobulin (Chemicon, Temecula, CA;
+1:100) and fluorescein-conjugated goat anti-mouse immunoglobulin
+(Millipore, Temecula, CA; 1:100) rinsed in TBS and mounted with
+Mowiol. All antibodies were diluted in TBS (pH 7.4) containing
+0.2% Triton X-100 and 15% normal goat serum.
+Antibodies
+The mouse monoclonal anti-glutamate antibody was raised against
+glutaraldehyde-linked L-glutamate-bovine serum albumin (BSA) con-
+jugate by P. Streit (Liu et al., 1989), and this clone was made com-
+mercially available through Swant. This antibody has been
+characterized with respect to cross reactivity by antibody dilution
+experiments as well as by absorption experiments (Adam and Csillaq,
+2006) and it has been used in a previous study of lamprey spinal
+cord (Fernandez-Lopez et al., 2012).
+The polyclonal anti-glutamate antibody was raised in rabbit
+against a glutamate- glutaraldehyde-porcine thyroglobin conjugate.
+The antibody has been tested by the supplier in sections of retina
+and cerebellum from various vertebrates, as well as in dot blot
+immunoassays with a variety of amino acid-protein conjugates.
+These include the standard 20 amino acids found in proteins, the
+non-protein amino acids D-serine, D-alanine, and D -aspartate,
+GABA and the glycine containing tripeptide glutathione, which did
+not yield significant cross reactivity. This antibody has been devel-
+oped by Dr. David V. Pow (University of Newcastle, New South
+Wales, Australia) and used in previous studies of the lamprey brain
+and spinal cord (Fernandez-Lopez et al., 2012; Villar-Cervi~no et al.,
+2011, 2013). This antibody did not stain any sea lamprey brain
+native protein band (Villar-Cervi~no et al., 2011).
+The polyclonal anti-glycine antibody was raised against a
+glycine-porcine thyroglobin conjugate and tested by the supplier in
+sections of retina and cerebellum from various vertebrates as well as
+in dot blot immunoassays with a variety of amino acids found in
+proteins; the non-protein amino acids D-serine, D-alanine, and D-
+aspartate; GABA; and the glycine-containing tripeptide glutathione,
+which did not yield significant reactivity. This antibody has been
+developed by Dr. David V. Pow (University of Newcastle, Australia)
+and used in a number of studies on glycinergic neurons of the ret-
+ina, brain, and spinal cord of the sea lamprey (Villar-Cervi~no et al.,
+2008a, b, 2011).
+The monoclonal anti-GABA antibody was raised against
+GABA conjugated to BSA with glutaraldehyde and was evaluated by
+the supplier for activity and specificity by use of dot blot immunoas-
+say. No cross-reaction was observed with BSA, L-a-aminobutiric
+acid, L-glutamic acid, L- aspartatic acid, glycine, d-aminovaleric acid,
+L-theorine, L-glutamine, taurine, putrescine, L-alanine or carnosine.
+The antibody showed weak cross-reaction with b-alanine. This anti-
+body has been used in previous studies of the sea lamprey nervous
+system (Barreiro-Iglesias et al., 2009a, c; Valle-Maroto et al., 2011;
+Villar-Cervi~no et al., 2008a,b).
+The specificity of the polyclonal anti-GABA antiserum has been
+characterized by ELISA by the supplier against conjugates with BSA-
+glutaraldehyde. This antibody has been used in previous studies of
+lampreys (Melendez-Ferro et al., 2002; Villar-Cervi~no et al., 2006).
+Moreover, the anti-glycine, the polyclonal anti-GABA and the
+monoclonal anti-GABA antibodies were tested by Western blotting
+of lamprey brain protein extracts and they did not recognize any
+brain native protein in blots (Villar-Cervi~no et al., 2006, 2008b).
+The mouse monoclonal anti-cytokeratin antibody (LCM 29)
+is a lamprey specific antibody that has been previously characterized
+(Merrick et al., 1995) and used in studies about the spinal cord of
+lampreys (Lurie et al., 1994; Uematsu et al., 2004; Vidal Pizarro
+et al., 2004).
+The mouse monoclonal anti-HuC/HuD antibody was raised
+against the human neuronal proteins HuC and HuD and, as the
+supplier stated, it binds specifically to antigens present exclusively in
+neuronal cells and are thus useful as marker of neuronal cells in tis-
+sue. It has been also used in lampreys as neuronal marker (Zhang
+et al., 2014).
+Treatment With an Inhibitor of Glutamate
+Transporters
+Animals were deeply anesthetized by immersion in 0.1% MS-222
+(Sigma, St. Louis, MO) in Ringer solution and were placed with
+1256 Volume 62, No. 8
+their dorsal side up in a Sylgard-lined dish filled with Ringer. The
+skin, the muscles and the meninx of the region comprised between
+the 3rd and the 7th gill were carefully removed from the top of the
+spinal cord; therefore, the spinal cord was completely exposed. Then,
+the animals were maintained in Ringer solution with DMSO
+(n5 3) or in 30 lM DL-threo-b-Benzyloxyaspartic acid (DL-TBOA;
+Tocris Bioscience, UK) diluted in DMSO in Ringer during 4 h
+(n5 4). The inhibitor DL-TBOA is a highly selective blocker of
+excitatory aminoacid transporters, especially for EAAT1, EAAT2,
+and EAAT3 (Shimamoto et al., 1998). After this incubation period,
+a complete spinal cord transection was performed and the animals
+were processed immediately after the transection as explained above.
+Image Acquisition and Measurements
+After immunofluorescence, the sections were photographed and ana-
+lyzed with the spectral confocal microscopes TCS-SP2 and SP5
+(Leica, Wetzlar, Germany). Stacks of photographs were processed
+with LITE and LAS software (Leica). Photographs were minimally
+adjusted for brightness and contrast with Adobe Photoshop CS4
+software.
+The presence of inhibitory neurotransmitter accumulations
+around descending axons (halos) was observed in larvae processed
+between 1 and 3 dpl (n5 20). The percentage of axons with glycine
+or GABA halos was calculated for the dorsal fascicle, lateral fascicle,
+longitudinal medial fascicle and the Mauthner axons as follows: 10
+alternative 14 mm sections of the first 300 mm rostral from the site
+of injury were analyzed per animal. The mean number of halos for
+each fascicle or Mauther axons was then calculated for each animal.
+The percentage of halos per fascicle or Mauthner axons was calcu-
+lated based on the total number of axons of the fascicles or Mauth-
+ner axons (14 axons in the dorsal fascicle, 12 axons in the lateral
+fascicle, 18 axons in the longitudinal medial fascicle and 2 Mauthner
+axons). The final percentages were calculated as mean6 SEM from
+the data from the 20 animals. The correlation (Pearson test) between
+the presence of inhibitory neurotransmitter halos and the survival
+ability of the descending neurons of each fascicle [see Shifman et al.,
+2008: Dorsal fascicle (95.7 %), lateral fascicle (94.5 %), longitudinal
+medial fascicle (56.7%) and Mauthner axons (29.0%)] was then cal-
+culated. The statistical analysis was carried out with GraphPad (La
+Jolla, CA).
+Results
+In control larval sea lampreys, with no SCI, the spinal cord
+at the level of the 5th gill is flattened and the central canal
+has a regular rounded profile. From 4 dpl some morphologi-
+cal changes were observed in the central canal. In the first
+400 to 600 mm rostral and caudal from the injury site, the
+central canal was enlarged and acquired an irregular shape,
+which is in agreement with previous reports (Selzer, 1978).
+The expression of glutamate, GABA, glycine and cyto-
+keratins in cells of the spinal cord of lampreys has been
+already described [glutamate (Fernandez-Lopez et al., 2012;
+Mahmood et al., 2009; Shupliakov et al., 1992), GABA
+(Batueva et al., 1990; Brodin et al., 1990; Melendez-Ferro
+et al., 2003; Ruiz et al., 2004; Robertson et al., 2007), gly-
+cine (Gustafsson et al., 2002; Shupliakov et al., 1996; Villar-
+Cervi~no et al., 2008b), cytokeratins (Lurie et al., 1994, Mer-
+rick et al., 1995)] and can be observed in Fig. 1. Briefly, in
+control larval sea lampreys glutamate (Fig.1A, E–G), GABA
+(Fig.1B,H,I), and glycine (Fig.1C,J-L) immunoreactivities
+were observed in cells of the dorsal (Fig. 1K,I) and lateral
+(Fig. 1E,F,I,J, grey populations and in cerebrospinal fluid
+contacting (CSFc) cells (Fig. 1G,H,L). As previously reported,
+colocalization of glutamate and GABA or glycine (Fernandez-
+Lopez et al., 2012), and glycine and GABA (Villar-Cervi~no
+et al., 2008b) was observed in cells of some of these popula-
+tions. Dorsal primary sensory cells (not shown) and individ-
+ual cells located in the white matter (Fig. 1F), including edge
+cells, were glutamate immunoreactive (-ir). Ventral edge cells
+were also glycine-ir. The anti-cytokeratin antibody labeled the
+cell bodies of astrocytes located in the grey matter (Fig. 1N),
+the lateral funiculus (Fig. 1M), the perimeter of the giant
+axons and also the astrocytic processes that course radially
+(Fig. 1D,M). No cells around the central canal showed cyto-
+keratin expression (Fig.1D). Figure 2 shows colocalization of
+all the aminoacidergic neurotransmitters with Hu (neuronal
+marker) (Fig. 2A-C00) and the absence of colocalization of
+these neurotransmitters with cytokeratins (Fig. 2D-F00) in
+control animals. This indicates that these neurotransmitters
+are probably present in astrocytes at very low levels, which
+precludes the observation of immunolabeling in control
+animals.
+Spinal cord injury led to a clear decrease in the expres-
+sion of glutamate, glycine, and GABA in neurons and to their
+accumulation in astrocytes in the regions adjacent to the
+lesion site. Glutamate, glycine, and GABA immunoreactivity
+was progressively maintained in neurons in more distal
+regions from the site of injury. The changes observed during
+the first week after the complete spinal cord transection are
+shown in Figures 3, 4, 5, and 6.
+Neuronal and Astrocytic Acute Response on the
+Day of Injury
+At 0 dpl (immediately after the injury), glutamate was
+released from neurons and their processes and was accumu-
+lated in astrocytes in the rostral and caudal regions close to
+the injury site. Neuronal cell bodies and fibers were not
+glutamate-ir in the first 500 lm rostrally (Fig. 3A) and cau-
+dally (Fig. 3B) from the lesion site, whereas astrocytes and
+glial processes showed now glutamate immunoreactivity (Fig.
+4A-A00). In more distal regions (from 500 lm to 3 mm from
+the injury site), presence of glutamate immunoreactivity in
+neuronal somata and processes increased progressively from
+the lesion site, whereas astrocytes were glutamate-negative
+[Fig. 3C (rostral); 3D (caudal)].
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1257
+FIGURE 1: Confocal photomicrographs of transverse sections of the spinal cord of the sea lamprey showing glutamate, GABA, glycine and
+cytokeratin (CK) immunoreactivities in control animals. A: Glutamate immunoreactivity. Outlined arrowheads point to neurons of the dorsal
+population. Arrows point to neurons of the lateral population. Outlined arrows point to CSFc cells and arrowheads point to white matter neu-
+rons. DC indicates the dorsal column. B: GABA immunoreactivity. C: Glycine immunoreactivity. D: CK immunoreactivity. Curved arrows point
+to astrocytes. Note the absence of CK immunoreactivity in cells around the central canal. E-L: Details of glutamate-ir (E: Lateral population
+cells. F: Lateral cell and cells located in the white matter. G: CSF-c cells. Star indicates the central canal.), GABA-ir (H: CSFc cells. I: Lateral and
+dorsal population cells.) and glycine-ir (J: Lateral population cells. K: Dorsal grey population cells. L: CSFc cells.) neurons M, N: Details of CK
+immunoreactivity. M: Astrocyte in the lateral funiculus. Note the astrocytic radial processes. Outlined curved arrow points to an astrocyte end-
+foot. N: Astrocytes located in the grey matter. O: Schematic drawing showing the different neuronal populations observed in the lamprey spi-
+nal cord. Orange medium sized circles indicate cells of the dorsal population. Green squares indicate cells of the lateral population. White
+small circles indicate the CSFc cells. Purple big circles indicate edge cells. Blue stars indicate white matter cells. In all figures dorsal is at the
+top. Lateral is on the left except for J, K in which lateral is on the right. Scale bars575 mm (A-D, O); 15 mm (E, F, I-N); 10 mm (G); 7.5 mm (H).
+Based on this observations and to investigate whether
+the astrocytes actively uptake neuronal glutamate in response
+to SCI, complete spinal cord transections were carried out in
+lampreys that were previously treated with DL-TBOA for 4
+hours. Absence of glutamate immunoreactivity in neurons
+was also observed in the first 500 mm rostrally and caudally
+to the site of injury in control and treated animals. However,
+absence of glutamate immunoreactivity in the astrocytes was
+observed (Fig. 3F-F00) in DL-TBOA treated animals in con-
+trast to controls, which showed glutamate immunoreactivity
+in the astrocytes (Fig. 3G-G00). This indicated that glutamate
+is actively accumulated in astrocytes by the action of gluta-
+mate transporters after SCI.
+The usual pattern of expression of glutamate immunore-
+activity observed in the spinal cord of control samples was
+observed from 3 mm from the transection site (data no
+shown). Glutamate immunoreactivity was observed in at least
+some cells of all the populations (dorsal, lateral and CSFc)
+from 500 mm, both rostral and caudal from the lesion site.
+Glutamate-ir primary sensory dorsal cells were observed from
+FIGURE 2: High magnification photomicrographs showing details of double labeled neurons (arrowheads) for glutamate, glycine or
+GABA and Hu and absence of colocalization between glutamate, glycine or GABA and CK in the spinal cord of control lampreys. A-A00:
+Glycine-ir neurons. Arrows point to Hu single labeled neurons. B-B00: Glutamate-ir neurons. C-C00: GABA-ir neurons. D-D00: GABA-ir single
+labeled neurons (arrows) and single labeled astrocytes immunoreactive to cytokeratins (arrowheads). E-E00: Glutamate-ir single labeled
+neurons (arrows) and singled labeled astrocytes immunoreactive to cytokeratins. F-F00: Glycine-ir single labeled neurons (arrow). In all fig-
+ures dorsal is at the top. Lateral is on the right, except for E-E00 in which lateral is on the left. A–F: Overlay; A’, F’: Glycine; B’, E’: Gluta-
+mate; C’, D’: GABA; A00, B00, C00: Hu; D00, E00, F00: CK. Scale bars525 mm (C-C00); 20 mm (A-B00, D-F00).
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1259
+600 to 900 mm from the injury site. Glutamate-ir edge cells
+were observed for the first time at 600 mm from the lesion
+site. These edge cells appear to maintain better their gluta-
+mate expression rostrally to the lesion site, where they were
+observed as often as in control samples, while caudally to the
+injury, they were only occasionally observed. The rest of
+white matter cells were observed occasionally as in control lar-
+vae from 1 mm from the lesion site.
+FIGURE 3: Confocal photomicrographs of transverse sections of spinal cord showing details of glutamate immunoreactivity at 0 dpl in trans-
+ected animals (A-D), in DL-TBOA treated samples (F-F00) and in not treated samples (G-G00). A, B: Neurons and fibers glutamate-negative in
+the adjacent region to the lesion site, rostral (A) and caudal (B). Note the presence of glutamate-ir astrocytes (arrows). C, D: Glutamate-ir
+neurons (arrows) and fibers in the distal region from the injury site, rostral (C) and caudal (D). Note the absence of glutamate immunoreac-
+tivity in astrocytes. DC indicates the dorsal column. E: Schematic drawing of a transverse section of the spinal cord showing the locations of
+the photomicrographs in Figs. 3, 4, 5, and 6. F-F00: Glutamate negative astrocytes in DL-TBOA treated larval lampreys. G-G00: Glutamate-ir
+astrocytes (arrowheads) in non-DL-TBOA treated larval lamprey. In all photographs, the star indicates the central canal and the asterisk indi-
+cates the Mauthner axon. In all figures, dorsal is at the top and lateral is on the right. F, G: Overlay; F’, G’: Glutamate; F00, G00: CK. Scale
+bars575 mm (E); 20 mm (A-D, F-F00, G-G00).
+1260 Volume 62, No. 8
+At 0 dpl, glycine was also released from neurons and neu-
+ronal processes, whereas astrocytes showed strong glycine immu-
+noreactivity rostrally and caudally in the first 300 mm from the
+injury site (Fig. 4B-B00). After the first 300 lm from the lesion
+site, glycine immunoreactivity was maintained in neurons and
+neuronal processes. Between 300 and 350 lm from the site of
+injury, glycine immunoreactivity was observed both in neurons
+and astrocytes in the same spinal sections (Fig. 4G-G00).
+Glycine-ir grey (dorsomedial, lateral and CSFc) and white mat-
+ter (ventral edge cells) cell populations were clearly observed
+from 350 lm to the site of injury. Caudally from 350 lm to
+the site of injury onwards, glycine-ir ventral edge cells not
+FIGURE 4: High magnification photomicrographs of transverse sections of spinal cord showing details of double immunolabeled astrocytes
+(arrowheads) for glutamate, glycine or GABA and CK in larvae processed immediately after the injury. A-A00: Glutamate-ir astrocytes. B-B00:
+Glycine-ir astrocytes. C-C00: GABA-ir astrocytes. D-D00: Double labeled astrocyte for glutamate and GABA. E-E00: Double labeled astrocyte
+for glutamate and glycine. F-F00: Double labeled astrocyte for glycine and GABA. Note that GABA is only express in part of the astrocyte.
+G-G00: Glycine-ir astrocytes and neurons (arrows). In all figures dorsal is at the top. Lateral is on the left except for B-B00, in which lateral is
+on the right. A, B, C, D, E, F, G: Overlay; A’, D’, E00: Glutamate; B’, E’, F’, G’: Glycine; C’, D00, F00: GABA; A00, B00, C00, G00: CK. Scale bars520
+mm (A-C00, G-G00); 10 mm (D-F00).
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1261
+always showed colocalization with glutamate immunoreactivity
+(see above). Therefore, caudally ventral edge cells appear to
+maintain glycine expression better than glutamate expression.
+At 0 dpl, GABA was released from most neuronal proc-
+esses and populations, except for the CSFc GABA cells, in the
+first 400 lm rostrally and caudally from the site of injury. In
+these regions, astrocytes showed GABA immunoreactivity after
+the injury (Fig. 4C-C00). Moreover, astrocytes showing colocali-
+zation between two neurotransmitters were also observed at this
+time point after the lesion (Fig. 4D-D00: glutamate and GABA;
+4E-E00: glycine and glutamate; 4F-F00: glycine and GABA). In
+contrast, the CSFc cells maintained their GABA immunoreactiv-
+ity. The apical processes of CSFc cells were flattened and
+strongly GABA-ir in the first sections from the injury site.
+Moreover, they appeared to be lining the central canal (Fig. 5A).
+The marginal neuropil, which is formed by the lateral processes
+of the CSFc cells, was still GABA-ir after injury (Fig. 5B). It is
+noteworthy that, unlike that observed for the GABA-ir CSFc
+cells, the glutamate- and glycine-ir CSFc cells lost their immu-
+noreactivity immediately after the lesion. Beyond the first 400
+lm from the lesion site, other neuronal bodies and processes
+(apart from the CSFc cells) began to maintain their GABA
+immunoreactivity. Between 400 and 450 lm from the site of
+injury, GABA-ir astrocytes and neurons could be observed in
+the same spinal cord sections (Fig. 5C-C00). Between 400 and
+600 lm from the site of injury, GABA immunoreactivity in the
+dorsal and lateral grey matter populations and processes was
+slightly lower than that of control samples. From the first 600
+lm from the site of injury, the pattern of GABA immunoreac-
+tivity was similar to that observed in control larvae, with cells of
+all GABAergic populations being GABA-ir.
+At 0 dpl, the complete spinal cord transection also led
+to changes in cytokeratin expression that extended for about
+500 lm rostral and caudal from the lesion site. The astrocytes
+FIGURE 5: Confocal photomicrographs of transverse sections showing details of GABA and CK immunoreactivities and double immunola-
+beled astrocytes (arrowheads) for glycine or GABA and CK. A: GABA-ir CSFc cells. Arrowhead points to a flattened apical process. The
+star indicates the central canal. B: GABA immunoreactivity in the marginal neuropil (arrowhead). The asterisk indicates the Mauthner
+axon. C-C00: GABA-ir astrocytes and neurons (arrows). D: CK-ir reactive astrocyte (arrow). E: CK-ir astrocyte processes with beaded
+appearance (arrowheads). The star indicates the Mauthner axon. F: CK immunoreactivity with a dotted (arrowheads) appearance. Star
+indicates the central canal. G, H: CK immunoreactivity beyond the adjacent region to the injury site, rostral (J) and caudal (K). I: CK-ir
+processes with beaded appearance (arrowheads). The star indicates the central canal. J-J00: Glycine-ir astrocytes 1dpl. All photomicro-
+graphs are from larvae processed immediately after the injury except J-J00. In all figures dorsal is at the top. Lateral is on the right
+except for G, I and J-J00, in which lateral is on the left. C, J: Overlay; J’: Glycine; C’: GABA; C00, J00: CK. Scale bars540 mm (G, H); 20 mm
+(A-F); 10 mm (I-J00).
+1262 Volume 62, No. 8
+became reactive acquiring a more rounded profile with wider
+processes and showing intense immunoreactivity (Fig. 5D).
+Some processes of astrocytes showed a beaded appearance
+(Fig. 5F). From the first 500 lm from the site of injury
+onwards, the cytokeratin expression was rather similar to that
+observed in control animals [Fig. 5G (rostral) and 5H (cau-
+dal)], although, processes with beaded appearance were occa-
+sionally observed (Fig. 5I).
+Changes from 1 to 7 dpl
+The presence of glutamate immunoreactivity in astrocytes was
+observed during the first six days following the complete SCI
+(Fig. 6A) in the regions close to the site of injury. However,
+the portion of the spinal cord in which astrocytes showed glu-
+tamate immunoreactivity became progressively shorter over
+the week reaching only 40–80 mm rostrally and caudally from
+the lesion site at 7 dpl. At 7 dpl glutamate-ir astrocytes cell
+bodies were not observed, but glial processes and end feet still
+were glutamate-ir in the first 40–80 mm from the site of
+injury (Fig. 6B). A pattern of glutamate immunoreactivity
+similar to that of control larvae was observed from 3 mm
+from the transection site in 1–2 dpl animals, from 1.5 mm in
+3–4 dpl animals and from 200 mm in 7 dpl animals.
+Glycine immunoreactivity was observed in astrocytes
+until 1 dpl (Fig. 5J-J00), but they were glycine negative in lar-
+vae processed 2 to 7 dpl. Interestingly, in the first 300 mm
+from the site of injury, between 1 and 3 dpl, glycine appeared
+to accumulate progressively to form a halo around some
+descending axons in the dorsal (8.8% of the axons with halos)
+and lateral (10.1% of the axons with halos) funicles and occa-
+sionally around one of the giant axons coursing in the longi-
+tudinal medial fascicle (3.8% of the axons with halos) or
+around the Mauthner axon (7.7% of the Mauthner axons
+with halos) (Figs. 6C,D and 7A). These halos did not show
+cytokeratins immunoreactivity. The presence of glycine halos
+did not correlate significantly with the subsequent survival
+ability of the neurons of origin of these axons (Fig. 7C). A
+pattern of glycine immunoreactivity similar to that of control
+FIGURE 6: High magnification photomicrographs of transverse sections of spinal cord showing details of glutamate, glycine, GABA and
+CK immunoreactivities in larvae processed 1–7dpl. A: Glutamate-ir astrocyte (arrow) 3 dpl. The asterisk indicates the Mauthner axon. B:
+Glutamate-ir glial processes and end-feet (arrowheads) 7 dpl. C, D: Glycine-ir halos (arrowheads) surrounding axons of the dorsal (C) and
+lateral (D) funicles. E: Glycine-ir cell (arrow) associated to a Mauthner axon (asterisk). F: Glycine-ir lateral edge cell (arrow). G: GABA-ir
+halo (arrowhead) surrounding an axon of the dorsal funicle. H: CK-ir reactive astrocyte (arrow) 2 dpl. I: CK-ir processes of astrocytes
+(arrowheads) transversally cut, 1dpl J: CK-ir astrocyte 3 dpl. Note the faint CK immunoreactivity in the perimeningeal ends. K: CK-ir
+processes of astrocytes (arrowheads) transversally cut, 7dpl. L: CK immunoreactivity appearance at 7 dpl. Dorsal is at the top. Lateral is
+on the left except for C, E, I, K and L, in which lateral is on the right. Scale bars520 mm (A, B, C, D, E, F, G, H, I, K); 10 mm (J, L).
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1263
+larvae was observed from 300 mm from the transection site in
+1–4 dpl animals and from 80 mm in 7 dpl animals.
+GABA immunoreactivity was not observed in neurons
+located in the first 100 to 150 mm from the injury site
+between 1 and 4 dpl, except for the CSFc cells that were
+GABA-ir. At 1 dpl, GABA-ir astrocytic processes were
+observed in the first 80 mm from the site of injury. At 2–7
+dpl, GABA-ir was not observed in astrocytes. As observed for
+FIGURE 7: Percentages of inhibitory neurotransmitter halos surrounding the axons of the dorsal (DF), lateral (LF), longitudinal medial
+(LMF) fascicles and the Mauthner axons (MTH) of the spinal cord. A: Percentages of glycine-ir halos. B: Percentages of GABA-ir halos. C:
+For each of the fascicles, the percentage of glycine (blue circles) and GABA (purple squares) halos were plotted against the percentage
+of times the neurons originating the fascicles survive, as previously reported Shifman et al. (2008). The line represents the best fit linear
+regeression (r250.29 for glycine-ir halos; r250.85 for GABA-ir halos). RS (reticulospinal). The asterisk indicates a significant correlation
+(P<0.05). D: Schematic drawing of the spinal cord showing the different axonal fascicles and the Mauthner axons (Mth). DF: dorsal fasci-
+cle; LMF: longitudinal medial fascicle; LF: lateral fascicle. Scale bar575 mm.
+1264 Volume 62, No. 8
+glycine, from 1 dpl to 3 dpl, GABA-ir/cytokeratin negative
+halos were observed around descending axons (5.2% of the
+axons in the dorsal funicle, 3.2% of the axons in the lateral
+funicle, 0.8% of the giant axons in the medial longitudinal
+fascicle and 0% in the Mauthner axons) (Figs. 6G and 7B).
+A correlation between the presence of GABA-ir halos around
+reticulospinal axons and the survival ability of the neurons
+originating these axons (Shifman et al., 2008) was detected
+(Pearson correlation coefficient, r5 0.92, P< 0.05; Fig. 7C).
+A GABA pattern of expression similar to that of control lar-
+vae was observed from 100 to 140 mm from the site of injury
+and from the site of injury at 7 dpl.
+Since 2 dpl, astrocytes began to down-regulate cytokera-
+tin expression leading to an appearance similar to that of the
+control samples. However, some reactive strongly cytokeratin-
+ir astrocytes were still observed (Fig. 6H). From 1dpl, at the
+border of the lesion, processes of astrocytes transversally cut
+could be observed (Fig. 6I). These processes were more clearly
+observed at 2 dpl (Fig. 6J) and 7 dpl (Fig. 6K). At 7 dpl, the
+astrocytes looked like in control larvae, although some kind
+of reorganization of the astrocyte processes or of the cytokera-
+tin expression on them was observed; the perimeningeal ends
+were faintly cytokeratin-ir, whereas perineuronal and periaxo-
+nal processes were observed better than in control samples
+(Fig. 6L).
+Discussion
+The short-term response in terms of aminoacidergic neuro-
+transmitter expression following a complete SCI in the sea
+lamprey has been studied for the first time. All the substances
+studied [glutamate, GABA, glycine, and cytokeratins (a lam-
+prey glial marker)] experienced alterations during the first
+week following SCI. The main change was observed in the
+regions adjacent to the lesion site and it mainly consisted of a
+massive release of these aminoacidergic neurotransmitters by
+neurons and their capture by astrocytes. In animals without
+injury, immunoreactivity for these neurotransmitters was
+exclusively observed in neurons, as it is shown by colocaliza-
+tion with Hu immunoreactivity. No colocalization with cyto-
+keratins was observed in control animals, probably reflecting
+the very low levels of aminoacidergic neurotransmitters in
+astrocytes under normal conditions. Furthermore, it was
+observed that a particular cell population (CSFc cells) released
+glutamate and glycine but not GABA after the injury.
+Regarding the expression of cytokeratins, some changes
+were also observed. Lurie et al. (1994) showed that from 7
+dpl there were no differences in cytokeratins immunoreactiv-
+ity, which is in agreement with our observations. This was
+interpreted as a lack of glial reaction after SCI in the sea lam-
+prey. However, we have observed that during the first 2–3
+dpl, cytokeratins immunoreactivity increases and the astro-
+cytes appeared enlarged. Similar features together with others,
+such as molecular and functional changes in astrocytes, have
+been observed in animals that suffer reactive astrogliosis and
+glial scar formation (Sofroniew and Vinters, 2010). Present
+observations in the sea lamprey suggest the occurrence of an
+astrocytic reaction, which occurs in the first days after SCI.
+Aminoacidergic Neurotransmitter Release by
+Neurons and Their Capture by Astrocytes
+Cytokeratins-expressing astrocytes have been observed in CNS
+locations, which regenerate well after a lesion (Lurie et al.,
+1994). Under normal physiological conditions, the concentra-
+tions of glutamate in the extracellular space are tightly con-
+trolled by some neuronal, EAAC1 (EAAT3) and glial, GLT1
+(EAAT2) and GLAST (EAAT1) transporters (for a review see
+Danbolt, 2001), being GLT1 the physiologically dominant
+(Rothstein et al., 2005). Glutamate uptake is very important
+because high extracellular glutamate levels result in excessive
+activation of glutamate receptors, triggering massive Ca21
+influx into cells and leading to neuronal death (Choi, 1988).
+Following SCI in mammals, a massive release of glutamate
+that raises it to excitotoxic levels within minutes has been
+reported (Liu et al., 1999; McAdoo et al., 1999; Panter et al.,
+1990; Xu et al., 2004). The increased levels of glutamate in
+the extracellular space has been observed for periods of 3 to 4
+days following traumatic injury in humans (Baker et al.,
+1993; Bullock et al., 1995) and in other mammals it has
+been shown that it can persist for 2 to 4 weeks after SCI
+(Lepore et al., 2011; Olsen et al., 2010). It has been shown
+that glutamate release after CNS injury in mammals is mainly
+produced by means of reversed uptake (McAdoo et al., 2000;
+Rossi et al., 2000; Szatkowski et al., 1990), contributing to
+increase glutamate excitotoxicity. Lepore et al. (2011) have
+also reported the existence of apoptosis of GLT1-expressing
+astrocytes, down-regulation of GLT1 expression in surviving
+astrocytes and lack of GLT1 expression in reactive/proliferat-
+ing astrocytes after SCI in mammals.
+In this work, we present clear evidence suggesting a
+massive release of glutamate from neurons after SCI in lamp-
+reys. Moreover, glutamate immunoreactivity was observed in
+astrocytes during the first week after a complete transection
+of the cord indicating that glutamate uptake by astrocytes
+works properly after SCI. Treatment with the glutamate trans-
+porter inhibitor DL-TBOA showed that astrocytes of lamp-
+reys actively uptake glutamate after SCI. This shows that in
+contrast to mammals (Lepore et al., 2011), glutamate trans-
+porters of lampreys continue working properly after SCI. A
+recent study has shown that in lampreys there is an amazing
+lack of death of intrinsic spinal cord cells in the first days
+after a complete SCI (Shifman et al., 2012). So, we suggest
+that the successful and active astrocytic uptake of glutamate
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1265
+could be one of the main reasons to explain the absence of
+cell death in lampreys after SCI. Further investigation to elu-
+cidate why in contrast to mammals the glutamate transporters
+of astrocytes of lampreys maintain their functionality after
+SCI is needed. This could provide clues to propose new
+therapies to prevent secondary damage after SCI.
+In the first 24 h following SCI, glycine and GABA
+immunoreactivities were also observed in the astrocytes of the
+sea lamprey. In mammals, a rise in extracellular levels of gly-
+cine and GABA has been reported after SCI (Panter et al.,
+1990). It is known that glycine is also involved in excitatory
+glutamatergic neurotransmission (review in Zafra and
+Gimenez, 2008). Glycine is a mandatory co-agonist for the
+activation of NMDA glutamate receptors (Johnson and
+Ascher, 1987). So, the increase in extracellular levels of gly-
+cine following SCI could potentiate excitotoxicity (Panter
+et al., 1990). Our observations demonstrating glycine uptake
+by astrocytes immediately after SCI indicate that this could
+help prevent the potentiation of glutamate excitotoxicity in
+lampreys.
+In contrast to the toxic effects of high glutamate and
+glycine extracellular levels, GABA has been shown to exert
+neuroprotective effects (Chen-Xu et al., 2000; Han et al.,
+2008; O’Connell et al., 2001; Yang et al., 2000). In our
+study, GABA was observed to accumulate in astrocytes in the
+first 24 hours after SCI. Of the 3 aminoacidergic neurotrans-
+mitters studied here, GABA was the first one to recover the
+immunoreactivity pattern observed in control samples, which
+may help to achieve functional recovery. Actually, a recent
+study has shown that raised endogenous GABA levels after a
+complete SCI in lampreys can be related to a better recovery
+of function (Svensson et al., 2013).
+Sustained Expression of GABA in CSFc Cells
+In contrast to other cell types and neurotransmitters, the
+CSFc GABAergic cells of lampreys do not lose GABA immu-
+noreactivity after SCI in the regions around the injury site.
+Interestingly, their strong GABA-ir apical dendrites show a
+change of morphology. Their apical portions become flattened
+and appear to line almost all the central canal perimeter. In
+contrast, in the eel, no morphological changes of the apical
+dendrites have been reported (Dervan and Roberts, 2003).
+The persistence of GABA immunoreactivity in these cells
+raises the question of whether GABA released by CSFc cells
+may influence regeneration in lampreys. It could act by offer-
+ing protection or by promoting regeneration; both actions
+being not exclusive. The CSFc cells are the first GABAergic
+cells detected in the developing spinal cord (Melendez-Ferro
+et al., 2003). GABA acts as a factor that modulates several
+essential developmental processes (for a revision see Owens
+and Kriegstein 2002), most but all of them being necessary
+to achieve regeneration. The specific persistence of GABA
+expression in CSFc cells suggests that, after SCI in the sea
+lamprey, GABA could play a role similar to that played dur-
+ing development to achieve regeneration.
+The function of the apical dendrites of the CSFc cells is
+not clear. They appear to be chemosensitive (Huang et al.,
+2006) by detecting changes in the CSF composition, but
+other functions such as mechanoreception or secretion have
+also been proposed (Vıgh et al., 2004). The flattening and
+rearrangement of the apical dendrites to line part of the cen-
+tral canal perimeter indicates that they respond to injury and
+that they could be playing new roles during regeneration. For
+example, forming a physical barrier between the interior of
+the central canal and the extracellular spaces of the spinal
+cord. It could also be related to other changes in the central
+canal. For example, the Reissner’s fibre of the central canal is
+interrupted after injury and its newly produced material is
+accumulated at the site of injury (Barreiro-Iglesias et al.,
+2009b). The Reissner’s fibre contains, binds and transports
+away developmental and molecular signals such as subcom-
+missural organ-spodin, dopamine and serotonin (Caprile
+et al., 2003; Gobron et al., 2000). So, their accumulation
+could be related to the changes in the apical dendrites of
+CSFc cells.
+Accumulation of Inhibitory Neurotransmitters
+around Identifiable Reticulospinal Descending
+Axons
+A surprising result of our study is the observation of intense
+glycine and GABA immunoreactive halos around some of the
+reticulospinal descending axons in response to injury. The
+reticulospinal system plays a predominant role in the control
+of locomotion (Grillner et al., 2008). The strong accumula-
+tion of inhibitory neurotransmitters around reticulospinal
+axons close to the injury site suggests that they could play a
+role in the fate of reticulospinal neurons. It is known that dif-
+ferent identifiable reticulospinal neurons of lampreys have dif-
+ferent regenerative (Jacobs et al., 1997) and survival abilities
+after SCI (Barreiro-Iglesias and Shifman, 2012; Shifman
+et al., 2008). Here, we determined the proportion of axons
+having inhibitory halos around them in different types of
+descending axons to compare these data with the percentages
+of times that the corresponding descending neurons survive
+several weeks after SCI. Rovainen reported the stereotypic
+location of identifiable reticulospinal axons in the spinal cord
+of lampreys (Rovainen, 1976; Fig. 7D). The survival ability
+of the identifiable reticulospinal neurons has been reported by
+Shifman et al. (2008) 12 months after a spinal cord transec-
+tion at the level of the 5th gill. The Mauthner cells, whose
+axons course in the lateral fascicle, and the M€uller cells,
+whose axons course in the medial longitudinal fascicle, are
+1266 Volume 62, No. 8
+bad survivors (with a probability of survival/regeneration of
+less than 60%). However, the accessory Mauthner cells and
+other identifiable reticulospinal neurons, whose axons course
+mainly in the dorsal and also in the lateral fascicles, are good
+survivors (with a probability of survival/regeneration of more
+than 60%) (Shifman et al., 2008). A significant and positive
+correlation between the presence of GABA-ir halos around
+the reticulospinal axons and the survival ability of the corre-
+sponding reticulospinal neurons was observed. This strongly
+suggests a role for GABA in protecting these neurons at the
+site of axotomy. Interestingly, we have recently reported that
+caspase activation in descending axons at the site of injury
+precedes the activation of caspases in the neuronal bodies of
+these neurons (Barreiro-Iglesias and Shifman, in press). The
+accumulation of extracellular GABA around reticulospinal
+axons may be due to a regulated increase in the production
+and release of inhibitory neurotransmitters to hyperpolarize
+axons. Keeping the descending axons hyperpolarized may pro-
+tect against excitotoxicity, counteracting harmful effects that
+could lead to retrograde neuronal death (Saransaari and Oja,
+1997).
+Conclusions and Future Perspectives
+In summary, the results of our study demonstrate that the
+astrocytes of lampreys have a high capacity of glutamate
+uptake after SCI, which is maintained during the first days
+after a complete transection of the cord. In addition, CSFc
+cells maintain their GABA expression in spite of the injury
+and inhibitory neurotransmitters accumulate around the
+axons of good survivor/regenerator reticulospinal neurons. All
+these factors appear to contribute to the impressive regenera-
+tive and survival capacity of the spinal cord of lampreys.
+Acknowledgment
+Grant sponsor: Spanish Ministry of Science and Innovation;
+Grant number: BFU2010–17174; ABI was supported by a
+postdoctoral fellowship from the Xunta de Galicia.
+The authors thank the staff of Ximonde Biological Station
+for providing lampreys used in this study and Dr. Selzer
+(Temple University) for providing the anti-cytokeratin anti-
+body. They also thank the Microscopy Service (University of
+Santiago de Compostela) for confocal microscope facilities.
+References
+Adam AS, Csillaq A. 2006. Differential distribution of L-Aspartato and L-
+glutamate-immunoreactive structures in the arcopallium and medium stria-
+tum of the domestic chick (Gallus domesticus). J Comp Neurol 498:266–
+276.
+Baker AJ, Moulton RJ, MacMillan VH, Shedden PM. 1993. Excitatory amino
+acids in cerebrospinal fluid following traumatic brain injury in humans. J Neu-
+rosurg 79:369–372.
+Barreiro-Iglesias A, Shifman MI. 2012. Use of fluorochrome-labeled inhibitors
+of caspases to detect neuronal apoptosis in the whole-mounted lamprey
+brain after spinal cord injury. Enzyme Res 2012:835731.
+Barreiro-Iglesias A, Shifman MI. In press. Detection of activated caspase-8 in
+injured spinal axons by using fluorochrome-labeled inhibitors of caspases
+(FLICA). In: Merighi A, Lossi L, editors. Neuronal cell death: Methods and
+protocols. Series: Methods in molecular biology. New York, NY: Humana
+Press.
+Barreiro-Iglesias A, Cornide-Petronio ME, Anadon R, Rodicio MC. 2009a.
+Serotonin and GABA are colocalized in restricted groups of neurons in the
+larval sea lamprey brain: Insights into the early evolution of neurotransmitter
+colocalization in vertebrates. J Anat 215:435–443.
+Barreiro-Iglesias A, Villar-Cervi~no V, Anadon R, Rodicio MC. 2009b. A mono-
+clonal antibody as a tool to study the subcommissural organ and Reissner’s
+fibre of the sea lamprey: An immunofluorescence study before and after a
+spinal cord transection. Neurosci Lett 464:34–38.
+Barreiro-Iglesias A, Villar-Cervi~no V, Anadon R, Rodicio MC. 2009c. Dopa-
+mine and gamma-aminobutyric acid are colocalized in restricted groups of
+neurons in the sea lamprey brain: Insights into the early evolution of neuro-
+transmitter colocalization in vertebrates. J Anat 215:601–610.
+Batueva V, Suderevskaya EI, Vesselkin NP, Pierre J, Reperant J. 1990. Local-
+isation of GABA-immunopositive cells in the river lamprey spinal cord. J Hirn-
+forsch 31:739–745.
+Baudoux S, Parker D. 2008. Glial-toxin-mediated disruption of spinal cord
+locomotor network function and its modulation by 5-HT. Neuroscience 153:
+1332–1343.
+Becker T, Wullimann MF, Becker CG, Bernhardt RR, Schachner M. 1997. Axo-
+nal regrowth after spinal cord transection in adult zebrafish. J Comp Neurol
+377:577–595.
+Bernstein J, Gelderd JB. 1970. Regeneration of the long spinal tracts in the
+goldfish. Brain Res 20:33–38.
+Brodin L, Grillner S. 1985. The role of putative excitatory amino acid neuro-
+transmitters in the initiation of locomotion in the lamprey spinal cord. II. The
+effects of amino acid uptake inhibitors. Brain Res 360:149–158.
+Brodin L, Dale N, Christenson J, Storm-Mathisen J, H€okfelt T, Grillner S.1990.
+Three types of GABA-immunoreactive cells in the lamprey spinal cord. Brain
+Res 508:172–175.
+Bullock R, Zauner A, Myseros JS, Marmarou A, Woodward JJ, Young HF. 1995.
+Evidence for prolonged release of excitatory amino acids in severe human
+head trauma. Relationship to clinical events. Ann N Y Acad Sci 765:290–297.
+Bunt SM, Fill-Moebs P. 1984. Selection of pathways by regenerating spinal
+cord fiber tracts. Brain Res 318:307–311.
+Caprile T, Hein S, Rodrıguez S, Montecinos H, Rodrıguez E. 2003. Reissner
+fiber binds and transports away monoamines present in the cerebrospinal
+fluid. Brain Res Mol Brain Res 110:177–192.
+Chen-Xu W, Yi Y, Qiu L, Shuaib A. 2000. Neuroprotective activity of tiagabine
+in a focal embolic model of cerebral ischemia. Brain Res 874:75–77.
+Choi DW. 1988. Glutamate neurotoxicity and diseases of the nervous system.
+Neuron 1:623–634.
+Coggeshall RE, Birse SG, Youngblood CS. 1982. Recovery from spinal trans-
+ection in fish. Neurosci Lett 32:259–264.
+Cohen AH, Kienel T, Pate V, Blinder J, Guan L. 1999. Temperature can alter
+the function outcome of spinal cord regeneration in larval lampreys. Neuro-
+science 90: 957–965.
+Cohen AH, Mackler SA, Selzer ME. 1986. Functional regeneration following
+spinal transection demonstrated in the isolated spinal cord of the larval sea
+lamprey. Proc Natl Acad Sci USA 83:2763–2766.
+Danbolt NC. 2001. Glutamate uptake. Prog Neurobiol 65:1–105.
+Davis BM, Ayers JL, Koran L, Carlson J, Anderson MC, Simpson SB Jr. 1990.
+Time course of salamander spinal cord regeneration and recovery of swimming:
+HRP retrograde pathway tracing and kinematic analysis. Exp Neurol 108:198–213.
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1267
+Demediuk P, Daly MP, Faden AI. 1989. Effect of impact trauma on neuro-
+transmitter and nonneurotransmitter amino acids in rat spinal cord. J Neuro-
+chem 52:1529–1536; Erratum: 54:724–725.
+Dervan AG, Roberts BL. 2003. Reaction of spinal cord central canal cells to
+cord transection and their contribution to cord regeneration. J Comp Neurol
+458:293–306.
+Escların-De Ruz A, Alcobendas-Maestro M, Casado-Lopez R, Mu~noz-Gonzalez
+A, Florido-Sanchez MA, Gonzalez-Valdizan E. 2009. A robotic system for gait
+re-education in patients with an incomplete spinal cord injury. Rev Neurol 49:
+617–622.
+Eulenburg V, Gomeza J. 2010. Neurotransmitter transporters expressed in
+glial cells as regulators of synapse function. Brain Res Rev 63:103–112.
+Faulkner JR, Herrmann JE, Woo MJ, Tansey KE, Doan NB, Sofroniew MV.
+2004. Reactive astrocytes protect tissue and preserve function after spinal
+cord injury. J Neurosci 24:2143–2155.
+Fernandez-Lopez B, Villar-Cervi~no V, Valle-Maroto SM, Barreiro-Iglesias A,
+Anadon R, Rodicio MC. 2012. The glutamatergic neurons in the spinal cord
+of the sea lamprey: An in situ hybridization and immunohistochemical study.
+PLoSOne 7(10):e47898.
+Gobron S, Creveaux I, Meiniel R, Didier R, Herbet A, Bamdad M, El Bitar F,
+Dastugue B, Meiniel A. 2000. Subcommissural organ/Reissner’s fiber com-
+plex: Characterization of SCO-spondin, a glycoprotein with potent activity on
+neurite outgrowth. Glia 32:177–191.
+Grillner S, Wallen P, Saitoh K, Kozlov A, Robertson B. 2008. Neural bases of
+goal-directed locomotion in vertebrates—An overview. Brain Res Rev 57:2–12.
+Gundersen V, Shupliakov O, Brodin L, Ottersen OP Storm-Mathisen J. 1995.
+Quantification of excitatory amino acid uptake at intact glutamatergic synap-
+ses by immunocytochemistry of exogenous D-aspartate. J Neurosci 15:4417–
+4428.
+Gustafsson JS, Birinyi A, Crum J, Ellisman M, Brodin L, Shupliakov O. 2002.
+Ultrastructural organization of lamprey reticulospinal synapses in three dimen-
+sions. J Comp Neurol 450:167–182.
+Guth L, Brewer CR, Collins WF Jr, Goldberger ME, Perl ER. 1980. Criteria for
+evaluating spinal cord regeneration experiments. Exp Neurol 69:1–3.
+Han D, Zhang QG, Yong-Liu, Li C, Zong YY, Yu CZ, Wang W, Yan JZ, Zhang
+GY. 2008. Co-activation of GABA receptors inhibits the JNK3 apoptotic path-
+way via the disassembly of the GluR6-PSD95-MLK3 signaling module in cere-
+bral ischemic-reperfusion. FEBS Lett 582:1298–1306.
+Huang AL, Chen X, Hoon MA, Chandrashekar J, Guo W, Tr€ankner D, Ryba
+NJ, Zuker CS. 2006. The cells and logic for mammalian sour taste detection.
+Nature 442:934–938.
+Jacobs AJ, Swain GP, Snedeker JA, Pijak DS, Gladstone LJ, Selzer ME. 1997.
+Recovery of neurofilament expression selectively in regenerating reticulospi-
+nal neurons. J Neurosci 17:5206–5220.
+Johnson JW, Ascher P. 1987. Glycine potentiates the NMDA response in cul-
+tured mouse brain neurons. Nature 325:529–531.
+Karimi-Abdolrezaee S, Billakanti R. 2012. Reactive astrogliosis after spinal
+cord injury-beneficial and detrimental effects. Mol Neurobiol 46:251–264.
+Larner AJ, Johnson AR, Keynes RJ. 1995. Regeneration in the vertebrate cen-
+tral nervous system: Phylogeny, ontogeny, and mechanisms. Biol Rev 70:597–
+619.
+Lee MT. 1982. Regeneration and functional reconnection of an identified ver-
+tebrate central neuron. J Neurosci 2:1793–1811.
+Lepore AC, O’Donnell J, Bonner JF, Paul C, Miller ME, Rauck B, Kushner RA,
+Rothstein JD, Fischer I, Maragakis NJ. 2011. Spatial and temporal changes in
+promoter activity of the astrocyte glutamate transporter GLT1 following trau-
+matic spinal cord injury. J Neurosci Res 89:1001–1017.
+Liu CJ, Grands P, Matute C, Cuenod M, Streid P. 1989. Glutamate-like immu-
+noreactivity revealed in rat olfactory bulb, hippocampus and cerebellum by
+monoclonal antibody and sensitive staining method. Histochemistry 90:427–
+445.
+Liu D, Thangnipon W, McAdoo DJ. 1991. Excitatory amino acids rise to toxic
+levels upon impact injury to the rat spinal cord. Brain Res 547:344–348.
+Liu D, Xu GY, Pan E, McAdoo DJ. 1999. Neurotoxicity of glutamate at the
+concentration released upon spinal cord injury. Neuroscience 93:1383–1389.
+Lurie DI, Pijak DS, Selzer ME. 1994. Structure of reticulospinal axon growth
+cones and their cellular environment during regeneration in the lamprey spi-
+nal cord. J Comp Neurol 344:559–580.
+Mahmood R, Restrepo CE, el Manira A. 2009. Transmitter phenotypes of
+commissural interneurons in the lamprey spinal cord. Neuroscience 164:
+1057–1067.
+Maron K. 1959. Regeneration capacity of the spinal cord in Lampetra fluviati-
+lis larvae. Folia Biol 7:179–189.
+McAdoo DJ, Xu GY, Robak G, Hughes MG. 1999. Changes in amino acid
+concentrations over time and space around an impact injury and their diffu-
+sion through the rat spinal cord. Exp Neurol 159:538–544.
+McAdoo DJ, Xu G, Robak G, Hughes MG, Price EM. 2000. Evidence that
+reversed glutamate uptake contributes significantly to glutamate release fol-
+lowing experimental injury to the rat spinal cord. Brain Res 865:283–285.
+Melendez-Ferro M, Perez –Costas E, Villar-Cheda B, Abalo XM, Rodrıguez-
+Mu~noz R, Rodicio MC, Anadon R. 2002. Ontogeny of gamma-aminobutyric
+acid-immunoreactive neural population in the forebrain and midbrain of the
+sea lamprey. J Comp Neurol 446:360–376.
+Melendez-Ferro M, Perez-Costas E, Villar-Cheda B, Rodrıguez- Mu~noz,
+Anadon R, Rodicio MC. 2003. Ontogeny of gamma-aminobutyric acid-immur-
+eactive neurons in the rhombencephalon and spinal cord of the sea lamprey.
+J Comp Neurol 464:17–35.
+Merrick SE, Pleasure SJ, Lurie DI, Pijak DS, Selzer ME, Lee VM. 1995. Glial
+cells of the lamprey nervous system contain keratin-like proteins. J Comp
+Neurol 355:199–210.
+O’Connell AW, Fox GB, Kjller C, Gallagher HC, Murphy KJ, Kelly J, Regan
+CM. 2001. Anti-ischemic and cognition-enhancing properties of NNC-711, a
+gamma-aminobutyric acid reuptake inhibitor. Eur J Pharmacol 424:37–44.
+Olsen ML, Campbell SC, McFerrin MB, Floyd CL, Sontheimer H. 2010. Spinal
+cord injury causes a wide-spread, persistent loss of Kir4.1 and glutamate
+transporter 1: Benefit of 17 beta-oestradiol treatment. Brain 133:1013–1025.
+Owens DF, Kriegstein AR. 2002. Is there more to gaba than synaptic inhibi-
+tion? Nat Rev Neurosci 3:715–727.
+Panter SS, Yum SW, Faden AI. 1990. Alteration in extracellular amino acids
+after traumatic spinal cord injury. Ann Neurol 27:96–99.
+Ransom RW, Stec NL. 1988. Cooperative modulation of [3H]MK-801 binding
+to the N-methyl-D-aspartate receptor-ion channel complex by L-glutamate,
+glycine, and polyamines. J Neurochem 51:830–836.
+Robertson B, Anclair F, Menard A, Grillner S, Dubuc R. 2007. GABA distribu-
+tion in lamprey is phylogenetically conserved. J Comp Neurol 503:47–63.
+Rodicio MC, Barreiro-Iglesias A. 2012. [Lampreys as an animal model in
+regeneration studies after spinal cord injury]. Rev Neurol 55:157–66. Spanish.
+Rossi DJ, Oshima T, Attwell D. 2000. Glutamate release in severe brain
+ischaemia is mainly by reversed uptake. Nature 403:316–321.
+Rothstein JD, Patel S, Regan MR, Haenggeli C, Huang YH, Bergles DE, Jin L,
+Dykes Hoberg M, Vidensky S, Chung DS, Toan SV, Bruijn LI, Su ZZ, Gupta P,
+Fisher PB. 2005. Beta-lactam antibiotics offer neuroprotection by increasing
+glutamate transporter expression. Nature 433:73–77.
+Rovainen CM. 1976. Regeneration of M€uller and Mauthner axons after spinal
+transection in larval lampreys. J Comp Neurol 168:545–554.
+Ruiz Y, Pombal MA, Megıas M. 2004. Development of GABA immunoreactive
+cells in the spinal cord of the sea lamprey, P. marinus. J Comp Neurol 470:
+151–163.
+Saransaari P, Oja SS. 1997. Enhanced GABA release in cell-damaging condi-
+tions in the adult and developing mouse hippocampus. Int J Dev Neurosci
+15:163–174.
+1268 Volume 62, No. 8
+Seifert G, Schilling K, Steinhauser C. 2006. Astrocyte dysfunction in neurolog-
+ical disorders: A molecular perspective. Nat Rev Neurosci 7:194–206.
+Selzer ME. 1978. Mechanisms of functional recovery and regeneration after
+spinal cord transection in larval sea lamprey. J Physiol 277:395–408.
+Shifman MI, Zhang G, Selzer ME. 2008. Delayed death of identified reticulospi-
+nal neurons after spinal cord injury in lampreys. J Comp Neurol 510:269–282.
+Shifman MI, Ognissanti C, He L, Laramore C. 2012. Surprising lack of cell
+death in lamprey spinal cord after injury. Program No. 550.03/I7. Neuro-
+science Meeting Planner. New Orleans, LA: Society for Neuroscience. Online.
+Shimamoto K, Lebrun B, Yasuda-Kamatani Y, Sakaitani M, Shigeri Y, Yumoto
+N, Nakajima T. 1998. DL-threo-beta-benzyloxyaspartate, a potent blocker of
+excitatory amino acid transporters. Mol Pharmacol 53:195–201.
+Shupliakov O, Brodin L, Cullheim S, Ottersen OP, Storm-Mathisen J. 1992.
+Immunogold quantification of glutamate in two types of excitatory synapse
+with different firing patterns. J Neurosci 12:3789–3803.
+Shupliakov O, Fagersted P, Ottersen OP, Storm-Mathiesen J, Grillner S,
+Brodin L. 1996. Immunocytochemical localization of glycine in the lamprey
+spinal cord with reference to GABAergic and glutamatergic synapses: A light
+and electron microscopic study. Acta Biol Hung 47:393–410.
+Sofroniew MV, Vinters HV. 2010. Astrocytes: Biology and pathology. Acta
+Neuropathol 119:7–35.
+Svensson E, Kim O, Parker D. 2013. Altered GABA and somatostatin modula-
+tion of proprioceptive feedback after spinal cord injury in lamprey. Neuro-
+science 235:109–118.
+Szatkowski M, Barbour B, Attwell D. 1990. Non-vesicular release of glutamate
+from glial cells by reversed electrogenic glutamate uptake. Nature 348:443–446.
+Uematsu H, Popescu A, Zhang G, Wright AC, Wehrli SL, Takahashi M, Wehrli
+FW, Selzer ME, Hackney DB. 2004. Magnetization transfer micro-MR imaging
+of live excised lamprey spinal cord: Characterization and immunohistochemi-
+cal correlation. AJNR Am J Neuroradiol 25:1816–1820.
+Valle-Maroto SM, Fernandez-Lopez B, Villar-Cervi~no V, Barreiro-Iglesias A,
+Anadon R, Rodicio MC. 2011. Inhibitory descending rhombencephalic projec-
+tions in larval sea lamprey. Neuroscience 194:1–10.
+Vidal Pizarro I, Swain GP, Selzer ME. 2004. Cell proliferation in the lamprey
+central nervous system. J Comp Neurol 469:298–310.
+Vıgh B, Manzano e Silva MJ, Frank CL, Vincze C, Czirok SJ, Szabo A, Lukats
+A, Szel A. 2004. The system of cerebrospinal fluid-contacting neurons. Its
+supposed role in the nonsynaptic signal transmission of the brain. Histol His-
+topathol 19:607–628.
+Villar-Cervi~no V, Abalo XM, Villar-Cheda B, Melendez-Ferro M, Perez-Costas E,
+Holstein GR, Martinelli GP, Rodicio MC, Anadon R. 2006. Presence of gluta-
+mate, glycine and gamma-aminobutyric acid in the retina of the larval sea lam-
+prey: Comparative immunohistochemical study of classical neurotransmitters in
+the larval and postmetamorphic retina. J Comp Neurol 499:810–827.
+Villar-Cervi~no V, Barreiro Iglesias A, Anadon R, Rodicio MC. 2008a. Distribu-
+tion of glycine immunoreactivity in the brain of adult sea lamprey (Petromy-
+zon marinus). Comparison with gamma-aminobutyric acid. J Comp Neurol
+507:1441–1463.
+Villar-Cervi~no V, Barreiro-Iglesias A, Fernandez-Lopez B, Mazan S, Rodicio
+MC, Anadon R. 2013. Glutamatergic neuronal populations in the brainstem
+of the sea lamprey, Petromyzon marinus: An in situ hybridization and immu-
+nocytochemical study. J Comp Neurol 521:522–557.
+Villar-Cervi~no V, Barreiro-Iglesias A, Mazan S, Rodicio MC, Anadon R. 2011.
+Glutamatergic neuronal population in the forebrain of the sea lamprey, Petro-
+myzon marinus: An in situ hybridization and immunocytochemical study. J
+Comp Neurol 519:1712–1735.
+Villar-Cervi~no V, Holstein GR, Martinelli GP, Anadon R, Rodicio MC. 2008b.
+Glycine-immunoreactivity in the developing spinal cord of the sea lamprey:
+Comparison with the gamma-aminobutyric acidergic system. J Comp Neurol
+508:112–130.
+Wasowicz M, Pierre J, Reperant J, Ward R, Vesselkin NP, Versaux-Botteri C.
+1994. Immunoreactivity to glial fibrillary acid protein (GFAP) in the brain and
+spinal cord of the lamprey (Lampetra fluviatilis). J Hirnforsch 35:71–78.
+Wood MR, Cohen MJ. 1979. Synaptic regeneration in identified neurons of
+the lamprey spinal cords. Science 206:344–347.
+Xu GY, Hughes MG, Ye Z, Hulsebosch CE, McAdoo DJ. 2004. Concentrations
+of glutamate released following spinal cord injury kill oligodendrocytes in the
+spinal cord. Exp Neurol 187:329–336.
+Yang Y, Li Q, Wang CX, Jeerakathil T, Shuaib A. 2000. Dose-dependent neu-
+roprotection with tiagabine in a focal cerebral ischemia model in rat. Neuro-
+report 11:2307–2311.
+Yin HS, Selzer ME. 1983. Axonal regeneration in lamprey spinal cord. J Neu-
+rosci 3:1135–1144.
+Zafra F, Gimenez C. 2008. Glycine transporters and synaptic function. IUBMB
+Life 60:810–817.
+Zhang G, Pizarro IV, Swain GP, Kang SH, Selzer ME. 2014. Neurogenesis in
+the lamprey CNS following spinal cord transection. J Comp Neurol
+522:1316–1332.
+Fernandez-Lopez et al.: Neurotransmitter Changes After Spinal Injury
+August 2014 1269

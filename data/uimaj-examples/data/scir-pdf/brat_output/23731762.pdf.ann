@@ -1,0 +1,722 @@
+T1	Gene 227 230	PRP
+T2	Gene 990 999	Dr Kan Xu
+T3	Gene 1941 1944	PRP
+T4	Gene 2050 2055	BMSCs
+T5	Gene 2057 2060	PRP
+T6	Gene 2262 2265	PRP
+T7	Gene 2332 2363	glial fibrillary acidic protein
+T8	Gene 2365 2369	GFAP
+T9	Gene 2396 2405	protein 2
+T10	Gene 2407 2411	MAP2
+T11	Gene 2435 2444	S6 kinase
+T12	Gene 2446 2452	p70S6K
+T13	Gene 2531 2534	PRP
+T14	Gene 2549 2558	PRP/BMSCs
+T15	Gene 2560 2570	BDNF-BMSCs
+T16	Gene 2574 2577	PRP
+T17	Gene 2578 2588	BDNF-BMSCs
+T18	Gene 2791 2797	NF-200
+T19	Gene 2799 2803	GFAP
+T20	Gene 2805 2809	MAP2
+T21	Gene 2814 2820	p70S6K
+T22	Gene 2975 2985	BDNF-BMSCs
+T23	Gene 2994 2997	PRP
+T24	Gene 2998 3002	BDNF
+T25	Gene 3048 3052	GFAP
+T26	Gene 3357 3360	PRP
+T27	Gene 3365 3369	BDNF
+T28	Gene 3593 3597	BDNF
+T29	Gene 3744 3757	TENGFEI ZHAO1
+T30	Gene 3775 3781	KAN XU
+T31	Gene 3782 3794	ZHONGLI SHI2
+T32	Gene 5298 5301	PRP
+T33	Gene 5392 5395	PRP
+T34	Gene 5425 5439	growth factors
+T35	Gene 5550 5578	insulin-like growth factor-I
+T36	Gene 5583 5590	insulin
+T37	Gene 5811 5832	glutamate transporter
+T38	Gene 5982 5989	Insulin
+T39	Gene 6096 6099	PRP
+T40	Gene 6544 6562	PRP growth factors
+T41	Gene 6664 6667	PRP
+T42	Gene 6719 6723	BDNF
+T43	Gene 6896 6899	PRP
+T44	Gene 7077 7081	BDNF
+T45	Gene 7900 7913	serum albumin
+T46	Gene 8042 8045	APC
+T47	Gene 8046 8050	CD44
+T48	Gene 8052 8055	APC
+T49	Gene 8056 8059	Cy7
+T50	Gene 8060 8064	CD45
+T51	Gene 8106 8151	CD105. Appropriate isotype control antibodies
+T52	Gene 8635 8661	rat BDNF complementary DNA
+T53	Gene 8684 8714	transcriptase polymerase chain
+T54	Gene 9564 9567	PRP
+T55	Gene 9572 9576	BDNF
+T56	Gene 9581 9590	SCI 793in
+T57	Gene 9850 9854	BDNF
+T58	Gene 9945 9949	BDNF
+T59	Gene 9986 9996	BDNF-BMSCs
+T60	Gene 10377 10381	BDNF
+T61	Gene 10418 10421	PRP
+T62	Gene 10436 10440	BDNF
+T63	Gene 10559 10563	GFAP
+T64	Gene 10569 10573	MAP2
+T65	Gene 10630 10633	PRP
+T66	Gene 10716 10719	PRP
+T67	Gene 10792 10796	BDNF
+T68	Gene 10802 10808	NF-200
+T69	Gene 10810 10814	GFAP
+T70	Gene 10818 10827	MAP2BMSCs
+T71	Gene 10919 10922	PRP
+T72	Gene 10936 10946	BDNF-BMSCs
+T73	Gene 11267 11270	PRP
+T74	Gene 11450 11460	BDNF-BMSCs
+T75	Gene 11602 11606	MAP2
+T76	Gene 11611 11623	p70S6K genes
+T77	Gene 11650 11654	BDNF
+T78	Gene 11659 11665	NF-200
+T79	Gene 11667 11671	GFAP
+T80	Gene 11676 11680	MAP2
+T81	Gene 11684 11687	PRP
+T82	Gene 11688 11692	BDNF
+T83	Gene 11726 11729	GFP
+T84	Gene 11801 11804	PRP
+T85	Gene 11805 11809	BDNF
+T86	Gene 11829 11850	RP/BDNF-BMSCs Vehicle
+T87	Gene 11857 11867	BDNF-BMSCs
+T88	Gene 12073 12076	PRP
+T89	Gene 12133 12136	PRP
+T90	Gene 12191 12194	PRP
+T91	Gene 12246 12254	thrombin
+T92	Gene 12816 12819	TEM
+T93	Gene 12958 12961	PRP
+T94	Gene 12969 12984	PRP PRP/BMSCs P
+T95	Gene 13004 13008	GFAP
+T96	Gene 13106 13109	PRP
+T97	Gene 13111 13114	PRP
+T98	Gene 13158 13161	PRP
+T99	Gene 13208 13229	10 mLPRP, 3 105 BMSCs
+T100	Gene 13238 13241	PRP
+T101	Gene 13242 13246	BDNF
+T102	Gene 15236 15245	PRP/BMSCs
+T103	Gene 15247 15250	PRP
+T104	Gene 15304 15307	PRP
+T105	Gene 15308 15312	BDNF
+T106	Gene 15334 15342	thrombin
+T107	Gene 15386 15390	BMSC
+T108	Gene 15482 15503	 reverse transcriptas
+T109	Gene 15509 15513	GFAP
+T110	Gene 15603 15607	BDNF
+T111	Gene 15668 15671	PRP
+T112	Gene 15676 15680	BDNF
+T113	Gene 16278 16283	Sigma
+T114	Gene 16368 16375	TCS SP5
+T115	Gene 16377 16382	Leica
+T116	Gene 16429 16450	reverse transcriptase
+T117	Gene 16843 16846	Rad
+T118	Gene 16906 16920	SuperScript II
+T119	Gene 17060 17071	SYBR Premix
+T120	Gene 17075 17082	Taq Kit
+T121	Gene 17084 17090	TaKaRa
+T122	Gene 17188 17191	Rad
+T123	Gene 17376 17381	actin
+T124	Gene 17680 17701	reverse transcriptase
+T125	Gene 17784 17788	GFAP
+T126	Gene 17835 17839	MAP2
+T127	Gene 17940 17945	actin
+T128	Gene 18087 18090	PRP
+T129	Gene 18231 18246	Gold Polymerase
+T130	Gene 18248 18266	Applied Biosystems
+T131	Gene 18510 18540	phosphatase inhibitor cocktail
+T132	Gene 18542 18547	Sigma
+T133	Gene 18675 18678	PRP
+T134	Gene 18679 18683	BDNF
+T135	Gene 18704 18707	PRP
+T136	Gene 19205 19220	anti-rabbit IgG
+T137	Gene 19892 19896	GFAP
+T138	Gene 20599 20602	dia
+T139	Gene 22064 22068	GFAP
+T140	Gene 22214 22218	GFAP
+T141	Gene 23190 23193	PRP
+T142	Gene 23358 23362	GFAP
+T143	Gene 23390 23394	GFAP
+T144	Gene 23555 23559	GFAP
+T145	Gene 23605 23608	PRP
+T146	Gene 23613 23617	BDNF
+T147	Gene 23622 23625	SCI
+T148	Gene 23639 23643	CD44
+T149	Gene 23645 23649	CD73
+T150	Gene 23651 23655	CD90
+T151	Gene 23660 23665	CD105
+T152	Gene 23692 23696	CD45
+T153	Gene 23730 23734	BDNF
+T154	Gene 23760 23785	green fluorescent protein
+T155	Gene 23831 23852	BDNF-transduced BMSCs
+T156	Gene 23895 23916	rat BDNF because BDNF
+T157	Gene 23999 24003	BDNF
+T158	Gene 24084 24088	BDNF
+T159	Gene 24106 24109	PRP
+T160	Gene 24274 24278	BDNF
+T161	Gene 24330 24336	NF-200
+T162	Gene 24338 24342	GFAP
+T163	Gene 24344 24348	MAP2
+T164	Gene 24365 24382	protein S6 kinase
+T165	Gene 24384 24390	p70S6K
+T166	Gene 24427 24448	reverse transcriptase
+T167	Gene 24502 24511	PRP/BMSCs
+T168	Gene 24516 24519	PRP
+T169	Gene 24520 24524	BDNF
+T170	Gene 24589 24595	NF-200
+T171	Gene 24597 24601	GFAP
+T172	Gene 24606 24610	MAP2
+T173	Gene 24659 24665	NF-200
+T174	Gene 24667 24671	GFAP
+T175	Gene 24676 24680	MAP2
+T176	Gene 24718 24721	PRP
+T177	Gene 25598 25602	BDNF
+T178	Gene 25658 25668	BDNF-BMSCs
+T179	Gene 25673 25676	PRP
+T180	Gene 25746 25756	BDNF-BMSCs
+T181	Gene 25767 25771	BDNF
+T182	Gene 25828 25837	BDNF gene
+T183	Gene 26028 26031	PRP
+T184	Gene 26110 26113	PRP
+T185	Gene 26359 26362	PRP
+T186	Gene 26363 26367	BDNF
+T187	Gene 26426 26437	NF-200 mRNA
+T188	Gene 26466 26469	PRP
+T189	Gene 26522 26525	PRP
+T190	Gene 26526 26530	BDNF
+T191	Gene 26623 26630	All PRP
+T192	Gene 26639 26642	PRP
+T193	Gene 26644 26653	PRP/BMSCs
+T194	Gene 26658 26661	PRP
+T195	Gene 26662 26672	BDNF-BMSCs
+T196	Gene 26681 26694	increasedGFAP
+T197	Gene 26789 26799	BDNF-BMSCs
+T198	Gene 26881 26884	PRP
+T199	Gene 26885 26895	BDNF-BMSCs
+T200	Gene 26900 26910	BDNF-BMSCs
+T201	Gene 27222 27226	GFAP
+T202	Gene 27730 27733	PRP
+T203	Gene 27734 27738	BDNF
+T204	Gene 27749 27758	PRP/BMSCs
+T205	Gene 27832 27836	BDNF
+T206	Gene 27840 27850	BDNF-BMSCs
+T207	Gene 27855 27858	PRP
+T208	Gene 27859 27863	BDNF
+T209	Gene 27903 27907	GFAP
+T210	Gene 27912 27923	NF-200 mRNA
+T211	Gene 27990 27993	PRP
+T212	Gene 27998 28002	BDNF
+T213	Gene 28094 28097	PRP
+T214	Gene 28137 28141	BDNF
+T215	Gene 28249 28252	PRP
+T216	Gene 28253 28257	BDNF
+T217	Gene 28497 28507	BDNF-BMSCs
+T218	Gene 28512 28515	PRP
+T219	Gene 28516 28520	BDNF
+T220	Gene 28584 28587	PRP
+T221	Gene 28615 28618	PRP
+T222	Gene 28641 28645	GFAP
+T223	Gene 28718 28721	PRP
+T224	Gene 28722 28726	BDNF
+T225	Gene 28841 28844	PRP
+T226	Gene 28845 28849	BDNF
+T227	Gene 28864 28867	TEM
+T228	Gene 28922 28925	PRP
+T229	Gene 29029 29032	PRP
+T230	Gene 29246 29256	BDNF-BMSCs
+T231	Gene 29433 29436	PRP
+T232	Gene 29493 29503	BDNF-BMSCs
+T233	Gene 29676 29679	PRP
+T234	Gene 29948 29951	PRP
+T235	Gene 29952 29956	BDNF
+T236	Gene 30137 30140	PRP
+T237	Gene 30141 30145	BDNF
+T238	Gene 30315 30318	PRP
+T239	Gene 30334 30338	BDNF
+T240	Gene 30594 30597	PRP
+T241	Gene 30622 30625	PRP
+T242	Gene 30626 30630	BDNF
+T243	Gene 30812 30815	PRP
+T244	Gene 30816 30820	BDNF
+T245	Gene 30831 30834	PRP
+T246	Gene 30835 30840	BMSCs
+T247	Gene 30941 30953	PRP scaffold
+T248	Gene 31056 31060	BDNF
+T249	Gene 31328 31332	BDNF
+T250	Gene 31523 31526	PRP
+T251	Gene 31583 31589	NF-200
+T252	Gene 31591 31595	GFAP
+T253	Gene 31600 31610	MAP2 genes
+T254	Gene 31626 31629	PRP
+T255	Gene 31704 31707	PRP
+T256	Gene 31708 31712	BDNF
+T257	Gene 31804 31807	PRP
+T258	Gene 31812 31816	BDNF
+T259	Gene 31868 31871	PRP
+T260	Gene 31875 31885	BDNF alone
+T261	Gene 31917 31923	p70S6K
+T262	Gene 31950 31975	phosphoinositide 3-kinase
+T263	Gene 31977 31981	PI3K
+T264	Gene 32128 32132	GFAP
+T265	Gene 32174 32177	PRP
+T266	Gene 32195 32199	BDNF
+T267	Gene 32392 32395	PRP
+T268	Gene 32396 32400	BDNF
+T269	Gene 32497 32503	p70S6K
+T270	Gene 32511 32520	PRP/BMSCs
+T271	Gene 32525 32528	PRP
+T272	Gene 32529 32533	BDNF
+T273	Gene 32599 32602	PRP
+T274	Gene 32791 32794	PRP
+T275	Gene 32847 32850	PRP
+T276	Gene 32903 32906	PRP
+T277	Gene 32907 32911	BDNF
+T278	Gene 33081 33087	p70S6K
+T279	Gene 33105 33108	PRP
+T280	Gene 33121 33124	PRP
+T281	Gene 33125 33129	BDNF
+T282	Gene 33166 33169	PRP
+T283	Gene 33201 33204	PRP
+T284	Gene 33273 33276	PRP
+T285	Gene 33285 33293	thrombin
+T286	Gene 33409 33415	NF-200
+T287	Gene 33417 33421	GFAP
+T288	Gene 33426 33430	MAP2
+T289	Gene 34154 34158	BDNF
+T290	Gene 34321 34324	PRP
+T291	Gene 34325 34329	BDNF
+T292	Gene 34719 34722	PRP
+T293	Gene 34727 34731	BDNF
+T294	Gene 34835 34839	BDNF
+T295	Gene 34844 34850	NF-200
+T296	Gene 34875 34878	PRP
+T297	Gene 34949 34959	BDNF-BMSCs
+T298	Gene 34992 34996	BDNF
+T299	Gene 35060 35066	NF-200
+T300	Gene 35515 35518	PRP
+T301	Gene 35821 35824	PRP
+T302	Gene 35984 35987	PRP
+T303	Gene 36125 36128	PRP
+T304	Gene 36129 36139	BDNF-BMSCs
+T305	Gene 36141 36151	BDNF-BMSCs
+T306	Gene 36153 36156	PRP
+T307	Gene 36175 36178	PRP
+T308	Gene 36266 36269	PRP
+T309	Gene 36270 36274	BDNF
+T310	Gene 36435 36438	PRP
+T311	Gene 36439 36443	BDNF
+T312	Gene 36525 36528	PRP
+T313	Gene 36544 36547	PRP
+T314	Gene 36587 36590	PRP
+T315	Gene 36591 36595	BDNF
+T316	Gene 36651 36654	PRP
+T317	Gene 36655 36660	BMSCs
+T318	Gene 36739 36742	PRP
+T319	Gene 36909 36913	BDNF
+T320	Gene 37069 37073	GFAP
+T321	Gene 37097 37100	PRP
+T322	Gene 37378 37381	PRP
+T323	Gene 37382 37386	BDNF
+T324	Gene 37576 37580	BDNF
+T325	Gene 37723 37726	PRP
+T326	Gene 37727 37731	BDNF
+T327	Gene 38009 38012	PRP
+T328	Gene 38013 38017	BDNF
+T329	Gene 38962 38965	PRP
+T330	Gene 39108 39111	PRP
+T331	Gene 39296 39299	PRP
+T332	Gene 39402 39430	platelets and growth factors
+T333	Gene 39553 39561	harm PRP
+T334	Gene 39729 39732	PRP
+T335	Gene 39847 39855	PRP scaf
+T336	Gene 40560 40563	PRP
+T337	Gene 40568 40572	BDNF
+T338	Gene 40944 40949	Smad1
+T339	Gene 41117 41128	Rho GTPases
+T340	Gene 41441 41443	SR
+T341	Gene 41445 41453	Bunge RP
+T342	Gene 41705 41717	neurotrophin
+T343	Gene 42071 42077	Zhao T
+T344	Gene 42079 42084	Yan W
+T345	Gene 42086 42097	Xu K, Shi Z
+T346	Gene 42502 42514	PDGF B-chain
+T347	Gene 42577 42586	rat brain
+T348	Gene 42700 42732	transforming growth factor-beta1
+T349	Gene 42848 42853	IGF-I
+T350	Gene 42973 42981	Zheng XM
+T351	Gene 42983 42988	Hu LQ
+T352	Gene 42990 42995	Hu WL
+T353	Gene 43199 43206	insulin
+T354	Gene 43421 43427	fibrin
+T355	Gene 43516 43522	Cho HH
+T356	Gene 43524 43538	Jang S, Lee SC
+T357	Gene 43540 43548	Jeong HS
+T358	Gene 43550 43557	Park JS
+T359	Gene 43559 43565	Han JY
+T360	Gene 44080 44098	Sasaki M, Radtke C
+T361	Gene 44100 44106	Tan AM
+T362	Gene 44108 44114	Zhao P
+T363	Gene 44116 44124	Hamada H
+T364	Gene 44876 44882	Cai HX
+T365	Gene 44884 44891	Wang LL
+T366	Gene 44893 44900	Song XH
+T367	Gene 44950 44958	collagen
+T368	Gene 45049 45054	Cao L
+T369	Gene 45056 45060	Su Z
+T370	Gene 45062 45074	Zhou Q, Lv B
+T371	Gene 45076 45081	Liu X
+T372	Gene 45317 45328	fibronectin
+T373	Gene 45338 45349	fibronectin
+T374	Gene 45612 45615	twy
+T375	Gene 45616 45619	twy
+T376	Gene 45730 45737	Deng LX
+T377	Gene 45739 45743	Hu J
+T378	Gene 45745 45750	Liu N
+T379	Gene 45752 45758	Wang X
+T380	Gene 45760 45768	Smith GM
+T381	Gene 45770 45775	Wen X
+T382	Gene 45784 45788	GDNF
+T383	Gene 46108 46127	nerve growth factor
+T384	Gene 46206 46211	Liu K
+T385	Gene 46213 46217	Lu Y
+T386	Gene 46219 46225	Lee JK
+T387	Gene 46279 46301	PTEN deletion enhances
+T388	Gene 46972 46976	VEGF
+T389	Gene 46981 46985	PDGF
+T390	Gene 47114 47144	Zapf A, Sturmer EK, Sturmer KM
+T391	Gene 47146 47155	Frosch KH
+T392	Gene 47354 47367	Wu SC, Chi CH
+T393	Gene 47369 47377	Chang HY
+T394	Gene 47538 47545	Huang S
+T395	Gene 47547 47552	Jia S
+T396	Gene 47554 47567	Liu G, Fang D
+T397	Gene 48120 48128	Houkin K
+T398	Gene 48130 48138	Hamada H
+T399	Gene 48635 48647	al. PTPsigma
+T400	Gene 49138 49151	Hu H, Kundu B
+T401	Gene 49895 49902	Park SH
+T402	Gene 49904 49909	Liu N
+T403	Gene 49911 49921	Sugiyama O
+T404	Gene 50380 50408	Lu P, Jones LL, Tuszynski MH
+T405	Gene 50410 50414	BDNF
+T406	Gene 50568 50572	BDNF
+T407	Gene 50573 50577	MAPK
+T408	Gene 50578 50581	ERK
+T409	Gene 51184 51188	CNTF
+T410	Gene 51479 51485	Duan J
+T411	Gene 51487 51494	Kuang W
+T412	Gene 51496 51501	Tan J
+T413	Gene 51503 51507	Li H
+T414	Gene 51509 51516	Zhang Y
+T415	Gene 51787 51790	PRP
+T416	Species 1958 1961	rat
+T417	Species 2508 2512	rats
+T418	Species 3133 3137	Rats
+T419	Species 3422 3426	rats
+T420	Species 3734 3737	rat
+T421	Species 7893 7899	bovine
+T422	Species 7970 7975	mouse
+T423	Species 8327 8337	adenovirus
+T424	Species 8635 8638	rat
+T425	Species 8967 8970	rat
+T426	Species 9292 9302	adenovirus
+T427	Species 9432 9451	Sprague-Dawley rats
+T428	Species 9846 9849	Rat
+T429	Species 10399 10402	rat
+T430	Species 10519 10529	adenovirus
+T431	Species 10978 10997	Sprague-Dawley rats
+T432	Species 11070 11073	rat
+T433	Species 12591 12597	bovine
+T434	Species 12738 12744	bovine
+T435	Species 13594 13598	rats
+T436	Species 13763 13767	rats
+T437	Species 14515 14519	Rats
+T438	Species 14827 14831	rats
+T439	Species 15023 15027	rats
+T440	Species 19210 19216	rabbit
+T441	Species 20355 20359	goat
+T442	Species 20417 20423	rabbit
+T443	Species 20486 20490	goat
+T444	Species 21325 21331	rabbit
+T445	Species 22511 22515	rats
+T446	Species 23895 23898	rat
+T447	Species 24703 24706	rat
+T448	Species 31342 31347	human
+T449	Species 32153 32156	rat
+T450	Species 39964 39970	humans
+T451	Species 41511 41516	human
+T452	Species 41581 41584	rat
+T453	Species 42019 42022	rat
+T454	Species 42223 42226	rat
+T455	Species 42577 42580	rat
+T456	Species 43076 43079	rat
+T457	Species 43288 43291	rat
+T458	Species 43470 43473	rat
+T459	Species 44163 44168	human
+T460	Species 44785 44790	human
+T461	Species 45395 45398	rat
+T462	Species 45522 45532	adenovirus
+T463	Species 45605 45610	mouse
+T464	Species 46567 46570	rat
+T465	Species 46989 46992	rat
+T466	Species 48216 48221	human
+T467	Species 48307 48310	rat
+T468	Species 50097 50100	rat
+T469	Species 51627 51632	mouse
+T470	InteractionKeyword 301 308	promote
+T471	InteractionKeyword 372 376	lead
+T472	InteractionKeyword 665 676	contributed
+T473	InteractionKeyword 1068 1075	results
+T474	InteractionKeyword 1102 1111	involving
+T475	InteractionKeyword 1248 1257	affecting
+T476	InteractionKeyword 1496 1506	diminished
+T477	InteractionKeyword 1810 1817	results
+T478	InteractionKeyword 1951 1957	induce
+T479	InteractionKeyword 2385 2395	associated
+T480	InteractionKeyword 2825 2833	promoted
+T481	InteractionKeyword 3264 3271	control
+T482	InteractionKeyword 3391 3399	produced
+T483	InteractionKeyword 3411 3418	effects
+T484	InteractionKeyword 3480 3489	enhancing
+T485	InteractionKeyword 4614 4621	targets
+T486	InteractionKeyword 4741 4747	result
+T487	InteractionKeyword 4772 4780	followed
+T488	InteractionKeyword 4916 4923	promote
+T489	InteractionKeyword 5182 5190	decrease
+T490	InteractionKeyword 5242 5248	reduce
+T491	InteractionKeyword 5519 5531	transforming
+T492	InteractionKeyword 5890 5899	increases
+T493	InteractionKeyword 5951 5959	promotes
+T494	InteractionKeyword 6025 6033	enhances
+T495	InteractionKeyword 6117 6124	promote
+T496	InteractionKeyword 6318 6324	effect
+T497	InteractionKeyword 6328 6337	enhancing
+T498	InteractionKeyword 6412 6422	potentiate
+T499	InteractionKeyword 6791 6798	promote
+T500	InteractionKeyword 7169 7176	effects
+T501	InteractionKeyword 7204 7213	promoting
+T502	InteractionKeyword 7245 7252	changed
+T503	InteractionKeyword 7785 7794	eliminate
+T504	InteractionKeyword 7877 7884	blocked
+T505	InteractionKeyword 8133 8140	control
+T506	InteractionKeyword 8186 8193	binding
+T507	InteractionKeyword 8502 8509	express
+T508	InteractionKeyword 8547 8554	control
+T509	InteractionKeyword 8734 8741	ligated
+T510	InteractionKeyword 8815 8822	produce
+T511	InteractionKeyword 11429 11436	changes
+T512	InteractionKeyword 11543 11550	changes
+T513	InteractionKeyword 11628 11636	promoted
+T514	InteractionKeyword 11752 11762	associated
+T515	InteractionKeyword 14089 14095	formed
+T516	InteractionKeyword 14602 14609	control
+T517	InteractionKeyword 16785 16795	determined
+T518	InteractionKeyword 16991 16999	involved
+T519	InteractionKeyword 17260 17266	target
+T520	InteractionKeyword 17289 17296	control
+T521	InteractionKeyword 17406 17413	control
+T522	InteractionKeyword 18291 18299	followed
+T523	InteractionKeyword 19328 19336	enhanced
+T524	InteractionKeyword 19754 19762	followed
+T525	InteractionKeyword 19914 19924	associated
+T526	InteractionKeyword 20117 20123	formed
+T527	InteractionKeyword 20515 20524	following
+T528	InteractionKeyword 20838 20845	control
+T529	InteractionKeyword 20873 20880	binding
+T530	InteractionKeyword 21168 21178	determined
+T531	InteractionKeyword 21857 21864	results
+T532	InteractionKeyword 22640 22646	blocks
+T533	InteractionKeyword 22701 22708	changed
+T534	InteractionKeyword 23060 23064	lead
+T535	InteractionKeyword 23885 23894	expressed
+T536	InteractionKeyword 24218 24225	results
+T537	InteractionKeyword 24250 24259	increased
+T538	InteractionKeyword 24485 24494	increased
+T539	InteractionKeyword 25586 25594	increase
+T540	InteractionKeyword 25757 25766	expressed
+T541	InteractionKeyword 25816 25824	increase
+T542	InteractionKeyword 26342 26351	increased
+T543	InteractionKeyword 26414 26422	increase
+T544	InteractionKeyword 26543 26552	expressed
+T545	InteractionKeyword 26763 26770	control
+T546	InteractionKeyword 27163 27169	formed
+T547	InteractionKeyword 27455 27462	control
+T548	InteractionKeyword 27821 27828	results
+T549	InteractionKeyword 28538 28545	reduced
+T550	InteractionKeyword 29070 29079	disrupted
+T551	InteractionKeyword 29524 29533	inhibited
+T552	InteractionKeyword 30378 30384	effect
+T553	InteractionKeyword 30388 30397	promoting
+T554	InteractionKeyword 30448 30455	results
+T555	InteractionKeyword 30931 30937	effect
+T556	InteractionKeyword 31046 31052	effect
+T557	InteractionKeyword 31097 31104	results
+T558	InteractionKeyword 31383 31390	effects
+T559	InteractionKeyword 31395 31404	increased
+T560	InteractionKeyword 31467 31474	changes
+T561	InteractionKeyword 31555 31564	increased
+T562	InteractionKeyword 31630 31638	promoted
+T563	InteractionKeyword 31831 31838	effects
+T564	InteractionKeyword 31940 31946	target
+T565	InteractionKeyword 31994 32000	target
+T566	InteractionKeyword 32021 32030	signaling
+T567	InteractionKeyword 32551 32559	promoted
+T568	InteractionKeyword 32603 32613	stimulated
+T569	InteractionKeyword 33012 33020	decrease
+T570	InteractionKeyword 33180 33184	form
+T571	InteractionKeyword 34066 34072	caused
+T572	InteractionKeyword 34221 34230	increased
+T573	InteractionKeyword 34617 34626	inhibited
+T574	InteractionKeyword 34855 34867	up-regulated
+T575	InteractionKeyword 35031 35038	trigger
+T576	InteractionKeyword 35119 35125	effect
+T577	InteractionKeyword 35139 35146	promote
+T578	InteractionKeyword 35519 35527	inducing
+T579	InteractionKeyword 35825 35833	promotes
+T580	InteractionKeyword 35885 35892	leading
+T581	InteractionKeyword 35998 36007	decreased
+T582	InteractionKeyword 36931 36937	induce
+T583	InteractionKeyword 36994 37004	increasing
+T584	InteractionKeyword 37552 37561	increased
+T585	InteractionKeyword 37581 37589	promotes
+T586	InteractionKeyword 37616 37625	affecting
+T587	InteractionKeyword 37806 37815	increased
+T588	InteractionKeyword 38080 38086	result
+T589	InteractionKeyword 38094 38102	followed
+T590	InteractionKeyword 38382 38390	followed
+T591	InteractionKeyword 38518 38527	determine
+T592	InteractionKeyword 38639 38647	produced
+T593	InteractionKeyword 38656 38662	target
+T594	InteractionKeyword 38743 38752	decreased
+T595	InteractionKeyword 38767 38773	target
+T596	InteractionKeyword 38971 38978	involve
+T597	InteractionKeyword 39122 39130	involved
+T598	InteractionKeyword 39371 39380	influence
+T599	InteractionKeyword 39512 39519	reduced
+T600	InteractionKeyword 39714 39723	influence
+T601	InteractionKeyword 40950 40959	signaling
+T602	InteractionKeyword 41107 41116	activated
+T603	InteractionKeyword 41138 41146	promotes
+T604	InteractionKeyword 41180 41189	following
+T605	InteractionKeyword 41491 41499	modified
+T606	InteractionKeyword 41522 41529	promote
+T607	InteractionKeyword 41530 41538	enhanced
+T608	InteractionKeyword 41720 41728	promotes
+T609	InteractionKeyword 42194 42202	enhances
+T610	InteractionKeyword 42518 42526	involved
+T611	InteractionKeyword 42700 42712	transforming
+T612	InteractionKeyword 42867 42875	enhances
+T613	InteractionKeyword 43008 43014	effect
+T614	InteractionKeyword 43954 43963	expressed
+T615	InteractionKeyword 43995 44001	induce
+T616	InteractionKeyword 44192 44199	promote
+T617	InteractionKeyword 44461 44469	promotes
+T618	InteractionKeyword 45143 45151	promotes
+T619	InteractionKeyword 45306 45313	effects
+T620	InteractionKeyword 45359 45368	following
+T621	InteractionKeyword 45588 45596	prevents
+T622	InteractionKeyword 45789 45797	modifies
+T623	InteractionKeyword 46047 46053	effect
+T624	InteractionKeyword 46293 46301	enhances
+T625	InteractionKeyword 46527 46533	effect
+T626	InteractionKeyword 46687 46693	direct
+T627	InteractionKeyword 46776 46785	correlate
+T628	InteractionKeyword 46791 46800	decreased
+T629	InteractionKeyword 46945 46952	induces
+T630	InteractionKeyword 47631 47638	induced
+T631	InteractionKeyword 48027 48036	following
+T632	InteractionKeyword 48453 48460	prevent
+T633	InteractionKeyword 48500 48507	promote
+T634	InteractionKeyword 49023 49029	impact
+T635	InteractionKeyword 49060 49069	following
+T636	InteractionKeyword 49286 49294	enhanced
+T637	InteractionKeyword 49561 49568	induced
+T638	InteractionKeyword 49734 49743	activated
+T639	InteractionKeyword 49756 49762	induce
+T640	InteractionKeyword 49812 49818	direct
+T641	InteractionKeyword 50013 50021	mediated
+T642	InteractionKeyword 50176 50184	inhibits
+T643	InteractionKeyword 50289 50296	targets
+T644	InteractionKeyword 50640 50647	induces
+T645	InteractionKeyword 50692 50699	impairs
+T646	InteractionKeyword 51550 51557	effects
+R647	Partner1 Arg1:T478 Arg2:T5
+R648	Partner2 Arg1:T478 Arg2:T3
+R649	Partner1 Arg1:T479 Arg2:T11
+R650	Partner2 Arg1:T479 Arg2:T8
+R651	Partner1 Arg1:T480 Arg2:T21
+R652	Partner2 Arg1:T480 Arg2:T18
+R653	Partner1 Arg1:T481 Arg2:T24
+R654	Partner2 Arg1:T481 Arg2:T25
+R655	Partner1 Arg1:T482 Arg2:T27
+R656	Partner2 Arg1:T482 Arg2:T26
+R657	Partner1 Arg1:T491 Arg2:T37
+R658	Partner2 Arg1:T491 Arg2:T34
+R659	Partner1 Arg1:T499 Arg2:T41
+R660	Partner2 Arg1:T499 Arg2:T42
+R661	Partner1 Arg1:T510 Arg2:T53
+R662	Partner2 Arg1:T510 Arg2:T52
+R663	Partner1 Arg1:T514 Arg2:T75
+R664	Partner2 Arg1:T514 Arg2:T85
+R665	Partner1 Arg1:T522 Arg2:T130
+R666	Partner2 Arg1:T522 Arg2:T129
+R667	Partner1 Arg1:T535 Arg2:T155
+R668	Partner2 Arg1:T535 Arg2:T156
+R669	Partner1 Arg1:T538 Arg2:T171
+R670	Partner2 Arg1:T538 Arg2:T168
+R671	Partner1 Arg1:T539 Arg2:T181
+R672	Partner2 Arg1:T539 Arg2:T178
+R673	Partner1 Arg1:T542 Arg2:T187
+R674	Partner2 Arg1:T542 Arg2:T188
+R675	Partner1 Arg1:T545 Arg2:T200
+R676	Partner2 Arg1:T545 Arg2:T197
+R677	Partner1 Arg1:T548 Arg2:T207
+R678	Partner2 Arg1:T548 Arg2:T208
+R679	Partner1 Arg1:T549 Arg2:T219
+R680	Partner2 Arg1:T549 Arg2:T220
+R681	Partner1 Arg1:T552 Arg2:T239
+R682	Partner2 Arg1:T552 Arg2:T238
+R683	Partner1 Arg1:T554 Arg2:T242
+R684	Partner2 Arg1:T554 Arg2:T240
+R685	Partner1 Arg1:T555 Arg2:T248
+R686	Partner2 Arg1:T555 Arg2:T245
+R687	Partner1 Arg1:T562 Arg2:T251
+R688	Partner2 Arg1:T562 Arg2:T252
+R689	Partner1 Arg1:T563 Arg2:T258
+R690	Partner2 Arg1:T563 Arg2:T255
+R691	Partner1 Arg1:T566 Arg2:T261
+R692	Partner2 Arg1:T566 Arg2:T262
+R693	Partner1 Arg1:T567 Arg2:T271
+R694	Partner2 Arg1:T567 Arg2:T272
+R695	Partner1 Arg1:T569 Arg2:T280
+R696	Partner2 Arg1:T569 Arg2:T281
+R697	Partner1 Arg1:T570 Arg2:T283
+R698	Partner2 Arg1:T570 Arg2:T282
+R699	Partner1 Arg1:T572 Arg2:T290
+R700	Partner2 Arg1:T572 Arg2:T291
+R701	Partner1 Arg1:T573 Arg2:T293
+R702	Partner2 Arg1:T573 Arg2:T292
+R703	Partner1 Arg1:T574 Arg2:T299
+R704	Partner2 Arg1:T574 Arg2:T296
+R705	Partner1 Arg1:T587 Arg2:T325
+R706	Partner2 Arg1:T587 Arg2:T326
+R707	Partner1 Arg1:T598 Arg2:T331
+R708	Partner2 Arg1:T598 Arg2:T332
+R709	Partner1 Arg1:T609 Arg2:T344
+R710	Partner2 Arg1:T609 Arg2:T345
+R711	Partner1 Arg1:T610 Arg2:T347
+R712	Partner2 Arg1:T610 Arg2:T346
+R713	Partner1 Arg1:T619 Arg2:T373
+R714	Partner2 Arg1:T619 Arg2:T372
+R715	Partner1 Arg1:T621 Arg2:T374
+R716	Partner2 Arg1:T621 Arg2:T375
+R717	Partner1 Arg1:T629 Arg2:T389
+R718	Partner2 Arg1:T629 Arg2:T388
+R719	Partner1 Arg1:T630 Arg2:T395
+R720	Partner2 Arg1:T630 Arg2:T396
+R721	Partner1 Arg1:T644 Arg2:T408
+R722	Partner2 Arg1:T644 Arg2:T406

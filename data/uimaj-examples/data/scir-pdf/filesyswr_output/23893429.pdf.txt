@@ -1,0 +1,636 @@
+Neurosci Bull    August 1, 2013, 29(4): 436–444. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1365-4436
+·Review·
+Animal models of axon regeneration after spinal cord injury
+Do-Hun Lee, Jae K. Lee
+University of Miami School of Medicine, Miami Project to Cure Paralysis, Department of Neurological Surgery, Miami, FL 
+33136, USA
+Corresponding author: Jae K. Lee. E-mail: JLee22@med.miami.edu
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+With advances in genetic and imaging techniques, investigating axon regeneration after spinal cord injury 
+in vivo is becoming more common in the literature. However, there are many issues to consider when using 
+animal models of axon regeneration, including species, strains and injury models. No single particular model 
+suits all types of experiments and each hypothesis being tested requires careful selection of the appropriate 
+animal model. in this review, we describe several commonly-used animal models of axon regeneration in the 
+spinal cord and discuss their advantages and disadvantages.
+Keywords: pyramidotomy; strain differences; contusion; injury models
+Introduction
+There is a fundamental difference between studying axon 
+regeneration and other research areas. Unlike development, 
+cancer, or many neurodegenerative diseases, axon 
+regeneration is a process that does not typically occur in the 
+adult mammalian central nervous system (CNS). Therefore, 
+in addition to investigating the basic cellular and molecular 
+processes that promote axon regeneration, the investigator 
+must also have a keen understanding of how to detect 
+regenerating axons since this is a major endpoint of the study. 
+First, an operational definition of what constitutes an axon that 
+has regenerated is needed. Does regeneration refer to any 
+type or a specific type of axonal growth? This topic has been 
+discussed many times[1-3], and is not the focus of this review. 
+Rather, we introduce some of the popular in vivo models of 
+axon regeneration that are used to help investigators gain a 
+better understanding of the pros and cons of each model.
+Rats versus Mice
+Most of the earlier studies on spinal cord injury (SCi) and 
+axon regeneration were performed in rats. However, with 
+advances in genetic mouse models and their increased 
+availability to the research community, these models have 
+gained much popularity recently. Using mice with knockout 
+of a target molecule has become the gold-standard for 
+functional testing, and Cre-Lox technology along with 
+increasing numbers of transgenic mice have provided 
+greater temporo-spatial control of the knockout strategy 
+that has proven invaluable for providing mechanistic 
+insights into the cellular and molecular processes of axon 
+regeneration. Therefore, many scientists have been drawn 
+to using mice to study axon regeneration, but certain 
+limitations must be considered.
+one important difference between rat and mouse 
+models of SCi is that while rats develop large fluid-filled 
+cystic cavities at the injury site (thereby mimicking the 
+human pathology), mice do not[4]. instead, the injury site in 
+mice is densely packed with cells and actually decreases 
+in size over time[4]. The exact reason for such a significant 
+pathological difference between such closely-related 
+species is not known. Since axons do not regenerate 
+regardless of the presence or the absence of a cavity, the 
+lack of a cavity in mice may not matter in most instances. 
+However, if the focus is on targeting cells present at the 
+injury site, such as the cellular composition of the scar, 
+then the findings of the study must be interpreted with this 
+difference in mind. in addition, transplantation strategies 
+(and findings) may be significantly different between rats 
+(that have a cyst) and mice (that do not have a cyst). 
+Do-Hun Lee, et al.    Animal models of axon regeneration after SCi 437
+Therefore, rats are preferable for studies where mimicking 
+the human pathology is important. These include preclinical 
+studies that focus on the efficacy of novel cellular and/or 
+pharmacological therapies. However, to gain mechanistic 
+insights into the basic cellular and molecular biology of SCi, 
+mouse models may have more to offer.
+Another important factor to consider when using mouse 
+models is strain differences. That different strains respond 
+differently to SCi is now well-described in the literature. 
+After contusive SCi, different strains display different 
+rates of locomotor recovery[5] and histopathology[6-8]. 
+interestingly, the C57BL/6 mouse, which is perhaps the 
+most commonly used strain in axon regeneration studies, 
+has been reported to have a worse locomotor outcome[5], 
+the greatest immunological response[6], and the least 
+axonal growth[7] compared to other inbred mouse strains. 
+in fact, adult dorsal root ganglia cultures from 129X/
+SvJ mice show much more axon growth than those from 
+C57BL/6 mice[9]. in addition, the same genetic deletion of 
+the myelin-associated inhibitor, Nogo-A, shows much more 
+axonal growth in a 129X1/SvJ background than a C57BL/6 
+background[9]. While there is no clear consensus about 
+which genetic background is ideal for axon regeneration 
+studies, it is clear that the backgrounds of experimental and 
+control groups should be well-matched.
+Matching genetic background is possible with inbred 
+mice after many generations of backcrossing. Since 
+this can significantly delay research progress, some 
+studies have used mixed backgrounds. However, when 
+the targeted allele is present in a mixed background, the 
+genetic differences between mutant and wild-type animals 
+is not as clear as a pure background, leading to a spectrum 
+of phenotypes which may increase the variability in the 
+outcome measures[10]. With a single mutation, this issue can 
+be addressed by using littermate controls; a homozygous 
+mutant mouse is bred to a heterozygous mouse to produce 
+offspring that are either mutants or heterozygotes, which 
+can be used as littermate controls that should have 
+the same genetic background. However, this strategy 
+becomes impractical when the experiment involves 
+compound mutants (i.e. two or more genetic deletions). 
+An alternative strategy is to establish a new founder line(s) 
+using compound heterozygotes to generate the wild-type, 
+single and/or compound mutants necessary for the study. 
+Then these mutant (and wild-type) mice can be used to 
+establish a breeding colony that will generate the animals 
+to be used in the study. As long as the breeding scheme is 
+isolated from other genetic backgrounds and genetic drift 
+is avoided, this strategy should provide a similar (but not 
+identical) background between the different groups.
+Large Animal Models
+While the focus of this review is on rodent models of SCi, 
+we briefly discuss the utility of large animal models such 
+as cats, pigs and non-human primates. These models 
+are not as commonly used as rodents for several reasons 
+including size, cost, availability, housing facilities, medical 
+care and ethics. However, they have provided valuable 
+information on our understanding of SCi pathophysiology 
+and have served as important preclinical models for testing 
+new therapies. Cats have been a popular model for spinal 
+cord electrophysiologists and have been used for decades 
+to decipher the physiology of the normal and injured spinal 
+cords[11, 12]. Due to their large size and greater similarity 
+to human physiology, pig models are becoming more 
+important as a preclinical model that is intermediate in size 
+between rodents and humans[13, 14]. There is obvious utility 
+in using non-human primates as a preclinical model (e.g. 
+bipedal locomotion), but ethical reasons typically limit their 
+use in the SCI field. Even with this limited use, non-human 
+primate models have provided important information on 
+anatomical plasticity[15] and behavior[16, 17], and have been 
+instrumental in advances in brain-machine-interface 
+devices[18]. Therefore, while the rodent is still the popular 
+model among basic scientists, large animal models remain 
+a necessity for finding effective therapies for SCI.
+Penetrating Lesions
+Dorsal Hemisection
+The dorsal hemisection model (Fig. 1A) has become 
+the model-of-choice for investigating regeneration of 
+corticospinal tract (CST) axons. in this model, the top 
+one-half to two-thirds of the spinal cord is cut usually at 
+the thoracic level, which injures the descending CST and 
+rubrospinal tract (RST) axons as well as the ascending 
+sensory axons in the dorsal columns[19]. Thus, in a typical 
+experiment, the spinal cord lesion is followed by injections 
+of anterograde tracers (e.g. biotinylated dextran amine) into 
+Neurosci Bull     August 1, 2013, 29(4): 436–444438
+the motor cortex (for the CST) or the red nucleus (for the 
+RST). Ascending sensory axons are typically studied using 
+a dorsal column lesion as described below. if performed 
+correctly in mice, there should be virtually no detectable 
+traced CST/RST axons caudal to the injury site under 
+normal circumstances. This can be confirmed by observing 
+cross-sections of the caudal spinal cord. The presence of 
+significant numbers of traced axons caudal to the injury 
+site in control animals confounds the interpretation of 
+increased numbers of axons in the experimental animals; 
+the increased number could be due to frank regeneration 
+of severed axons that have extended down the spinal cord 
+and/or more spared axons that display increased growth.
+Another important difference between rats and mice is 
+the detection of the ventral CST using conventional tracing 
+methods. injection of anterograde tracers into the motor 
+cortex in rats labels the dorsal CST axons (the main tract in 
+the dorsal column and the minor tract in the dorsolateral 
+white matter) as well as the ventral CST axons located in 
+the ventromedial white matter[20, 21]. However, for unknown 
+reasons, the ventral CST is rarely labeled in mice[22] even 
+though genetic labeling studies clearly demonstrate their 
+presence[23]. Therefore, a dorsal hemisection in mice results 
+in the caudal spinal cord being virtually devoid of any traced 
+CST axons, whereas a similar experimental approach in 
+rats displays many CST axons in the caudal spinal cord. 
+Under these circumstances, a therapeutic treatment in mice 
+that leads to increased CST axons caudal to the lesion may 
+be interpreted as enhanced axon regeneration, whereas 
+similar results in rats could be due to any kind of axonal 
+growth.
+Complete Transection
+A complete transection of the spinal cord (Fig. 1B) is the 
+most severe type of injury and can be considered as the 
+Fig. 1. Diagram of different mid-thoracic penetrating SCI lesions. Coronal and sagittal views of the injury site after dorsal hemisection (A), 
+complete transection (B) and a dorsal column lesion (C). After tracers (red) are injected into the cortex (for dorsal hemisection and 
+complete transection) or into the peripheral nerve (for dorsal column lesion), the traced axons typically fail to regenerate across 
+the lesion and are absent from the other side of the spinal cord. Green denotes spared axons that are not labeled by the tracer and 
+intentionally left intact. 
+Do-Hun Lee, et al.    Animal models of axon regeneration after SCi 439
+most rigorous test of axon regeneration since the two 
+stumps of the spinal cord are completely separated and no 
+axons are spared. However, under such harsh conditions, 
+the scar tissue may be too much of an inhibitory barrier for 
+axons that may otherwise be able to regenerate across 
+healthier tissue that is left after partial injuries. This is an 
+advantage of the dorsal hemisection model described 
+above where a bridge of non-lesioned tissue remains in the 
+ventral white matter that may serve as a more preferable 
+substrate for axon growth than the glial scar. Complete 
+transections are necessary for studying axons that are 
+distributed throughout the spinal cord, such as serotonin 
+axons.
+Dorsal Column Lesion
+Dorsal column lesions (Fig. 1C) typically involve either a cut 
+or a crush of the ascending sensory axons located in the 
+dorsal part of the dorsal columns. Since this tract is located 
+at the dorsal surface of the cord, it is easily accessible 
+and can be lesioned without significantly affecting other 
+axonal pathways. These axons can be labeled by injecting 
+retrograde transganglionic tracers (such as cholera toxin 
+beta) into the peripheral nerve or into the associated 
+muscle. Alternatively, tracer can be injected directly into 
+the dorsal root ganglia, although this may cause some 
+damage and likely leads to a conditioning lesion response 
+as described below.
+The dorsal column sensory axons offer a unique model 
+system in that their cell bodies, the dorsal root ganglia, have 
+a peripheral branch as well as a central branch stemming 
+from the same soma. interestingly, the peripheral branch 
+can regenerate, while the intraspinal central branch of the 
+same neuron cannot. This supports the theory that the 
+failure of regeneration in the CNS is due, at least in part, to 
+the inhibitory (non-growth-permissive) nature of the CNS. 
+Moreover, a lesion of the peripheral nerve prior to a lesion 
+of the corresponding central axons can promote a limited 
+degree of regeneration of the central axons[24], indicating 
+that the peripheral lesion enhances the intrinsic state of 
+growth that enables the central branch to regenerate. This 
+“conditioning lesion” paradigm has served as a model 
+system to study regeneration-associated mechanisms 
+such as the expression of growth-associated genes[25-28]. 
+However, the exact mechanism behind conditioning lesions 
+remains poorly understood.
+Contusion
+The contusion model of SCi (Fig. 2) is the preferred 
+model for mimicking the pathophysiology that occurs most 
+commonly in humans. Although there are various contusion 
+models for rats and mice[29-34], the basic principle is to use 
+an injury device to deliver a force that can be adjusted to 
+control the contusion severity. The mechanical force that 
+generates this type of injury leads to a lesion morphology 
+that is very different from penetrating injuries such as those 
+described above. in addition to the dura remaining intact, 
+contusion results in a lesion that is typically larger than a 
+penetrating injury and leaves a peripheral rim of spared 
+white matter[35]. By design, lesions in penetrating injuries 
+are typically limited to the target areas without significant 
+damage to adjacent areas as occurs in contusive injuries. 
+Because of their clinical relevance, most behavioral assays 
+are based on contusive models that have become the gold-
+standard for pre-clinical trials of therapeutic agents after 
+SCi. 
+While contusion injuries are useful for understanding 
+the pathophysiology of SCi, they have some disadvantages 
+in the study of axon regeneration. Since the biomechanical 
+force of the injury can vary and is more difficult to 
+predict than manual lesions, it is difficult to control which 
+axons are severed and which are spared. For example, 
+when performed correctly, a dorsal hemisection in mice 
+eliminates virtually all CST axons in the caudal spinal cord. 
+However, contusion injuries usually spare the dorsolateral 
+CST, which could be misinterpreted as regeneration. This is 
+also true of serotonin axons that are distributed throughout 
+the entire spinal cord; while a complete transection is 
+guaranteed to lesion all descending serotonin axons, even 
+severe contusive injuries typically display serotonin axons 
+in the caudal cord (personal observations).
+one case where contusion injuries can be used to 
+study axon regeneration is in attempts to observe axons 
+in the actual lesion site (a region devoid of astrocytes 
+sometimes called the GFAP-negative region) or in tissue 
+that has been transplanted into the lesion site[36-39]. Since 
+most axons fail to grow into the lesion, experimental 
+manipulations that lead to axons being detected in the 
+lesion can be interpreted as having caused regeneration. 
+This is possible in mice since the lesion is filled with cells 
+that can serve as a substrate, but not the case in rats where 
+Neurosci Bull     August 1, 2013, 29(4): 436–444440
+a fluid-filled cyst develops. However, in rats, transplants 
+that promote the growth of axons into the transplant can 
+be interpreted as axon regeneration since the original 
+transplant was devoid of axons. of course, this criterion 
+also applies to any injury model involving transplants.
+Pyramidotomy
+Pyramidotomy (Fig. 3) involves lesion of the CST (typically 
+unilaterally) at the level of the pyramidal tract located 
+at the ventral surface of the brainstem. Unlike the SCi 
+models described above, a pyramidotomy does not 
+lesion the spinal cord and therefore has limited utility for 
+understanding SCi pathophysiology. However, as a CST-
+selective lesion, this model has been used extensively for 
+understanding the contribution of CST axons to forelimb 
+movements[40, 41] and as a model for promoting CST axonal 
+growth[42-45]. After a unilateral pyramidotomy, one side of the 
+spinal cord (contralateral to the lesion since the lesion is 
+made before the pyramidal decussation) is virtually devoid 
+of CST innervation while the other side is not significantly 
+affected since CST axons in rodents typically do not 
+innervate the spinal cord bilaterally to a significant degree. 
+The intact CST is labeled with a tracer and the growth of 
+these axons across the midline is observed at a specified 
+time after injury. Since only the intact axons are labeled, 
+this is a model to study purely axonal sprouting rather than 
+bona fide regeneration. The completeness of the lesion can 
+be verified by PKCγ immunohistochemistry of spinal cross-
+sections, which show much more robust immunostaining in 
+the intact main CST[41, 42, 44, 45]. 
+one unique feature of the pyramidotomy model is 
+the absence of a significant glial scar, which is typically 
+observed after SCi. While there is reported evidence of 
+some microglial activation[46], pyramidotomy does not lead 
+to the significant glial scar that typically forms after CNS 
+injury. This can be advantageous because the glial scar 
+does not serve as an inhibitory barrier to axonal growth 
+in the pyramidotomy model, increasing the likelihood of 
+observing a positive effect by the experimental treatment. 
+Fig. 2. Diagram of a mid-thoracic contusion injury. A contusion injury is typically induced by a device that impacts the surface of the 
+spinal cord with a predetermined force. This results in a pathology where a peripheral rim of white matter is spared. In many 
+instances, corticospinal axons are partially spared as denoted by the red axons caudal to the injury site.
+Do-Hun Lee, et al.    Animal models of axon regeneration after SCi 441
+on the contrary, lack of axonal growth in a spinal cord 
+injury model can be attributed to either the presence of 
+the inhibitory glial scar or the lack of an intrinsic growth 
+mechanism. Therefore, the pyramidotomy model offers a 
+simpler experimental model to specifically manipulate CST 
+axons while reducing the likelihood of producing false-
+negatives.
+In vivo Imaging
+The most definitive way of verifying whether an axon has 
+regenerated or not is to document the process while it is 
+happening. Live images of an axon re-growing from its 
+injured tip are irrefutable evidence of axon regeneration. 
+But this is technically very difficult and only recently 
+have there been the tools necessary to make significant 
+advances in this field. In vivo imaging of single axons in 
+the spinal cord requires animal models with appropriate 
+fluorescent labeling. A popular choice has been to use 
+transgenic mouse lines developed by Feng et al.[47] in 
+which different fluorescent markers are expressed under 
+the Thy1 promoter in specific subsets of neurons. Using 
+the GFP-S line of these transgenic mice, Kerschensteiner 
+et al.[48] were the first to describe the response of lesioned 
+ascending dorsal sensory axons through repetitive imaging 
+in vivo. Using a thin needle to sever the axons, they 
+discovered that after a period of acute degeneration of both 
+the proximal and distal tips, the proximal axons often grew 
+in the wrong direction. Therefore, it seems that ascending 
+sensory axons fail to regenerate, at least in part, due to the 
+absence of proper navigational cues. in addition, through 
+live imaging of axons at the dorsal root entry zone, Di Maio 
+et al.[49] demonstrated that axons may regenerate across 
+this border into CNS territory but stall after exhibiting 
+presynaptic features[50].
+More recently, there have been improvements in in 
+vivo imaging of the spinal cord including spinal clamps to 
+reduce movement artifacts from respiration, the use of two-
+photon microscopy, and the use of chronically-implanted 
+glass chambers[51-54]. The use of two-photon microscopy 
+has many advantages including deep penetration into 
+the tissue and low phototoxicity. in the context of axon 
+regeneration, an additional advantage is being able to use 
+the laser to lesion axons. This provides unparalleled control 
+of the lesion and produces minimal scarring, which may 
+be useful in distinguishing between neuron-intrinsic and 
+-extrinsic mechanisms of axon regeneration. This laser 
+ablation technique has also been used in the C. elegans 
+model of axon regeneration[55, 56]. Such rapid improvements 
+in in vivo imaging techniques will provide unprecedented 
+temporo-spatial resolution of axon regeneration.
+Fig. 3. Diagram of a pyramidotomy model. Corticospinal axons 
+originate from layer 5 of the motor cortex, decussate at the 
+medullary pyramids and descend the length of the spinal 
+cord without significant bilateral innervation in rodents 
+(A). A pyramidotomy lesions the corticospinal axons at the 
+level of the brainstem before the decussation so that the 
+contralateral spinal cord is virtually devoid of corticospinal 
+innervation (B). Injection of a tracer into the intact tract 
+can be observed at the level of the spinal cord (C) and 
+assessed for axonal growth into the contralateral side.
+Neurosci Bull     August 1, 2013, 29(4): 436–444442
+So Which Model Should I Choose?
+Animal models of SCi require skilled small-animal surgeons 
+with proper knowledge of neuroanatomy as well as the 
+ability to administer proper postoperative care such as 
+manual bladder expression. if behavioral assessment is 
+planned, then additional training in these techniques is 
+required.  in addition, the necessary equipment, such as a 
+stereotaxic frame and contusion device, must be available. 
+if any of these resources are not available, then the 
+choice of animal models is limited. For example, if twice-
+daily manual bladder expression for the duration of the 
+experiment is not logistically possible, then models such 
+as dorsal hemisection or mid-thoracic contusion are not 
+feasible. or if stereotaxic injections of anterograde axonal 
+tracers are not feasible, then the study may be limited to 
+axons that can be detected immunohistochemically, such 
+as serotonin axons.
+The particular goals of the study are also important 
+factors in the selection of the animal model. if the main 
+focus is on the intrinsic mechanisms of CST growth, then 
+the pyramidotomy model offers several advantages such as 
+ease of animal care and absence of a glial scar. However, if 
+the goal is to overcome the glial scar, then an injury model 
+with a robust glial response, such as a dorsal hemisection 
+model, is suitable. These advantages and disadvantages 
+are summarized in Table 1.
+ACKNOWLEDGEMENTS
+This review was supported by NiNDS 1R01NS081040-01, 
+1R21NS082835-01, US Army W81XWH1010737, The Miami 
+Project to Cure Paralysis, and Buoniconti Fund.
+Received date: 2013-03-28; Accepted date: 2013-05-19
+REFERENCES
+[1] Cafferty WB, McGee AW, Strittmatter SM. Axonal growth 
+therapeutics: regeneration or sprouting or plasticity? Trends 
+Neurosci 2008, 31: 215–220.
+[2] Steward o, Zheng B, Tessier-Lavigne M. False resurrections: 
+distinguishing regenerated from spared axons in the injured 
+central nervous system. J Comp Neurol 2003, 459: 1–8.
+[3] Tuszynski MH, Steward o. Concepts and methods for the 
+study of axonal regeneration in the CNS. Neuron 2012, 74: 
+777–791.
+[4] inman D, Guth L, Steward o. Genetic influences on 
+secondary degeneration and wound healing following spinal 
+cord injury in various strains of mice. J Comp Neurol 2002, 
+451: 225–235.
+Table 1. Summary of the advantages and disadvantages of different injury models to study axon regeneration
+      injury model                                              Advantages                                                                           Disadvantages
+Dorsal hemisection Most common model to study CST regeneration;  Large variability between different surgeons
+ many hindlimb behavioral assays can be adapted
+Complete transection Most rigorous model to show regeneration injury may be too severe to observe growth; 
+  minimal behavioral recovery limits choice of 
+  assays; dedicated postoperative care required
+Dorsal column lesion Can be combined with conditioning lesion paradigm;  Limited choice of behavioral assays
+ distinct anatomical tract that is easily located; bladder 
+ expression not required 
+Pyramidotomy Well-established CST sprouting model; does not pro- Not clinically relevant; behavioral assays 
+ duce major glial scar; bladder expression not required limited to fine forelimb tests
+Contusion Use of same device among labs; well-established  Requires an injury device; difficult to distinguish
+ behavioral assays; most clinically relevant between spared and regenerated axons
+Laser ablation with  Most convincing way to show regeneration; allows study No behavioral assays; not clinically relevant;
+two-photon imaging of axons in real-time; bladder expression not required requires advanced microscopy; technically difficult
+Do-Hun Lee, et al.    Animal models of axon regeneration after SCi 443
+[5] Basso DM, Fisher LC, Anderson AJ, Jakeman LB, McTigue 
+DM, Popovich PG. Basso Mouse Scale for locomotion 
+detects differences in recovery after spinal cord injury in five 
+common mouse strains. J Neurotrauma 2006, 23: 635–659.
+[6] Kigerl KA, McGaughy VM, Popovich PG. Comparative 
+analysis of lesion development and intraspinal inflammation 
+in four strains of mice following spinal contusion injury. J 
+Comp Neurol 2006, 494: 578–594.
+[7] Ma M, Wei P, Wei T, Ransohoff RM, Jakeman LB. Enhanced 
+axonal growth into a spinal cord contusion injury site in a 
+strain of mouse (129X1/SvJ) with a diminished inflammatory 
+response. J Comp Neurol 2004, 474: 469–486.
+[8] Kostyk SK, Popovich PG, Stokes BT, Wei P, Jakeman LB. 
+Robust axonal growth and a blunted macrophage response 
+are associated with impaired functional recovery after spinal 
+cord injury in the MRL/MpJ mouse. Neuroscience 2008, 156: 
+498–514.
+[9] Dimou L, Schnell L, Montani L, Duncan C, Simonen M, 
+Schneider R, et al. Nogo-A-deficient mice reveal strain-
+dependent differences in axonal regeneration. J Neurosci 
+2006, 26: 5591–5603.
+[10] Doetschman T. influence of genetic background on 
+genetically engineered mouse phenotypes. Methods Mol Biol 
+2009, 530: 423–433.
+[11] Rossignol S, Frigon A. Recovery of locomotion after spinal 
+cord injury: some facts and mechanisms. Annu Rev Neurosci 
+2011, 34: 413–440.
+[12] Rossignol S, Bouyer L, Langlet C, Barthelemy D, Chau C, 
+Giroux N, et al. Determinants of locomotor recovery after 
+spinal injury in the cat. Prog Brain Res 2004, 143: 163–172.
+[13] Lee JH, Jones CF, okon EB, Anderson L, Tigchelaar S, 
+Kooner P, et al. A novel porcine model of traumatic thoracic 
+spinal cord injury. J Neurotrauma 2013, 30: 142–159.
+[14] Kuluz J, Samdani A, Benglis D, Gonzalez-Brito M, Solano 
+JP, Ramirez MA, et al. Pediatric spinal cord injury in infant 
+piglets: description of a new large animal model and review 
+of the literature. J Spinal Cord Med 2010, 33: 43–57.
+[15] Rosenzweig ES, Courtine G, Jindrich DL, Brock JH, 
+Ferguson AR, Strand SC, et al. Extensive spontaneous 
+plasticity of corticospinal projections after primate spinal cord 
+injury. Nat Neurosci 2010, 13: 1505–1510.
+[16] Bortoff GA, Strick PL. Corticospinal terminations in two new-
+world primates: further evidence that corticomotoneuronal 
+connections provide part of the neural substrate for manual 
+dexterity. J Neurosci 1993, 13: 5105–5118.
+[17] Courtine G, Bunge MB, Fawcett JW, Grossman RG, Kaas 
+JH, Lemon R, et al. Can experiments in nonhuman primates 
+expedite the translation of treatments for spinal cord injury in 
+humans? Nat Med 2007, 13: 561–566.
+[18] Ethier C, oby ER, Bauman MJ, Miller LE. Restoration of 
+grasp following paralysis through brain-controlled stimulation 
+of muscles. Nature 2012, 485: 368–371.
+[19] Zheng B, Lee JK, Xie F. Genetic mouse models for studying 
+inhibitors of spinal axon regeneration. Trends Neurosci 2006, 
+29: 640–646.
+[20] Brosamle C, Schwab ME. Cells of origin, course, and 
+termination patterns of the ventral, uncrossed component of 
+the mature rat corticospinal tract. J Comp Neurol 1997, 386: 
+293–303.
+[21] Brosamle C, Schwab ME. ipsilateral, ventral corticospinal 
+tract of the adult rat: ultrastructure, myelination and synaptic 
+connections. J Neurocytol 2000, 29: 499–507.
+[22] Steward o, Zheng B, Ho C, Anderson K, Tessier-Lavigne M. 
+The dorsolateral corticospinal tract in mice: an alternative 
+route for corticospinal input to caudal segments following 
+dorsal column lesions. J Comp Neurol 2004, 472: 463–477.
+[23] Bareyre FM, Kerschensteiner M, Misgeld T, Sanes JR. 
+Transgenic labeling of the corticospinal tract for monitoring 
+axonal responses to spinal cord injury. Nat Med 2005, 11: 
+1355–1360.
+[24] Neumann S, Woolf CJ. Regeneration of dorsal column fibers 
+into and beyond the lesion site following adult spinal cord 
+injury. Neuron 1999, 23: 83–91.
+[25] Hoffman PN. A conditioning lesion induces changes in gene 
+expression and axonal transport that enhance regeneration 
+by increasing the intrinsic growth state of axons. Exp Neurol 
+2010, 223: 11–18.
+[26] Cao Z, Gao Y, Bryson JB, Hou J, Chaudhry N, Siddiq M, et 
+al. The cytokine interleukin-6 is sufficient but not necessary 
+to mimic the peripheral conditioning lesion effect on axonal 
+growth. J Neurosci 2006, 26: 5565–5573.
+[27] Blesch A, Lu P, Tsukada S, Alto LT, Roet K, Coppola G, et al. 
+Conditioning lesions before or after spinal cord injury recruit 
+broad genetic mechanisms that sustain axonal regeneration: 
+superiority to camp-mediated effects. Exp Neurol 2012, 235: 
+162–173.
+[28] Stam FJ, MacGillavry HD, Armstrong NJ, de Gunst MC, 
+Zhang Y, van Kesteren RE, et al. Identification of candidate 
+transcriptional modulators involved in successful regeneration 
+after nerve injury. Eur J Neurosci 2007, 25: 3629–3637.
+[29] Gruner JA. A monitored contusion model of spinal cord injury 
+in the rat. J Neurotrauma 1992, 9: 123–126; discussion 126–
+128.
+[30] Wrathall JR, Pettegrew RK, Harvey F. Spinal cord contusion 
+in the rat: production of graded, reproducible, injury groups. 
+Exp Neurol 1985, 88: 108–122.
+[31] Stokes BT. Experimental spinal cord injury: a dynamic and 
+verifiable injury device. J Neurotrauma 1992, 9: 129–131; 
+discussion 131–124.
+[32] Jakeman LB, Guan Z, Wei P, Ponnappan R, Dzwonczyk R, 
+Neurosci Bull     August 1, 2013, 29(4): 436–444444
+Popovich PG, et al. Traumatic spinal cord injury produced 
+by controlled contusion in mouse. J Neurotrauma 2000, 17: 
+299–319.
+[33] Scheff SW, Rabchevsky AG, Fugaccia i, Main JA, Lumpp JE Jr. 
+Experimental modeling of spinal cord injury: characterization 
+of a force-defined injury device. J Neurotrauma 2003, 20: 
+179–193.
+[34] Nishi RA, Liu H, Chu Y, Hamamura M, Su MY, Nalcioglu o, et 
+al. Behavioral, histological, and ex vivo magnetic resonance 
+imaging assessment of graded contusion spinal cord injury in 
+mice. J Neurotrauma 2007, 24: 674–689.
+[35] Noble LJ, Wrathall JR. Spinal cord contusion in the rat: 
+morphometric analyses of alterations in the spinal cord. Exp 
+Neurol 1985, 88: 135–149.
+[36] Li W, Cai WQ, Li CR. Repair of spinal cord injury by neural 
+stem cells modified with BDNF gene in rats. Neurosci Bull 
+2006, 22: 34–40.
+[37] Barakat DJ, Gaglani SM, Neravetla SR, Sanchez AR, 
+Andrade CM, Pressman Y, et al. Survival, integration, and 
+axon growth support of glia transplanted into the chronically 
+contused spinal cord. Cell Transplant 2005, 14: 225–240.
+[38] Pearse DD, Pereira FC, Marcillo AE, Bates ML, Berrocal YA, 
+Filbin MT, et al. cAMP and Schwann cells promote axonal 
+growth and functional recovery after spinal cord injury. Nat 
+Med 2004, 10: 610–616.
+[39] Gao M, Lu P, Bednark B, Lynam D, Conner JM, Sakamoto 
+J, et al. Templated agarose scaffolds for the support of 
+motor axon regeneration into sites of complete spinal cord 
+transection. Biomaterials 2013, 34: 1529–1536.
+[40] Whishaw iQ, Pellis SM, Gorny B, Kolb B, Tetzlaff W. Proximal 
+and distal impairments in rat forelimb use in reaching follow 
+unilateral pyramidal tract lesions. Behav Brain Res 1993, 56: 
+59–76.
+[41] Starkey ML, Barritt AW, Yip PK, Davies M, Hamers FP, 
+McMahon SB, et al. Assessing behavioural function following 
+a pyramidotomy lesion of the corticospinal tract in adult mice. 
+Expl Neurol 2005, 195: 524–539.
+[42] Lee JK, Geoffroy CG, Chan AF, Tolentino KE, Crawford 
+MJ, Leal MA, et al. Assessing spinal axon regeneration and 
+sprouting in Nogo-, MAG-, and OMgp-deficient mice. Neuron 
+2010, 66: 663–670.
+[43] Thallmair M, Metz GA, Z’Graggen WJ, Raineteau o, Kartje 
+GL, Schwab ME. Neurite growth inhibitors restrict plasticity 
+and functional recovery following corticospinal tract lesions. 
+Nat Neurosci 1998, 1: 124–131.
+[44] Liu K, Lu Y, Lee JK, Samara R, Willenberg R, Sears-
+Kraxberger i, et al. PTEN deletion enhances the regenerative 
+ability of adult corticospinal neurons. Nat Neurosci 2010, 13: 
+1075–1081.
+[45] Cafferty WB, Strittmatter SM. The Nogo-Nogo receptor 
+pathway limits a spectrum of adult CNS axonal growth. J 
+Neurosci 2006, 26: 12242–12250.
+[46] Leong SK, Ling EA, Fan DP. Glial reaction after pyramidotomy 
+in mice and rats. Neurodegeneration 1995, 4: 403–413.
+[47] Feng G, Mellor RH, Bernstein M, Keller-Peck C, Nguyen QT, 
+Wallace M, et al. imaging neuronal subsets in transgenic 
+mice expressing multiple spectral variants of GFP. Neuron 
+2000, 28: 41–51.
+[48] Kerschensteiner M, Schwab ME, Lichtman JW, Misgeld T. In 
+vivo imaging of axonal degeneration and regeneration in the 
+injured spinal cord. Nat Med 2005, 11: 572–577.
+[49] Di Maio A, Skuba A, Himes BT, Bhagat SL, Hyun JK, Tessler 
+A, et al. In vivo imaging of dorsal root regeneration: rapid 
+immobilization and presynaptic differentiation at the CNS/
+PNS border. J Neurosci 2011, 31: 4569–4582.
+[50] Han SB, Kim H, Skuba A, Tessler A, Ferguson T, Son YJ. 
+Sensory Axon Regeneration: A Review from an in vivo 
+imaging Perspective. Exp Neurobiol 2012, 21: 83–93.
+[51] Farrar MJ, Bernstein iM, Schlafer DH, Cleland TA, Fetcho 
+JR, Schaffer CB. Chronic in vivo imaging in the mouse spinal 
+cord using an implanted chamber. Nat Methods 2012, 9: 
+297–302.
+[52] Davalos D, Lee JK, Smith WB, Brinkman B, Ellisman MH, 
+Zheng B, et al. Stable in vivo imaging of densely populated 
+glia, axons and blood vessels in the mouse spinal cord using 
+two-photon microscopy. J Neurosci Methods 2008, 169: 1–7.
+[53] Fenrich KK, Weber P, Hocine M, Zalc M, Rougon G, Debarbieux 
+F. Long-term in vivo imaging of normal and pathological 
+mouse spinal cord with subcellular resolution using implanted 
+glass windows. J Physiol 2012, 590: 3665–3675.
+[54] Davalos D, Akassoglou K. In vivo imaging of the mouse 
+spinal cord using two-photon microscopy. J Vis Exp 2012: 
+e2760.
+[55] Yanik MF, Cinar H, Cinar HN, Chisholm AD, Jin Y, Ben-Yakar 
+A. Neurosurgery: functional regeneration after laser axotomy. 
+Nature 2004, 432: 822.
+[56] Chen L, Wang Z, Ghosh-Roy A, Hubert T, Yan D, o’Rourke 
+S, et al. Axon regeneration pathways identified by systematic 
+genetic screening in C. elegans. Neuron 2011, 71: 1043–
+1057.

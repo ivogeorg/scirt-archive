@@ -1,0 +1,321 @@
+T1	Gene 21 35	neurotrophin-3
+T2	Gene 40 63	chondroitinase ABC from
+T3	Gene 76 84	collagen
+T4	Gene 1063 1094	chondroitinase ABC (ChABC) onto
+T5	Gene 1107 1115	collagen
+T6	Gene 1155 1181	microbial transglutaminase
+T7	Gene 1183 1186	mTG
+T8	Gene 1251 1259	collagen
+T9	Gene 1484 1488	NT-3
+T10	Gene 1502 1515	collagen scaf
+T11	Gene 1665 1670	ChABC
+T12	Gene 1761 1766	ChABC
+T13	Gene 1785 1793	collagen
+T14	Gene 1907 1912	ChABC
+T15	Gene 2079 2082	mTG
+T16	Gene 2131 2139	collagen
+T17	Gene 2676 2690	neurotrophin-3
+T18	Gene 2695 2718	chondroitinase ABC from
+T19	Gene 2731 2739	collagen
+T20	Gene 3237 3255	chondroitinase ABC
+T21	Gene 3257 3262	ChABC
+T22	Gene 3278 3322	neuronal growth inhibitory glycosaminoglycan
+T23	Gene 3324 3327	GAG
+T24	Gene 3379 3382	suc
+T25	Gene 3579 3584	ChABC
+T26	Gene 3669 3674	ChABC
+T27	Gene 3867 3872	ChABC
+T28	Gene 4013 4026	neurotrophins
+T29	Gene 4295 4300	ChABC
+T30	Gene 4305 4309	NT-3
+T31	Gene 4969 4984	MOE AcRF Tier 1
+T32	Gene 5382 5390	collagen
+T33	Gene 5724 5732	collagen
+T34	Gene 5836 5840	NT-3
+T35	Gene 5845 5850	ChABC
+T36	Gene 5868 5887	collagen nanofibers
+T37	Gene 5956 5964	collagen
+T38	Gene 6080 6088	collagen
+T39	Gene 6284 6287	SCI
+T40	Gene 6321 6336	Type I collagen
+T41	Gene 6645 6658	serum albumin
+T42	Gene 6701 6719	type I collagenase
+T43	Gene 7113 7121	Collagen
+T44	Gene 7197 7205	collagen
+T45	Gene 7638 7658	mTG mediated protein
+T46	Gene 7904 7907	sam
+T47	Gene 7909 7912	ple
+T48	Gene 8723 8737	type I collage
+T49	Gene 10551 10569	type I collagenase
+T50	Gene 11231 11235	NT-3
+T51	Gene 12141 12149	DRGs cul
+T52	Gene 12166 12174	collagen
+T53	Gene 12623 12626	sam
+T54	Gene 13227 13232	ChABC
+T55	Gene 13273 13278	ChABC
+T56	Gene 13279 13286	heparin
+T57	Gene 13429 13434	ChABC
+T58	Gene 13438 13441	PBS
+T59	Gene 13483 13488	ChABC
+T60	Gene 13489 13496	heparin
+T61	Gene 13519 13524	ChABC
+T62	Gene 14157 14164	decorin
+T63	Gene 14311 14316	ChABC
+T64	Gene 14493 14510	ChABC supernatant
+T65	Gene 14519 14526	decorin
+T66	Gene 14775 14782	decorin
+T67	Gene 16543 16546	neu
+T68	Gene 16792 16796	DRGs
+T69	Gene 16808 16824	NT-3 supernatant
+T70	Gene 16835 16838	neu
+T71	Gene 17110 17114	NT-3
+T72	Gene 17122 17130	collagen
+T73	Gene 17438 17442	NT-3
+T74	Gene 18322 18352	Incorporated ChABC/heparin sam
+T75	Gene 18397 18402	ChABC
+T76	Gene 18558 18571	Soluble ChABC
+T77	Gene 19625 19629	NT-3
+T78	Gene 19643 19656	collagen scaf
+T79	Gene 19827 19835	collagen
+T80	Gene 19927 19935	collagen
+T81	Gene 20117 20135	ChABC supernatants
+T82	Gene 20180 20197	Transglutaminases
+T83	Gene 20199 20204	TGase
+T84	Gene 20315 20320	TGase
+T85	Gene 20463 20470	Gelatin
+T86	Gene 20475 20483	collagen
+T87	Gene 20507 20512	TGase
+T88	Gene 20653 20661	collagen
+T89	Gene 20772 20780	collagen
+T90	Gene 21045 21053	collagen
+T91	Gene 21225 21233	collagen
+T92	Gene 21424 21428	NT-3
+T93	Gene 21433 21438	ChABC
+T94	Gene 21761 21769	collagen
+T95	Gene 22117 22139	protein release rate23
+T96	Gene 22296 22304	collagen
+T97	Gene 22450 22453	neu
+T98	Gene 23511 23514	neu
+T99	Gene 23624 23636	neurotrophin
+T100	Gene 23811 23819	collagen
+T101	Gene 24149 24157	collagen
+T102	Gene 24364 24369	ChABC
+T103	Gene 24410 24418	collagen
+T104	Gene 24520 24523	sig
+T105	Gene 24687 24700	ChABC release
+T106	Gene 24706 24714	collagen
+T107	Gene 24830 24835	ChABC
+T108	Gene 25502 25530	collagen nanofiber scaffolds
+T109	Gene 25561 25569	collagen
+T110	Gene 25732 25736	NT-3
+T111	Gene 25741 25746	ChABC
+T112	Gene 26418 26425	laminin
+T113	Gene 26781 26786	Yip P
+T114	Gene 26796 26811	SB, Bradbury EJ
+T115	Gene 26813 26840	Chondroitinase ABC promotes
+T116	Gene 27064 27072	task-spe
+T117	Gene 27692 27712	chondroitinase ABC’s
+T118	Gene 27856 27859	NGF
+T119	Gene 28208 28215	Lin TTS
+T120	Gene 28217 28227	Hai Ning D
+T121	Gene 28229 28240	MacArthur L
+T122	Gene 28242 28250	McAtee M
+T123	Gene 28518 28532	neurotrophin-3
+T124	Gene 28538 28544	fibrin
+T125	Gene 28704 28718	ChABC enhances
+T126	Gene 29391 29399	collagen
+T127	Gene 29568 29577	Bowlin GL
+T128	Gene 29736 29751	Zhong S, Teo WE
+T129	Gene 29753 29758	Zhu X
+T130	Gene 30244 30258	neurotrophin-3
+T131	Gene 30296 30305	Oto Neuro
+T132	Gene 30637 30651	neurotrophin-3
+T133	Gene 30657 30663	fibrin
+T134	Gene 30781 30787	Lum MG
+T135	Gene 31068 31098	chondroitinase ABC from fibrin
+T136	Gene 31500 31503	NGF
+T137	Gene 31846 31860	chABC enhances
+T138	Gene 32051 32081	chondroitinase ABC from fibrin
+T139	Gene 32322 32331	Griffin M
+T140	Gene 32344 32360	Transglutaminase
+T141	Gene 32690 32706	Transglutaminase
+T142	Gene 33061 33068	Addy VL
+T143	Gene 33070 33079	Griffin M
+T144	Gene 33106 33122	transglutaminase
+T145	Gene 33136 33144	collagen
+T146	Gene 33410 33422	type I colla
+T147	Gene 33433 33459	microbial transglutaminase
+T148	Gene 33906 33909	com
+T149	Gene 34379 34397	glycosaminoglycans
+T150	Species 4455 4459	rats
+T151	Species 5175 5180	human
+T152	Species 5577 5580	rat
+T153	Species 6356 6359	rat
+T154	Species 6496 6499	mum
+T155	Species 6638 6644	bovine
+T156	Species 6758 6764	bovine
+T157	Species 10734 10738	rats
+T158	Species 27284 27287	rat
+T159	Species 27579 27582	rat
+T160	Species 27896 27899	rat
+T161	Species 28358 28362	rats
+T162	Species 29483 29487	Mate
+T163	Species 29915 29919	Mate
+T164	Species 30087 30090	rat
+T165	InteractionKeyword 808 814	limits
+T166	InteractionKeyword 902 911	enhancing
+T167	InteractionKeyword 1188 1196	mediated
+T168	InteractionKeyword 1998 2005	results
+T169	InteractionKeyword 2101 2108	produce
+T170	InteractionKeyword 2267 2274	signals
+T171	InteractionKeyword 2314 2321	promote
+T172	InteractionKeyword 2347 2359	antagonizing
+T173	InteractionKeyword 2867 2876	following
+T174	InteractionKeyword 3084 3090	follow
+T175	InteractionKeyword 3617 3625	degraded
+T176	InteractionKeyword 3705 3712	limited
+T177	InteractionKeyword 4088 4095	promote
+T178	InteractionKeyword 4179 4185	direct
+T179	InteractionKeyword 4214 4224	controlled
+T180	InteractionKeyword 4419 4427	enhanced
+T181	InteractionKeyword 4591 4598	enhance
+T182	InteractionKeyword 5148 5156	enhanced
+T183	InteractionKeyword 5282 5290	enhanced
+T184	InteractionKeyword 5402 5411	decreased
+T185	InteractionKeyword 5440 5448	enhanced
+T186	InteractionKeyword 5467 5475	altering
+T187	InteractionKeyword 5662 5669	reduced
+T188	InteractionKeyword 6159 6166	effects
+T189	InteractionKeyword 6214 6221	signals
+T190	InteractionKeyword 6460 6468	modified
+T191	InteractionKeyword 7289 7295	target
+T192	InteractionKeyword 7642 7650	mediated
+T193	InteractionKeyword 8300 8308	required
+T194	InteractionKeyword 9026 9035	generated
+T195	InteractionKeyword 9464 9470	result
+T196	InteractionKeyword 9543 9549	result
+T197	InteractionKeyword 10412 10422	determined
+T198	InteractionKeyword 11240 11248	required
+T199	InteractionKeyword 11309 11316	control
+T200	InteractionKeyword 11399 11406	control
+T201	InteractionKeyword 11982 11989	control
+T202	InteractionKeyword 12120 12127	control
+T203	InteractionKeyword 12379 12386	blocked
+T204	InteractionKeyword 13070 13079	following
+T205	InteractionKeyword 13557 13563	result
+T206	InteractionKeyword 13838 13845	control
+T207	InteractionKeyword 14554 14561	control
+T208	InteractionKeyword 14879 14888	expressed
+T209	InteractionKeyword 15146 15154	mediated
+T210	InteractionKeyword 15189 15196	changes
+T211	InteractionKeyword 15708 15716	decrease
+T212	InteractionKeyword 16352 16361	decreased
+T213	InteractionKeyword 16592 16599	control
+T214	InteractionKeyword 16742 16749	limited
+T215	InteractionKeyword 16766 16773	control
+T216	InteractionKeyword 16901 16908	control
+T217	InteractionKeyword 17158 17165	control
+T218	InteractionKeyword 17341 17348	control
+T219	InteractionKeyword 17525 17532	control
+T220	InteractionKeyword 17778 17785	control
+T221	InteractionKeyword 17828 17835	control
+T222	InteractionKeyword 17927 17934	control
+T223	InteractionKeyword 18254 18262	decrease
+T224	InteractionKeyword 18764 18770	result
+T225	InteractionKeyword 18850 18860	facilitate
+T226	InteractionKeyword 18984 18989	forms
+T227	InteractionKeyword 19133 19142	directing
+T228	InteractionKeyword 19187 19194	targets
+T229	InteractionKeyword 19209 19216	results
+T230	InteractionKeyword 19346 19353	enhance
+T231	InteractionKeyword 19478 19485	enhance
+T232	InteractionKeyword 19680 19687	control
+T233	InteractionKeyword 19702 19709	control
+T234	InteractionKeyword 19904 19911	control
+T235	InteractionKeyword 20321 20329	mediated
+T236	InteractionKeyword 20538 20544	modify
+T237	InteractionKeyword 20670 20678	mediated
+T238	InteractionKeyword 20915 20923	decrease
+T239	InteractionKeyword 21028 21035	binding
+T240	InteractionKeyword 21090 21097	altered
+T241	InteractionKeyword 21117 21123	change
+T242	InteractionKeyword 21408 21414	limits
+T243	InteractionKeyword 21635 21644	decreased
+T244	InteractionKeyword 21649 21657	resulted
+T245	InteractionKeyword 21986 21998	contributing
+T246	InteractionKeyword 22104 22111	control
+T247	InteractionKeyword 22426 22432	reduce
+T248	InteractionKeyword 23267 23274	control
+T249	InteractionKeyword 23309 23317	decrease
+T250	InteractionKeyword 23467 23475	resulted
+T251	InteractionKeyword 23565 23572	control
+T252	InteractionKeyword 23953 23960	control
+T253	InteractionKeyword 24068 24075	limited
+T254	InteractionKeyword 24122 24129	results
+T255	InteractionKeyword 24534 24542	increase
+T256	InteractionKeyword 24543 24551	followed
+T257	InteractionKeyword 25108 25115	prevent
+T258	InteractionKeyword 25308 25315	enhance
+T259	InteractionKeyword 25640 25647	control
+T260	InteractionKeyword 25687 25694	results
+T261	InteractionKeyword 25957 25964	promote
+T262	InteractionKeyword 26238 26249	upregulated
+T263	InteractionKeyword 26392 26399	inhibit
+T264	InteractionKeyword 26832 26840	promotes
+T265	InteractionKeyword 27250 27259	following
+T266	InteractionKeyword 27861 27868	prevent
+T267	InteractionKeyword 28129 28138	following
+T268	InteractionKeyword 28495 28505	controlled
+T269	InteractionKeyword 28710 28718	enhances
+T270	InteractionKeyword 28875 28881	effect
+T271	InteractionKeyword 29070 29077	enhance
+T272	InteractionKeyword 29866 29873	effects
+T273	InteractionKeyword 30844 30850	effect
+T274	InteractionKeyword 31103 31110	reduces
+T275	InteractionKeyword 31606 31613	targets
+T276	InteractionKeyword 31614 31623	following
+T277	InteractionKeyword 31852 31860	enhances
+T278	InteractionKeyword 32086 32093	reduces
+T279	InteractionKeyword 32423 32433	increasing
+T280	InteractionKeyword 32870 32878	mediated
+T281	InteractionKeyword 33486 33493	linking
+T282	InteractionKeyword 33612 33620	enhances
+T283	InteractionKeyword 33896 33902	effect
+T284	InteractionKeyword 34155 34164	regulated
+T285	InteractionKeyword 34165 34174	following
+T286	InteractionKeyword 34371 34378	reduces
+T287	InteractionKeyword 34425 34433	promotes
+R288	Partner1 Arg1:T167 Arg2:T6
+R289	Partner2 Arg1:T167 Arg2:T7
+R290	Partner1 Arg1:T168 Arg2:T16
+R291	Partner2 Arg1:T168 Arg2:T15
+R292	Partner1 Arg1:T180 Arg2:T29
+R293	Partner2 Arg1:T180 Arg2:T30
+R294	Partner1 Arg1:T190 Arg2:T41
+R295	Partner2 Arg1:T190 Arg2:T42
+R296	Partner1 Arg1:T202 Arg2:T51
+R297	Partner2 Arg1:T202 Arg2:T52
+R298	Partner1 Arg1:T205 Arg2:T57
+R299	Partner2 Arg1:T205 Arg2:T61
+R300	Partner1 Arg1:T207 Arg2:T64
+R301	Partner2 Arg1:T207 Arg2:T65
+R302	Partner1 Arg1:T216 Arg2:T70
+R303	Partner2 Arg1:T216 Arg2:T68
+R304	Partner1 Arg1:T217 Arg2:T71
+R305	Partner2 Arg1:T217 Arg2:T72
+R306	Partner1 Arg1:T232 Arg2:T77
+R307	Partner2 Arg1:T232 Arg2:T78
+R308	Partner1 Arg1:T236 Arg2:T86
+R309	Partner2 Arg1:T236 Arg2:T87
+R310	Partner1 Arg1:T237 Arg2:T89
+R311	Partner2 Arg1:T237 Arg2:T88
+R312	Partner1 Arg1:T242 Arg2:T93
+R313	Partner2 Arg1:T242 Arg2:T92
+R314	Partner1 Arg1:T260 Arg2:T110
+R315	Partner2 Arg1:T260 Arg2:T111
+R316	Partner1 Arg1:T268 Arg2:T123
+R317	Partner2 Arg1:T268 Arg2:T124
+R318	Partner1 Arg1:T279 Arg2:T139
+R319	Partner2 Arg1:T279 Arg2:T140
+R320	Partner1 Arg1:T281 Arg2:T147
+R321	Partner2 Arg1:T281 Arg2:T146

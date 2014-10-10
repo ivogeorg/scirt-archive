@@ -1,0 +1,99 @@
+T1	Gene 160 169	Yimin Zou
+T2	Gene 425 442	Berlin Heidelberg
+T3	Gene 896 899	SCI
+T4	Gene 1186 1189	SCI
+T5	Gene 2141 2152	phosphatase
+T6	Gene 2157 2171	tensin homolog
+T7	Gene 3637 3650	Johns Hopkins
+T8	Gene 4697 4704	Jae Lee
+T9	Gene 5055 5065	Batroxobin
+T10	Gene 8032 8035	SCI
+T11	Gene 9221 9224	Wnt
+T12	Gene 9349 9363	Sci U S A 2012
+T13	Gene 9388 9395	Park KK
+T14	Gene 9397 9402	Liu K
+T15	Gene 9404 9408	Hu Y
+T16	Gene 9427 9431	PTEN
+T17	Gene 9432 9436	mTOR
+T18	Gene 9494 9506	Lu P, Wang Y
+T19	Gene 9508 9526	Graham L, McHale K
+T20	Gene 9528 9533	Gao M
+T21	Gene 9535 9539	Wu D
+T22	Gene 11026 11028	DH
+T23	Gene 11138 11143	Fan H
+T24	Gene 11145 11150	Liu X
+T25	Gene 11152 11159	Tang HB
+T26	Gene 11288 11294	Hao HH
+T27	Gene 11296 11302	Wang L
+T28	Gene 11304 11317	Guo ZJ, Bai L
+T29	Gene 11319 11338	Zhang RP, Shuang WB
+T30	Gene 11495 11508	Su H,  Chiu K
+T31	Gene 11511 11515	Wu W
+T32	Gene 11517 11520	Lin
+T33	Species 3251 3260	zebrafish
+T34	Species 3378 3387	zebrafish
+T35	Species 3495 3504	zebrafish
+T36	Species 3603 3607	rats
+T37	Species 3613 3617	mice
+T38	Species 3799 3821	Caenorhabditis elegans
+T39	Species 7020 7023	cat
+T40	Species 10187 10196	zebrafish
+T41	Species 11243 11247	rats
+T42	Species 11442 11446	rats
+T43	Species 11628 11632	rats
+T44	InteractionKeyword 525 530	cause
+T45	InteractionKeyword 905 912	complex
+T46	InteractionKeyword 927 935	involves
+T47	InteractionKeyword 1100 1107	require
+T48	InteractionKeyword 1314 1322	involves
+T49	InteractionKeyword 1575 1580	cause
+T50	InteractionKeyword 1980 1987	targets
+T51	InteractionKeyword 2042 2051	enhancing
+T52	InteractionKeyword 2173 2180	induces
+T53	InteractionKeyword 2286 2293	induced
+T54	InteractionKeyword 2519 2525	result
+T55	InteractionKeyword 2788 2795	promote
+T56	InteractionKeyword 2799 2806	inhibit
+T57	InteractionKeyword 3680 3689	signaling
+T58	InteractionKeyword 3706 3710	lead
+T59	InteractionKeyword 3874 3885	contributes
+T60	InteractionKeyword 4274 4283	influence
+T61	InteractionKeyword 4382 4387	limit
+T62	InteractionKeyword 4519 4526	complex
+T63	InteractionKeyword 4553 4564	influencing
+T64	InteractionKeyword 4867 4872	cause
+T65	InteractionKeyword 4998 5009	contributes
+T66	InteractionKeyword 5244 5251	reduces
+T67	InteractionKeyword 5267 5275	promotes
+T68	InteractionKeyword 5443 5454	contributes
+T69	InteractionKeyword 5701 5711	contribute
+T70	InteractionKeyword 6248 6255	targets
+T71	InteractionKeyword 6399 6409	contribute
+T72	InteractionKeyword 6564 6571	limited
+T73	InteractionKeyword 6665 6672	limited
+T74	InteractionKeyword 6861 6870	targeting
+T75	InteractionKeyword 6902 6909	require
+T76	InteractionKeyword 7045 7051	result
+T77	InteractionKeyword 7133 7145	reactivating
+T78	InteractionKeyword 7578 7587	signaling
+T79	InteractionKeyword 7782 7788	reduce
+T80	InteractionKeyword 8063 8070	depends
+T81	InteractionKeyword 8421 8428	enhance
+T82	InteractionKeyword 8554 8565	controlling
+T83	InteractionKeyword 9225 9234	signaling
+T84	InteractionKeyword 9235 9241	limits
+T85	InteractionKeyword 9303 9312	following
+T86	InteractionKeyword 9761 9768	control
+T87	InteractionKeyword 9992 9999	control
+T88	InteractionKeyword 10344 10352	regulate
+T89	InteractionKeyword 10516 10525	generated
+T90	InteractionKeyword 10779 10783	form
+T91	InteractionKeyword 11196 11203	effects
+T92	InteractionKeyword 11362 11369	reduces
+T93	InteractionKeyword 11384 11392	promotes
+T94	InteractionKeyword 11806 11815	following
+T95	InteractionKeyword 12100 12108	enhances
+R96	Partner1 Arg1:T52 Arg2:T5
+R97	Partner2 Arg1:T52 Arg2:T6
+R98	Partner1 Arg1:T91 Arg2:T24
+R99	Partner2 Arg1:T91 Arg2:T25

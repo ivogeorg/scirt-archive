@@ -1,0 +1,178 @@
+T1	Gene 565 582	Berlin Heidelberg
+T2	Gene 1779 1782	SCI
+T3	Gene 2938 2941	SCI
+T4	Gene 13742 13755	locomotor CPG
+T5	Gene 14904 14907	SCI
+T6	Gene 16858 16877	Cholinergic Neurons
+T7	Gene 18278 18282	ChAT
+T8	Gene 18376 18380	ChAT
+T9	Gene 19670 19690	muscarinic receptors
+T10	Gene 21209 21217	hindlimb
+T11	Gene 25032 25068	retinoic acid receptor beta2 subtype
+T12	Gene 25299 25306	Dev Dyn
+T13	Gene 25725 25727	CE
+T14	Gene 26477 26486	Res Brain
+T15	Gene 26491 26494	Rev
+T16	Gene 27089 27110	Nat Rev Neurosci 2006
+T17	Gene 27258 27272	RF,  Zupanc GK
+T18	Gene 27275 27298	Sp ina l  cord repa i r
+T19	Gene 29008 29011	Yin
+T20	Gene 30603 30605	RP
+T21	Gene 31375 31378	Rev
+T22	Gene 31497 31501	NMDA
+T23	Gene 31848 31870	v i t ro  preparat ion
+T24	Gene 34945 34957	serotonin in
+T25	Gene 35107 35115	Gaspar P
+T26	Gene 35117 35135	Serotonin receptor
+T27	Gene 36687 36707	hindlimb motoneurons
+T28	Species 1143 1149	humans
+T29	Species 1499 1504	human
+T30	Species 2866 2872	humans
+T31	Species 4092 4104	teleost fish
+T32	Species 6991 6999	goldfish
+T33	Species 11732 11735	cat
+T34	Species 11770 11774	cats
+T35	Species 21026 21029	cat
+T36	Species 21034 21039	mouse
+T37	Species 27346 27358	teleost fish
+T38	Species 27749 27768	Pleurodeles waltlii
+T39	Species 29393 29400	axolotl
+T40	Species 30265 30268	cat
+T41	Species 30920 30934	Xenopus laevis
+T42	Species 31146 31150	rats
+T43	Species 31814 31819	Wheat
+T44	Species 31880 31888	mudpuppy
+T45	Species 32756 32773	Pleurodeles waltl
+T46	Species 32933 32942	zebrafish
+T47	Species 33935 33939	cats
+T48	Species 34227 34231	cats
+T49	Species 34682 34699	Pleurodeles waltl
+T50	Species 34814 34822	mudpuppy
+T51	Species 36386 36394	mudpuppy
+T52	Species 36952 36955	cat
+T53	Species 37122 37125	rat
+T54	InteractionKeyword 186 195	following
+T55	InteractionKeyword 619 628	following
+T56	InteractionKeyword 866 873	changes
+T57	InteractionKeyword 913 917	lead
+T58	InteractionKeyword 929 939	associated
+T59	InteractionKeyword 1423 1432	following
+T60	InteractionKeyword 1707 1715	interact
+T61	InteractionKeyword 1720 1724	form
+T62	InteractionKeyword 1872 1876	form
+T63	InteractionKeyword 1906 1916	contribute
+T64	InteractionKeyword 2014 2021	prevent
+T65	InteractionKeyword 2183 2194	controlling
+T66	InteractionKeyword 2245 2253	activate
+T67	InteractionKeyword 2512 2519	changes
+T68	InteractionKeyword 2559 2563	lead
+T69	InteractionKeyword 2575 2585	associated
+T70	InteractionKeyword 2716 2723	changes
+T71	InteractionKeyword 3167 3176	activated
+T72	InteractionKeyword 3185 3194	modulated
+T73	InteractionKeyword 3271 3280	activated
+T74	InteractionKeyword 3517 3526	activated
+T75	InteractionKeyword 3551 3557	result
+T76	InteractionKeyword 3591 3601	controlled
+T77	InteractionKeyword 3738 3745	depends
+T78	InteractionKeyword 3974 3983	decreases
+T79	InteractionKeyword 4500 4509	increases
+T80	InteractionKeyword 4645 4655	contribute
+T81	InteractionKeyword 6263 6271	required
+T82	InteractionKeyword 6289 6295	direct
+T83	InteractionKeyword 6716 6723	signals
+T84	InteractionKeyword 8545 8552	results
+T85	InteractionKeyword 8597 8607	controlled
+T86	InteractionKeyword 8685 8692	results
+T87	InteractionKeyword 9563 9570	results
+T88	InteractionKeyword 9660 9667	limited
+T89	InteractionKeyword 10447 10456	abolished
+T90	InteractionKeyword 11049 11053	form
+T91	InteractionKeyword 11075 11085	associated
+T92	InteractionKeyword 11236 11244	involved
+T93	InteractionKeyword 11413 11420	signals
+T94	InteractionKeyword 11447 11454	enhance
+T95	InteractionKeyword 11510 11517	signals
+T96	InteractionKeyword 11628 11637	expressed
+T97	InteractionKeyword 11799 11808	following
+T98	InteractionKeyword 12090 12097	induced
+T99	InteractionKeyword 12404 12409	drive
+T100	InteractionKeyword 12971 12981	initiating
+T101	InteractionKeyword 13187 13193	drives
+T102	InteractionKeyword 13363 13373	contribute
+T103	InteractionKeyword 14122 14130	initiate
+T104	InteractionKeyword 14194 14203	expressed
+T105	InteractionKeyword 14283 14291	increase
+T106	InteractionKeyword 14462 14472	contribute
+T107	InteractionKeyword 14551 14561	modulating
+T108	InteractionKeyword 14825 14833	involved
+T109	InteractionKeyword 14848 14855	control
+T110	InteractionKeyword 14944 14951	control
+T111	InteractionKeyword 15075 15082	induces
+T112	InteractionKeyword 15100 15108	increase
+T113	InteractionKeyword 15213 15220	induces
+T114	InteractionKeyword 15223 15231	decrease
+T115	InteractionKeyword 15381 15386	alter
+T116	InteractionKeyword 15590 15601	accompanies
+T117	InteractionKeyword 16527 16534	results
+T118	InteractionKeyword 17075 17085	contribute
+T119	InteractionKeyword 17136 17141	drive
+T120	InteractionKeyword 17250 17256	target
+T121	InteractionKeyword 17284 17291	produce
+T122	InteractionKeyword 17779 17785	depend
+T123	InteractionKeyword 17823 17830	express
+T124	InteractionKeyword 17878 17885	control
+T125	InteractionKeyword 18822 18827	drive
+T126	InteractionKeyword 18831 18839	changing
+T127	InteractionKeyword 18910 18919	disrupted
+T128	InteractionKeyword 19058 19063	drive
+T129	InteractionKeyword 19149 19156	respond
+T130	InteractionKeyword 19165 19170	drive
+T131	InteractionKeyword 19407 19412	drive
+T132	InteractionKeyword 19588 19597	increases
+T133	InteractionKeyword 20011 20018	effects
+T134	InteractionKeyword 20249 20258	expressed
+T135	InteractionKeyword 20775 20782	induced
+T136	InteractionKeyword 20783 20791	increase
+T137	InteractionKeyword 20839 20846	results
+T138	InteractionKeyword 20979 20985	result
+T139	InteractionKeyword 21100 21106	target
+T140	InteractionKeyword 21154 21161	results
+T141	InteractionKeyword 21227 21234	express
+T142	InteractionKeyword 21336 21345	increased
+T143	InteractionKeyword 21346 21355	following
+T144	InteractionKeyword 21376 21385	increased
+T145	InteractionKeyword 21855 21862	effects
+T146	InteractionKeyword 22136 22143	changes
+T147	InteractionKeyword 23265 23271	affect
+T148	InteractionKeyword 23367 23376	determine
+T149	InteractionKeyword 23386 23396	contribute
+T150	InteractionKeyword 23747 23755	required
+T151	InteractionKeyword 23920 23929	following
+T152	InteractionKeyword 24060 24070	associated
+T153	InteractionKeyword 24604 24610	target
+T154	InteractionKeyword 26660 26670	increasing
+T155	InteractionKeyword 28347 28357	correlated
+T156	InteractionKeyword 28547 28556	following
+T157	InteractionKeyword 28671 28679	increase
+T158	InteractionKeyword 28895 28900	alter
+T159	InteractionKeyword 30001 30008	signals
+T160	InteractionKeyword 30869 30875	alters
+T161	InteractionKeyword 31105 31110	forms
+T162	InteractionKeyword 31486 31493	induced
+T163	InteractionKeyword 32336 32342	driven
+T164	InteractionKeyword 33378 33387	following
+T165	InteractionKeyword 33806 33813	altered
+T166	InteractionKeyword 34013 34021	enhances
+T167	InteractionKeyword 34465 34471	target
+T168	InteractionKeyword 35148 35156	enhances
+T169	InteractionKeyword 35411 35419	involved
+T170	InteractionKeyword 35428 35435	control
+T171	InteractionKeyword 35461 35468	targets
+T172	InteractionKeyword 35611 35619	regulate
+T173	InteractionKeyword 35791 35798	control
+T174	InteractionKeyword 36505 36512	control
+T175	InteractionKeyword 36655 36662	control
+T176	InteractionKeyword 37249 37256	control
+R177	Partner1 Arg1:T168 Arg2:T26
+R178	Partner2 Arg1:T168 Arg2:T25

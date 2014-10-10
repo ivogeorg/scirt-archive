@@ -1,0 +1,651 @@
+Neural regrowth induced by PLGA nerve conduits and neurotrophin-3
+in rats with complete spinal cord transection
+Juan Fan,1* Hongtian Zhang,2* Jianghong He,1 Zhifeng Xiao,3 Bing Chen,3 Jiang Xiaodan,2
+Jianwu Dai,3 Ruxiang Xu1
+1Department of Neurosurgery, Beijing Army General Hospital, Beijing 100700, People’s Republic of China
+2Department of Neurosurgery, Neurosurgery Institute of Guangdong, Key Laboratory on Brain Function Repair and
+Regeneration of Guangdong, Zhujiang Hospital, Southern Medical University, Guangzhou 510282, People’s Republic of China
+3Key Laboratory of Molecular Developmental Biology, Institute of Genetics and Developmental Biology,
+Chinese Academy of Sciences, Beijing 100190, People’s Republic of China
+Received 8 July 2010; revised 16 November 2010; accepted 25 November 2010
+Published online 7 March 2011 in Wiley Online Library (wileyonlinelibrary.com). DOI: 10.1002/jbm.b.31810
+Abstract: Biomaterials and neurotrophic factors represent
+two promising strategies for spinal cord injury repair. In this
+study, a combinatorial approach combining the PLGA nerve
+conduits and the recombinant human neurotrophin-3 (rhNT3)
+was utilized in a spinal cord injury animal model. After com-
+plete transection of the thoracic cord in rats, rhNT3 was
+administered as a single dose to the host cord caudal to a 2-
+mm conduit. Axonal regrowth was enhanced, as indicated by
+immunostaining and neurofilament-positive area measure-
+ment. Neural regrowth was further demonstrated via the ret-
+rograde tracing across the lesion. The animals implanted
+with the PLGA scaffold and rhNT3 exhibited significantly
+improved performance in BBB rating scale and grid walk
+tests. These observations suggest that PLGA nerve conduits
+combined with exogenous NT3 may serve as an alternative
+therapeutic approach for spinal cord injury repair. VC 2011 Wiley
+Periodicals, Inc. J Biomed Mater Res Part B: Appl Biomater 97B: 271–
+277, 2011.
+Key Words: growth factor, PLGA, NT3, spinal cord injury
+INTRODUCTION
+Spinal cord injury (SCI) results in axonal degeneration and
+neuronal necrosis. The microenvironment after SCI in adults
+is much less receptive to regrowth than in neonates,1 thus
+hindering the regeneration of damaged nerves. However,
+accumulating evidence since 1980s has demonstrated that
+the central nervous system (CNS) in adults can regenerate
+in a supportive environment following injuries such as SCI.2
+The current research included inhibiting the formation of
+glial scar or myelin, such as chondroitin sulfate proteogly-
+cans and NOGO3–7; supplying growth-promoting cues, such
+as neurotrophic factors8; transplanting cells9–13; activating
+the intrinsic capacity of neuronal regeneration programs.14
+Despite extensive research dedicated to SCI repair, the mul-
+tifaceted nature of SCI has hampered therapeutic efficacy of
+current treatment strategies. Consequently, combinatorial
+measures, including neurotrophic factors and biomaterials,15
+have being investigated in potential protocols for SCI repair.
+Neurotrophin family members consist of nerve growth
+factor, brain derived neurotrophic factor, neurotrophin-3
+(NT3), neurotrophin-4/5, and neurotrophin-6. In particular,
+NT3 plays a crucial role in nerve regeneration in the CNS,16
+especially the corticospinal tracts (CST). CST is one of the
+most critical motor paths in humans and animals. NT3
+enhances both corticospinal neuronal survival and cortico-
+spinal fiber sprouting to partially restore the motor and
+sensory functions.17–21 In addition, Wallerian degeneration
+facilitates axonal growth in the presence of NT3, primarily
+due to the neuroprotective and neuroreparative functions of
+microglia and macrophages during Wallerian degenera-
+tion.22–25
+Tissue engineering has recently emerged as a promising
+approach for SCI repair, especially during massive loss of
+tissue structure. Compared with allografts or autografts, bio-
+materials of functional scaffolds26 are readily available and
+do not require additional operation, thus providing an
+attractive alternative for SCI repair. In particular, bio-artifi-
+cial nerve guidance conduits, made of distinct biomaterials,
+can reconstruct spinal cord tissue architecture and provide
+guidance for regenerating axons.27–31
+Poly (lactic-co-glycolic acid) (PLGA) is an U.S. Food and
+Drug Administration approved biomaterial.32–36 PLGA-based
+nanoparticles or microsphere,34–37 nanofibers,38,39 con-
+duits,30,40 and membrane41 have been extensively employed
+*Both authors contributed equally to this work.
+Correspondence to: J. Xiaodan; e-mail: jiangxiao_dan@163.com, J. Dai; e-mail: jwdai@genetics.ac.cn, and R. Xu; e-mail: zjxuruxiang@163.com
+Contract grant sponsor: Natural Science Foundation of China; contract grant numbers: U0632008, 30930032, 30688002, 30801184
+Contract grant sponsor: Funds for Key Sci-Tech Research Projects of Guangdong; contract grant numbers: 2008A030201019, 2007-05/06-7005206
+Contract grant sponsor: Chinese Academy of Sciences; contract grant number: KSCX2-YW-R-133
+VC 2011 WILEY PERIODICALS, INC. 271
+for nerve regeneration. Multichannel PLGA nerve conduits
+with porous architectures were recently manufactured and
+proved useful for SCI reconstruction.32 Multichannel nerve
+conduits are tissue-engineering scaffolds functioning to
+restrict dispersion of regenerating axons.42 In multichannel
+PLGA, the channels are aligned in parallel, and bundles of
+regular ladder-like inter connecting pores (140 6 25 lm
+and 17 6 5 lm in width) serve to bridge the open channels
+to achieve more precise orientation. Importantly, the charac-
+teristic high porosity and interconnectivity facilitates neuro-
+trophin entry and waste drainage; furthermore, the optimal
+degradation rate is conducive to nerve regeneration and
+also prevents cumbersome absorption by surrounding
+tissues.32
+In this study, we aimed to evaluate the effect of multi-
+channel PLGA scaffold combined with exogenous NT3 imme-
+diately following complete transection of the spinal cord
+in vivo. Motor functional recovery was assessed by the
+Basso, Beattie, and Bresnahan (BBB) rating scale and grid
+walk test. Axonal regrowth was examined by nerve fiber im-
+munostaining. Retrograde tracing and electrophysiology of
+cortical somatosensory evoked potential (CSEP) were also
+carried out.
+MATERIALS AND METHODS
+Materials
+PLGA nerve conduits were obtained from Sun Yat-Sen Uni-
+versity (Guangzhou, China). PLGA with longitudinally paral-
+lel-aligned channels and hierarchical pore architecture were
+manufactured using injection molding, thermally induced
+phase separation (TIPS) and particulate leaching.32
+Recombinant human NT3 (rhNT3) was prepared in our lab.
+Briefly, human NT3 gene was cloned from fetal brain cDNA
+into bacterial expression vector. After transformation of
+E.coli BL21 strain, rhNT3 expression was induced with
+1 mM isopropyl b-D-thiogalactopyranoside (IPTG) at 37C
+for 5 h. The rhNT3 proteins in the inclusion body were
+renatured at 4C for three days, then purified with nickel
+chelate chromatography (Amersham Biosciences). The pu-
+rity attained was determined above 95% according to the
+SDS-PAGE result. The biological activity was determined by
+assaying neurite outgrowth from dorsal root ganglion (DRG)
+explants, similar to the methods of Ruitenberg et al.43
+Animal surgery
+Fifty female Wistar rats, each weighing 180–220 g, were
+used in this study. Animal experiments were carried out
+according to the guidelines approved by Institutional Com-
+mittee on the Care and Use of Animals in 2006. Animals
+were anesthetized with intraperitoneal injection of 3.6%
+chloral hydrate (1 mL/100 g body weight) and randomly di-
+vided into five groups. In the first group (PLGA, n ¼ 12),
+rats were subjected to dorsal laminectomy. T8-T10 spinal
+segments were exposed and completely transected with
+angled microscissors to form a 2 mm long cavity. Subse-
+quently, a 2-mm PLGA nerve conduit was implanted into
+the lesion gap. In the second group (N3, n ¼ 12), rhNT3
+(200 lg/mL, 15 lL) was administered by a microsyringe
+into the caudal segment close to the lesion within 20 min.
+In the third group (PLGAþN3, n ¼ 12), animals were
+implanted with PLGA followed by rhNT3 (200 lg/mL, 15
+lLinjection into the adjacent caudal spinal cord. The fourth
+group consisted of animals that were transected without
+additional treatment (control, n ¼ 8), and animals of the
+last group were subjected to only laminotomy (sham, n ¼
+6). After the operation, surgical sites were sutured and the
+rats were put back to their cages. The animals received
+extensive care, including twice daily bladder emptying.
+Twenty thousand unit penicillin was administered for a
+week, and food and drinking water were freely accessible.
+Neurofilament immunostaining
+Sixteen weeks after surgery, all animals were anesthetized
+and perfused with saline solution (0.9% in sterile water)
+followed by 4% paraformaldehyde in 0.1M phosphate buf-
+fered saline (PBS, pH 7.4). The spinal cord encompassing
+the lesion was carefully dissected and postfixed in the same
+paraformaldehyde. The spinal cord was then immersed in
+20% sucrose buffer for 48 h, and 20-lm frozen sections
+were obtained and stored at 20C. Sections were blocked
+in 10% normal goat serum in PBS at room temperature for
+2 h. Samples were then incubated with primary antibodies,
+including mouse antineurofilament antibody (NF200, mono-
+clonal, 1:200, Millipore) and rabbit anti-glial fibrillary acid
+protein (anti-GFAP) antibody (polyclonal, 1:200, abcam),
+overnight at 4C followed by 1h at 37C. The sections were
+incubated with Alexa Flour 594-conjugated anti-mouse IgG
+(1:100, Invitrogen) and Alexa Flour 488-conjugated anti-rab-
+bit IgG (1:200, Invitrogen) for 1 h at 37C. Fluorescence
+was observed under a fluorescence microscope (Leica DM
+IRE2, Germany); the fluorescence images were digitized and
+NF200-positive areas were calculated using Image-pro Plus
+software. The background and nonspecific staining in each
+digital image was excluded by adjusting intensity threshold.
+NF200 labeled axons displayed above threshold signals, and
+the percentage of area labeled with NF200 positive fibers
+was determined. The investigators were blind to the test.
+Hindlimb locomotor function analysis
+Functional recovery was evaluated by the BBB rating
+scale44,45 and grid walk test45 for 16 weeks postsurgery.
+The Basso, Beattie, and Bresnahan (BBB) scale was an open
+field (overground) locomotor scale to evaluate functional re-
+covery of rats and became a common practical scale. In the
+BBB rating scale, the movement of the rats’ hindlimb was
+paid great attention. The scale ranged from a score of 0 to
+21, in which 0 represented complete paralyses while 21
+indicated normal state. This evaluation was performed for 4
+min each rat in a blind manner. In the latter experiment, the
+rats were allowed to climb a 70-cm-high and 45 sloped
+grids (10  10 mm2 holes). The weight-supported and the
+plantigrade steps were considered as the right steps. The
+weight-supported and the plantigrade steps were consid-
+ered as the right steps. The total number of steps that a rat
+used to cross the grids and the number of right steps were
+counted. This experiment was videotaped (Canon S3/S5)
+272 FAN ET AL. PLGA NERVE CONDUITS AND NEUROTROPHIN-3
+and analyzed off-line in a blind manner in a frame-by-frame
+way. The percentage of the right steps was calculated by the
+right number of steps/the total number of steps. The inves-
+tigators were blind to the tests.
+Retrograde tracing
+Ten days before being sacrificed, five rats from each of the
+four groups (control, N3, PLGA, and PLGAþN3) were anes-
+thetized as above. After the transected site was exposed a
+second time, 0.5 lL retrograde tracer hydroxystilbamidine
+(4% w/v in saline solution, Molecular Probes) was injected
+at 5 mm below the injury site within 15 min. After extended
+retrograde transport of the tracer through CST, animals
+were sacrificed as described above. Totally, 10 lm sections
+were used for hydroxystilbamidine labeling. The retrograde
+tracing of hydroxystilbamidine was examined immediately
+under a fluorescence microscope (Leica DM IRE2, Germany).
+Electrophysiology of CSEP
+To investigate whether the sensory signals from below the
+lesion may be conveyed to the cortex, CSEP was measured
+immediately before the rats were killed (performed at Sun
+Yat-Sen University). The sensorimotor cortex (SMC) was
+exposed with the animal mounted on the stereotaxic appa-
+ratus (NARISHIGE, Japan), and electrodes were attached to
+the exposed sciatic nerves and SMC. Bipolar stimulating
+electroduces and monopolar recording electrodues were
+used to induce and record electrical activity respectively.
+CSEP in response to the Stimulus Isolator (A365, World
+Prcision Instruments, USA) was recorded by an Isolated Bio-
+logical Amplifier (ISO-DAM, world precision instruments,
+USA). Intensity: 5 mV, duration: 0.2 ms.
+Statistical analysis
+Data were presented as mean values 6 standard deviation.
+The statistical significance of differences between the
+groups was evaluated by one-way ANOVA with a post-hoc
+test. Results were considered significant at p < 0.05.
+RESULTS
+Implantation of PLGA conduit in combination
+with exogenous NT3 treatment promoted
+nerve fiber regrowth
+Next, we examined nerve fiber regrowth. As shown in Fig-
+ure 1(A), the scaffold served as a structural support
+FIGURE 1. (A) The entire spinal cord including the lesion was care-
+fully harvested. The PLGA nerve conduits and NT3 both contributed
+to tissue structural integrity, whereas a large gap in the lesion site
+was still present in the control. (B) The longitudinal section of NF200
+stained fibers (red) showed robust axonal regrowth in the PLGAþN3
+group, with decreasing degrees of regrowth observed in the PLGA,
+NT3 and control groups. The PLGA scaffold and NT3 supplied more
+favorable environment to the lesion segment, therefore enhanced
+more nerve fiber regrowing. While in the rostral or caudal stumps, as
+the microenvironment was less receptive, more nerve fibers degener-
+ated and reduced greatly. The GFAP-positive cells (green) were found
+to be trapped at the adjacent spinal cord of the lesion, and indicated
+slight reactive astrocyte and glial scar formation in the PLGAþN3
+group, whereas more GFAP-positive cells invaded into the lesion in
+the control. The border of the lesion-host tissue is indicated by dash
+lines. (C) The magnified image of regrowing fibers in the transplant in
+the PLGAþN3 group. Scale Bars: 50lm in (B), 200lm in (C). (D) The
+NF200 positive area in the PLGAþN3 group was significantly larger
+than that of the other groups, with the control being most inferior.
+There was statistical significance among the four groups (P ¼ 0.000 <
+0.01). *, P < 0.05; **, P < 0.01, significance between the groups. [Color
+figure can be viewed in the online issue, which is available at
+wileyonlinelibrary.com.]
+ORIGINAL RESEARCH REPORT
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH B: APPLIED BIOMATERIALS | MAY 2011 VOL 97B, ISSUE 2 273
+bridging between the caudal and rostral stumps of the host
+spinal cord. Neurofilament staining (red) was used to iden-
+tify regrowing nerve fibers in the lesion site. GFAP-positive
+cells (green) were found in the rostral and caudal stumps of
+the host spinal cord [Figure 1(B)]. The NF200 positive fibers
+revealed that the scaffold and the rhNT3 may greatly pro-
+mote axonal regrowth [Figure 1(B,C)]. Significantly enhanced
+axonal growth in the PLGAþN3 group was observed relative
+to that in the control, PLGA and N3 groups [Figure 1(D)].
+These observations indicated that the combination of the
+PLGA scaffold and the rhNT3 significantly enhanced nerve
+fiber regrowth.
+Implantation of PLGA conduit in combination with
+exogenous NT3 treatment promoted recovery
+of hindlimb locomotor function
+We first examined the recovery of hindlimb locomotor func-
+tion in the groups of animals indicated in the Materials and
+Method. The 21-point system is applied to rats from com-
+plete paralysis (0) to normal.21 Sham-operated animals
+appeared normal based on the BBB [Figure 2(A), upper
+panel] and grid walk tests [Figure 2(B)], whereas the rats in
+the control group showed essentially no functional improve-
+ment. The BBB scores in the control group were 0.375 6
+0.518, 0.75 6 0.886, 0.75 6 0.886 at the 7th, 12th, 16th
+week, respectively. In the N3 group, the BBB scores were
+0.5 6 0.756, 0.875 6 0.835, and 1.25 6 1.04 at the 7th,
+12th, 16th week, respectively. In the PLGA group, the BBB
+scores were 0.875 6 0.641, 1.125 6 0.641, 1.625 6 0.916
+at the 7th, 12th, 16th week, respectively. Animals in the
+PLGAþN3 group showed no voluntary movement immedi-
+ately after the surgery, but appeared to gradually recover
+during the following 16 weeks. The average BBB score for
+the PLGAþN3 rats group was 2.63 6 2.45, 2.38 6 1.69, and
+3.50 6 1.69 at the 7th 12th 16th week, respectively. Signifi-
+cant difference was observed between the PLGAþN3 and
+the control animals by week 7. Likewise, the BBB score for
+the PLGAþN3 group was also significantly higher than those
+of the N3 and PLGA groups [Figure 2(A)]. In the grid walk
+test, animals were evaluated at 30, 60, and 150 days after
+the surgery. The performance of the PLGAþN3 animals was
+significantly superior to that of control animals and the N3
+and PLGA animals. The mean percentage in the PLGAþN3
+group was 10.50 6 6.40%, 7.50 6 7.23%, and 13.50 6
+3.66% at 32, 60, and 150 days after the surgery, respec-
+tively [Figure 2(B)]. Taken together, these results indicated
+that the PLGAþN3-treated animals showed improved per-
+formance in hindlimb locomotor function.
+Retrograde tracing indicated extension of the regrowing
+nerve fibers beyond the lesion site
+Retrograde tracing of hydroxystilbamidine was observed
+through the lesion in PLGAþN3 group. Hydroxystilbami-
+dine-labeled cells or fibers were markedly reduced in the
+rostral stumps of the injury site and encompassed a dis-
+tance of 850 6 100 lm [Figure 3(A,D)], significantly longer
+than that of the control, PLGA, N3 groups. Correspondingly,
+positive hydroxystilbamidine-labeled fibers were seen in the
+rostral spinal cord [Figure 3(B)], whereas similar positive
+area extended from the caudal stump through the conduit
+into the rostral stump was absent in the control, N3 and
+PLGA groups [Figure 3(A)]. Furthermore, only a few hydro-
+xystilbamidine-labeled cells were found in the brain [Figure
+3(C)]. The retrograde observations indicated nerve fibers
+regrowth across the lesion.
+FIGURE 2. Locomotor functional recovery was evaluated by the BBB
+rating scale and grid walk test. (A) BBB scores at 1, 2, 3, 4, 5, 6, 7, 8,
+12, 16 weeks post surgery. The BBB score for the sham group was
+determined to be 21, much higher than those of the other groups.
+The value of the sham group and a magnified view of the other val-
+ues for comparison were given. The statistical significance between
+the four groups was determined. There was significant difference
+among the four groups in the 7th, 8th, 12th, 16th week (p < 0.05). *p
+< 0.05; **p < 0.01; the difference between the control and the
+PLGAþN3 group. #p < 0.05; ##p < 0.01; the difference between the N3
+and PLGAþN3 groups. p < 0.05, the difference between the PLGA
+and PLGAþN3 groups (B) Grid walk test results at 32, 60, 150 days
+post surgery (p < 0.05). *p < 0.05; **p < 0.01; significant difference
+between the groups.
+274 FAN ET AL. PLGA NERVE CONDUITS AND NEUROTROPHIN-3
+No evoked potential between sciatic nerves
+and the SMC
+CSEP is indicative of sequential activation along the somato-
+sensory pathways when peripheral nerves were electrically
+stimulated. Our results showed that rats in the sham-oper-
+ated group exhibited normal response (Figure 4). In con-
+trast, there was no evoked potential recorded in the animals
+of the control, PLGA, N3, and PLGAþN3 groups (Figure 4).
+DISCUSSION
+Synergistic effects of the scaffold and NT3 in axonal
+regrowth
+A single therapeutic approach is generally believed to be
+insufficient to restore SCI. Growth factors, such as NT3, may
+stimulate neuronal survival and axonal regeneration. In the
+rat models of Tuszynski’s, the spinal cord tissue of only 1.1
+mm ventral to the dorsal cord surface and 1.1 mm to the
+left of the midline was transected.19 In our study, however,
+the T8-T10spinal cord was completely transected. Therefore,
+not only sensory axons but also motor axons were seriously
+injured in the animals in this study. Since all the fibers were
+completely transected, the observed neurofilament positive
+fibers likely corresponded to axonal regrowth. Axonal
+FIGURE 3. (A) There was a great deal of hydroxystilbamidine positive
+fibers in the caudal to the lesion, while much less in the rostral stump
+in each group. Retrograde tracing of hydroxystilbamidine showed
+that it traversed the lesion and extended for a limited distance in the
+PLGAþN3 group, but not in the other groups. The positive hydroxys-
+tilbamidine fibers in the rostral stumps indicated the regenerating
+ascending fibers. Scale Bar: 100lm. (B) The magnified image showed
+hydroxystilbamidine-positive fibers in the rostral spinal cord in the
+PLGAþN3 group. It appeared that the hydroxystilbamidine located
+along the regenerating nerve fibers in the rostral stump. Scale Bar:
+200 lm (left) and 500 lm (right). The arrows indicate hydroxystilbami-
+dine-positive fibers. (C) Only a few and weakly labeled cells were
+observed in the brain section. Scale Bar: 200 lm (left) and 500 lm
+(right). The arrows indicate hydroxystilbamidine-positive cells. (D)
+Statistical analysis of the hydroxystilbamidine-positive area and dis-
+tance from the lesion in the groups. There was significant difference
+among the four groups in both hydroxystilbamidine-positive area and
+distance (p ¼ 0.000 < 0.01). *p < 0.05; **p < 0.01: the difference
+between the control and the other groups. #p < 0.05; ##p < 0.01:
+the difference between the PLGAþN3 and the other groups. [Color
+figure can be viewed in the online issue, which is available at
+wileyonlinelibrary.com.]
+FIGURE 4. CSEP Electrophysiology. The CSEP was evoked in the
+sham-operated animals, but not in the control, N3, PLGA and
+PLGAþN3 groups.
+ORIGINAL RESEARCH REPORT
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH B: APPLIED BIOMATERIALS | MAY 2011 VOL 97B, ISSUE 2 275
+regrowth has been observed not only in the channels but
+also in the porous wall.46 Therefore, the neurofilament-
+stained axons in the entire transverse section, but not those
+in individual channels, were quantified, and the results dem-
+onstrated an apparently synergistic role of the PLGA nerve
+conduits and rhNT3.
+Previously, Schwann-cell containing multichannel scaf-
+folds had been used to promote axon regeneration.30 In this
+study, the enhanced connectivity of the interlumenal surface
+facilitates inward delivery of rhNT3 and outward diffusion
+of metabolized substances, thus allowing significant axonal
+regrowth in the PLGAþN3 group. On the other hand, the ad-
+jacent spinal cord displayed a weak response to the injury
+and subsequently induced slight reactive astrocyte and glial
+scar formation. In the NT3 alone group, the massive loss of
+spinal cord tissue may have rendered the animals incapable
+of robust axonal regrowth. The PLGA alone group may also
+be deficient in nerve fiber regrowth. While it is difficult to
+directly compare our study with that by Moore et al.30 due
+to different living time of the animals, the scaffold in this
+study seemed to allow efficient diffusion of growth factors
+and exhibited synergistic effects in SCI repair. It is possible
+that the scaffold coupled with exogenous NT3 constituted
+favorable microenvironment for axonal growth.
+Partial hindlimb locomotor functional recovery
+indicated in the BBB rating scale and the grid walk test
+The contribution of the scaffold and NT3 to functional
+improvement was evaluated by the BBB rating scale and
+grid walk test. The animals were assigned a BBB score of
+3.50 and 13.5% of the right steps in grid walk test. The
+BBB score showed more dramatic increase over the first
+seven weeks. Previously, 5–10% of CST was estimated to be
+required for improved locomotor function after SCI.47 In
+this study, however, only about 1% of the total area was
+NF200 positive in the PLGAþN3 group, the density of nerve
+fibers relative to the functional native tissue was about 10%
+(the average percentage of the positive area in the
+PLGAþN3 and sham groups was 0.96% and 11.67%, respec-
+tively); furthermore, axonal regeneration was not expected
+to take place during this early time window. Since it
+remained unclear whether the observed functional recovery
+was caused by regenerating fibers reconnecting to appropri-
+ate targets below the lesion,48 it is possible that plasticity
+may be crucial for early functional improvement. The
+regrowing nerve fibers may help establish synapses, eventu-
+ally leading to functional improvement. Finally, synergistic
+effects of the PLGA scaffold and growth factors were
+observed, as either the scaffold or NT3 alone was insuffi-
+cient in enhancing functional recovery.
+Further demonstration of axonal regrowth
+by retrograde tracing
+Growing nerves need to traverse the scaffold and the glial
+scarring to achieve optimal recovery. Given the well-docu-
+mented role of NT3 in CST,16,17,25,49 NT3 was expected to
+enhance restructuring of ascending and descending axons in
+this study. In the retrograde tracing, a large number of
+hydroxystilbamidine-labeled fibers were trapped near the
+host-transplant border. The retrograde tracing showed
+extension of a subset of fibers, indicating regrowth of
+ascending axons. However, little or no retrograde tracing
+was observed in the brainstem [Figure 3(E)], suggesting
+that the axonal regeneration of CST was limited.
+Limited regeneration as demonstrated with
+electrophysiology
+The result of CSEP demonstrated limited axonal regenera-
+tion. It is possible that a greater number of axons were
+required for the long-distance conduction between the two
+sites of sciatic nerves and SMC; alternatively, the observed
+recovery may be partly attributable to the re-established
+supraspinal input across the transplant50
+CONCLUSION
+In conclusion, our experiments demonstrated beneficial
+effects of the multichannel and porous PLGA nerve conduits
+coupled with exogenous rhNT3 in promoting neural
+regrowth and functional recovery. Future work will aim to
+optimize the interaction between the scaffold and growth
+factors while retaining the full activity of the growth factors.
+ACKNOWLEDGMENTS
+The authors thank Prof. Daping Quan (Sun Yat-sen University,
+Guangzhou, China) for the PLGA nervous conduits. The authors
+are also grateful to Prof. Xianguo Liu and Wenjie Ren and Yong
+Liu (Zhongshan Medical School of Sun Yat-sen University,
+Guangzhou, China) for their assistance with electrophysiology.
+REFERENCES
+1. Nakamura M, Bregman BS. Differences in neurotrophic factor
+gene expression profiles between neonate and adult rat spinal
+cord after injury. Exp Neurol 2001;169:407–415.
+2. Richardson PM, McGuinness UM, Aguayo AJ. Axons from CNS
+neurons regenerate into PNS grafts. Nature 1980;284:264–265.
+3. Fawcett JW, Asher RA. The glial scar and central nervous system
+repair. Brain Res Bull 1999;49:377–391.
+4. Brosamle C, Huber AB, Fiedler M, Skerra A, Schwab ME. Regener-
+ation of lesioned corticospinal tract fibers in the adult rat induced
+by a recombinant, humanized IN-1 antibody fragmentJ Neurosci
+2000;20:8061–8068.
+5. Bradbury EJ, Moon LD, Popat RJ, King VR, Bennett GS, Patel PN,
+Fawcett JW, McMahon SB. Chondroitinase ABC promotes func-
+tional recovery after spinal cord injury. Nature 2002;416:636–640.
+6. Li S, Strittmatter SM. Delayed systemic Nogo-66 receptor antago-
+nist promotes recovery from spinal cord injury. J Neurosci 2003;
+23:4219–4227.
+7. Silver J, Miller JH. Regeneration beyond the glial scar. Nat Rev
+Neurosci 2004;5:146–156.
+8. Blesch A, Tuszynski MH. Cellular GDNF delivery promotes growth
+of motor and dorsal column sensory axons after partial and com-
+plete spinal cord transections and induces remyelination. J Comp
+Neurol 2003;467:403–417.
+9. Li Y, Field PM, Raisman G. Repair of adult rat corticospinal tract
+by transplants of olfactory ensheathing cells. Science 1997;277:
+2000–2002.
+10. Xu XM, Chen A, Guenard V, Kleitman N, Bunge MB. Bridging
+Schwann cell transplants promote axonal regeneration from both
+the rostral and caudal stumps of transected adult rat spinal cord.
+J Neurocytol 1997;26:1–16.
+11. Ramo’n-Cueto A, Plant GW, Avila J, Bunge MB. Long distance
+axonal regeneration in the transected adult rat spinal cord is
+276 FAN ET AL. PLGA NERVE CONDUITS AND NEUROTROPHIN-3
+promoted by ensheathing glia transplants. J Neurosci 1998;18:
+3803–3815.
+12. Ramo’n-Cueto A, Cordero MI, Santos-Benito FF, Avila J. Functional
+recovery of paraplegic rats andmotor axon regeneration in their spi-
+nal cords by olfactory ensheathing glia. Neuron 2000;25:425–435.
+13. Takami T, Oudega M, Bates ML, Wood PM, Kleitman N, Bunge
+MB. Schwann cell but not olfactory ensheathing glia transplants
+improve hindlimb locomotor performance in the moderately con-
+tused adult rat thoracic spinal cord. J Neurosci 2002;22:6670–6681.
+14. Pearse DD, Marcillo AE, Oudega M, Lynch MP, Wood PM, Bunge
+MB. Transplantation of Schwann cells and olfactory ensheathing
+glia after spinal cord injury: Can pretreatment with methylpredni-
+solone and interleukin-10 enhance recovery?J Neurotrauma 2004;
+21:1223–1239.
+15. Piantino J, Burdick JA, Goldberg D, Langer R, Benowitz LI. An
+injectable, biodegradable hydrogel for trophic factor delivery
+enhances axonal rewiring and improves performance after spinal
+cord injury. Exp Neurol 2006;201:359–367.
+16. Narazaki DK, Barros Filho TE, Oliveira CR, Cristante AF, Iutaka AS,
+Marcon RM, Oliveira RP. Spinal cord regeneration: The action of
+neurotrophin-3 in spinal cord injury in rats. Clinics 2006;61:
+453–460.
+17. Houweling DA, Lankhorst AJ, Gispen WH, Bar PR, Joosten EA.
+Collagen containing neurotrophin-3 (NT-3) attracts regrowing
+injured corticospinal axons in the adult rat spinal cord and pro-
+motes partial functional recovery. Exp Neurol 1998;153:49–59.
+18. Cheng H, Cao Y, Olson L. Spinal cord repair in adult paraplegic
+rats: Partial restoration of hind limb function. Science 1996;273:
+510–513.
+19. Taylor L, Jines L, Tuszynski MH, Blesch A. Neurotrophin-3 gra-
+dients established by lentiviral gene delivery promote short-dis-
+tance axonal bridging beyond cellular grafts in the injured spinal
+cord. J Neurosci. 2006;26:9713–9721.
+20. Tuszynski MH, Grill R, Jones LL, Brant A, Blesch A, Low K, Lacroix
+S, Lu P. NT-3 gene delivery elicits growth of chronically injured
+corticospinal axons and modestly improves functional deficits af-
+ter chronic scar resection. Exp Neurol 2003;181:47–56.
+21. Grill R, Murai K, Blesch A, Gage FH, Tuszynski MH. Cellular deliv-
+ery of neurotrophin-3 promotes corticospinal axonal growth and
+partial functional recovery after spinal cord injury. J Neurosci
+1997;17:5560–5572.
+22. Koshinaga M, Whittemore SR. The temporal and spacial activa-
+tion of microglia in fiber tracts undergoing anterograde and retro-
+grade degeneration following spinal cord lesion. J Neurotrauma
+1995;12:209–222.
+23. Popovich PG, Wei P, Stokes BT. Cellular inflammatory response
+after spinal cord injury in Sprague-Dawley and Lewis rats.
+J Comp Neurol 1997;377:443–464.
+24. Perry VH, Brown MC, Gordon S. The macrophage response to
+central and peripheral nerve injury. A possible role for macro-
+phages in regeneration. J Exp Med 1987;165:1218–1223.
+25. Chen Q, Smith GM, Shine HD. Immune activation is required for
+NT-3-induced axonal plasticity in chronic spinal cord injury. Exp
+Neurol 2008;209:497–509.
+26. Friedman JA, Windebank AJ, Moore MJ, Spinner RJ, Currier BL,
+Yaszemski MJ. Biodegradable polymer grafts for surgical repair
+of the injured spinal cord. Neurosurgery 2002;51:742–751;discus-
+sion 51–52.
+27. Widmer MS, Gupta PK, Lu L, Meszlenyi RK, Evans GR, Brandt K,
+Savel T, Gurlek A, Patrick CW, Jr, Mikos AG. Manufacture of po-
+rous biodegradable polymer conduits by an extrusion process for
+guided tissue regeneration. Biomaterials 1998;19:1945–1955.
+28. Bender MD, Bennett JM, Waddell RL, Doctor JS, Marra KG. Multi-
+channeled biodegradable polymer/CultiSpher composite nerve
+guides. Biomaterials 2004;25:1269–1278.
+29. Sundback C, Hadlock T, Cheney M, Vacanti J. Manufacture of po-
+rous polymer nerve conduits by a novel low-pressure injection
+molding process. Biomaterials 2003;24:819–830.
+30. Moore MJ, et al. Multiple-channel scaffolds to promote spinal
+cord axon regeneration. Biomaterials 2006;27:419–429.
+31. Yu TT, Shoichet MS. Guided cell adhesion and outgrowth in pep-
+tide-modified channels for neural tissue engineering. Biomaterials
+2005;26:1507–1514.
+32. He L, Zhang Y, Zeng C, Ngiam M, Liao S, Quan D, Zeng Y, Lu J,
+Ramakrishna S. Manufacture of PLGA multiple-channel conduits
+with precise hierarchical pore architectures and in vitro/vivo eval-
+uation for spinal cord injury. Tissue Eng Part C Methods 2009;15:
+243–255.
+33. Wen XJ, Tresco PA. Fabrication and characterization of permeable
+degradable poly(DL-lactide-co-glycolide) (PLGA) hollow fiber
+phase inversion membranes for use as nerve tract guidance chan-
+nels. Biomaterials 2006;27:3800–3809.
+34. Cao X, Schoichet MS. Delivering neuroactive molecules from bio-
+degradable microspheres for application in central nervous sys-
+tem disorders. Biomaterials 1999;20:329–339.
+35. Rooney GE, et al. Gene-modified mesenchymal stem cells express
+functionally active nerve growth factor on an engineered poly lac-
+tic glycolic acid (PLGA) substrate. Tissue Eng Part A 2008;14:
+681–690.
+36. Menei P, Benoit J, Boisdron-Celle M, Fournier D, Mercier P, Guy
+G. Drug targeting into the central nervous system by stereotactic
+implantation of biodegradable microspheres. Neurosurgery 1994;
+34:1058–1064.
+37. Wang YC, Wu YT, Huang HY, Lin HI, Lo LW, Tzeng SF, Yang CS.
+Sustained intraspinal delivery of neurotrophic factor encapsulated
+in biodegradable nanoparticles following contusive spinal cord
+injury. Biomaterials 2008;29:4546–4553
+38. Lee JY, Bashur CA, Goldstein AS, Schmidt CE. Polypyrrole-coated
+electrospun PLGA nanofibers for neural tissue applications. Bio-
+materials 2009;30:4325–4335.
+39. Valmikinathan CM, Tian J, Wang J, Yu X. Novel nanofibrous spi-
+ral scaffolds for neural tissue engineering. J Neural Eng 2008;5:
+422–432.
+40. Chang CJ, Hsu SH, Yen HJ, Chang H, Hsu SK. Effects of unidirec-
+tional permeability in asymmetric poly (DL-lactic acid-co-glycolic
+acid) conduits on peripheral nerve regeneration: An in vitro and
+in vivo study. J Biomed Mater Res B Appl Biomater 2007;83:
+206–215.
+41. Huang YC, Huang CC, Huang YY, Chen KS. Surface modification
+and characterization of chitosan or PLGA membrane with laminin
+by chemical and oxygen plasma treatment for neural regenera-
+tion. J Biomed Mater Res A 2007;82:842–851.
+42. de Ruiter GC, Spinner RJ, Malessy MJ, Moore MJ, Sorenson EJ,
+Currier BL, Yaszemski MJ, Windebank AJ. Accuracy of motor
+axon regeneration across autograft, single-lumen, and multichan-
+nel poly (lactic-co-glycolic acid) nerve tubes. Neurosurgery 2008;
+63:144–153; discussion 153–155.
+43. Ruitenberg MJ, Levison DB, Lee SV, Verhaagen J, Harvey AR,
+Plant GW. NT-3 expression from engineered olfactory ensheath-
+ing glia promotes spinal sparing and regeneration. Brain 2005;
+128:839–853.
+44. Basso DM, Beattie MS, Bresnahan JC. A sensitive and reliable
+locomotor rating scale for open field testing in rats. J Neuro-
+trauma 1995;12:1–21.
+45. Basso DM, Beattie MS, Bresnahan JC. Graded histological and
+locomotor outcomes after spinal cord contusion using the NYU
+weight-drop device versus transaction. Exp Neurol 1996;139:
+244–256.
+46. Olson HE, Rooney GE, Gross L, Nesbitt JJ, Galvin KE, Knight A,
+Chen B, Yaszemski MJ, Windebank AJ. Neural stem cell- and
+Schwann cell-loaded biodegradable polymer scaffolds support
+axonal regeneration in the transected spinal cord. Tissue Eng Part
+A 2009;15:1797–1805.
+47. Bregman BS, Kunkel-Bagden E, Schnell L, Dai HN, Gao D, Schwab
+ME. Recovery from spinal cord injury mediated by antibodies to
+neurite growth inhibitors. Nature 1995;378:498–501.
+48. Fouad K, Pearson K. Restoring walking after spinal cord injury.
+Prog Neurobiol 2004;73:107–126.
+49. Jeffery ND, Fitzgerald M. Effects of red nucleus ablation and ex-
+ogenous neurotrophin-3 on corticospinal axon terminal distribu-
+tion in the adult rat. Neuroscience 2001;104:513–521.
+50. Coumans JV, Lin TT, Dai HN, MacArthur L, McAtee M, Nash C,
+Bregman BS. Axonal regeneration and functional recovery after
+complete spinal cord transection in rats by delayed treatment
+with transplants and neurotrophins. J Neurosci 2001;21:
+9334–9344.
+ORIGINAL RESEARCH REPORT
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH B: APPLIED BIOMATERIALS | MAY 2011 VOL 97B, ISSUE 2 277

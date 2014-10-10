@@ -1,0 +1,2274 @@
+I¨ m
+7
+e
+t
+n
+Stoday that there is more plasticity than previously thought and
+that new neurons are produced continuously from stem cells in
+the subventricular zone of the lateral ventricles and the dentate
+(Moreno-Manzano et al., 2009; Xu et al., 2006) was unknown.
+Astrocytes act as neural stem cells and give rise to new neurons
+in the subventricular zone and dentate gyrus. Astrocytes in othergyrus of the hippocampus (Zhao et al., 2008). In most parts of
+the central nervous system, however, neurons are not added in
+adulthood and there is limited cell turnover. Nevertheless, cells
+parts of the central nervous system display little proliferative
+activity, yet cortical astrocytes gain in vitro neural stem cell prop-
+erties after injury (Buffo et al., 2008). There are thus three distinctpopulation. We provide an integrated view of how
+severaldistinctcell typescontribute incomplementary
+ways to cell maintenance and the reaction to injury.
+INTRODUCTION
+A major challenge in developmental biology and regenerative
+medicine is to understand the origin of cells. Once development
+is completed, the number of cells in adult tissues can be main-
+tained by duplication of differentiated cells or by the generation
+of new cells from stem or progenitor cells. Most tissues are
+composed of a variety of differentiated cells of different lineages
+and it is poorly understood how their numbers are maintained in
+adult tissues during homeostasis and in response to injury.
+The adult central nervous system was considered a compara-
+tively static tissue with little cell turnover. It is well established
+alternative to cell transplantation.
+Oligodendrocyte progenitors, ependymal cells, and astro-
+cytes have all been suggested to act as neural stem cells in
+the adult spinal cord (Horner et al., 2000; Johansson et al.,
+1999; Martens et al., 2002; Meletis et al., 2008; Ohori et al.,
+2006). Most studies have focused on the highly proliferative
+oligodendrocyte progenitor population. Indirect data from viral
+labeling of proliferating cells and lineage analysis from embry-
+onic stages have led to the suggestion that oligodendrocyte
+progenitors in the adult spinal cord have neural stem cell proper-
+ties and produce cells of multiple lineages in vivo (Horky et al.,
+2006; Ohori et al., 2006; Sellers et al., 2009; Zhu et al., 2008a,
+2008b), but this has not been addressed directly. Ependymal
+cells give rise to differentiated progeny after injury and constitute
+the main cell population in the intact spinal cord with in vitro
+neural stem cell properties (Meletis et al., 2008), but the origin
+of the increased number of neural stem cells after injuryOrigin of New Glial Cells in
+and Injured Adult Spinal Co
+Fanie Barnabé-Heider,1,4 Christian Göritz,1 Hanna Sabelstro
+Konstantinos Meletis,1,5 and Jonas Frisén1,*
+1Department of Cell and Molecular Biology, Karolinska Institute, SE-1
+2Department of Morphological Neural Science, Graduate School of M
+Kumamoto, 860-8556, Japan
+3CNRS UPR 3212 University of Strasbourg, Institute of Cellular and In
+4Present address: Sainte-Justine Hospital Research Center, Departme
+H3T 1C5, Canada
+5Present address: Department of Neuroscience, Karolinska Institute,
+*Correspondence: jonas.frisen@ki.se
+DOI 10.1016/j.stem.2010.07.014
+SUMMARY
+Several distinct cell types in the adult central nervous
+system have been suggested to act as stem or prog-
+enitor cells generating new cells under physiological
+or pathological conditions. We have assessed the
+origin of new cells in the adult mouse spinal cord by
+genetic fate mapping. Oligodendrocyte progenitors
+self-renew, give rise to newmature oligodendrocytes,
+and constitute the dominating proliferating cell popu-
+lation in the intact adult spinal cord. In contrast, astro-
+cytes and ependymal cells, which are restricted to
+limited self-duplication in the intact spinal cord,
+generate the largest number of cells after spinal cord
+injury. Only ependymal cells generate progeny of
+multiple fates, andneural stemcell activity in the intact
+and injured adult spinal cord is confined to this cell470 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.Cell Stem Cell
+Article
+ntact
+rd
+,1 Hirohide Takebayashi,2 Frank W. Pfrieger,3
+1 77 Stockholm, Sweden
+dical Sciences, Kumamoto University, 1-1-1 Honjo,
+egrative Neuroscience (INCI), 67084 Strasbourg, France
+t of Pathology andCell Biology, Université deMontréal, Montréal, ON
+E-171 77 Stockholm, Sweden
+with neural stem cell properties can be isolated from most
+regions of the adult central nervous system, including, for
+example, the spinal cord (Johansson et al., 1999; Shihabuddin
+et al., 1997; Weiss et al., 1996).
+Spinal cord injury is oftenmentioned among the first conditions
+forwhich stemcellsmayprovide a new therapy. There are several
+studies indicating that transplantation of neural stemcells or cells
+derived from embryonic stem cells to the injured spinal cord have
+a beneficial effect on functional recovery in experimental models,
+although the mechanism is poorly understood (Barnabé-Heider
+and Frisén, 2008). Improved functional recovery after transplan-
+tationof in vitro expandedneural stemcells derived from theadult
+spinal cord (Hofstetter et al., 2005) demonstrates that there are
+stem cells in the adult spinal cord that can exert beneficial effects
+after injury, but fail to do so efficiently under normal conditions.
+Identification of stem and progenitor cells in the adult spinal
+cord and an understanding of their response to injury could allow
+the development of pharmacological strategies to modulate
+these cells in situ to produce desired progeny after injury as an
+ro
+thBrdU
+Vimentin
+BrdU
+Sox9
+Vimentin
+BrdU
+Sox9
+Dapi
+A parenchyma
+central canal
+B C 
+central canal perimeter
+Figure 1. Proliferating Cell Populations in the Adult Spinal Cord
+Adult wild-type mice received BrdU in the drinking water for 5 weeks to label p
+(A) Arrows point at BrdU+ cells at the central canal, in the parenchyma, and at
++ +
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordcell populations in the adult spinal cord that have been sug-
+gested to act as neural stem cells and to contribute to cell turn-
+over. The relationship between these cell types, for example
+whether they can give rise to each other, if they all have stem
+cell properties, and their relative contribution to cell turnover in
+the intact and injured spinal cord, had not been addressed.
+We have in parallel performed genetic fate mapping of oligo-
+dendrocyte progenitors, ependymal cells, and astrocytes in the
+adult mouse spinal cord, allowing us to assess the relative roles
+of these cell populations in cell turnover in the intact and injured
+spinal cord. We present an integrated view of how differentiated
+cells, progenitors, and stem cells cooperate in complementary
+ways to generate new glial cells in the intact and injured adult
+spinal cord.
+RESULTS
+Genetic Fate Mapping of the Main Proliferating Cell
+Populations in the Uninjured Adult Spinal Cord
+In order to assess cell turnover in the adult mouse spinal cord, we
+first characterized which cell types proliferate. BrdU administra-
+tion via the drinking water for 5 weeks resulted in labeled cells
+scattered within all areas of the spinal cord (Figure 1A). Ependy-
+mal cells, astrocytes, and oligodendrocyte lineage cells together
+accounted for the vast majority of BrdU-labeled cells (93.4% ±
+2.7%, mean ± SD) (Figures 1B–1D). The remaining BrdU-labeled
+cells are mainly microglia and blood vessel-associated cells
+(Horner et al., 2000). The proportion of BrdU-labeled cells was
+similar for Sox10+ oligodendrocyte lineage and ependymal
+cells (4%–5%) but substantially lower for astrocytes (<1%)
+(B–D) BrdU is found in Sox9 /Vimentin ependymal cells by the central canal (B), in
+dendrocyte progenitors scattered in the parenchyma (D).
+(E and F) Quantification of BrdU incorporation relative to all proliferating cells (E)
+Scale bars represent 100 mm in (A) and 25 mm in (B)–(D).
+C100
+80
+60
+40
+20
+0
+B
+r
+d
+U
++
+m
+a
+r
+k
+e
+r
++
+/
+t
+o
+t
+a
+l
+ 
+B
+r
+d
+U
++
+c
+e
+l
+l
+s
+ 
+[%
+]
+50
+40
+30
+20
+10
+0
+B
+r
+d
+U
++
+m
+a
+r
+k
+e
+r
++
+/
+t
+o
+t
+a
+l
+ 
+m
+a
+r
+k
+e
+r
++
+c
+e
+l
+l
+s
+ 
+[%
+]
+BrdU
+Sox10
+Dapi
+white
+matter
+D 
+E 
+F 
+parenchyma
+60
+S
+o
+x
+9
+C
+C
+S
+o
+x
+1
+0
+N
+G
+2
+S
+o
+x
+9
+P
+S
+o
+x
+9
+C
+C
+S
+o
+x
+1
+0
+N
+G
+2
+S
+o
+x
+9
+P
+liferating cells.
+e perimeter of the spinal cord in an overview image.
++ +(Figure 1E). Oligodendrocyte lineage cells were identified by
+the expression of Sox10, astrocytes by the expression of
+Sox9, and ependymal cells by their position and expression of
+Sox9 (Cahoy et al., 2008; Meletis et al., 2008; Pompolo and
+Harley, 2001; Rivers et al., 2008). Oligodendrocyte progenitors
+express NG2 and are also referred to as NG2 cells or polyden-
+drocytes (Nishiyama et al., 2009). The few astrocytes that incor-
+porated BrdU were most often located at the perimeter of the
+spinal cord white matter (Figure 1C). There was a large variation
+in proliferation rate within the oligodendroglial lineage, with
+oligodendrocyte progenitors displaying a high proliferation rate
+and mature oligodendrocytes being postmitotic (Figure 1E).
+Oligodendrocyte lineage cells are by far the most numerous of
+the proliferating cells and represent more than 80% of the
+BrdU-labeled cells in the adult spinal cord (Figure 1F).
+To trace the progeny of these proliferating cell populations, we
+employed genetic fate mapping with three different transgenic
+mouse lines expressing tamoxifen-dependent Cre recombinase
+(CreER) under different cell type-specific promoters. We used
+mice in which CreER expression was under the control of
+promoters with specific expression in ependymal cells (FoxJ1),
+astrocytes (Connexin 30), or oligodendrocyte lineage cells
+(Olig2). These mice were on R26R Cre-reporter background,
+which after tamoxifen administration leads to permanent and
+heritable expression of the reporter gene b-galactosidase
+(bgal) or yellow fluorescent protein (YFP). The transgenic lines
+and labeling paradigms are depicted in Figure S1 available
+online. Tamoxifen was adminstered once daily for 5 days and
+phenotypic characterization of the recombined cells was per-
+formed 5 days later. The mice were 2–5 months old (Table S1).
+Sox9 astrocytes at the perimeter of the white matter (C), and in Sox10 oligo-
+and relative to phenotype (F). Averages and SD from three animals are shown.
+ell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc. 471
+B 
+Sox9
+0,0,20,4,60,81,0
+A 
+Fo
+xJ
+1-
+C
+re
+ER
+ FoxJ1-CreER transgenic mice allow genetic recombination
+specifically in ependymal cells in the adult spinal cord
+(Figures 2A–2C; Meletis et al., 2008). The recombined ependy-
+mal cells all have motile cilia and homogenously express, for
+example, Sox9 and Vimentin (Figures 2A–2C; Meletis et al.,
+2008). About 80% of ependymal cells are genetically marked
+with the employed recombination strategy (Meletis et al.,
+2008). There are GFAP+ astrocyte processes within the ependy-
+mal layer and Olig2+ oligodendrocyte progenitors can be found
+in close vicinity, but ependymal cells express none of these
+markers and these cells are not recombined in FoxJ1-CreER
+mice (Figures 2B and 2C; Meletis et al., 2008).
+The gap junction protein Connexin 30 (Cx30) is specifically
+expressed in astrocytes in the nervous system (Kunzelmann
+et al., 1999; Nagy et al., 1999; Rash et al., 2001). Recombination
+βgal/YFP
+E 
+H 
+βgal
+Vimentin
+GF
+βga
+APC
+βgal
+NF
+NG
+βga
+Sox9
+YFP
+Vimentin
+GF
+YF
+D 
+C
+x3
+0-
+C
+re
+ER
+ 
+G 
+O
+lig
+2-
+C
+re
+ER
+ 
+Figure 2. Genetic Labeling of Ependymal Cells, Astrocytes, and Oligod
+(A–C) The FoxJ1-CreER line gives recombination in ependymal cells surrounding t
+are negative for GFAP, Olig2, Sox10, and NG2. Arrowheads point to cells that ar
+(D–F) The Cx30-CreER line gives recombination in astrocytes that all express Sox
+combined astrocytes express low levels of Vimentin. Arrows point to recombined
+white matter cell negative for Olig2.
+(G–I) The Olig2-CreER line gives recombination in very few gray matter astrocyt
+target oligodendrocyte progenitors that express NG2 and Sox10 and incorporate
+to recombined cells positive for the marker and filled arrowheads point to recom
+Averages and SD are shown from three animals. Rec+, recombined; CC, central ca
+in (B), (E), and (H).
+472 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.C 100
+80
+60
+40
+20
+0ar
+ke
+r+
+ re
+c+
+ c
+el
+ls
+/ t
+ot
+al
+ re
+c+
+ c
+el
+ls
+ [%
+]
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordis restricted to astrocytes in the adult brain of Cx30-CreER trans-
+genic mice (Slezak et al., 2007). In the spinal cord, recombination
+in Cx30-CreER mice led to numerous labeled cells located
+throughout the parenchyma (Figures 2D–2F). Almost all recom-
+bined cells expressed Sox9 (99.5% ± 0.4%, mean ± SD) and
+GFAP (93.9% ± 2.4%, mean ± SD), a small subset located in
+the white matter expressed Vimentin, and the recombined cells
+were never found in the ependymal layer (Figures 2E and 2F; Fig-
+ure S2A). Sox9-expressing cells in the parenchyma coexpressed
+the astrocytic markers GFAP and S100b, but never the oligoden-
+drocyte lineagemarkersSox10,NG2,orPDGFRa (FigureS2). The
+genetic labeling of astrocytes was efficient, with 74.7% ± 2.9%
+(mean ± SD) of parenchymal Sox9+ cells being recombined.
+Based on morphology and marker expression, we could
+identify three astrocytic subtypes that were recombined in
+m
+F
+I
+AP
+l
+Olig2
+βgal
+2
+l
+BrdU
+βgal
+AP
+P
+Olig2
+YFP
+WM
+GM
+So
+x9
+-P
+GF
+AP
+Ol
+ig2
+So
+x1
+0
+NG
+2
+Br
+dUAP
+C
+Fo
+xJ
+1
+So
+x9
+-C
+C
+GF
+AP
+Ol
+ig2
+So
+x1
+0
+NG
+2
+100
+80
+60
+40
+20
+0
+m
+ar
+ke
+r+
+ re
+c+
+ c
+el
+ls
+/ t
+ot
+al
+ re
+c+
+ c
+el
+ls
+ [%
+]
+100
+80
+60
+40
+20
+0
+m
+ar
+ke
+r+
+ re
+c+
+ c
+el
+ls
+/ t
+ot
+al
+ re
+c+
+ c
+el
+ls
+ [%
+]
+Vim
+-C
+C
+GF
+AP
+So
+x9
+-P
+Ol
+ig2
+So
+x1
+0
+NG
+2
+Br
+dU
+Vim
+-P
+Vim
+-P
+endrocyte Progenitors in the Adult Spinal Cord
+he central canal, which all express Sox9, Vimentin, and CreER (FoxJ1 in C), but
+e positive for the indicated marker but are not recombined.
+9 and GFAP. Recombined gray matter astrocytes express Olig2 and some re-
+cells positive for the marker, and the filled arrowhead points to a recombined
+es (Sox9+ and GFAP+) and some mature oligodendrocytes (APC+) but mainly
+BrdU (administered in the drinking water 5 days before sacrifice). Arrows point
+bined cells negative for the marker.
+nal; p, parenchyma. Scale bars represent 200 mm in (A), (D), and (G) and 50 mm
+yc
+r
+le
+coCx30-CreER mice (Figures 2D–2F; Figure S2A), one in the white
+matter and two different in the gray matter. White matter astro-
+cytes expressed Sox9 and high levels of GFAP, but not Olig2.
+A small number of recombined cells in the gray matter was
+located very close to the ependymal layer, had a bipolar
+morphology, expressed Sox9 and high levels of GFAP, and
+were negative for Olig2 (Figure 2E; Figure S2A). However, the
+majority of recombined cells in the gray matter had the elaborate
+morphology of protoplasmatic astrocytes and expressed Sox9
+and lower levels of GFAP mostly around the cell body. Sur-
+prisingly, we found that this class of gray matter astrocytes
+was positive for Olig2 (91.3% ± 4.0%, mean ± SD of all gray
+matter astrocytes) via two different specific antibodies (Figures
+*
+**
+A 400
+300
+250
+150
+50
+0
+T
+o
+t
+a
+l
+ 
+n
+u
+m
+b
+e
+r
+ 
+o
+f
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+/
+s
+e
+c
+t
+i
+o
+n
+5d     4m
+NG2
++
+B
+100
+200
+350
+5d     4m 5d     4m 5d     4m 5d     4m
+APC
++
+BrdU
+APC
+FoxJ1 Cx30 Olig2
+Figure 3. Characterization of the Progeny of Ependymal Cells, Astroc
+(A) Adult mice were given tamoxifen daily for 5 days and the total number of re
+(B and C) Wild-type animals were given BrdU for 5 weeks in the drinking wate
+(5w+7w). BrdU-labeled APC+ mature oligodendrocytes (B, arrows point to doub
+tified (C).
+Averages and SD are shown from three animals for each experiment. Rec+, re
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal CordS2A–S2C). We classified these cells as astrocytes, rather than
+oligodendrocyte lineage cells, based on the expression of the
+astrocytic markers GFAP and Sox9, the protoplasmatic astro-
+cyte morphology, and the lack of the oligodendrocyte lineage
+markers Sox10 and NG2 (Figure 2F; Figure S2A).
+Olig2 is expressed in oligodendrocyte progenitors and mature
+oligodendrocytes in the adult spinal cord (Ohori et al., 2006;
+Yamamoto et al., 2001), and recombination has been demon-
+strated in these cell types in Olig2-CreER transgenic mice during
+development (Masahira et al., 2006; Takebayashi et al., 2002).We
+found Olig2-CreER recombined cells scattered within both the
+white and gray matter in the adult spinal cord (Figure 2G). Almost
+all recombined cells expressed Olig2 and Sox10 and a quarter of
+them were mature APC+ oligodendrocytes (Figure 2I). The
+recombination efficiency was lower in this line than the other
+two with 4.5% ± 0.1% (mean ± SD) of Sox10+ cells (all matura-
+tional stages in the oligodendrocyte lineage) being recombined.
+Importantly, whereas recombination was inefficient in mature
+oligodendrocytes, it was more efficient in oligodendrocyte
+progenitors, with 38% ± 14% (mean ± SD) of NG2+ cells being
+recombined. About two thirds of recombined cells were prolifer-
+ating oligodendrocyte progenitors expressing NG2 and 23.5% ±
+9.5% (mean ± SD, 3- to 5-month-old mice) of recombined cells
+had undergone division and were labeled with BrdU after
+5 days administration in the drinking water (Figures 2H and 2I;
+Figure S2D). A very small fraction (0.9% ± 0.7%, mean ± SD) of
+Crecombined cells in the Olig2-CreER line were Olig2+ graymatter
+astrocytes expressingSox9 andGFAP. This corresponds to<1%
+of gray matter astrocytes. The very inefficient recombination in
+Olig2+ astrocytes was fortuitous for the purpose of this study
+because it allowed us to distinguish the astrocyte and oligoden-
+drocyte lineages in the Olig2-CreER and Cx30-CreER lines
+(Figure S2E).
+Ependymal Cells and Astrocytes Self-Duplicate
+whereas Oligodendrocyte Progenitors Self-Renew
+and Generate Mature Oligodendrocytes
+To identify the progeny of ependymal cells, astrocytes, and
+oligodendrocyte lineage cells, the number and phenotype of
+80
+60
+40
+20
+0
+B
+r
+d
+U
++
+A
+P
+C
++
+/
+t
+o
+t
+a
+l
+ 
+B
+r
+d
+U
++
+c
+e
+l
+l
+s
+ 
+[%
+]
+5w 5w+7w
+8
+6
+4
+2
+0
+B
+r
+d
+U
++
+A
+P
+C
++
+/
+t
+o
+t
+a
+l
+ A
+P
+C
++
+c
+e
+l
+l
+s
+ 
+[%
+]
+5w 5w+7w
+**
+C
+tes, and Oligodendrocyte Progenitors in the Intact Adult Spinal Cord
+ombined cells was assessed after another 5 days or 4 months.
+and analyzed either directly (5w) or after an additional 7 weeks without BrdU
+-positive cells and the empty arrowhead points to a BrdU+, APC) were quan-
+mbined. *p < 0.05, **p < 0.001, Student’s t test. Scale bar represents 25 mm.recombined cells was analyzed 5 days and 4 months after
+tamoxifen-induced recombination (Figure S1B, Table S1). The
+total number of recombined cells did not change significantly
+in the FoxJ1-CreER or Cx30-CreER lines over time (Figure 3A).
+The phenotype of the recombined cells at 4months in both these
+lines was indistinguishable from that at 5 days after recombina-
+tion (Figure S3), with all cells being ependymal cells in the FoxJ1-
+CreER line and all cells being astrocytes in the Cx30-CreER line.
+Thus, ependymal cells and astrocytes do not produce progeny
+of other fates in the uninjured spinal cord and their number stays
+constant, indicating that their proliferation serves to compensate
+for some cell loss to maintain the size of their cell populations.
+In contrast, the Olig2-CreER line showed a significant increase
+in the total number of recombined cells after 4 months. This
+increase was due to a larger number of labeled mature oligoden-
+drocytes (APC+) whereas the number of labeled progenitors
+(NG2+) was largely unaltered (Figure 3A; Figure S3). The finding
+that the number of oligodendrocyte progenitors stayed constant
+indicates that these cells both self-renew and produce new
+mature oligodendrocytes. Mature oligodendrocytes are postmi-
+totic but can be replenished from progenitor cells (Keirstead and
+Blakemore, 1997). To assess the potential addition of mature
+oligodendrocytes in an independent way, wild-type mice
+received BrdU in the drinking water for 5 weeks and were
+analyzed either at that time (5w) or after another 7 weeks after
+the end of BrdU administration (5w+7w). There was a significant
+ell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc. 473
+increase with time in the proportion of BrdU-labeled mature
+oligodendrocytes, increasing from 17% ± 2.7% (mean ± SD)
+after 5 weeks of BrdU administration to 51% ± 1.2% (mean ±
+SD) of all BrdU-labeled cells 7 weeks later (Figures 3B and 3C).
+Moreover, direct counts of APC+ cells, independently of BrdU
+labeling, revealed a significant increase with time in the same
+animals (p < 0.05, Student’s t test).
+Thus, in the uninjured adult spinal cord ependymal cells and
+astrocytes proliferate to maintain their population sizes whereas
+oligodendrocyte progenitors both self-renew and generate an
+increasing number of mature oligodendrocytes.
+In Vitro Neural Stem Cell Potential in the Intact and
+Injured Spinal Cord Is Confined to Ependymal Cells
+We assessed the expression of markers associated with neural
+stem/progenitor cells in ependymal cells, astrocytes, and oligo-
+dendrocyte lineage cells in the adult spinal cord. Sox2 is ex-
+pressed by the vast majority, if not all, recombined cells in the
+FoxJ1-CreER and Cx30-CreER lines and in a subset of cells in
+the Olig2-CreER line. Musashi1 is highest expressed in ependy-
+mal cells, and CD133/prominin expression as well as Nestin
+second intron enhancer activity, both associated with neural
+stem cells (Carlén et al., 2006; Corti et al., 2007), are exclusive
+to ependymal cells in the adult spinal cord (Figures S4A–S4E).
+The adult spinal cord contains cells with in vitro neural stem
+cell potential (Johansson et al., 1999; Shihabuddin et al., 1997;
+Weiss et al., 1996), and genetic fate mapping has established
+that they are ependymal cells (Meletis et al., 2008). Spinal cord
+injury results in an increased number of neural stem cells in the
+rat (Moreno-Manzano et al., 2009; Xu et al., 2006), but their origin
+was unknown. It is possible, as in the cerebral cortex (Buffo et al.,
+2008), that injury recruits cells that lack stem cell potential in the
+uninjured situation to gain such potential.
+We first characterized the effect of a transverse dorsal funic-
+ulus incision at Th4, not reaching down to the gray matter or
+central canal, in adult wild-type mice on neurosphere formation.
+Neurospheres appeared faster, were larger, and 3–4 times more
+numerous after injury (Figures 4A and 4B). Injury-induced neuro-
+spheres displayed self-renewal and multipotency, as shown by
+the fact that they could be serially passaged and, when exposed
+to differentiating conditions, generated astrocytes, oligodendro-
+cytes, and neurons at the clonal level (Figure 4A and see further
+below).
+To determine the cell type of origin of injury-induced neuro-
+spheres, we established neurosphere cultures from FoxJ1-
+CreER, Cx30-CreER, andOlig2-CreERmice onR26R-YFP back-
+ground (Figure 4C). Recombination was induced by five daily
+tamoxifen injections. After 5 additional days, to ensure that
+tamoxifen had been eliminated and no further recombination
+could take place (Meletis et al., 2008; Robinson et al., 1991),
+cultures were either established directly or animals were sub-
+jected to a spinal cord injury and cultures initiated 3 days after
+the injury (Figure S1C). Efficient recombination in each animalwas verified histologically in a spinal cord segment adjacent to
+the lesion (Figure 4C). Approximately 80% of neurospheres
+from FoxJ1-CreER mice were recombined, both in cultures
+deriving from uninjured and injured animals, establishing that
+most neurospheres derive from ependymal cells in both situa-
+tions. Recombination is never complete, which results in an
+474 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.underestimation of the actual contribution. The recombination
+rate in ependymal cells and in neurospheres from FoxJ1-CreER
+mice is similar, suggesting that close to all neurospheres derive
+from ependymal cells. This is further supported by the finding
+that when ependymal cells were isolated by flow cytometry, no
+neurosphere-initiating activity was found in the nonependymal
+fraction (Meletis et al., 2008). In contrast, we only found one
+single recombined neurosphere in each condition in cultures
+from the Cx30-CreER line and not a single recombined neuro-
+sphere in any condition in cultures from the Olig2-CreER line
+even if the primary cultures were kept for a long time (Figures
+4D and 4E).
+Restricted progenitor cells have been shown to give rise to
+primary neurospheres with limited self-renewal and/or differenti-
+ation potential (Reynolds and Rietze, 2005; Wu et al., 2005). To
+assess self-renewal capacity and multipotency at the clonal
+level, single recombined neurospheres were collected and
+passaged. The two Cx30-CreER-derived recombined neuro-
+spheres did not generate secondary neurospheres, whereas
+FoxJ1-CreER-derived recombined neurospheres expressed
+markers associated with neural stem cells and displayed self-
+renewal during serial passages as well as multipotency as they
+gave rise to the three main neural cell types after induction of
+differentiation (Figures S4F–S4I). Thus, ependymal cells consti-
+tute the main neural stem cell population in the spinal cord and
+their neurosphere-forming potential is enhanced after injury,
+whereas astrocytes and oligodendrocyte progenitors do not
+demonstrate in vitro stem cell properties, at least under the stan-
+dard conditions employed here.
+Ependymal Cells, Astrocytes, and Oligodendrocyte
+Progenitors Produce Progeny that Occupy
+Complementary Domains after Spinal Cord Injury
+To characterize the in vivo response of ependymal cells, astro-
+cytes, and oligodendrocyte progenitors to spinal cord injury, an
+incision in the dorsal funiculus was made in adult FoxJ1-CreER,
+Cx30-CreER, and Olig2-CreER mice 5 days after completion of
+tamoxifen administration (Figure S1D, Table S1). The 5 day
+clearing period allows elimination of tamoxifen, precluding
+potentially altered promoter activity in response to injury to result
+in recombination in other cell types (Meletis et al., 2008;Robinson
+et al., 1991).Control animals not receiving tamoxifendid not show
+recombination after injury (data not shown).
+Quantification of the total number of recombined cells in the
+three transgenic lines showed a significant increase at the injury
+site compared to an adjacent segment (Figure 5A; Figure S5A,
+Table S1). The number of recombined cells at the injury
+increased 4- to 5-fold in the FoxJ1-CreER line and approximately
+2-fold in the Cx30-CreER and Olig2-CreER lines. This increase
+was established already at 2 weeks after the injury and was
+maintained at almost the same level after 4 months (Figure 5A).
+Approximately 80% of FoxJ1-CreER, Cx30-CreER, and Olig2-
+CreER recombined cells at the injury were labeled with BrdU
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordadministered the first 5 days postinjury (Figure 5A; Figure S1D).
+The distribution of recombined cells was altered by the injury
+(Figures 5B and 5C; Figures S5B–S5D). Ependymal cells are nor-
+mally exclusively situated by the central canal, but after injury
+recombined ependymal cell progeny in FoxJ1-CreER mice
+were also found in the core of the scar tissue forming at the
+60
+ 
+n
+e
+u
+r
+o
+SBright field
+A Ctl 7 DIV SCI 5 DIV
+W
+T
+ 
+c
+u
+l
+t
+u
+r
+e
+s
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordlesion. A smaller number of ependymal cell-derived cells were
+found scattered in the spared parenchyma (Figures 5B and 5C;
+Figures S5B and S5C; Meletis et al., 2008). Astrocytic progeny
+in spinal cord-injured Cx30-CreER mice also accumulated at
+the lesion site, but in a complementary domain to the ependy-
+mal-derived cells. Whereas ependymal progeny mainly occu-
+pied the center of the lesion site, new astrocyte-derived cells
+were most numerous in the perimeter of the forming scar tissue
+(Figures 5B and 5C; Figures S5B and S5C). Oligodendrocyte
+progenitor progeny was increased throughout the injured
+segment, with cells present at the injury site but in similar
+numbers also in areas of the segment that had not been directly
+affected by the lesion (Figures 5B and 5C; Figures S5B and S5C).
+All three lines gave rise to progeny within the glial scar, but only
+recombined cells in the FoxJ1-CreER and Cx30-CreER lines ex-
+pressed nestin (Figure S5D), which in this situation marks scar-
+FoxJ1-CreER Cx30-
+FoxJ1-CreER Cx30-CreER
+CC
+YFP
+Vimentin
+YFP
+Sox9
+YFP
+Sox10
+YFP Bright field
+YFP
+C 
+T
+r
+a
+n
+s
+g
+e
+n
+i
+c
+ 
+b
+i
+o
+p
+s
+i
+e
+s
+E 
+T
+r
+a
+n
+s
+g
+e
+n
+i
+c
+ 
+c
+u
+l
+t
+u
+r
+e
+s
+Figure 4. Spinal Cord Injury Increases the Number of Ependymal Linea
+(A and B) Neurosphere cultures were established from the intact adult spinal cord
+appear earlier and are more numerous after injury.
+(C–E) Transgenic mice received tamoxifen for 5 days and, after a 5 day clearing
+a spinal cord injury and cultures were established 3 days later.
+(C) A biopsy was obtained from each spinal cord and analyzed by histology to e
+(D and E) Only ependymal cells (FoxJ1-CreER) give rise to self-renewing neurosp
+primary neurospheres and the number of those that could be passaged (/) to g
+neurospheres obtained from the Cx30-CreER and Olig2-CreER lines. One recom
+but which could not be further passaged (see Figure S4). Olig2-CreER-derived cu
+not missed.
+AveragesandSDare shown from three animals for eachcondition (B,D). DIV, days in
+C4 DIV
+40
+20
+0
+#
+ 
+o
+f
+ 
+p
+r
+i
+m
+a
+r
+y
+5 DIV 6 DIV 7 DIV 8 DIVB 
+100
+80
+s
+p
+h
+e
+r
+e
+s
+Ctl
+SCI
+CI Passage 2 WT-derived culturesforming astrocytes (Frisén et al., 1995). These results demon-
+strate that ependymal cells, astrocytes, and oligodendrocyte
+progenitors produce progeny after injury, which persists in
+complementary domains long term after injury.
+Phenotype of New Cells in the Injured Spinal Cord
+In order to assess the phenotype of the progeny of ependymal
+cells, astrocytes, and oligodendrocyte progenitors, we charac-
+terized the marker profile of recombined cells 2 weeks and
+4 months after injury in FoxJ1-CreER, Cx30-CreER, and Olig2-
+CreER mice. No apparent difference in the number of recom-
+bined cells was observed in segments adjacent to the injury
+compared to uninjured animals (Figures 2 and 6A; Figures S3
+and S6A), indicating that the reaction to injury is largely restricted
+to the lesion site.
+CreER Olig2-CreER 
+D 
+Ctl     SCI
+100
+80
+60
+40
+20
+0
+%
+ 
+r
+e
+c
++
+ 
+p
+r
+i
+m
+a
+r
+y
+ 
+n
+e
+u
+r
+o
+s
+p
+h
+e
+r
+e
+s
+Ctl     SCI Ctl     SCI
+0
+___
+346
+0
+___
+102
+1   0
+___
+298
+1   0
+___
+94
+Olig2-CreER FoxJ1 Cx30 Olig2
+CC
+ge Cells with In Vitro Stem Cell Activity
+from wild-type (WT) control mice (Ctl) or 3 days after injury (SCI). Neurospheres
+time, neurosphere cultures were established either directly or mice underwent
+nsure efficient recombination.
+heres both from uninjured animals and after spinal cord injury. The number of
+ive rise to secondary neurospheres is given above the total number of primary
+bined neurosphere was obtained from the Cx30-CreER line in each condition,
+ltures were kept for 2 weeks to ensure that slowly growing neurospheres were
+vitro; rec+, recombined. Scalebars represent 200mm in (A), (E) and100mm in (C).
+ell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc. 475
+tls
+0-A 
+t
+i
+f
+i
+c
+a
+t
+i
+o
+n
+s
+ 
+o
+f
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+10
+8
+6
+4
+Injured/Adjacent
+fold of tot rec
++
+cells
+10
+8
+6
+4
+Injured/Adjacen
+fold of tot rec
++
+cel
+FoxJ1-CreER Cx3
+100
+80
+60
+40
+BrdU
++
+/tot rec
++
+cells [%]
+**
+**
+**
+**There was an approximate 75% reduction in the number of
+NeuN+ neurons in the injured segment at both 2 weeks and
+4 months after the injury (Figure S6B). We did not detect recom-
+bined neurons in any of the lines nor BrdU-labeled neurons after
+injury (data not shown), suggesting that new neurons are not
+generated after this type of spinal cord injury.
+Recombined cells located outside the ependymal layer in
+FoxJ1-CreER mice had lost their ependymal phenotype and
+downregulated FoxJ1-CreER transgene expression (Figures
+6B–6D). The vast majority of these cells were Sox9+ astrocytes
+and a subpopulation of themwas also GFAP+. Four months after
+the injury, a small number of ependymal cell-derived recombined
+cells were Olig2+ and APC+ mature oligodendrocytes (Figures
+6B and 6C; Meletis et al., 2008). FoxJ1-CreER recombined cells
+at the injury site appear to derive only from ependymal cells and
+B 
+A
+d
+j
+a
+c
+e
+n
+t
+ 
+s
+e
+g
+m
+e
+n
+t
+βgal
+βgal
+C 
+I
+n
+j
+u
+r
+e
+d
+ 
+s
+e
+g
+m
+e
+n
+t
+Q
+u
+a
+n
+2
+0
+2 w 4 m
+2
+0
+2 w 4 m
+20
+0
+Adj. Injury
+**
+CC
+WM
+GM
+Figure 5. Ependymal Cell, Astrocyte, and Oligodendrocyte Progenitor
+Adultmiceweregiven tamoxifendaily for5daysand,after a5dayclearingperiod,we
+(A) Quantification of the total number of recombined cells shows an increase at the i
+recombinedcells have incorporatedBrdUadministered thefirst5daysafter the injur
+for each time point.
+(B and C) Overview coronal photographs show recombined cells (bgal+) after injury
+a segmentadjacent to the lesion (B) andat the injuredsegment (C). TheCx30-CreER
+more concentrated and appears brighter. The broken line outlines the gray matter
+GM, gray matter; WM, white matter; CC, central canal. **p < 0.001. Scale bars rep
+476 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.CreER Olig2-CreER 
+100
+80
+60
+40
+BrdU
++
+/tot rec
++
+cells [%]
+**
+100
+80
+60
+40
+BrdU
++
+/tot rec
++
+cells [%]
+**
+10
+8
+6
+4
+Injured/Adjacent
+fold of tot rec
++
+cells
+**
+**
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordnot by circulating cells, as indicated by the fact that blood and
+bone marrow cells are not recombined in these animals and
+recombined cells at the lesion site did not express the hemato-
+poietic marker CD45 (Figures S6C and S6D).
+All Cx30-CreER recombined cells maintained astrocytic
+features, expressing Sox9 and high levels of GFAP. The pheno-
+type of gray matter astrocytes was altered by injury, with few
+expressing Olig2 and now displaying a less ramified and more
+elongated morphology (Figures 6B, 6C, and 6E).
+The phenotype of Olig2-CreER recombined cells was not
+affected by injury, where the majority of cells expressed either
+the progenitor marker NG2 or the mature oligodendrocyte
+marker APC and the myelin-associated marker MBP (Figures
+6B and 6C; Figures S6E and S6F). Thus, the increased prolifera-
+tion after injury of both astrocytes and oligodendrocyte
+20
+0
+Adj. Injury
+20
+0
+Adj. Injury
+2
+0
+2 w 4 m
+Progeny Occupy Complementary Domains after Injury
+resubjected toadorsal funiculus incisionandanalyzed2weeksor4months later.
+njury over an adjacent segment in all transgenic lines (left graphs). Themajority of
+y (right panels).AveragesandSDareshown fromthreeanimalsper transgenic line
+, where a marked distinction is observed between the recombination pattern in
+recombinedcells are lessprofuselybranchedafter injury, and thebgal is therefore
+in (B) and the white lines indicate the site of injury in (C).
+resent 200 mm.
+O100
+80
+e
+l
+l
+s
+ 
+[%
+]
+A 
+k
+s
+FoxJ1-CreER Cx30-CreER 
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordprogenitors leads to the generation of new cells restricted to their
+own lineage, whereas ependymal cells display an altered differ-
+entiation repertoire after injury.
+The Relative Contribution of Different Cellular Sources
+to Glial Cell Generation in the Intact and Injured Adult
+Spinal Cord
+By analyzing the dynamics of the three main proliferating neural
+cell populations in parallel in the intact and injured spinal cord,
+it is possible to estimate the relative contribution of the different
+60
+40
+20
+0
+m
+a
+r
+k
+e
+r
++
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+/
+ 
+t
+o
+t
+a
+l
+ 
+r
+e
+c
++
+ 
+c
+A
+d
+j
+a
+c
+e
+n
+t
+ 
+s
+e
+g
+m
+e
+n
+t
+ 
+-
+ 
+2
+ 
+w
+e
+e
+100
+80
+60
+40
+20
+0
+m
+a
+r
+k
+e
+r
++
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+/
+ 
+t
+o
+t
+a
+l
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+ 
+[%
+]
+100
+80
+60
+40
+20
+0
+m
+a
+r
+k
+e
+r
++
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+/
+ 
+t
+o
+t
+a
+l
+ 
+r
+e
+c
++
+ 
+c
+e
+l
+l
+s
+ 
+[%
+]
+F
+o
+x
+J
+1
+S
+o
+x
+9
+-C
+C
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+A
+P
+C
+S
+o
+x
+9
+-P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+S
+o
+x
+9
+-
+B 
+I
+n
+j
+u
+r
+e
+d
+ 
+s
+e
+g
+m
+e
+n
+t
+ 
+-
+ 
+2
+ 
+w
+e
+e
+k
+s
+C 
+I
+n
+j
+u
+r
+e
+d
+ 
+s
+e
+g
+m
+e
+n
+t
+ 
+-
+ 
+4
+ 
+m
+o
+n
+t
+h
+s
+F
+o
+x
+J
+1
+S
+o
+x
+9
+C
+C
++
+P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+A
+P
+C
+S
+o
+x
+9
+-P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+S
+o
+x
+9
+-
+F
+o
+x
+J
+1
+S
+o
+x
+9
+C
+C
++
+P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+A
+P
+C
+S
+o
+x
+9
+-P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+S
+o
+x
+9
+-
+Figure 6. Phenotypic Characterization of New Glial Cells in the Injured
+(A–C) Quantification of recombined (rec+) cells according to phenotypic markers i
+4 months (C) after the injury. FoxJ1 gene expression was assessed immunohistoc
+animals per transgenic line for each time point.
+(D and E) The twomost pronounced changes observed after injury are the loss of e
+central canal (D) and the loss of Olig2 expression and morphological change of th
+bined cells positive for the marker and filled arrowheads point to recombined ce
+CFoxJ1-CreER 
+e
+n
+t
+D lig2-CreER cell types to cell renewal (Figure 7). The dominating proliferative
+population in the intact spinal cord is oligodendrocyte progeni-
+tors, which continuously give rise to new mature oligodendro-
+cytes of which there is an increasing number over time in the
+adult. In response to injury, there is a substantial net increase in
+progeny of ependymal cells, astrocytes, and oligodendrocyte
+lineage cells. Two weeks after the injury, astrocytes had
+produced the largest number of new cells (58% of new cells) fol-
+lowed by ependymal cells (25%) and oligodendrocyte progeni-
+tors (17%). By 4 months after the injury, there was a reduction
+P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+A
+P
+C
+A
+d
+j
+a
+c
+e
+n
+t
+ 
+s
+e
+g
+m
+I
+n
+j
+u
+r
+e
+d
+ 
+s
+e
+g
+m
+e
+n
+t
+Cx30-CreER 
+A
+d
+j
+a
+c
+e
+n
+t
+ 
+s
+e
+g
+m
+e
+n
+t
+E 
+I
+n
+j
+u
+r
+e
+d
+ 
+s
+e
+g
+m
+e
+n
+t
+CreER
+βgal
+CreER
+βgal
+Olig2
+YFP
+Olig2
+YFP
+P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+A
+P
+C
+P
+G
+F
+A
+P
+O
+li
+g
+2
+N
+G
+2
+A
+P
+C
+Spinal Cord
+n a segment adjacent to the lesion (A) and in the injured segment 2 weeks (B) or
+hemically with antibodies against Cre. Averages with SD are shown from three
+pendymal cell-specific marker from FoxJ1-CreER-derived progeny leaving the
+e gray matter astrocytes from the Cx30-CreER line (E). Arrows point to recom-
+lls negative for the marker. Scale bars represent 50 mm in (D) and (E).
+ell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc. 477
+ ad
+re
+0
+0A 
+Cell population Cells/
+section
+Prolif. 
+4m (%)
+Turnover
+(cells)
+Net addition
+intact (cells)
+Fold increase
+injured
+Net
+inju
+Ependymal cells
+Astrocytes
+Oligodendrocyte
+46     2.3 14 6.4 0
+2 w2 w 4 m
+215.5 4.6
+Progenitors
+2.0 1.3 48480    22 2.2 10 0
+0in thenumber of progeny fromall three cell types,whichwasmost
+pronounced for astrocytes. At this time the largest number of new
+glial cells derived from ependymal cells (39%), followed by astro-
+cytes (34%) and oligodendrocytes (27%). Thus, oligodendrocyte
+progenitors go from being the completely dominating source of
+new cells in the intact spinal cord to being outnumbered by
+both astrocytes and ependymal cells after injury. This is due not
+to a reduced production of progeny by oligodendrocyte lineage
+cells, which is doubled, but to a larger increase in the production
+of progeny by ependymal cells and astrocytes.
+The astrocytes contributing to the scar that forms at the injury
+derive both from ependymal cells and from preexisting astro-
+cytes, with astrocytes in the core of the scar deriving from epen-
+dymal cells and those at the periphery of the scar deriving from
+duplication of preexisting astrocytes. Two weeks after the injury,
+Distribution uninjured Generation unB 
+C 
+Ependymal cell
+Oligodendrocyte
+progenitor
+Astrocyte
+progenitors Oligodendrocytes
+2.0 1.8 140140    30 140180
+160
+Figure 7. The Relative Contribution of Ependymal Cells, Astrocytes,
+Spinal Cord
+(A) The number of ependymal cells (Sox9+ cells by the central canal), astrocytes
+with branched morphology) were counted in 20 mm cryostat sections. The prolife
+net cell addition in the intact spinal cord after 4 months was obtained by the differ
+bination and compensated for the recombination frequency. The increase in the n
+tion of cells 2 weeks and 4 months after injury.
+(B) The distribution of ependymal cells (green), astrocytes (red), and oligodendro
+number. Note that the right panel depicts the net addition of new cells after injury,
+present after the lesion.
+(C) Schematic depiction of the fate of proliferating ependymal cells, astrocytes, a
+478 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.dition 
+d (cells)
+Phenotype of
+new cells (cells)
+Contribution
+to new cells (%)
+Contribution to new
+oligodendrocytes (%)
+Contribution to 
+new astrocytes (%)
+4 m 2 w 4 m 2 w 4 m 2 w 4 m 2 w 4 m
+160
+210 160
+Astrocytes
+Astrocytes
+Oligodendrocytes
+0 1.9
+Progenitors
+480 140
+70 57
+25 39
+58 34
+30 53
+70 47
+0 3.2
+0 0140
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordmore than two thirds of the new astrocytes in a lesioned segment
+arise by astrocyte duplication, whereas slightly more than half of
+the new astrocytes derive from ependymal cells 4 months after
+the injury. Nearly all ependymal cell-derived astrocytes were
+located in the center of the scar tissue, whereas astrocyte dupli-
+cation occurs much more widespread (Figure 7). The vast
+majority (97%) of new mature oligodendrocytes in an injured
+segment derive from oligodendrocyte progenitors and ependy-
+mal cells contribute 3.2% of new oligodendrocytes 4 months
+after an injury.
+DISCUSSION
+We have assessed the role of the three main proliferating neural
+cell populations in the intact and injured spinal cord in cell
+injured (4m) Net addition injured (4m)
+Oligodendrocytes
+70 57
+17 27 0 0 100 97110
+and Oligodendrocyte Progenitors to New Glial Cells in the Adult
+(Sox9+ cells in the parenchyma), and oligodendrocyte progenitors (NG2+ cells
+ration at 4 months was extrapolated from 5 weeks of BrdU administration. The
+ence in the total number of recombined cells 5 days and 4 months after recom-
+umber of recombined cells at the injury site was used to estimate the net addi-
+cyte progenitors (blue) and their progeny are shown at 50% of their estimated
+and that the addition of the left and right panels gives the full picture of all cells
+nd oligodendrocyte progenitors in the intact and injured spinal cord.
+renewal. We found that ependymal cell and astrocyte prolifera-
+tion is restricted to self-duplication to maintain their populations
+in the uninjured spinal cord, whereas oligodendrocyte progeni-
+tors self-renew and give rise to an increasing number of mature
+oligodendrocytes. Injury recruits ependymal cells, astrocytes,
+and oligodendrocyte progenitors to generate progeny in comple-
+mentary domains during scar formation and remyelination. Only
+ependymal cells show multilineage potential and stem cell
+activity is contained within the ependymal cell population in
+both the intact and injured spinal cord. We provide an integrated
+view of how several cell types have distinct and complementary
+roles in homeostasis and in the response to injury.
+Stem, Progenitor, and Differentiated Cells Make New
+Glial Cells after Injury
+There is a large difference in the proliferative activity of astro-
+cytes, ependymal cells, and oligodendrocyte progenitors in the
+uninjured spinal cord. Ependymal cells incorporate BrdU
+approximately ten times more frequently than do astrocytes,
+and oligodendrocyte progenitors incorporate BrdU approxi-
+mately ten times more frequently than do ependymal cells
+(Figure 1E). In contrast to the relative quiescence of ependymal
+cells and astrocytes in the uninjured situation, both populations
+produce a larger number of progeny than do the oligodendrocyte
+progenitors after injury. This is in spite of a doubling of the
+production of progeny by oligodendrocyte progenitors.
+Astrocytes in the adult spinal cord give rise to new cells of the
+same fate, although to very different extents in the intact or
+injured situation, and appear as differentiated cells with a latent
+but extensive self-duplication capacity. Neural stem cells in the
+adult lateral ventricle wall, which give rise to olfactory bulb inter-
+neurons, have astrocytic features (Zhao et al., 2008), and the
+majority of neurospheres from this region are recombined in
+Cx30-CreER mice (our unpublished data). We did not find
+evidence for in vitro neural stem cell properties or in vivo multili-
+neage potential of adult spinal cord astrocytes. As in the spinal
+cord, cortical astrocytes do not generate cells of other fates in
+the intact or injured situation. However, cortical astrocytes can
+give rise to neurospheres after injury (Buffo et al., 2008). There
+is thus considerable heterogeneity with regard to stem cell prop-
+erties between astrocytes in different parts of the adult central
+nervous system.
+Previous work suggested that adult spinal cord oligodendro-
+cyte progenitors generate astrocytes (Horky et al., 2006; Ohori
+et al., 2006; Sellers et al., 2009; Zhu et al., 2008a, 2008b), but
+our genetic lineage analysis does not support this. Our results
+rather indicate that spinal cord oligodendrocyte progenitors
+are similar to those in the forebrain, which recently have been
+demonstrated by similar genetic fate mapping strategies to
+give rise to new oligodendrocytes but not astrocytes (Dimou
+et al., 2008; Rivers et al., 2008). We failed to find evidence for
+multilineage potential of oligodendrocyte progenitor cells, so
+they are, in spite of their extensive self-renewal capacity, better
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Corddefined as progenitor cells than stem cells.
+The limited proliferation of ependymal cells in the uninjured
+situation, together with the large increase in their production of
+progeny after injury, describes a quiescent stem cell population
+that can be recruited on demand after injury. Forebrain ependy-
+mal cells lining the lateral ventricles similarly only after injury give
+Crise to other cell types (Carlén et al., 2009). Although the produc-
+tion of progeny by stem cells is increased after injury in many
+tissues, it is unusual that a stem cell population does not partake
+in any cell replacement in the uninjured situation. However,
+several previous studies support that the response of a tissue
+to an injury may differ from simply modulating the activity of
+the stem or progenitor cells that maintain homeostasis in the
+intact tissue (Dor et al., 2004; Dor and Melton, 2008; Ito et al.,
+2005; Levy et al., 2005; Nakagawa et al., 2007; Simon and Frisén,
+2007; Xu et al., 2008).
+Remyelination and Scar Formation in the Injured
+Spinal Cord
+Spinal cord injury results in rapid loss of oligodendrocytes
+(Crowe et al., 1997; Grossman et al., 2001; Lytle and Wrathall,
+2007), leaving many axons partly denuded and unable to effi-
+ciently propagate impulses. In partial spinal cord lesions, which
+are most common in humans, a substantial part of the neurolog-
+ical dysfunction is thought to be secondary to the loss of oligo-
+dendrocytes (McDonald and Belegu, 2006). Demyelination also
+results in rearrangement of axonal ion channels, which further
+may impair propagation of action potentials (Nashmi and
+Fehlings, 2001). Demyelinated axons are vulnerable to degener-
+ation, and rapid remyelination is important not only to regain
+conductance but also to avoid further neurodegeneration
+(Franklin and Ffrench-Constant, 2008). Both oligodendrocyte
+progenitors and ependymal cells have previously been demon-
+strated to generate myelinating oligodendrocytes (Dimou et al.,
+2008; Meletis et al., 2008; Rivers et al., 2008). We show here
+that the vast majority of new oligodendrocytes in the injured
+spinal cord derive from oligodendrocyte progenitors and
+a smaller fraction from ependymal cells. The beneficial effects
+of transplantation of myelinating cells after spinal cord injury in
+animal models (Franklin and Ffrench-Constant, 2008) indicate
+that the replacement of oligodendrocytes from endogenous cells
+is incomplete or too slow to be fully efficient.
+Astrocytes are the dominating glial cells in the scar that forms
+at the injury, and chondrotin sulfate proteoglycans in the scar
+inhibit axonal regrowth, indicating that astrocytes prevent axonal
+regeneration (Busch and Silver, 2007; Silver and Miller, 2004).
+However, astrocytes shield the intact tissue from further damage
+and limit the infiltration of inflammatory cells and further demye-
+lination (Faulkner et al., 2004; Okada et al., 2006). Thus, the large
+number of astrocytes at the injury site appears important to limit
+and restrain the inflammatory response, but this may be at the
+expense of axonal regrowth. We demonstrate two different
+cellular origins of new astrocytes after spinal cord injury, preex-
+isting astrocytes and ependymal cells. These new astrocytes
+differ with regard to phenotype and distribution. Most ependy-
+mal cell-derived astrocytes are GFAP negative but express other
+markers and ultrastructural characteristics of astrocytes (Meletis
+et al., 2008). The ependymal cell-derived astrocytes form the
+core of the glial scar and the astrocytes at the periphery of thescar arise by astrocyte duplication.
+Potential Strategies to Modulate Endogenous Neural
+Stem and Progenitor Cells for Spinal Cord Repair
+Transplantation of in vitro expanded spinal cord-derived neural
+stem cells promotes the recovery after spinal cord injury in
+ell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc. 479
+characterization of murine neural stem/progenitor cells based on Prominin-1experimental models (Hofstetter et al., 2005). The presence of
+resident cells in the adult spinal cord capable to promote func-
+tional recovery is encouraging for the prospect of developing
+pharmacological strategies to modulate endogenous spinal
+cord stem cells in situ.
+A goal for strategies aiming at promoting repair by endoge-
+nous spinal cord stem cells is to promote the generation of oligo-
+dendrocytes. Although ependymal cells generate considerably
+fewer oligodendrocytes than the oligodendrocyte progenitors
+after spinal cord injury, they give rise to a larger total number
+of progeny. Most ependymal progeny become astrocytes and
+contribute to scar formation. It appears attractive to direct the
+differentiation of ependymal cell progeny from the astrocytic to
+the oligodendrocyte lineage. This could potentially result in
+both reduced scar formation and improved remyelination. That
+ependymal cell-derived oligodendrocytes indeed may promote
+functional recovery is supported by the fact that ependymal cells
+are the origin of the in vitro expanded neural stem cells that
+improve function after transplantation in animal models of spinal
+cord injury, and that this effect was augmented when such cells
+were manipulated to promote oligodendrocyte differentiation
+(Hofstetter et al., 2005). The rapidly increasing knowledge on
+cell fate specification during embryogenesis and in adult line-
+ages will aid in the development of experimental strategies to
+modulate endogenous stem and progenitor cells for spinal
+cord repair.
+EXPERIMENTAL PROCEDURES
+Transgenic Mice
+FoxJ1-CreER (Meletis et al., 2008), Cx30-CreER (Slezak et al., 2007), and
+Olig2-CreER (Takebayashi et al., 2002) mice on R26R-bgalactosidase or
+yellow fluorescent protein Cre-reporter background (Soriano, 1999; Srinivas
+et al., 2001) backcrossed to C57/Bl6 were studied in adult stages (Table S1).
+Heterozygous Olig2-CreER mice, which appear normal (Masahira et al.,
+2006; Takebayashi et al., 2002), were used. Recombination was induced
+by 5 daily intraperitoneal injections of 2 mg tamoxifen (Sigma, 20 mg/ml in
+corn oil).
+Immunohistochemistry
+Mice were perfused transcardially with PBS followed by 4% formaldehyde in
+PBS and spinal cords were postfixed overnight at 4C and then cryoprotected
+in 30%sucrose. All antibodies used are specified in the Supplemental Informa-
+tion. Cell nuclei were visualized with DAPI (1 mg/mL, Sigma). Control sections
+were stainedwith secondary antibody alone. Images show one focal plane and
+the Z-projection of stacks.
+Neural Stem Cell Cultures
+Spinal cord cells were dissociated and neurosphere cultures were established
+as described (Meletis et al., 2008). All cells isolated from one spinal cord were
+plated in 10 cm cultures dishes. Single recombined neurospheres were picked
+manually, dissociated, and plated in one well of a 96-well plate. Clonally
+derived secondary neurospheres were collected and split into two: one half
+was used for continuous passaging and subsequent neural stem cell differen-
+tiation whereas the other half was used for plating in differentiating conditions
+(poly-D-lysine-coated slides with growth factor free medium supplemented by
+1%FCS). After 2 weeks in differentiation condition, immunocytochemistry wasperformed as described above with antibodies described in the Supplemental
+Information.
+Spinal Cord Injury and BrdU Labeling
+Mice were anesthetized with 2.5% Avertin and the dorsal funiculus was cut
+transversely without reaching the gray matter or central canal at Th4 and
+480 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.expression. Exp. Neurol. 205, 547–562.
+Crowe, M.J., Bresnahan, J.C., Shuman, S.L., Masters, J.N., and Beattie, M.S.
+(1997). Apoptosis and delayed degeneration after spinal cord injury in rats and
+monkeys. Nat. Med. 3, 73–76.
+Dimou, L., Simon, C., Kirchhoff, F., Takebayashi, H., and Götz, M. (2008).
+Progeny of Olig2-expressing progenitors in the gray and white matter of thewas extended rostrally with microsurgical scissors to span one segment
+(Frisén et al., 1993; Meletis et al., 2008).
+BrdU (1 mg/ml and 1% sucrose, exchanged every 3 days and kept in dark)
+was administered in the drinkingwater or administered twice by intraperitoneal
+injections (12 mg/ml, 100 ml per injection) at 6 hr interval, followed by BrdU
+administration in the drinking water (5 days).
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes Supplemental Experimental Procedures,
+six figures, and one table and can be found with this article online at doi:10.
+1016/j.stem.2010.07.014.
+ACKNOWLEDGMENTS
+We are indebted to the members of the J.F. lab for valuable discussions. We
+thank Drs. H. Okano, T. Edlund, and U. Lendahl for providing antibodies.
+This study was supported by grants from the Swedish Research Council,
+the Swedish Cancer Society, the Swedish Agency for Innovation Systems,
+the Karolinska Institute, Tobias Stiftelsen, and Knut och AliceWallenbergs Stif-
+telse. F.B.-H. was supported by postdoctoral fellowships from Canadian Insti-
+tutes of Health Research (CIHR) and Christopher and Dana Reeve Foundation
+(CDRF).
+Received: October 7, 2009
+Revised: March 11, 2010
+Accepted: July 2, 2010
+Published: October 7, 2010
+REFERENCES
+Barnabé-Heider, F., and Frisén, J. (2008). Stem cells for spinal cord repair. Cell
+Stem Cell 3, 16–24.
+Buffo, A., Rite, I., Tripathi, P., Lepier, A., Colak, D., Horn, A.P., Mori, T., and
+Götz, M. (2008). Origin and progeny of reactive gliosis: A source of multipotent
+cells in the injured brain. Proc. Natl. Acad. Sci. USA 105, 3581–3586.
+Busch, S.A., and Silver, J. (2007). The role of extracellular matrix in CNS regen-
+eration. Curr. Opin. Neurobiol. 17, 120–127.
+Cahoy, J.D., Emery, B., Kaushal, A., Foo, L.C., Zamanian, J.L., Christopher-
+son, K.S., Xing, Y., Lubischer, J.L., Krieg, P.A., Krupenko, S.A., et al. (2008).
+A transcriptome database for astrocytes, neurons, and oligodendrocytes:
+a new resource for understanding brain development and function. J. Neuro-
+sci. 28, 264–278.
+Carlén, M., Meletis, K., Barnabé-Heider, F., and Frisén, J. (2006). Genetic visu-
+alization of neurogenesis. Exp. Cell Res. 312, 2851–2859.
+Carlén, M., Meletis, K., Göritz, C., Darsalia, V., Evergren, E., Tanigaki, K.,
+Amendola, M., Barnabé-Heider, F., Yeung, M.S., Naldini, L., et al. (2009). Fore-
+brain ependymal cells are Notch-dependent and generate neuroblasts and
+astrocytes after stroke. Nat. Neurosci. 12, 259–267.
+Corti, S., Nizzardo, M., Nardini, M., Donadoni, C., Locatelli, F., Papadimitriou,
+D., Salani, S., Del Bo, R., Ghezzi, S., Strazzer, S., et al. (2007). Isolation and
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordadult mouse cerebral cortex. J. Neurosci. 28, 10434–10442.
+Dor, Y., and Melton, D.A. (2008). Facultative endocrine progenitor cells in the
+adult pancreas. Cell 132, 183–184.
+Dor, Y., Brown, J., Martinez, O.I., and Melton, D.A. (2004). Adult pancreatic
+beta-cells are formed by self-duplication rather than stem-cell differentiation.
+Nature 429, 41–46.
+Faulkner, J.R., Herrmann, J.E., Woo, M.J., Tansey, K.E., Doan, N.B., and So-
+froniew, M.V. (2004). Reactive astrocytes protect tissue and preserve function
+after spinal cord injury. J. Neurosci. 24, 2143–2155.
+Franklin, R.J., and Ffrench-Constant, C. (2008). Remyelination in the CNS:
+From biology to therapy. Nat. Rev. Neurosci. 9, 839–855.
+Frisén, J., Fried, K., Sjögren, A.M., and Risling, M. (1993). Growth of ascending
+spinal axons in CNS scar tissue. Int. J. Dev. Neurosci. 11, 461–475.
+Frisén, J., Johansson, C.B., Török, C., Risling, M., and Lendahl, U. (1995).
+Rapid, widespread, and longlasting induction of nestin contributes to the
+generation of glial scar tissue after CNS injury. J. Cell Biol. 131, 453–464.
+Grossman, S.D., Rosenberg, L.J., and Wrathall, J.R. (2001). Temporal-spatial
+pattern of acute neuronal and glial loss after spinal cord contusion. Exp. Neu-
+rol. 168, 273–282.
+Hofstetter, C.P., Holmström, N.A., Lilja, J.A., Schweinhardt, P., Hao, J.,
+Spenger, C., Wiesenfeld-Hallin, Z., Kurpad, S.N., Frisén, J., and Olson, L.
+(2005). Allodynia limits the usefulness of intraspinal neural stem cell grafts;
+directed differentiation improves outcome. Nat. Neurosci. 8, 346–353.
+Horky, L.L., Galimi, F., Gage, F.H., and Horner, P.J. (2006). Fate of endoge-
+nous stem/progenitor cells following spinal cord injury. J. Comp. Neurol.
+498, 525–538.
+Horner, P.J., Power, A.E., Kempermann, G., Kuhn, H.G., Palmer, T.D., Winkler,
+J., Thal, L.J., and Gage, F.H. (2000). Proliferation and differentiation of progen-
+itor cells throughout the intact adult rat spinal cord. J. Neurosci. 20, 2218–2228.
+Ito, M., Liu, Y., Yang, Z., Nguyen, J., Liang, F., Morris, R.J., and Cotsarelis, G.
+(2005). Stem cells in the hair follicle bulge contribute to wound repair but not to
+homeostasis of the epidermis. Nat. Med. 11, 1351–1354.
+Johansson, C.B., Momma, S., Clarke, D.L., Risling, M., Lendahl, U., and
+Frisén, J. (1999). Identification of a neural stem cell in the adult mammalian
+central nervous system. Cell 96, 25–34.
+Keirstead, H.S., and Blakemore, W.F. (1997). Identification of post-mitotic
+oligodendrocytes incapable of remyelination within the demyelinated adult
+spinal cord. J. Neuropathol. Exp. Neurol. 56, 1191–1201.
+Kunzelmann, P., Schröder, W., Traub, O., Steinhäuser, C., Dermietzel, R., and
+Willecke, K. (1999). Late onset and increasing expression of the gap junction
+protein connexin30 in adult murine brain and long-term cultured astrocytes.
+Glia 25, 111–119.
+Levy, V., Lindon, C., Harfe, B.D., and Morgan, B.A. (2005). Distinct stem cell
+populations regenerate the follicle and interfollicular epidermis. Dev. Cell 9,
+855–861.
+Lytle, J.M., and Wrathall, J.R. (2007). Glial cell loss, proliferation and replace-
+ment in the contused murine spinal cord. Eur. J. Neurosci. 25, 1711–1724.
+Martens, D.J., Seaberg, R.M., and van der Kooy, D. (2002). In vivo infusions of
+exogenous growth factors into the fourth ventricle of the adult mouse brain
+increase the proliferation of neural progenitors around the fourth ventricle
+and the central canal of the spinal cord. Eur. J. Neurosci. 16, 1045–1057.
+Masahira, N., Takebayashi, H., Ono, K., Watanabe, K., Ding, L., Furusho, M.,
+Ogawa, Y., Nabeshima, Y., Alvarez-Buylla, A., Shimizu, K., and Ikenaka, K.
+(2006). Olig2-positive progenitors in the embryonic spinal cord give rise not
+only to motoneurons and oligodendrocytes, but also to a subset of astrocytes
+and ependymal cells. Dev. Biol. 293, 358–369.
+McDonald, J.W., and Belegu, V. (2006). Demyelination and remyelination after
+spinal cord injury. J. Neurotrauma 23, 345–359.
+Meletis, K., Barnabé-Heider, F., Carlén, M., Evergren, E., Tomilin, N., Shuplia-
+kov, O., and Frisén, J. (2008). Spinal cord injury reveals multilineage differen-
+tiation of ependymal cells. PLoS Biol. 6, e182.
+Moreno-Manzano, V., Rodrı́guez-Jiménez, F.J., Garcı́a-Roselló, M., Laı́nez,
+S., Erceg, S., Calvo, M.T., Ronaghi, M., Lloret, M., Planells-Cases, R., Sán-
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cordchez-Puelles, J.M., and Stojkovic, M. (2009). Activated spinal cord ependymal
+stem cells rescue neurological function. Stem Cells 27, 733–743.
+Nagy, J.I., Patel, D., Ochalski, P.A., and Stelmack, G.L. (1999). Connexin30 in
+rodent, cat and human brain: Selective expression in gray matter astrocytes,
+co-localization with connexin43 at gap junctions and late developmental
+appearance. Neuroscience 88, 447–468.
+CNakagawa, T., Nabeshima, Y., and Yoshida, S. (2007). Functional identification
+of the actual and potential stem cell compartments in mouse spermatogen-
+esis. Dev. Cell 12, 195–206.
+Nashmi, R., and Fehlings, M.G. (2001). Mechanisms of axonal dysfunction
+after spinal cord injury: With an emphasis on the role of voltage-gated potas-
+sium channels. Brain Res. Brain Res. Rev. 38, 165–191.
+Nishiyama, A., Komitova, M., Suzuki, R., and Zhu, X. (2009). Polydendrocytes
+(NG2 cells): multifunctional cells with lineage plasticity. Nat. Rev. Neurosci. 10,
+9–22.
+Ohori, Y., Yamamoto, S., Nagao, M., Sugimori, M., Yamamoto, N., Nakamura,
+K., and Nakafuku, M. (2006). Growth factor treatment and genetic manipula-
+tion stimulate neurogenesis and oligodendrogenesis by endogenous neural
+progenitors in the injured adult spinal cord. J. Neurosci. 26, 11948–11960.
+Okada, S., Nakamura, M., Katoh, H., Miyao, T., Shimazaki, T., Ishii, K., Ya-
+mane, J., Yoshimura, A., Iwamoto, Y., Toyama, Y., and Okano, H. (2006).
+Conditional ablation of Stat3 or Socs3 discloses a dual role for reactive astro-
+cytes after spinal cord injury. Nat. Med. 12, 829–834.
+Pompolo, S., and Harley, V.R. (2001). Localisation of the SRY-related HMG
+box protein, SOX9, in rodent brain. Brain Res. 906, 143–148.
+Rash, J.E., Yasumura, T., Davidson, K.G., Furman, C.S., Dudek, F.E., and
+Nagy, J.I. (2001). Identification of cells expressing Cx43, Cx30, Cx26, Cx32
+and Cx36 in gap junctions of rat brain and spinal cord. Cell Commun. Adhes.
+8, 315–320.
+Reynolds, B.A., and Rietze, R.L. (2005). Neural stem cells and neurospheres—
+re-evaluating the relationship. Nat. Methods 2, 333–336.
+Rivers, L.E., Young, K.M., Rizzi, M., Jamen, F., Psachoulia, K., Wade, A., Kes-
+saris, N., and Richardson, W.D. (2008). PDGFRA/NG2 glia generate myelinat-
+ing oligodendrocytes and piriform projection neurons in adult mice. Nat. Neu-
+rosci. 11, 1392–1401.
+Robinson, S.P., Langan-Fahey, S.M., Johnson, D.A., and Jordan, V.C. (1991).
+Metabolites, pharmacodynamics, and pharmacokinetics of tamoxifen in rats
+and mice compared to the breast cancer patient. Drug Metab. Dispos. 19,
+36–43.
+Sellers, D.L., Maris, D.O., and Horner, P.J. (2009). Postinjury niches induce
+temporal shifts in progenitor fates to direct lesion repair after spinal cord injury.
+J. Neurosci. 29, 6722–6733.
+Shihabuddin, L.S., Ray, J., and Gage, F.H. (1997). FGF-2 is sufficient to
+isolate progenitors found in the adult mammalian spinal cord. Exp. Neurol.
+148, 577–586.
+Silver, J., and Miller, J.H. (2004). Regeneration beyond the glial scar. Nat. Rev.
+Neurosci. 5, 146–156.
+Simon, A., and Frisén, J. (2007). From stem cell to progenitor and back again.
+Cell 128, 825–826.
+Slezak, M., Göritz, C., Niemiec, A., Frisén, J., Chambon, P., Metzger, D., and
+Pfrieger, F.W. (2007). Transgenic mice for conditional gene manipulation in as-
+troglial cells. Glia 55, 1565–1576.
+Soriano, P. (1999). Generalized lacZ expression with the ROSA26 Cre reporter
+strain. Nat. Genet. 21, 70–71.
+Srinivas, S., Watanabe, T., Lin, C.S., William, C.M., Tanabe, Y., Jessell, T.M.,
+and Costantini, F. (2001). Cre reporter strains produced by targeted insertion
+of EYFP and ECFP into the ROSA26 locus. BMC Dev. Biol. 1, 4.
+Takebayashi, H., Nabeshima, Y., Yoshida, S., Chisaka, O., Ikenaka, K., and
+Nabeshima, Y. (2002). The basic helix-loop-helix factor olig2 is essential for
+the development of motoneuron and oligodendrocyte lineages. Curr. Biol.
+12, 1157–1163.
+Weiss, S., Dunne, C., Hewson, J., Wohl, C., Wheatley, M., Peterson, A.C., and
+Reynolds, B.A. (1996). Multipotent CNS stem cells are present in the adult
+mammalian spinal cord and ventricular neuroaxis. J. Neurosci. 16, 7599–7609.Wu, D., Shibuya, S., Miyamoto, O., Itano, T., and Yamamoto, T. (2005).
+Increase of NG2-positive cells associated with radial glia following traumatic
+spinal cord injury in adult rats. J. Neurocytol. 34, 459–469.
+Xu, Y., Kitada, M., Yamaguchi, M., Dezawa, M., and Ide, C. (2006). Increase in
+bFGF-responsive neural progenitor population following contusion injury of
+the adult rodent spinal cord. Neurosci. Lett. 397, 174–179.
+ell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc. 481
+Xu, X., D’Hoker, J., Stangé, G., Bonné, S., De Leu, N., Xiao, X., Van de Cas-
+teele, M., Mellitzer, G., Ling, Z., Pipeleers, D., et al. (2008). Beta cells can be
+generated from endogenous progenitors in injured adult mouse pancreas.
+Cell 132, 197–207.
+Yamamoto, S., Yamamoto, N., Kitamura, T., Nakamura, K., and Nakafuku, M.
+(2001). Proliferation of parenchymal neural progenitors in response to injury in
+the adult rat spinal cord. Exp. Neurol. 172, 115–127.
+Zhao, C., Deng, W., and Gage, F.H. (2008). Mechanisms and functional impli-
+cations of adult neurogenesis. Cell 132, 645–660.
+Zhu, X., Bergles, D.E., and Nishiyama, A. (2008a). NG2 cells generate both
+oligodendrocytes and gray matter astrocytes. Development 135, 145–157.
+Zhu, X., Hill, R.A., and Nishiyama, A. (2008b). NG2 cells generate oligodendro-
+cytes and gray matter astrocytes in the spinal cord. Neuron Glia Biol. 4, 19–26.
+Cell Stem Cell
+Origin of New Cells in the Adult Spinal Cord482 Cell Stem Cell 7, 470–482, October 8, 2010 ª2010 Elsevier Inc.

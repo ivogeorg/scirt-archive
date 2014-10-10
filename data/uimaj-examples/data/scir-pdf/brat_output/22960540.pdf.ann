@@ -1,0 +1,83 @@
+T1	Gene 2162 2177	trogen receptor
+T2	Gene 3141 3144	SCI
+T3	Gene 3553 3556	SCI
+T4	Gene 3946 3969	enforcement toArizona’s
+T5	Gene 5751 5770	Arizona’s sputterin
+T6	Gene 6380 6388	rom 1966
+T7	Gene 9048 9056	PLoS One
+T8	Gene 9251 9258	rol sec
+T9	Gene 9549 9573	Spine Trauma Study Group
+T10	Gene 12092 12094	ef
+T11	Gene 12705 12707	LE
+T12	Gene 12712 12719	nti-alp
+T13	Gene 12800 12802	JE
+T14	Gene 13188 13191	SCI
+T15	Gene 13993 14008	F1000 Med Rep 2
+T16	Gene 14551 14582	a386 www.SCIENCEDIRECT.comAllen
+T17	Gene 14870 14877	Rabin D
+T18	Gene 14887 14906	Cadotte D, Aarabi B
+T19	Gene 15251 15259	PLoS One
+T20	Gene 15521 15529	integrin
+T21	Gene 16489 16492	SCI
+T22	Gene 16821 16824	SCI
+T23	Gene 16905 16908	SCI
+T24	Gene 18135 18142	ier Inc
+T25	Gene 20013 20016	Cot
+T26	Gene 21120 21136	throughoutEurope
+T27	Gene 22475 22489	Spinal Implant
+T28	Species 12171 12175	tuna
+T29	Species 16912 16916	dogs
+T30	Species 17033 17038	human
+T31	InteractionKeyword 334 340	raised
+T32	InteractionKeyword 393 397	lead
+T33	InteractionKeyword 483 492	determine
+T34	InteractionKeyword 716 722	caused
+T35	InteractionKeyword 905 913	diminish
+T36	InteractionKeyword 1468 1476	produced
+T37	InteractionKeyword 1794 1803	resulting
+T38	InteractionKeyword 2082 2089	effects
+T39	InteractionKeyword 3150 3156	result
+T40	InteractionKeyword 3256 3265	attenuate
+T41	InteractionKeyword 3282 3288	effect
+T42	InteractionKeyword 4224 4228	lead
+T43	InteractionKeyword 4308 4317	expressed
+T44	InteractionKeyword 4460 4466	effect
+T45	InteractionKeyword 4493 4500	blocked
+T46	InteractionKeyword 4768 4776	regulate
+T47	InteractionKeyword 5551 5557	impact
+T48	InteractionKeyword 5714 5719	cause
+T49	InteractionKeyword 6403 6411	resulted
+T50	InteractionKeyword 6488 6495	results
+T51	InteractionKeyword 7168 7175	results
+T52	InteractionKeyword 7230 7236	linked
+T53	InteractionKeyword 7576 7585	attenuate
+T54	InteractionKeyword 7599 7607	reducing
+T55	InteractionKeyword 7717 7724	reduced
+T56	InteractionKeyword 7890 7897	depends
+T57	InteractionKeyword 8064 8074	controlled
+T58	InteractionKeyword 8983 8990	results
+T59	InteractionKeyword 9186 9190	lead
+T60	InteractionKeyword 9219 9226	results
+T61	InteractionKeyword 10588 10594	impact
+T62	InteractionKeyword 11502 11508	effect
+T63	InteractionKeyword 12064 12075	attenuating
+T64	InteractionKeyword 12291 12297	impact
+T65	InteractionKeyword 14138 14144	effect
+T66	InteractionKeyword 15195 15202	results
+T67	InteractionKeyword 15407 15414	respond
+T68	InteractionKeyword 15566 15572	effect
+T69	InteractionKeyword 15970 15976	impact
+T70	InteractionKeyword 16561 16568	effects
+T71	InteractionKeyword 17301 17308	results
+T72	InteractionKeyword 18164 18168	lead
+T73	InteractionKeyword 20248 20258	associated
+T74	InteractionKeyword 20281 20288	results
+T75	InteractionKeyword 20296 20305	triggered
+T76	InteractionKeyword 20682 20689	limited
+T77	InteractionKeyword 21026 21034	enhanced
+T78	InteractionKeyword 21296 21305	increased
+T79	InteractionKeyword 21689 21698	following
+R80	Partner1 Arg1:T59 Arg2:T8
+R81	Partner2 Arg1:T59 Arg2:T9
+R82	Partner1 Arg1:T70 Arg2:T21
+R83	Partner2 Arg1:T70 Arg2:T22

@@ -1,0 +1,285 @@
+T1	Gene 574 591	Berlin Heidelberg
+T2	Gene 1669 1672	RER
+T3	Gene 4960 4962	ER
+T4	Gene 4964 4967	RER
+T5	Gene 5194 5197	RER
+T6	Gene 5491 5504	MAtErIALs AND
+T7	Gene 6995 7018	goat anti-ribophorin II
+T8	Gene 7267 7291	mouse anti-KDEL-receptor
+T9	Gene 8560 8587	signal-recognition particle
+T10	Gene 8589 8592	SRP
+T11	Gene 8654 8657	SRP
+T12	Gene 8763 8766	SRP
+T13	Gene 9140 9143	SRP
+T14	Gene 9147 9150	RER
+T15	Gene 9772 9783	Fig. 1. srP
+T16	Gene 9835 9840	srP54
+T17	Gene 9883 9899	ribophorin II. b
+T18	Gene 9918 9923	TRAPα
+T19	Gene 9928 9941	ribophorin II
+T20	Gene 10043 10056	ribophorin II
+T21	Gene 10170 10173	PDI
+T22	Gene 10178 10183	Erp29
+T23	Gene 10230 10243	KDEL-receptor
+T24	Gene 10248 10253	Erp29
+T25	Gene 10302 10312	peripherin
+T26	Gene 10346 10349	srP
+T27	Gene 10351 10354	rEr
+T28	Gene 10356 10358	Er
+T29	Gene 10528 10530	Er
+T30	Gene 10532 10534	Er
+T31	Gene 10769 10803	Fig. 2. srP, Er and Golgi proteins
+T32	Gene 11082 11087	srP54
+T33	Gene 11093 11110	ribophorin II (b)
+T34	Gene 11112 11121	sErcA (c)
+T35	Gene 11123 11147	Erp29 (D), KDEL receptor
+T36	Gene 11464 11469	SRP54
+T37	Gene 11528 11541	ribophorin II
+T38	Gene 11700 11710	peripherin
+T39	Gene 11874 11887	ribophorin II
+T40	Gene 11962 11975	ribophorin II
+T41	Gene 12010 12030	calreticulin protein
+T42	Gene 12125 12148	chaperone protein ERp29
+T43	Gene 12181 12208	protein disulfide isomerase
+T44	Gene 12210 12213	PDI
+T45	Gene 12343 12356	KDEL receptor
+T46	Gene 12385 12414	shuttles resident ER proteins
+T47	Gene 12483 12496	KDEL receptor
+T48	Gene 12513 12523	peripherin
+T49	Gene 12561 12566	ERp29
+T50	Gene 12731 12742	ER proteins
+T51	Gene 12754 12767	KDEL receptor
+T52	Gene 13206 13216	peripherin
+T53	Gene 13221 13226	srP54
+T54	Gene 13228 13229	A
+T55	Gene 13324 13329	TGN38
+T56	Gene 13444 13447	srP
+T57	Gene 13449 13452	rEr
+T58	Gene 13454 13456	Er
+T59	Gene 13461 13475	Golgi proteins
+T60	Gene 13510 13515	srP54
+T61	Gene 13517 13530	ribophorin II
+T62	Gene 13532 13535	PDI
+T63	Gene 13537 13550	KDEL receptor
+T64	Gene 13556 13561	tGN38
+T65	Gene 13719 13729	peripherin
+T66	Gene 13974 13977	SRP
+T67	Gene 13978 13981	RER
+T68	Gene 14630 14633	RER
+T69	Gene 15071 15100	PNS axons synthesize proteins
+T70	Gene 15246 15274	neuronal membrane protein 35
+T71	Gene 15276 15281	NMP35
+T72	Gene 15585 15588	PNS
+T73	Gene 15618 15621	RER
+T74	Gene 16083 16086	SRP
+T75	Gene 16088 16091	RER
+T76	Gene 16144 16149	SRP54
+T77	Gene 16151 16164	ribophorin II
+T78	Gene 16166 16169	PDI
+T79	Gene 16171 16184	KDEL receptor
+T80	Gene 16747 16752	SRP54
+T81	Gene 16754 16767	ribophorin II
+T82	Gene 16770 16773	PDI
+T83	Gene 16775 16788	KDEL receptor
+T84	Gene 16794 16799	TGN38
+T85	Gene 17438 17441	RER
+T86	Gene 17483 17486	PNS
+T87	Gene 17516 17519	SRP
+T88	Gene 17521 17524	RER
+T89	Gene 18126 18135	L4–5 DRGs
+T90	Gene 18970 18986	importin β1 mRNA
+T91	Gene 19124 19129	actin
+T92	Gene 19134 19146	GAP-43 mRNAs
+T93	Gene 19567 19576	CGRP mRNA
+T94	Gene 19642 19646	CGRP
+T95	Gene 19733 19746	CGRP-receptor
+T96	Gene 19946 19951	NMP35
+T97	Gene 19952 19957	AcGFP
+T98	Gene 20213 20216	RER
+T99	Gene 20956 20978	GFP reporter transgene
+T100	Gene 21010 21015	3’UTR
+T101	Gene 21762 21776	axonal protein
+T102	Gene 22206 22208	KA
+T103	Gene 22210 22215	Yan J
+T104	Gene 22243 22246	NGF
+T105	Gene 22351 22356	eIF4F
+T106	Gene 23048 23053	Tu CH
+T107	Gene 23055 23064	Li Jeon N
+T108	Gene 23617 23634	Kelly TK, Chang B
+T109	Gene 23636 23648	Ryazantsev S
+T110	Gene 23897 23903	Lin AC
+T111	Gene 23905 23937	Lam JS, Vuppalanchi D, Willis DE
+T112	Gene 24139 24159	Xu M, Tep C, Jiang C
+T113	Gene 24161 24166	Yoo S
+T114	Gene 24200 24204	ZBP1
+T115	Gene 24992 24999	L4 mRNA
+T116	Gene 25158 25189	neural membrane protein 35 mrna
+T117	Gene 25454 25475	Annu Rev Biochem 2001
+T118	Gene 25586 25599	ribophorin II
+T119	Gene 25808 25835	Annu Rev Cell Dev Biol 1999
+T120	Gene 25903 25906	ins
+T121	Gene 25920 25932	calreticulin
+T122	Gene 26022 26040	Wang CC. Isomerase
+T123	Gene 26078 26097	disulfide isomerase
+T124	Gene 26284 26297	KDEL receptor
+T125	Gene 26412 26432	Xu M, Tep C, Jiang C
+T126	Gene 26434 26439	Yoo S
+T127	Gene 26473 26477	ZBP1
+T128	Gene 26763 26769	Kim HJ
+T129	Gene 26771 26778	Jeon NL
+T130	Gene 26780 26790	Schmidt EF
+T131	Gene 26792 26800	Heintz N
+T132	Gene 26999 27030	calcitonin gene-related peptide
+T133	Gene 27151 27160	Coleman J
+T134	Gene 27162 27192	Yoo S, Merianda TT, Yadhati AG
+T135	Gene 27264 27315	subcellular localization of chaperone protein mRNAs
+T136	Gene 27496 27507	axonal mRNA
+T137	Gene 27676 27686	beta-actin
+T138	Gene 27691 27697	GAP-43
+T139	Gene 27977 27991	transgene mRNA
+T140	Species 5382 5385	rat
+T141	Species 5526 5545	Sprague-Dawley rats
+T142	Species 5602 5606	rats
+T143	Species 6946 6951	mouse
+T144	Species 6995 6999	goat
+T145	Species 7050 7056	rabbit
+T146	Species 7125 7130	mouse
+T147	Species 7181 7187	rabbit
+T148	Species 7231 7236	mouse
+T149	Species 7267 7272	mouse
+T150	Species 7312 7317	mouse
+T151	Species 7371 7376	mouse
+T152	Species 7420 7426	rabbit
+T153	Species 7497 7504	chicken
+T154	Species 7547 7553	rabbit
+T155	Species 7661 7667	donkey
+T156	Species 7674 7679	mouse
+T157	Species 7686 7691	chick
+T158	Species 7701 7707	rabbit
+T159	Species 14850 14853	Rat
+T160	Species 20900 20905	mouse
+T161	Species 21384 21387	PVA
+T162	Species 22475 22493	pseudorabies virus
+T163	Species 23246 23249	rat
+T164	InteractionKeyword 806 816	facilitate
+T165	InteractionKeyword 921 931	facilitate
+T166	InteractionKeyword 1055 1062	complex
+T167	InteractionKeyword 1906 1915	increases
+T168	InteractionKeyword 2012 2021	increased
+T169	InteractionKeyword 2045 2054	targeting
+T170	InteractionKeyword 2872 2879	raising
+T171	InteractionKeyword 3114 3122	generate
+T172	InteractionKeyword 3466 3475	generated
+T173	InteractionKeyword 3485 3495	contribute
+T174	InteractionKeyword 3510 3519	signaling
+T175	InteractionKeyword 3718 3727	generated
+T176	InteractionKeyword 3785 3792	induces
+T177	InteractionKeyword 4000 4008	requires
+T178	InteractionKeyword 4128 4136	increase
+T179	InteractionKeyword 4944 4954	associated
+T180	InteractionKeyword 5463 5472	regulated
+T181	InteractionKeyword 6774 6781	blocked
+T182	InteractionKeyword 6820 6827	binding
+T183	InteractionKeyword 6914 6923	following
+T184	InteractionKeyword 8043 8049	signal
+T185	InteractionKeyword 8192 8198	signal
+T186	InteractionKeyword 8331 8339	targeted
+T187	InteractionKeyword 8403 8411	targeted
+T188	InteractionKeyword 8658 8668	recognizes
+T189	InteractionKeyword 8697 8706	targeting
+T190	InteractionKeyword 8730 8736	signal
+T191	InteractionKeyword 8781 8788	complex
+T192	InteractionKeyword 10289 10296	signals
+T193	InteractionKeyword 11070 11077	signals
+T194	InteractionKeyword 11199 11206	signals
+T195	InteractionKeyword 11567 11575	involved
+T196	InteractionKeyword 11664 11671	signals
+T197	InteractionKeyword 11711 11717	signal
+T198	InteractionKeyword 11832 11842	associated
+T199	InteractionKeyword 12524 12531	signals
+T200	InteractionKeyword 12993 13002	targeting
+T201	InteractionKeyword 13424 13431	signals
+T202	InteractionKeyword 13578 13587	increased
+T203	InteractionKeyword 14278 14284	target
+T204	InteractionKeyword 14475 14482	signals
+T205	InteractionKeyword 14610 14619	determine
+T206	InteractionKeyword 15183 15191	targeted
+T207	InteractionKeyword 15443 15452	increases
+T208	InteractionKeyword 15595 15602	trigger
+T209	InteractionKeyword 15603 15610	changes
+T210	InteractionKeyword 15694 15702	activate
+T211	InteractionKeyword 16009 16016	changes
+T212	InteractionKeyword 16242 16251	increased
+T213	InteractionKeyword 16373 16379	change
+T214	InteractionKeyword 16473 16480	signals
+T215	InteractionKeyword 16538 16547	increased
+T216	InteractionKeyword 16683 16690	signals
+T217	InteractionKeyword 16735 16743	increase
+T218	InteractionKeyword 17075 17083	triggers
+T219	InteractionKeyword 17143 17149	direct
+T220	InteractionKeyword 17177 17186	targeting
+T221	InteractionKeyword 18326 18333	complex
+T222	InteractionKeyword 18362 18366	link
+T223	InteractionKeyword 18413 18422	signaling
+T224	InteractionKeyword 18506 18512	alters
+T225	InteractionKeyword 18652 18659	require
+T226	InteractionKeyword 18697 18707	increasing
+T227	InteractionKeyword 19647 19655	triggers
+T228	InteractionKeyword 19704 19713	requiring
+T229	InteractionKeyword 19790 19796	effect
+T230	InteractionKeyword 19803 19810	require
+T231	InteractionKeyword 20151 20158	require
+T232	InteractionKeyword 20517 20527	increasing
+T233	InteractionKeyword 20931 20938	induced
+T234	InteractionKeyword 20979 20987	targeted
+T235	InteractionKeyword 21058 21067	determine
+T236	InteractionKeyword 22109 22118	regulates
+T237	InteractionKeyword 22261 22268	control
+T238	InteractionKeyword 22333 22342	signaling
+T239	InteractionKeyword 22357 22364	complex
+T240	InteractionKeyword 22509 22517	requires
+T241	InteractionKeyword 22711 22719	regulate
+T242	InteractionKeyword 22929 22938	regulated
+T243	InteractionKeyword 24640 24648	perturbs
+T244	InteractionKeyword 24667 24676	signaling
+T245	InteractionKeyword 24823 24829	signal
+T246	InteractionKeyword 24963 24970	control
+T247	InteractionKeyword 25003 25011	required
+T248	InteractionKeyword 25191 25200	increases
+T249	InteractionKeyword 25424 25430	signal
+T250	InteractionKeyword 25630 25638	involves
+T251	InteractionKeyword 26107 26115	required
+T252	InteractionKeyword 26298 26306	requires
+T253	InteractionKeyword 26704 26710	target
+T254	InteractionKeyword 27257 27263	direct
+T255	InteractionKeyword 27486 27495	regulates
+R256	Partner1 Arg1:T179 Arg2:T3
+R257	Partner2 Arg1:T179 Arg2:T4
+R258	Partner1 Arg1:T183 Arg2:T7
+R259	Partner2 Arg1:T183 Arg2:T8
+R260	Partner1 Arg1:T190 Arg2:T12
+R261	Partner2 Arg1:T190 Arg2:T11
+R262	Partner1 Arg1:T194 Arg2:T35
+R263	Partner2 Arg1:T194 Arg2:T32
+R264	Partner1 Arg1:T195 Arg2:T38
+R265	Partner2 Arg1:T195 Arg2:T36
+R266	Partner1 Arg1:T199 Arg2:T48
+R267	Partner2 Arg1:T199 Arg2:T49
+R268	Partner1 Arg1:T202 Arg2:T60
+R269	Partner2 Arg1:T202 Arg2:T57
+R270	Partner1 Arg1:T206 Arg2:T70
+R271	Partner2 Arg1:T206 Arg2:T71
+R272	Partner1 Arg1:T208 Arg2:T73
+R273	Partner2 Arg1:T208 Arg2:T72
+R274	Partner1 Arg1:T211 Arg2:T74
+R275	Partner2 Arg1:T211 Arg2:T75
+R276	Partner1 Arg1:T212 Arg2:T76
+R277	Partner2 Arg1:T212 Arg2:T77
+R278	Partner1 Arg1:T216 Arg2:T83
+R279	Partner2 Arg1:T216 Arg2:T80
+R280	Partner1 Arg1:T227 Arg2:T93
+R281	Partner2 Arg1:T227 Arg2:T94
+R282	Partner1 Arg1:T234 Arg2:T99
+R283	Partner2 Arg1:T234 Arg2:T100
+R284	Partner1 Arg1:T238 Arg2:T105
+R285	Partner2 Arg1:T238 Arg2:T104

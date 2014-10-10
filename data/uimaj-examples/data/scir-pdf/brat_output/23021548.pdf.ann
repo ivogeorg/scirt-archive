@@ -1,0 +1,156 @@
+T1	Gene 0 3	Zan
+T2	Gene 652 655	Tel
+T3	Gene 657 698	þ86 754 8890 0276, fax: þ86 754 8890 0236
+T4	Gene 981 984	SCI
+T5	Gene 3814 3817	Lin
+T6	Gene 4147 4158	Spinal Cord
+T7	Gene 4166 4169	Yan
+T8	Gene 4170 4173	Qin
+T9	Gene 6524 6533	 Singapor
+T10	Gene 6535 6544	 Singapor
+T11	Gene 6677 6690	 zebrafish SC
+T12	Gene 7126 7129	min
+T13	Gene 7420 7424	Fish
+T14	Gene 9908 9911	SCI
+T15	Gene 9915 9929	zebrafish. FeI
+T16	Gene 11334 11343	zebrafish
+T17	Gene 11576 11597	Step Problem Possible
+T18	Gene 13055 13062	Fig. 2F
+T19	Gene 13148 13151	SCI
+T20	Gene 13153 13160	Fig. 2G
+T21	Gene 13275 13280	Histo
+T22	Gene 13892 13897	PBS 3
+T23	Gene 14060 14065	PBS 3
+T24	Gene 14378 14381	rom
+T25	Gene 16426 16429	SCI
+T26	Gene 18066 18072	SCI is
+T27	Gene 18956 18959	SCI
+T28	Gene 19605 19608	SCI
+T29	Gene 20033 20035	Z1
+T30	Gene 21401 21404	SCI
+T31	Gene 21539 21542	SCI
+T32	Gene 21601 21604	SCI
+T33	Gene 22518 22531	zebrafish SCI
+T34	Gene 22859 22877	Dr. Stanley Li Lin
+T35	Gene 22975 22988	Drs. Yuji Guo
+T36	Gene 22993 23002	Liping Ma
+T37	Gene 23658 23664	Sox11b
+T38	Gene 26503 26511	miR-133b
+T39	Species 915 924	Zebrafish
+T40	Species 1007 1016	zebrafish
+T41	Species 1086 1095	zebrafish
+T42	Species 1397 1401	rats
+T43	Species 1406 1410	mice
+T44	Species 1577 1586	zebrafish
+T45	Species 1843 1852	zebrafish
+T46	Species 2057 2063	humans
+T47	Species 2078 2087	zebrafish
+T48	Species 2187 2196	zebrafish
+T49	Species 2428 2437	zebrafish
+T50	Species 2534 2543	zebrafish
+T51	Species 2971 2980	zebrafish
+T52	Species 3393 3402	zebrafish
+T53	Species 3554 3563	Zebrafish
+T54	Species 5290 5299	zebrafish
+T55	Species 5301 5312	Danio rerio
+T56	Species 6501 6510	Zebrafish
+T57	Species 6678 6687	zebrafish
+T58	Species 6780 6789	zebrafish
+T59	Species 7084 7093	zebrafish
+T60	Species 7439 7448	zebrafish
+T61	Species 7575 7584	zebrafish
+T62	Species 7742 7751	zebrafish
+T63	Species 9213 9222	zebrafish
+T64	Species 9667 9676	zebrafish
+T65	Species 9872 9875	ide
+T66	Species 9915 9924	zebrafish
+T67	Species 10976 10985	zebrafish
+T68	Species 11116 11125	zebrafish
+T69	Species 11143 11152	zebrafish
+T70	Species 11334 11343	zebrafish
+T71	Species 11714 11723	Zebrafish
+T72	Species 11743 11752	Zebrafish
+T73	Species 12232 12241	zebrafish
+T74	Species 12539 12548	zebrafish
+T75	Species 14338 14347	Zebrafish
+T76	Species 15165 15174	zebrafish
+T77	Species 15205 15214	zebrafish
+T78	Species 15697 15706	zebrafish
+T79	Species 17157 17166	zebrafish
+T80	Species 18046 18055	zebrafish
+T81	Species 18117 18126	Zebrafish
+T82	Species 18330 18339	zebrafish
+T83	Species 18940 18949	zebrafish
+T84	Species 20994 21003	zebrafish
+T85	Species 21368 21377	zebrafish
+T86	Species 21436 21445	zebrafish
+T87	Species 21512 21521	zebrafish
+T88	Species 21574 21583	zebrafish
+T89	Species 21648 21657	zebrafish
+T90	Species 21702 21711	zebrafish
+T91	Species 21982 21991	zebrafish
+T92	Species 22518 22527	zebrafish
+T93	Species 22642 22651	zebrafish
+T94	Species 22713 22722	zebrafish
+T95	Species 23121 23130	zebrafish
+T96	Species 23417 23426	zebrafish
+T97	Species 23714 23723	zebrafish
+T98	Species 23837 23846	zebrafish
+T99	Species 23984 23993	zebrafish
+T100	Species 24284 24288	mice
+T101	Species 24625 24638	rhesus monkey
+T102	Species 24864 24873	zebrafish
+T103	Species 25034 25043	zebrafish
+T104	Species 25260 25265	Human
+T105	Species 25360 25363	rat
+T106	Species 25579 25588	zebrafish
+T107	Species 25830 25839	zebrafish
+T108	Species 26320 26329	zebrafish
+T109	Species 26583 26592	zebrafish
+T110	InteractionKeyword 1256 1266	increasing
+T111	InteractionKeyword 1441 1450	involving
+T112	InteractionKeyword 3033 3041	followed
+T113	InteractionKeyword 3146 3155	correlate
+T114	InteractionKeyword 4922 4929	targets
+T115	InteractionKeyword 5392 5401	depending
+T116	InteractionKeyword 9201 9208	prevent
+T117	InteractionKeyword 9589 9596	reduced
+T118	InteractionKeyword 10534 10541	changed
+T119	InteractionKeyword 10791 10798	respond
+T120	InteractionKeyword 10858 10866	increase
+T121	InteractionKeyword 10896 10903	elevate
+T122	InteractionKeyword 11824 11831	signals
+T123	InteractionKeyword 13069 13078	following
+T124	InteractionKeyword 14777 14786	following
+T125	InteractionKeyword 14787 14794	results
+T126	InteractionKeyword 14951 14957	result
+T127	InteractionKeyword 15269 15278	influence
+T128	InteractionKeyword 15941 15950	following
+T129	InteractionKeyword 15987 15994	induced
+T130	InteractionKeyword 16150 16159	increased
+T131	InteractionKeyword 16554 16561	signals
+T132	InteractionKeyword 16581 16590	increased
+T133	InteractionKeyword 16968 16977	following
+T134	InteractionKeyword 17009 17016	control
+T135	InteractionKeyword 17415 17422	control
+T136	InteractionKeyword 17481 17488	control
+T137	InteractionKeyword 17668 17675	signals
+T138	InteractionKeyword 18056 18065	following
+T139	InteractionKeyword 18082 18092	influenced
+T140	InteractionKeyword 18220 18229	following
+T141	InteractionKeyword 18284 18293	increases
+T142	InteractionKeyword 18359 18369	determined
+T143	InteractionKeyword 18459 18467	changing
+T144	InteractionKeyword 19106 19114	decrease
+T145	InteractionKeyword 19834 19841	signals
+T146	InteractionKeyword 20202 20211	increased
+T147	InteractionKeyword 21936 21944	involved
+T148	InteractionKeyword 23668 23676	involved
+T149	InteractionKeyword 24212 24220	promotes
+T150	InteractionKeyword 24819 24825	signal
+T151	InteractionKeyword 25297 25304	promote
+T152	InteractionKeyword 25541 25548	effects
+T153	InteractionKeyword 25840 25849	following
+T154	InteractionKeyword 26258 26266	promotes
+R155	Partner1 Arg1:T123 Arg2:T20
+R156	Partner2 Arg1:T123 Arg2:T19

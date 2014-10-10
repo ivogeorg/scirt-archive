@@ -1,0 +1,931 @@
+Development/Plasticity/Repair
+Acid Fibroblast Growth Factor and Peripheral Nerve Grafts
+Regulate Th2 Cytokine Expression, Macrophage Activation,
+Polyamine Synthesis, and Neurotrophin Expression in
+Transected Rat Spinal Cords
+Huai-Sheng Kuo,1May-Jywan Tsai,1Ming-Chao Huang,1 Chuan-Wen Chiu,1 Ching-Yi Tsai,1Meng-Jen Lee,1,3
+Wen-Cheng Huang,1 Yi-Lo Lin,1Wen-Chun Kuo,1 and Henrich Cheng1,2,4,5
+1Neural Regeneration Laboratory and 2Center for Neural Regeneration, Department of Neurosurgery, Neurological Institute, Taipei Veterans General
+Hospital, Taipei, Taiwan, Republic of China, 3Graduate Institute of Biotechnology, Chaoyang University of Technology, Taichung, Taiwan, Republic of
+China, and 4Department and Institute of Pharmacology and 5Faculty of Medicine, National Yang-Ming University, Taipei, Taiwan, Republic of China
+Spinal cord injury elicits an inflammatory response that recruits macrophages to the injured spinal cord. Quantitative real-time PCR
+results have shown that a repair strategy combining peripheral nerve grafts with acidic fibroblast growth factor (aFGF) induced higher
+interleukin-4 (IL-4), IL-10, and IL-13 levels in the graft areas of rat spinal cords comparedwith transected spinal cords at 10 and14d. This
+led tohigher arginase I-positive alternatively activatedmacrophage (M2macrophage) responses. The gene expressionof several enzymes
+involved in polyamine biosynthesis pathways was also upregulated in the graft areas of repaired spinal cords. The treatment induced a
+twofold upregulation of polyamine levels at 14 d, as confirmed by HPLC. Polyamines are important for the repair process, as demon-
+strated by the observation that treatment with inhibitors of arginase I and ornithine decarboxylase attenuates the functional recoveries
+of repaired rats. After 14 d, the treatment also induced the expression of neurotrophin nerve growth factor (NGF) and brain-derived
+neurotrophic factor (BDNF), as well asM2macrophages within grafted nerves expressing BDNF. IL-4 was upregulated in the injury sites
+of transected rats that received aFGFalone comparedwith those that receivednerve grafts alone at 10d. Conversely, nerve graft treatment
+induced NGF and BDNF expression at 14 d. Macrophages expressing polyamines and BDNF may benefit axonal regeneration at 14 d.
+These results indicate that aFGF and nerve grafts regulate differentmacrophage responses, andM2macrophagesmay play an important
+role in axonal regeneration after spinal cord injury in rats.
+Introduction
+The failure of axons to regenerate following CNS trauma re-
+sults from decreased intrinsic properties of the neurons (Faw-
+cett, 1992; Park et al., 2008; Kadoya et al., 2009), the absence of
+neurotrophic factors (Markus et al., 2002), and the presence of
+inhibitory factors in the environment (Filbin, 2003). Spinal
+cord injury (SCI) elicits an inflammatory response that re-
+cruits macrophages to the injured spinal cord. Macrophages
+can remove myelin debris after injury and produce a mixture
+of growth factors, cytokines, and growth-promoting surface
+molecules (Fawcett and Keynes, 1990; Perry and Brown, 1992;
+Yin et al., 2006).
+The diversity of macrophage functions is endowed by unique
+cytokine stimuli (for review, see Gordon, 2003; Mantovani et al.,
+2004;Mosser and Edwards, 2008;Martinez et al., 2009; Varin and
+Gordon, 2009). The “classically activated” M1 macrophages re-
+spond to the proinflammatory cytokine interferon- (IFN-)
+and acquire the capacity for killing pathogens. M1 macrophages
+produce nitric oxide, proinflammatory cytokines, and matrix
+metalloproteinases, which cause tissue damage (Ueta et al., 1998)
+and axonal retraction (Busch et al., 2009). In contrast, the “alter-
+natively activated” M2 macrophages respond to interleukin-4
+(IL-4) and IL-13 and are involved in tissue repair. These macro-
+phages are relatively inept killers of intracellular pathogens
+(Rutschman et al., 2001). They produce several extracellular ma-
+trix proteins thatmay promote tissue remodeling and repair (Go-
+erdt and Orfanos, 1999; Gratchev et al., 2001). In addition, M2
+macrophages promote axonal growth and overcome inhibitory
+substrates (Kigerl et al., 2009). Reparative approaches usingmac-
+rophages implanted into the injured spinal cord have resulted in
+successful axonal regrowth or functional benefit (Rapalino et al.,
+1998; Knoller et al., 2005). Whether these cells aggravate second-
+ary injury or promote wound repair likely depends on the phe-
+notypes triggered by signals in the environment.
+Received May 17, 2010; revised Jan. 12, 2011; accepted Jan. 21, 2011.
+Thisworkwas supported byGrants V99S6-001 andV98S6-001 from the Taipei Veterans General Hospital (Taipei,
+Taiwan), Grants NSC 94-3112-B-075-002 and NSC 96-2628-B-010-002-MY3 from the National Science Council in
+Taiwan, and a grant from the Ministry of Education (Aim for the Top University Plan). We thank Ching Jung Chen,
+Dann-Ying Liou, Ya-Tzu Chen, and Wen-Chun Kuo for technical assistance. This work was assisted in part by the
+Division of Experimental Surgery of the Department of Surgery, Taipei Veterans General Hospital.
+Correspondence should be addressed to Henrich Cheng, Center for Neural Regeneration, Department of Neuro-
+surgery, Neurological Institute, Taipei Veterans General Hospital, No. 322 Shih-Pai Road, Sec. 2, Taipei, Taiwan 112.
+E-mail: hc_cheng@vghtpe.gov.tw.
+DOI:10.1523/JNEUROSCI.2592-10.2011
+Copyright © 2011 the authors 0270-6474/11/314137-11$15.00/0
+The Journal of Neuroscience, March 16, 2011 • 31(11):4137–4147 • 4137
+An SCI repair strategy using peripheral nerve grafts and acidic
+fibroblast growth factor (aFGF, FGF-1) improves hindlimb loco-
+motor function in spinal cord-transected rats (Cheng et al., 1996;
+Lee et al., 2002, 2004; Tsai et al., 2005). Repaired spinal cords
+induce the expression of the M2 macrophage marker arginase I
+(Arg I) 6–14 d after repair and recruited large numbers of M2
+macrophages to the graft area 10 d after repair (Kuo et al., 2007).
+These findings suggest that some molecular mechanisms trig-
+gered by the repair process in the early stage of spinal cord injury
+are important for modulating macrophage activation and pro-
+moting axonal regeneration. To determine how aFGF and pe-
+ripheral nerve grafts regulate macrophage functions, we used
+quantitative real-time PCR (Q-PCR) to analyze the expression of
+cytokines, macrophage markers, polyamine synthesis enzymes,
+and neurotrophins in spinal cords. Inhibitors of polyamine syn-
+thesis enzymes were used to evaluate the effect of polyamines on
+the functional recovery of rats in which spinal cord repair was
+performed. The individual effects of aFGF and nerve grafts on
+macrophage function were examined in spinal cord-transected
+rats that received either aFGF alone or nerve grafts alone.
+Materials andMethods
+Experimental animals
+Adult female Sprague Dawley (SD) rats (225–250 g) were used in this
+study. All procedures involving animals were approved by the Animals
+Committee of Taipei Veterans General Hospital. Surgical procedures,
+postoperative care, and monitoring have been described previously
+(Cheng et al., 1996, 1997; Kuo et al., 2007). The rats were separated into
+several groups: group N, normal rats (n  4); group T, spinal cord-
+transected rats (n 4), in which the spinal cords were completely tran-
+sected at T8 and 5 mm of spinal cord tissue was removed; and group R,
+spinal cord-transected rats that received an in vivo repair strategy devel-
+oped by Cheng (Cheng et al., 1996) (n 4–5). In the latter, autologous
+peripheral intercostal nerve segments combined with aFGF in a fibrin
+glue carrier were implanted to bridge the 5 mm gap in the transected
+spinal cords. The experimental designs for Groups N, T, and R are illus-
+trated in Figure 1A.
+Another three groups of experimental animals were used to evaluate
+the effect of fibrin glue, intercostal nerve grafts, and aFGF. Group U
+consisted of spinal cord-transected rats that received fibrin glue in the
+gap (n  4). Group I consisted of spinal cord-transected rats that re-
+ceived autologous peripheral intercostal nerve grafts in fibrin glue (n
+A
+E
+H I
+F G
+B C D
+Figure 1. The expression of cytokine IL-4, IL-10, and IL-13 is upregulated in the graft areas of repaired spinal cords. A, Group T, Normal rats (N ) whose spinal cords were completely transected
+at T8 and forwhom5mmof spinal cord tissuewas removed. Group R, Spinal cord-transected rats that received a repair strategy of nerve grafts combinedwith aFGF in fibrin glue. P, Proximal stump;
+L, graft area of groupRand lesion site of groupT; D, distal stump.B–F, Q-PCR results revealed that the expressionof TNF (C), IL-4 (D), IL-10 (E), and IL-13 (F )was transiently induced2dafter injury.
+In contrast, the graft areas of repaired spinal cords sustained the expression of these cytokines and IFN- (B). From 6 to 14 d, significantly higher IL-10 and IL-13 levels were found in repaired spinal
+cords comparedwith normal spinal cords, and the levels of IL-4, IL-10, and IL-13 increased in the graft areas of repaired spinal cords comparedwith injured spinal cords. #p 0.05, ##p 0.01 for
+group R or T comparedwith the normal group by Student’s t test. *p 0.05, **p 0.01 for group R comparedwith group T by Student’s t test. Determinations aremeans SEM from four to five
+experiments.G–I, IL-4 and IL-10 expressionwas increased in the stumps of 2 d repaired spinal cords comparedwith normal spinal cords. IL-10 expressionwas higher in the distal stumps of repaired
+spinal cords at 10–21d than in transected spinal cords, but IL-4 and IL-13 levelswere not increased in the stumps of repaired spinal cords comparedwith transected spinal cords. The levels in stumps
+were one-eighth of the levels in the graft areas at 10 d. *p 0.05 between the indicated groups by Student’s t test. Determinations are means SEM from four experiments.
+4138 • J. Neurosci., March 16, 2011 • 31(11):4137–4147 Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats
+4). Group F consisted of spinal cord-transected rats that received aFGF in
+fibrin glue (n  4). The experimental designs of group U, I, and F are
+illustrated in Figure 7A (see below).
+To study the effects of inhibiting polyamine biosynthesis, group R rats
+were treated with either N-hydroxy-nor-L-arginine (NOHA) (Calbio-
+chem, 10 M in fibrin glue), a competitive inhibitor of Arg I (n 4), or
+DL--difluoromethylornithine hydrochloride (DFMO) (Calbiochem, 10
+M in fibrin glue), an irreversible inhibitor of ornithine decarboxylase
+(ODC) (n 4).
+RNA isolation, reverse transcription, and quantitative real-time
+PCR analysis
+On specified days following injury, the rats received an overdose of so-
+dium pentobarbital. The procedure for collecting spinal cord tissues
+from experimental animals for RNA isolation is illustrated in Figures 1A
+and 7A. Samples designated “P” were collected from 1-cm-long spinal
+cord segments rostral to the injury sites, samples designated “L” were
+collected from the graft areas of repaired spinal cords or the lesion sites of
+injured spinal cords, and samples designated “D” were collected from
+1-cm-long spinal cord segments caudal to the injury sites. Total cellular
+RNA was extracted using TRIzol reagent (Invitrogen) according to the
+manufacturer’s instructions. First-strand cDNA synthesis was primed
+with oligo dT and then reverse-transcribed using Superscript Reverse
+Transcriptase (Invitrogen), as described previously (Ma et al., 2003).
+cDNA levels (n  4–5 per group) were quantified using primer pairs
+(Table 1) and a QuantiTect SYBR Green PCR kit (Qiagen) on a Light
+Cycler 480 (Roche Applied Science). Both ribosomal protein L13A
+(RPL13A) and -actin were used as reference genes in each set of reac-
+tions, and RPL13A was used as an internal control for normalization
+(Jesnowski et al., 2002; Tian et al., 2007). Melt curve analyses verified the
+formation of the single desired PCR product. Each sample was run in
+duplicate. The relative differences in expressions between groups were
+analyzed on the basis of cycle time values using the comparative thresh-
+old cycle (Ct) method (Livak and Schmittgen, 2001), in which Ct is the
+cycle exhibiting the first detectable increase in SYBRGreen fluorescence.
+The target gene quantity was normalized with a reference gene using the
+following formula: 2(Ct(target)  Ct(reference)).
+Determination of polyamine concentrations
+Spinal cord segments comprising a 1 cm rostral stump, the lesion site,
+and a 1 cm caudal stump were collected from transected and repaired
+spinal cords and weighed immediately (n  4 per group). The tissue
+was then homogenized in cold PBS containing 50% trichloroacetic
+acid. Extracted fluid-containing polyamines were derivatized with
+benzoyl chloride, as described previously (Morgan, 1998). The ben-
+zoylated polyamines were then separated and quantified by HPLC
+(Waters) with a reverse-phase (C18) column (Inertsil 7 ODS-3 4.6
+150 mm, Vercopak) and a UV detector (229 nm) at room tempera-
+ture. The solvent system was run isocratically using 60% (v/v) meth-
+anol and a flow rate of 0.4 ml/min. Standard curves were obtained by
+measuring a series of known amounts of each polyamine. Determina-
+tions used four experiments.
+Immunohistochemistry
+At the specified postinjury times, the rats received an overdose of
+sodium pentobarbital and were perfused intravascularly with 0.9%
+saline and 4% paraformaldehyde in PBS. The spinal cords were col-
+lected and prepared for histological evaluation as described previ-
+ously (Kuo et al., 2007). The primary antibodies used were as follows:
+rabbit anti-ionized calcium-binding adapter molecule-1 (Iba1) (1:
+500, Wako Chemicals); mouse anti-ED1 (1:1000, Serotec); goat anti-
+Arg I (1:1000, Santa Cruz Biotechnology Inc.); mouse anti-ODC (1:
+500, Sigma-Aldrich); rabbit anti-spermine (1:250, Millipore Bioscience
+Research Reagents); rabbit anti-spermidine (1:100, Abcam); chicken
+anti-brain-derived neurotrophic factor (BDNF) (1:100, R&D Systems);
+mouse anti-growth-associated protein 43 (GAP-43, 1:150, Invitrogen);
+rabbit anti-CD86 (1:200, Abcam); and goat anti-mannose receptor
+(CD206, 1:200, R&D Systems). The bound antibodies were visualized
+Table 1. Primers for real-time PCR
+Gene name GenBank accession number Sequence Amplicon length
+Interleukin-4 NM_201270 F 5CGTCACTGACTGTAGAGAGC 3 111 bp
+R 5GGGCTGTCGTTACATCCG 3
+Interleukin-10 NM_012854 F 5CACTGCTATGTTGCCTGCTCTTAC 3 102 bp
+R 5GGGTCTGGCTGACTGGGAAG 3
+Interleukin-13 NM_053828 F 5CTTGCCTTGGTGGTCTTG 3 111 bp
+R 5TCTTCTGGTCTTGTGTGATG 3
+Tumor necrosis factor NM_012675.3 F 5GCCGATTTGCCACTTCATAC 3 200 bp
+R 5GGACTCCGTGATGTCTAAGTAC 3
+Interferon NM_138880 F 5TCAGCAACAACATAAGTGTCATCG 3 193 bp
+R 5TTCCGCTTCCTTAGGCTAGATTC 3
+Arginase I NM_007482 F 5TTGATGTTGATGGACTGGAC 3 255 bp
+R 5TCTCTGGCTTATGATTACCTTC 3
+Agmatinase NM_001048185 F 5CGTCAATCTCTACAACCTTCAG 3 116 bp
+R 5GATATGTGATGGTATGGTCTCC 3
+Ornithine decarboxylase NM_012615.2 F 5CACTGTTGCTGCTGCTTCTAC 3 134 bp
+R 5CATCCTGCTCCTCCACTTCTG 3
+Spermidine synthase NM_053464 F 5CGTGGGCGATGGCTTTGAG 3 75 bp
+R 5GGGTCTGAGGAGTCGGTGATG 3
+Spermine synthase NM_001033899 F 5AGATGAAGTGGTGTATGACGAAGAC 3 196 bp
+R 5ATCGCCGCCTCCCAGAATC 3
+Nitric oxide synthase 2 NM_012611 F 5AAGAGACGCACAGGCAGAG 3 123 bp
+R 5CAGGCACACGCAATGATGG 3
+Nerve growth factor XM_227525.3 F 5AGCGTAATGTCCATGTTGTTCTAC 3 79 bp
+R 5TGCTATCTGTGTACGGTTCTGC 3
+Brain-derived neurotrophic factor NM_012513 F 5ATTAGGTGGCTTCATAGGAGAC 3 178 bp
+R 5GAACAGAACAGAACAGAACAGG 3
+Ribosomal protein L13A NM_173340 F 5AGGTGGTGGTTGTACGCTGTG 3 102 bp
+R 5GGTTGGTGTTCATCCGCTTTCG 3
+-Actin NM_031144 F 5ACTATCGGCAATGAGCGGTTCC 3 148 bp
+R 5CTGTGTTGGCATAGAGGTCTTTACG 3
+F, Forward; R, reverse.
+Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats J. Neurosci., March 16, 2011 • 31(11):4137–4147 • 4139
+using the avidin-biotin-peroxidase complex (Vectastain Elite ABC kit;
+Vector Laboratories Inc.) with appropriate chromagens. The secondary
+antibodies used for fluorescence microscopy were Alexa Fluor 488
+(AF488) (1:500, Invitrogen)-, AF594 (1:500, Invitrogen)-, and AF568
+(1:500, Invitrogen)-conjugated secondary antibodies. Photo imageswere
+taken from stained slides of sections with a Zeiss Axioscope microscope,
+and the imageswere collected and arranged inAdobe Photoshop. Immuno-
+fluorescently labeledM1 andM2macrophages were defined by CD86- and
+CD206-positive cells, respectively (Kigerl et al., 2009). The proportional ar-
+eas of cells expressing either M1 or M2 antigens were quantified by NIH
+ImageJ 1.44d software (Wayne Rasband, National Institutes of Health,
+Bethesda,MD) in four longitudinal sections in the graft areas of each 14 d
+repaired rat (n  3). Regenerating axons were identified by GAP-43
+immunoreactivity. GAP-43-positive areas were quantified by NIH Im-
+ageJ in four longitudinal sections in the graft areas of each 6 and 14 d
+repaired rat (n 3 per group).
+Axonal tracing
+Injections of recombinant adenoviruses result in specific and high-yield
+gene transfer into neurons and enable monitoring of retrograde trans-
+gene expression (Finiels et al., 1995; Han et al., 2005). Therefore,
+recombinant adenovirus carrying green fluorescence protein (Ad-
+GFP) was used to trace neurons, as described previously (Tsai et al.,
+2010a). Two weeks after repair surgery, each rat was anesthetized and
+received a laminectomy below the injury site. Ad-GFP (titer  10 6
+pfu) was injected slowly below the grafted areas (T9) of the spinal
+cords using a micromanipulator. Three days after the injection, each
+animal was deeply anesthetized and perfused intracardially. GFP ex-
+pression in the Ad-GFP-infected spinal cords was visualized using
+anti-mouse GFP (1:500, Abcam) coupled with Alexa Fluor488 donkey
+anti-mouse IgG (Invitrogen).
+Regenerating neurons were traced using cholerotoxin B (CTB)-HRP
+(Sigma-Aldrich), as described previously (Huang et al., 2009). Three
+months after repair surgery, rats were anesthetized and received laminec-
+tomies above the injury sites. CTB-HRP was injected above the grafted
+areas (T7) of the spinal cords. Two days after the injections, the animals
+were deeply anesthetizedwith sodiumpentobarbital and perfused intrac-
+ardially. The spinal cords from T6 to L3 were removed for cryostat sec-
+tioning. The sections underwent reaction with diaminobenzidine
+(Sigma-Aldrich) before microscopic examination. The morphologies of
+the spinal cords were microscopically examined and recorded.
+Cell cultures and treatments
+Mixed neuron-glial cultures. Mixed neuron-glial cultures were prepared
+from the cerebrocortical regions of embryonic SD rat fetuses at15–17
+d gestation, as described previously (Tsai et al., 2005, 2007, 2010b).
+Briefly, fetal cortexes were dissociated with mixtures of papain/protease/
+deoxyribonuclease I (0.1/0.1/0.03%) and plated onto poly-lysine-coated
+multiwell plates or insert wells (for cocultures). Cultures were main-
+tained in DMEM (Invitrogen) supplemented with N2 (Invitrogen, for
+serum-free condition) or with 10% fetal bovine serum (FBS) (Invitro-
+gen). The cells were incubated at 37°C in awater-saturated atmosphere of
+5% CO2/95% air.
+Microglial cultures. Microglial cultures were purified from confluent
+mixed glial cultures. Mixed glial cultures were prepared from the neona-
+tal cortical regions of SD rats as described previously (Tsai et al., 1996,
+1997). Briefly, mechanically dissociated cortical cells were maintained in
+DMEM supplemented with 10% FBS and incubated at 37°C in a water-
+saturated chamber. The medium was renewed every 2–3 d. Eight to 10 d
+later, microglial cells were collected using the shake-off method (McCar-
+thy and de Vellis, 1980) and replated onto multiwell plates. More than
+98% of the cells weremicroglia, as identified by positive immunoreactiv-
+ity for ED-1, a microglial marker.
+Mixed neuron-glial cultures were maintained in serum-free medium.
+Cells with or without 150 M hydrogen peroxide (H2O2) exposure were
+treated with 50 ng/ml aFGF (PeproTech), 20 M spermidine (Sigma-
+Aldrich), or 100 ng/ml BDNF (PeproTech) for 48 h. Cultures were then
+fixed with 4% paraformaldehye and processed for immunostaining.
+Neurons were stained with an antibody against the neuronal markerIII
+tubulin (1:500, Covance).
+For neuron-macrophage coculture, lipopolysaccharide (LPS) (Sigma-
+Aldrich)/IFN- (R&D Systems) or IL-4 (R&D Systems) were used to
+stimulate microglia differentiation into M1 or M2 phenotypes, respec-
+tively. LPS (0.5 g/ml) and IFN- (10 ng/ml) or IL-4 (10 ng/ml) were
+added to microglia cultures for 2 d. Then, mixed neuron-glial cultures
+were seeded in Transwell plates (Millicell, Millipore Corp.), transferred
+to microglia-seeded cultures (as cocultures), and further incubated for
+2 d. Microglial cells were stained for M1 [inducible nitric oxide synthase
+(iNOS), 1:400, BD Transduction Laboratories] andM2 (CD206)macro-
+phage markers, whereas Transwell cells were stained for III tubulin.
+Immunoreactivites were quantified with NIH ImageJ 1.44d software in
+three independent experiments.
+Behavioral evaluation
+The Basso, Beattie and Bresnehan (BBB) open field score was used to
+evaluate locomotion in terms of hindlimb functional improvement of
+the rats with spinal cord injuries (Basso et al., 1995). The BBB test was
+scored from 0 (no observable hindlimb movement) to 21 (normal hind
+movement) points. In this study, behavior analyseswere conducted every
+week postsurgery until 8 weeks (n  4 per group). The behavior tests
+were recorded by video camera, and the two examinerswere blind to each
+behavior evaluation group.
+Statistical analysis
+Statistical comparisons were performed using the two-tailed Student’s t
+test. p-values 0.05 were used to indicate statistically significant differ-
+ences between groups.
+Results
+Th2 cytokines andM2macrophages dominate the graft areas
+of repaired spinal cords
+To determine whether aFGF and peripheral nerve grafts provide
+environments that favor differentiation toward the M2 macro-
+phage phenotype in repaired spinal cords, we examined the ex-
+pression of Th1 and Th2 cytokines in spinal cord tissues using
+Q-PCR analysis. The expression of tumor necrosis factor 
+(TNF) and IL-10 displayed transient induction 2 d after injury
+and returned to a normal state after 6 d (Fig. 1C,E). In contrast,
+repaired spinal cords exhibited a second notable upregulation of
+all Th2 cytokine expressions after 10 d. At 10 and 14 d, signifi-
+cantly higher IL-4, IL-10, and IL-13 levels were found in the graft
+areas of repaired spinal cords compared with the normal group.
+Figure 2. M2 macrophages dominate within the graft areas of 14 d repaired spinal cords.
+Sections of 14d repaired spinal cordswere stained for CD86 (M1) andmannose receptor (CD206,
+M2). A large number of M2 macrophages were found in the grafted areas. Scale bar, 100m.
+Quantitation ofmacrophages expressingM1 andM2markers in the grafted areas revealed that
+therewere 74%M2macrophages in the grafted areas of 14 d repaired spinal cords ( p 0.001
+from three rats by Student’s t test).
+4140 • J. Neurosci., March 16, 2011 • 31(11):4137–4147 Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats
+In addition, all Th2 cytokines in the graft areas were higher than
+in injured spinal cords (Fig. 1D–F). This induction of Th2 cyto-
+kines was accompanied by a temporary upregulation of IFN-
+andTNF at 10 d (Fig. 1B,C). The upregulation of Th2 cytokines
+was prominent in the graft areas of 10 d repaired spinal cords,
+exhibiting levels in the graft areas that were approximately eight
+times higher than those obtained in the stumps (Fig. 1G–I).
+To determine whether an increase in Th2 cytokine secretion
+leads to anM2macrophage response in repaired spinal cords, the
+populations of M1 and M2 macrophages in 14 d repaired spinal
+cords were examined by immunostaining forM1 andM2 pheno-
+typic markers (CD86 and mannose receptors (CD206), respec-
+tively). Large numbers of M2 macrophages were found in the
+grafted areas of 14 d repaired spinal cords (Fig. 2). Quantitation
+of macrophages expressing M1 and M2 markers in the grafted
+areas revealed that there were 74% M2 macrophages in the
+grafted areas of 14 d repaired spinal cords.
+Next, we analyzed the expression of Arg I and iNOS. Q-PCR
+confirmed that the M2 macrophage marker Arg I was signifi-
+cantly higher in the graft areas of repaired spinal cords than in
+transected spinal cords from 6 to 21 d (Fig. 3B). Repaired spinal
+cords significantly upregulated the levels of Arg I, as opposed to
+theM1macrophagemarker iNOS (Fig. 3C). Immunohistochem-
+istry demonstrated a larger number of Arg I-positive cells in the
+graft areas of repaired spinal cords compared with transected
+spinal cords at 10 d postinjury (supplemental Fig. 1A,B, available
+at www.jneurosci.org as supplemental material). Arg I colocal-
+ized with the Iba1-positive macrophages (supplemental Fig. 1C,
+available at www.jneurosci.org as supplementalmaterial). Corre-
+spondingly, aFGF and peripheral nerve grafts provided environ-
+ments that induced Th2 cytokine expression and activated
+recruited macrophage differentiation toward the M2 phenotype.
+Upregulation of polyamine biosynthesis is necessary for
+functional recovery of spinal cord-repaired rats
+L-Arginine is the common enzymatic substrate of Arg I in M2
+macrophages and iNOS in M1 macrophages. Arg I hydrolyzes
+arginine into ornithine, the first building block in the synthesis of
+polyamines. Using Q-PCR, we analyzed the expression profiles
+for a set of enzymes involved in the polyamine biosynthesis path-
+way (Fig. 3A). In the graft areas, gene expression of Arg I, iNOS,
+and agmatinase (AGM) was upregulated after injury and repair.
+Arg I and AGM levels in group R were significantly higher than
+those in group T from 6 to 21 d and 14 to 21 d, respectively. The
+expression ofODC and spermidine synthase (SdS)were higher in
+group R at 14 d and 14–21 d, respectively (Fig. 3E,F). However,
+the expression of spermine synthase was decreased after injury
+(Fig. 3G). Therewas increased gene expression of theArg I/AGM/
+ODC/SdS pathway in the graft areas of repaired spinal cords.
+High levels of spermine immunoreactivities were also found in
+cells within the grafted nerves in the 10 d repaired spinal cords
+(supplemental Fig. 2A, available at www.jneurosci.org as supple-
+mental material). Immunofluorescent double labeling demon-
+strated that many macrophages within the grafted nerves were
+spermine-positive (supplemental Fig. 2B,D, available at www.
+jneurosci.org as supplemental material) and colocalized with Arg
+I (supplemental Fig. 2E,G, available at www.jneurosci.org as sup-
+plemental material) and ODC (supplemental Fig. 2H, J, available
+at www.jneurosci.org as supplemental material).
+A
+D E F G
+B C
+Figure3. TheexpressionsofM2macrophagemarkerArg I andpolyaminebiosynthesis enzymesareupregulated in thegraft areasof repaired spinal cords.A, Schematic drawing showing the roles
+of enzymes in the polyamine biosynthesis pathway. Primers for Arg I, AGM, ODC, SdS, spermine synthase (SmS), and iNOSwere used for Q-PCR analysis. B–G, Repaired spinal cords maintained the
+expression of theM2macrophagemarker Arg I (B) rather than theM1macrophagemarker iNOS (C). Gene expression of Arg I and AGM in the graft areas was increased after injury, and expressions
+in group Rwere significantly higher than in group T from 10 to 21 d. Gene expression of ODC, SdS, and SmS decreased after injury, but the expression of ODC and SdSwas higher in group R at 10 and
+14 d compared with group T. #p 0.05, ##p 0.01 of group R or T compared with the normal group by Student’s t test. *p 0.05, **p 0.01 of group R compared with group T by Student’s t
+test. Determinations are means SEM from four to five experiments.
+Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats J. Neurosci., March 16, 2011 • 31(11):4137–4147 • 4141
+Q-PCR and immunohistochemistry
+data suggest that the upregulation of
+polyamine biosynthesis enzymes in-
+creases the production of polyamines in
+repaired spinal cord tissue. HPLC anal-
+ysis of spinal cord polyamine levels con-
+firmed this hypothesis. There is a
+marked and rapid increase in polyamine
+putrescine after injury. The induction of
+putrescine in injured and repaired spi-
+nal cords peaked at 2 d and then de-
+clined. The accumulation of putrescine
+in repaired spinal cords was maintained
+and was significantly higher than in
+transected spinal cords after 10 d. The
+repair induced an2-fold upregulation
+of putrescine, spermidine, and sperm-
+ine levels at 14 d compared with the
+transected spinal cords (Fig. 4A–C).
+These data demonstrate that aFGF and
+peripheral nerve graft treatment in-
+duces polyamine enzyme expression
+and polyamine production in repaired
+spinal cords.
+Evaluation of locomotor recovery over
+an 8 week period demonstrated that the
+repair strategy provided better functional
+recovery among spinal cord-transected
+rats after 3 weeks (Fig. 4D). NOHA is a
+competitive inhibitor of Arg I, andDFMO
+is an irreversible inhibitor of ODC. Both
+are inhibitors of the polyamine synthesis
+pathway. To determine whether the improvement in locomotor
+recovery was dependent on this pathway, NOHA and DFMO
+were included in the fibrin glue when spinal cord-transected rats
+received aFGF and peripheral nerve grafts. NOHA- and DFMO-
+treated repaired rats exhibited slightly worse locomotor recovery
+at 3 weeks compared with the repaired animals. DFMO-treated
+animals exhibited significantly worse locomotor recovery after 7
+weeks (Fig. 4D). We did not evaluate behavioral assessment lon-
+ger than 8 weeks in this study, but in our previous studies, the
+motor function of repaired rats improved further from 6 to 12
+months (Cheng et al., 1996). This is evidence that the activities of
+Arg I and ODC are important for the functional recovery of spi-
+nal cord-repaired rats and that polyamines play an important role
+in the repair processes.
+BDNF and nerve growth factor are upregulated in the graft
+areas of repaired spinal cords
+Macrophages express neurotrophins of the nerve growth factor
+(NGF) gene family and contribute to nerve regeneration and
+repair after injury. The expression of NGF and BDNF was ana-
+lyzed by Q-PCR analysis. NGF expression was quickly upregu-
+lated after injury and repair at day 2 and was maintained at a
+higher level than in normal spinal cords to 21 d. In the repaired
+spinal cords, NGF levels were greater than in transected spinal
+cords at 14 and 21 d (Fig. 5A). BDNF expression was slightly
+decreased after injury and was significantly induced in the graft
+areas of repaired spinal cords at 14 and 21 d (Fig. 5B). High
+immunoreactivities of BDNF were found in the grafted nerves of
+repaired spinal cords. At 14 d, immunofluorescent staining of the
+grafted nerves of repaired spinal cords displayed Iba1-positive
+macrophages that were colocalized with BDNF immunoreactiv-
+ities (Fig. 5C). Arg I-positive M2 macrophages in grafted nerves
+also colocalized with BDNF (Fig. 5D).
+BDNF- and spermidine-expressing macrophages in the
+grafted nerves of spinal cords at 14 dmay promote axon
+regeneration
+Immunostaining ofGAP-43was used to determinewhetherBDNF-
+and polyamine-expressing macrophages benefit axon regeneration
+in repaired spinal cords. GAP-43-positive axons were mainly de-
+tected in the stumps but not in the grafted nerves of repaired spinal
+cords at 6 d (Fig. 6A). In contrast, a large number of GAP-43-
+positive axonswere found in the grafted nerves and ventral portions
+of the graft areas of repaired spinal cords at 14 d (Fig. 6B). Quanti-
+tation of proportional areas of GAP-43 immunoreactivity in the
+grafted areas of 6 and 14 d repaired spinal cords revealed that
+GAP-43 immunoreactivity in the grafted areas of 14 d repaired spi-
+nal cords was10 times that obtained at 6 d ( p 0.01 by Student’s
+t test). This increase in GAP-43 immunoreactivities at 14 d im-
+plies that these axons constitute regenerating axons rather
+than axons remaining in the grafted nerves. If this is the case,
+then axons grew into the grafted nerves and were surrounded
+by Iba1-positive macrophages (Fig. 6C). As mentioned above,
+macrophages in the grafted nerves expressed BDNF and poly-
+amines. Thus, axons seem to prefer the direction of the grafted
+nerves and to be accompanied by BDNF- and spermidine-
+expressing macrophages (Fig. 6D,E).
+Two weeks after repair, recombinant Ad-GFP was injected
+below the grafted areas (T9) of spinal cords and used to trace
+neurons. Several GFP-positive regenerating axons were found
+along the grafted nerves and approaching the rostral stumps (Fig.
+6F–J). CTB-HRP labeling was used to confirm the presence of
+A
+D
+B C
+Figure 4. Polyamines are upregulated in repaired spinal cords, but inhibition of polyamine synthesis attenuates functional
+recovery of repaired rats. A–C, Tissues composed of proximal stumps, graft areas, and distal stumps of repaired spinal cords and
+transected spinal cords were collected, and polyamines were extracted. There is a marked and rapid increase in putrescine levels
+after injury. Induction of putrescine in transected spinal cords peaked at 2 d and then declined. Accumulation of putrescine in
+repaired spinal cords was maintained after 10 d and was significantly higher than in transected spinal cords. At 14 d, spermidine
+and spermine levels in repaired spinal cordswere2-fold higher than those in transected spinal cords. #p 0.05, ##p 0.01 of
+group R or T compared with the normal group by Student’s t test. *p 0.05, **p 0.01 of group R compared with group T by
+Student’s t test. Determinations aremeans SEM from four to five experiments.D, Locomotor recoverieswere evaluated over an
+8week period, using a 21 point scale, in repaired rats (R), transected rats (T), Arg I inhibitor-treated repaired rats (NOHA), and ODC
+inhibitor-treated rats (DFMO). Both NOHA- and DFMO-treated repaired animals exhibited slightly worse locomotor recovery
+compared with repaired animals at 3 weeks. Furthermore, DFMO-treated animals exhibited worse locomotor recovery after 7
+weeks. *p 0.05 of group R compared with group T; #p 0.05 of group R compared with RDFMO by Student’s t test.
+Determinations are means SEM from four experiments.
+4142 • J. Neurosci., March 16, 2011 • 31(11):4137–4147 Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats
+the regenerating neurons. Three months after repair, CTB-HRP
+was injected above the grafted areas (T7) of the spinal cords. The
+presence of regenerating neurons was confirmed by the observa-
+tion of CTB-HRP-positive neurons in the dorsal horns of the
+lumbar areas of repaired spinal cords (Fig. 6K,L). In vitro results
+revealed increased immunoreactivities of III tubulin in rat em-
+bryonic cortical neurons cocultured withM2macrophages (sup-
+plemental Fig. 3, available at www.jneurosci.org as supplemental
+material). In addition, both aFGF and spermidine combinedwith
+BDNF promoted immunoreactivities of III in cortical neuron
+cultures (supplemental Fig. 4, available at www.jneurosci.org as
+supplemental material). Therefore, macrophages expressing
+polyamines and BDNF may benefit axonal regeneration.
+aFGF induces IL-4 andM2macrophage marker Arg I
+expression, whereas nerve grafts induce NGF and BDNF
+expression
+Our repair strategy used aFGF and peripheral nerve grafts in
+fibrin glue. To explore whether the upregulation of Th2 cyto-
+kines, the M2 marker Arg I, and neurotrophins is dependent on
+aFGF or nerve grafts, three additional groups of experimental
+animals were prepared. Group U consisted of spinal cord-
+transected rats that received fibrin glue in the lesion site, group F
+consisted of transected rats that received aFGF in fibrin glue, and
+group I consisted of transected rats that received peripheral in-
+tercostal nerve grafts in fibrin glue (Fig. 7A). Q-PCR analysis
+revealed that aFGF alone induced higher IL-4 expression at 10 d
+than nerve grafts alone (Fig. 7B). There was a trend toward an
+increase in IL-4 that correlated positively with the expression of
+M2 marker Arg I induced by aFGF treatment (Fig. 7B,G). In
+contrast, aFGF had no significant effect on the expressions of
+IFN-, TNF, and M1 marker iNOS (Fig. 7E,F,H). The same
+fibrin glue components were used in Groups R, U, F, and I, and
+these components may upregulate the levels of IL-10 and IL-13
+(Fig. 7C,D). Meanwhile, nerve grafts distinctly induced the ex-
+pression of NGF at 10 and 14 d compared with aFGF treatment
+alone (Fig. 7I). In addition, the upregulation of BDNF in the 14 d
+graft-treated spinal cords is consistent with the increase in re-
+paired spinal cords (Fig. 7I). Therefore, nerve grafts play an im-
+Figure 5. BDNF and NGF are upregulated in the graft areas of repaired spinal cords. A, NGF expressionwas upregulated after injury. After 6 d, the expressionwasmaintained at a high level from
+2 to 21 d after repair. B, BDNF expression rapidly decreased after injury. After 14 d, expression was significantly induced in the graft areas of repaired spinal cords. #p 0.05, ##p 0.01 of group
+R or T compared with the normal group by Student’s t test. *p 0.05, **p 0.01 of group R compared with group T by Student’s t test. Determinations are means SEM from four to five
+experiments. C,D, Strong immunofluorescence of BDNFwas found in the grafted nerves. Many Iba1-positivemacrophages (C) and Arg I-positiveM2macrophages (D) in graft areas of 14 d repaired
+spinal cords colocalized with BDNF immunoreactivity. High-power magnifications of the insets in C and D are shown. Individual double-labeled cells are indicated by arrows. Scale bar, 100m.
+Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats J. Neurosci., March 16, 2011 • 31(11):4137–4147 • 4143
+portant role in the upregulation of neurotrophins in repaired
+spinal cords after 10 d. Toward this end, these results indicate that
+aFGF and nerve grafts regulate IL-4 and neurotrophin expression
+independently and that a simultaneous full repair strategy pro-
+duces both beneficial effects.
+Discussion
+Our goal was to identify the cellular and molecular changes after
+peripheral nerve grafts and aFGF treatment that improve
+hindlimb locomotor function of spinal cord-transected rats. Pre-
+vious studies have demonstrated a variety of crucial functions of
+aFGF in the nervous system (Mason, 2007; Tsai et al., 2008), and
+intercostal nerve grafts have been implicated in redirecting spe-
+cific pathways fromwhite to graymatter (Cheng et al., 1996). The
+present study demonstrated that the repair strategy using both
+aFGF and nerve grafts modulates macrophage activation, poly-
+amine production, and neurotrophin expression, all of which are
+important for functional recovery. The Th status of SD rats after
+SCI is a mixed type of Th1 and Th2, and it is speculated that a
+systemic Th2 shift in the microenvironment would benefit CNS
+wound healing (Hendrix and Nitsch, 2007). In our full transec-
+tion rat model, TNF and IFN- levels were increased 10- and
+3.5-fold (compared to normal), respectively, 2 d after injury.
+However, the levels of Th2 cytokines and the M2 macrophage
+marker Arg I remained low after 6 d, indicating a tendency to-
+ward a Th1-type response in the injury site. These results are
+similar to previous findings in which microglial activation was
+observed to peak within the lesion site 3–7 d postinjury (Popov-
+ich et al., 1997; Batchelor et al., 2008) and a differentiation of M1
+macrophages is favored (Kigerl et al., 2009). In contrast to the
+transectionmodel, there is a remarkable second wave of immune
+response after repair, in which a delayed but persistent induction
+Figure 6. Regenerating axons grow into the grafted nerves of repaired spinal cords filled with BDNF- and spermidine-expressingmacrophages at 14 d. A, B, Longitudinal sections of 6 d (A) and
+14 d (B) repaired spinal cords are positioned so that the left side of the tissue is rostral to the lesion site. Sections were stained for GAP-43. Individual grafted nerves are indicated by asterisks. Scale
+bar, 1 mm. C–E, Many GAP-43-positive axons grow alone with Iba1-positive macrophages (C), BDNF-expressing macrophage (D), and spermidine-expressing macrophages (E) within the grafted
+nerves of repaired spinal cords at 14 d. Scale bar, 100m. F, Schematic representation of the recombinant Ad-GFP used to trace neurons. Two weeks after repair, Ad-GFP was injected into T9 of
+repaired spinal cords. G–J, There were several GFP-positive regenerating axons found along the grafted nerves and approaching the rostral stumps. Scale bar, 100m. K, L, Three months after
+repair, CTB-HRP was injected into T7 of repaired spinal cords. CTB-HRP-positive neurons were found in the dorsal horns of the lumbar areas of repaired spinal cords. Scale bar, 100m.
+4144 • J. Neurosci., March 16, 2011 • 31(11):4137–4147 Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats
+of Th2 cytokines was found. In addition, activated macrophages
+of theM2 phenotype were prominent around the lesion sites and
+graft areas in 10 d repaired spinal cords. A large number of M2
+macrophages still dominated the graft areas in 14 d repaired spi-
+nal cords. Together, this Th2 shift appears to be the result of
+increasedTh2 cytokine secretion, and this, in turn, leads to anM2
+macrophage response and corresponding increase in polyamine
+levels in repaired spinal cords.
+Previously, we proposed that aFGF may reduce neuronal cell
+death and inflammation after spinal cord injury (Tsai et al.,
+2008). In this study, we found that aFGF treatment induced Th2
+cytokine IL-4 expression 10 d after repair and sequential upregu-
+lation of the M2 marker Arg I. The regulation of IL-4 and IL-13
+and their main sources in the body are not well defined. T cells
+infiltrating the lesion site at 3–7 d may contribute to IL-4 expres-
+sion (Popovich et al., 1997; Sroga et al., 2003; Donnelly and Pop-
+ovich, 2008). Only two reports have shown that the combination
+of aFGF with anti-CD3 stimulates FGF receptor-1-positive T cell
+proliferation, but aFGF alone has no effect (Byrd et al., 1999,
+2003). There have been no previous reports indicating that aFGF
+regulates Th2 cytokine expression. Clearly, this mechanism re-
+quires further elucidation.
+Following spinal cord injury, the expression of BDNF mRNA
+was reported to dramatically increase (Donnelly and Popovich,
+2008), with microglia, macrophages, and monocytes likely con-
+tributing to the expression of BDNFwithin the injury site (Batch-
+elor et al., 1999; Dougherty et al., 2000; Ikeda et al., 2001;
+Batchelor et al., 2002; Bouhy et al., 2006). After 7 d, BDNF levels
+were reportedly lower, returning to normal levels (Ikeda et al.,
+2001). Our findings demonstrate a different way to regulate the
+expression of BDNF. Nerve grafts and full repair induced signif-
+icantly higher levels of BDNF at 14 and 21 d, and BDNF was
+mainly expressed by macrophages within grafted nerves. Previ-
+ously, we found large numbers of activated macrophages in the
+injury sites of repaired spinal cords after 10 d, and those numbers
+remained high for 28 d (Lee et al., 2008). A portion of these
+recruited macrophages are likely bone marrow-derived mono-
+cytes infiltrating the injury site after 7 d (Popovich and Hickey,
+2001). When monocyte-derived macrophages interact with pe-
+ripheral nerves for 1 d, they express high levels of BDNF in vitro
+(Shibata et al., 2003). It is difficult to distinguish resident micro-
+glia from infiltrating monocytes. Thus, BDNF-expressing mac-
+rophages in grafted nervesmay bemonocytes infiltrating after 7 d
+or microglia andmonocytes that require time to migrate into the
+A B C D
+E
+I J
+F G H
+Figure 7. aFGF induces IL-4 and M2macrophage marker Arg I expression, and nerve grafts induce BDNF and NGF expression. A, Group R consisted of spinal cord-transected rats that received a
+repair strategy of a nerve graft combinedwith aFGF in fibrin glue, group U consisted of transected rats that received fibrin glue, group F consisted of transected rats that received aFGF in fibrin glue,
+and group I consisted of transected rats that received peripheral intercostal nerve grafts in fibrin glue. B–J, Q-PCR analysis for cytokine (B–F ), M1 and M2 macrophage marker (G, H ), and
+neurotrophin (I, J ) expression in the lesion sites of SCI rats. *p 0.05, **p 0.01, ***p 0.001 between the indicated groups by Student’s t test. Determinations are means SEM from four
+experiments.
+Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats J. Neurosci., March 16, 2011 • 31(11):4137–4147 • 4145
+grafted nerves, with unknown factors subsequently triggering
+them to express BDNF.
+aFGF and nerve grafts triggered the expression of several key
+factors in the injury sites that can promote neuronal survival and
+regeneration. First, increasing Th2 cytokine levels in repaired spi-
+nal cords provides beneficial effects after injury. Adenoviral-
+mediated IL-4 or IL-10 expression enhances the survival of
+axotomized retinal ganglion cells through the inhibition of NO
+synthesis (Koeberle et al., 2004). Th2 cells promote facial mo-
+toneuron survival after facial nerve axotomy, but a reduced sur-
+vival rate has been reported in IL-4 knock-outmice (Deboy et al.,
+2006).More severe secondary inflammatory responses have been
+reported in IL-10 knock-out mice, resulting in worse functional
+recovery after spinal cord compression (Genovese et al., 2009).
+Moreover, treatment of contused rat spinal cords with IL-10 re-
+portedly improves motor function recovery (Bethea et al., 1999).
+In addition to the known anti-inflammatory effects, IL-10 di-
+rectly activates the PI3K/AKT pathway of cultured spinal cord
+neurons andprovides a neuroprotective effect (Zhou et al., 2009).
+Furthermore, the expression of IL-10 by infiltrating monocyte-
+derived macrophages promotes the functional recovery of con-
+tused spinal cords in mice (Shechter et al., 2009).
+Polyamines are important for axon regeneration. Treatment
+of cultured neurons with putrescine alone overcomes myelin-
+associated inhibition (Cai et al., 2002). Treatment with poly-
+amines also promotes axon regeneration in the peripheral nerves
+(Gilad et al., 1996). Another in vivo study reports that spermidine
+can promote optic nerve regeneration (Deng et al., 2009). After
+spinal cord injury of rats, M1 macrophages predominate in sites
+of trauma and exert neurotoxic effects, but the transientM2mac-
+rophage response promotes repair and axonal growth (Kigerl et
+al., 2009). Our in vitro studies revealed both coculture with M2
+macrophages and treatment with spermidine combined with
+BDNF promoted immunoreactivities of III in cortical neuron
+cultures. We found that high levels of polyamines were synthe-
+sized in repaired spinal cords and that spermines were detected in
+M2macrophages within the grafted nerves. Macrophages and/or
+monocytes infiltrating the injury sites after 6 d account for the
+increase in polyamine expression from 10 to 14 d, and GAP-43
+expression is very robust within the grafted nerves at the time Arg
+I and polyamines are upregulated. Neuronal regeneration was
+confirmed by neuron tracing results.We suggest that these axons
+may grow from neurons in the stumps and from the supraspinal
+centers. The collateral sprouting should increase the chances of
+forming new relay circuits or activating local propriospinal neu-
+rons to improve functional recovery. The inhibition of the poly-
+amine biosynthesis pathway appears to attenuate the functional
+recovery of repaired rats. Therefore, we speculate that poly-
+amines released by these macrophages play a pivotal role in ax-
+onal regeneration.
+In summary, our results indicate that aFGF induces IL-4 ex-
+pression and that nerve grafts induce NGF and BDNF expression
+in transected spinal cords. A full repair strategy simultaneously
+generates the beneficial effects of both aFGF and nerve grafts.
+These findings imply that M2 macrophages expressing poly-
+amines and BDNF play an important role in axonal regeneration.
+References
+Basso DM, Beattie MS, Bresnahan JC (1995) A sensitive and reliable loco-
+motor rating scale for open field testing in rats. J Neurotrauma 12:1–21.
+Batchelor PE, Liberatore GT, Wong JY, Porritt MJ, Frerichs F, Donnan GA,
+Howells DW (1999) Activated macrophages and microglia induce do-
+paminergic sprouting in the injured striatum and express brain-derived
+neurotrophic factor and glial cell line-derived neurotrophic factor. J Neu-
+rosci 19:1708–1716.
+Batchelor PE, Porritt MJ, Martinello P, Parish CL, Liberatore GT, Donnan
+GA, Howells DW (2002) Macrophages and microglia produce local
+trophic gradients that stimulate axonal sprouting toward but not beyond
+the wound edge. Mol Cell Neurosci 21:436–453.
+Batchelor PE, Tan S,Wills TE, Porritt MJ, Howells DW (2008) Comparison
+of inflammation in the brain and spinal cord followingmechanical injury.
+J Neurotrauma 25:1217–1225.
+Bethea JR, Nagashima H, Acosta MC, Briceno C, Gomez F, Marcillo AE,
+Loor K, Green J, Dietrich WD (1999) Systemically administered
+interleukin-10 reduces tumor necrosis factor-alpha production and
+significantly improves functional recovery following traumatic spinal
+cord injury in rats. J Neurotrauma 16:851–863.
+Bouhy D, Malgrange B, Multon S, Poirrier AL, Scholtes F, Schoenen J, Fran-
+zen R (2006) Delayed GM-CSF treatment stimulates axonal regenera-
+tion and functional recovery in paraplegic rats via an increased BDNF
+expression by endogenous macrophages. FASEB J 20:1239–1241.
+Busch SA, Horn KP, Silver DJ, Silver J (2009) Overcoming macrophage-
+mediated axonal dieback following CNS injury. J Neurosci 29:9967–9976.
+Byrd VM, Ballard DW, Miller GG, Thomas JW (1999) Fibroblast growth
+factor-1 (FGF-1) enhances IL-2 production and nuclear translocation of
+NF-kappa B in FGF receptor-bearing Jurkat T cells. J Immunol
+162:5853–5859.
+Byrd VM, Kilkenny DM, Dikov MM, Reich MB, Rocheleau JV, Armistead
+WJ, Thomas JW, Miller GG (2003) Fibroblast growth factor receptor-1
+interacts with the T-cell receptor signalling pathway. Immunol Cell Biol
+81:440–450.
+Cai D, Deng K, Mellado W, Lee J, Ratan RR, Filbin MT (2002) Arginase I
+and polyamines act downstream from cyclic AMP in overcoming inhibi-
+tion of axonal growth MAG and myelin in vitro. Neuron 35:711–719.
+Cheng H, Cao Y, Olson L (1996) Spinal cord repair in adult paraplegic rats:
+partial restoration of hind limb function. Science 273:510–513.
+Cheng H, Almström S, Giménez-Llort L, Chang R, Ove Ogren S, Hoffer B,
+Olson L (1997) Gait analysis of adult paraplegic rats after spinal cord
+repair. Exp Neurol 148:544–557.
+Deboy CA, Xin J, Byram SC, Serpe CJ, Sanders VM, Jones KJ (2006)
+Immune-mediated neuroprotection of axotomized mouse facial mo-
+toneurons is dependent on the IL-4/STAT6 signaling pathway in CD4T
+cells. Exp Neurol 201:212–224.
+Deng K, He H, Qiu J, Lorber B, Bryson JB, Filbin MT (2009) Increased
+synthesis of spermidine as a result of upregulation of arginase I promotes
+axonal regeneration in culture and in vivo. J Neurosci 29:9545–9552.
+Donnelly DJ, Popovich PG (2008) Inflammation and its role in neuropro-
+tection, axonal regeneration and functional recovery after spinal cord
+injury. Exp Neurol 209:378–388.
+Dougherty KD, Dreyfus CF, Black IB (2000) Brain-derived neurotrophic
+factor in astrocytes, oligodendrocytes, and microglia/macrophages after
+spinal cord injury. Neurobiol Dis 7:574–585.
+Fawcett JW (1992) Intrinsic neuronal determinants of regeneration. Trends
+Neurosci 15:5–8.
+Fawcett JW, Keynes RJ (1990) Peripheral nerve regeneration. Annu Rev
+Neurosci 13:43–60.
+FilbinMT (2003) Myelin-associated inhibitors of axonal regeneration in the
+adult mammalian CNS. Nat Rev Neurosci 4:703–713.
+Finiels F, Gimenez y Ribotta M, Barkats M, Samolyk ML, Robert JJ, Privat A,
+Revah F, Mallet J (1995) Specific and efficient gene transfer strategy of-
+fers new potentialities for the treatment of motor neurone diseases. Neu-
+roreport 7:373–378.
+GenoveseT,EspositoE,MazzonE,DiPaolaR,CaminitiR,BramantiP,CappelaniA,
+Cuzzocrea S (2009) Absence of endogenous interleukin-10 enhances second-
+ary inflammatoryprocess after spinal cord compression injury inmice. JNeuro-
+chem108:1360–1372.
+Gilad VH, Tetzlaff WG, Rabey JM, Gilad GM (1996) Accelerated recovery
+following polyamines and aminoguanidine treatment after facial nerve
+injury in rats. Brain Res 724:141–144.
+Goerdt S, Orfanos CE (1999) Other functions, other genes: alternative acti-
+vation of antigen-presenting cells. Immunity 10:137–142.
+Gordon S (2003) Alternative activation of macrophages. Nat Rev Immunol
+3:23–35.
+GratchevA,Guillot P,HakiyN, PolitzO,OrfanosCE, SchledzewskiK,Goerdt
+S (2001) Alternatively activated macrophages differentially express fi-
+4146 • J. Neurosci., March 16, 2011 • 31(11):4137–4147 Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats
+bronectin and its splice variants and the extracellular matrix protein
+betaIG-H3. Scand J Immunol 53:386–392.
+Han J, Zhang Y, ChenW, Song C (2005) Monitoring retrograde adenoviral
+transgene expression in spinal cord and anterograde labeling of the pe-
+ripheral nerves. Zhongguo Xiu Fu Chong JianWai Ke Za Zhi 19:215–220.
+Hendrix S,NitschR (2007) The role of T helper cells in neuroprotection and
+regeneration. J Neuroimmunol 184:100–112.
+Huang MC, Lo MJ, Lin YL, Chang SE, Huang WC, Kuo WC, Tsai MJ, Kuo
+HS, Shih YH, Cheng H (2009) Functional recovery after the repair of
+transected cervical roots in the chronic stage of injury. J Neurotrauma
+26:1795–1804.
+Ikeda O, Murakami M, Ino H, Yamazaki M, Nemoto T, Koda M, Nakayama
+C,Moriya H (2001) Acute up-regulation of brain-derived neurotrophic
+factor expression resulting from experimentally induced injury in the rat
+spinal cord. Acta Neuropathol 102:239–245.
+Jesnowski R, Backhaus C, Ringel J, Löhr M (2002) Ribosomal highly basic
+23-kDa protein as a reliable standard for gene expression analysis. Pan-
+creatology 2:421–424.
+Kadoya K, Tsukada S, Lu P, Coppola G, Geschwind D, Filbin MT, Blesch A,
+Tuszynski MH (2009) Combined intrinsic and extrinsic neuronal
+mechanisms facilitate bridging axonal regeneration one year after spinal
+cord injury. Neuron 64:165–172.
+Kigerl KA, Gensel JC, Ankeny DP, Alexander JK, Donnelly DJ, Popovich PG
+(2009) Identification of two distinct macrophage subsets with divergent
+effects causing either neurotoxicity or regeneration in the injured mouse
+spinal cord. J Neurosci 29:13435–13444.
+Knoller N, Auerbach G, Fulga V, Zelig G, Attias J, Bakimer R, Marder JB,
+Yoles E, Belkin M, Schwartz M, Hadani M (2005) Clinical experience
+using incubated autologous macrophages as a treatment for complete
+spinal cord injury: phase I study results. J Neurosurg Spine 3:173–181.
+Koeberle PD, Gauldie J, Ball AK (2004) Effects of adenoviral-mediated gene
+transfer of interleukin-10, interleukin-4, and transforming growth factor-
+beta on the survival of axotomized retinal ganglion cells. Neuroscience
+125:903–920.
+Kuo HS, Tsai MJ, Huang MC, Huang WC, Lee MJ, Kuo WC, You LH, Szeto
+KC, Tsai IL, Chang WC, Chiu CW, Ma H, Chak KF, Cheng H (2007)
+The combination of peripheral nerve grafts and acidic fibroblast growth
+factor enhances arginase I and polyamine spermine expression in tran-
+sected rat spinal cords. Biochem Biophys Res Commun 357:1–7.
+Lee MJ, Chen CJ, Cheng CH, Huang WC, Kuo HS, Wu JC, Tsai MJ, Huang
+MC,ChangWC,ChengH (2008) Combined treatment using peripheral
+nerve graft and FGF-1: changes to the glial environment and differential
+macrophage reaction in a complete transected spinal cord. Neurosci Lett
+433:163–169.
+Lee YS, Hsiao I, Lin VW (2002) Peripheral nerve grafts and aFGF restore
+partial hindlimb function in adult paraplegic rats. J Neurotrauma
+19:1203–1216.
+Lee YS, Lin CY, Robertson RT, Hsiao I, Lin VW (2004) Motor recovery and
+anatomical evidence of axonal regrowth in spinal cord-repaired adult
+rats. J Neuropathol Exp Neurol 63:233–245.
+Livak KJ, Schmittgen TD (2001) Analysis of relative gene expression data
+using real-time quantitative PCR and the 2(Delta Delta C(T)) Method.
+Methods 25:402–408.
+Ma H, Xu R, Cheng H, Kuo HS, During M, Fang RH (2003) Gene transfer
+into human keloid tissue with adeno-associated virus vector. J Trauma
+54:569–573.
+Mantovani A, Sica A, Sozzani S, Allavena P, Vecchi A, Locati M (2004) The
+chemokine system in diverse forms of macrophage activation and polar-
+ization. Trends Immunol 25:677–686.
+Markus A, Patel TD, Snider WD (2002) Neurotrophic factors and axonal
+growth. Curr Opin Neurobiol 12:523–531.
+Martinez FO, Helming L, Gordon S (2009) Alternative activation of macro-
+phages: an immunologic functional perspective. Annu Rev Immunol
+27:451–483.
+Mason I (2007) Initiation to end point: the multiple roles of fibroblast
+growth factors in neural development. Nat Rev Neurosci 8:583–596.
+McCarthy KD, de Vellis J (1980) Preparation of separate astroglial and oli-
+godendroglial cell cultures from rat cerebral tissue. J Cell Biol 85:890–902.
+Morgan DM (1998) Determination of polyamines as their benzoylated de-
+rivatives by HPLC. Methods Mol Biol 79:111–118.
+Mosser DM, Edwards JP (2008) Exploring the full spectrum of macrophage
+activation. Nat Rev Immunol 8:958–969.
+Park KK, Liu K, Hu Y, Smith PD, Wang C, Cai B, Xu B, Connolly L, Kramvis
+I, Sahin M, He Z (2008) Promoting axon regeneration in the adult CNS
+by modulation of the PTEN/mTOR pathway. Science 322:963–966.
+Perry VH, Brown MC (1992) Macrophages and nerve regeneration. Curr
+Opin Neurobiol 2:679–682.
+Popovich PG, Hickey WF (2001) Bone marrow chimeric rats reveal the
+unique distribution of resident and recruited macrophages in the con-
+tused rat spinal cord. J Neuropathol Exp Neurol 60:676–685.
+PopovichPG,Wei P, Stokes BT (1997) Cellular inflammatory response after
+spinal cord injury in Sprague-Dawley and Lewis rats. J Comp Neurol
+377:443–464.
+Rapalino O, Lazarov-Spiegler O, Agranov E, Velan GJ, Yoles E, Fraidakis M,
+SolomonA,Gepstein R, Katz A, BelkinM,HadaniM, SchwartzM (1998)
+Implantation of stimulated homologous macrophages results in partial
+recovery of paraplegic rats. Nat Med 4:814–821.
+Rutschman R, Lang R, Hesse M, Ihle JN, Wynn TA, Murray PJ (2001) Cut-
+ting edge: Stat6-dependent substrate depletion regulates nitric oxide pro-
+duction. J Immunol 166:2173–2177.
+Shechter R, London A, Varol C, Raposo C, Cusimano M, Yovel G, Rolls A,
+MackM, Pluchino S, Martino G, Jung S, Schwartz M (2009) Infiltrating
+blood-derived macrophages are vital cells playing an anti-inflammatory
+role in recovery from spinal cord injury in mice. Plos Med 6:e1000113.
+Shibata A, Zelivyanskaya M, Limoges J, Carlson KA, Gorantla S, Branecki C,
+Bishu S, XiongH,GendelmanHE (2003) Peripheral nerve inducesmac-
+rophage neurotrophic activities: regulation of neuronal process out-
+growth, intracellular signaling and synaptic function. J Neuroimmunol
+142:112–129.
+Sroga JM, Jones TB, Kigerl KA, McGaughy VM, Popovich PG (2003) Rats
+and mice exhibit distinct inflammatory reactions after spinal cord injury.
+J Comp Neurol 462:223–240.
+TianYF, ZhangPB,XiaoXL, Zhang JS, Zhao JJ, KangQY,ChenXL,Qiu F, Liu
+Y (2007) The quantification of ADAMTS expression in an animalmodel
+of cerebral ischemia using real-time PCR. Acta Anaesthesiol Scand
+51:158–164.
+TsaiMC, Shen LF, KuoHS, ChengH, ChakKF (2008) Involvement of aFGF
+in spinal cord injury repair processes revealed by a proteomic approach.
+Mol Cell Proteomics 7:1668–1687.
+Tsai MJ, Chang YF, Schwarcz R, Brookes N (1996) Characterization of
+L-alpha-aminoadipic acid transport in cultured rat astrocytes. Brain Res
+741:166–173.
+TsaiMJ, Goh CC,Wan YL, Chang C (1997) Metabolic alterations produced
+by 3-nitropropionic acid in rat striata and cultured astrocytes: quantita-
+tive in vitro H-1 nuclear magnetic resonance spectroscopy and biochem-
+ical characterization. Neuroscience 79:819–826.
+TsaiMJ, Shyue SK,WengCF, ChungY, LiouDY,HuangCT, KuoHS, LeeMJ,
+Chang PT, Huang MC, HuangWC, Liou KD, Cheng H (2005) Effect of
+enhanced prostacyclin synthesis by adenovirus-mediated transfer on li-
+popolysaccharide stimulation in neuron-glia cultures. Ann N Y Acad Sci
+1042:338–348.
+Tsai MJ, Weng CF, Shyue SK, Liou DY, Chen CH, Chiu CW, Yang TH, Pan
+HA, Liao RI, Kuo HS, Huang MC, Huang WC, Hoffer BJ, Cheng H
+(2007) Dual effect of adenovirus-mediated transfer of BMP7 in mixed
+neuron-glial cultures: neuroprotection and cellular differentiation.
+J Neurosci Res 85:2950–2959.
+Tsai MJ, Pan HA, Liou DY, Weng CF, Hoffer BJ, Cheng H (2010a) Adeno-
+viral gene transfer of bone morphogenetic protein-7 enhances functional
+recovery after sciatic nerve injury in rats. Gene Ther 17:1214–1224.
+Tsai MJ, Liao JF, Lin DY, Huang MC, Liou DY, Yang HC, Lee HJ, Chen YT,
+Chi CW, Huang WC, Cheng H (2010b) Silymarin protects spinal cord
+and cortical cells against oxidative stress and lipopolysaccharide stimula-
+tion. Neurochem Int 57:867–875.
+Ueta E, Yoneda K, Yamamoto T, Osaki T (1998) Influence of twinline, an
+elemental diet, on the generation of nitric oxide and reactive-oxygen in-
+termediates from mouse peritoneal macrophages and polymorphonu-
+clear leukocytes. J Pharm Pharmacol 50:935–942.
+Varin A, Gordon S (2009) Alternative activation of macrophages: Immune
+function and cellular biology. Immunobiology 214:630–641.
+Yin Y, Henzl MT, Lorber B, Nakazawa T, Thomas TT, Jiang F, Langer R,
+Benowitz LI (2006) Oncomodulin is a macrophage-derived signal for
+axon regeneration in retinal ganglion cells. Nat Neurosci 9:843–852.
+Zhou Z, Peng X, Insolera R, Fink DJ, Mata M (2009) Interleukin-10 pro-
+vides direct trophic support to neurons. J Neurochem 110:1617–1627.
+Kuo et al. • Regulation of M2 Macrophage Functions after SCI in Rats J. Neurosci., March 16, 2011 • 31(11):4137–4147 • 4147

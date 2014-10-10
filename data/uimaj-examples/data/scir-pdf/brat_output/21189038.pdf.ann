@@ -1,0 +1,229 @@
+T1	Gene 1282 1285	neu
+T2	Gene 2747 2769	humansOwith entire sec
+T3	Gene 6335 6338	SCI
+T4	Gene 7300 7303	neo
+T5	Gene 8660 8663	Fig
+T6	Gene 9411 9449	RADA16-I-BMHP1 self-assembling peptide
+T7	Gene 10833 10845	ECM proteins
+T8	Gene 10991 11022	nanostructured SAPs scaffolds30
+T9	Gene 11230 11243	SAP hydrogels
+T10	Gene 12609 12612	RIB
+T11	Gene 12613 12615	GF
+T12	Gene 12830 12833	RIB
+T13	Gene 12834 12840	GF SAP
+T14	Gene 13021 13027	fibrin
+T15	Gene 14168 14171	spi
+T16	Gene 14359 14366	laminin
+T17	Gene 14371 14382	collagen IV
+T18	Gene 14499 14506	Laminin
+T19	Gene 14566 14569	Fig
+T20	Gene 14588 14599	collagen IV
+T21	Gene 14736 14745	Anti-CD68
+T22	Gene 15212 15215	Fig
+T23	Gene 15371 15374	neo
+T24	Gene 15626 15631	Iba-1
+T25	Gene 15987 16000	GFAP-positive
+T26	Gene 16404 16409	GAP43
+T27	Gene 16767 16772	GAP43
+T28	Gene 16774 16785	III-tubulin
+T29	Gene 16888 16891	Fig
+T30	Gene 17034 17040	GAP-43
+T31	Gene 17325 17331	GAP-43
+T32	Gene 17349 17360	III-tubulin
+T33	Gene 17452 17473	NF200 and III-tubulin
+T34	Gene 17475 17476	p
+T35	Gene 17658 17664	GAP-43
+T36	Gene 17737 17742	GAP43
+T37	Gene 17929 17940	III-tubulin
+T38	Gene 17970 17994	antimyelin basic protein
+T39	Gene 17996 17999	MBP
+T40	Gene 18784 18791	laminin
+T41	Gene 18823 18827	CD68
+T42	Gene 18867 18878	collagen IV
+T43	Gene 19196 19200	GFAP
+T44	Gene 19748 19751	cau
+T45	Gene 20459 20464	GAP43
+T46	Gene 20786 20790	SAPs
+T47	Gene 20795 20798	GFs
+T48	Gene 20802 20805	com
+T49	Gene 20827 20831	SAPs
+T50	Gene 20873 20878	GAP43
+T51	Gene 20936 20939	com
+T52	Gene 21028 21031	neu
+T53	Gene 21196 21199	GFs
+T54	Gene 21201 21204	Fig
+T55	Gene 21463 21467	SAPs
+T56	Gene 21534 21537	neu
+T57	Gene 21646 21648	GF
+T58	Gene 22944 22950	GAP-43
+T59	Gene 23139 23165	tubulin positive fasciculi
+T60	Gene 23501 23506	GAP43
+T61	Gene 23508 23511	red
+T62	Gene 25228 25233	ANOVA
+T63	Gene 26766 26769	Fig
+T64	Gene 26790 26794	P1N1
+T65	Gene 29554 29557	sug
+T66	Gene 30536 30539	ner
+T67	Gene 31639 31642	com
+T68	Gene 33980 33994	RADA16-I-BMHP1
+T69	Gene 33996 34024	Ac-RADARADARADARADAGGPFSSTKT
+T70	Gene 34255 34262	HPLC pu
+T71	Gene 36287 36292	BMHP1
+T72	Gene 38354 38371	hematoxylin-eosin
+T73	Gene 38697 38721	antimyelin basic protein
+T74	Gene 38723 38726	MBP
+T75	Gene 38811 38817	GAP-43
+T76	Gene 38897 38901	P4HB
+T77	Gene 39114 39122	collagen
+T78	Gene 39202 39206	CD68
+T79	Gene 39238 39248	anti-Iba-I
+T80	Gene 39250 39254	Wako
+T81	Gene 39551 39558	tubulin
+T82	Gene 39579 39582	MBP
+T83	Gene 39688 39691	MBP
+T84	Gene 39746 39763	total III-tubulin
+T85	Gene 39831 39834	ani
+T86	Gene 40424 40432	L2L3 yel
+T87	Gene 40928 40931	sen
+T88	Gene 43129 43133	P1N1
+T89	Gene 44593 44595	S1
+T90	Gene 44600 44609	Supplemen
+T91	Gene 45266 45277	Spinal Cord
+T92	Gene 45392 45412	Cns Repair. Adv. Exp
+T93	Gene 45414 45417	Med
+T94	Gene 45901 45913	Abc Promotes
+T95	Gene 47998 48047	Extrinsic Neuronal Mechanisms Facilitate Bridging
+T96	Gene 49297 49302	Alpha
+T97	Gene 49342 49358	Adult Rat Spinal
+T98	Gene 49786 49789	Jin
+T99	Gene 51325 51344	Slow Release System
+T100	Gene 51606 51613	Tubulin
+T101	Gene 51618 51624	Gap-43
+T102	Gene 52964 52973	Pcl-Based
+T103	Gene 53336 53343	Laminin
+T104	Gene 53892 53906	Rabbit Central
+T105	Gene 54377 54404	Monoamine Membrane Receptor
+T106	Species 661 666	Human
+T107	Species 3863 3866	rat
+T108	Species 6494 6498	bers
+T109	Species 7888 7891	rat
+T110	Species 8308 8314	humans
+T111	Species 12232 12236	rats
+T112	Species 12387 12391	rats
+T113	Species 17790 17794	bers
+T114	Species 22862 22865	rat
+T115	Species 23552 23555	ber
+T116	Species 26442 26446	rats
+T117	Species 27145 27149	rats
+T118	Species 28262 28265	rat
+T119	Species 28652 28655	rat
+T120	Species 28932 28936	rats
+T121	Species 29370 29374	rats
+T122	Species 29460 29464	rats
+T123	Species 29520 29524	rats
+T124	Species 31328 31334	humans
+T125	Species 31753 31756	ume
+T126	Species 32840 32846	humans
+T127	Species 34770 34774	rats
+T128	Species 35727 35731	rats
+T129	Species 37438 37442	rats
+T130	Species 37874 37877	rat
+T131	Species 38046 38050	rats
+T132	Species 38137 38141	rats
+T133	Species 39968 39972	rats
+T134	Species 40100 40104	rats
+T135	Species 42050 42053	rat
+T136	Species 44842 44847	Human
+T137	Species 45175 45179	Rats
+T138	Species 47336 47342	Humans
+T139	Species 47807 47810	Rat
+T140	Species 48558 48562	Rats
+T141	Species 49348 49351	Rat
+T142	Species 51108 51113	Mouse
+T143	Species 52369 52374	Human
+T144	Species 52627 52630	Rat
+T145	Species 53892 53898	Rabbit
+T146	Species 54091 54094	Rat
+T147	InteractionKeyword 832 839	complex
+T148	InteractionKeyword 1458 1466	targeted
+T149	InteractionKeyword 1731 1739	required
+T150	InteractionKeyword 1768 1777	regulated
+T151	InteractionKeyword 2296 2303	produce
+T152	InteractionKeyword 2487 2496	modifying
+T153	InteractionKeyword 3060 3068	required
+T154	InteractionKeyword 4022 4028	formed
+T155	InteractionKeyword 4244 4255	accompanied
+T156	InteractionKeyword 4532 4537	leads
+T157	InteractionKeyword 5851 5858	results
+T158	InteractionKeyword 6007 6014	limited
+T159	InteractionKeyword 6883 6889	formed
+T160	InteractionKeyword 7005 7012	control
+T161	InteractionKeyword 8002 8011	following
+T162	InteractionKeyword 8700 8709	generated
+T163	InteractionKeyword 9527 9536	following
+T164	InteractionKeyword 9862 9871	depending
+T165	InteractionKeyword 10461 10469	decrease
+T166	InteractionKeyword 10482 10491	increases
+T167	InteractionKeyword 10623 10630	produce
+T168	InteractionKeyword 10823 10832	promoting
+T169	InteractionKeyword 11106 11115	producing
+T170	InteractionKeyword 11875 11881	effect
+T171	InteractionKeyword 14044 14053	degrading
+T172	InteractionKeyword 14278 14284	formed
+T173	InteractionKeyword 14859 14868	degrading
+T174	InteractionKeyword 17954 17964	associated
+T175	InteractionKeyword 19468 19482	phosphorylated
+T176	InteractionKeyword 19877 19883	formed
+T177	InteractionKeyword 20078 20087	degrading
+T178	InteractionKeyword 20994 20997	led
+T179	InteractionKeyword 21226 21231	leads
+T180	InteractionKeyword 21880 21887	effects
+T181	InteractionKeyword 25154 25160	effect
+T182	InteractionKeyword 25752 25758	effect
+T183	InteractionKeyword 25807 25813	effect
+T184	InteractionKeyword 26048 26054	effect
+T185	InteractionKeyword 26459 26465	effect
+T186	InteractionKeyword 26660 26666	effect
+T187	InteractionKeyword 26877 26883	change
+T188	InteractionKeyword 27242 27252	generating
+T189	InteractionKeyword 27512 27520	modulate
+T190	InteractionKeyword 28327 28334	control
+T191	InteractionKeyword 29148 29158	increasing
+T192	InteractionKeyword 29679 29685	caused
+T193	InteractionKeyword 29785 29793	increase
+T194	InteractionKeyword 30440 30448	resulted
+T195	InteractionKeyword 31318 31327	affecting
+T196	InteractionKeyword 32050 32058	required
+T197	InteractionKeyword 32703 32710	complex
+T198	InteractionKeyword 32775 32779	lead
+T199	InteractionKeyword 33480 33486	adhere
+T200	InteractionKeyword 34462 34471	involving
+T201	InteractionKeyword 34983 34993	disrupting
+T202	InteractionKeyword 35216 35225	requiring
+T203	InteractionKeyword 36312 36321	following
+T204	InteractionKeyword 36431 36439	involved
+T205	InteractionKeyword 36582 36591	promoting
+T206	InteractionKeyword 37227 37236	expressed
+T207	InteractionKeyword 38434 38443	following
+T208	InteractionKeyword 38579 38593	phosphorylated
+T209	InteractionKeyword 38792 38802	associated
+T210	InteractionKeyword 39713 39722	expressed
+T211	InteractionKeyword 39946 39952	formed
+T212	InteractionKeyword 40069 40075	formed
+T213	InteractionKeyword 40084 40091	control
+T214	InteractionKeyword 40574 40583	stimulate
+T215	InteractionKeyword 41713 41723	triggering
+T216	InteractionKeyword 41772 41779	induced
+T217	InteractionKeyword 42034 42041	control
+T218	InteractionKeyword 42150 42159	converted
+T219	InteractionKeyword 42685 42694	converted
+R220	Partner1 Arg1:T169 Arg2:T8
+R221	Partner2 Arg1:T169 Arg2:T9
+R222	Partner1 Arg1:T174 Arg2:T37
+R223	Partner2 Arg1:T174 Arg2:T38
+R224	Partner1 Arg1:T178 Arg2:T53
+R225	Partner2 Arg1:T178 Arg2:T54
+R226	Partner1 Arg1:T209 Arg2:T72
+R227	Partner2 Arg1:T209 Arg2:T79
+R228	Partner1 Arg1:T210 Arg2:T85
+R229	Partner2 Arg1:T210 Arg2:T83

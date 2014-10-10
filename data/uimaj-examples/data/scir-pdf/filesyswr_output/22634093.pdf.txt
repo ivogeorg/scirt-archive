@@ -1,0 +1,845 @@
+Drug-Eluting Microfibrous Patches for the Local Delivery of
+Rolipram in Spinal Cord Repair
+Timothy L. Downinga,b,f, Aijun Wangb,f,1, Zhi-Qiang Yanc, Yvette Noutd,2, Andy L. Leeb,
+Michael S. Beattied, Jacqueline C. Bresnahand, Diana L. Farmere, and Song Lia,b,*
+aUC Berkeley & UCSF Joint Graduate Program in Bioengineering, Berkeley/San Francisco, CA,
+USA
+bDepartment of Bioengineering, University of California, Berkeley, B108A Stanley Hall, Berkeley,
+CA 94720-1762, USA
+cInstitute of Mechanobiology & Medical Engineering, Shanghai Jiao Tong University, Shanghai,
+China
+dBrain and Spinal Injury Center, Department of Neurological Surgery, University of California, San
+Francisco, USA
+eDepartment of Surgery, University of California, Davis, School of Medicine, Sacramento, CA
+95817, USA
+Abstract
+Spinal cord injury (SCI) remains a major challenge for regenerative medicine. Following SCI,
+axon growth inhibitors and other inflammatory responses prevent functional recovery. Previous
+studies have demonstrated that rolipram, an anti-inflammatory and cyclic adenosine
+monophosphate preserving small molecule, improves spinal cord regeneration when delivered
+systemically. However, more recent studies showed that rolipram has some adverse effects in
+spinal cord repair. Here, we developed a drug-delivery platform for the local delivery of rolipram
+into the spinal cord. The potential of drug-eluting microfibrous patches for continuous delivery of
+high and low-dose rolipram concentrations was characterized in vitro. Following C5 hemisections,
+athymic rats were treated with patches loaded with low and high doses of rolipram. In general,
+animals treated with low-dose rolipram experienced greater functional and anatomical recovery
+relative to all other groups. Outcomes from the high-dose rolipram treatment were similar to those
+with no treatment. In addition, high-dose treated animals experienced reduced survival rates
+suggesting that systemic toxicity was reached. With the ability to control the release of drug
+dosage locally within the spinal cord, drug-eluting microfibrous patches demonstrate the
+importance of appropriate local release-kinetics of rolipram, proving their usefulness as a
+therapeutic platform for the study and repair of SCI.
+© 2012 Elsevier B.V. All rights reserved.
+*Corresponding address: Department of Bioengineering University of California, Berkeley B108A Stanley Hall, Berkeley, CA
+94720-1762 Telephone: (510) 666-2799 Fax: (510) 666-3381 song_li@berkeley.edu.
+1Present address: Department of Surgery, University of California, Davis, School of Medicine, Sacramento, CA 95817, USA
+2Present address: Department of Animal and Veterinary Sciences, College of Agriculture, California State Polytechnic University,
+Pomona, CA 91768, USA
+fT.L.D and A.W. contributed equally to this work.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH Public Access
+Author Manuscript
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+Published in final edited form as:
+J Control Release. 2012 August 10; 161(3): 910–917. doi:10.1016/j.jconrel.2012.05.034.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Keywords
+Scaffold; alginate; hydrogel; drug-delivery; spinal cord
+INTRODUCTION
+Spinal cord repair remains one of the biggest challenges for regenerative medicine. Recent
+studies have found that spinal cord injury (SCI) is over five times more prevalent than
+previously estimated, bringing the total number of people living with SCI to over one
+million in the United States alone [1] . In addition, as palliative care continues to advance,
+this number will continue to rise.
+Severe SCI is marked by a disruption in the ascending and descending axons of the spinal
+tracts. This disruption prevents vital communication between the brain and other parts of the
+body. Following injury, neural cells die – namely neurons and oligodendrocytes; molecules
+that are inhibitory to axon growth are secreted; and reactive astrocytes and infiltrating
+macrophages facilitate glial scar formation, leading to the physical and chemical impedance
+of axon growth [2-7]. These events are accompanied by active secondary degeneration of
+myelin tissues, causing additional losses in neural cell populations at or near the injury site
+[8, 9]. Together, these events cause paralysis and prevent natural recovery. Considering this,
+a successful regenerative strategy might require a combination of therapies that have
+independently been shown to mitigate the previously mentioned pathophysiologies. Before
+such a strategy can become a reality, however, the efficacy and safety of each individual
+therapy must be ensured.
+Previous research has demonstrated the therapeutic utility of small molecule drugs such as
+rolipram in spinal cord repair [7, 10]. With its anti-inflammatory [11, 12] and cyclic
+adenosine monophosphate preserving properties, rolipram has been shown to promote
+regeneration of new axons [13, 14], aid in the preservation of myelinated tissues [15],
+attenuate acute oligodendrocyte death [16, 17], reduce reactive gliosis and subsequent glial
+scar formation [14], and significantly improve functional recovery [13, 14, 17, 18] after SCI.
+However, more recent studies have presented data that leave the efficacy and safety of
+rolipram usage for spinal cord repair in question.
+A study led by Sharp et. al. was unable to replicate the beneficial effects observed through
+the subcutaneous (s.c.) delivery of rolipram in combination with the transplantation of
+Schwann cells as previously reported by Pearse et. al [19]. A second report also found little
+added functional recovery from the systemic delivery of rolipram with the transplantation of
+a glial restricted precursor cell population [20]. Interestingly, the latter report also suggested
+that the s.c. delivery of rolipram could lead to adverse effects locally within the spinal cord
+(e.g., increased death of transplanted cells) as well as systemically (e.g., increased body-
+weight loss and micturition peak frequencies). While others have reported the importance of
+the local concentration of rolipram within the spinal cord [14], the conflict surrounding
+rolipram usage for spinal cord repair remains largely unresolved.
+Several groups have utilized biodegradable scaffolds for many neural regeneration strategies
+[21-29]. Previously we have explored the use of natural materials [30] and synthetic
+scaffolds with and without drug-delivery for spinal cord regeneration [31, 32]. Electrospun
+nanofibrous patches, with rolipram immobilized to the surface via hydrophobic adsorption,
+showed anatomical as well as functional improvements after a T9-T11 level SCI. The direct
+combination of rolipram with the fibrous topography of patches was shown to increase axon
+growth through the membrane and in the lesion, promote angiogenesis through the
+Downing et al. Page 2
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+membrane, and decrease the population of astrocytes and chondroitin sulfate proteoglycans
+at the lesion [31]. However, with only the adsorption of rolipram onto fibrous patches via
+hydrophobic interactions, very little control over drug loading and subsequent release-
+kinetics was achieved. A new platform with greater control over the local delivery of small
+molecule drugs into the spinal cord would greatly assist in better understanding the effects
+of rolipram dosage in spinal cord repair, ultimately allowing for the development of more
+robust therapeutic strategies.
+MATERIALS AND METHODS
+Microfibrous Membrane Fabrication
+The assembly of drug-eluting microfibrous patches began with the fabrication of
+biodegradable microfibrous membranes. Electrospinning technology was employed for this
+purpose as previously described [25, 33]. Briefly, a polymer solution composed of 19% (w/
+v) poly(L-lactide), M.W. 85,000 – 160,000 (PLLA, Sigma) dissolved in 1-1-1,3-3-3
+hexafluoro-2-propanol (Matrix Scientific) was jetted from an electrically charged (12 kV)
+single-needle spinneret and collected onto a grounded rotating mandrel (800 RPM; 10 cm
+diameter). The electrospinning distance was fixed at 7 cm. Once formed, membranes where
+submerged in water at 65°C and mechanically stretched to further induce fiber alignment.
+For decontamination, membranes were submerged in 75% ethanol for 30 minutes and
+thoroughly washed in sterile PBS.
+The Assembly and Characterization of Drug-Eluting Microfibrous Patches
+PRONOVA™ Ultrapure LVM sodium alginate (NovaMatrix™; FMC BioPolymer) was
+used to form a thin hydrogel layer on top of microfibrous membranes. This hydrogel layer
+was used as a drug excipient for the local delivery of rolipram into the spinal cord.
+Removable polystyrene chamber gaskets were modified from Lab-Tek™ II Chamber
+Slide™ Systems (Thermo Scientific). Chamber gaskets were placed on top of microfibrous
+membranes and secured, creating a 2 cm by 2 cm well for hydrogel placement (Figure 1 A).
+Five-hundred microliters of a 2% (w/v) sodium alginate solution, dissolved in deionized
+(d.i.) water, was added to chamber wells and layered over each membrane surface. In order
+to obtain a flat and homogenously polymerized hydrogel, this sodium alginate layer was
+crosslinked using a calcium chloride-rich mist. Mist was produced via ultrasonic vibrations
+generated by a Nutramist™ 3-head fog module (FutureGarden™). Following crosslinking,
+newly formed alginate hydrogels were air-dried onto microfibrous membrane surfaces at
+37°C overnight and chamber gas kets were removed. This process helped to slow the elution
+of loaded drugs during rehydration [34] as well as reduce patch thickness for implantation.
+The microscale structure of drug-eluting microfibrous patches was resolved under high-
+powered scanning electron microscopy (SEM). Microfiber diameter typically ranged from
+500 nm to 1 m; however, fiber diameters up to 2 m were occasionally observed.
+Rolipram Loading Concentration and Drug-Release Profile
+Drug-eluting microfibrous patches were loaded with variable concentrations of rolipram. To
+do so, rolipram was first dissolved in DMSO (0.1 mg/ l) and then added to a larger volume
+of d.i. water. An equal volume of 4% sodium alginate was then added to rolipram solutions,
+bringing the final sodium alginate concentration to 2%. Final concentrations of rolipram
+were 25 (low-dose) and 500 (high-dose) g/ml. The final amounts of DMSO within hydrogels
+were ≤ 0.5% (vol/vol). To minimize the risk of contamination, patches were fabricated
+under sterile conditions in a laminar airflow hood. In addition, all materials and devices used
+were decontaminated with 70% ethanol and solutions were sterile-filtered through a 0.2 μm
+filter prior to use.
+Downing et al. Page 3
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+To obtain the release profiles of rolipram, drug-eluting microfibrous patches were made by
+using either 100 or 500 l of rolipram-loaded sodium alginate. After fabrication, patches were
+submerged in 0.5 ml of PBS and incubated at 37°C fo r up to 14 days. At selected time
+points (18 hours; 1.5, 3, 7, and 14 days) solution was withdrawn and the amount of rolipram
+in the withdrawn solution was determined via HPLC. From this information the total amount
+of released rolipram was calculated and release profiles were generated.
+Cervical Spinal Cord Hemisection and Subdural Patch Implantation
+All experimental procedures with animals were approved by the ACUC committee at UC
+Berkeley and were carried out according to the institutional guidelines. All efforts were
+made to minimize the number of animals used and their suffering. Adult female athymic rats
+(National Cancer Institute) weighing 170-243 g were used in all experiments. Four
+experimental groups were included: hemisection injury with (1) no patch or treatment
+(untreated), (2) empty drug-eluting microfibrous patch treatment (blank patch), (3) low-dose
+rolipram patch treatment (low-dose rolipram), and (4) high-dose rolipram patch treatment
+(high-dose rolipram).
+Drug-eluting microfibrous patches were implanted subdurally for the direct delivery of
+rolipram to the spinal cord. Laminectomies were performed on the fourth through sixth
+cervical vertebrae, exposing the spinal cord at the desired lesion site. The dura was opened
+with a single longitudinal incision approximately 0.5 cm in length. A fine scalpel blade was
+used to create spinal cord hemisection lesions moving outward starting from the midline.
+This lesion only caused damaged on the right side of the spinal cord. Each injury was
+inspected to ensure the complete severance of spinal cord tissues above and below the lesion
+site. Additional damage to the dura was avoided. Before implantation, patches were trimmed
+down to an appropriate size (0.5 cm by 0.3 cm). Patches were then carefully implanted
+underneath the dura, insuring that the hydrogel layer faced medially toward the injury site.
+The dura was then sutured closed over implanted patches using 9-0 sutures. Untreated
+animals received no additional therapy and the dura was closed immediately after
+hemisection. In all cases, the surgery site was closed in multiple layers.
+Forelimb Motor Assessment
+In order to assess the degree of animal functional motor recovery after cervical SCI we
+utilized the open-field forelimb recovery rating scale as previously described [35, 36].
+Briefly, at various time points post injury (2 day; 1, 2, 3, 4, 6, and 8 weeks) animals were
+placed in a circular foam-enclosed arena (100 cm diameter, 40 cm wall height) and scored.
+Scoring was separated into six major categories: articular movement of the shoulder (2),
+elbow (2), and wrist (2); stationary (2) and active (2) weight support; digit position (2);
+stepping (6); forelimb-hindlimb coordination (3); and tail position (1); (note: parenthesis
+denotes point totals for each category). Scores were summed to obtain an overall Martinez
+forelimb score (20 points max). All rats were scored over a 4 minute time window, and all
+scorers were blind to the animals’ experimental group. Open-field sessions were video
+recorded for score accuracy confirmation.
+Histopathology and Immunohistochemistry
+Eight weeks after spinal cord hemisections, animals were sacrificed and immediately
+perfused with 4% paraformaldedyde (PFA). The C2-C7 segment of rat spinal cords were
+explanted and kept in 4% PFA at 4°C for 24 hours and later cryoprotected in 30% sucrose in
+PBS. Cross sections of the spinal cord, through the lesion site, were cryosectioned (10 μm in
+thickness) for H&E (hematoxylin and eosin) staining and immunostaining. Spinal cord cross
+sections were immunostained for the following: neurofilament (NFM, rabbit polyclonal
+antibody, Sigma-Aldrich) to identify axons, myelin basic protein (MBP, rabbit polyclonal
+Downing et al. Page 4
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+antibody, Sigma-Aldrich) for oligodendrocyte myelin, and glial fibrillary acidic protein
+(GFAP, rabbit polyclonal antibody, Millipore) for reactive astrocytes. For chondroitin
+sulfate proteoglycan (CSPG, mouse monoclonal antibody, Sigma-Aldrich) identification,
+slides were kept in 10 mM sodium citrate buffer (pH 6.0) at 95-99°C for 10 minutes for
+antig en retrieval before the immunostaining procedure was performed. For fluorescence
+signal intensity quantification, multiple images within the lesion sites of animals from each
+group were captured and a threshold of intensity was defined to identify proteins of interest.
+ImageJ software was then used to calculate the average total pixels per image for NFM,
+MBP, GFPA and CSPG marker expression.
+Statistical Analysis
+All data are presented as mean ± standard deviation. Data from behavioral scores, where
+time and treatment vary, were analyzed using a two-way analysis of variance (ANOVA)
+with repeated measures. Differences between groups were determined using Tukey’s post-
+hoc test. A one-way ANOVA was used to analyze in vitro release profiles and average total
+pixel quantifications. Survival data were analyzed using a log-rank (Mantel-Cox) test where
+the survival curve of each treatment group was compared to that of untreated animals.
+Linear regression analysis was performed on animal weight loss over time to determine if
+slopes varied significantly from zero. For all cases, p-values less than 0.05 were considered
+statistically significant. GraphPad Prism® 5.0 software was used for all statistical
+evaluations.
+RESULTS
+Structure and Appearance of Drug-Eluting Microfibrous Patches
+We used electrospinning technology to produce biodegradable PLLA microfibrous
+membranes. Membranes were mechanically stretched to induce fiber alignment. After
+membranes were fabricated, a thin alginate hydrogel layer was formed on top. SEM revealed
+the intimate juxtaposition of the highly aligned microfibrous membrane and thin alginate
+hydrogel layer (Figure 1 B) – with fibers extending outward with respect to the plane of the
+captured image. Fluorescence microscopy confirmed the ability of drug-eluting microfibrous
+patches to encapsulate small fluorescent molecules (4′,6-diamidino-2-phenylindole, DAPI)
+within their thin hydrogel layer (Figure 1 C). Membrane thickness ranged from 50 – 100 m
+and the dried alginate hydrogel layer typically added an additional 5.3 m in thickness. After
+rehydration, hydrogel thickness was approximately 20 μm.
+Controlled Release of Rolipram from Drug-Eluting Microfibrous Patches
+Drug-eluting microfibrous patches were loaded with low-dose or high-dose concentrations
+of rolipram (3.1 and 62.5 g/cm2, respectively) and the subsequent in vitro release profiles
+were observed (Figure 2 A, B). The low-dose concentration of rolipram (in amount per unit
+area) was consistent with our previous SCI study where rolipram-loaded patches
+significantly enhanced spinal cord regeneration [31]. The high-dose concentration was
+chosen as an upper limit for drug loading capacity as to not compromise alginate’s gelation
+properties. As expected, high-dose rolipram patches delivered approximately 20 fold more
+drug than low-dose rolipram patches. It is important to note that nearly 10% of loaded
+rolipram remained unreleased in low-dose rolipram patches after 14 days, leaving the
+possibility of additional drug release. Release profiles showed drug-eluting microfibrous
+patches were capable of maintaining a significant release of rolipram beyond 1.5 days over a
+wide range of loading concentrations. Furthermore, low-dose rolipram patches exhibited an
+18-hour burst release of 38.7% while high-dose rolipram patches showed a burst release of
+65.6%. Both conditions demonstrated significant improvements over our previous drug-
+delivery platform which, through the passive adsorption of rolipram, displayed a 4-hour
+Downing et al. Page 5
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+burst release of over 90% [31]. It is also worth noting that patches retained residual amounts
+of their hydrogel layer after 12 days at 37°C in PBS. SEM reveals the structure of this
+residual hydrogel layer relative to the membrane’s bare surface (Figure 2 C, D,
+respectively).
+Effect of Local and Low-Dose Rolipram on Forelimb Recovery
+To assess the therapeutic utility of drug-eluting microfibrous patches for the study and repair
+of SCI, rats were subjected to a C5 hemisection lesion. Immediately after injury, animals
+were either left untreated or given one of three drug-eluting microfibrous patches: a blank
+patch; a low-dose rolipram patch, or a high-dose rolipram patch. Figure 3 illustrates the
+implantation of patches post SCI.
+In general, animals treated with empty patches experienced modest improvement over
+untreated animals. When animals were treated with low-dose rolipram patches we observed
+drastic improvements in functional outcomes. Specifically, Martinez forelimb open-field
+scores showed that animals treated with low-dose rolipram patches (n=3) score significantly
+higher, from weeks 1 through 4, 6 and 8, when compared to all other animals (Figure 4 A).
+In contrast, animals treated with patches loaded with 20 times more rolipram (high-dose
+rolipram; n=4) showed no significant differences with respect to untreated animals (n=4).
+Statistical significance of open-field score differences was assessed using a two-way
+ANOVA.
+Articular movement scores show early motor improvements for low-dose rolipram-treated
+animals. During the first week of this study, these animals displayed significantly more
+range-of-motion in forelimb joints (e.g., shoulder, elbow, and wrist). Figure 4 B shows
+animal forelimb articular movement scores at 2 day and 1 week time points. After 1 week,
+low-dose rolipram-treated animals scored significantly higher than all other groups. No
+other scores were significantly different.
+During week 8 of this study, animal forelimb-hindlimb coordination frequencies were
+observed (Figure 4 C). Sixty-seven and thirty-three percent of rats treated with low-dose
+rolipram patches experienced “consistent” and “frequent” coordination behaviors,
+respectively. Animals in other groups experienced no consistent coordination at all. Twenty-
+five percent of rats treated with empty patches (n=4) showed frequent coordination and
+another 50% showed “occasional” coordination, leaving 25% with no coordination.
+Untreated animals remained mostly (75%) uncoordinated. Animals treated with high-dose
+rolipram-loaded patches showed no coordination whatsoever.
+Effects of High-Dose Rolipram on Animal Survival
+At the completion of this study we reviewed animal survival data in an effort to assess
+overall animal health (Figure 4 D). Upon the recommendation of unbiased veterinary
+experts, animals were sacrificed for various health-related reasons. These included excessive
+weight-loss, self-mutilation, and poor general health. For untreated animals and animals
+treated with blank and low-dose rolipram patches, animal survival rates ranged from
+80-100%. Animals treated with high-dose rolipram patches showed a drastic drop off in
+survival rate (50%). Statistical analysis reveals that this survival curve is significantly
+(p<0.05) different than that of untreated animals. Although most animal deaths were
+sacrificial, one animal within the high-dose rolipram group was found deceased in its cage at
+week 6. There were no other cases where animal death was observed beyond the first week.
+To confirm this apparent increase in toxicity, we performed an analysis on animal weight
+loss over days 3 through 6 after SCI (Supplemental Figure 1). From this analysis, we
+Downing et al. Page 6
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+confirmed that high-dose treated animals continued to experience significantly (p<0.05)
+more weight loss within the first week.
+Gross Histopathology and Anatomical Improvement
+Eight weeks after initial injuries, rats were sacrificed and immunohistological analyses were
+performed on spinal cord tissues and patches. Spinal cord sections from each experimental
+group were stained for NFM (Figure 5 A-D), MBP (E-H), GFAP (Figure 6 A-D), and CSPG
+(E-H). Figures 5 and 6 illustrate the representative trends observed across all stains. In
+general, animals treated with blank patches commonly showed slightly more axon
+outgrowth (indicated with NFM immunostaining) into the lesion site when compared to
+untreated animals. Furthermore, animals treated with low-dose rolipram patches exhibited
+the greatest degree of axon outgrowth into the lesion site when compared to all other groups.
+Animals treated with high-dose rolipram patches showed a drastic decrease in the number of
+axons present when compared to low-dose rolipram and blank patch treated animals.
+A similar trend was observed regarding the presence of oligodendrocyte cell (MBP+)
+populations within the injury site after low-dose rolipram delivery. Specifically,
+immunostained sections for animals treated with low-dose rolipram patches showed a drastic
+increase in the number of MBP+ cells with respect to all other groups (Figure 5 E-H),
+suggesting the enhancement of myelin formation and/or sparing of oligodendrocytes. Figure
+5 I and J attempt to quantitatively represent the degree of anatomical recovery seen in axon
+outgrowth and oligodendrocyte myelin, respectively.
+As expected, animals left untreated showed a substantial number of reactive astrocytes
+present within their lesion sites (Figure 6 A). The application of any type of patch seemed to
+reduce the number of astrocytes seen at the lesion (Figure 6 B-D). While high-dose
+treatment produced a significant decrease in the number of astrocytes present, low-dose
+treatment resulted in the most dramatic decrease (Figure 6 I). After analyzing extracellular
+matrix components within cord lesions we found that animals treated with low-dose
+rolipram patches had no significant change in CSPG content at their lesion site relative to
+animals from untreated and blank patch groups (Figure 6 E-G). Interestingly, animals
+treated with high-dose rolipram patches showed a dramatically higher CSPG content (Figure
+6 H) within their lesions compared to low-dose treated and untreated animals (Figure 6 J).
+DISCUSSION
+Many studies have outlined the beneficial role that rolipram can have in spinal cord repair.
+However, recent studies suggest that its s.c. delivery may lead to systemic toxicity and less
+robust functional recovery [20, 37]. Figure 7 attempts to illustrate the concerns and potential
+pitfalls that may complicate the usage of rolipram through s.c. injections for spinal cord
+repair. Achieving an optimal concentration of rolipram within the spinal cord requires a
+complicated balance of minimizing systemic toxicity, avoiding spinal cord over-dosage, and
+appropriately accounting for patient/injury variations. Furthermore, the co-delivery of other
+therapeutic agents (i.e., transplanted cells) may further convolute this balance [38].
+Conceptually, this may help to explain conflicting results found by previous studies. For
+example, while Pearse et al. [13] demonstrated significant spinal cord recovery after
+systemic delivery of rolipram, they also reported that “rats treated with rolipram showed
+increased secretion of porphyrin from the eyes” indicating that some degree of toxicity was
+reached. Under nearly identical experimental conditions, Sharp et al. [19] found that
+rolipram offered no additional recovery over untreated animals. Using similar experimental
+conditions, Nout et al. [20] showed that systemic delivery of rolipram offered little
+functional recovery over untreated animals and resulted in significant reductions in animal
+health. Interestingly, Nikulina et al. [14] found that rolipram offered improvements in
+Downing et al. Page 7
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+recovery when delivered at a rate approximately 10 times greater than the previously
+mentioned studies. Even more, there was evidence that even higher dosages can yield local
+toxicity within the injured cord (e.g., less regeneration). This study was, however, done
+using a different injury model (e.g., hemisection versus contusion) and different rat strains
+and, therefore, may be difficult to compare. Given these conflicting results and the fact that
+the local rolipram concentration within the spinal cord is often unknown or unreported, we
+are unable to definitively determine specific systemic dosages that are therapeutic versus
+toxic. Still, these results, considered together, highlight the variability that s.c. delivery of
+rolipram brings to spinal cord repair.
+In an effort to avoid the complications observed with the s.c. delivery of rolipram, we
+attempted to create a new and improved platform that would allow for controlled, local
+drug-delivery into the spinal cord. With the incorporation of an alginate hydrogel layer as a
+drug excipient, drug-eluting microfibrous patches successfully demonstrated their ability to
+1) suppress the extent of burst release previously seen with our small molecule drug-delivery
+devices and 2) sustainably deliver rolipram beyond 1.5 days in vitro over a large range of
+drug loading concentrations. Several studies demonstrate rolipram’s efficacy even when
+delivered acutely (3 days or less) [18, 39, 40]. Given this, we felt our patches were suitable
+for in vivo experimentation. While our previous spinal cord patch fabrication utilized blends
+of PLLA and poly(D,L-lactide-co-glycolide) (PLGA), here patches were composed of only
+PLLA polymer to reduce the potential influence of acidic polymer contaminants due to the
+rapid degradation of PLGA. Consistent with our previous result [31], drug-eluting
+microfibrous patches loaded with a low-dose (3.1 – 3.9 g/cm2) concentration of rolipram
+facilitated the greatest degree of animal functional and anatomical recovery. In particular,
+improvements in overall forelimb recovery as well as early forelimb joint movement were
+greater for animals treated with a low dosage of rolipram. Anatomical improvements
+included increases in the number of both axons and oligodendrocytes seen within the lesion
+site. In addition, a decrease in the number of reactive astrocytes and the amount of CSPG
+molecules present were observed. For most outcomes, patches loaded with a high-dose
+concentration of rolipram appeared to have little variation from the no treatment case.
+Interestingly, CSPG content within lesions, however, was much higher for animals treated
+with a high dosage of rolipram. In addition, high-dose rolipram-treated animals also
+displayed the lowest survival rate over the course of eight weeks suggesting that higher local
+rolipram dosages could subsequently lead to higher levels of rolipram in the spinal cord and/
+or body, which could ultimately prove detrimental to the overall health [41-43]. Patches
+without rolipram proved only slightly advantageous when compared to the no treatment
+case, thus demonstrating the need to incorporate additional therapeutic agents.
+With respect to previous studies, these results suggest that by delivering a low dosage of
+rolipram directly into the spinal cord, we are able to achieve comparable outcomes with less
+than 1% of total rolipram delivered (over the course of 3 days). Interestingly, we’ve also
+shown that a higher dosage of rolipram directly into the spinal cord (still less than 1% of
+previous studies), may cause some local toxicity (less recovery within spinal cord) as well as
+systemic toxicity (increased animal death and weight loss). Because the total amount of
+rolipram delivered to animals is dramatically less than previous studies, we posit that the
+apparent variations in outcomes after systemic delivery of rolipram (e.g., via osmotic mini-
+pumps implanted s.c.) may be due to variations in the amount of drug that enters into the
+CNS through the blood-brain barrier and injury site.
+It is important to note that unlike other rolipram related SCI studies, our model utilizes
+athymic animals. Several other SCI studies have used similar models to help promote the
+acceptance of xenogenic donor cells after transplantation. Because many of our previous and
+future studies aim to understand the combined effects of drug-delivery, fibrous scaffolds,
+Downing et al. Page 8
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+and human stem cell transplantation on neural regeneration, an athymic animal model was
+chosen for clear comparison. This study suggests that drug-eluting microfibrous patches,
+through a local drug-delivery approach, have the ability to more clearly distinguish optimal
+and sub-optimal drug dosages for spinal cord repair. In order to further improve recovery
+and to more thoroughly study the effects of combination therapies on spinal cord repair,
+future studies will aim to explore the combined delivery of rolipram with other therapeutic
+agents (i.e., other drugs and/or cells) in addition to creating a more bioactive, cell adhesive
+hydrogel layer. Release-kinetics will be further improved through additional modifications
+aimed to enhance hydrogel stability on microfibrous membranes - through the use of various
+crosslinkers [34] and functional chemistry - thus, preventing rapid hydrogel erosion and
+delamination.
+CONCLUSION
+This study demonstrates the potential of drug-eluting microfibrous patches as a drug-
+delivery platform for the local release of rolipram into the injured spinal cord. Here we
+distinguish the therapeutic outcomes observed from the subdural implantation of patches
+loaded with low and high doses of rolipram. Patches loaded with lower concentrations
+yielded significant improvements in functional and anatomical recovery. With increasing
+loading concentration both functional and anatomical improvements diminished and overall
+animal health worsened. In all, this study demonstrates the therapeutic utility of drug-eluting
+microfibrous patches in the study and repair of SCI.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+This work was supported in part by grants from Telemedicine & Advanced Technology Research Center (TATRC)
+(W81XWH0920049; to S.L.), pre-doctoral fellowships from the University of California, Berkeley, Ford
+Foundation, and GEM National Consortium (to T.L.D.), and a postdoctoral training grant TG2-01164 from the
+California Institute for Regenerative Medicine (to A.W.). M.S.B., J.C.B., and Y.N, were supported by NIH grants
+NS031193 and NS038079.
+REFERENCES
+[1]. One Degree of Separation | Paralysis and Spinal Cord Injury in the United States. Reeve
+Foundation; 2009. p. 1-28.
+[2]. Fitch MT, Silver J. CNS injury, glial scars, and inflammation: Inhibitory extracellular matrices and
+regeneration failure. Exp Neurol. 2008; 209:294–301. [PubMed: 17617407]
+[3]. GrandPre T, Nakamura F, Vartanian T, Strittmatter SM. Identification of the Nogo inhibitor of
+axon regeneration as a Reticulon protein. Nature. 2000; 403:439–444. [PubMed: 10667797]
+[4]. Mukhopadhyay G, Doherty P, Walsh FS, Crocker PR, Filbin MT. A novel role for myelin-
+associated glycoprotein as an inhibitor of axonal regeneration. Neuron. 1994; 13:757–767.
+[PubMed: 7522484]
+[5]. Niederost BP, Zimmermann DR, Schwab ME, Bandtlow CE. Bovine CNS myelin contains neurite
+growth-inhibitory activity associated with chondroitin sulfate proteoglycans. J Neurosci. 1999;
+19:8979–8989. [PubMed: 10516316]
+[6]. Smith-Thomas LC, Stevens J, Fok-Seang J, Faissner A, Rogers JH, Fawcett JW. Increased axon
+regeneration in astrocytes grown in the presence of proteoglycan synthesis inhibitors. J Cell Sci.
+1995; 108(Pt 3):1307–1315. [PubMed: 7622613]
+[7]. Thuret S, Moon LD, Gage FH. Therapeutic interventions after spinal cord injury. Nat Rev
+Neurosci. 2006; 7:628–643. [PubMed: 16858391]
+Downing et al. Page 9
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+[8]. Yiu G, He Z. Glial inhibition of CNS axon regeneration. Nat Rev Neurosci. 2006; 7:617–627.
+[PubMed: 16858390]
+[9]. Schwab ME. Repairing the injured spinal cord. Science. 2002; 295:1029–1031. [PubMed:
+11834824]
+[10]. Baptiste DC, Fehlings MG. Emerging drugs for spinal cord injury. Expert Opin Emerg Drugs.
+2008; 13:63–80. [PubMed: 18321149]
+[11]. Zhu J, Mix E, Winblad B. The antidepressant and antiinflammatory effects of rolipram in the
+central nervous system. CNS Drug Rev. 2001; 7:387–398. [PubMed: 11830756]
+[12]. Griswold DE, Webb EF, Breton J, White JR, Marshall PJ, Torphy TJ. Effect of selective
+phosphodiesterase type IV inhibitor, rolipram, on fluid and cellular phases of inflammatory
+response. Inflammation. 1993; 17:333–344. [PubMed: 7687237]
+[13]. Pearse DD, Pereira FC, Marcillo AE, Bates ML, Berrocal YA, Filbin MT, Bunge MB. cAMP and
+Schwann cells promote axonal growth and functional recovery after spinal cord injury. Nat Med.
+2004; 10:610–616. [PubMed: 15156204]
+[14]. Nikulina E, Tidwell JL, Dai HN, Bregman BS, Filbin MT. The phosphodiesterase inhibitor
+rolipram delivered after a spinal cord lesion promotes axonal regeneration and functional
+recovery. Proc Natl Acad Sci U S A. 2004; 101:8786–8790. [PubMed: 15173585]
+[15]. Iannotti CA, Clark M, Horn KP, van Rooijen N, Silver J, Steinmetz MP. A combination
+immunomodulatory treatment promotes neuroprotection and locomotor recovery after contusion
+SCI. Experimental Neurology. 2011; 230:3–15. [PubMed: 20338167]
+[16]. Whitaker CM, Beaumont E, Wells MJ, Magnuson DS, Hetman M, Onifer SM. Rolipram
+attenuates acute oligodendrocyte death in the adult rat ventrolateral funiculus following contusive
+cervical spinal cord injury. Neurosci Lett. 2008; 438:200–204. [PubMed: 18455876]
+[17]. Beaumont E, Whitaker CM, Burke DA, Hetman M, Onifer SM. Effects of rolipram on adult rat
+oligodendrocytes and functional recovery after contusive cervical spinal cord injury.
+Neuroscience. 2009; 163:985–990. [PubMed: 19635528]
+[18]. Koopmans GC, Deumens R, Buss A, Geoghegan L, Myint AM, Honig WH, Kern N, Joosten EA,
+Noth J, Brook GA. Acute rolipram/thalidomide treatment improves tissue sparing and
+locomotion after experimental spinal cord injury. Exp Neurol. 2009; 216:490–498. [PubMed:
+19320007]
+[19]. Sharp KG, Flanagan LA, Yee KM, Steward O. A re-assessment of a combinatorial treatment
+involving Schwann cell transplants and elevation of cyclic AMP on recovery of motor function
+following thoracic spinal cord injury in rats. Exp Neurol. 2012; 233:625–644. [PubMed:
+21195070]
+[20]. Nout YS, Culp E, Schmidt MH, Tovar CA, Proschel C, Mayer-Proschel M, Noble MD, Beattie
+MS, Bresnahan JC. Glial restricted precursor cell transplant with cyclic adenosine
+monophosphate improved some autonomic functions but resulted in a reduced graft size after
+spinal cord contusion injury in rats. Exp Neurol. 2011; 227:159–171. [PubMed: 21040723]
+[21]. Teng YD, Lavik EB, Qu X, Park KI, Ourednik J, Zurakowski D, Langer R, Snyder EY.
+Functional recovery following traumatic spinal cord injury mediated by a unique polymer
+scaffold seeded with neural stem cells. Proc Natl Acad Sci U S A. 2002; 99:3024–3029.
+[PubMed: 11867737]
+[22]. Tysseling-Mattiace VM, Sahni V, Niece KL, Birch D, Czeisler C, Fehlings MG, Stupp SI,
+Kessler JA. Self-assembling nanofibers inhibit glial scar formation and promote axon elongation
+after spinal cord injury. J Neurosci. 2008; 28:3814–3823. [PubMed: 18385339]
+[23]. Oudega M, Gautier SE, Chapon P, Fragoso M, Bates ML, Parel JM, Bunge MB. Axonal
+regeneration into Schwann cell grafts within resorbable poly(alpha-hydroxyacid) guidance
+channels in the adult rat spinal cord. Biomaterials. 2001; 22:1125–1136. [PubMed: 11352092]
+[24]. Friedman JA, Windebank AJ, Moore MJ, Spinner RJ, Currier BL, Yaszemski MJ. Biodegradable
+polymer grafts for surgical repair of the injured spinal cord. Neurosurgery. 2002; 51:742–751.
+discussion 751-742. [PubMed: 12188954]
+[25]. Patel S, Kurpinski K, Quigley R, Gao H, Hsiao BS, Poo MM, Li S. Bioactive nanofibers:
+synergistic effects of nanotopography and chemical signaling on cell guidance. Nano Lett. 2007;
+7:2122–2128. [PubMed: 17567179]
+Downing et al. Page 10
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+[26]. Wang A, Tang Z, Park I-H, Zhu Y, Patel S, Daley GQ, Li S. Induced pluripotent stem cells for
+neural tissue engineering. Biomaterials. 2011; 32:5023–5032. [PubMed: 21514663]
+[27]. Zhu Y, Wang A, Patel S, Kurpinski K, Diao E, Bao X, Kwong G, Young WL, Li S. Engineering
+bi-layer nanofibrous conduits for peripheral nerve regeneration. Tissue Eng Part C Methods.
+2011; 17:705–715. [PubMed: 21501089]
+[28]. Wang AJ, Ao Q, Wei YJ, Gong K, Liu XS, Zhao NN, Gong YD, Zhang XF. Physical properties
+and biocompatibility of a porous chitosan-based fiber-reinforced conduit for nerve regeneration.
+Biotechnol Lett. 2007; 29:1697–1702. [PubMed: 17628751]
+[29]. Wang AJ, Ao Q, Cao WL, Yu MZ, He Q, Kong LJ, Zhang L, Gong YD, Zhang XF. Porous
+chitosan tubular scaffolds with knitted outer wall and controllable inner structure for nerve tissue
+engineering. J Biomed Mater Res A. 2006; 79A:36–46. [PubMed: 16758450]
+[30]. Adzick NS, Thom EA, Spong CY, Brock JW 3rd, Burrows PK, Johnson MP, Howell LJ, Farrell
+JA, Dabrowiak ME, Sutton LN, Gupta N, Tulipan NB, D’Alton ME, Farmer DL. A randomized
+trial of prenatal versus postnatal repair of myelomeningocele. N Engl J Med. 2011; 364:993–
+1004. [PubMed: 21306277]
+[31]. Zhu YQ, Wang AJ, Shen WQ, Patel S, Zhang R, Young WL, Li S. Nanofibrous Patches for
+Spinal Cord Regeneration. Adv Funct Mater. 2010; 20:1433–1440. [PubMed: 23378825]
+[32]. Saadai P, Nout YS, Encinas J, Wang A, Downing TL, Beattie MS, Bresnahan JC, Li S, Farmer
+DL. Prenatal repair of myelomeningocele with aligned nanofibrous scaffolds-a pilot study in
+sheep. J Pediatr Surg. 2011; 46:2279–2283. [PubMed: 22152865]
+[33]. Hashi CK, Zhu Y, Yang GY, Young WL, Hsiao BS, Wang K, Chu B, Li S. Antithrombogenic
+property of bone marrow mesenchymal stem cells in nanofibrous vascular grafts. Proc Natl Acad
+Sci U S A. 2007; 104:11915–11920. [PubMed: 17615237]
+[34]. Tonnesen HH, Karlsen J. Alginate in drug delivery systems. Drug Dev Ind Pharm. 2002; 28:621–
+630. [PubMed: 12149954]
+[35]. Martinez M, Brezun JM, Bonnier L, Xerri C. A new rating scale for open-field evaluation of
+behavioral recovery after cervical spinal cord injury in rats. J Neurotrauma. 2009; 26:1043–1053.
+[PubMed: 19594382]
+[36]. Basso DM, Beattie MS, Bresnahan JC. A sensitive and reliable locomotor rating scale for open
+field testing in rats. J Neurotrauma. 1995; 12:1–21. [PubMed: 7783230]
+[37]. Sharp KG, Flanagan LA, Yee KM, Steward O. A re-assessment of a combinatorial treatment
+involving Schwann cell transplants and elevation of cyclic AMP on recovery of motor function
+following thoracic spinal cord injury in rats. Experimental Neurology. 2010
+[38]. Willerth SM, Sakiyama-Elbert SE. Approaches to neural tissue engineering using scaffolds for
+drug delivery. Adv Drug Deliv Rev. 2007; 59:325–338. [PubMed: 17482308]
+[39]. Kajana S, Goshgarian HG. Administration of phosphodiesterase inhibitors and an adenosine A1
+receptor antagonist induces phrenic nerve recovery in high cervical spinal cord injured rats. Exp
+Neurol. 2008; 210:671–680. [PubMed: 18289533]
+[40]. Whitaker CM, Beaumont E, Wells MJ, Magnuson DS, Hetman M, Onifer SM. Rolipram
+attenuates acute oligodendrocyte death in the adult rat ventrolateral funiculus following contusive
+cervical spinal cord injury. Neurosci Lett. 2008; 438:200–204. [PubMed: 18455876]
+[41]. Wachtel H. Potential antidepressant activity of rolipram and other selective cyclic adenosine 3′,
+5′-monophosphate phosphodiesterase inhibitors. Neuropharmacology. 1983; 22:267–272.
+[PubMed: 6302550]
+[42]. Wachtel H, Schneider HH. Rolipram, a novel antidepressant drug, reverses the hypothermia and
+hypokinesia of monoamine-depleted mice by an action beyond postsynaptic monoamine
+receptors. Neuropharmacology. 1986; 25:1119–1126. [PubMed: 2946976]
+[43]. Hebenstreit GF, Fellerer K, Fichte K, Fischer G, Geyer N, Meya U, Sastre-y-Hernandez M,
+Schony W, Schratzer M, Soukop W, et al. Rolipram in major depressive disorder: results of a
+double-blind comparative study with imipramine. Pharmacopsychiatry. 1989; 22:156–160.
+[PubMed: 2668980]
+Downing et al. Page 11
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1.
+Assembly and structure of drug-eluting microfibrous patches. (A) A schematic illustrating
+the assembly of drug-eluting microfibrous patches. Chamber gasket is used to create a well
+for sodium alginate solution (loaded with drug or empty) placement over top of PLLA
+microfibrous membranes. In addition, a novel calcium chloride-rich mist crosslinking
+mechanism is demonstrated. SEM image reveals (B) the structure of microfibrous
+membrane and alginate layers within drug-eluting microfibrous patches. (C) Fluorescent
+micrograph of patch cross-section shows the incorporation of small fluorescent molecules
+(DAPI) into the alginate layer. Dashed lines indicate microfibrous membrane boundaries.
+Scale bars = 50 μm.
+Downing et al. Page 12
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2.
+Low and high-dose rolipram in vitro release profiles. Cumulative release profiles of low (A)
+and high-dose (B) rolipram patches at 37°C in PBS. Statistical anal ysis shows a significant
+amount of rolipram was released beyond 1.5 days for both cases. SEM image reveals (C)
+residual alginate hydrogel on microfibrous membrane surface after 12 days at 37°C in PBS.
+( D) SEM image of bare microfibrous membrane surface for comparison. Scale bar = 50
+μm.
+Downing et al. Page 13
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3.
+Implantation of drug-eluting microfibrous patches after SCI. (A) Schematic of subdural
+implantation of drug-eluting microfibrous patches into the injured cord. (B) Macroscopic
+view of lesion site and patch during animal surgery. An asterisk was used to mark location
+of drug-eluting microfibrous patch. (C, D) Gross histology of spinal cord cross section 8
+weeks post SCI. H&E staining reveals new tissue formation at the lesion site and patch’s
+ability to integrate into the surrounding tissues (D). (C) Less regenerated control for
+comparison. Here, arrows point to the implantation site for drug-eluting microfibrous
+patches. Red dashes outline areas of less tissue formation for comparison.
+Downing et al. Page 14
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 4.
+Functional recovery of forelimb locomotion based on the Martinez recovery scale and
+animal survival. (A, B, D) Scoring was performed across four groups: untreated (blue, -◆-),
+blank patch (red, -■-), low-dose rolipram patch (green, -X-), and high-dose rolipram patch
+(purple, -▲-). (A) Overall Martinez open-field scores from weeks 1 through 4, 6 and 8.
+Asterisks indicate where low-dose rolipram scores were significantly greater than all other
+animals (****, ***, and ** denote where p < 0.0001, 0.001, and 0.01, respectively). (B)
+Forelimb articular movement scores at 2 days and 1 week post SCI (*** and ** denote
+where p < 0.001 and 0.01, respectively). (C) Animal forelimb-hindlimb coordination
+frequency at 8 weeks post SCI. (D) Animal survival over the course of 8 weeks following
+the initial SCI. A log-rank (Mantel-Cox) test was used to determine significance.
+Downing et al. Page 15
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 5.
+Histological analysis of NFM and MBP staining at 8 weeks post SCI. Representative
+immunofluorescent staining of tissue regeneration within the lesion site of spinal cord cross
+sections in untreated animals (A, E), blank patch treated animals (B, F), low-dose rolipram-
+treated animals (C, G), and high-dose rolipram-treated animals (D, H). Axons in the lesion
+were identified using NFM antibodies (A-D). Oligodendrocyte myelin was identified using
+MBP antibodies (E-H). DAPI staining was used to identify cell nuclei. Scale bar = 100 μm.
+(I, J) ImageJ software was used to quantify the average total pixels for NFM+ axons or
+MBP+ oligodendrocytes, respectively, within immunostained sections.
+Downing et al. Page 16
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 6.
+Histological analysis of GFAP and CSPG staining at 8 weeks post SCI. Representative
+immunofluorescent staining of tissue regeneration within the lesion site of spinal cord cross
+sections in untreated animals (A, E), blank patch treated animals (B, F), low-dose rolipram-
+treated animals (C, G), and high-dose rolipram-treated animals (D, H). Astrocytes in the
+lesion were identified by GFAP antibody staining (A-D). Glial scar formation was identified
+using CSPG antibodies (E-H). DAPI staining was used to identify cell nuclei. Scale bar =
+100 μm. (I, J) ImageJ software was used to quantify the average total pixels for GFAP+
+cells or the presence of CSPG within the lesion site extracellular environment.
+Downing et al. Page 17
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 7.
+A schematic illustrating the complex balance involved in the s.c. delivery of rolipram to the
+injured spinal cord for repair. Because only a fraction of the total amount of rolipram
+delivered s.c. to the patient will reach the spinal cord, systemic rolipram concentrations
+reach unnecessarily high levels, increasing toxicity related risks. In addition, injury-to-injury
+and/or patient-to-patient variations can cause uncertainty in the local concentration of
+rolipram within the spinal cord. As we have shown, inappropriate local concentrations of
+rolipram within the spinal cord can be detrimental to regeneration. Much of the uncertainty
+in local spinal cord and systemic rolipram concentrations can be removed with the local
+delivery of rolipram via drug-eluting microfibrous patches.
+Downing et al. Page 18
+J Control Release. Author manuscript; available in PMC 2013 August 10.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript

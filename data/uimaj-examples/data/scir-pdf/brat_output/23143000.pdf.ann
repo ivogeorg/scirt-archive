@@ -1,0 +1,130 @@
+T1	Gene 106 133	Zhou • Qing Xu • Donghui Li
+T2	Gene 184 192	Gu • Yan
+T3	Gene 1004 1007	Fur
+T4	Gene 1019 1025	nestin
+T5	Gene 1030 1053	neuron-specific enolase
+T6	Gene 1055 1058	NSE
+T7	Gene 1265 1268	NSE
+T8	Gene 1476 1501	Spinal cord  Regeneration
+T9	Gene 5945 5949	BrdU
+T10	Gene 6164 6168	BrdU
+T11	Gene 6349 6353	BrdU
+T12	Gene 6441 6445	BrdU
+T13	Gene 7884 7902	anti-BrdU antibody
+T14	Gene 7908 7919	anti-nestin
+T15	Gene 7923 7931	anti-NSE
+T16	Gene 7991 7995	BrdU
+T17	Gene 7997 8003	nestin
+T18	Gene 8008 8011	NSE
+T19	Gene 8084 8088	BrdU
+T20	Gene 8093 8099	nestin
+T21	Gene 8132 8136	BrdU
+T22	Gene 8141 8144	NSE
+T23	Gene 8334 8338	BrdU
+T24	Gene 8675 8688	serum albumin
+T25	Gene 8942 8953	anti-nestin
+T26	Gene 8955 8965	ProSci Com
+T27	Gene 9123 9126	IgG
+T28	Gene 9132 9137	Texas
+T29	Gene 9158 9170	anti-rat IgG
+T30	Gene 12912 12916	BrdU
+T31	Gene 12955 12959	BrdU
+T32	Gene 13912 13915	dif
+T33	Gene 14367 14371	BrdU
+T34	Gene 14445 14449	BrdU
+T35	Gene 14517 14521	BrdU
+T36	Gene 14815 14835	anti-Nestin antibody
+T37	Gene 14917 14921	BrdU
+T38	Gene 15391 15400	anti-BrdU
+T39	Gene 15892 15898	Nestin
+T40	Gene 15903 15906	NSE
+T41	Gene 16637 16639	D0
+T42	Gene 16641 16644	D10
+T43	Gene 16649 16652	D20
+T44	Gene 16739 16742	NSE
+T45	Gene 16747 16753	nestin
+T46	Gene 17338 17341	NSE
+T47	Gene 19299 19302	neu
+T48	Gene 20263 20266	Lin
+T49	Gene 20780 20798	Basic Research Pro
+T50	Gene 21155 21158	Adv
+T51	Gene 22159 22166	Dev Dyn
+T52	Gene 22367 22374	Dev Dyn
+T53	Gene 22379 22392	Publ Am Assoc
+T54	Gene 22927 22948	nitric oxide synthase
+T55	Gene 24015 24030	CSH Protoc 2008
+T56	Gene 24044 24051	Jiang M
+T57	Gene 24053 24057	Gu X
+T58	Gene 24059 24065	Feng X
+T59	Gene 24067 24072	Fan Z
+T60	Gene 24156 24163	Brp44 l
+T61	Gene 24576 24582	Lin RC
+T62	Gene 24655 24662	enolase
+T63	Gene 24667 24699	microtubule-associated protein 2
+T64	Gene 24981 24984	mac
+T65	Gene 25627 25629	RF
+T66	Species 8668 8674	bovine
+T67	Species 9102 9107	mouse
+T68	Species 9116 9122	rabbit
+T69	Species 9153 9157	goat
+T70	Species 9163 9166	rat
+T71	Species 19219 19222	rat
+T72	Species 21214 21221	Gibbons
+T73	Species 21857 21878	Apteronotus albifrons
+T74	Species 22065 22082	Pleurodeles waltl
+T75	Species 22643 22659	Lacerta vivipara
+T76	Species 23021 23032	Gekko gecko
+T77	Species 23860 23879	Anolis carolinensis
+T78	Species 24362 24365	rat
+T79	Species 24954 24967	leopard gecko
+T80	Species 25255 25266	Gekko gecko
+T81	Species 25421 25440	Anolis carolinensis
+T82	Species 25713 25725	teleost fish
+T83	InteractionKeyword 379 386	changes
+T84	InteractionKeyword 453 460	induces
+T85	InteractionKeyword 2643 2650	targets
+T86	InteractionKeyword 4366 4373	changes
+T87	InteractionKeyword 5542 5548	reduce
+T88	InteractionKeyword 7457 7464	changes
+T89	InteractionKeyword 7633 7640	changes
+T90	InteractionKeyword 7685 7692	changes
+T91	InteractionKeyword 7765 7774	determine
+T92	InteractionKeyword 8424 8433	eliminate
+T93	InteractionKeyword 8652 8659	blocked
+T94	InteractionKeyword 9469 9476	complex
+T95	InteractionKeyword 10079 10088	decreases
+T96	InteractionKeyword 10330 10339	decreased
+T97	InteractionKeyword 10508 10515	changes
+T98	InteractionKeyword 10802 10809	reduced
+T99	InteractionKeyword 11031 11040	decreases
+T100	InteractionKeyword 11495 11504	decreased
+T101	InteractionKeyword 11776 11782	formed
+T102	InteractionKeyword 11845 11854	following
+T103	InteractionKeyword 12944 12951	results
+T104	InteractionKeyword 12990 12997	results
+T105	InteractionKeyword 13700 13707	reduced
+T106	InteractionKeyword 15751 15758	reduced
+T107	InteractionKeyword 16256 16265	increased
+T108	InteractionKeyword 16532 16541	increases
+T109	InteractionKeyword 17151 17161	contribute
+T110	InteractionKeyword 17297 17303	formed
+T111	InteractionKeyword 17811 17818	follows
+T112	InteractionKeyword 18190 18197	complex
+T113	InteractionKeyword 18774 18783	generated
+T114	InteractionKeyword 19503 19512	generated
+T115	InteractionKeyword 20218 20226	involved
+T116	InteractionKeyword 20541 20548	results
+T117	InteractionKeyword 22915 22922	changes
+T118	InteractionKeyword 23668 23675	changes
+T119	InteractionKeyword 24208 24215	changes
+T120	InteractionKeyword 24484 24488	form
+R121	Partner1 Arg1:T83 Arg2:T1
+R122	Partner2 Arg1:T83 Arg2:T2
+R123	Partner1 Arg1:T91 Arg2:T14
+R124	Partner2 Arg1:T91 Arg2:T15
+R125	Partner1 Arg1:T106 Arg2:T40
+R126	Partner2 Arg1:T106 Arg2:T39
+R127	Partner1 Arg1:T108 Arg2:T43
+R128	Partner2 Arg1:T108 Arg2:T41
+R129	Partner1 Arg1:T119 Arg2:T59
+R130	Partner2 Arg1:T119 Arg2:T56

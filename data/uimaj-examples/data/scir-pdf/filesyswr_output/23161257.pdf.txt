@@ -1,0 +1,698 @@
+REVIEW ARTICLE
+Progress and prospects in neurorehabilitation: clinical
+applications of stem cells and brain–computer interface
+for spinal cord lesions
+Mariana Gongora • Caroline Peressutti •
+Sergio Machado • Silmar Teixeira •
+Bruna Velasques • Pedro Ribeiro
+Received: 11 September 2012 / Accepted: 18 October 2012 / Published online: 17 November 2012
+ Springer-Verlag Italia 2012
+Abstract Spinal cord injury (SCI) is a disease that affects
+millions of people worldwide, causing a temporary or
+permanent impairment of neuromotor functions. Mostly
+associated to traumatic lesions, but also to other forms of
+disease, the appropriate treatment is still unsure. In this
+review, several ongoing studies are presented that aim to
+provide methods of prevention that ensure quality of life,
+and rehabilitation trends to patients who suffer from this
+injury. Stem cell research, highlighted in this review, seeks
+to reduce damage caused to the tissue, as also provide
+spinal cord regeneration through the application of several
+types of stem cells. On the other hand, research using
+brain–computer interface (BCI) technology proposes the
+development of interfaces based on the interaction of
+neural networks with artificial tools to restore motor con-
+trol and full mobility of the injured area. PubMed, MED-
+LINE and SciELO data basis analyses were performed to
+identify studies published from 2000 to date, which
+describe the link between SCI with stem cells and BCI
+technology.
+Keywords Spinal cord injury  Regeneration 
+Neurorehabilitation  Neural tissue 
+Stem cells  BCI
+M. Gongora (&)  C. Peressutti  S. Teixeira  B. Velasques 
+P. Ribeiro
+Brain Mapping and Sensory Motor Integration Laboratory,
+Institute of Psychiatry of the Federal University of Rio de
+Janeiro (IPUB/UFRJ), Rua Cel. Moreira Cesar, 375/802,
+Icaraı́, 24230-054 Niterói, RJ, Brazil
+e-mail: marianagongora@gmail.com
+C. Peressutti  B. Velasques  P. Ribeiro
+Institute of Applied Neuroscience (IAN),
+Rio de Janeiro, Brazil
+S. Machado
+Panic and Respiration Laboratory, Institute of Psychiatry,
+Federal University of Rio de Janeiro,
+Rio de Janeiro, RJ, Brazil
+S. Machado
+Quiropraxia Program of Faculty of Health Sciences Central
+University, Santiago, Chile
+S. Machado
+Institute of Phylosophy, Federal University of Uberlândia
+(IFILO/UFU), Uberlândia, Brazil
+S. Machado
+Physical Activity Sciences Postgraduate Program, Salgado
+de Oliveira University (UNIVERSO), Niterói, Brazil
+S. Machado
+National Institute of Translational Medicine (INCT-TM),
+Rio de Janeiro, RJ, Brazil
+S. Teixeira
+Laboratory of Physical therapy, Veiga de Almeida University
+of Rio de Janeiro (UVA/RJ), Rio de Janeiro, Brazil
+B. Velasques
+Neuromuscular Research Laboratory, National Institute of
+Traumatology and Orthopaedics (INTO), Rio de Janeiro, Brazil
+B. Velasques
+Neurophysiology and Neuropsychology of Attention, Institute
+of Psychiatry of the Federal University of Rio de Janeiro
+(IPUB/UFRJ), Rio de Janeiro, Brazil
+P. Ribeiro
+Bioscience Department (EEFD/UFRJ), School of Physical
+Education, Rio de Janeiro, Brazil
+123
+Neurol Sci (2013) 34:427–433
+DOI 10.1007/s10072-012-1232-5
+Introduction
+One of the current concerns in the field of neuroscience is
+the injury repair/neuroregeneration process. Since this is a
+form of neuroplasticity, one of the goals is to promote or
+reinstall functionality in the injured area [1]. Particularly,
+spinal cord injury (SCI) has been the focus of extensive
+research in neuroscience; this is characterized by damage
+in the spinal canal, resulting in a temporary or permanent
+impairment of neuromotor functions [2]. This field in
+particular gave rise to various hypotheses that attempt to
+explain the control of motor actions. The SCI may result
+from traumatic injuries or other congenital, degenerative,
+neoplastic and infectious processes, neurological and vas-
+cular disorders. Recent studies indicate that trauma is the
+leading cause of SCI among young people aged between 15
+and 40 years. Motor vehicle accidents are the main cause,
+followed by firearm injury, sport accidents and direct
+trauma [3]. After injury, evaluations should be performed
+at various levels to better intervene in the subsequent
+recovery processes. The American Spinal Cord Injury
+Association (ASIA) devised a qualitative scale for evalu-
+ation and classification of neurological deficit caused after
+injury. This assessment classifies a SCI into complete and
+incomplete, and evaluates the extent of damage to the
+spinal cord tissue, firstly verifying if the primary functions
+are preserved [4].
+The histological, biochemical and functional aspects of
+the disease have attracted great interest among researchers,
+who seek to improve the quality of life of patients suffering
+from this disabling injury [5]. Different treatments have
+been employed aiming to contain the structure involvement
+and injury severity. These treatments are based on studies
+of spinal cord regeneration using neurotrophic factors, fetal
+bone marrow graft, peripheral nerve graft, antibodies
+against myelin-associated proteins and stem cells [6].
+Concomitantly to these treatments, the emergent field of
+neuroengineering has made substantial discoveries in brain
+research and brain-computer interfacing (BCI), enabling
+patients who suffered severe body paralysis to find other
+ways to restore full mobility of the injured area [7].
+With this in mind, the present paper reviews the types of
+SCI, the basic concepts of stem cells and the BCIs, and
+presents the clinical applications of stem cells and BCI on
+motor control restoration of patients with spinal cord lesions,
+to create an elegant proposal regarding the clinical appli-
+cations of these potential therapies in the upcoming years.
+Spinal cord lesions: basic concepts
+This study will mainly emphasize injuries that affect the
+conduction of sensory-motor impulses in the spinal cord
+promoting loss of sensation and movement. Trauma in the
+spinal cord region undertake the tract and fascicles, which
+comprise ascendant and descendent pathways responsible
+for transmitting the information to all structure of the
+central nervous system (CNS) and the peripheral nervous
+system (PNS). Damage in the spinal cord can be mainly
+attributed to trauma, but also may result from other etiol-
+ogies. Lesion intensity can range from mild to more severe
+injuries, and may be complete or incomplete; in the last the
+sensory-motor function in the region that was not affected
+is still preserved. The spinal cord hemisection, also known
+as Brown-Sequard Syndrome, affects the corticospinal tract
+(causing ipsilateral loss of motor function), the fasciculus
+gracilis and the cuneate nucleus (causing loss of conscious
+proprioception and discriminative touch) [8]. In addition,
+spinothalamic tract (anterior and lateral) dysfunction cau-
+ses contralateral thermal and pain sensitivity, and loss of
+light touch [9, 10]. In complete lesions, the motor function
+is totally interrupted below the level of trauma. Sensory
+and autonomic motor tracts are disrupted, causing nerve
+root damage in the segmented section. A complete trans-
+verse section of the spinal cord depending on the level of
+the lesion can affect several body parts [11].
+The damage caused by injury is analyzed through neu-
+rological assessments based on the sensory maps and key
+muscles. The ASIA Impairment Scale (AIS) aims to define
+exactly the level of neurological injury and the degree of
+functional impairment, aiming a prognostic classification
+[12]. The scale evaluates the sensitivity levels from C2
+through S4–S5, and the function of muscle groups and
+reflexes related to the nerve roots from C5 to T1 (brachial
+plexus) and from L2 to S1 (lumbar plexus) [4]. The lesions
+are classified into five levels (A–E); A = Complete. No
+sensory or motor function is preserved in the sacral seg-
+ments S4–S5; B = Sensory Incomplete. Sensory but not
+motor function is preserved below the neurological level
+and includes the sacral segments S4–S5 [light touch, pin
+prick at S4–S5: or deep anal pressure (DAP)], and no motor
+function is preserved more than three levels below the
+motor level on either side of the body; C = Motor
+Incomplete. Motor function is preserved below the neuro-
+logical level, and more than half of key muscle functions
+below the single neurological level of injury (NLI) have a
+muscle grade \3 (grades 0–2); D = Motor Incomplete.
+Motor function is preserved below the neurological level,
+and at least half (half or more) of key muscle functions
+below the NLI have a muscle grade C3; E = Normal. If
+sensation and motor function as tested with the Interna-
+tional Standards for Neurological Classification of Spinal
+Cord Injury (ISNCSCI) are graded as normal in all seg-
+ments, and the patient had no prior deficits, then the AIS
+grade is E. Someone without an initial SCI does not receive
+an AIS grade.
+428 Neurol Sci (2013) 34:427–433
+123
+Stem cells: types and functions
+The potential uses of stem cells as a medical treatment have
+attracted extensive research interest in the recent years. Stem
+cells are unspecialized cells that have the unique ability of
+self-renewal and to differentiate into multiple specific cell
+types, in response to a particular signal [13]. These cells are
+divided into two classes, embryonic and adult stem cells,
+according to their origin. Embryonic cells are subdivided
+into totipotent and pluripotent cells, according to their
+potential ability to differentiate into specialized tissue. The
+totipotent type is able to differentiate into all cell types in an
+adult body [14]; pluripotent cells have the potential to dif-
+ferentiate into specialized ectoderm, mesoderm or endoderm
+cells [15]. However, despite these unique properties, the use
+of embryonic stem cells for rehabilitation treatments is still
+polemic, since it involves ethnic and religious questions.
+Though, in some countries researches using in vitro embryo
+discarded in fertilization process are permitted [14].
+In majority, adult stem cells are denominated multipo-
+tent cells capable to originate only a few types of cells
+lineages [16], but being a non-embryonic potential source
+have ethnic and religious advantage to neuroscience
+research [17]. These cells are accessible in several organs
+and tissues of human body, and in extra-embryonic struc-
+tures such as the umbilical cord and placenta [18]. There
+are also the mesenchymal stem cells (MSCs), predecessors
+of the conjunctive and muscular tissue cells, which are
+found in the umbilical cord [3]. Another extraction source
+of the MSCs is found in the bone marrow, on the estromal
+region [19]. The cells of this region are able to form
+mesodermal tissue such as cells from the bone, cartilagi-
+nous, adipose and muscular tissue [20]. Furthermore, in
+appropriate fertilization conditions and provided specific
+stimulus, MSCs can also differ in central and peripheral
+nervous tissue [21]. Therapies with these cells are
+increasing due to its easy availability and capacity to
+propagate in culture; apart from being non-immunogenic,
+which eliminates the problems of rejection and permits an
+autologous transplant [22]. Another source of multipotent
+stem cells with the capacity of differentiation in nervous
+tissue is found in the olfactory epithelium [11]. Denomi-
+nated neural stem cells (NSCs) are found in an accessible
+region of the brain that may be removed from the patient
+without causing significant damage [23]. When they grow
+properly, they are capable to secrete several growth factors
+such as NGF (neural growth factor), BDNF (brain-derived
+neurotrophic factor), GDNF (glial cell line-derived neuro-
+trophic factor), FGF (fibroblast growth factor), and VEGF
+(vascular endothelial growth factor), that are known to play
+a role in the neurogenesis, promoting the growth, mainte-
+nance and survival of the nervous cells. Due to its char-
+acteristics, the olfactory cells have an important supporting
+function in axonal regeneration, and they have been used in
+diverse research on nervous tissue regeneration [3].
+The procedures with stem cells in the field of neuro-
+science bring an exciting prospect in the treatment of
+thousands of neurodegenerative diseases and damaged
+tissues. Due to differentiation and self-regeneration
+capacities, regenerative therapies using stem cells are able
+to provide functional improvements to the individual.
+Stem cells applied to regeneration of neural tissue
+in spinal cord lesions
+In the search for efficient treatments, the use of several
+sources of stem cells, in group or alone, is researched and
+reported in experiments with injured animals or human
+beings [15]. As micro-environment conditions of rodent
+models appear to be similar to that found in humans,
+several techniques are being employed in these popula-
+tions. However, these techniques should be applied in
+humans only after proving the efficiency and acceptance of
+the therapy by the ethics committee [24]. In the following,
+some treatment will be presented showing the functional
+gains in animals and humans with SCI. Investigations of
+SCI in rodent models emphasize that the use of Human
+Embryonic Stem Cell-Derived Oligodendrocyte Progenitor
+Cell to remyelinate axons, reduces tissue damage [25] and
+helps to prevent the return of chronic pain [26], improving
+the locomotor function [27, 28]. At present, one of the most
+important studies that uses embryonic stem cells as a
+therapy for SCI regeneration, is developed by Geron Cor-
+poration. From embryos discarded in the process of
+fecundation in vitro, Oligodendrocytes (GRNOPC1) were
+extracted and employed in therapies with SCI rodent
+models [16]. Seven days after SCI, the GRNOPC1 were
+implanted in the lesion site. With this procedure, it was
+possible to note the production of neurotrophic factor and
+remyelination of axons, causing significant repair in loco-
+motor capacity and body support. In January 2009, the
+corporation received permission of Food and Drug
+Administration (FDA) to start the first clinical essay in
+humans with acute SCI, classified degree A in the evalu-
+ation of ASIA. The first stage of the research aimed to
+evaluate the security and tolerability of the procedure
+applied in humans [29].
+Other research line constituted by studies with non-
+embryonic stem cells sources, present methods considered
+safer and more viable, considering ethical and religious
+aspects [30]. Studies with insertion of NSCs in rodents
+showed axonal regeneration [31], and recovery of speed
+conduction and locomotor function [32]. In another study,
+patients with chronic and stable SCI at degree A of ASIA,
+had NSCs of mucous olfactory membrane inserted [33].
+Neurol Sci (2013) 34:427–433 429
+123
+Improvement in ASIA scores [34], and returning of sen-
+sibility and voluntary contraction of the anal sphincter [35]
+were observed in the transplanted individuals. Trials using
+MSCs in damaged animals permitted alterations in the site
+of the injury; acute and less acute effects on the tissue were
+reduced promoting a permissive site for remyelination and
+local repair [19]. Functional regeneration and gradual
+improvement of locomotor function as assessed by BBB
+score (Basso-Beattie-Bresnahan) [36], incidences of spon-
+taneous movements, and neural growth have also been
+evidential after MSCs graft in rodents [20, 37]. Approaches
+with combined sources of non-embryonic stem cells are
+also applied in regenerative therapies. Moviglia et al. [38]
+have reported skin sensibility in patients with SCI after
+combined applications of MSCs and NSCs. Moreover, the
+application of diverse sources of NSCs was capable to
+promote urologic, sexual and intestinal function repairing
+[18]. Although the main objective of the studies with stem
+cells is the search for methods to restore the neural circuits,
+the therapies developed until the present moment still do
+not show an adequate mechanism to completely restore the
+damage in the spinal cord tissue.
+Brain–computer interface (BCI): future challenges
+During the last decade, the neuroscience research has been
+progressing in equal to technological improvement. A
+considerable progress has been made in understanding the
+CNS organization and, mainly, how the brain is capable to
+codify and manipulate high quantity of complex informa-
+tion [39–42]. The neuroprosthetic devices based on brain–
+computer interface (BCI) technology are a promise for
+body mobility regeneration in individuals who suffered any
+degenerative injury, limbs loss and neurological diseases
+[43]. Interface based on non-invasive techniques are
+applied in several clinical researches to detect and evaluate
+modular activities in the brain which are related to senso-
+rial inputs, intention and cognitive states [44–47]. Besides,
+noninvasive mechanisms have been developed to help
+disabled individuals in daily living tasks. These types of
+BCI are composed of systems for answering ‘‘yes’’ or ‘‘no’’
+to questions, managing the user’s environment, accessing
+the internet, or controlling a hand orthosis. Thus, disabled
+individuals can perform basic daily living tasks, such as
+word processing, catching an object, sending e-mails, or
+operating a motorized wheelchair [48].
+On the other hand, invasive techniques have been
+developed to establish the direct motor control domain
+[49]. Due to the disconnection between the brain and the
+spinal cord the information provided on the motor cortex is
+not transmitted through the pyramidal tract to the effector
+organ [50, 51]. These techniques allow a direct channel of
+communication between the CNS and the prosthetic devi-
+ces, providing a way to restore the lost capacity in spinal
+cord injured individuals [52, 53]. Applying the BCIs,
+commands can be extracted directly from cerebral activi-
+ties. The multiple channels of neural signals are recorded
+simultaneously and maintained in a decodification module.
+The interface will process and encode the neural signals in
+real time, extracting motor commands and sending to a
+robotic limb (neuroprosthesis) the brain motor intention,
+which still reproduces a motor thought [54].
+The interaction of the proprioceptive system with the
+motor intention is vital to perform a precise and natural
+movement [7]. The proprioceptive feedback rapidly cor-
+rects the movement [55]. Thus, the association with the
+proprioceptive and the visual feedback allows a better
+control of the device [56]. Lebedev and Nicolelis [49]
+emphasize that the BCI should promote to the limbs the
+same performance, sensation and action of the real limb,
+otherwise it can be rejected by the individual. The neuro-
+scientists also emphasize that to perform well with the BCI,
+multiple artificial signals coming from pressure and posi-
+tion sensors inserted in the prosthetic limb should be
+assimilated to the cerebral representation. These feedback
+signals are capable to educate the brain to incorporate the
+artificial proprieties of the neuroprosthesis, modify neurons
+located in cortical and subcortical areas that maintain the
+representation of the patient’s body. The future importance
+of such BCI applications will depend on their capacities,
+practicality, reliability and acceptance by particular groups
+of users, and on the extent to which they have substantial
+advantages over conventional assistive technology.
+Therefore, we should evaluate what has actually been
+achieved in patients with spinal cord lesions thus far.
+Clinical applications of BCI on motor control
+restoration in patients with spinal cord lesions
+The clinical applications via noninvasive and invasive BCI
+may serve as evidence for the feasibility of controlling
+neuroprosthesis, providing a solid basis for the develop-
+ment of ‘thought’-controlled neuroprosthesis, which seem
+to assist patients with severe paralysis to motor control
+restoration. Pfurtscheller et al. [57] investigated the possi-
+bility of modulating sensorimotor rhythms in a young tet-
+raplegic subject since 1998. The patient was able to
+modulate sensorimotor rhythms (i.e., central mu-rhythms)
+after extensive training, controlling an electro stimulation
+device (FES) applied to the forehand muscles. Thus, he
+was able to grasp a glass and bring it to his mouth after
+4 months of regular training. Three years ago, Pfurtscheller
+et al. [58] examined two tetraplegic patients (male, SCI at
+level C5 and sub-C5, respectively) using the same task.
+430 Neurol Sci (2013) 34:427–433
+123
+FES restores the grasp function of the left hand of the first
+patient using surface electrodes applied to forearm mus-
+cles. The patient learned to induce his sensorimotor
+rhythms (i.e., ERD—17 Hz oscillations) through 4 months
+of foot MI training. With respect to the second patient, a
+FES system was implanted in his right hand and arm. After
+3 days of feedback training, the patient learned to induce
+an ERD pattern of sensorimotor rhythms during left-hand
+MI, allowing a binary control signal to emulate the
+shoulder joystick used to operate the FES system.
+Trials with invasive methods have been made in animals
+and humans; however, the experiments still need to over-
+come several obstacles. One of those refers to neural
+recording that lacks quality and stability, to prevent inflam-
+matory reaction and cerebral tissue damage. In addition, the
+degree of freedom in interfaces needs to be enhanced to
+provide a stable performance of the neuroproteases. In rela-
+tion to the amount of neurons that will efficiently control this
+device, Nicolelis and Lebedev [59] includes in his research a
+fundamental question that is still being studied: ‘‘What
+should be the satisfactory amount of neurons to activate the
+motor control restoration?’’ To answer this question, studies
+are being conducted in monkeys at the University of Duke in
+North Carolina. The neuroproteases, implanted in motor
+areas, are based on bidirectional systems in which the motor
+control signals are extracted from the brain using a group of
+multi-electrodes. The sensorial feedback made by tactile, and
+proprioceptive stimuli and other functional signals are sent to
+the sensorial areas of the brain through intracortical stimu-
+lation (ICMS) [60]. Based on these methods, The Walk
+Again Project (WAP), an international scientific consortium
+led by researchers of Duke University and composed by two
+headquarters,1 has been trying to develop and incorporate the
+first brain–machine interface capable of restoring the cor-
+poral mobility in SCI or neurodegenerative diseases’
+patients. This interface called ‘‘wearable robot’’ will make
+possible that movements from all parts of the patient’s body
+be controlled and fulfilled by his voluntary brain activity.
+This exoskeleton will be designed to sustain and transport the
+patient’s body according to his mental will [51].
+Another type of BCI, the neuromotor prostheses, refer-
+red by Hochberg and co-workers [61], is capable to guide
+the movements through the patterns of neural activities in
+the primary motor area (M1). The authors have shown that
+the neuroprosthesis requires a detection sensor of the
+multiple neuron activities and an encoder to translate a
+group of discrete patterns in motor commands. In order to
+make these commands occur correctly, a neuroprosthesis
+should have a device capable to involve the effectors in the
+determinate action. In 2004, Hochberg et al. [61] made the
+first trial to implant the BCI. Micro-electrodes have been
+implanted in M1 area in a 25-year-old woman that in 2001
+suffered a SCI at the cervical level resulting in tetraplegia.
+After a functional magnetic resonance imaging (fMRI) it
+could be observed that action potentials were still being
+generated in the cortical area, even after 3 years of SCI. In
+the same year, a second patient was included in the
+research, a 55-year-old man that suffered a SCI in 1999, in
+C4 level. After 7 months of adaptation to micro-electrodes
+implement in the M1 area, the recording confirmed neural
+activity in the M1 area.
+In order to stabilize the transformation of the firing
+patterns in the M1, Hochberg et al. [61] mentioned that
+neural filters generators of bidimensional output signals to
+the computer control position should be created with a new
+approach for people with paralysis. In this study, the filters
+have been used to decode the activity and direction of the
+cursor by neural activation. The desired action in the first
+moment consisted in the mental visualization of the hands
+controlling a computer mouse. After that, the subject was
+instructed to follow the movement of the cursor in the
+computer. The results of the study indicate that even after
+years of damage, and in absence of sensorial feedback and
+limb movements, the neurons of the M1 area were still
+active and capable to decode the information related to a
+specific task. Therefore, the control signal of neural activity
+can be used in several interfaces. Simple assistance devices
+such as visual interface of e-mails and control of electronic
+equipment will help the injured individuals in basic tasks.
+Besides, Hochberg et al. [61] describe the employment of a
+prosthetic hand to the neural output. After the coupling, the
+subject imagined and produced verbal commands (open/
+close) leading the hand to open and close the fingers. Due
+to interfering factors such as the modest implanted area, the
+chosen approach for filters construction, and the attention
+and motion state, the subject showed an inferior level of
+control of actions when compared to healthy individuals.
+Conclusion
+As outlined in the previous sections two distinct methods
+were shown which can be considered promising approa-
+ches in neurorehabilitation for SCI progress; however, their
+true potential in the spinal cord repair have not yet clearly
+been shown. The use of stem cells in the therapeutic field is
+still dealing with barriers of ethics and religion. which do
+not allow researching with all types of stem cells. At the
+same time, the BCI technology is facing limitations in
+developing artificial tools which are capable of linking the
+1 The Center for Neuroprosthetics at the École Polytechnique
+Fédérale de Lausanne (EPFL), in Switzerland, and the Laboratory
+of Dr. Gordon Cheng at the Technical University of Munich in
+Germany are the houses of the European headquarters of the WAP
+and the Latin American headquarters, the Brazilian National Institute
+of Brain–Machine Interface located in Natal, Brazil [51].
+Neurol Sci (2013) 34:427–433 431
+123
+living brain tissue and being incorporated. Then there is
+still no clear evidence that either stem cells or BCI tech-
+nology presently makes the cure for SCI possible. Studies
+have been developed around the world, and maybe we will
+see one of these therapies being successful in the near future.
+References
+1. Bazley FA, All AH, Thakor NV, Maybhate A (2011) Plasticity
+associated changes in cortical somatosensory evoked potentials
+following spinal cord injury in rats. Conf Proc IEEE Eng Med
+Biol Soc 2011:2005–2008
+2. Musienko P, Heutschi J, Friedli L, Van den Brand R, Courtine G
+(2012) Multi-system neurorehabilitative strategies to restore
+motor functions following severe spinal cord injury. Exp Neurol
+235(1):100–109
+3. Sobani ZA, Quadri SA, Enam SA (2010) Stem cells for spinal
+cord regeneration: current status. Surg Neurol Int 1:93
+4. Gaspar MIFAS, Cliquet Junior A, Lima VMF, Abreu DCC
+(2008) Evaluation of ASIA and somatosensory evoked potential
+in individuals with paraplegia. Coluna 7(3):223–229
+5. Barros Filho TEP, Oliveira RP, Tsanaclis AM, Barros EMK,
+Cristante AF, Palma RM et al (2002) An experimental model for the
+transplantation of fetal central nervous system cells to the injured
+spinal cord in rats. Rev Hosp Clı́n Fac Med S Paulo 57(6):257–264
+6. Narazaki DK, de Barros Filho TEP, de Oliveira CRGCM, Cris-
+tante AF, Iutaka AS, Marcon R, Oliveira RP (2006) Spinal Cord
+regeneration: the action of neurotrophin-3 in spinal cord injury in
+rats. Clinics 61(5):453–460
+7. Suminski AJ, Tkach DC, Hatsopoulos NG (2009) Exploiting
+multiple sensory modalities in brain–machine interfaces. Neural
+Netw 22:1224–1234
+8. Filli LB, Weinmann O, Schwab ME (2011) Motor deficits and
+recovery in rats with unilateral spinal cord hemisection mimic the
+Brown-Sequard syndrome. Brain 134(8):2261–2273
+9. Choi Kyeong Bo, Lee Choon Dae, Chung Dai-Jin, Lee Sang-Ho
+(2009) Cervical disc herniation as a cause of Brown-Séquard
+syndrome. J Korean Neurosurg Soc 46(5):505–510
+10. Ghosh A, Sydekum E, Florent Haiss F, Peduzzi S, Zörner B,
+Schneider R, Baltes C, Rudin M et al (2009) Functional and
+anatomical reorganization of the sensory-motor cortex after
+incomplete spinal cord injury in adult rats. J Neurosci 29(39):
+12210–12219
+11. Thuret S, Moon LDF, Gage FH (2006) Therapeutic interventions
+after spinal cord injury. Nat Rev Neurosci 7(8):628–643
+12. Neves MA, Mello MP, Antonioli R, Freitas MRG (2007) Func-
+tional and clinical scales in management of individuals with
+traumatic injuries of spinal cord. Rev Neurosci 15(3):234–239
+13. Bydlowski SP, Debes AA, Duarte SA, Janz FL, Cavaglieri RC,
+Maselli LMF (2009) Células-tronco do lı́quido amniótico. Ver
+Brás Hematol Hemoter 31 suppl 11 (in Portuguese)
+14. Tewarie RSN, Hurtado A, Bartels RH, Grotenhuis A, Oudega M
+(2009) Stem cell-based therapies for spinal cord injury. J Spinal
+Cord Med 32(2):105–114
+15. Rossi SL, Keirstead HS (2009) Stem cells and spinal cord
+regeneration. Curr Opin Biotech 20:552–562
+16. Jones R, Lebkowski J, McNiece I (2010) Stem Cells. Biol Blood
+Marrow Transplant 16(1 suppl):S115–S118
+17. Bydlowski SP, Debes AA, Maselli LMF, Janz FL (2009) Cara-
+cterı́sticas biológicas das células-tronco mesenquimais. Rev Bras
+Hematol Hemoter 31(1 suppl):25–35
+18. Ichim TE, Solano F, Lara F, Paris E, Ugalde F, Rodriguez JP et al
+(2010) Feasibility of combination allogeneic stem cell therapy for
+spinal cord injury: a case report. Int Arch Med 11(3):30
+19. Wright KT, Masri WE, Osman A, Chowdhury J, Johnson WEB
+(2011) Concise review: bone marrow for the treatment of spinal
+cord injury: mechanisms and clinical applications. Stem Cells
+29:169–178
+20. Wu S, Suzuki Y, Ejiri Y, Noda T, Bai H, Kitada M et al (2003)
+Bone marrow stromal cells enhance differentiation of cocultured
+neurosphere cells and promote regeneration of injured spinal
+cord. J Neurosci Res 72:343–351
+21. Abdallah BM, Kassem M (2008) Human mesenchymal stem
+cells: from basic biology to clinical applications. Gene Ther
+15(2):109–116
+22. Zietlow R, Lane EL, Dunnett SB, Rosser AE (2008) Human stem
+cells for CNS repair. Cell Tissue Res 331:301–322
+23. Gögel S, Gubernator M, Minger SL (2011) Progress and pros-
+pects: stem cells and neurological diseases. Gene Ther 18:1–6
+24. Liverman CT, Altevogt M, Joy JE, Johnson RT (2005) Spinal
+cord injury: progress, promise, and priorities. The National
+Academies Press, Washington
+25. Zhang YW, Denham J, Thies RS (2000) Oligodendrocyte pro-
+genitor cells derived from human embryonic stem cells express
+neurotrophic factors. Stem Cells Dev 15:943–952
+26. Glazova M, Pak ES, Moretto J, Hollis S, Brewer KL, Murashov
+AK (2009) Pre-differentiated embryonic stem cells promote
+neuronal regeneration by cross-coupling of BDNF and IL-6 sig-
+naling pathways in the host tissue. J Neurotrauma 26(7):
+1029–1042
+27. Keirstead HS, Nistor G, Bernal G, Totoiu M, Cloutier F, Sharp K
+et al (2005) Human embryonic cell-derived oligodendrocyte
+progenitor cell transplants remyelinate and restore locomotion
+after spinal injury. J Neurosci 25:4694–4705
+28. Nistor GI, Totoiu MO, Haque N, Carpenter MK, Keirstead H
+(2005) Human embryonic stem cells differentiate into oligoden-
+drocytes in high purity and myelinate after spinal cord trans-
+plantation. Glia 49:385–396
+29. Priest C, Davies A, Wirth E, Conta A, Polonskaya Y, Polons-
+kowski J (2009) Preclinical development of oligodendrocyte
+progenitor cells derived from human embryonic stem cells for the
+treatment of spinal cord injury. Cell Transplant 18:231
+30. Rabinovich SS, Seledtsov VI, Poveschenko OV, Senuykov VV,
+Taraban VY, Yarochno VI et al (2003) Transplantation treatment
+of spinal cord injury patients. Biomed Pharmacother 57(9):
+428–433
+31. Yan J, Xu L, Welsh AM, Hatfield G, Hazel T, Johe K et al (2007)
+Extensive neuronal differentiation of human neural stem cell
+grafts in adult rat spinal cord. PLoS Med. 4(2):e39
+32. Salazar DL, Uchida N, Hamers FPT, Cummings BJ, Anderson AJ
+(2010) Human neural stem cells differentiate and promote loco-
+motor recovery in an early chronic spinal cord injury NOD-scid
+mouse model. PLoS ONE 5(8):e12272
+33. Féron F, Perry C, Cochrane J, Licina P, Nowitzke A, Urquhart S
+et al (2005) Autologous olfactory ensheathing cell transplantation
+in human spinal cord injury. Brain 128:2951–2960
+34. Huang H, Chen L, Wang H, Xiu B, Li B, Wang R et al (2003)
+Influence of patients’ age on functional recovery after trans-
+plantation of olfactory ensheathing cells into injured spinal cord
+injury. Chin Med J 116(10):1488–1491
+35. Lima C, Escada P, Pratas-Vital J, Branco C, Arcangeli CA,
+Lazzeri G et al (2010) Olfactory mucosal autografts and reha-
+bilitation for chronic traumatic spinal cord injury. Neurorehabil
+Neural Repair 24:10–22
+36. Cizková D, Rosocha J, Vanicky I, Jergova S, Cizek M (2006)
+Transplants of human mesenchymal stem cells improve functional
+432 Neurol Sci (2013) 34:427–433
+123
+recovery after spinal cord injury in the rat. Cell Mol Neurobiol
+26:1165–1178
+37. Ankeny DP, McTigue DM, Jakeman LB (2004) Bone marrow
+transplants provide tissue protection and directional guidance for
+axons after contusive spinal cord injury in rats. Exp Neurol 190:17–31
+38. Moviglia GA, Viña RF, Brizuela JA, Saslavsky J, Vrsalovic F,
+Varela G et al (2006) Combined protocol of cell therapy for
+chronic spinal cord injury. Report on the electrical and functional
+recovery of two patients. Cytotherapy 8(3):202–209
+39. Lebedev MA, Tate AJ, Hanson TL, Li Z, O’Doherty JE, Winans
+JA et al (2011) Future developments in brain–machine interface
+research. Clinics 66(S1):25–32
+40. JdR Millán, Rupp R, Müller-Putz GR, Murray-Smith R, Gi-
+ugliemma C, Tangermann M et al (2010) Combining brain–
+computer interfaces and assistive technologies: state-of-the-art
+and challenges. Front Neurosci. 4:161
+41. Birbaumer N, Cohen LG (2007) Brain–computer interfaces:
+communication and restoration of movement in paralysis.
+J Physiol 579(3):621–636
+42. Partil PG, Turner DA (2008) The development of brain–machine
+interface neuroprosthetic devices. Neurotherapeutic 5(1):137–146
+43. Fagg AH, Hatsopoulos NG, de Lafuente V, Moxon KA, Nemati
+S, Rebesco JM et al (2007) Biomimetic brain machine interfaces
+for the control of movement. J Neurosci 27(44):11842–11846
+44. Krepki R, Blankertz B, Curio G, Müller KR (2007) The Berlin
+Brain-Computer Interface (BBCI)—towards a new communica-
+tion channel for online control in gaming applications. Multimed
+Tools Appl
+45. Kreilinger A, Kaiser V, Breitwieser C, Williamson J, Neuper C,
+Müller-Putz GR (2011) Switching between manual control and
+brain–computer interface using long term and short term quality
+measures. Front Neurosci 5:147
+46. Liao LD, Chen CY, Wang IJ, Chen SF, Li SY, Chen Bw et al
+(2012) Gaming control using a wearable and wireless EEG-based
+brain–computer interface device with novel dry foam-based
+sensors. J Neuroeng Rehabil 28(9):5
+47. Doud AJ, Lucas JP, Pisansky MT, He B (2011) Continuous three-
+dimensional control of a virtual helicopter using a motor imagery
+based brain–computer interface. PLoS ONE 6(10):e26322
+48. Andersen RA, Musallam S, Pesaran B (2004) Selecting the signals
+for a brain–machine interface. Curr Opin Neurobiol 14:720–726
+49. Lebedev MA, Nicolelis MAL (2006) Brain–machine interfaces:
+past, present and future. Trends Neurosci 29(9):536–546
+50. Friehs GM, Zerris VA, Ojakangas CL, Fellows MR, Donoghue JP
+(2004) Brain–machine and brain–computer Interfaces. Stroke.
+35[suppl I]:2702–2705
+51. Nicolelis M (2011) Muito além do nosso eu: a nossa neurociência
+que une cérebros e maquinas—e como ela pode mudar nossas
+vidas. São Paulo, Companhia das Letras (in portuguese)
+52. Mahmoudi B, Sanchez JC (2011) A symbiotic brain–machine
+interface through value-based decision making. PLoS ONE 6(3):
+e14760
+53. Scherberger H (2009) Neural control of motor prostheses. Curr
+Opin Neurobiol 19:1–5
+54. Wang W, Collinger JL, Perez MA, Tyler-Kabara EC, Cohen LG,
+Birbaumer N et al (2010) Neural interface technology for reha-
+bilitation: exploiting and promoting neuroplasticity. Phys Med
+Rehabil Clin N Am 21:157–178
+55. Hatsopoulos NG, Donoghue JP (2009) The science of neural
+interface system. Annu Rev Neurosci 32:249–266
+56. Suminski AJ, Tkach DC, Fagg AH, Hatsopoulos NG (2010)
+Incorporating feedback from multiple sensory modalities enhan-
+ces brain–machine interface control. J Neurosci 30(50):16777–
+16787
+57. Pfurtscheller G, Guger C, Müller G, Krausz G, Neuper C (2000)
+Brain oscillations control hand orthosis in a tetraplegic. Neurosci
+Lett 292:211–214
+58. Pfurtscheller G, Müller GR, Pfurtscheller J, Gerner HJ, Rupp R
+(2003) Thought-control of functional electrical stimulation to
+restore hand grasp in a patient with tetraplegia. Neurosci Lett
+351:33–36
+59. Nicolelis MA, Lebedev MA (2009) Principles of neural ensemble
+physiology underlying the operation of brain–machine interfaces.
+Nat Rev Neurosci 10:530–540
+60. O’Doherty JE, Lebedev MA, Hanson TL, Fitzsimmons NA, Ni-
+colelis MA (2009) A brain–machine interface instructed by direct
+intracortical microstimulation. Front Integr Neurosci 3:20
+61. Hochberg LR, Serruya MD, Friehs GM, Mukand JA, Saleh M,
+Caplan AH, Branner A, Chen D, Penn RD, Donoghue JP (2006)
+Neuronal ensemble control of prosthetic devices by a human with
+tetraplegia. Nature 442:164–171
+Neurol Sci (2013) 34:427–433 433
+123

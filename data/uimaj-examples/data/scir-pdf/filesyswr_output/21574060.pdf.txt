@@ -1,0 +1,1423 @@
+Cell proliferation and cytoarchitectural remodeling during spinal
+cord reconnection in the fresh-water turtle Trachemys dorbignyi
+María Inés Rehermann,
+Departamento de Neurofisiología Celular y Molecular, Avenida Italia 3318, Montevideo, Uruguay
+Federico Fernando Santiñaque,
+Servicio de Clasificación Celular y Citometría de Flujo, Instituto de Investigaciones Biológicas
+Clemente Estable (IIBCE), Avenida Italia 3318, Montevideo, Uruguay
+Beatriz López-Carro,
+Servicio de Clasificación Celular y Citometría de Flujo, Instituto de Investigaciones Biológicas
+Clemente Estable (IIBCE), Avenida Italia 3318, Montevideo, Uruguay
+Raúl E. Russo, and
+Departamento de Neurofisiología Celular y Molecular, Avenida Italia 3318, Montevideo, Uruguay
+Omar Trujillo-Cenóz
+Departamento de Neurofisiología Celular y Molecular, Avenida Italia 3318, Montevideo, Uruguay
+Omar Trujillo-Cenóz: omar@iibce.edu.uy
+Abstract
+In fresh-water turtles, the bridge connecting the proximal and caudal stumps of transected spinal
+cords consists of regenerating axons running through a glial cellular matrix. To understand the
+process leading to the generation of the scaffold bridging the lesion, we analyzed the mitotic
+activity triggered by spinal injury in animals maintained alive for 20–30 days after spinal cord
+transection. Flow cytometry and bromodeoxyuridine (BrdU)-labeling experiments revealed a
+significant increment of cycling cells around the lesion epicenter. BrdU-tagged cells maintained a
+close association with regenerating axons. Most dividing cells expressed the brain lipid-binding
+protein (BLBP). Cells with BrdU-positive nuclei expressed glial fibrillary acidic protein. As spinal
+cord regeneration involves dynamic cell rearrangements, we explored the ultra-structure of the
+bridge and found cells with the aspect of immature oligodendrocytes forming an embryonic-like
+microenvironment. These cells supported and ensheathed regenerating axons that were recognized
+by immunocytological and electron-microscopical procedures. Since functional recovery depends
+on proper impulse transmission, we examined the anatomical axon-glia relationships near the
+lesion epicenter. Computer-assisted three-dimensional models revealed helical axon-glial
+junctions in which the intercellular space appeared to be reduced (5–7 nm). Serial-sectioning
+analysis revealed that fibril-containing processes provided myelinating axon sheaths. Thus,
+disruption of the ependymal layer elicits mitotic activity predominantly in radial glia expressing
+BLBP on the lateral aspects of the ependyma. These cycling cells seem to migrate and contribute
+to the bridge providing the main support and sheaths for regenerating axons.
+© Springer-Verlag 2011
+Correspondence to: Omar Trujillo-Cenóz, omar@iibce.edu.uy.
+The content of this article is solely the responsibility of the authors and does not necessarily represent the official views of the
+National Institute of Neurological Disorders and Stroke or the National Institutes of Health.
+NIH Public Access
+Author Manuscript
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+Published in final edited form as:
+Cell Tissue Res. 2011 June ; 344(3): 415–433. doi:10.1007/s00441-011-1173-y.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Keywords
+Spinal cord; Cell proliferation; Regeneration; Radial glia; Re-myelination; Turtle; Trachemys
+dorbignyi (Chelonia)
+Introduction
+Anamniotes such as cyclostomes (Rovainen 1976; Wood and Cohen 1979; Armstrong et al.
+2003; Shifman et al. 2007), certain fish (Coggeshall and Youndblood 1983; Dervan and
+Roberts 2003; Takeda et al. 2007; Reimer et al. 2008), anuran larvae (Lorente de Nó 1921;
+Michel and Reier 1979; Beattie et al. 1990; Gibbs and Szaro 2006), and tailed amphibians
+(Piatt 1955; Butler and Ward 1965; Stensaas 1983; Davis et al. 1990; Chevallier et al. 2004;
+Mchedlishvili et al. 2007) are able to repair their damaged spinal cords and to recover some
+of the functions lost by injury. In addition, we have recently reported that an amniote
+vertebrate (the fresh-water turtle, Trachemys dorbignyi) also exhibits outstanding self-
+repairing capabilities after the complete transection of the spinal cord. Turtles spontaneously
+reconnect their severed spinal cords, leading in some cases to substantial motor recovery
+(Rehermann et al. 2009). The same study has revealed the occurrence of regenerated axons
+traveling on a cellular scaffold bridging the injured spinal cord segments. In contrast to
+mammals, reactive glial cells in turtles do not form the typical “glial scar” blocking the
+passage of incoming axons (Ramón y Cajal 1913–1914; Silver and Miller 2004; Thuret et al.
+2006). The present work focuses on the following: (1) the reconnection of the transected
+cord mediated by axonal regrowth and cell proliferation, (2) the identification of the origin
+of some of the regenerating axons, (3) an assessment of the spatial spread of the mitotic
+wave elicited by spinal cord transection, (4) the nature of the proliferating cells facilitating
+axonal growing, and (5) a study of the early steps of the remyelination process that occurs
+during repair.
+Transection of the spinal cord and the concomitant retraction of the rostral and caudal
+stumps create a gap that is initially filled by a clot. This is replaced later by a cellular bridge
+supporting the transit of the regenerating axons (Rehermann et al. 2009). The development
+of this cellular scaffold should involve active cell proliferation and cell migration toward the
+damaged site. Since spinal cord injuries trigger mitotic activity in the cord parenchyma
+(Adrian and Walker 1962; Liu et al. 1998, 2000; Mothe and Tator 2005; Vessal et al. 2007;
+Meletis et al. 2008), we hypothesize that the injured site should contain a large number of
+cycling cells in close association with the regenerating axons. To test this hypothesis, we
+have employed two technical approaches: (1) the quantification of dividing cells by flow
+cytometry (FC), and (2) the quantification of bromodeoxyuridine (BrdU)-tagged cells in
+sections obtained at various spinal cord levels. We have also determined the nature of the
+cycling cells by double-labeling immunocytochemical experiments in BrdU-injected turtles.
+Spinal cord regeneration involves processes such as the replacement of lost cells, axonal
+growth with navigation toward proper targets, and remyelination (Horner and Gage 2000;
+Thuret et al. 2006). These diverse events normally occur dynamically during the
+development of the central nervous system (Sanes et al. 2006). We thus hypothesize that,
+during endogenous repair of the turtle spinal cord, an embryonic-like environment appears
+in the healing zone. During this process, regenerating axons have to be myelinated if they
+are to conduct rapid signals for an efficient functional recovery (Horner and Gage 2000).
+This does not exclude the regeneration of non-myelinated axons that, for example, might
+contribute to the restoration of important vegetative functions. To analyze the
+microenvironment surrounding the regenerating axons at the bridge level and the early
+myelination process, we have taken advantage of the high resolution offered by transmission
+Rehermann et al. Page 2
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+electron microscopy (TEM) complemented with computer-assisted three-dimensional (3D)
+models. The TEM data show a loose cellular organization that differs from the compact
+histological architecture characteristic of the undamaged spinal cord. Within this embryonic-
+like microenvironment, we have found diverse stages of ensheathing that range from
+partially covered axons to complete sheaths with multiple myelin layers. In line with our
+previous results (Rehermann et al. 2009), these are the first reports that, in an amniote
+vertebrate, new cells are incorporated into the disrupted spinal cord region creating a
+suitable microenvironment for the displacement of target-searching glial processes in
+parallel with axonal regrowth.
+Materials and methods
+Animals
+Fresh-water turtles (Trachemys dorbignyi, with carapace lengths ranging between 5–12 cm;
+n=27) were maintained in temperate aquaria (28–30°C) under natural illumination and fed
+daily with small earthworms. The selected temperature optimizes turtle feeding behavior and
+also promotes cell proliferation (Radmilovich et al. 2003). All the studies were conducted
+under the guidance of our local Committee for Animal Care and Research following NIH
+guidelines for the maintenance and use of laboratory animals (CHEA, UDELAR).
+Surgical procedures
+The relevant surgical procedures have been described in detail elsewhere (Rehermann et al.
+2009). Briefly, turtles were sedated with ketamine chlorhydrate (40 mg/kg body weight) and
+deeply anesthetized with isofluorane (Forane, Abbott Laboratories, Berkshire, UK). The
+third dorsal scute was then partially removed to expose the underlying spinal cord, which
+was transversally cut at the level of the 13th–14th thoraxic (from the 1st cervical vertebra)
+vertebrae with a fine scalpel. Completeness of the section was checked by observing the
+immediate retraction and separation of both spinal stumps with diameters ranging between
+250 and 300 μm. The space between the resulting stumps was about 0.1 mm (based on
+measurements of the clot width). Histological evidence indicating the efficacy of the
+surgical procedure was as previously presented (Rehermann et al. 2009, Fig. 1). Finally, the
+lifted scute was replaced and glued with cyanoacrylate. We also performed “sham”
+experiments in which the spinal cord was exposed but not injured (n=3). Despite the
+paralysis of the hindlimbs, the animals were able to catch living prey and did not require
+special postoperative care. All operated animals (n=19) were maintained in temperate
+aquaria (25°C) and fed with living earthworms. All experiments were carried out on animals
+maintained alive for 20–30 days after spinal cord transection. We selected this time window
+because previous studies (Rehermann et al. 2009) had indicated that the bridge connecting
+the caudal and cephalic stumps had developed, and that the majority of injured turtles had
+started to show movements (still uncoordinated) of their hindlimbs.
+Flow cytometry
+Spinal cord portions of 3–4 mm in length were obtained from homologous regions of control
+animals (n=3), sham-experimented turtles (n=3), and injured turtles (n=3) were washed in
+phosphate-buffered saline (PBS) and disaggregated in 400 μl PBS by chopping with a razor
+blade. The cell suspension was then filtered through a 45-μm nylon mesh to remove tissue
+debris. Cells were fixed drop by drop with 1 ml fresh ice-cold ethanol (70% absolute
+ethanol, 30% filtered PBS) by using a vortex to avoid the formation of cell clumps. Within
+24–48 h after fixation, the cell suspension was centrifugated at 1200 rpm for 6 min and
+resuspended in 250 μl PBS after discarding the supernatant. For DNA staining, 25 μl
+propidium iodide (PI; 1 mg/ml; Sigma) was added to the cell suspension with 25 μl RNase A
+Rehermann et al. Page 3
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+(1 mg/ml; Sigma) to avoid the staining of double-stranded RNA. Samples were kept on ice
+for 10 min and immediately analyzed by FC.
+A FACSVantage flow cytometer (Becton Dickinson [BD], San José, USA) equipped with a
+water-cooled argon ion LASER Innova 304 (Coherent, USA) tuned to emit at 488 nm was
+used. The laser power was set to 100 mW, and the fluorescence emitted from PI was
+collected in FL2 by using a 575/26 band-pass filter. A 70-μm nozzle was selected to perform
+flow cytometric measurements. To optimize fluorescence detection and to check instrument
+linearity, we used chicken red blood cells and DNA QC particles (BD). Forward scatter
+(FSC-H), side scatter (SSC-H), pulse-area or total emitted fluorescence (FL2-A), and pulse-
+width or duration of fluorescence emission (FL2-W) were analyzed with CELLQuest
+software (BD). Dot plots of FL2-A versus time were used as a control of fluorescence
+emission during sample analysis. A total of 5000 events were analyzed per sample. Doublets
+were excluded from the analysis through gating on the G1, S, and G2 cell populations (R1)
+in FL2-A versus FL2-W dot plots. The relative proportion of cells in S and G2 phase was
+estimated in a FL2-A histogram based on R1 gated data by using appropriate markers
+(M1=G1 and M2=S+G2/M).
+BrdU injection and immunocytochemistry
+Turtles with injured cords (n=3) began to receive intraperitoneal BrdU injections 20 days
+after surgery. They were injected during 3 consecutive days (daily injections of 100 mg kg
+body weigth), anesthetized as described, and fixed by perfusion on the fourth day. Uninjured
+control turtles (n=3) also received the same BrdU doses and were anesthetized and fixed by
+perfusion on the fourth day. Fixed spinal cords from turtles injected with BrdU were
+dissected out and divided into separated portions of 4 mm in length. To maintain an ordered
+cephalic-caudal arrangement of the partitioned cord, we made asymmetric cuts in the
+cephalic and caudal surfaces of each portion. The region comprising the damaged cord was
+identified as the lesion epicenter (LEPI), because of its more transparent appearance as
+viewed under the dissection microscope. The LEPI was considered as a landmark separating
+rostral from caudal segments (RS-CS). The spinal cords were serially cut (70 μm thickness)
+with a vibrating microtome, and the floating sections were sequentially collected in
+numbered plastic wells. Twenty sections were randomly selected from LEPI and 10 sections
+from both adjacent RS and CS. BrdU detection was performed as follows: the sections were
+pretreated with 2 N HCl, washed several times with phosphate buffer (PB), and incubated
+overnight with the BrdU antibody. For quantitative studies, the secondary antibody was
+conjugated with horseradish peroxidase and processed with 3,3′-diaminobenzidine. For
+double-staining experiments, secondary antibodies were conjugated with appropriated
+fluorophores.
+For other immunohistochemistry studies (n=4), tissues were sectioned with a vibrating
+microtome (at 60–80 μm). Sections were placed in PB with 0.5% bovine serum albumin
+(BSA) for 30 min and then incubated with the primary antibodies diluted in PB with 0.3%
+Triton X-100 (Sigma-Aldrich). Incubation times and antibody concentrations were
+optimized for each case. After being washed in PB, sections were incubated in secondary
+antibodies conjugated with various fluorophores. In co-labeling experiments, Alexa 488 and
+633 (Invitrogen) were used to avoid cross-talk. We carried out controls by suppressing
+primary antibodies during tissue processing.
+To immunophenotype dividing cells and to label the growing axons, we assayed various
+antibodies as shown in Table 1.
+Unspecific sites were routinely blocked with BSA (0.5%), and then sections were incubated
+overnight with the primary serum (in PB and 0.3% Triton-X 100). After being washed, the
+Rehermann et al. Page 4
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+sections were incubated with the secondary antibodies (1:200–1:1000). Control experiments
+were carried out by replacing antibodies with preimmune serum.
+Axonal tracers
+To identify the origin of the regenerating axons crossing the lesion, we used two technical
+procedures involving fixed and living tissues. In some experiments, we applied 1,1′, di-
+octadecyl 1–3,3,3′,3′-tetramethylcarbocyanine perchlorate (DiI; Invitrogen) crystals to fixed
+tissues (Godement et al. 1987; Köbbert et al. 2000), specifically to the sensory nerves
+entering the cord rostral to the lesion site. At the anterior limit of the third scute (vertebral
+segments 11th–12th), the spinal ganglia and sensory nerves are more accessible than at other
+levels, and hence spurious labeling would be more difficult to avoid. In other experiments,
+the same lipophilic dye was applied to the cut surfaces of the cord 3–4 mm caudal to the
+lesion site. Experiments involving living animals were performed by pressure-injecting
+neurobiotin (Vector Labs, Burlingame, Calif., USA; SP-1120-Lot no. 1106) into the caudal
+portions of the cord (15th–16th segments) in spinal-transected turtles.
+As shown in Fig. 1, the incoming sensory nerves are easily accessible away from their
+entrance into the ganglia. To reduce the risk of spurious labeling when applying DiI to the
+cut surface of the cord, we carried out experiments in which the sectioned surface was
+maintained within the vertebral canal and covered with an ultrathin film of Polyvinyl
+Formvar (Polysciences, Warrington, Pa., USA) supported on Sjöstrand-type rings (Sjöstrand
+1967); this film remained attached to the cord and formed a continuous coat. The film was
+then pierced with a fine glass needle, and DiI crystals were deposited on the perforated spot.
+By this means, direct contact of the tracer and tissues was limited to the small area
+underlying the opening made in the film coat (Fig. 2a). To avoid the potential spread of DiI
+outside the desired target during incubation, the region was covered with a second film that
+firmly stuck to the first. Labeled samples were transferred to a 4% paraformaldehyde/PBS
+solution and placed in the dark at 37°C for 20 days. After incubation, the film was removed
+with a pair of fine tweezers, and the pieces were embedded in a mixture of albumin and
+gelatin, hardened with glutaraldehyde, and sectioned with a vibrating microtome.
+We also performed “in vivo” experiments to identify retrogradely labeled neurons. A
+neurobiotin solution (10 mM in saline; Vector Laboratories, Burlingame, Calif., USA) was
+pressure injected (Picospritzer III, Parker Instrumentation) with a glass micropipette placed
+within the caudal stumps of the spinal cord 20–30 days following injury (Fig. 2b). At 4 days
+after injection, the animals were fixed by perfusion, and the spinal cord was sectioned with a
+vibrating microtome. To reveal the presence of retrogradely labeled neurons in segments
+cephalic to the lesion site, the sections were incubated in a 0.5% BSA solution for 1 h,
+washed in PBS several times, and transferred to a 1/400 solution of streptavidin conjugated
+with Alexa Fluor 633 (Invitrogen, cat. no. S21375) for 2 h. For the tracer experiments, we
+employed 5 turtles.
+Fluorescent signals were detected by using epifluorescence or confocal microscopy
+(Olympus VF 300). The images were imported into Fluoview 5 (Olympus) and then
+exported to PhotoShop (Adobe Systems, San José, Calif., USA) or CorelDraw (Corel
+Corporation, Ottawa, Ontario, Canada) for cropping and the creation of figure montages.
+When considered pertinent, the preparations were also viewed under Nomarsky optics. The
+images recorded with the confocal microscope were single optical sections and stacks
+resulting from the superposition of multiple optical sections. Transverse images of the stacks
+following the x-z and y-z planes were obtained with FluoView 5 (Olympus). When making
+stacks, we followed the data provided by the software to adjust spacing along the z axis and
+the diameter of the pinhole.
+Rehermann et al. Page 5
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+TEM procedures
+For TEM studies (n=3), the spinal cords of anesthetized turtles were fixed by perfusion in an
+aldehyde mixture containing 4% paraformaldehyde and 1% glutaraldehyde dissolved in 0.1
+M PB (pH 7.4). Small spinal cord portions were washed several times in PB and post-fixed
+in 1% OsO4 dissolved in the same buffer. The pieces were dehydrated and embedded in
+Durcupan ACM. Series of ultrathin sections were mounted on Formvar-coated slot grids
+(2×1 mm) and contrasted with uranyl acetate and lead citrate. The material was examined
+with a Jeol CX electron microscope equipped with a 4000 AM DVC digital camera. All 3D
+representations were obtained with the BioVis program (www@biovos3d.com) based on
+images obtained from continuous series of ultrathin sections.
+Quantification and statistical analysis
+For a comparison of cell proliferation in control, sham-injured, and injured spinal cords as
+shown by FC, a non-parametric one-sided Wilcoxon test was used. A value of P< 0.05 was
+considered statistically significant.
+To estimate the number of BrdU-tagged nuclei, we followed the guidelines proposed by
+Guillery and Herrup (1997). We counted the labeled nuclei enclosed within a circle (150 μm
+radius) centered on the central canal (CC). Counts were further processed by applying the
+Abercrombie correction (Abercrombie 1946). The same protocol was employed to estimate
+the number of BrdU-tagged nuclei in control experiments. In these cases, we identified, as
+topologically equivalent to LEPI, the spinal cord region (4 mm long) underlying the third
+scute. Distribution profiles of both injured and control animals were generated by plotting
+the Abercrombie-corrected data obtained from each section level (y axes) versus distances
+(measured in micrometers) from the lesion site (x axes). The significance of the differences
+between injured and control animals was estimated by applying the Kruskal-Wallis and the
+Wilcoxon pair-wise non-parametric tests (for details, see Results).
+Results
+Regenerating axons “bridge” injured site
+To confirm that the amputated axons were able to regenerate and to cross the lesion site, we
+employed immunocytochemical and axon-labeling procedures. As shown in Fig. 3a, at 20
+days after spinal cord transection, nerve fibers positive for Neurofilament M (NF-M) had
+crossed the injured site. At the tips of some of these fibers, we found the typical growth
+cones described by Ramón y Cajal (1913–1914) in the injured spinal cord of the different
+mammals. As in the regenerating spinal cord of cyclostomes (Shifman et al. 2007) and
+tadpoles (Lorente de Nó 1921), these growth cones adopted the form of cylindroconical
+masses or lanceolated endings without conspicuous filopodia (Fig. 3bc). The morphology of
+these growth cones was less elaborate than that reported for growth cones in the developing
+spinal cord of Xenopus tadpoles (Nordlander 1987). We also observed small terminal
+“rings” (Fig. 3c, d) reported to occur during axonal sprouting in the injured central nervous
+system (Ramón y Cajal 1913–1914) or in some synaptic contacts (Gray and Guillery 1961;
+Novotny 1979). To confirm the occurrence of growth cones, we performed TEM studies.
+Consistent with previous work (Tennyson 1970; Landis 1983; Williams et al. 1988), our
+images revealed that the bulbous tips of sprouting axons contained numerous clear-core
+vesicles together with a small number of “coated vesicles”. The vesicular material was
+intermingled with fine disorganized thin fibrils (Fig. 3d–f).
+The zone that contained growing axons also exhibited some of the classical “retraction
+balls” of Ramón y Cajal (1913–1914) or dystrophic nerve bulbs. This other kind of axonal
+compartment was larger than growth cones and tended to exhibit a spherical shape (Fig. 3g).
+Rehermann et al. Page 6
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+When examined with TEM (Fig. 3h), these end bulbs were recognized not only by their
+larger size, but also by fine structural details such as the presence of a neurofibrillar core,
+sparse dispersed dense-core vesicles, and large electron-dense phagosomes (Williams et al.
+1988). More recent investigations support the view that these enlarged terminals are
+metabolically active axons in the stand-by mode (Li and Raisman 1995; Houle and Jin 2001)
+and not decaying nerve fibers as originally proposed by Ramón y Cajal (1913–1914).
+Axon-labeling experiments employing DiI and neurobiotin (Huang et al. 1992) provided
+information about the origin of some of the crossing fibers (Fig. 4a). When DiI crystals were
+applied to the tips of sectioned sensory nerves close to dorsal ganglia that lay rostral to the
+injured zone, sensory neurons in the ganglia (Fig. 4b) and the entering axons (Fig. 4c)
+appeared stained at various levels of the cord. Labeled axons were recognized at the bridge
+region and also within the caudal stump (Fig. 4d). Double-labeling experiments with NF-M
+antibody revealed DiI-stained axons running between neurons caudal to the lesion site (Fig.
+4e). In a previous paper, we have described synaptic-like contacts between regenerated
+sensory fibers and spinal cord neurons (Rehermann et al. 2009). These results are consistent
+with the recognized regeneration overcapabilities of the dorsal root axons (Ramón y Cajal
+1913–1914; Davies et al. 1999). We obtained robust staining of crossing axons when DiI
+crystals were applied to the cut surface of the cord in regions caudal to the injured site (Fig.
+4f, g). Moreover, some of the parent perikarya were depicted in regions rostral to the lesion
+site by retrograde diffusion of the dye along the axonal membranes (Fig. 4h). As reported
+previously (Rehermann et al. 2009), DiI-stained neurons were commonly of a small size and
+appeared to form assemblies distributed at various levels of the rostral stump. Thorough low
+power exploration of the mesenchymal sheaths covering the regenerating bridge showed no
+evidence of “dye bleeding” toward the regenerating axon bundles. In addition, high
+magnification confocal images revealed the specific staining of axons of diverse diameters
+without evidence of dye transport via the extracellular space (Fig. 4g). Low power images
+covering several cord segments also indicated that the meninges were free from dye
+labeling, thus making spurious stain originating from this source unlikely. These
+experiments indicated that some of the regenerating axons originated from sensory
+collaterals running along the dorsal funiculi and also from medium-sized interneurons lying
+close to the injured region. Additional evidence resulted from “in vivo” experiments
+involving the retrograde transport of neurobiotin. These experiments confirmed that small
+and medium-sized neurons, located close to the injured site, were one of the sources of
+regenerating axons. Using this technical approach (Huang et al. 1992), we found Golgi-like
+and granular stained neurons (Fig. 5a). Abundant Golgi-like labeled processes occurred near
+the stained neuron pools (Fig. 5b, arrows).
+Newborn cells for repairing injured spinal cord
+In the spinal cord of the turtle, substantial cell proliferation occurs in the ground state
+(Fernández et al. 2002; Russo et al. 2008). To investigate whether the number of cycling
+cells was affected by spinal injury, the cell cycle profile was examined by measuring the
+DNA content of PI-stained cells by FC. Typical examples comparing normal uninjured
+turtles, sham experiments, and spinal-transected animals are illustrated in Fig. 6, Table 2.
+The distribution of cells in the three cycle phases showed a significant increment of cycling
+cells in the injured animals. The increment was statistically significant (P<0.05, one-sided
+Wilcoxon rank-sum test) at LEPI without statistically significant differences at more rostral
+or caudal levels.
+To study the spatial extension of the increased cell proliferation, we performed “fine grain”
+experiments in which S-phase cells were BrdU-stained, and the number of BrdU-tagged
+nuclei were estimated at various spinal cord levels. This technical approach with various
+fluorophores allowed double-labeling experiments for the identification of the nature of the
+Rehermann et al. Page 7
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+cycling cells and their relationships with the regenerating axons. As in the FC experiments,
+we found, at the LEPI level, a statistically significant increase in the number of BrdU-
+positive nuclei in the injured animals compared with control animals (Fig. 7a). The Kruskal-
+Wallis test showed that independent samples from three injured turtles (20 samples each
+group) came from distributions with equal medians. The same test showed that control
+turtles (n=3, 20 samples each group) also had distributions with equal medians. The
+Wilcoxon test between injured and control turtles revealed that medians were significantly
+different (P<0.000001). However, differences between injured and control animals
+attenuated dramatically at more cephalic or caudal portions of the cord. At these levels,
+Wilcoxon pair-wise tests (Bonferroni correction) demonstrated that the number of labeled
+nuclei in the injured animals was significantly larger than that in controls (P<0.05) only in
+seven out of nine pair-wise comparisons (in both rostral and caudal segments).
+Analysis in the transverse plane showed BrdU-labeled cells throughout the spinal
+parenchyma (Fig. 7b, c) with concentrations of labeled nuclei around the CC (Fig. 7d).
+BrdU-tagged nuclei were evenly stained or exhibited dark granules in contrast to the pale
+nuclear background (not shown). Examination at the light-microscope level also revealed
+typical mitotic figures (Fig. 7e) that were confirmed by employing TEM procedures in
+injured but not BrdU-injected turtles (Fig. 7f). To determine the relationship between the
+cycling cells and the pathways of regenerating axons, we performed double-labeling
+experiments with an axon-marking antibody (NF-M). As shown in Fig. 7g, h, NF-M-
+positive axons travelled through the bridge region associated with cells exhibiting BrdU-
+positive nuclei. The exploration of orthogonal planes (x-z and y-z axes) obtained from
+optical stacks revealed a close association between the nerve fibers crossing the injured
+region and cycling cells (Fig. 7h). This intimate relationship between cells in the bridge and
+the crossing axons was explored in detail by employing TEM procedures (see below).
+Molecular phenotypes of cycling cells
+To identify the molecular phenotypes of cycling cells, we performed double-labeling
+experiments employing glial and neuronal markers. The use of brain lipid-binding protein
+(BLBP) antibody (Feng et al. 1994) indicated robust double-labeling of BrdU-positive cells
+(Fig. 8a). In addition, the low power images illustrated the lax organization of the cells
+expressing BLBP, a feature consistent with our TEM findings (see below). Analysis of the
+tissues at higher magnification confirmed unambiguously that some of the cells expressing
+BLBP had incorporated BrdU (Fig. 8b–d).
+A different picture resulted from the use of glial fibrillary acidic protein (GFAP) antibody.
+GFAP expression was mainly restricted to cell processes with few identifiable cell bodies
+(Reichenbach and Wolburg 2005). Therefore, reliable assessment of double-labeling was a
+difficult task. However, we were able to identify a few cell bodies expressing GFAP and
+containing BrdU-labeled nuclei (Fig. 8e–g). In the bridge region, none of the BrdU-positive
+cells expressed the neuronal marker, anti-human neuronal protein (not shown). Disregarding
+the bias that might have been introduced by difficulties in identifying the cell bodies of
+GFAP-positive cells, our prevalent view is that most proliferating cells expressed BLBP.
+Cytoarchitecture of the bridge: an embryonic-like environment
+In contrast to the usual compact cell organization found in both the gray and white matter of
+the spinal cord, the bridge was characterized by a loose arrangement of cells and axons.
+Bridge cells formed a scaffold supporting and enveloping bundles of regenerating axons
+(Fig. 9a). The more abundant cells shared characteristics of fibril-containing glia and the
+axon-ensheathing properties of oligodendrocyte-lineage cells. In cross sections, they
+exhibited a polymorphic appearance with multiple processes stemming from the perinuclear
+Rehermann et al. Page 8
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+cytoplasm. We have previously reported that, in turtles, typical radial glia (RG) are present
+with their processes filled with compact bundles of fine fibrils (Trujillo-Cenóz et al. 2007).
+Interestingly, cells with characteristics of a “hybrid oligodendrocyte/RG antigenic
+phenotype and a RG morphology” have been described in rats (Choi et al. 1983; Choi and
+Kim 1985; Hirano and Goldman 1988; Fogarty et al. 2005). The mechanical stability of the
+cell scaffold seems to be mediated by multiple intercellular contacts (Fig. 9a, arrows), some
+of which exhibit the fine structural characteristics of desmosomes (Fig. 9e). Additional
+cytoskeleton strength might be provided by compact bundles of gliofibrils present in most
+glial processes.
+Small and medium-sized regenerating axons appeared encased within infolds of the cell
+plasma membrane or covered by several glial lamellae containing gliofibrils (Fig. 9c, d).
+Similarly, neural processes “enclosed with fascicles formed by ependymal processes” have
+been described by Michel and Reier (1979) in Xenopus laevis tadpoles during early
+regeneration of the transected spinal cord. To examine in detail the anatomical axon-glial
+relationships, we generated 3D models based on TEM images obtained from uninterrupted
+series of ultrathin sections (Fig. 9f). The models revealed that, at this stage, most of the
+regenerating axons were loosely covered by discontinuous glial membranes. Together with
+the usual axon-glia spacing (20 nm wide), more intimate axon-glia junctions were present
+characterized by an increased electron density and a reduced periaxonal space of 5–7 nm in
+width (Fig. 10a, b). The 3D models revealed that these electron-dense junctions were not
+continuous but formed irregular helical bands extending along the ensheated axon (Fig. 10c,
+arrowheads in 3D models). Serial section analysis also showed that axon-enveloping could
+be initiated from a glial cell prolongation containing bundles of gliofilaments (Fig. 11a, b)
+similar to those of RG. TEM images and the resulting 3D model (Fig. 11e) revealed the
+spatial progress of ensheating. The example illustrated in Fig. 11 shows the starting point of
+the enveloping process with a small axon-glial contacting area (Fig. 11a) and the fully
+ensheathed axon with the familiar multilamellar myelin organization at the end of the series
+(Fig. 11c, d). Notably, the dense helicoidal junctions remained present, even at this more
+advanced myelination stage (Fig. 11g).
+Discussion
+Amputated axons regenerate and bridge the transected cord
+The experiments described in this paper are in agreement with previous findings indicating
+that freshwater turtles are able to attain the neural reconnection of the severed cord
+(Rehermann et al. 2009). We also present compelling evidence that regenerating axons
+originate from two main sources: (1) sensory fibers arising from the dorsal root ganglia and
+(2) axons from propiospinal interneurons lying close to the lesion site in the rostral stump.
+Our results suggest that axons stemming from neurons of higher centers do not make a
+major contribution to the early reconnection process. However, the time window used in our
+experimental approach cannot exclude the possibility that axons from higher centers might
+cross the lesion site at later stages, reconnecting them with spinal neurons. Reactivation of
+anatomically circumscribed circuits close to the lesion site by regrowth of sensory axons
+seems to play a crucial role during spinal cord reconnection. We have found evidence that
+sensory axons originating from cephalic portions of the cord cross the lesion site. However,
+the contribution of axonal regrowth from sensory fibers arising from caudal ganglia is also
+possible. Application of axonal tracers emitting light at different wavelengths in sensory
+nerves caudal and rostral with respect to the lesion site might help to solve this issue.
+The regeneration capabilities of turtles appear limited when compared with those of anuran
+tadpoles in which mesencephalic and rhombencephalic neurons are retrogradelly labeled
+after spinal cord regeneration (Gibbs and Szaro 2006). We should keep in mind, however,
+Rehermann et al. Page 9
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+that functional recovery in turtles is incomplete, because injured animals are able to recover
+stepping but not normal swimming (Rehermann et al. 2009). Nonetheless, our findings
+support the view that the regenerative capacities of the spinal cord are not exclusive to
+anamniotes and remain, even though restricted, in some post-natal amniotes.
+Injury increases mitotic activity
+In the normal uninjured spinal cord of rats, slow basal mitotic activity mainly occurs in
+white matter tracts. The majority of BrdU-labeled cells express glial markers (Horner et al.
+2000). However, in the same animals, spinal injury induces an increment of proliferating
+cells. Under these circumstances, the BrdU-labeled nuclei colocalize with progenitor or glial
+cell markers but never with neuronal proteins (Horky et al. 2006). Surprisingly, indirect
+damage of the spinal cord (e.g., rhizotomy) induces not only cell proliferation, but also the
+generation of new neurons (Vessal et al. 2007). This suggests that different insults might
+activate progenitors with various lineage potentials.
+A different scenario occurs in turtles. In these reptiles, mitotic activity persists, being mainly
+concentrated on the lateral aspects of the CC. In these regions, clusters of electrical- and
+dye-coupled RG occur with the molecular and physiological characteristics of cycling
+precursor cells (Russo et al. 2008). Our experiments employing both FC and BrdU-labeling
+have revealed that spinal cord transection elicits a noticeable increment in the mitotic
+activity of some spinal cells and that this peaks at the LEPI and decreases steeply both in the
+rostral and in the caudal directions. The observed cell proliferation is consistent with the
+formation of a cellular scaffold that supports the navigation of sprouting axonal branches,
+which cross the damaged region (Rehermann et al. 2009).
+Nature of the cycling cells
+Studies carried out on lizards (Egar et al 1970), tailed amphibians (Singer et al. 1979; Zhang
+et al. 2000; Mchedlishvili et al. 2007), and immature eels (Dervan and Roberts 2003) have
+revealed the role played by ependymal cells in the healing and reconstruction of the injured
+spinal cord. Our findings are, in general, coincident with these previous reports. In the turtle,
+BLBP-positive RG that flank the CC form clusters of cells that are electrically and
+metabolically coupled, incorporate BrdU, express Pax6, and display electrophysiological
+properties characteristic of neural progenitors (Russo et al. 2008). A plausible hypothesis is
+that neural injury elicits an increment of the intrinsic basal mitotic activity sustained by the
+lateral clusters of RG, thereby generating cells that migrate to the injured site. The capability
+of RG expressing BLBP to contribute to neural repair has been demonstrated in rodents in
+which transplanted embryonic RG “bridge spinal cord lesions and promote functional
+recovery” (Hasegawa et al. 2004). However, we cannot exclude as yet an alternative
+situation similar to that described in rats. In this rodent, the neuron/glia-type 2 antigen
+(NG2)-expressing progenitors appear to be vulnerable to injury, but a separate neural stem
+cell population is activated to replace the damaged one (Horky et al. 2006). Therefore, the
+cycling cells found in the injured spinal cord of turtles might belong to another non-
+vulnerable cell population; this population might be the one that actually initiates mitotic
+activity. At present, we cannot exclude the possibility that oligodendrocytes ensheathing the
+amputated axons or Schwann cells covering the entering sensory roots can dedifferentiate to
+envelope the regenerated axons within the bridge. Additionaly, the expression of RG
+markers such as BLBP in cells within the bridge might arise from reactive astrocytes
+transformed to an immature state (Shibuya et al. 2003; Iseda et al. 2004). However, the fine
+structural evidence indicates a predominance of gliofibrill-containing cells covering the
+sprouting axons, thus suggesting a RG origin.
+Rehermann et al. Page 10
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Since turtles exhibit neural reconnection and partial motor recovery, it is pertinent to ask
+how the proliferating niches are remodeled after injury. This issue has been investigated in
+rats by using retrovirus technology to target NG2-expressing cells (Sellers et al. 2009) but
+remains unexplored in turtles. In addition to BLBP-positive cells, some GFAP-positive cells
+also appear with BrdU-stained nuclei. However, since the most robust expression of the
+protein occurs in their fine processes (Reichenbach and Wolburg 2005), an evaluation of the
+contribution of the GFAP-positive cells to the total population of cycling cells is difficult.
+Cytoarchitectural remodeling during neural reconnection
+The zone bridging the disrupted spinal cord exhibits a peculiar structure with loose
+intercellular contacts and an enlarged extracellular space, all of which resemble embryonic
+cell organization. In this respect, our TEM images are similar to those published by Singer et
+al. (1979) in the regenerating cord of the newt. The cytoarchitecture and the abundance of
+finger-like processes and lamellae suggest a highly dynamic scenario. Indeed, recent “in
+vivo” studies performed in developing zebrafish have provided compelling evidence that
+oligodendrocyte progenitors move actively and send processes back and forth to reach and
+recognize their relevant axon targets (Kirby et al. 2006). Moreover, highly motile growth-
+cone-like structures have been observed in cultured post-migratory premyelinating
+oligodendrocyte (Fox et al. 2006). In turtles, cells belonging to the bridge matrix also behave
+as oligodendrocyte precursors and/or premyelinating oligodendrocytes (Levine et al. 2001)
+enveloping regenerating axons. Then, analogous dynamic phenomena most probably occur
+in the embryonic-like microenvironment supporting neural repair in the turtle spinal cord.
+In view of the structural similarities between the regenerating spinal cord and the embryonic
+tissues, we can pertinently discuss the regeneration potentialities of the spinal cord at
+various developmental stages. For example, during the development of the chick spinal cord,
+the effects of spinal injury are known to change from successful to unsuccessful repair and
+recovery around embryonic day 13 (E13; Ferretti and Whalley 2008). Taking advantage of
+the facilities offered by this classical model, and using fluorescent tracing labels, Hasan et
+al. (1993) have established that, following complete transection in the later stages of the
+“permissive period” (E10–13; Keirstead et al. 1992), spinal cord repair is increasingly
+attributable to true axonal regeneration and not to developmental regulation (for a
+discussion, see Ferretti and Whalley 2008).
+The end of the permissive period has been associated with the onset of myelination, since its
+delay (by injection of a monoclonal antibody against a galactocerebroside) results in
+complete neuroanatomical repair and functional recovery. This occurs even if the spinal cord
+is severed as late as E15 (Keirstead et al. 1992). In turtles, the permissive period has been
+extended to the postnatal period and seems to be independent of the myelination process.
+However, an exploration of the possibility that antibodies against myelin might affect the
+repairing process in the turtle should be of interest.
+In regenerating spinal cords of turtles, the analysis of a series of sections has indicated that
+the axon-glial anatomical relationships range from simple small areas of contact to thick
+complete cytoplasmic envelopes surrounding the regenerating axons. Two issues are worth
+discussing here. The first is concerned with the presence of electron-dense junctions
+distributed along the periaxonal space. High magnification images have revealed that, in
+these junctions, the extracellular space appears to be dramatically reduced, as occurs in gap
+junctions. Nevertheless, the functional significance of these axon-glial junctions is unclear.
+Gap junction coupling via Cx43 and Cx26 is important for the regulation of a variety of
+cellular events during cortical development (Bittman et al. 1997; Bruzzone and Dermietzel
+2006; Elias et al. 2007). If gap-junction-like structures in the bridge are fully functional, they
+might represent a key pathway for electrical and metabolic signaling between regenerating
+Rehermann et al. Page 11
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+axons and oligodendrocyte-like cells. In turtles, we have previously determined that both
+Cx26 and Cx43 are expressed around the CC in which the BLBP domains of precursors are
+located (Russo et al. 2008). Interestingly, during development, both Cx26 and Cx43 have
+recently been demonstrated to have a role as adhesion molecules critical for the migration of
+newborn neurons along RG processes (Elias et al. 2007). Therefore, the dense junctions
+might represent points of anchorage for the movement of ensheating processes around
+regenerating axons. Our 3D models have shown that these areas of intimate contact are
+discontinuous and helically distributed along the axon axis. This may reflect a helicoidal
+movement of the glial cell during the ensheating processes. An alternative explanation for
+these junctions is that they might be the earliest evidence of the transverse bands that have
+been found in paranodal regions of mature myelinated axons and that behave, in peripheral
+nerve fibers, as paracellular barriers to solute flow (Hall and Williams 1971). In peripheral
+nerves, a major transition in the molecular phenotype of Schwann cells is believed to be
+driven by signals from the axons, with these, in turn, being remodeled by signals from the
+enveloping glia (Salzer 2003; Simons and Trotter 2007). Immunoelectron microscopy
+should help to resolve the nature of these enigmatic gap-junction-like structures between
+ensheating cells and regenerating axons.
+The second issue deals with the myelination properties exhibited by gliofibril-containing
+cells. Our 3D studies indicate that gliofibril-containing processes are able to produce myelin
+lamellae like those generated by olygodendrocytes. This is in agreement with previous
+evidence from rodents indicating that spinal cord RG can give rise to oligodendrocytes
+(Choi et al. 1983; Choi and Kim 1985; Hirano and Goldman 1988).
+Concluding remarks
+Overall, our findings indicate that spinal cord injury elicits cell proliferation, particularly in
+cells expressing BLBP and GFAP. Because BLBP-positive cells on the lateral aspects of the
+CC maintain mitotic activity (Russo et al. 2008), they might be the main source of BLBP/
+BrdU-positive cells found in the bridge region. Alternatively, the BLBP- and GFAP-
+expressing cells in the bridge zone might arise from other types of progenitor, such as those
+responsible for the formation of new blood vessels in the regenerating cord (Rehermann et
+al. 2009). The emerging picture, when comparing our data with those described for
+anamniotes, is that, in the latter, the ependymal layer as a whole has retained some
+properties of the embryonic neural tube. For example, in Xenopus tadpoles, a close axonal-
+ependymal association exists during the early stages of the regeneration process (Michel and
+Reier 1979), and in axolotls, the cells lining the CC regenerate the spinal cord by inducing a
+multipotent blastema (Schnapp et al. 2005; Tanaka and Ferretti 2009). In turtles, however,
+the bridge region lacks a distinguishable CC. In any case, the BLBP-positive cells of the
+ependymal layer appear as the most likely candidates for the abundant pre-myelinating
+oligodendrocytes that envelop the incoming axons. The role played by the GFAP-positive
+cells is unclear as yet. Nevertheless, contrasting with mammals, they do not interfere with
+the transit of regenerating axons but appear aligned with axon bundles. Moreover, we have
+not observed, in turtles, the cavitation that occurs normally in traumatized mammalian cords
+(particularly in chronically injured human cords; Guest et al. 2005). Therefore, turtles appear
+as a unique amniote model system occupying a peculiar intermediate place between the
+anamniotes, with complete regenerating capabilities, and mammals, with highly restricted
+capabilities for the restoration of damaged spinal circuitry.
+Acknowledgments
+This work was partly supported by FCE_2920 from ANII and grant no. R01NS048255 from the National Institute
+of Neurological Disorders and Stroke to R.E.R.
+Rehermann et al. Page 12
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+We thank Dr. A. Caputi for statistical advice and Mrs. G. Fabbiani for her kind and efficient technical assistance.
+References
+Abercrombie M. Estimation of nuclear population from microtome sections. Anat Rec. 1946; 94:239–
+247. [PubMed: 21015608]
+Adrian EK Jr, Walker BE. Incorporation of thymidine H3 by cells in normal and injured mouse spinal
+cord. J Neuropathol Exp Neurol. 1962; 21:597–609. [PubMed: 14011122]
+Armstrong J, Zhang L, McClelland AD. Axonal regeneration of descending and ascending spinal
+projection neurons in spinal cord-transected larval lamprey. Exp Neurol. 2003; 180:156–166.
+[PubMed: 12684029]
+Beattie MS, Bresnahan JC, Lopate G. Metamorphosis alter the response to spinal transection in
+Xenopus laevis frogs. J Neurobiol. 1990; 21:1108–1122. [PubMed: 2258724]
+Bittman K, Owens DF, Kriegstein AR, Lo Turco JJ. Cell coupling and uncoupling in the ventricular
+zone of developing neocortex. J Neurosci. 1997; 17:7037–7044. [PubMed: 9278539]
+Bruzzone R, Dermietzel R. Structure and function of gap junctions in the developing brain. Cell Tissue
+Res. 2006; 326:239–248. [PubMed: 16896946]
+Butler EG, Ward MB. Reconstitution of the spinal cord following ablation in urodele larvae. J Exp
+Zool. 1965; 160:47–65. [PubMed: 5220031]
+Chevallier S, Landry M, Nagy F, Cabelguen JM. Recovery of bimodal locomotion in the spinal-
+transected salamander, Pleurodeles waltlii. Eur J Neurosci. 2004; 20:1995–2007. [PubMed:
+15450078]
+Choi BH, Kim RC. Expression of glial fibrillary acidic protein by immature oligodendroglia and its
+implications. J Neuroimmunol. 1985; 8:215–235. [PubMed: 2409106]
+Choi BH, Kim RC, Lapham LW. Do radial glia give rise to both astroglial and oligodendroglial cells?
+Dev Brain Res. 1983; 8:119–130.
+Coggeshall RE, Youndblood CS. Recovery from spinal transection in fish: regrowth of axons post the
+transection. Neurosci Lett. 1983; 38:227–231. [PubMed: 6633929]
+Davis BM, Ayers JL, Koran L, Carlson J, Anderson MC, Simpson SB Jr. Time course of salamander
+spinal cord regeneration and recovery of swimming: HRP retrograde pathway tracing and
+kinematic analysis. Exp Neurol. 1990; 108:198–213. [PubMed: 2351209]
+Davies JA, Goucher DR, Doller C, Silver J. Robust regeneration of adult sensory axons in
+degenerating white matter of the adult rat spinal cord. J Neurosci. 1999; 19:5810–5822. [PubMed:
+10407022]
+Dervan AG, Roberts BL. Reaction of spinal cord central canal cells to cord transection and their
+contribution to cord regeneration. J Comp Neurol. 2003; 458:293–306. [PubMed: 12619082]
+Egar M, Simpson SB, Singer M. The growth and differentiation of the regenerating spinal cord of the
+lizard Anolis carolinensis. J Morphol. 1970; 131:131–152. [PubMed: 5425076]
+Elias LA, Wang DD, Kriegstein AR. Gap junction adhesion is necessary for radial migration in the
+neocortex. Nature. 2007; 448:901–907. [PubMed: 17713529]
+Feng L, Hatten ME, Heintz N. Brain lipid-binding protein (BLBP): a novel signaling system in the
+developing mammalian CNS. Neuron. 1994; 12:895–908. [PubMed: 8161459]
+Fernández A, Radmilovich M, Trujillo-Cenóz O. Neurogenesis and gliogenesis in the spinal cord of
+turtles. J Comp Neurol. 2002; 458:293–306.
+Ferretti P, Whalley K. Successful neural regeneration in amniotes: the developing chick spinal cord.
+Cell Mol Life Sci. 2008; 65:45–53. [PubMed: 18030420]
+Fogarty M, Richardson WD, Kessaris N. A subset of oligodendrocytes generated from radial glia in
+the dorsal spinal cord. Development. 2005; 132:1951–1959. [PubMed: 15790969]
+Fox MA, Afshari FS, Alexander JK, Colello RJ, Fuss B. Growth conelike sensorimotor structures are
+characteristics features of postmigratory, premyelinating oligodendrocytes. Glia. 2006; 53:563–
+566. [PubMed: 16355369]
+Gibbs KM, Szaro BG. Regeneration of descending projections in Xenopus laevis tadpole demonstrated
+by retrograde double labeling. Brain Res. 2006; 1088:68–72. [PubMed: 16626660]
+Rehermann et al. Page 13
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Godement P, Vanselow J, Thanos S, Bonhoeffer F. A study in developing visual system with a new
+method of staining neurons and their processes in fixed tissue. Development. 1987; 101:697–713.
+[PubMed: 2460302]
+Gray EG, Guillery RW. The basis for silver staining of synapses of the mammalian spinal cord: a light
+and electron microscope study. J Physiol (Lond). 1961; 157:581–588. [PubMed: 13708039]
+Guest JD, Ed H, Bunge RP. Demyelination and Schwann cell response adjacent to injury epicenter
+cavities following chronic human spinal cord injury. Exp Neurol. 2005; 192:384–393. [PubMed:
+15755556]
+Guillery RW, Herrup K. Quantification without pontification. J Comp Neurol. 1997; 386:2–7.
+[PubMed: 9303520]
+Hall SM, Williams PL. The distribution of electron dense tracers in peripheral nerve fibers. J Cell Sci.
+1971; 8:541–555. [PubMed: 5576085]
+Hasegawa K, Yu-Wen C, Li H, Berlin Y, Ikeda O, Kane-Goldsmith N, Grumet M. Embryonic radial
+glia bridge spinal cord lesions and promote functional recovery following spinal cord injury. Exp
+Neurol. 2004; 193:394–410. [PubMed: 15869942]
+Hasan SJ, Keirstead HS, Muir GD, Steeves JD. Axonal regeneration contributes to repair of injured
+brainstem-spinal neurons in embryonic chick. J Neurosci. 1993; 73:492–507. [PubMed: 8426225]
+Hirano M, Goldman JE. Gliogenesis in the rat spinal cord: evidence for origin of astrocytes and
+oligodendrocytes from radial precursors. J Neurosci Res. 1988; 21:155–167. [PubMed: 3216418]
+Horner PJ, Gage FH. Regenerating the damaged central nervous system. Nature. 2000; 407:963–970.
+[PubMed: 11069169]
+Horner PJ, Power AE, Kempermann G, Kuhn HG, Palmer TD, Winkler J, Thal LJ, Gage FH.
+Proliferation and differentiation of progenitor cells throughout the intact adult rat spinal cord. J
+Neurosci. 2000; 20:2218–2228. [PubMed: 10704497]
+Horky L, Galimi F, Gage F, Horner PJ. Fate of endogenous stem/progenitor cells following spinal cord
+injury. J Comp Neurol. 2006; 498:525–538. [PubMed: 16874803]
+Houle JD, Jin Y. Chronically injured supraspinal neurons only exhibit modest axonal dieback in
+response to a cervical hemi-section lesion. Exp Neurol. 2001; 169:208–217. [PubMed: 11312573]
+Huang Q, Zhou D, DiFiglia M. Neurobiotin, a useful neuroanatomical tracer for in vivo anterograde,
+retrograde and transneuronal tract-tracing and for in vitro labelling of neurons. J Neurosci
+Methods. 1992; 41:31–43. [PubMed: 1578900]
+Iseda T, Nishio T, Kawaguchi S, Yamanoto M, Kawasaki T, Wakisaka S. Spontaneous regeneration of
+the corticospinal tract after transection in young rats: a key role of reactive astrocytes in making
+favorable and unfavorable conditions for regeneration. Neuroscience. 2004; 126:365–374.
+[PubMed: 15207354]
+Kirby BB, Takada N, Latimer AJ, Shin J, Carney TJ, Kelsh RN, Appel B. In vivo time-lapse imaging
+shows dynamic oligodendrocyte progenitor behavior during zebrafish development. Nat Neurosci.
+2006; 9:1506–1511. [PubMed: 17099706]
+Keirstead HS, Hasan SJ, Muir GD, Steeves JD. Suppression of the onset of myelination extends the
+permissive period for the functional repair of embryonic spinal cord. Proc Natl Acad Sci USA.
+1992; 89:11664–11668. [PubMed: 1281541]
+Köbbert C, Apps R, Bechmann I, Lanciego JL, Mey J, Thanos S. Current concepts in neuroanatomical
+tracing. Prog Neurobiol. 2000; 62:327–351. [PubMed: 10856608]
+Landis SC. Neuronal growth cones. Annu Rev Physiol. 1983; 45:567–580. [PubMed: 6342524]
+Levine JM, Reynolds R, Fawcett JW. The oligodendrocyte precursor cell in health and disease. Trends
+Neurosci. 2001; 24:39–47. [PubMed: 11163886]
+Li Y, Raisman G. Sprouts from cut corticospinal axons persist in the presence of astrocytic scarring in
+long-term lesions of the adult rat spinal cord. Exp Neurol. 1995; 134:102–111. [PubMed:
+7672031]
+Liu L, Persson J, Svensson M, Aldskogius H. Glial cell responses, complement and clustering in the
+central nervous system following dorsal root transection. Glia. 1998; 23:221–238. [PubMed:
+9633807]
+Liu L, Rudin M, Kozlova E. Glial cell proliferation in the spinal cord after dorsal rhizotomy or sciatic
+nerve transection in the adult rat. Exp Brain Res. 2000; 131:64–73. [PubMed: 10759172]
+Rehermann et al. Page 14
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Lorente de Nó R. La regeneración de la médula espinal en las larvas de batracios. Trab Lab Invest Biol
+Univ Madr. 1921; 19:147–183.
+Meletis K, Barnabé-Heider F, Carlen M, Evergren E, Tomilin N, Shupliakov O, Frisén J. Spinal cord
+injury reveals multi-lineage differentiation of ependymal cells. PLoS Biol. 2008; 6:e182.
+[PubMed: 18651793]
+Mchedlishvili L, Epperlein H, Telzerow A, Tanaka EM. A clonal analysis of neural progenitors during
+axolotl spinal cord regeneration reveals evidence for both spatially restricted and multipotent
+progenitors. Development. 2007; 134:2083–2093. [PubMed: 17507409]
+Michel ME, Reier PJ. Axonal-ependymal association during early regeneration in the transected spinal
+cord in Xenopus laevis tadpoles. J Neurocytol. 1979; 8:529–548. [PubMed: 553146]
+Mothe AJ, Tator CH. Proliferation, migration, and differentiation of endogenous ependymal region
+stem/progenitor cells following minimal spinal cord injury in the adult rat. Neuroscience. 2005;
+131:177–187. [PubMed: 15680701]
+Nordlander R. Axonal growth cones in the developing amphibian spinal cord. J Comp Neurol. 1987;
+263:485–496. [PubMed: 3667985]
+Novotny GEK. Synaptic ring images after silver impregnation. Cell Tissue Res. 1979; 204:141–145.
+[PubMed: 393401]
+Piatt J. Regeneration of the spinal cord in the salamander. J Exp Zool. 1955; 129:177–207.
+Radmilovich M, Fernández A, Trujillo-Cenóz O. Environment temperature affects cell proliferation in
+the spinal cord and brain of juvenile turtles. J Exp Biol. 2003; 206:3085–3093. [PubMed:
+12878675]
+Ramón y Cajal, SR. Degeneración y regeneración de los centros nerviosos. Moya; Madrid: 1913–
+1914. Estudios sobre la degeneración y regeneración del sistema nervioso, TI-II.
+Rehermann MI, Marichal N, Russo RE, Trujillo-Cenóz O. Neural reconnection in the transected spinal
+cord of the freshwater turtle Trachemys dorbignyi. J Comp Neurol. 2009; 515:197–214. [PubMed:
+19418545]
+Reichenbach, A.; Wolburg, H. Astrocytes and ependymal glia. In: Kettenmann, H.; Ransom, BR.,
+editors. Neuroglia. Oxford University Press; New York: 2005. p. 19-35.
+Reimer MM, Sörensen I, Kuscha V, Frank RE, Liu C, Becker C, Becker T. Motor neuron regeneration
+in adult zebrafish. J Neurosci. 2008; 28:8510–8516. [PubMed: 18716209]
+Rovainen CM. Regeneration of Müller and Mauthner axons after spinal cord transection in larval
+lampreys. J Comp Neurol. 1976; 168:545–554. [PubMed: 939822]
+Russo RE, Reali C, Radmilovich M, Fernández A, Trujillo-Cenóz O. Conexin 43 delimits functional
+domains of neurogenic precursors in the spinal cord. J Neurosci. 2008; 28:3298–3309. [PubMed:
+18367597]
+Salzer JL. Polarized domains of myelinated axons. Neuron. 2003; 40:297–318. [PubMed: 14556710]
+Sanes, DH.; Reh, TA.; Harris, WA. Development of the nervous system. 2. Elsevier/Academic Press;
+San Diego: 2006.
+Schnapp E, Kragl M, Rubin L, Tanaka E. Hedgehog signaling controls dorsoventral patterning,
+blastema cell proliferation and cartilage induction during axolotl tail regeneration. Development.
+2005; 132:3243–3253. [PubMed: 15983402]
+Sellers DL, Maris DO, Horner PJ. Postinjury niches induce temporal shifts in progenitor fates to direct
+lesion repair after spinal cord injury. J Neurosci. 2009; 29:6722–67333. [PubMed: 19458241]
+Shibuya S, Miyamoto O, Itano T, Mori S, Norimatsu H. Temporal progressive antigen expression in
+radial glia after contusive spinal cord injury in adult rats. Glia. 2003; 42:172–183. [PubMed:
+12655601]
+Shifman, MI.; Jin, LQ.; Selzer, M. Regeneration in the lamprey spinal cord. In: Becker, CG.; Becker,
+T., editors. Model organisms in spinal cord regeneration. Wiley-VCH; Weinheim: 2007. p.
+229-262.
+Silver J, Miller JH. Regeneration beyond the glial scar. Nat Rev Neurosci. 2004; 5:146–156. [PubMed:
+14735117]
+Simons M, Trotter J. Wrapping it up: the cell biology of myelination. Curr Opin Neurobiol. 2007;
+17:533–540. [PubMed: 17923405]
+Rehermann et al. Page 15
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Singer M, Nordlander RTH, Egar M. Axonal guidance during embryogenesis and regeneration in the
+spinal cord of the newt: the blue print hypothesis of neural pathway patterning. J Comp Neurol.
+1979; 185:1–22. [PubMed: 429610]
+Sjöstrand, F. Electron microscopy of cells and tissues. Vol. 1. Academic Press; London New York:
+1967.
+Stensaas, LJ. Regeneration in the spinal cord of the newt. Notopthalmus (Triturus) pyrrhogaster. In:
+Kao, CC.; Bunge, RP.; Reier, PJ., editors. Spinal cord reconstruction. Raven; New York: 1983. p.
+121-149.
+Takeda A, Goris RC, Funakoshi K. Regeneration of descending projections to the spinal cord neurons
+after spinal hemisection in the goldfish. Brain Res. 2007; 1155:17–23. [PubMed: 17493589]
+Tanaka EM, Ferretti P. Considering the evolution of regeneration in the central nervous system. Nat
+Rev Neurosci. 2009; 10:713–723. [PubMed: 19763104]
+Tennyson VM. The fine structure of the axon and growth cone of the dorsal root neuroblast of the
+rabbit embryo. J Cell Biol. 1970; 44:62–79. [PubMed: 5409464]
+Thuret S, Moon LD, Gage FH. Therapeutic interventions after spinal cord injury. Nat Rev Neurosci.
+2006; 7:628–643. [PubMed: 16858391]
+Trujillo-Cenóz O, Fernández A, Radmilovich M, Reali C, Russo R. Cytological organization of the
+central gelatinosa in the turtle spinal cord. J Comp Neurol. 2007; 502:291–308. [PubMed:
+17348014]
+Vessal M, Aycock A, Tess Garton M, Ciferri M, Darian-Smith C. Adult neurogenesis in primate and
+rodent spinal cord: comparing a cervical dorsal rhizotomy with a dorsal column transection. Eur J
+Neurosci. 2007; 26:2777–2794. [PubMed: 18001275]
+Williams RM, Bastiani J, Lia B, Chalupa LM. Growth cones, dying axons, and developmental
+fluctuations in the fiber population of the cat’s optic nerve. J Comp Neurol. 1988; 246:32–69.
+[PubMed: 3700717]
+Wood MR, Cohen MJ. Synaptic regeneration in identified neurons of the lamprey spinal cord. Science.
+1979; 206:344–347. [PubMed: 482943]
+Zhang F, Clarke JDW, Ferretti P. FGF-2 up-regulation and proliferation of neural progenitors in the
+regenerating amphibian spinal cord in vivo. Dev Biol. 2000; 225:381–391. [PubMed: 10985857]
+Rehermann et al. Page 16
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 1.
+Transganglionic labeling of primary sensory fibers. a Whole ganglion combining, within a
+single plane, confocal optical sections taken at levels 1–3 (L1–L3) as indicated in b (SN
+sensory nerves, DR dorsal roots). c High magnification view of level 1 illustrating the
+penetration of dorsal roots into the cord and the distribution of the thinner longitudinally
+running branches of the sensory axons (arrow). d Note that the lipophilic dye stains the
+neural components of the ganglion without spreading into the extracellular space. e Macro-
+image depicting the arrival of the main sensory nerves (SN) to a dorsal ganglion (star). The
+arrow indicates the site at which the nerves were cut and DiI crystals applied with a
+Rehermann et al. Page 17
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+micropipette without spurious contamination of the cord surface (enclosed in the vertebral
+canal; SC spinal cord). Bars 250 μm (a), 100 μm (c), 25 μm (d), 1 mm (e)
+Rehermann et al. Page 18
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 2.
+Retrograde neuronal labeling. a To apply 1,1′, di-octadecyl 1–3,3,3′,3′-
+tetramethylcarbocyanine perchlorate (DiI) crystals to the cut surface of the cord but to
+reduce the risk of spurious labeling of neighboring tissues, fixed cords and surrounding
+tissues were covered with an adhering ultrathin Formvar film supported by Sjöstrand-type
+metal rings. Small openings were made in the films, and DiI crystals were applied to the
+film-coated cords. Direct contact between the lipophilic dye and tissues was thus reduced to
+the area underlying the opening in the film. To avoid dispersion of DiI crystals during
+incubation, each preparation was coated with a second layer of undamaged film. For
+embedding and sectioning, dye crystals lying outside the central cord region were removed
+Rehermann et al. Page 19
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+together with the film as shown in b (before film removal) and c (after film removal). The
+arrow in b indicates a group of DiI crystals. d Neurobiotin injections were performed by
+pressure-injection with a glass micropipette. The animals were killed 4 days after injection,
+and the spinal cord was processed as described in Materials and methods (LEPI lesion
+epicenter, R rostral, C caudal)
+Rehermann et al. Page 20
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 3.
+Regenerating axons cross the injured site. a Longitudinal section of a transected cord 20
+days after injury. Regenerating axons stained for Neurofilament M (NF-M; green) can be
+seen crossing the injured site (bracket) and invading the caudal stump; confocal optical
+section. b Enlarged view of a bundle of regenerating axons that have penetrated the caudal
+portion of the cord (small arrows enlarged tips and the ring-like endings of regenerating
+axons); confocal optical section. c Area within the box in b examined at higher
+magnification. Note the presence of lanceolated and club-like “growth cones” intermingled
+with small terminal “rings” (arrowhead in d); confocal optical section). e Zone caudal to the
+injured site. Enlarged axon profiles identified as growth cones containing clusters of small
+vesicles; collage of two images obtained by transmission electron microscopy (TEM). The
+growth cone appears partially covered by glial processes (shadowed). The box is shown in f
+at a higher magnification. Note the presence of a characteristic “coated vesicle”
+(arrowhead). g “Retraction balls” or dystrophic end bulbs appear spherical (arrow) and are
+usually larger than the growth cones; stack of five confocal optical sections. Double-
+Rehermann et al. Page 21
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+immunostaining with NF-M (green) and glial fibrillary acidic protein (GFAP; red). h TEM
+image showing a cross section passing through a dystrophic end bulb. Note the presence of a
+bundle of neurofibrils (encircled), mitochondria, cumuli of large vesicles (arrows), and
+dense bodies with the aspect of phagosomes. The ending is partially covered by glial
+lamellae (shadowed). Bars 200 μm (a), 100 μm (b), 5 μm (c, d), 0.5 μm (e), 100 nm (f), 20
+μm (g), 1 μm (h)
+Rehermann et al. Page 22
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 4.
+Origin of regenerating axons. a Representation depicting two different experiments with DiI
+as an axonal marker (long arrows correlation of the topology of the microscopic images
+with the gross anatomy of the cord; large arrowhead rostral). In one experiment (DiI (1)),
+crystals of the dye were applied to sectioned sensory nerves entering into a dorsal root
+ganglion at one side of the injured cord and lying cephalic with respect to the lesion
+epicenter (shadowed green). b Stained neurons in the ganglion (epifluorescence
+microscopy). c Sensory axons entering the dorsal horns. d, e Confocal optical sections
+revealing the occurrence of stained axons that have crossed the lesion site and have ramified
+close to neuronal bodies (arrow in e; DiI+NF-M). f When dye crystals were applied to the
+cut surface of the cord, caudal to the lesion site, conspicuous bundles of stained axons were
+detected at the bridge level; confocal optical section. g Higher magnification view of
+myelinated axons crossing the bridge; confocal optical section. h The parent neurons of
+some of the crossing axons (arrow); confocal optical section. Bars 10 μm (b, f, g), 30 μm
+(d), 40 μm (e), 50 μm (h), 100 μm (c)
+Rehermann et al. Page 23
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 5.
+Retrograde labeling with neurobiotin reveals neurons and neural processes in the rostral
+stump. a One neuron appears to be Golgi-like stained, whereas another one only shows
+small fluorescent granules distributed in the perikaryon and main process (arrow); confocal
+optical section. b Neural processes also appear to be Golgi-like stained in the bridge zone
+(arrows); trans-illuminated confocal optical section. Bars 10 μm
+Rehermann et al. Page 24
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 6.
+Spinal cord transection increases cell proliferation. DNA content histograms (FL2-A)
+obtained by flow cytometry showing G1/G0, S, and G2/M cell cycle stages corresponding to
+propidium iodide (PI)-stained spinal cord cells from injured, sham-operated, and control
+turtles. Cells from the injured cords were obtained from the portion containing the lesion
+epicenter. Data from sham and control experiments were collected from homologous spinal
+cord segments. Note the higher proliferation rate (S-G2/M) of cells from the injured region.
+Differences were statistically significant (P<0.05, one-sided Wilcoxon rank-sum test; see
+also Table 2)
+Rehermann et al. Page 25
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 7.
+Spinal cord injury increases cell proliferation. a Mean number of BrdU-positive nuclei ± the
+standard deviation plotted against distance (in μm) from the lesion epicenter (red line, LEPI)
+and corresponding segment in control animals (blue line). Note that this is a single plot
+divided into three sequential rostro-caudal portions (negative numbers progression toward
+more cephalic segments). b, c Two small spinal cord images showing the distribution of
+BrdU-positive nuclei at two levels of the cord (arrows). d Even though BrdU-positive nuclei
+were found in all areas of the cord, they appeared concentrated near the reduced central
+canal (encircled). e Mitotic figures were usually found together with BrdU-positive nuclei;
+transmission light microscopy. f TEM image of cell in meta-phase; injured but not BrdU-
+injected material. g, h Double-labeling experiments revealed a close association between
+Rehermann et al. Page 26
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+cells with BrdU-positive nuclei and the bundles of regenerating axons that expressed NF-M
+and that crossed the lesion site (arrow in g enlarged distal portion of a regenerating axon). h
+Proximity of two NF-M-positive axons to a BrdU-positive nucleus (arrows in h); planes
+obtained across a stack of 20 optical sections (x-z orthogonal plane). Bars 300 μm (b), 30
+μm (d), 5 μm (e), 2 μm (f), 5 μm (g), 20 μm (h)
+Rehermann et al. Page 27
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 8.
+Cycling cells express glial markers. a Low power confocal microscope image (stack of five
+optical sections) showing several brain lipid-binding protein (BLBP)-expressing cells with
+their nuclei labeled with BrdU (note the random cellular organization). b–d High
+magnification images demonstrating that some cells expressing BLBP have BrdU-labeled
+nuclei (large arrows). d Merged image (small arrows main processes arising from the
+elongated cell body); confocal optical section. e–g Immunohistochemistry against GFAP
+showing abundant fibers surrounding a BrdU-positive nucleus; confocal optical section. g
+Merged image showing that the BrdU-positive nucleus pertains to a GFAP-positive cell.
+Bars (only shown in a, d, g) 50 μm (a), 10 μm (b–g)
+Rehermann et al. Page 28
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 9.
+The bridge region is characterized by a loose embryonic-like cellular organization. a
+Panoramic TEM image showing three cells (1, 2, 3, shadowed) sending processes that
+partially cover numerous regenerating axons of uneven size (stars). Note the close
+intercellular contacts without visible membrane specializations (arrows). Desmosome-like
+contacts also occur in this region (see arrowhead in e). b Higher magnification electron
+micrograph showing a group of axons completely surrounded by glial processes (shadowed).
+c Two axons crossing the bridge (stars) were serially followed (25 serial sections) to explore
+their spatial relationships with adjacent glial processes (1, 2). Two bundles of gliofibrils
+have been encircled, one being shown at higher magnification in d. f The resulting three-
+dimensional (3D) models displayed from two different points of view reveal that the axon
+left in c is partially covered by a glial lamella (1), whereas the axon right in c is completely
+Rehermann et al. Page 29
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+ensheated by glial lamellae 1 and 2. Bars 2 μm (a), 160 nm (e), 0.5 μm (b), 1 μm (c), 80 nm
+(d)
+Rehermann et al. Page 30
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 10.
+Ensheathing of regenerating axons. Intermixed with axons that appear partially ensheathed
+(ax) lie axons (ax*) that are completely enveloped by processes of glial cells (shaded). Note
+the presence of zones in which the periaxonal space is extremely reduced exhibiting an
+increased electron density (arrows in a, b). The TEM image corresponds to section number
+12 of a continuous series comprising 17 sections. The accompanying 3D models (c frontal
+and dorsal views) reveal that these close junctions form discontinuous helical bands along
+the periaxonal space (arrowheads). Bars 1 μm (a), 80 nm (b)
+Rehermann et al. Page 31
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Fig. 11.
+Example of a 3D reconstruction of an axon sheath (large double-headed arrows
+correspondence between the 3D model and TEM images). The 3D model in e represents a
+short axon segment with a heterogeneous glial sheath (blue axon, pink glial covering, green
+myelin). The reconstruction results from computer processing of 22 serial TEM images. a
+The naked axon (ax) begins to be enveloped by a short lamella (arrow) stemming from a
+glial prolongation containing gliofibrils (shown in b at higher magnification). f Advancing
+through the serial sections, a level is attained at which the glial ensheathing becomes
+complete, but myelin is still absent. c, d Finally, the enveloping cell produces the typical,
+regularly spaced, myelin sheaths. g Upper view of the 3D model in which the myelin
+covering has been omitted. Note the helical bands (arrow) corresponding to the electron-
+dense axon-glial junctions. Bars 0.5 μm (a, c, f), 100 nm (d), 80 nm (b)
+Rehermann et al. Page 32
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Rehermann et al. Page 33
+Table 1
+Primary antibodies used in this study
+Antigen Immunmogen Manufacturer Dilution
+Bromodeoxyuridine (BrdU) BrdU conjugated to bovine serum albumin Dakocytomation (Denmark), mouse
+monoclonal, cat. no. M0744, lot no.
+00004862
+1:500
+Brain lipid-binding protein
+(BLBP)
+Recombinant whole BLBP Chemicon (Temecula Calif., USA), rabbit
+polyclonal, cat. no.AB 9558, lot no.
+6080037568
+1:1000
+Glial fibrillary acidic protein
+(GFAP)
+GFAP purified from human brain Sigma-Aldrich (St. Louis, Mo., USA), rabbit
+polyclonal, product no. G9269, lot no.
+066K4838
+1:500
+GFAP purified from pig spinal cord Sigma-Aldrich, mouse monoclonal, product
+no. G3893, lot no. 037K4759
+1:500
+Neurofilament M (NF-M) Recombinant fusion protein containing the
+C-terminal 168 amino acids of rat
+neurofilaments
+Chemicon, rabbit polyclonal, cat. no.
+AB1987, lot no. 18030413
+1:500
+Anti-human neuronal protein RNA-binding protein of the embryonic lethal
+abnormal visual (Elav) family from mouse
+Molecular Probes (Eugene, Ore., USA),
+mouse monoclonal, cat. no. 21275, lot no.
+A21275
+1:100
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Rehermann et al. Page 34
+Table 2
+Values of flow cytometry cell cycle analyses of proliferating (S-G2/M) cells stained with propidium iodide.
+The samples were obtained from control, sham-injured, and injured spinal cord segments. Mean±standard
+deviation values are indicated in bold. Note that mean values of uninjured and control sham spinal cord
+segments are significantly different from those obtained from injured spinal cords (P<0.05, as determined by
+one-sided Wilcoxon rank-sum test)
+Sample % Proliferation (S/G2-M)
+Uninjured spinal cord (n=3) 3.92
+4.30
+2.89
+3.70±0.5
+Control sham (n=3) 2.75
+2.62
+1.78
+2.38±0.53
+Injured spinal cord (n=3) 9.07
+8.94
+9.68
+9.23±0.4
+Cell Tissue Res. Author manuscript; available in PMC 2012 June 1.

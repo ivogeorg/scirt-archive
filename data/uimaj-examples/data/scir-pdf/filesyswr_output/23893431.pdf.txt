@@ -1,0 +1,641 @@
+Neurosci Bull    August 1, 2013, 29(4): 467–476. http://www.neurosci.cn
+Doi: 10.1007/s12264-013-1363-6 467
+·Review·
+Anatomical and electrophysiological plasticity of locomotor 
+networks following spinal transection in the salamander
+Jean-Marie Cabelguen, Stéphanie Chevallier, ianina Amontieva-Potapova, Céline Philippe 
+Neurocentre Magendie, INSERM U 862 - Bordeaux University, F-33077 Bordeaux Cedex, France
+Corresponding author: Jean-Marie Cabelguen. E-mail: jean-marie.cabelguen@inserm.fr 
+© Shanghai institutes for Biological Sciences, CAS and Springer-Verlag Berlin Heidelberg 2013
+Recovery of locomotor behavior following spinal cord injury can occur spontaneously in some vertebrates, 
+such as fish, urodele amphibians, and certain reptiles. This review provides an overview of the current status 
+of our knowledge on the anatomical and electrophysiological changes occurring within the spinal cord that 
+lead to, or are associated with the re-expression of locomotion in spinally-transected salamanders. A better 
+understanding of these processes will help to devise strategies for restoring locomotor function in mammals, 
+including humans.
+Keywords: salamander; spinal cord; locomotor recovery; regeneration
+Introduction
+Many studies on the post-lesional plasticity of the central 
+nervous system (CNS) of adult salamanders have dealt 
+with the molecular and cellular events underlying spinal 
+cord regeneration following tail amputation[1-6]. Regeneration 
+in a context more relevant to human spinal cord injury (SCi) 
+(i.e. after spinalization at the trunk level) has recently been 
+investigated using labeling and imaging techniques[7], and 
+the main finding is that meningeal and glial cells interact to 
+form a permissive environment for axon regeneration after 
+SCI in salamanders. This is in contrast to adult mammals, 
+in which meningeal and glia cells form barriers (glial scars) 
+that contribute to the prevention of axon regeneration[8-10]. 
+Several non-permissive or inhibitory factors that prevent 
+axonal regeneration in adult mammals have been 
+found[11]. Differences between salamanders and mammals 
+with regard to some of these factors, especially those 
+controlling regeneration of the descending pathways known 
+to activate the spinal locomotor networks, remain to be 
+investigated. However, the molecular and cellular aspects 
+of post-lesional plasticity of the spinal tracts are beyond 
+the scope of the present review. Here, we summarize the 
+anatomical and electrophysiological changes occurring 
+within the spinal cord that lead to, or are associated with 
+the re-expression of locomotion in salamanders after full 
+transection of the spinal cord. A better understanding of 
+these changes may provide insights regarding some of the 
+conditions necessary for restoring locomotor function after 
+SCi in higher vertebrates, including humans.
+Model Organisms Used for the Study of Locomotor 
+Recovery after SCI and Regeneration
+Spinal neuronal circuits continuously process information 
+received from the brain and peripheral sensory inputs. 
+For instance, the central pattern generator circuitry for 
+locomotion (locomotor CPG) can be activated and/or 
+modulated by supraspinal or afferent inputs[12, 13]. This 
+specialized network can be activated even in the isolated 
+spinal cord, thus underlining the crucial role of the cord in 
+gait generation. Following severe SCi, descending brain 
+commands are disconnected from the locomotor CPG. 
+Networks below the lesion can no longer be activated 
+by the brain, and as a result, paralysis occurs in the 
+region controlled by the spinal cord below the lesion. The 
+subsequent degree of axonal regeneration and recovery 
+of locomotor function below the lesion depends both on 
+Neurosci Bull     August 1, 2013, 29(4): 467–476468
+ontogeny and phylogeny. 
+Anuran amphibians, reptiles, birds, and mammals 
+can spontaneously regenerate the spinal cord only as 
+larvae or embryos, and this capability decreases with the 
+progression of development[10, 14]. By contrast, in some 
+adult vertebrates such as lampreys[15], teleost fish[16], and 
+urodele amphibians[17-20], severed axons from descending 
+neurons can spontaneously re-grow across the lesion site, 
+and progressively extend within the sub-lesional spinal 
+cord. The extent of regenerated axons exceeds 10 
+mm after a sufficiently long recovery time (>6 months 
+post-transection)[19-22]. The number of re-growing axons 
+projecting to the sub-lesional spinal cord also increases 
+with time[20]. interestingly, neither new brainstem neurons 
+(neurogenesis) nor axon collaterals from unlesioned 
+neurons (sprouting) contribute to the restoration of 
+descending projections after spinal cord transection in 
+salamanders[21], fish and larval lampreys[23, 24].
+Behavioral, kinematic and electrophysiological studies 
+have provided evidence that the post-lesional locomotor 
+recovery observed in species with a high regenerative ability 
+is imperfect, even after a long period of recovery[17, 19, 25, 26]. 
+For example, abnormal body undulations and sub-
+lesional electromyographic (EMG) patterns occur during 
+recovered swimming in spinally-transected lampreys and 
+salamanders[19, 20, 25]. This is likely because the number 
+of regenerated axons innervating the sub-lesional spinal 
+cord is lower than that in intact animals, even after a 
+recovery period as long as several months[27-29]. Moreover, 
+inappropriate incorporation of the regenerated axons into 
+the sub-lesional spinal networks could occur. This might 
+be related to short- and long-term alterations of the cellular 
+and network properties that occur in the spinal cord caudal 
+to the injury site. indeed, this region should be considered 
+as a “new spinal cord”, with neurons endowed with new 
+electrical membrane properties, new expression patterns of 
+neurotransmitter receptors, and new connectivity[30].
+in the freshwater turtle the completely transected 
+spinal cord is reconnected, and it has been suggested 
+that this constitutes a suitable vertebrate model system for 
+studying the plasticity of the locomotor CPG after complete 
+SCi[31]. However, locomotor recovery in this species is 
+incomplete and restricted to stepping. Moreover, further 
+investigation is required to demonstrate a direct causal 
+relationship between axonal regeneration and the recovery 
+of stepping. indeed, one should stress that visual inspection 
+and/or kinematic analysis of locomotor behavior cannot be 
+used to accurately infer the participation of regenerated 
+axons in the locomotor recovery after SCi (see below).
+Following a lesion, not only the descending pathways, 
+but also the ascending axons from spinal neurons that 
+convey signals from the locomotor CPG (internal 
+feedback)[32-34] and/or sensory information from the body 
+region caudal to the transection site are axotomized. in 
+several lower vertebrates, only a fraction of the ascending 
+axons regenerate after spinalization (salamander[35], 
+goldfish[36], larval anuran[37], lamprey[27]). Therefore, it is 
+likely that a significant reorganization of the neuronal 
+networks also occurs above the lesion site because of the 
+loss of some of these ascending fibers[38]. 
+in the present review, we focus on the neuronal 
+mechanisms underlying the post-injury plasticity of the 
+spinal locomotor CPG in adult salamanders.
+The salamander is an excellent experimental model 
+system to address this issue since: (1) it is the only 
+tetrapod that can recover locomotor function in adulthood 
+after full transection at all rostro-caudal levels of the spinal 
+cord[20]; (2) it displays terrestrial and aquatic locomotor 
+modes, and this gives the opportunity to compare the post-
+lesional recovery of the two modes; (3) a significant amount 
+of data on locomotion in intact animals is available to 
+evaluate the quality of the recovered locomotion[39]; (4) its 
+CNS can survive several hours in vitro, and this allows the 
+use of electrophysiological methods to investigate at the 
+cellular level the alterations of the locomotor circuits after 
+SCi[40-42]; and (5) the global architecture of the locomotor 
+CPG for swimming and stepping has been deciphered and 
+modeled[43, 44].
+Recovery of Locomotor Patterns in Spinally-
+transected Salamanders
+Earlier behavioral[17, 18] and kinematic studies[20] have 
+revealed that in adult salamanders the ability to walk and 
+swim can recover ~3 months after a complete spinal cord 
+transection. Re-transection of the cord after recovery 
+from the first transection results in paralysis, once again, 
+of the body part controlled by the cord below the lesion. 
+This suggests that the recovery of locomotion results from 
+the re-establishment of descending inputs across the 
+Jean-Marie Cabelguen, et al.    Locomotor recovery in spinal salamander 469
+transection[18, 20].
+However, since muscle activation was not recorded 
+in these studies, the relative contributions of muscle 
+contractions and passive factors to locomotor recovery 
+were unknown. in a previous study, we made EMG 
+recordings during swimming and terrestrial stepping in the 
+same adult salamander before and at various times (up to 
+500 days) after a complete transection of the spinal cord at 
+the trunk level (between the two girdles)[19]. We used this 
+approach to assess the time-course and completeness of 
+locomotor recovery as reflected in the various locomotor 
+parameters (cycle duration, intersegmental coordination, 
+inter-limb coupling) that had been previously documented 
+in intact animals[45, 46].
+our results evidenced that 2–3 weeks after spinalization, 
+locomotor movements and EMG activity were limited 
+to the forelimbs and the body rostral to the transection. 
+Thereafter, the locomotor movements and EMG activity 
+returned at progressively more caudal levels, and the 
+animals reached stable locomotor patterns 3–4 months 
+post-transection. Several locomotor parameters (cycle 
+duration, intersegmental phase lag, inter-limb coupling) 
+measured at various recovery times after spinalization 
+were compared to those in intact animals. These 
+comparisons revealed transient and long-term alterations 
+in the locomotor parameters both above and below the 
+transection site. These alterations were much more 
+pronounced for swimming than for stepping, revealing 
+differences in adaptive plasticity between the two locomotor 
+modes. 
+Recovered locomotor EMG activity was immediately 
+abolished by a re-transection at the site of original 
+spinalization (Fig. 1). This reveals that the re-innervation 
+of the spinal cord below the transection site by descending 
+brain and/or propriospinal axons primarily accounts for the 
+locomotor recovery in spinally-transected salamanders, 
+and the regenerated axons made sufficient appropriate 
+synaptic contacts with neurons of the locomotor network 
+caudal to the transection. interestingly, behavioral, 
+electrophysiological, and morphological experiments 
+conducted in larval lampreys and fish have shown that the 
+descending re-growing axons form functional synapses 
+associated with swimming recovery[22, 47-49].
+However, during the very early stages of recovery, 
+mechano-sensory coupling across the transection could 
+also be involved in the re-activation of the locomotor 
+CPG[50, 51]. At more advanced stages, when the caudal 
+portion of the body begins to recover some movements, 
+the proprioceptive signals from the hindlimbs might 
+enhance the excitability of the CPG[52]. The role of afferent 
+signals in the re-activation of the CPG might be addressed 
+in a comparative study of the fictive locomotor patterns 
+expressed in vitro by spinal cords isolated from intact and 
+chronic spinal salamanders (see[53] in the cat). 
+Interestingly, in fish[54] and cats[55] locomotor recovery 
+following a complete cord transection can be significantly 
+facilitated by daily training sessions. This emphasizes 
+the crucial role of proprioceptive afferent inputs in the re-
+activation of the locomotor CPG. Salamanders would be 
+a suitable model system to identify the neuronal events 
+induced by training during swimming and stepping. 
+interestingly, in fish, swim training improves axonal 
+regeneration across the SCi[54].
+Regeneration of Descending Pathways in 
+Spinally-transected Salamanders
+in salamanders, many descending neurons, including 
+reticulospinal neurons that transmit the locomotor drive from 
+the mesencephalic and diencephalic locomotor regions to the 
+spinal locomotor CPG, regenerate axons[19-21, 28]. Chevallier 
+et al.[19] further demonstrated that some of the regenerated 
+axons come from glutamatergic and serotoninergic 
+(5-HT) immunoreactive cells within the reticular formation. 
+We have also provided evidence that regeneration of 
+cholinergic descending propriospinal neurons occurs after 
+complete spinal transection in salamanders (Fig. 2 and 
+see[19, 21]).
+Glutamatergic Neurons
+Glutamatergic reticulospinal neurons are critical for initiating 
+locomotion (command neurons) in all vertebrates[56]. From 
+this, it is clear that the primary focus in different animal 
+models that seek to establish the functional regeneration of 
+descending locomotor drives from the brainstem across an 
+SCi should be on the reticulospinal pathways[57].
+The spontaneous regeneration of reticulospinal 
+glutamatergic axons in salamanders could contribute to the 
+activation of the locomotor networks below the lesion. it is 
+possible that only non-specific connectivity to the neuronal 
+circuitry caudal to the lesion is sufficient to turn this part of 
+Neurosci Bull     August 1, 2013, 29(4): 467–476470
+the locomotor CPG on and off. one reason is that in the 
+isolated spinal cord of salamanders (as well mammals), 
+the locomotor CPG can be turned on by bath-application 
+of glutamate agonists, a non-specific mode of activation[40]. 
+The use of patch clamp and calcium imaging techniques 
+most likely will help to address this issue.
+Serotoninergic Neurons
+Salamanders have a well-developed intraspinal 5-HT 
+system, as well as a supraspinal raphé 5-HT system[58]. 
+Although 5-HT by itself fails to initiate locomotion, it shapes 
+both the swimming and stepping patterns expressed by 
+the salamander spinal cord in vitro[58, 59]. In particular, 5-HT 
+agonists increase both the duration and intensity of the 
+locomotor bursts in intact animals. Therefore, the axons 
+of reticulospinal 5-HT neurons that regenerate across the 
+lesion could contribute to the restoration of the sub-lesional 
+EMG activity in transected animals by modulating the non-
+linear membrane properties of 5-HT-dependent neurons[60]. 
+in contrast, there is no experimental evidence that some 
+of the intraspinal 5-HT neurons regenerate axons after 
+transection. interestingly, there is compelling evidence 
+that these neurons are involved in the spinal control of 
+locomotion in mammals[60]. 
+Associated with SCI is a marked alteration in the 5-HT 
+control of the swimming rhythm in salamanders. indeed, 
+application of 5-HT to 1–2 lumbo-sacral segments of the 
+sub-lesional cord induces a dose-dependent increase in the 
+swimming rhythm in recovered spinal salamanders, while 
+a similar application to intact animals induces a decrease 
+in the swimming rhythm (Figs. 3 and 4). But a similar 
+local application of 5-HT in intact or spinal-transected 
+salamanders fails to significantly alter the stepping rhythm 
+Fig. 1. Recovery of swimming in salamander with spinal transection. In each panel, a drawing of the body shape of the salamander 
+and position of the recording EMG electrodes (left) accompanies the EMG recordings (right). EMG recordings were from two 
+myomeres on the same side of the animal. One myomere was located above, and the other below the transection site (indicated 
+in the drawings with arrows). A: Pattern of EMG activity characteristic of swimming in an intact animal. B: Fourteen days after 
+spinalization, the rhythmic EMG activity was restricted to above the transection. C: At 196 days after spinalization the pattern of 
+muscle activity appeared similar to that recorded before spinalization (compare with A). D: After complete swimming recovery, a 
+second spinalization was performed at the same level as the first one. Within six days after the second spinalization, the rhythmic 
+EMG activity was restricted to above the spinal transection. Recordings are from the same animal (adapted from[19]).
+Jean-Marie Cabelguen, et al.    Locomotor recovery in spinal salamander 471
+(not illustrated). These results are also consistent with the 
+differential degree of post-lesional plasticity of swimming 
+and stepping networks in salamanders (see above). Finally, 
+5-HT can play a critical trophic role in regeneration in 
+addition to its function in neuromodulation[61, 62], but this 
+remains to be investigated in the present context.
+Cholinergic Neurons
+The role of regenerated cholinergic propriospinal neurons 
+in the re-establishment of locomotor function in spinally-
+transected salamanders remains an open question. one 
+possibility is that they contribute to recovery by relaying the 
+descending locomotor drive in the most caudal levels of the 
+cord. Therefore, cholinergic propriospinal neurons would 
+be an important target for strategies designed to produce 
+locomotor recovery[63, 64]. 
+Recovery of Motoneuron Excitability in Spinally-
+transected Salamanders
+Motoneurons (MNs) are the output stage of the locomotor 
+networks and consequently transduce neuronal activity to 
+movement. As MNs can be identified by simple retrograde 
+tracer injection into muscles or ventral roots, these cells are 
+easier to study (anatomically and electrophysiologically) 
+than the interneurons of the locomotor networks. The 
+intrinsic firing properties of MNs depend on the ionic 
+conductances that they express. These conductances are 
+under neuromodulatory control that can reshape the MN 
+Fig. 2. Axonal regeneration of descending cholinergic propriospinal neurons in salamander with spinal transection. A: A single 
+propriospinal neuron (arrow) was retrogradely labeled with FDA (fluorescein dextran-amines) applied to the cut surface of the 15th 
+spinal segment 180 days after transection at the level of the 12th segment. B and C: This neuron exhibited ChAT immunoreactivity. 
+Scale bars, 50 µm. D: Distribution histogram along the spinal cord of the ChAT-immunoreactive cells that project to the FDA 
+application site. Red and green arrows refer to the levels of transection and FDA application, respectively. The thicker lines 
+indicate the brachial and crural plexuses. Same experiment as in A–C. (unpublished data by Céline Philippe).
+Neurosci Bull     August 1, 2013, 29(4): 467–476472
+firing pattern, and hence the output of the locomotor CPG[65, 66], 
+for tuning and adapting the locomotor drive to changing 
+conditions[67]. Since the neuromodulatory descending 
+systems can be disrupted after SCi, strategies aiming at 
+restoring locomotor movements need to address not only 
+the premotor circuits that provide the locomotor drive but 
+also the modulatory system that ensures that MNs are 
+sufficiently excitable to respond to that drive.
+Among the neuromodulators, acetylcholine (ACh) 
+provides ongoing modulation of locomotor activity in 
+many vertebrates[64, 68], including salamanders[69]. Since 
+cholinergic propriospinal cells can be used as a relay of the 
+locomotor drive, we have performed a comparative analysis 
+of the cholinergic modulation of the excitability of MNs in 
+intact and spinally-transected salamanders[70, 71]. We found 
+that ACh increases the gain (input-output relationship) of 
+hindlimb MNs via activation of muscarinic receptors in intact 
+and transected salamanders. our data further revealed 
+that the gain of MNs is larger in early spinal (<2 weeks 
+post-lesion) than in late spinal (3–4 weeks post-lesion) 
+animals, while the value of the gain in late spinal animals 
+is close to that in intact animals (Fig. 5). The muscarinic-
+Fig. 3. In vivo effects of serotonin on the swimming EMG pattern before and after a spinal lesion in the same salamander. A: In each 
+panel, the EMG recordings are from three myomeres in the intact state. The rostro-caudal positions of the myomeres are 
+expressed as fractions of the snout-vent length (SVL). i, ipsilateral; co, contralateral. The bar indicates the position of the 
+segmental laminectomy allowing a local application of serotonin directly to one spinal segment. B: Same representation as in A 
+for EMG recordings. Data are from the same individual, 132 days after spinalization. The dotted line refers to the position of the 
+transection (unpublished data by Ianina Amontieva-Potapova).
+Jean-Marie Cabelguen, et al.    Locomotor recovery in spinal salamander 473
+induced increase in the excitability of hindlimb MNs 
+primarily results, both in intact and spinal animals, from a 
+reduction in the medium-duration afterhyperpolarization 
+(mAHP) amplitude[70, 71]. This result is consistent with 
+previous studies in cat and mouse[72, 73] that demonstrated 
+that the mAHP of spinal MNs is a target for modulation 
+during locomotor behavior. our results also provided 
+evidence that the proportion of hindlimb MNs that express 
+plateau potentials and after-discharges (bistability[66]) 
+during muscarinic activation is strongly increased following 
+spinalization. The increased MN excitability in transected 
+animals could explain the hindlimb and tail hyper-reflexia 
+observed after spinalization and before locomotor recovery.
+it could be argued that the regeneration of descending 
+cholinergic propriospinal neurons across the transection 
+(see above) explains the MN gain reverting to normal 
+four weeks after spinalization. However, previous 
+anatomical and electrophysiological studies did not find re-
+Fig. 4. Quantification of the in vivo effects of serotonin on the swimming rhythm in the intact (A) and spinal (B) states in the same 
+salamander. Data are presented as mean ± SD. ***P <0.001; n.s., not significant (unpublished data by Ianina Amontieva-Potapova).
+Fig. 5. The excitability of hindlimb motoneurons (MNs) changes with time after spinal transection at the trunk level. A: Frequency–current 
+(f–I) relationship for one MN recorded in an intact animal (black line) and two MNs recorded at different post-lesional times in 
+spinally-transected animals (red and blue lines). Note that the transection was performed between the two girdles (0.70 SVL 
+level). The slope of the f–I relationship (gain) was steeper for the MN of the animal spinalized less than 2 weeks before recording, 
+indicating a transient higher responsiveness to the same injected current. B: Mean values of the slope of the f–I plot for 17 MNs 
+recorded <2 weeks after spinalization (red bar), 25 MNs recorded between 3 and 4 weeks after spinalization (blue bar), and 47 MNs 
+recorded in intact animals (black bar). Data are presented as mean ± SEM. ***P <0.001; ns, non-significant (adapted from[70, 71]).
+Neurosci Bull     August 1, 2013, 29(4): 467–476474
+innervation of the cord below the lesion 3–4 weeks post-
+transection[19, 20, 58]. Further investigations are therefore 
+needed to identify the underlying mechanisms. 
+in addition, since several neuromodulators affect the 
+excitability of spinal MNs during locomotion (see recent 
+review[74]), it is important to determine how they contribute, 
+individually and in conjunction, to locomotor recovery after 
+SCi.
+Conclusion
+The adult salamander is an excellent experimental model 
+to study the post-lesional plasticity of motor systems in 
+vertebrates. indeed, the neurobiological study of locomotor 
+recovery in spinally-transected salamanders provides 
+valuable information on the mechanisms required to 
+regain locomotor function after SCi. Furthermore, the 
+spectacular capacity of salamanders to regenerate neurons 
+also applies to midbrain dopaminergic neurons following 
+a chemical lesion, and this has been used to create a 
+new parkinsonian animal model in which the recovery of 
+motor behavior is associated with dopaminergic neuron 
+regeneration/neurogenesis[75]. in the context of SCi, much 
+more work is needed to understand the reorganization of 
+the salamander’s locomotor networks in the spinal state. 
+Rewiring of the networks, modifications in the balance 
+between various transmitter systems, alterations in the 
+intrinsic properties of axotomized descending neurons, and 
+the contribution of sensory information are some important 
+avenues to explore. it is hoped that the knowledge gained 
+from these future studies will serve to target therapeutic 
+approaches for rehabilitation in people with spinal injuries.
+ACkNoWLEDgEMENTS
+We thank Dr. D. Ryczko and V. Charrier for critical reading of the 
+manuscript. This review was supported in part by a grant from the 
+Fondation pour la Recherche Médicale (DNC20101021008). 
+Received date: 2013-03-27; Accepted date: 2013-05-19
+REFERENCES
+[1] Carter C, Clark A, Spencer G, Carlone R. Cloning and 
+expression of a retinoic acid receptor beta2 subtype from the 
+adult newt: evidence for an early role in tail and caudal spinal 
+cord regeneration. Dev Dyn 2011, 240: 2613–2625.
+[2] Chernoff EA, Stocum DL, Nye HL, Cameron JA. Urodele 
+spinal cord regeneration and related processes. Dev Dyn 
+2003, 226: 295–307.
+[3] Ferreira LM, Floriddia EM, Quadrato G, Di Giovanni S. 
+Neural regeneration: lessons from regenerating and non-
+regenerating systems. Mol Neurobiol 2012, 46: 227–241.
+[4] Ferretti P, Zhang F, o'Neill P. Changes in spinal cord 
+regenerative ability through phylogenesis and development: 
+lessons to be learnt. Dev Dyn 2003, 226: 245–256.
+[5] Mercer SE, Cheng CH, Atkinson DL, Krcmery J, Guzman 
+CE, Kent DT, et al. Multi-tissue microarray analysis identifies 
+a molecular signature of regeneration. PLoS one 2012, 7: 
+e52375.
+[6] Zhang F, Ferretti P, Clarke JD. Recruitment of postmitotic 
+neurons into the regenerating spinal cord of urodeles. Dev 
+Dyn 2003, 226: 341–348.
+[7] Zukor KA, Kent DT, Odelberg SJ. Meningeal cells and glia 
+establish a permissive environment for axon regeneration 
+after spinal cord injury in newts. Neural Dev 2011, 6: 1.
+[8] Fawcett JW, Asher RA. The glial scar and central nervous 
+system repair. Brain Res Bull 1999, 49: 377–391.
+[9] Schwab JM, Bernard F, Moreau-Fauvarque C, Chedotal A. 
+injury reactive myelin/oligodendrocyte-derived axon growth 
+inhibition in the adult mammalian central nervous system. 
+Brain Res Brain Res Rev 2005, 49: 295–299.
+[10] Schwab ME, Bartholdi D. Degeneration and regeneration 
+of axons in the lesioned spinal cord. Physiol Rev 1996, 76: 
+319–370.
+[11] Schwab ME. increasing plasticity and functional recovery of 
+the lesioned spinal cord. Prog Brain Res 2002, 137: 351–359.
+[12] Grillner S. The motor infrastructure: from ion channels to 
+neuronal networks. Nat Rev Neurosci 2003, 4: 573–586.
+[13] Rossignol S, Dubuc R, Gossard JP. Dynamic sensorimotor 
+interactions in locomotion. Physiol Rev 2006, 86: 89–154.
+[14] Bradbury EJ, McMahon SB. Spinal cord repair strategies: 
+why do they work? Nat Rev Neurosci 2006, 7: 644–653.
+[15] Lurie Di, Selzer ME. Axonal regeneration in the adult lamprey 
+spinal cord. J Comp Neurol 1991, 306: 409–416.
+[16] S i rbu lescu RF,  Zupanc GK.  Sp ina l  cord repa i r  in 
+regeneration-competent vertebrates: adult teleost fish as a 
+model system. Brain Res Rev 2011, 67: 73-93.
+[17] Butler EG, Ward MB. Reconstitution of the spinal cord after 
+ablation in adult Triturus. Dev Biol 1967, 15: 464–486.
+[18] Piatt J. Regeneration of the spinal cord in the salamander. J 
+Exp Zool 1955, 29: 177–208.
+[19] Chevallier S, Landry M, Nagy F, Cabelguen JM. Recovery 
+of bimodal locomotion in the spinal-transected salamander, 
+Pleurodeles waltlii. Eur J Neurosci 2004, 20: 1995–2007.
+[20] Davis BM, Ayers JL, Koran L, Carlson J, Anderson MC, 
+Simpson SB Jr. Time course of salamander spinal cord 
+Jean-Marie Cabelguen, et al.    Locomotor recovery in spinal salamander 475
+regeneration and recovery of swimming: HRP retrograde 
+pathway tracing and kinematic analysis. Exp Neurol 1990, 
+108: 198–213.
+[21] Davis BM, Duffy MT, Simpson SB Jr. Bulbospinal and 
+intraspinal connections in normal and regenerated 
+salamander spinal cord. Exp Neurol 1989, 103: 41–51.
+[22] Doyle LM, Stafford PP, Roberts BL. Recovery of locomotion 
+correlated with axonal regeneration after a complete spinal 
+transection in the eel. Neuroscience 2001, 107: 169–179.
+[23] McClellan AD. Functional regeneration and restoration of 
+locomotor activity following spinal cord transection in the 
+lamprey. Prog Brain Res 1994, 103: 203–217.
+[24] Zhang L, Palmer R, McClellan AD. increase in descending 
+brain-spinal cord projections with age in larval lamprey: 
+implications for spinal cord injury. J Comp Neurol 2002, 447: 
+128–137.
+[25] Cohen AH, Kiemel T, Pate V, Blinder J, Guan L. Temperature 
+can alter the function outcome of spinal cord regeneration in 
+larval lampreys. Neuroscience 1999, 90: 957–965.
+[26] Yin HS, Selzer ME. Axonal regeneration in lamprey spinal 
+cord. J Neurosci 1983, 3: 1135–1144.
+[27] Armstrong J, Zhang L, McClellan AD. Axonal regeneration 
+of descending and ascending spinal projection neurons in 
+spinal cord-transected larval lamprey. Exp Neurol 2003, 180: 
+156–166.
+[28] Clarke JD, Alexander R, Holder N. Regeneration of 
+descending axons in the spinal cord of the axolotl. Neurosci 
+Lett 1988, 89: 1–6.
+[29] Davis GR Jr,  McClel lan AD. Long distance axonal 
+regeneration of identified lamprey reticulospinal neurons. Exp 
+Neurol 1994, 127: 94–105.
+[30] Edgerton VR, Leon RD, Harkema SJ, Hodgson JA, London N, 
+Reinkensmeyer DJ, et al. Retraining the injured spinal cord. J 
+Physiol 2001, 533: 15–22.
+[31] Rehermann MI, Marichal N, Russo RE, Trujillo-Cenoz O. 
+Neural reconnection in the transected spinal cord of the 
+freshwater turtle Trachemys dorbignyi. J Comp Neurol 2009, 
+515: 197–214.
+[32] Arshavsky Yui, Gelfand iM, orlovsky GN, Pavlova GA, 
+Popova LB. origin of signals conveyed by the ventral spino-
+cerebellar tract and spino-reticulo-cerebellar pathway. Exp 
+Brain Res 1984, 54: 426–431.
+[33] orsal D, Perret C, Cabelguen JM. Comparison between 
+ventral spinocerebellar and rubrospinal activities during 
+locomotion in the cat. Behav Brain Res 1988, 28: 159–162.
+[34] Vinay L, Grillner S. Spino-bulbar neurons convey information 
+to the brainstem about different phases of the locomotor 
+cycle in the lamprey. Brain Res 1992, 582: 134–138.
+[35] Stensaas LJ. Regeneration in the spinal cord of the newt 
+notophthalmus (triturus) pyrrhogaster. in: Kao CC, Bunge 
+RP, Reier PJ (Eds.). Spinal Cord Reconstruction. New York: 
+Raven Press, 1983: 121–149.
+[36] Bunt SM, Fill-Moebs P. Selection of pathways by regenerating 
+spinal cord fiber tracts. Brain Res 1984, 318: 307–311.
+[37] Beattie MS, Bresnahan JC, Lopate G. Metamorphosis alters 
+the response to spinal cord transection in Xenopus laevis 
+frogs. J Neurobiol 1990, 21: 1108–1122.
+[38] Bareyre FM, Kerschensteiner M, Raineteau o, Mettenleiter 
+TC, Weinmann O, Schwab ME. The injured spinal cord 
+spontaneously forms a new intraspinal circuit in adult rats. 
+Nat Neurosci 2004, 7: 269–277.
+[39] Chevallier S, Jan ijspeert A, Ryczko D, Nagy F, Cabelguen 
+JM. organisation of the spinal central pattern generators for 
+locomotion in the salamander: biology and modelling. Brain 
+Res Rev 2008, 57: 147–161.
+[40] Delvolve i, Branchereau P, Dubuc R, Cabelguen JM. Fictive 
+rhythmic motor patterns induced by NMDA in an in vitro 
+brain stem-spinal cord preparation from an adult urodele. J 
+Neurophysiol 1999, 82: 1074–1077.
+[41] Ryczko D, Charrier V, ijspeert A, Cabelguen JM. Segmental 
+oscillators in axial motor circuits of the salamander: 
+distribution and bursting mechanisms. J Neurophysiol 2010, 
+104: 2677–2692.
+[42] Wheat ley M,  Ste in  RB.  An in  v i t ro  preparat ion of 
+the  mudpuppy for  s imul taneous in t race l lu la r  and 
+electromyographic recording during locomotion. J Neurosci 
+Methods 1992, 42: 129–137.
+[43] Bicanski A, Ryczko D, Knuesel J, Harischandra N, Charrier 
+V, Ekeberg o, et al. Decoding the mechanisms of gait 
+generation in salamanders by combining neurobiology, 
+modeling and robotics. Biol Cybern 2013.
+[44] ijspeert AJ, Crespi A, Ryczko D, Cabelguen JM. From 
+swimming to walking with a salamander robot driven by a 
+spinal cord model. Science 2007, 315: 1416–1420.
+[45] Frolich LM, Biewener AA. Kinematic and Electromyographic 
+Analysis of the functional role of the body axis during 
+terrestrial and aquatic locomotion in the salamander 
+Ambystoma Tigrinum. J Exp Biol 1992, 162: 107–130.
+[46] Delvolve I, Bem T, Cabelguen JM. Epaxial and limb muscle 
+activity during swimming and terrestrial stepping in the adult 
+newt, Pleurodeles waltl. J Neurophysiol 1997, 78: 638–650.
+[47] Becker T, Wullimann MF, Becker CG, Bernhardt RR, 
+Schachner M. Axonal regrowth after spinal cord transection 
+in adult zebrafish. J Comp Neurol 1997, 377: 577–595.
+[48] Mackler SA, Selzer ME. Regeneration of functional synapses 
+between individual recognizable neurons in the lamprey 
+spinal cord. Science 1985, 229: 774–776.
+[49] Wood MR, Cohen MJ. Synaptic regeneration in identified 
+neurons of the lamprey spinal cords. Science 1979, 206: 
+344–347.
+Neurosci Bull     August 1, 2013, 29(4): 467–476476
+[50] Cohen AH, Mackler SA, Selzer ME. Behavioral recovery 
+following spinal transection: functional regeneration in the 
+lamprey CNS. Trends Neurosci 1988, 11: 227–231.
+[51] McClellan AD. Locomotor recovery in spinal-transected 
+lamprey: regenerated spinal coordinating neurons and 
+mechanosensory inputs couple locomotor activity across a 
+spinal lesion. Neuroscience 1990, 35: 675–685.
+[52] Pearson KG. Plasticity of neuronal networks in the spinal 
+cord: modifications in response to altered sensory input. Prog 
+Brain Res 2000, 128: 61–70.
+[53] Pearson KG, Rossignol S. Fictive motor patterns in chronic 
+spinal cats. J Neurophysiol 1991, 66: 1874–1887.
+[54] Doyle LM, Roberts BL. Exercise enhances axonal growth 
+and functional recovery in the regenerating spinal cord. 
+Neuroscience 2006, 141: 321–327.
+[55] Belanger M, Drew T, Provencher J, Rossignol S. A 
+comparison of treadmill locomotion in adult cats before and 
+after spinal transection. J Neurophysiol 1996, 76: 471–491.
+[56] Orlovsky GN, Deliagina TG, Grillner S. Neural Control of 
+Locomotion. New York: oxford University Press, 1999.
+[57] Grillner S. The spinal locomotor CPG: a target after spinal 
+cord injury. Prog Brain Res 2002, 137: 97–108.
+[58] Branchereau P, Rodriguez JJ, Delvolve i, Abrous DN, Le 
+Moal M, Cabelguen JM. Serotonergic systems in the spinal 
+cord of the amphibian urodele Pleurodeles waltl. J Comp 
+Neurol 2000, 419: 49–60.
+[59] Jovanovic K, Petrov T, Greer JJ, Stein RB. Serotonergic 
+modulation of the mudpuppy (Necturus maculatus) locomotor 
+pattern in vitro. Exp Brain Res 1996, 111: 57–67.
+[60] Schmidt BJ, Jordan LM. The role of serotonin in reflex 
+modulation and locomotor rhythm production in the 
+mammalian spinal cord. Brain Res Bull 2000, 53: 689–710.
+[61] Lotto B, Upton L, Price DJ, Gaspar P. Serotonin receptor 
+activation enhances neurite outgrowth of thalamic neurones 
+in rodents. Neurosci Lett 1999, 269: 87–90.
+[62] Schwartz JP. Neurotransmitters as neurotrophic factors: a 
+new set of functions. int Rev Neurobiol 1992, 34: 1–23.
+[63] Jordan LM, Schmidt BJ. Propriospinal neurons involved in the 
+control of locomotion: potential targets for repair strategies? 
+Prog Brain Res 2002, 137: 125–139.
+[64] Miles GB, Hartley R, Todd AJ, Brownstone RM. Spinal 
+cholinergic interneurons regulate the excitabil i ty of 
+motoneurons during locomotion. Proc Natl Acad Sci U S A 
+2007, 104: 2448–2453.
+[65] Rekling JC, Funk GD, Bayliss DA, Dong XW, Feldman JL. 
+Synaptic control of motoneuronal excitability. Physiol Rev 
+2000, 80: 767–852.
+[66] Russo  RE,  Hounsgaard  J .  Dynamics  o f  i n t r i ns ic 
+electrophysiological properties in spinal cord neurones. Prog 
+Biophys Mol Biol 1999, 72: 329–365.
+[67] Pearson KG. Neural adaptation in the generation of rhythmic 
+behavior. Annu Rev Physiol 2000, 62: 723–753.
+[68] Quinlan KA, Placas PG, Buchanan JT. Chol inergic 
+modulation of the locomotor network in the lamprey spinal 
+cord. J Neurophysiol 2004, 92: 1536–1548.
+[69] Fok M, Stein RB. Effects of cholinergic and noradrenergic 
+agents on locomotion in the mudpuppy (Necturus maculatus). 
+Exp Brain Res 2002, 145: 498–504.
+[70] Chevallier S, Nagy F, Cabelguen JM. Cholinergic control 
+of excitability of spinal motoneurones in the salamander. J 
+Physiol 2006, 570: 525–540.
+[71] Chevallier S, Nagy F, Cabelguen JM. Muscarinic control of 
+the excitability of hindlimb motoneurons in chronic spinal-
+transected salamanders. Eur J Neurosci 2008, 28: 2243–2253.
+[72] Brownstone RM, Jordan LM, Kriellaars DJ, Noga BR, 
+Shefchyk SJ. On the regulation of repetitive firing in lumbar 
+motoneurones during fictive locomotion in the cat. Exp Brain 
+Res 1992, 90: 441–455.
+[73] Schmidt BJ. Afterhyperpolarization modulation in lumbar 
+motoneurons during locomotor-like rhythmic activity in the 
+neonatal rat spinal cord in vitro. Exp Brain Res 1994, 99: 
+214–222.
+[74] Miles GB, Sillar KT. Neuromodulation of vertebrate locomotor 
+control networks. Physiology (Bethesda) 2011, 26: 393–411.
+[75] Parish CL, Beljajeva A, Arenas E, Simon A. Midbrain 
+dopaminergic neurogenesis and behavioural recovery in a 
+salamander lesion-induced regeneration model. Development 
+2007, 134: 2881–2887.

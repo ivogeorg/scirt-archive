@@ -1,0 +1,207 @@
+T1	Gene 121 129	Hurtado2
+T2	Gene 131 144	Jörg Ruschel1
+T3	Gene 146 175	Kevin Flynn1, Martina Umlauf1
+T4	Gene 529 534	Johns
+T5	Gene 1196 1199	TFG
+T6	Gene 1704 1707	SCI
+T7	Gene 2533 2538	Taxol
+T8	Gene 2729 2736	laminin
+T9	Gene 2738 2749	fibronectin
+T10	Gene 2754 2765	collagen IV
+T11	Gene 3465 3476	fibronectin
+T12	Gene 3478 3485	laminin
+T13	Gene 3491 3502	collagen IV
+T14	Gene 3563 3574	fibronectin
+T15	Gene 3731 3734	Fig
+T16	Gene 4099 4104	Taxol
+T17	Gene 4433 4438	TGF-ß
+T18	Gene 4585 4590	Smad2
+T19	Gene 4623 4638	TGF- ß receptor
+T20	Gene 4774 4779	TGF-ß
+T21	Gene 5154 5159	Smad2
+T22	Gene 5325 5330	Smad2
+T23	Gene 5335 5344	kinesin-1
+T24	Gene 5412 5417	Taxol
+T25	Gene 5510 5529	dynein motor domain
+T26	Gene 5601 5606	Smad2
+T27	Gene 5653 5659	TGF-ß1
+T28	Gene 5693 5701	Smad 2/3
+T29	Gene 5703 5706	Fig
+T30	Gene 5741 5747	TGF-ß1
+T31	Gene 5901 5912	Smad2-PAGFP
+T32	Gene 5957 5963	TGF-ß1
+T33	Gene 6096 6103	Smad2/3
+T34	Gene 6266 6272	Fig 2I
+T35	Gene 6407 6410	TGF
+T36	Gene 6440 6451	fibronectin
+T37	Gene 6453 6460	Fig. 3C
+T38	Gene 6484 6490	TGF-ß1
+T39	Gene 6558 6564	TGF-ß1
+T40	Gene 6570 6577	Taxol 1
+T41	Gene 6626 6632	TGF-ß1
+T42	Gene 6702 6722	Smad-dependent TGF-ß
+T43	Gene 6829 6832	SCI
+T44	Gene 6866 6878	ECM proteins
+T45	Gene 7078 7081	NG2
+T46	Gene 7633 7636	Fig
+T47	Gene 7659 7664	CSPGs
+T48	Gene 8081 8085	CSPG
+T49	Gene 10120 10123	5HT
+T50	Gene 10387 10390	5HT
+T51	Gene 11308 11310	S3
+T52	Gene 11553 11563	CNS myelin
+T53	Gene 12013 12018	Taxol
+T54	Gene 12397 12400	Max
+T55	Gene 12422 12425	IFP
+T56	Gene 12585 12598	Rüdiger Klein
+T57	Gene 12714 12740	Van Duc Ha, Mrs. Tanja Irl
+T58	Gene 12900 12903	Med
+T59	Gene 12944 12965	Westermann S, Weber K
+T60	Gene 12967 12974	Nat Rev
+T61	Gene 12975 12978	Mol
+T62	Gene 13564 13567	Med
+T63	Gene 14338 14347	Podinin H
+T64	Gene 14668 14671	Med
+T65	Gene 14953 14956	Med
+T66	Gene 16176 16181	Taxol
+T67	Gene 16198 16204	TGF-ß1
+T68	Gene 16448 16455	tubulin
+T69	Gene 16460 16489	decreases tyrosinated tubulin
+T70	Gene 16597 16602	Smad2
+T71	Gene 16661 16666	Smad2
+T72	Gene 16822 16830	KIF5-FRB
+T73	Gene 17362 17365	SCI
+T74	Gene 17605 17630	glycosaminoglycan release
+T75	Gene 17731 17737	TGF-ß1
+T76	Gene 17852 17863	fibronectin
+T77	Gene 17884 17890	TGF-ß1
+T78	Gene 17930 17950	Taxol decreases GAGs
+T79	Gene 17977 17983	TGF-ß1
+T80	Species 2458 2462	rats
+T81	Species 14561 14565	Dill
+T82	Species 15633 15637	rats
+T83	InteractionKeyword 26 33	reduces
+T84	InteractionKeyword 989 998	regulated
+T85	InteractionKeyword 1073 1082	decreased
+T86	InteractionKeyword 1217 1226	prevented
+T87	InteractionKeyword 1428 1436	promoted
+T88	InteractionKeyword 1487 1490	led
+T89	InteractionKeyword 1550 1557	reduces
+T90	InteractionKeyword 1580 1588	enhances
+T91	InteractionKeyword 1730 1738	regulate
+T92	InteractionKeyword 1973 1981	prevents
+T93	InteractionKeyword 2055 2065	stimulates
+T94	InteractionKeyword 2150 2156	effect
+T95	InteractionKeyword 2259 2269	facilitate
+T96	InteractionKeyword 2303 2313	decreasing
+T97	InteractionKeyword 2333 2342	enhancing
+T98	InteractionKeyword 2424 2431	reduces
+T99	InteractionKeyword 3059 3068	competing
+T100	InteractionKeyword 3201 3205	form
+T101	InteractionKeyword 3517 3524	reduced
+T102	InteractionKeyword 3540 3547	control
+T103	InteractionKeyword 3721 3729	controls
+T104	InteractionKeyword 3833 3840	control
+T105	InteractionKeyword 4194 4201	reduced
+T106	InteractionKeyword 4353 4365	transforming
+T107	InteractionKeyword 4452 4461	increases
+T108	InteractionKeyword 4572 4578	signal
+T109	InteractionKeyword 4648 4653	binds
+T110	InteractionKeyword 4795 4805	attenuates
+T111	InteractionKeyword 4870 4879	increased
+T112	InteractionKeyword 4958 4962	bind
+T113	InteractionKeyword 5169 5174	bound
+T114	InteractionKeyword 5345 5351	formed
+T115	InteractionKeyword 5354 5361	complex
+T116	InteractionKeyword 5427 5434	reduced
+T117	InteractionKeyword 5660 5667	induced
+T118	InteractionKeyword 5719 5728	inhibited
+T119	InteractionKeyword 5999 6008	abolished
+T120	InteractionKeyword 6081 6095	phosphorylated
+T121	InteractionKeyword 6306 6312	impair
+T122	InteractionKeyword 6395 6402	reduced
+T123	InteractionKeyword 6475 6483	impaired
+T124	InteractionKeyword 6492 6502	stimulated
+T125	InteractionKeyword 6735 6741	reduce
+T126	InteractionKeyword 6797 6804	prevent
+T127	InteractionKeyword 6844 6851	reduced
+T128	InteractionKeyword 6949 6956	affects
+T129	InteractionKeyword 7054 7063	decreased
+T130	InteractionKeyword 7340 7348	controls
+T131	InteractionKeyword 7560 7568	decrease
+T132	InteractionKeyword 7665 7674	expressed
+T133	InteractionKeyword 8009 8016	results
+T134	InteractionKeyword 8071 8080	decreases
+T135	InteractionKeyword 8560 8567	induced
+T136	InteractionKeyword 9429 9437	enhanced
+T137	InteractionKeyword 9616 9623	promote
+T138	InteractionKeyword 9682 9688	effect
+T139	InteractionKeyword 9841 9849	increase
+T140	InteractionKeyword 10175 10183	increase
+T141	InteractionKeyword 10480 10487	induces
+T142	InteractionKeyword 10560 10565	leads
+T143	InteractionKeyword 10685 10694	increased
+T144	InteractionKeyword 11230 11239	resulting
+T145	InteractionKeyword 11389 11397	inducing
+T146	InteractionKeyword 11398 11404	effect
+T147	InteractionKeyword 11749 11757	targeted
+T148	InteractionKeyword 11969 11976	prevent
+T149	InteractionKeyword 15486 15495	decreases
+T150	InteractionKeyword 15505 15512	induced
+T151	InteractionKeyword 15745 15754	decreases
+T152	InteractionKeyword 15774 15783	expressed
+T153	InteractionKeyword 15800 15807	control
+T154	InteractionKeyword 15830 15839	affecting
+T155	InteractionKeyword 15871 15877	affect
+T156	InteractionKeyword 15915 15924	expressed
+T157	InteractionKeyword 16259 16266	causing
+T158	InteractionKeyword 16432 16441	increases
+T159	InteractionKeyword 16460 16469	decreases
+T160	InteractionKeyword 16603 16608	binds
+T161	InteractionKeyword 16835 16844	recruited
+T162	InteractionKeyword 16993 17001	targeted
+T163	InteractionKeyword 17351 17358	induced
+T164	InteractionKeyword 17566 17575	decreases
+T165	InteractionKeyword 17685 17694	decreases
+T166	InteractionKeyword 17720 17727	induced
+T167	InteractionKeyword 17758 17765	results
+T168	InteractionKeyword 17842 17851	decreases
+T169	InteractionKeyword 17873 17880	induced
+T170	InteractionKeyword 17936 17945	decreases
+T171	InteractionKeyword 17965 17972	control
+T172	InteractionKeyword 17984 17994	stimulated
+T173	InteractionKeyword 18135 18144	decreases
+T174	InteractionKeyword 18164 18171	induced
+T175	InteractionKeyword 18294 18301	control
+T176	InteractionKeyword 18557 18565	promotes
+T177	InteractionKeyword 18722 18730	promotes
+R178	Partner1 Arg1:T83 Arg2:T4
+R179	Partner2 Arg1:T83 Arg2:T1
+R180	Partner1 Arg1:T101 Arg2:T14
+R181	Partner2 Arg1:T101 Arg2:T11
+R182	Partner1 Arg1:T109 Arg2:T18
+R183	Partner2 Arg1:T109 Arg2:T19
+R184	Partner1 Arg1:T115 Arg2:T22
+R185	Partner2 Arg1:T115 Arg2:T23
+R186	Partner1 Arg1:T116 Arg2:T24
+R187	Partner2 Arg1:T116 Arg2:T25
+R188	Partner1 Arg1:T117 Arg2:T30
+R189	Partner2 Arg1:T117 Arg2:T27
+R190	Partner1 Arg1:T119 Arg2:T31
+R191	Partner2 Arg1:T119 Arg2:T32
+R192	Partner1 Arg1:T120 Arg2:T33
+R193	Partner2 Arg1:T120 Arg2:T34
+R194	Partner1 Arg1:T123 Arg2:T36
+R195	Partner2 Arg1:T123 Arg2:T40
+R196	Partner1 Arg1:T125 Arg2:T43
+R197	Partner2 Arg1:T125 Arg2:T42
+R198	Partner1 Arg1:T157 Arg2:T66
+R199	Partner2 Arg1:T157 Arg2:T67
+R200	Partner1 Arg1:T159 Arg2:T68
+R201	Partner2 Arg1:T159 Arg2:T69
+R202	Partner1 Arg1:T164 Arg2:T75
+R203	Partner2 Arg1:T164 Arg2:T74
+R204	Partner1 Arg1:T168 Arg2:T76
+R205	Partner2 Arg1:T168 Arg2:T77
+R206	Partner1 Arg1:T171 Arg2:T78
+R207	Partner2 Arg1:T171 Arg2:T79

@@ -1,0 +1,237 @@
+T1	Gene 543 560	Berlin Heidelberg
+T2	Gene 1011 1014	PEG
+T3	Gene 1616 1619	PEG
+T4	Gene 4377 4380	Shi
+T5	Gene 6559 6562	PEG
+T6	Gene 7308 7311	PEG
+T7	Gene 10143 10165	horseradish peroxidase
+T8	Gene 10167 10178	HRP; 40K MW
+T9	Gene 10384 10387	HRP
+T10	Gene 10687 10690	PEG
+T11	Gene 10901 10904	PEG
+T12	Gene 11638 11641	Shi
+T13	Gene 12326 12329	PEG
+T14	Gene 12843 12846	PEG
+T15	Gene 12934 12937	PEG
+T16	Gene 13666 13694	rom behaviora l  def ic i ts
+T17	Gene 13833 13836	PEG
+T18	Gene 14539 14549	CTM reflex
+T19	Gene 14629 14632	CTM
+T20	Gene 15259 15262	PEG
+T21	Gene 15825 15834	caspase-3
+T22	Gene 15848 15860	cytochrome C
+T23	Gene 18915 18918	PEG
+T24	Gene 19182 19185	PEG
+T25	Gene 19887 19890	PEG
+T26	Gene 20876 20888	cytochrome C
+T27	Gene 21738 21741	PEG
+T28	Gene 22012 22017	PEG’s
+T29	Gene 22550 22553	NiH
+T30	Gene 22725 22732	Nat Rev
+T31	Gene 22733 22736	Mol
+T32	Gene 22867 22876	dysferlin
+T33	Gene 23104 23131	Annu Rev Cell Dev Biol 2003
+T34	Gene 23906 23913	calpain
+T35	Gene 23933 23942	Res Brain
+T36	Gene 23947 23950	Rev
+T37	Gene 26250 26263	phospholipase
+T38	Gene 26310 26312	DH
+T39	Gene 26314 26321	Wolf JA
+T40	Gene 27445 27447	BT
+T41	Gene 27449 27454	Fox P
+T42	Gene 27570 27572	JH
+T43	Gene 27819 27821	JH
+T44	Gene 28211 28219	Proc Nat
+T45	Gene 28225 28239	Sci U S A 1980
+T46	Gene 28801 28803	JK
+T47	Gene 29487 29513	Shi R. Polyethylene glycol
+T48	Gene 32470 32473	Med
+T49	Gene 32614 32618	Pin1
+T50	Species 5288 5292	cats
+T51	Species 5456 5459	dog
+T52	Species 7868 7878	guinea pig
+T53	Species 8074 8085	guinea pigs
+T54	Species 10143 10154	horseradish
+T55	Species 13789 13799	guinea-pig
+T56	Species 14380 14384	pigs
+T57	Species 15193 15196	pig
+T58	Species 15290 15293	rat
+T59	Species 16908 16918	guinea-pig
+T60	Species 17806 17810	dogs
+T61	Species 23423 23426	rat
+T62	Species 24214 24218	rats
+T63	Species 24590 24593	rat
+T64	Species 25081 25091	earthworms
+T65	Species 26728 26738	guinea pig
+T66	Species 27214 27224	guinea pig
+T67	Species 28137 28140	rat
+T68	Species 29378 29388	guinea pig
+T69	Species 29934 29945	guinea pigs
+T70	Species 31696 31700	rats
+T71	Species 31991 31994	rat
+T72	Species 32448 32452	rats
+T73	Species 32821 32825	dogs
+T74	Species 33031 33042	guinea pigs
+T75	InteractionKeyword 163 171	enhances
+T76	InteractionKeyword 922 931	following
+T77	InteractionKeyword 1033 1040	prevent
+T78	InteractionKeyword 1045 1052	effects
+T79	InteractionKeyword 1221 1230	disrupted
+T80	InteractionKeyword 1252 1258	direct
+T81	InteractionKeyword 1350 1357	results
+T82	InteractionKeyword 2595 2604	resulting
+T83	InteractionKeyword 2681 2690	disrupted
+T84	InteractionKeyword 2863 2870	effects
+T85	InteractionKeyword 2887 2897	activating
+T86	InteractionKeyword 2909 2919	generating
+T87	InteractionKeyword 2946 2956	disrupting
+T88	InteractionKeyword 2988 2998	activating
+T89	InteractionKeyword 3039 3044	leads
+T90	InteractionKeyword 3185 3190	leads
+T91	InteractionKeyword 3476 3484	enhances
+T92	InteractionKeyword 3513 3520	effects
+T93	InteractionKeyword 3807 3816	enhancing
+T94	InteractionKeyword 3930 3940	associated
+T95	InteractionKeyword 4018 4026	required
+T96	InteractionKeyword 4211 4220	increases
+T97	InteractionKeyword 4337 4344	require
+T98	InteractionKeyword 4509 4519	controlled
+T99	InteractionKeyword 4862 4870	produced
+T100	InteractionKeyword 5043 5052	inhibited
+T101	InteractionKeyword 5186 5195	decreases
+T102	InteractionKeyword 5429 5436	changes
+T103	InteractionKeyword 5501 5510	resulting
+T104	InteractionKeyword 5525 5532	prevent
+T105	InteractionKeyword 5587 5594	reduced
+T106	InteractionKeyword 5621 5628	trigger
+T107	InteractionKeyword 5804 5813	disrupted
+T108	InteractionKeyword 5825 5832	causing
+T109	InteractionKeyword 5942 5946	lead
+T110	InteractionKeyword 6084 6093	following
+T111	InteractionKeyword 6115 6125	contribute
+T112	InteractionKeyword 6468 6472	fuse
+T113	InteractionKeyword 6488 6492	form
+T114	InteractionKeyword 6510 6520	facilitate
+T115	InteractionKeyword 6585 6589	fuse
+T116	InteractionKeyword 6673 6677	fuse
+T117	InteractionKeyword 6932 6943	eliminating
+T118	InteractionKeyword 7047 7055	reducing
+T119	InteractionKeyword 7086 7095	enhancing
+T120	InteractionKeyword 7265 7269	fuse
+T121	InteractionKeyword 7326 7332	fusing
+T122	InteractionKeyword 8238 8249	stimulating
+T123	InteractionKeyword 8277 8288	eliminating
+T124	InteractionKeyword 8901 8911	eliminates
+T125	InteractionKeyword 9204 9209	fused
+T126	InteractionKeyword 9500 9507	control
+T127	InteractionKeyword 9771 9782	accompanied
+T128	InteractionKeyword 10327 10334	results
+T129	InteractionKeyword 10420 10427	reduced
+T130	InteractionKeyword 10523 10533	associated
+T131	InteractionKeyword 10553 10561	enhanced
+T132	InteractionKeyword 10620 10629	following
+T133	InteractionKeyword 10691 10699	enhances
+T134	InteractionKeyword 10789 10797	produces
+T135	InteractionKeyword 10928 10935	promote
+T136	InteractionKeyword 11382 11393	contributes
+T137	InteractionKeyword 11707 11715	requires
+T138	InteractionKeyword 11985 11992	effects
+T139	InteractionKeyword 12076 12085	following
+T140	InteractionKeyword 12205 12214	promoting
+T141	InteractionKeyword 12405 12412	reduces
+T142	InteractionKeyword 12515 12522	reduces
+T143	InteractionKeyword 12621 12630	decreased
+T144	InteractionKeyword 12636 12642	result
+T145	InteractionKeyword 12939 12947	mediated
+T146	InteractionKeyword 13160 13168	reducing
+T147	InteractionKeyword 13183 13193	inhibiting
+T148	InteractionKeyword 13263 13273	associated
+T149	InteractionKeyword 13301 13311	preventing
+T150	InteractionKeyword 13320 13329	increased
+T151	InteractionKeyword 13367 13373	linked
+T152	InteractionKeyword 13465 13473	enhances
+T153	InteractionKeyword 13541 13548	effects
+T154	InteractionKeyword 13971 13980	following
+T155	InteractionKeyword 14048 14057	abolished
+T156	InteractionKeyword 14223 14233	eliminated
+T157	InteractionKeyword 14303 14310	control
+T158	InteractionKeyword 14500 14507	control
+T159	InteractionKeyword 14744 14752	resulted
+T160	InteractionKeyword 14869 14874	leads
+T161	InteractionKeyword 15247 15254	results
+T162	InteractionKeyword 15449 15455	effect
+T163	InteractionKeyword 15571 15581	suppressed
+T164	InteractionKeyword 15656 15665	following
+T165	InteractionKeyword 15705 15712	reduces
+T166	InteractionKeyword 15760 15769	following
+T167	InteractionKeyword 15888 15895	reduced
+T168	InteractionKeyword 15993 16000	reduces
+T169	InteractionKeyword 16038 16043	cause
+T170	InteractionKeyword 16373 16382	modifying
+T171	InteractionKeyword 16666 16675	enhancing
+T172	InteractionKeyword 17656 17662	effect
+T173	InteractionKeyword 18061 18069	controls
+T174	InteractionKeyword 18131 18138	results
+T175	InteractionKeyword 18706 18714	enhances
+T176	InteractionKeyword 18736 18745	following
+T177	InteractionKeyword 19376 19385	following
+T178	InteractionKeyword 19386 19393	results
+T179	InteractionKeyword 19567 19575	interact
+T180	InteractionKeyword 19643 19653	attenuates
+T181	InteractionKeyword 19773 19780	effects
+T182	InteractionKeyword 19789 19799	preventing
+T183	InteractionKeyword 19864 19871	results
+T184	InteractionKeyword 19921 19927	effect
+T185	InteractionKeyword 19937 19943	direct
+T186	InteractionKeyword 20253 20259	causes
+T187	InteractionKeyword 20381 20388	results
+T188	InteractionKeyword 20515 20524	eliminate
+T189	InteractionKeyword 20637 20645	interact
+T190	InteractionKeyword 20666 20676	preventing
+T191	InteractionKeyword 20752 20760	prevents
+T192	InteractionKeyword 20765 20772	reduces
+T193	InteractionKeyword 20866 20874	inhibits
+T194	InteractionKeyword 21050 21059	disrupted
+T195	InteractionKeyword 21080 21086	direct
+T196	InteractionKeyword 21444 21451	enhance
+T197	InteractionKeyword 21510 21517	reduces
+T198	InteractionKeyword 22004 22011	enhance
+T199	InteractionKeyword 22933 22941	enhances
+T200	InteractionKeyword 23208 23216	enhances
+T201	InteractionKeyword 23237 23246	following
+T202	InteractionKeyword 24105 24112	causing
+T203	InteractionKeyword 24153 24161	mediated
+T204	InteractionKeyword 24181 24190	following
+T205	InteractionKeyword 25665 25674	following
+T206	InteractionKeyword 25822 25829	induced
+T207	InteractionKeyword 25830 25837	altered
+T208	InteractionKeyword 25896 25903	induced
+T209	InteractionKeyword 25920 25926	change
+T210	InteractionKeyword 26061 26068	changes
+T211	InteractionKeyword 26069 26079	associated
+T212	InteractionKeyword 26100 26107	induced
+T213	InteractionKeyword 26552 26559	results
+T214	InteractionKeyword 26602 26610	increase
+T215	InteractionKeyword 27032 27040	enhances
+T216	InteractionKeyword 27238 27247	following
+T217	InteractionKeyword 27758 27765	changes
+T218	InteractionKeyword 28183 28188	fused
+T219	InteractionKeyword 29022 29029	effects
+T220	InteractionKeyword 29558 29566	inhibits
+T221	InteractionKeyword 29729 29736	reduces
+T222	InteractionKeyword 29784 29793	following
+T223	InteractionKeyword 29895 29904	following
+T224	InteractionKeyword 30492 30503	attenuating
+T225	InteractionKeyword 30521 30530	following
+T226	InteractionKeyword 30928 30937	following
+T227	InteractionKeyword 31079 31088	following
+T228	InteractionKeyword 31259 31265	follow
+T229	InteractionKeyword 31455 31464	decreases
+T230	InteractionKeyword 31641 31649	promotes
+T231	InteractionKeyword 32072 32080	inhibits
+T232	InteractionKeyword 32103 32112	following
+T233	InteractionKeyword 33187 33195	inhibits
+R234	Partner1 Arg1:T158 Arg2:T18
+R235	Partner2 Arg1:T158 Arg2:T19
+R236	Partner1 Arg1:T167 Arg2:T21
+R237	Partner2 Arg1:T167 Arg2:T22

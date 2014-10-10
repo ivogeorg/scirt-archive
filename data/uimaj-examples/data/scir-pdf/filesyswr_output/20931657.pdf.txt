@@ -1,0 +1,2312 @@
+a RESEARCH ARTICLE
+Cellular Response After Crush Injury in Adult
+Zebrafish Spinal Cord
+Subhra Prakash Hui,1 Anindita Dutta,2 and Sukla Ghosh1*
+Zebrafish proves to be an excellent model system to study spinal cord regeneration because it can repair
+its disengaged axons and replace lost cells after injury, allowing the animal to make functional recovery.
+We have characterized injury response following crush injury, which is comparable to the mammalian
+mode of injury. Infiltrations of blood cells during early phases involve macrophages that are important in
+debris clearance and probably in suppression of inflammatory response. Unlike mammals where second-
+ary injury mechanisms lead to apoptotic death of both neurons and glia, here we observe a beneficial role
+of apoptotic cell death. Injury-induced proliferation, presence of radial glia cells, and their role as progen-
+itor all contribute to cellular replacement and successful neurogenesis after injury in adult zebrafish. To-
+gether with cell replacement phenomenon, there is creation of a permissive environment that includes
+the absence or clearance of myelin debris, presence of Schwann cells, and absence of inflammatory
+response. Developmental Dynamics 239:2962–2979, 2010. VC 2010 Wiley-Liss, Inc.
+Key words: regeneration; cell death; cell proliferation; spinal cord injury (SCI); neurogenesis; radial glia; zebrafish;
+Schwann cell; macrophage
+Accepted 24 August 2010
+INTRODUCTION
+Fish and urodele amphibians main-
+tain an extraordinary ability to regen-
+erate a variety of complex body parts
+including their central nervous sys-
+tem (CNS). In contrast, CNS of mam-
+mals including human, have a very
+limited ability for cellular repair. Any
+spinal cord injury (SCI) in mammals
+leads to functional decline because of
+a progressive pathophysiology affect-
+ing cell survival and neurological in-
+tegrity. The primary mechanical dam-
+age is compounded by a complex
+sequence of cellular events like pro-
+nounced inflammatory response by
+rapid invasion of macrophages/micro-
+glia and astrocytes, local loss of neu-
+rons and glia, demyelination, axonal
+degeneration, and formation of fibro-
+glial scar (Balentine, 1978a,b; Blight,
+1985; Guth et al., 1999; Popovich
+et al., 1997; Donnelly and Popovich
+2008), which are responsible for devel-
+opment of neuropathology and subse-
+quent loss of functions. The precise
+mechanisms underlying the expan-
+sion of primary injuries are not fully
+known, although several factors are
+known to be responsible in secondary
+degenerative response.
+Evidence has also accumulated that
+demonstrates the existence of a quies-
+cent population of multipotent neural
+progenitors in the adult mammalian
+central nervous system contrary to
+what was previously thought (Mors-
+head et al., 1994; Gage, 2000; Alvarez-
+Buylla et al., 2002; Song et al., 2002).
+These cells, upon proper stimulation
+and with a permissive environment,
+can even proliferate and differentiate
+to neurons, which point towards a
+potential for novel therapeutic strat-
+egies to induce regeneration after SCI
+by generating new neurons. Thus, key
+requirements for successful regenera-
+tion to take place are (1) cellular
+replacement, i.e., the presence of neu-
+rons and glia that could be generated
+in adequate numbers, (2) significant
+cell survival after injury and the abil-
+ity of those neurons to extend axons to
+the original target, and (3) the axonal
+remyelination and axonal regrowth. It
+is a necessary prerequisite to study
+Additional Supporting Information may be found in the online version of this article.
+1Department of Biophysics, Molecular Biology and Bioinformatics, University of Calcutta, Kolkata, India
+2Chittaranjan National Cancer Research Institute, Kolkata, India
+Grant sponsor: DBT, Govt. of India; Grant number: BT/PR5489/AAQ/03/245/2004.
+*Correspondence to: Sukla Ghosh, Department of Biophysics, Molecular Biology and Bioinformatics, University of
+Calcutta, 92, A. P. C Road, Kolkata 700009, India. E-mail: suklagh2010@gmail.com
+DOI 10.1002/dvdy.22438
+Published online 8 October 2010 in Wiley Online Library (wileyonlinelibrary.com).
+DEVELOPMENTAL DYNAMICS 239:2962–2979, 2010
+VC 2010 Wiley-Liss, Inc.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+these processes in those species of ver-
+tebrates that can regrow their axons
+and have the capacity to generate new
+neurons even in adult life.
+Adult zebrafish can regrow axons
+spontaneously after spinal cord trans-
+ection and are capable of reconnecting
+their appropriate targets (Becker et al.,
+1997; Bernhardt, 1999). An unusual
+feature of fish CNS is that they are
+neurogenic and they may continue to
+generate new neurons throughout nor-
+mal life even in mature uninjured spi-
+nal cord (Leonard et al., 1978; Ander-
+son and Waxman, 1983; Waxman and
+Anderson, 1985). Most of the previous
+studies on adult neurogenesis and neu-
+ronal regeneration in brain are based
+on different teleost species (Zupanc and
+Horschke, 1995; Zupanc et al., 2005;
+Zupanc and Zupanc, 2006). Although
+zebrafish has emerged as a powerful
+animal model to study regeneration for
+various reasons, very little attention
+has been paid to study spinal cord
+regeneration in this species. All the
+previous studies on spinal cord have
+focused on giving complete transection
+(Becker et al., 1997, 2005; Reimer
+et al., 2009) and none of these studies
+have examined the response to crush,
+hemisection, or contusion injuries,
+which are known to be a significant
+focus of research efforts in mammalian
+models. Thus, most of the earlier data
+cannot be compared directly to the
+results from contemporary studies on
+mammalian models for SCI.
+Evidence from brain injury and SCI
+in mammalian adult suggests induction
+of apoptosis, which plays a significant
+role in secondary degenerative response
+(Crowe et al., 1995). Injury-induced apo-
+ptosis occurs in different neural popula-
+tions like neurons, astrocytes, oligoden-
+drocytes, and microglia after SCI
+(Shuman et al., 1996; Liu et al., 1997; Li
+et al., 1999; Newcomb et al., 1999; Beat-
+tie et al., 2000). There are conflicting
+reports on the absence or presence of
+injury-induced cell death in fish brain in
+stages beyond embryogenesis (Fine,
+1989; Waxman and Anderson, 1985;
+Zupanc et al., 1998). So it is imperative
+to address the issue of cell death in the
+context of secondary degenerative
+response in both regeneration-incompe-
+tent and regeneration-competent spe-
+cies. It is particularly important to know
+what happens in regeneration-compe-
+tent species, where the presence or ab-
+sence of secondary response has not
+been confirmed and characterized. In
+the present report, we have character-
+ized the lesion after injury at the ultra-
+structural level and also demonstrated
+a significant level of injury-induced cell
+proliferation, neurogenesis, and a low
+level of apoptotic cell death in zebrafish
+spinal cord after injury, where a compa-
+rable mammalian mode of injury, e.g.,
+crush, has been used.
+RESULTS
+Histology of Uninjured Spinal
+Cord
+Sections from uninjured spinal cord
+were stained with either hematoxylin/
+eosin (H&E, Fig. 1A) or luxol fast blue/
+cresyl violet (Fig. 1J) and trichrome
+(not shown) to observe the normal
+structure of uninjured spinal cord. We
+showed the presence of a very high ra-
+tio of white matter compared to grey
+matter. Presence of ependyma can be
+seen here, which are two to three cell
+layers thick (also referred to as ven-
+tricular zone) and an ependymal canal
+runs through the center of the cord.
+Adjacent to ependyma is a subependy-
+mal cell layer that contains neurons
+(Fig. 1A, J, and J.1).
+Time Course Analysis of
+Regeneration
+We have studied the time course of
+regeneration after giving a crush injury
+to the adult zebrafish spinal cord. To
+characterize the injury, we have docu-
+mented the basic cellular events during
+regeneration at different time points af-
+ter injury by using H&E, luxol fast
+blue, and cresyl violet (Fig. 1), tri-
+chrome (Fig. 2) staining, as well as ul-
+trastructural analysis by TEM (Figs.1
+and 2). Immediately after injury, there
+is a loss of the blood-brain barrier,
+which results in infiltration of blood
+cells to the injury site, disruption of ep-
+endyma, and a substantial loss of tis-
+sue, both in white and grey matter
+(Figs. 1B and 2A). Infiltrating blood
+cells include macrophages as evidenced
+by their phagocytic nature (Fig. 2D–G),
+polymorphonuclear neutrophils (Fig.
+2H), monocytes with a horse-shoe-
+shaped nucleus (Fig. 2I), and red blood
+cells (RBC; Figs. 1C, 2B), all of which
+can be seen in 3-day post-injury (dpi)
+cord. These macrophages are most
+likely blood-derived since they are
+located in the close vicinity of the blood
+vessel (Fig. 2F). A substantially higher
+number of macrophage infiltrations
+can be demonstrated at the injured site
+in 3dpi cord and many macrophages
+are present around a dying neuron
+(Fig. 2F), which have a characteristic
+electron-dense fragmented body in nu-
+cleus and retracted cytoplasm (Nagan-
+ska and Matyja, 2001). At the same
+time point, damaged axons are shown
+about to be engulfed by macrophages
+(Fig. 2E), whereas 10dpi cord shows
+fewer macrophages at the site of injury
+(Fig. 2G), although lipophilic inclu-
+sions, vacuoles, and some digested resi-
+dues of myelin debris that were
+engulfed earlier are present inside the
+macrophage. Presence of RBC can be
+predominantly seen close to the injury
+epicenter in 1-, 3-, and 5dpi cord (Fig.
+2A–C) and afterwards the infiltration
+of RBC decreased considerably (data
+not shown). Both 1dpi and 3dpi cord
+showed damaged tissue in grey matter,
+as disruption of ependyma and com-
+pression of the cord is evident (Figs.
+1B,C,K, 2A,B). Tissue edema can be
+observed as a consequence of injury in
+3- to 7dpi cord and is reduced after-
+wards. Loss of white matter (Figs.
+1B,C,K, 2A,B), can also be confirmed in
+injured cord both by luxol fast blue
+staining (Fig. 1K) and by ultrastruc-
+tural analysis, which revealed demye-
+lination of axons (Fig. 1O,P) when com-
+pared to normal uninjured cord (Fig.
+1N). There are accumulations of some
+cells around the cut ends of ependyma
+as early as 3dpi, which replace the ini-
+tial loss of tissue. Cells around the ep-
+endymal canal begin to migrate and
+initiate ependymal sealing at the same
+time (Fig. 1C, C.1). Accumulation of
+cells around the injury site continues to
+occur at 5dpi and 7dpi (Fig. 1D and E,
+respectively). Progressive ependymal
+sealing, which is an early regenerative
+event, can be observed at around 5dpi
+(Fig. 1D, D.1) when ependymal bulb
+formation involving ependyma and the
+ependymal canal is obvious. As both
+ends of the ependymal bulb join, there
+is continuation of the ependymal canal,
+which forms a cavity-like structure in
+the grey matter of 7dpi (Fig. 1E) and
+10dpi cord (Fig. 1F). It is worth men-
+tioning that the size of the cavity-like
+structure observed at different levels in
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2963
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 1.
+2964 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+subsequent sections (data not shown)
+of 7dpi cord is quite large (1E). The size
+reduces later at day 10 (Fig. 1F) and
+further regression can be seen after
+15dpi (Fig. 1G and G.1) and at 1 month
+of injury (Fig. 1H, L) as regeneration
+progresses. These cavity-like struc-
+tures are seen only in the grey matter
+lined by ependymal cells and may not
+be equivalent to what we see in mam-
+malian SCI, which is a fluid-filled
+astrocyte-lined cavity present in white
+matter (Balentine, 1978a,b; Fitch et al.,
+1999; Renault-Mihara et al., 2008). We
+also observed newly formed neuronal
+cell bodies at the injury epicenter,
+which are small in size at 10dpi cord
+(Fig. 1F.1) and identity of these cells is
+further confirmed by using neuronal
+markers like Hu along with luxol fast
+blue/cresyl violet staining (see Fig. 6H–
+K). Both grey matter and white matter
+regeneration has occurred by day 15
+post-injured cord. A regenerated epen-
+dyma, subependyma with newly
+formed neurons in the injury epicenter,
+and regenerating axons in white mat-
+ter (Fig. 1G and G.1) can be observed,
+although white matter volume has not
+regained the original volume that was
+present before injury. We followed the
+regeneration time course for a much
+longer time period, up to 1 month (Fig.
+1H and H.1, I) and 1.5 months post-
+injury (data not shown). Complete
+regeneration of ependyma is observed
+at 1 month post-injured cord with reap-
+pearance of lost neurons in the sube-
+pendyma near the injury epicenter
+(Fig. 1H and H.1, L and L.1) and axons
+(Fig. 1L and L.1). Regeneration of
+white matter took place without forma-
+tion of a cavity, but even at 1 and 1.5
+month(s) after injury, full white matter
+volume was not regained.
+TEM analysis showed presence of
+oligodendrocytes and myelinated
+axons with compact myelin sheath
+and sparsely distributed neurofila-
+ment in the axonal body in uninjured
+cord (Fig. 1M,N). In 3dpi cord, the
+axons are denuded and typical fea-
+tures of these demyelinated axons are
+the presence of denser neurofilament
+within the axonal body (Fig. 1O,P),
+whereas myelin sheaths are either
+less compact with irregular shapes or
+are disintegrating. We observed the
+presence of Schwann cells around the
+injured demyelinated axons in 10dpi
+cord (Fig. 1R), although no Schwann
+cells are observed in uninjured cord
+and Schwann cells are seen dividing
+(Fig. 1Q), which would probably start
+remyelination (Fig. 1R). Later on,
+some of these cells are wrapping the
+axons through basal membrane, sug-
+gesting that these cells are indeed
+involved in the remyelination process
+after injury (Fig. 1S and T). In regen-
+erated cord 1 month post-injury, the
+presence of remyelinated axons with
+thinner myelin sheaths at the injury
+epicenter can be seen (Fig. 1S,T) when
+compared to uninjured cord (Fig. 1N).
+Analysis of Functional
+Behavior After SCI
+Functional recovery of injured fishes
+(n¼6) has been studied by individu-
+ally monitoring the swimming behav-
+ior of each fish at different time points
+and they were compared to control
+uninjured fish. Three different time
+points of an individual fish have been
+represented for the sake of simplicity
+(Fig. 3A–E), although another 5 fishes
+showed a similar functional recovery
+(data not shown). We observed loss of
+swimming behavior primarily because
+of paralysis of the posterior part of
+the body beyond the dorsal fin level
+due to SCI. Very little movement has
+been recorded at 3dpi (Fig. 3C) com-
+pared to uninjured fish. Later on,
+movements steadily increased beyond
+the 15-day time point and almost
+complete functional recovery was
+documented after 1 month post-injury
+(Fig. 3E).
+Time Course Analysis of Cell
+Proliferation in the Spinal
+Cord After Injury and
+Characterization of
+Proliferating Cells During
+Regeneration
+We have shown a substantial amount
+of tissue replacement after crush
+injury in spinal cord. This led us to
+study the proliferation pattern using
+BrdU incorporation (S-phase marker),
+which detected a spectrum of prolifer-
+ating cells during this regenerative
+process. We used a 16-hr BrdU incor-
+poration time length as it represents
+a saturation label for BrdU uptake in
+Fig. 1. Longitudinal sections of normal uninjured (A, J) and injured (B–H and K–L) zebrafish spinal cord after H&E (A–H) and luxol fast blue/cresyl vio-
+let staining (J–L). A, J: Uninjured spinal cord section shows the presence of white matter (WM), grey matter (GM), neurons (n) in the subependyma
+(sep), and ependyma (ep) with ependymal canal (epc). J.1: The higher magnification of J shows an axon (!) in white matter and neurons (n) in the sub-
+ependyma (sep). B: 1dpi-section of spinal cord showing loss of both white and grey matter, infiltration of blood cells (red *), and disrupted ependyma
+(!!) at the injury epicenter ([bracket]). C, K: 3dpi cord shows blood clot at the site of injury (**) and same section at higher magnification (C.1) showing
+initiation of sealing of ependymal canal (ep0) and migrating ependymal cell (white arrow). Another section of 3dpi cord (K) showing severed ependyma,
+axonal loss (spiral arrow) and neuronal loss at the injury epicenter (double arrowheads). K.1: Higher magnification of K. D: 5dpi cord reveals accumula-
+tion of cells at epicenter and tissue edema. Another 5̀dpi cord at higher magnification (D.1) shows complete sealing of ependyma (ep0) and formation
+of ependymal bulb (epb). E: Section of 7dpi cord reveals accumulation of cells at the injury epicenter, swelling of tissue, and also the presence of a
+continuous cavity like structure (ca) surrounded by ependymal cells. F: 10dpi cord showing the presence of a smaller cavity (ca) -like structure continu-
+ous with regenerating ependymal canal. F.1: Same cord at higher magnification, showing the presence of many newly formed cells (") and a mature
+neuron (n) in the injury epicenter. G: Representative section of 15dpi cord reveals a normal regenerated ependyma with complete absence of a cavity-
+like structure and partially regenerated white matter. G.1: Higher magnification of the same section shows well-formed ependyma (ep) with an ependy-
+mal canal (epc) and regenerated neuron (n) in subependyma (sep). H, L: One-month regenerated cord shows both grey and white matter regeneration
+and both neurons (n) and axons (!) are clearly visible at the injury epicenter at higher magnification (H.1, I). Another section (L) showing regeneration
+of both white matter and grey matter at the injury epicenter and the same cord at higher magnification (L.1) showing small neuronal cell bodies (n),
+reconnected axons (;), and compact ependyma (ep). M, N: Oligodendrocyte (OL) and myelinated axon (ax), with sparsely distributed neurofilaments
+(nf) within the axonal body in uninjured cord, respectively. O–P: Representative picture of demyelinating axons (dax) at the injury epicenter of 3dpi cord
+showing denuded axon (bold arrow) and axonal body with dense neurofilaments (nf). Q,R: 10dpi cord showing dividing Schwann cells (dsc) and
+Schwann cells (SC) associated with demyelinated axons (dax) at the injury epicenter, respectively. S: Remyelinating axon (rax) with Schwann cells (SC)
+in regenerating cord 1 month post-injury. T: Higher magnification of indicated area in S showing the basal membrane of Schwann cells (white arrow-
+head) around the remyelinating axon (rax). Scale bar ¼ 400 mm (A–H), 20 mm (C.1), 40 mm (D.1–I), 200 mm (J–L), 60 mm (J.1–L.1), 2 mm (M–T).
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2965
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+zebrafish CNS. A previous report
+showed that a pulse-label BrdU
+uptake between 12–16 hr represents
+all cycling cells went through at least
+one S phase during incubation (Muel-
+ler and Wullimann, 2002). The data of
+BrdU incorporation in uninjured and
+injured spinal cord tissues at different
+time points (3dpi to15dpi) are repre-
+sented in Table 1 and Figure 4A–G.
+In order to show that cells at S-phase
+are indeed going through mitosis, we
+have used another proliferation
+marker, phosphohistone 3 (H3P) (Fig.
+4H,I).
+BrdU incorporation was recorded in
+adult uninjured cord both in white
+matter and grey matter. Many BrdUþ
+cells around the ependymal canal can
+be seen and the percentage of positive
+cells in grey matter is higher than
+Fig. 2.
+Fig. 3.
+Fig. 3. Recovery of functional swimming
+behavior after crush injury in spinal cord of
+zebrafish. A: Quantification of swimming dis-
+tance shows that the 3dpi fish covered much
+less distance during swimming compared to
+normal fish, whereas a substantial gain in
+function can be observed in 15dpi and 1-
+month post-injured fish. Error bar indicates
+values Mean 6 SEM. B–E: The line diagrams
+represent swimming distance and route cov-
+ered by a normal uninjured, 3dpi, 15dpi and
+1-month post-injured fish, respectively, and
+indicate the significant recovery in function at
+1 month after SCI. S, starting point; E, end
+point; arrows, direction of swimming pathway.
+Fig. 2. Trichrome staining (A-C) and ultra-
+structural analysis (D-I) of injured zebrafish
+spinal cord. A: 1dpi cord shows infiltration of
+large number of RBC (;) both at the injury epi-
+center (double arrowheads) and also towards
+the normal part of the cord. B: A 3dpi cord
+showing less number of infiltrating R.B.C. C:
+A 5dpi cord shows presence of very few
+blood cells and the appearance of ependymal
+bulb (epb) at the injury epicenter. A.1, B.1,
+C.1: Higher magnification representation of A,
+B, and C, respectively, showing the presence
+of blood cells at the injury epicenter. D–G:
+Presence of macrophages (ma) at the injury
+epicenter in 3dpi (D–F) and 10dpi (G) cord. D,
+E: Macrophage (ma) with a typical phagocytic
+process (:) and in close proximity to a demye-
+linating axon (dax), respectively. F: A dying
+neuron (n) with condensed nuclear matter sur-
+rounded by infiltrated macrophages (ma) and
+a blood vessel (bv) nearby. G: Macrophage
+(ma) with many lipophillic vacuoles (") and
+phagocytosed myelin debris (thick arrow). H,
+I: The presence of neutrophils (neu) and
+monocytes (mon), respectively, in 3dpi cord.
+Scale bar ¼ 250 mm (A–C), 50 mm (A.1–C.1),
+5 mm (D, F), 2 mm (H, I), 1 mm (E, G).
+2966 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+that in the white matter (Fig. 4A,B).
+Since the volume of total white mat-
+ter tissue is higher than that of total
+grey matter, the total number of
+BrdUþ cells in white matter is higher
+than that in grey matter (Table 1A).
+Here grey matter represents both the
+ventricular zone and subependyma
+and proliferation involves cells from
+both these regions, although the rate
+of proliferation in the ventricular
+zone is much higher than in the sub-
+ependymal zone (Fig. 4B).
+When we compare the level of BrdU
+incorporation in different regions of
+the injured cord at different time
+points after injury (Table 1B), we
+observe an increased level of incorpo-
+ration after 3dpi (Fig. 4C), compared
+to the uninjured cord (Fig. 4A,B). An
+almost equal level of BrdU incorpora-
+tion is represented in white and grey
+matter in the epicenter of injury. Total
+BrdU incorporation shown here in the
+injury epicenter is less than that in
+the adjacent part (which represents a
+larger area), but considering the fact
+that the epicenter represents a
+smaller area compared to the adjacent
+part, density of BrdUþ cells in the
+injury epicenter is still higher (Table
+1B and Fig. 4C). The number of BrdU
+incorporation still increases signifi-
+cantly both in the injury epicenter
+and the adjacent part in 7dpi cord
+(Table 1B and Fig. 4D) when com-
+pared to 3dpi cord and uninjured
+cord. The number of the BrdUþ cells
+increases at the injury epicenter both
+in grey and white matter (Fig. 4D and
+Table 1B). Similar to previous time
+points, total incorporation in 7dpi
+cord is higher in the adjacent zone
+compared to the injury epicenter since
+the adjacent part includes wider
+areas than the epicenter, whereas the
+actual density of the BrdUþ cells is
+much higher than 3dpi cord higher at
+the injury epicenter (Fig. 4D and Ta-
+ble 1B). This increase in number of
+BrdUþ cells at the injury epicenter in
+7dpi cord may be indicative of migra-
+tion of cells from the adjacent zone to
+the injury epicenter (Fig. 4C, D, and
+Table 1B). We have analyzed H3P
+staining in regenerating cord. The
+7dpi cord (Fig. 4H,I) showed many
+H3Pþ cells at the injury site as well
+as at the adjacent part compared to
+uninjured cord (data not shown) after
+giving a single pulse of BrdU for
+16-hr BrdUþ cells in uninjured cord
+include both slow-dividing cells with
+intense labeling as well as fast-divid-
+ing cells with weak labeling (Fig. 4K).
+The presence of slow-dividing cells
+can be confirmed further in 7dpi cord
+where we used 48-hr BrdU pulse con-
+tinuously after giving injury and
+chased up to 7 days. The pulse-chased
+7dpi cord shows the presence of slow-
+dividing BrdUþ cells (Fig. 4L), which
+have entered into S-phase during the
+first 48 hr after injury and they are
+still in S-phase after 7 days.
+In all the time points after injury,
+the two regions, namely the injury
+epicenter and the adjacent part,
+showed that the total level of incorpo-
+ration is always higher around the
+grey matter compared to the white
+matter, unlike uninjured cord. BrdU
+incorporation in 10dpi cord (Fig. 4E
+and Table 1B) was also studied where
+the level is lower than 7dpi cord. The
+actual density of BrdU-incorporated
+cells in the injury epicenter could be
+still higher than the region away from
+the injury site as observed in another
+two time points. The rate of BrdU
+incorporation slows down further in
+15dpi cord in both these regions (Fig.
+4F and Table 1B).
+Radial Glia as Proliferating
+Precursors
+We observe that in the adult uninjured
+cord, radial glial cells are present
+TABLE 1. Time Course Analysis of BrdU Incorporation in Uninjured and Injured Spinal Corda
+A. Cell proliferation in uninjured zebrafish spinal cord (total length of tissue sectioned ¼ 4 mm including injury epicenter,
+thickness of section ¼ 7 mm) after 16-hr BrdU incorporation.
+No. of sections counted Brduþ cells in grey matter/section Brduþ cells in white matter/section
+74 (n¼6) 3.95 6 0.286 * 5.89 6 0.244 *
+B. Cell proliferation in injured zebrafish spinal cord (total length of tissue sectioned ¼ 4 mm including injury epicenter,
+thickness of section ¼ 7 mm) after 16-hr BrdU incorporation.
+Time point
+after
+SCI (days)
+No. of sections
+counted in LS
+Brduþ cells/section
+in the injury
+epicenter (grey matter).
+Approx. 300 mm
+Brduþ cells/section
+in the injury
+epicenter (white
+matter). Approx.
+300 mm
+Brduþ cells/section
+in adjacent normal
+part (grey matter).
+Approx. 1,800 mm
+both rostral
+and caudal
+Brduþ cells/section
+in adjacent normal
+part (white matter).
+Approx. 1,800 mm
+both rostral
+and caudal
+3 day 79 (n¼6) 4.02 6 0.142 ** 3.97 6 0.259 ** 20.05 6 0.563 7.86 6 0.326
+7 day 86 (n¼6) 14.96 6 0.362*,** 11.13 6 0.402*,** 28.02 6 0.522* 12.96 6 0.239*
+10 day 76 (n¼6) 6.86 6 0.158 6.03 6 0.209 11.65 6 0.486 10.56 6 0.365
+15 day 72 (n¼6) 3.76 6 0.128 3.25 6 0.153 9.86 6 0.518 7.08 6 0.324
+aValues are represented as Mean 6 SEM
+*P<0.001, between total count of 7 day post injured cord versus uninjured cord.
+**P<0.01, between total count of injury epicenter of 7 day versus 3 day.
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2967
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+around the ependymal canal and are
+strongly GFAP positive. Approxi-
+mately 6.9% of the total populations
+are radial glia in an uninjured cord.
+All the cells around the ependymal
+canal are not radial glia as these are
+GFAP/DAPIþ cells (Fig. 5A). Among
+the radial glia some (1.4% of total cell
+populations) are BrdUþ even in unin-
+jured cord (Fig. 5B). Most of the
+BrdUþ radial glia are slow, although a
+small population of slow-dividing cells
+is not radial glia (Fig. 5D.1, E). Imme-
+diately after injury, 3dpi cord showed
+a down-regulation of GFAP expression
+at the injury epicenter (Fig. 5H) com-
+pared to uninjured cord (Fig. 5D) and
+the immediate adjacent area of the
+injury epicenter was weakly stained.
+In later time points, there was a reap-
+pearance of GFAPþ cells with a moder-
+ate increase in the level of expression
+in day 7 (Fig. 5I), followed by a higher
+level in day 15 (Fig. 5J), and a near to
+normal level of expression in 1-month
+post-injured cord (data not shown).
+We have also identified three differ-
+ent populations of cells, BrdUþ/GFAPþ,
+BrdUþ/GFAP, and BrdU/GFAPþ,
+both in uninjured cord and in injured
+cord but their percentage varies in
+injured cord (Fig. 5D–J, a–d). The pie
+chart represents the relative percent-
+age of colocalized cells (BrdUþ/GFAPþ,
+BrdUþ/GFAP, BrdU/GFAPþ, and
+DAPIþ) in uninjured and injured cord.
+Numbers of different population of
+cells are counted in the sections from
+two spinal cords at each time point.
+Data on the counts of different popula-
+tions are mentioned in Supplemental
+Figure S1 (which is available online).
+It has been observed that approxi-
+mately 1.2 and 1.6% cells are both
+BrdUþ/GFAPþ in 3dpi (Fig. 5H, H.1,
+and b) and 7dpi (Fig. 5I, I.1, I.2, c)
+cord, respectively, which are more or
+less similar to uninjured cord, indicat-
+ing that this particular population of
+cells is probably being maintained in
+both uninjured and injured cord
+Fig. 4. Time course analysis of injury-induced cell proliferation represented after BrdU incorporation and H3P staining in uninjured and injured spinal
+cord. A, B: Uninjured cord shows BrdUþ cells are present both in grey matter (!) and white matter (!) but mostly in ependyma (ep). C: 3dpi cord
+shows a large increase in BrdUþ cells in both grey (!) and white (!) matter. D: A section of 7dpi cord shows a very significant increase in number
+of BrdUþ cells in both grey (!) and white matter (!), and increased numbers of cells are present at the injury epicenter ([down bracket]) compared
+to 3dpi cord. E: A 10dpi cord shows incorporation in both white matter (!) and grey matter (!) but a considerable decrease in number of BrdUþ
+cells compared to 7dpi cord. F: A 15dpi cord section shows fewer BrdUþ cells in grey (!) and white matter (!) compared to the 10dpi cord and
+the number is still higher than in the uninjured cord. G: Quantitative representation of BrdUþ cells in both grey and white matter of uninjured and
+injured cord at different time points. H: A 7dpi cord section shows BrdUþ cells (!) and many of these are colocalized with H3P (;) in both the injury
+epicenter ([down-bracket]) and adjacent part. H.1, H.2: Same 7dpi cord as in H showing adjacent area and injury epicenter, respectively, at high mag-
+nification. I, J: Another representative cross-section of 7dpi cord showing distribution of H3Pþ cells ( ) around the central canal (c) and DIC of same
+section. K: Ependyma of uninjured cord showing both slow-dividing (thick arrow) and fast-dividing (_) cells. L: Section of 7dpi cord showing BrdUþ
+slow-dividing cells (thick arrow) after 48-hr continuous BrdU pulse. Scale bar ¼ 400 mm (A–H), 20 mm (H.1–K), 200 mm (L).
+2968 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+continuously. Most importantly, the
+population of BrdUþ/GFAPþ cells that
+are represented both in 7dpi cord (Fig.
+5I.1) and uninjured cord (Fig. 5D.1)
+are predominantly slow. There is an
+increase in both slow- and fast-dividing
+cells in 7 dpi cord, the relative propor-
+tion of fast-dividing BrdUþ cells being
+much higher and mostly GFAP nega-
+tive (Fig. 5F).
+After injury there is a rapid
+increase in the percentage of another
+population of cells, BrdUþ/GFAP , in
+both 3dpi (8.5% of the total cells
+counted) and in 7dpi cord (11%) (Fig.
+Fig. 5. Immunohistochemical staining of GFAP and BrdU in zebrafish uninjured (A,B, D,E, D.1, and D.2) and injured (C, F, H–J, H.1, I.1, and J.1) spinal
+cord. A, B: Uninjured cord section showing that a percentage of DAPIþ cells are GFAPþ radial glia (arrowhead) and the presence of BrdUþ cells (thick
+arrow) around the central canal; some colocalize with GFAP (!). C: 7dpi cord section shows a greater number of BrdUþ cells around the central canal
+than normal; a few colocalized with GFAP (!). D: Uninjured cord showing high GFAP expression and the presence of few BrdUþ cells. Same cord at a
+higher magnification showing different radial glial population, GFAPþ/BrdUþ (:) and GFAP/BrdUþ (thick arrow) cells (D.1) and GFAPþ/BrdU cells (!)
+(D.2), respectively. E: Ependyma of uninjured cord showing many more slow-dividing cells (!), some of which are radial glia and a few fast-dividing cell.
+F: 7dpi cord representing many BrdUþ, fast-dividing cells that are GFAP (_) and fewer slow-dividing cells (!) around ependyma. G: Control section
+stained without GFAP primary antibody. H: 3dpi cord, showing proliferating BrdUþ cells; only some are GFAPþ. Also shown is a loss of GFAP expression
+at the injury epicenter ([down-bracket]) and at an immediately adjacent part of the cord. H.1: Same cord as in H at higher magnification showing both
+GFAPþ/BrdUþ (:) and GFAP/BrdUþ (thick arrow) cells. I: 7dpi cord showing high proliferation, a low level of GFAP expression at the injury epicenter, and
+little higher level of GFAP expression at the immediate adjacent area. I.1: Same cord at higher magnification shows presence of GFAPþ/BrdUþ (:),
+GFAP/BrdUþ (thick arrow) and GFAPþ/ BrdU (!) cell populations. I.2: Same cord shows the presence of many GFAPþ/BrdUþ (:) cells. J: Fifteen-day
+regenerated cord shows a reduced BrdU incorporation but a high level of GFAP expression in both the uninjured part and the injury epicenter. J.1: Same
+section at higher magnification also represents three populations. a–d: The pie chart represents the percentage of three cell populations and DAPIþ cells
+in adult uninjured (a), 3dpi (b), 7dpi (c), and 15dpi (d) cord, respectively. Scale bar¼ 250 mm (D and H–J), 20 mm (A–C, E–G, D.1–J.1).
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2969
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+5H,I, b,c). However, at a later time
+point like 15dpi cord, BrdUþ/GFAP
+cells are significantly decreased to
+3.4% (Fig. 5J, d). This is suggestive of
+the presence of a different population
+of proliferating precursors namely
+BrdUþ/GFAPþ cells, which are radial
+glia but their percentage remains the
+same before and after injury, whereas
+the second population of BrdUþ/
+GFAP cells are most important and
+exist during regeneration in a much
+higher proportion.
+A third population of cells, BrdU/
+GFAPþ, is also present both in unin-
+jured (Fig. 5D.2) and injured cord (Fig.
+5I.1, J.1). There is a decrease in
+BrdU/GFAPþ cell numbers after
+injury, both in 3 and 7dpi cord (approx-
+imately 3–4% of the total population)
+compared to uninjured cord (5.5% of
+total population). They are non-divid-
+ing radial glia and their population
+has decreased following injury.
+Neurogenesis: Expression of
+Neuronal Markers
+We have used different markers to
+identify different neuronal populations
+present in uninjured and regenerating
+cord. Immunohistochemical staining
+with beta III tubulin showed the pres-
+ence of different types of neurons.
+These include more dorsally placed
+sensory neurons, a variety of medially
+placed interneurons, and more ven-
+trally placed motor neurons in unin-
+jured cord (Fig. 6A; Appel and Chitnis,
+2002; Wilson et al., 2002). There is
+extensive loss of neurons in 3dpi cord
+(Fig. 6B) and replacement of neurons
+at the injury epicenter 1 month after
+regeneration as observed by beta III
+tubulin staining (Fig. 6C). We have con-
+firmed the presence of newly generated
+neurons in subependyma with another
+neuronal marker-Hu in 10dpi cord
+(Fig. 6H–J). Both uninjured (Fig. 6D–
+G) and injured cord (Fig. 6H–K)
+showed the presence of neurons in the
+subependyma, as confirmed by luxol
+fast blue and cresyl violet staining (Fig.
+6G and K) and their relative position
+across the dorso-ventral axis (Fig. 6D,E
+and H,I). Newly formed neurons are
+present in all three positions like dor-
+sal, medial, and ventral, similar to
+uninjured cord. Distinctive morphologi-
+cal characteristics of sensory, inter-
+neuron, and motor neurons cannot be
+distinguished in injured cord, as these
+are small and similar in size and not
+yet fully differentiated. Since beta III
+tubulin is expressed only in mature
+post-mitotic neurons, we have used
+markers like Hu and NeuroD to under-
+stand neuronal differentiation during
+regeneration. Both Hu protein, which
+is known to be expressed very early
+during neuronal differentiation in
+zebrafish (Kim et al., 1996; Park et al.,
+2000), and NeuroD, a marker for neu-
+ronally determined cells (Korzh et al.,
+1998), were used to show the nature
+and time of appearance of newly formed
+neurons in regenerating cord. Both
+uninjured and injured cords do express
+Hu protein (Fig. 6D–F, 6H–J and Fig.
+7A–D). Staining with Hu antibody in
+the 7dpi cord, when we see highest rate
+of proliferation showed positive cells
+both in the injury epicenter as well as
+in the normal part of the cord (Fig. 7D;
+Supp. Fig. S2P–U). Huþ/BrdUþ cells
+can be localized both in the ependymal
+and subependymal zone with a higher
+percentage in the subependymal zone
+(Fig. 7D, D.1), whereas in the uninjured
+part of the same cord Hu-positive cells
+are present only in the subependymal
+zone (Fig. 7D). Unusual subpial local-
+ization of Huþ/BrdUþ cells is also seen
+in injured cord (Fig. 7D.3). There are
+many Huþ/BrdUþ cells in the injury
+epicenter and in the immediate adja-
+cent part, which are small with little
+condensed cytoplasm (Fig. 7D.1, D.4,
+D.5; Supp. Fig. S2R and X, respec-
+tively). We observed that among the
+Huþ/BrdUþ cells many are fast divid-
+ing and few are slow dividing (Fig.
+7D.5a–d). Some cells that are Huþ/
+BrdU can also be recognized in both
+the injury epicenter (Fig. 7D.1, Supp.
+Fig. S2R) and immediate adjacent part
+(Fig. 7D.4, Supp. Fig. S2X), because
+Huþ cells represent a newly formed
+progeny of neuronal lineage that have
+just exited from cell cycle. We have also
+analyzed NeuroD expression at differ-
+ent time points. There is no expression
+of this particular protein at 7dpi cord
+(data not shown) although these
+NeuroD cells are Huþ and are present
+in both the injury epicenter and the
+normal part of the cord. The first
+appearance of NeuroDþ cells in the
+injury epicenter can be seen at 10dpi
+cord and some are co-localized with Hu
+(Fig. 7B, B.1; Supp. Fig. S2D–F). We
+also confirm this result with histological
+analysis of 10dpi cord (Figs. 1F.1, 6K)
+where we see the reappearance of the
+neuronal cell body at the injury epicen-
+ter. The expression of NeuroD is tran-
+sient and cannot be seen in 15dpi cord.
+Co-localized expression of NeuroD and
+Hu protein revealed the presence of the
+newly specified neurons, which are still
+smaller in size in the injury epicenter at
+10dpi cord, although some showed pro-
+jections (Fig. 7B.1). The newly specified
+neurons with Huþ/NeuroDþ expression
+can also be seen in the immediate adja-
+cent part of the injury epicenter, with
+an obviously smaller number than
+Huþ/NeuroD cells (Fig. 7B.2, Supp.
+Fig. S2G–I). Ultrastructure analysis of
+10dpi cord also confirmed the presence
+of dividing neuronal progenitors (Fig.
+7E) and 1-month regenerates showed
+the presence of both mature motor neu-
+rons and newly generated neurons with
+little cytoplasm containing new but
+fewer organelles (Fig. 7F–H).
+Cell Death in Spinal Cord
+Injury
+We have performed TUNEL and cas-
+pase-3 analysis to investigate the role
+of apoptotic cell death after SCI in
+zebrafish (Fig. 8). TUNEL analysis at
+different time points revealed that ap-
+optotic cell death was occurring at the
+injury site, where the first appear-
+ance of TUNEL-positive cells was evi-
+dent at around 6 hr post-injury (Fig.
+8A). At 1dpi, many cells are positive
+compared to 6 hr post-injured cord,
+indicative of cell death in higher num-
+bers (Fig. 8B). The number of apopto-
+tic cells decreases at 3dpi cord (Fig.
+8C) and is almost absent in 7dpi cord
+(data not shown), when compared to
+1dpi cord (Fig. 8B). Morphological ob-
+servation of the labeled cells revealed
+nuclear fragmentation as evident in
+many cells (Fig. 8B.1).
+We have confirmed TUNEL results
+with another apoptotic cell death
+marker caspase-3, which is known to
+be expressed during neuronal and
+glial loss after SCI in mammals (Cit-
+ron et al., 2000; Takagi et al., 2003).
+Although a weak expression of cas-
+pase-3 starts as early as 6 hr and is
+present at 12 hr post-injury (data not
+shown), the highest level can be seen
+in 1dpi cord with higher intensity and
+cell numbers than at the previous
+time points (Fig. 8D–E). Afterwards
+2970 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+the level of expression and number of
+caspase-3-positive cells decline in
+3dpi cord (data not shown). Immuno-
+chemistry data were confirmed
+further by ELISA analysis (Fig. 8I).
+Ultrastructural analysis revealed ap-
+optotic cell death in neurons (Fig. 8F
+and G) where condensed nuclear mat-
+ter with an apoptotic body can be rec-
+ognized. Mitochondria-associated apo-
+ptotic cell death can also be observed
+in 3dpi cord as we see dying mito-
+chondria in the cytoplasm of an apo-
+ptotic neuron (Fig. 8H).
+DISCUSSION
+Cellular Response to Injury
+We have characterized the cellular
+events to understand (1) the extent of
+similarity or difference in the cellular
+responses to trauma in zebrafish cord
+Fig. 6. Immunohistochemical staining of b-III tubulin (A–C), Hu (D–F and H–J), and counter-staining of Luxol fast blue/Cresyl violet (G and K) in
+zebrafish uninjured (A, D–G) and injured spinal cord (B,C, and H–K). A: Section of uninjured cord shows the spatial distribution of different types of
+neurons sensory neurons (white !), interneurons close to ependyma (yellow !), and motorneurons (red !). A.1, A.2, A.3: Higher magnification of
+indicated areas of A showing different types of neurons. B: 3dpi cord section showing the loss of mature neurons at the injury epicenter. C: One
+month post-injured cord section showing regenerated neurons at the injury epicenter. C.1, C.2: Higher magnification of indicated areas in C, where
+formation of new neurons (thick arrow) both at the dorsal and ventral sides can be seen. D–F: Sections of uninjured cord showing the distribution
+of Huþ neurons (thick arrow) in the subependyma (sep) along the D-V axis. G: Luxol fast blue/Cresyl violet staining of F. H–J: Sections from 10dpi
+cord showing the presence of Huþ newly formed neurons (thick arrow) in different locations along the D-V axis. K: Staining of the same section in
+J with Luxol fast blue/Cresyl violet. Scale bar ¼ 250 mm (A–C), 50 mm (A.1–A.3, C.1,C.2, D–K).
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2971
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+Fig. 7. Immunohistochemical localization of Hu, NeuroD, and BrdU (A–D) and ultrastructural analysis (E–H) in zebrafish spinal cord. A: Uninjured spinal
+cord shows the presence of many Huþ cells (thick arrow) in subependyma, which are NeuroD. B: The 10dpi cord section shows Huþ cells (thick arrow) at
+the injured site (!!) and a few of these are NeuroDþ (~). B.1, B.2: Higher magnification of indicated areas in B showing both populations of cells in the
+injury epicenter and the immediate adjacent part, respectively. Note that newly generated neurons extend projections (side arrow). C: Uninjured cord show-
+ing many subependymal Huþ cells (thick arrow) and very few of them are BrdUþ (_). C.1: At higher magnification, the same section as in C showing both
+Huþ/BrdU cells (thick arrow) and Huþ/BrdUþ cell (_).D: The 7dpi cord section shows only BrdUþ cells (!) both at the injury epicenter and in the immediate
+adjacent part of the epicenter. In both these regions, the number of Huþ/BrdUþ cells (_) are higher than the normal uninjured cord and are also present close
+to the pial membrane at the injured site (!!).D.1–D.4: Same as D at higher magnification showing the presence of Huþ/BrdUþ (_), Huþ/BrdU thick arrow),
+and Hu/BrdUþ (thin arrow) cells in the injury epicenter (D.1), adjacent normal part (D.2), subpial location (D.3), and the immediate adjacent part of epicenter
+(D.4) respectively. D.5: Represent the presence of both slow (bold arrow) and fast ( ) population (D.5b) of Huþ cells in both ependyma (ep) and subepen-
+dyma (sep) (D.5a) and their respective merge (D.5c) and DIC (D.5d). E: 10dpi cord showing dividing neuronal progenitor cells (pc) at the injury site. F: One-
+month post-injured cord shows the presence of both newly formed neuron (n) and specified motor neuron (mn). G: Higher magnification picture of newly
+formed neuron (n) with a small cytoplasmic area (cy) and a few cytoplasmic organelles (white arrowhead). H: Higher magnification picture of specified motor
+neuron with a large volume of cytoplasm and many cytoplasmic organelles (white arrowhead). Scale bar ¼ 200 mm (A–D), 20 mm (B.1–D.3), 10 mm (D.4), 2
+mm (E–H).
+2972 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+and mammalian cord and (2) what are
+the neuroprotective and regenerative
+responses following SCI in adult zebra-
+fish. We observed hemorrhage, tissue
+edema, blood cell infiltration, and loss of
+neurons and glia following SCI. There is
+an influx of so-called inflammatory cells,
+like neutrophils, monocytes, and macro-
+phages immediately after injury. As in
+mammals, these events occur early af-
+ter injury but do not continue for long.
+Macrophages are important contribu-
+tors of inflammatory response in mam-
+mals and may have both neuroprotec-
+tive and neurodegenerative role in
+spinal cord injury and repair (Bethea,
+2000; Shechter et al., 2009) because of
+the presence of distinctly different
+Fig. 8. TUNEL staining (A–C), caspase-3 immunohistochemistry (D–E), ultrastructural analysis (F–H), and quantification of caspase-3 (I) in injured zebra-
+fish spinal cord. A: The 6-hr post-injured spinal cord section shows the presence of apoptotic TUNEL-positive cells (thin arrow) both at the injury epicenter
+(!!) and immediate adjacent part. B: The 1dpi cord shows many TUNEL-positive cells (thin arrow) close to the injury epicenter. B.1: The higher magnifi-
+cation picture of B shows many apoptotic cells (thin arrow) and a cell with fragmented nuclear matter (up white arrowhead). C: The 3dpi cord section
+shows less TUNEL-positive cells (thin arrow) compared to 1dpi cord. D, E: 1dpi cord section shows the presence of many caspase-3-positive apoptotic
+cells (thin arrow) at the injury epicenter with respective DIC. D.1: Higher magnification of same section shows some caspase-3 positive cells (thin arrow).
+F–H: Representative pictures of different apoptotic neurons in 3dpi cord, showing apoptotic neuron (AN) surrounded by macrophages (ma, F), another
+showing a fragmented nucleus (thick arrow) and retracted cytoplasm (G), and a third showing dying mitochondria (right white arrowhead) within the cyto-
+plasm (H). I:Quantification of caspase-3 protein in uninjured and injured zebrafish spinal cord. Mouse day-13.5 forelimb represented positive control. Scale
+bar¼ 200 mm (A–E), 50 mm (D.1), 10 mm (B.1), 2 mm (F,G), 1 mm (H).
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2973
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+populations of pro-inflammatory and
+anti-inflammatory macrophages (Kigerl
+et al., 2009, Shechter et al., 2009).
+In the case of zebrafish, phagocytic
+macrophages accumulate at the lesion
+site 3 days after injury and continue to
+stay in decreasing numbers at 10dpi
+cord. These cells are involved in clearing
+cellular debris like dying neurons and
+damaged axons thatmay contain axonal
+inhibitory molecules as myelin break-
+down products, probably causing sup-
+pression of an inflammatory response.
+Phagocytic macrophage activation
+enhances myelination by playing an im-
+portant role in myelin debris removal,
+which is usually generated during de-
+myelination. A previous report based on
+the spatio-temporal distribution of
+microglia/macrophage in injured fish
+brain suggested their possible role in
+clearance of apoptotic cells indirectly
+(Zupanc et al., 2003). Our ultrastructure
+analysis provided more definite evi-
+dence that the macrophages are indeed
+clearing myelin debris and apoptotic
+neurons. Thus it is possible that all the
+beneficial properties of macrophages,
+like secretion of neurotrophic factors
+(our unpublished observation), debris
+clearance through phagocytosis, and
+promotion of remyelination could con-
+tribute to an efficient repair process in
+zebrafish spinal cord after injury.
+Ependymal Sealing Is a
+Regenerative Response, an
+Important Criterion of
+Successful Spinal Cord
+Regeneration
+The initiation of regenerative response
+is observed as an accumulation of cells
+at the injury site and ependymal seal-
+ing in regenerating zebrafish spinal
+cord. Ependymal sealing can be seen
+in both crush and transection injury
+(data not shown) in zebrafish. A simi-
+lar mechanism of migration and accu-
+mulation of cells here may also involve
+epithelial to mesenchymal transition
+as observed by O’Hara et al. (1992) and
+Chernoff (1996) in urodele. Sealing of
+ependyma during spinal cord regener-
+ation was also confirmed in other
+regeneration-competent species in
+both adult and larval stages (Ferretti
+et al., 2003, Zhang et al., 2003, Chern-
+off et al., 2003). It is thought to be a
+common process both in tail amputa-
+tion and spinal cord transection in uro-
+deles (Butler and Ward, 1967; Singer
+et al., 1979; Stensaas, 1983). In the
+case of zebrafish, even crush injury,
+which involves ependymal disruption,
+can cause ependymal sealing and for-
+mation of the ependymal bulb. Our evi-
+dence also suggests the importance of
+ependymal sealing in spinal cord
+regeneration, since it was shown in an
+earlier study that delayed and imper-
+fect sealing of ependyma at the lesion
+site by ependymal cells is an important
+contributing factor leading to loss of
+the regeneration capacity of post-meta-
+morphic frog after telencephalic injury
+(Yoshino and Tochinai, 2004).
+Demyelination and
+Remyelination, Role of the
+Schwann Cell
+Following injury, axons are severed and
+cells in the white matter may die. Ultra-
+structural analysis and luxol fast blue
+staining confirm demyelination of axons
+following injury, causing severe loss of
+functions and thus we observed paraly-
+sis of the posterior part of the body and
+loss of swimming movements. We
+observed the extensive presence of
+Schwann cells at the injury site, which
+are dividing and indeed remyelinating
+denuded axons through basal mem-
+brane in regenerating cord. At least
+some of the regenerated axons showed
+remyelination by Schwann cells, which
+have contributed to functional recovery.
+A similar role of Schwann cells in myeli-
+nation was also reported previously in
+injured goldfish optic nerve (Nona
+et al., 2000). Schwann cells of unknown
+origin are thought to infiltrate the
+lesion site, which gives rise to periph-
+eral-type myelination in the regener-
+ated optic nerve (Nona et al., 1994). We
+cannot confirm the origin or source of
+Schwann cells in regenerating zebrafish
+spinal cord but dividing Schwann cells
+are present around the demyelinated
+axons, which are known to be essential
+for the onset of myelination (Nona
+et al., 2000).
+Apoptotic Cell Death
+Secondary injury mechanism can lead
+to apoptotic cell death and contribute
+to both neuronal and glial loss in mam-
+malian cord (Liu et al., 1997; Li et al.,
+1999; Newcomb et al., 1999). Time
+course analysis of two different apopto-
+tic markers in zebrafish injured cord
+revealed induction of apoptotic cell
+death as early as 6 hr following injury
+with the highest level seen at 1dpi, and
+this is similar to what is observed in
+mammalian SCI (McEwen and
+Springer, 2005). Subsequently, there is
+a reduced level of cell death in injured
+fish cord, unlike mammals where cas-
+pase-3 expression continues until 8dpi
+(McEwen and Springer, 2005). Ultra-
+structural analysis showed the pres-
+ence of an apoptotic body in the nu-
+cleus and dying mitochondria, which
+are considered to be typical character-
+istic features of apoptotic neurons,
+thus confirming neuronal apoptosis fol-
+lowing injury. Although apoptotic cell
+death involves both grey matter and
+white matter, the extent of cell death is
+much greater in grey matter compared
+to white matter.
+Previously, cell death in post-embry-
+onic fish CNSwas considered to be non-
+existent (Fox and Richardson, 1982;
+Fine, 1989; Waxman and Anderson,
+1985). Another report later showed
+that apoptotic cell death is required to
+control the cell proliferation in cerebel-
+lum (Soutschek and Zupanc, 1996). In
+adult teleost brain, apoptotic cell death
+occurs during neuronal regeneration
+(Zupanc et al., 1998), which leads to
+rapid removal and clearance of dam-
+aged cells, consequently augmenting
+the regeneration process. Until now,
+there has been no report of apoptotic
+cell death in zebrafish spinal cord. Our
+data confirm that injured spinal cord
+involves an apoptotic mechanism of de-
+bris clearance similar to that of brain
+and thus inhibits the progression of
+secondary degeneration after injury.
+Injury-Induced Proliferation
+and Neurogenesis
+We observed significant injury-
+induced proliferation in zebrafish spi-
+nal cord after being injured as
+reported by Reimer et al. (2008). How-
+ever, temporal sequence of injury-
+induced proliferation in our study dif-
+fers from their observation probably
+because of the variation in the nature
+of the injury induced since we have
+used crush injury as compared to
+transection. Cells around the epen-
+dyma and subependyma include both
+neuronal and radial glial cells and
+show a higher rate of BrdU
+2974 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+incorporation and H3Pþ cells, suggest-
+ing the contribution of both ependymal
+and subependymal cells in the regen-
+erative process. Cells immediately
+around the ependymal canal (i.e., ven-
+tricular zone) represent the highest
+rate of proliferation as reported by us
+and others (Reimer et al., 2008). Pro-
+liferation may also involve white mat-
+ter cells, but at a very low level. Unin-
+jured cord reveals very few
+proliferating cells and injury causes
+significant proliferation as early as
+day 3 post-injury, which continues to
+rise until day 7 and declines at later
+time points. There is also a regional
+variation of proliferation; it involves
+both injury epicenter and the adjacent
+part of the cord as evidenced by both
+BrdU incorporation and H3Pþ cells.
+Initiation of proliferation starts at the
+site of injury as well as away from the
+stump and later proliferating cells
+migrate towards injury epicenter. Pre-
+vious work in urodele spinal cord men-
+tioned that the proliferation involves
+ependymal tissue somewhat distant to
+the plane of amputation (Egar and
+Singer, 1972; Nordlander and Singer
+1978; Zhang et al., 2000) and that
+there was the presence of migrating
+proliferating precursors (Ferretti
+et al., 2003). We confirm injury-
+induced proliferative response as
+observed by others (Egar and Singer,
+1972; Nordlander and Singer, 1978;
+Zhang et al., 2000; Monaghan et al.,
+2007) and proliferation as a key event
+in initiation and maintenance of re-
+generative response in zebrafish spi-
+nal cord.
+Role of Radial Glia as
+Progenitor and in
+Dedifferentiation
+Radial glial cells have distinct mor-
+phological features and well-defined
+glial characteristics (Holder et al.,
+1990; Cameron and Rakic, 1991) and
+are the most widespread non-neuro-
+nal cell type in developing CNS. There
+is a renewed attention to these cells,
+because of their ever increasing role
+in developmental processes including
+their function as neuronal precursors
+(Campbell and Gotz, 2002). These
+cells persist in adulthood in CNS of
+non-mammalian vertebrates ranging
+from fish to bird (Alvarez-Buyella
+et al., 2002; Kalman, 2002; Garcia-
+Verdugo et al., 2002; Zupanc and
+Clint, 2003) and most interestingly
+they remain in the areas where consti-
+tutive adult neurogenesis is an estab-
+lished phenomenon. Adult uninjured
+zebrafish cords have radial glia and
+astrocytes and do express GFAP. How-
+ever, the radial glial population can be
+readily recognized (either dividing or
+nondividing) because of their obvious
+morphological characteristics, BrdUþ
+nucleus during division, and soma of
+these cells that are located around the
+ependyma. Among the total popula-
+tion of radial glial cells, 1.2–1.6% is
+proliferating and present in both
+uninjured and injured cord. These
+particular populations of GFAPþ/
+BrdUþ cells are probably neurogenic
+and are slowly dividing.
+There is a decrease of GFAP expres-
+sion immediately after injury and
+lack of expression of GFAP could not
+be attributed to loss of tissue due to
+injury since both 3dpi and 7dpi cord
+showed some accumulation of cells
+around the injury epicenter. Observa-
+tion by others confirms a similar na-
+ture of expression of GFAP where
+they showed initial loss after injury
+followed by an increased level of
+expression at later time points in uro-
+dele cord (O’Hara et al., 1992; Chern-
+off et al., 2003).
+We observed injury-induced prolifer-
+ation and a higher percentage of prolif-
+erating precursors were GFAP/BrdUþ
+in 3dpi and 7dpi cord. This population
+may refer to the importance of an early
+dedifferentiation process, which is fol-
+lowed by proliferation. These GFAP/
+BrdUþ cells are fast dividing and repre-
+sent the highest percentage of prolifer-
+ating cells after injury. They could rep-
+resent dedifferentiating cells and hence
+do not express differentiation markers
+of radial glia. A similar response of
+GFAPþ astrocytes to mechanical injury
+was reported in mammalian brain
+(Hampton et al., 2004) where an initial
+dip in GFAPþ cells does not represent
+the loss of astrocytes but confirms the
+presence of GFAP astrocytes that are
+actually dedifferentiated and prolifer-
+ating. Others interpreted the absence
+of GFAP after stab wounds in mam-
+mals as the presence of proliferating
+glial precursors (Alonso, 2005) that
+would differentiate into mature
+astrocytes.
+The third population, which is
+GFAPþ/BrdU, consists of nonprolifer-
+ating radial glia present in uninjured
+cord at a higher level than injured
+cord. A subset of this particular popu-
+lation may become GFAP/BrdUþ af-
+ter injury, when they are dedifferenti-
+ating and we see a drop in GFAP
+expression, followed by the reappear-
+ance of the same percentage of GFAPþ/
+BrdU cells at 15dpi. There is the pres-
+ence of both slow- and fast-dividing ra-
+dial glia in zebrafish cord, of which a
+slow-dividing self-renewing population
+exists both in injured and uninjured
+cord, whereas a higher percentage of
+fast-dividing cells are represented in
+injured cord initially. Fast-dividing ra-
+dial glia may divide symmetrically,
+generating cells of specific lineage.
+Thus, the importance of radial glia as
+precursors is enormous, since these
+cells can ideally generate both glial
+and neuronal populations and main-
+tain the radial glial pool through self-
+renewal (Pinto and Gotz, 2007) as hap-
+pens in cortical neurogenesis. Radial
+glial cells proliferate throughout verte-
+brate neurogenesis and identity of
+their progeny may vary (Hartfuss
+et al., 2001; Malatesta et al., 2000;
+Miyata et al., 2001). In urodeles, the
+radial glia generate diverse lineages
+and thus form glia, neurons, and neu-
+ral crest cells after amputation of the
+adult tail (Echeverri and Tanaka,
+2002).
+Neurogenesis and Neuronal
+Differentiation
+Fish CNS is capable of neurogenesis
+in adult life after injury and shows a
+remarkable ability for neural regener-
+ation (Zupanc, 1999, 2001; Zupanc
+et al., 2005; Reimer et al., 2008).
+Studies on neurogenesis in spinal
+cord are still scarce (Kaslin et al.,
+2008) and little is known about the or-
+igin, fate, and differentiation of the
+produced cells, their survival as well
+as functional integration. Our data
+indicate substantial loss of neurons at
+the injury site immediately after
+injury and these cells are replaced
+during the process of regeneration in
+the same site as evidenced by histol-
+ogy, ultrastructural analysis, and
+expression of neuronal precursor
+markers. Expression of Hu protein in
+the cells present at the injury
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2975
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+epicenter marks the presence of
+newly committed early postmitotic
+neuronal cells, and also those cells
+that have just left the cell cycle (Huþ/
+Brduþ). These cells are present in
+greater number in the injury epicenter
+and are phenotypically different from
+Huþ cells in uninjured cord as con-
+firmed by ultrastructural analysis and
+are contributing to neurogenesis in
+the regenerating cord. Initially, the
+same Huþ cells are not determined
+and hence NeuroD. Later on in 10dpi
+cord, at least some of these Huþ cells
+would become neuronally determined
+and NeuroDþ. We also observe that
+few Huþ/NeuroDþ cells are present in
+the ventricular zone of the ependyma
+in both the injury epicenter and in the
+immediate adjacent parts, and would
+probably migrate to acquire a sub-
+ependymal position and integrate into
+a fully regenerated cord. Some cells
+are also appropriately present in the
+subependyma showing projections and
+integrated into the regenerating cord.
+Subpial location of newly generated
+neurons can also be seen in the injured
+cord. Similar reports on post-embry-
+onic zebrafish brain (Mueller and Wul-
+limann, 2002) showed subpial neuro-
+genesis, where there is high neuronal
+plasticity suggesting injury-induced
+neurogenesis in zebrafish cord.
+The radial glia undergoes asymmet-
+ric division to generate neurons during
+cortical neurogenesis (Pinto and Gotz,
+2007), whereas radial glia in trans-
+ected adult fish cord generates motor
+neurons (Reimer et al., 2008). We
+observed neurogenesis in injured spi-
+nal cord and a subset of radial glial
+population are, indeed, slowly dividing,
+which may generate new neurons
+through asymmetric division. Since
+the newly formed neurons are coming
+from both fast- and slow-dividing cells,
+it is possible that these cells are com-
+ing from asymmetrically dividing ra-
+dial glia and a higher percentage of
+fast-dividing population may have gen-
+erated from symmetric division, and
+include different neuronal progenitors.
+Our data suggest that in adult
+regenerating spinal cord, both prolif-
+erating neuronal precursors (Huþ/
+Brduþ) and neuronally determined
+cells (Huþ/NeuroDþ) are present in
+the injury epicenter and immediate
+adjacent parts of the injury epicenter
+suggestive of neurogenesis in both
+these regions. The presence of newly
+formed neurons (Huþ/BrdUþ) after
+injury is more evident because of
+their morphology. They are small
+round cells with a large nucleus and
+relatively small cytoplasm containing
+new but fewer organelles, a typical
+characteristic of newly formed neu-
+rons, as confirmed by ultrastructural
+analysis (Alvarez-Buylla et al., 1998).
+In conclusion, we are the first to
+characterize the injury-induced cellu-
+lar responses in zebrafish spinal cord.
+Unlike mammals, some of these
+responses do not contribute to second-
+ary degeneration like apoptotic cell
+death and macrophage invasion and
+others contribute to the creation of a
+permissive environment for regenera-
+tion. Proliferative response after
+injury is crucial and our study shows
+that SCI can lead to generation of
+new neurons as well as their time
+course and differentiation during
+regeneration. We showed the role of
+radial glia as proliferating precursor
+in neurogenesis. In the future, it will
+be important to study the role of sig-
+naling molecules for the creation of a
+regeneration permissive environ-
+ment. Intense characterization of pre-
+cursor cells needs to be done in order
+to elucidate the molecular basis of
+regeneration.
+EXPERIMENTAL
+PROCEDURES
+Fish Maintenance
+Zebrafish of approximately of 3–4 cm
+in length were obtained either from a
+local pet shop or bred in our animal
+house facility. Fish were kept in sepa-
+rate groups of 10 in the aquatic sys-
+tem maintained at 28C on a 14-hr
+light/10-hr dark cycle.
+Surgical Procedures for
+Inflicting Spinal Cord Injury
+to Adult Fish
+Fishes were anaesthetized for 5 min
+in 0.02% tricaine (MS222; Sigma, St.
+Louis, MO) before giving spinal cord
+injury (SCI). A longitudinal lesion
+was made at the side of the fish to ex-
+pose the vertebral column at the level
+of the dorsal fin, which corresponds to
+the 15–16th vertebrae as confirmed
+by skeletal preparation. The spinal
+cord was crushed by dorso-ventral
+crushing for 1 sec with a number-5
+Dumont forceps. Giving a suture later
+sealed wounds and fishes were
+allowed to regenerate at 28C for dif-
+ferent time periods.
+BrdU Incorporation
+We injected 50 ml volume of BrdU
+(Bromo-deoxy- Uridine, Sigma-
+Aldrich) at the concentration 2.5 mg/
+ml to adult fish intraperitoneally, 16
+hr before the collection of tissues at
+different time points. To detect the
+slow cycling cells, we have used con-
+tinuous BrdU pulse for the first 48 hr
+after injury and then chased the same
+fish until day 7. A spinal cord tissue
+equivalent to approximately 4 mm
+length was collected from both injured
+and uninjured animals. Tissue sam-
+ples from injured cord were collected
+in such a way that the epicenter of
+the lesion was placed at the middle of
+the cord and included normal tissues
+on both sides of the injury. Tissues
+were processed for BrdU immunohis-
+tochemistry and labeled cells were
+counted in the sections of approxi-
+mately 4 mm length from both injured
+and uninjured spinal cord.
+Histology, Transmission
+Electron Microscopy (TEM),
+and Immunohistochemistry
+Spinal cord tissues were dissected out
+and fixed in 4% paraformaldehyde
+(Sigma) for 8 hr or overnight at 4C.
+Both injured and uninjured spinal
+cord tissues were embedded either in
+paraffin or in a mixture of PEG and
+hexadecanol (9:1, Sigma) or in O.C.T
+compound (Leica) and sectioned at 5–
+7 mm. For routine histology, sections
+were stained either with hematoxylin
+and eosin (H&E), Mallory’s trichrome
+stain (Humason, 1979), or luxol fast
+blue and cresyl violet.
+For TEM, both normal and injured
+adult spinal cords were dissected out
+from bony skeleton and 2-mm-length
+tissue was excised from whole spinal
+cord containing injury epicenter in
+case of injured tissue. Tissues were
+quickly fixed in Karnovsky’s fixative
+for 12 hr in 4C (David et al., 1973). Af-
+ter washing with 0.2M phosphate
+buffer (pH 7.4), tissues were osmicated
+in 1% OsO4 in 0.01M phosphate buffer
+2976 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+and embedded in Araldite CY212.
+Ultrathin sections (70 nm) were cut
+using an ultramicrotome (Leica, Wet-
+zlar, Germany) and were stained with
+uranyl acetate and lead citrate and
+viewed under a Morgagni 268D elec-
+tron microscope (Fei Company, Eind-
+hoven, Netherlands) using a multihole
+grid.
+Immunostaining was performed as
+described previously (Ferretti and
+Ghosh, 1997) by using the following
+primary antibodies shown to specifi-
+cally recognize fish, amphibian, and
+human protein: anti glial fibrillary
+acidic protein (GFAP), rabbit polyclo-
+nal antibody (1:500, DAKO, Carpinte-
+ria, CA), anti-b III Tubulin, mouse
+monoclonal antibody (1:50, Sigma),
+anti-BrdU (1:400, Sigma), anti cas-
+pase-3 goat polyclonal (1:100, Santa
+Cruz Biotechnology, Santa Cruz, CA),
+anti NeuroD (1:100, Santa Cruz), and
+anti Hu C/D (1:50, Molecular Probes,
+Eugene, OR). Briefly, sections were
+rehydrated and given several washes
+in Phosphate buffered saline (PBS)
+with 0.1% Tween-20 or Triton X 100
+(PBST). The sections were first incu-
+bated with blocking solution for 1 hr
+(5% goat/rabbit/donkey serum, 1%
+BSA in PBS) and then with primary
+antibody for either 1 hr at room tem-
+perature or overnight at 4C. Antigen
+retrieval was done wherever appro-
+priate by keeping the slides in 80C
+water bath for 15 min either in so-
+dium-citrate buffer (pH 6.0) or Tris
+buffer (pH 8.0) before incubation with
+the primary antibody.
+The following secondary antibodies
+were used: Rhodamine-conjugated goat
+anti-rabbit antibody (1:100, Santa
+Cruz), rhodamine-conjugated donkey
+anti-goat antibody (1:100, Santa Cruz),
+rhodamine-conjugated goat anti-rabbit
+IgG antibody (1:100, Jackson Immuno-
+Research Laboratories, West Grove,
+PA), and FITC-conjugated goat anti-
+mouse (1:50, Santa Cruz). Nuclei were
+counter-stained either with bisbenzi-
+mide H 33258 fluorochrome (Hoechst
+nuclear stain) or with DAPI (1: 500,
+Sigma).
+BrdU immunohistochemistry on
+uninjured and injured spinal cord was
+done according to Mueller and Wulli-
+mann (2002). Paraformaldehyde-fixed
+paraffin sections were washed in PBST
+twice for 10 min, followed by incuba-
+tion in 2N HCl (pH 2.0) for 30 min at
+37C. Sections were washed in PBS
+and blocked with 5% normal goat se-
+rum in 0.5% PBST for 1 hr at room
+temperature. The mouse monoclonal
+anti-BrdU primary antibody (1:400,
+Sigma) was applied for 2 hr at room
+temperature or overnight at 4C. This
+was followed by washes in PBS and
+incubated with secondary anti-mouse
+FITC/TRITC conjugated antibody for 2
+hr at room temperature. After washing
+in PBS, the sections were mounted
+with Aqua Vectashield (Vector Labs,
+Burlingame, CA) and kept in the dark.
+TdT-Mediated Deoxy-UTP-
+Nick End Labeling (TUNEL)
+Assay
+TUNEL staining was performed to
+detect apoptotic cells using the ‘‘In
+Situ Cell Death Detection Kit, Fluo-
+rescein’’ (Roche Molecular Biochemi-
+cals, Mannheim, Germany). In brief,
+deparaffinized sections were perme-
+abilized in PBS containing 0.02% Tri-
+ton X-100 for 10 min. After washing
+in PBS for 10 min, tissue sections
+were incubated with TUNEL reaction
+mixture for 2 hr at 37C. After several
+washings in PBS, sections were
+mounted by vectashield and exam-
+ined under confocal microscope. The
+morphological changes of nuclei were
+also examined to clear the visualiza-
+tion of apoptotic bodies.
+Microscopy
+The light microscopic photographs
+were taken by using a Leica DMLB
+microscope. Immunostained tissue
+sections were photographed by using
+an Olympus fluorescent microscope
+(model; BX 51) with Imagepro express
+software and confocal images were
+obtained by using a Zeiss LSM 510
+Meta (inverted) confocal microscope.
+Figures were assembled and edited
+with Adobe Photoshop CS and Image
+Ready software packages.
+ELISA
+Analysis of Caspase-3 protein by using
+ELISA assay was done according to
+Dutta et al. (2009). Tissue extract of
+spinal cord were added to wells (65 mg
+protein/well) of the ELISA plate and
+incubated overnight at 4C. After non-
+specific sites were blocked with block-
+ing buffer (1% BSA in PBS), the wells
+were incubated with primary antibody
+(anti-Caspase-3) for 1 hr at 37C, and
+washed thrice in washing buffer (0.5%
+BSA, 0.5% NP-40 in PBS). HRP
+coupled anti-goat antibody (1:1,000
+dilution) was used for incubating the
+plates at 37C for 1 hr, then washed
+several times in washing buffer and
+substrate TMB (tetramethyl benze-
+dine) was added in dark. The reaction
+was stopped by adding 1M H2SO4. The
+optical density was measured at 450
+nm by using an ELISA reader (Bio
+Rad, Gaithersburg, MD).
+Measurement of Functional
+Locomotor Activity
+Motor function activity has been stud-
+ied both in uninjured and injured
+fishes by monitoring the swimming
+behavior and pattern of individual fish.
+Both the distance covered and direc-
+tional changes were recorded by plac-
+ing the fish in a container with a uni-
+form grid length (about 9 cm) and a
+constant water level, temperature, and
+light source were maintained during
+all the experiments. Fishes of same
+size (approximately 3 cm) and age
+were used for all experiments. The
+functional behavior of the fishes at dif-
+ferent time points (3dpi, 7dpi, 10dpi,
+15dpi, and 1 month post-injury) were
+recorded several times a day for 3 min
+in each run. Initially, before giving spi-
+nal cord injury, the swimming activity
+and traveled distance for all the unin-
+jured fishes were measured. The bar
+graph was constructed using the mean
+value of swimming distance covered in
+each time point and the variability of
+values is given as SEM.
+Quantification and Statistical
+Analysis
+For BrdU incorporation experiment,
+BrdUþ cells were counted in longitudi-
+nal spinal cord section by using an
+Olympus fluorescent microscope
+(model; BX 51). During quantification,
+BrdUþ cells in both grey and white
+matter region were counted; slow- and
+fast-dividing cells were differentiated
+according to their staining intensities.
+In GFAP and BrdU colocalization
+study, the quantification of cells was
+done from all optical images by using a
+Zeiss LSM 510 Meta (inverted)
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2977
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+confocal microscope. We have used
+approximately 4-mm length of tissues
+both from uninjured and injured
+cords, sectioned the whole cord, and
+all the sections were stained with
+GFAP (to count GFAPþ cells repre-
+senting radial glial morphology, the
+soma of the radial glia was positioned
+towards ependymal canal) and DAPI
+(to count nucleus) along with BrdU
+staining. The statistical analyses were
+performed with Microsoft Excel (Office
+2000) and variability of values is given
+as SEM. Statistical significance was
+determined using an unpaired Stu-
+dent’s t-test and Mann-Whitney U-
+test. Results were considered statisti-
+cally significant at P < 0.05 for both
+tests.
+ACKNOWLEDGMENTS
+We thank Dr. T. K. Nag, AIIMS, for his
+excellent technical assistance and
+guidance to generate Electron micros-
+copy data. This work was supported by
+the Department of Biotechnology, Min-
+istry of Science and Technology, Govt.
+of India, to Sukla Ghosh. S. P. Hui is a
+recipient of a senior research fellow-
+ship from the Council of Scientific and
+Industrial Research, Govt. of India.
+REFERENCES
+Alonso G. 2005. NG2 proteoglycan-
+expressing cells of the adult rat brain:
+possible involvement in the formation
+of glial scar astrocytes following stab
+wound. Glia 49:318–338.
+Alvarez-Buylla A, Garcia-Verdugo JM,
+Mateo AS, Merchant-Larios H. 1998.
+Primary neural precursors and intermi-
+totic nuclear migration in the ventricu-
+lar zone of adult canaries. J Neurosci
+18:1020–1037.
+Alvarez-Buylla A, Seri B, Doetsch F.
+2002. Identification of neural stem cells
+in the adult vertebrate brain. Brain Res
+Bull 57:751–758.
+Anderson MJ, Waxman SG. 1983. Caudal
+spinal cord of the teleost Sternarchus
+albifrons resembles regenerating cord.
+Anat Rec 205:85–92.
+Appel B, Chitnis A. 2002. Neurogenesis
+and Specification of Neuronal Identity.
+In: Solnica-Krezel L, editor. Pattern for-
+mation in zebrafish, Heidelberg:
+Springer-Verlag. p 237–251.
+Balentine JD. 1978a. Pathology of experi-
+mental spinal cord trauma. I. The ne-
+crotic lesion as a function of vascular
+injury. Lab Invest 39:236–253.
+Balentine JD. 1978b. Pathology of experi-
+mental spinal cord trauma. II. Ultra-
+structure of axons and myelin. Lab
+Invest 39:254–266.
+Beattie MS, Farooqui AA, Bresnahan JC.
+2000. Review of current evidence for ap-
+optosis after spinal cord injury. J Neu-
+rotrauma 17:915–925.
+Becker T, Wullimann MF, Becker CG,
+Bernhardt RR, Schachner M. 1997.
+Axonal regrowth after spinal cord
+transection in adult zebrafish. J Comp
+Neurol 377:577–595.
+Becker T, Lieberoth BC, Becker CG,
+Schachner M. 2005. Differences in the
+regenerative response of neuronal cell
+populations and indications for plastic-
+ity in intraspinal neurons after spinal
+cord transection in adult zebrafish. Mol
+Cell Neurosci 30:265–278.
+Bernhardt RR. 1999. Cellular and molecu-
+lar bases of axonal regeneration in the
+fish central nervous system. Exp Neurol
+157:223–240.
+Bethea JR. 2000. Spinal cord injury-
+induced inflammation: a dual-edged
+sword. Prog Brain Res 128:33–42.
+Blight AR. 1985. Delayed demyelination and
+macrophage invasion: a candidate for sec-
+ondary cell damage in spinal cord injury.
+CentNerv Syst Trauma 2:299–315.
+Butler EG, Ward MB. 1967. Reconstitu-
+tion of the spinal cord after ablation in
+adult Triturus. Dev Biol 15:464–486.
+Cameron RS, Rakic P. 1991. Glial cell lin-
+eage in the cerebral cortex: a review
+and synthesis. Glia 4:124–137.
+Campbell K, Gotz M. 2002. Radial glia:
+multi-purpose cells for vertebrate brain
+development. Trends Neurosci 25:
+235–238.
+Chernoff EA. 1996. Spinal cord regenera-
+tion: a phenomenon unique to urodeles?
+Int J Dev Biol 40:823–831.
+Chernoff EA, Stocum DL, Nye HL,
+Cameron JA. 2003. Urodele spinal cord
+regeneration and related processes. Dev
+Dyn 226:295–307.
+Citron BA, Arnold PM, Sebastian C, Qin
+F, Malladi S, Ameenuddin S, Landis
+ME, Festoff BW. 2000. Rapid upregula-
+tion of caspase-3 in rat spinal cord after
+injury: mRNA, protein, and cellular
+localization correlates with apoptotic
+cell death. Exp Neurol 166:213–226.
+Crowe MJ, Shuman SL, Masters JN,
+Bresnahan JC, Beattie MS. 1995. Mor-
+phological evidence suggesting apopto-
+tic nuclei in spinal cord injury. Soc
+Neurosci Abstr 21:232.
+David E, Winkelmann E, Marx I, David
+H. 1973. Ultrastructural changes of
+neurons and synapses in the neocortex,
+striatum, and thalamus induced by oxy-
+gen deficiency in the guinea pig (Cavia
+porcellus L.). J Hirnforsch 14:375–388.
+Donnelly DJ, Popovich PG. 2008. Inflam-
+mation and its role in neuroprotection,
+axonal regeneration and functional re-
+covery after spinal cord injury. Exp
+Neurol 209:378–388.
+Dutta A, Sen T, Banerji A, Das S, Chat-
+terjee A. 2009. Studies on multifunc-
+tional effect of all-trans retinoic acid
+(ATRA) on matrix metalloproteinase-2
+(MMP-2) and its regulatory molecules
+in human breast cancer cells (MCF-7).
+J Oncol 2009:627840.
+Echeverri K, Tanaka EM. 2002. Ectoderm
+to mesoderm lineage switching during
+axolotl tail regeneration. Science 298:
+1993–1996.
+Egar M, Singer M. 1972. The role of epen-
+dyma in spinal cord regeneration in the
+urodele, Triturus. Exp Neurol 37:422–430.
+Ferretti P, Ghosh S. 1997. Expression of
+regeneration-associated cytoskeletal
+proteins reveals differences and similar-
+ities between regenerating organs. Dev
+Dyn 210:288–304.
+Ferretti P, Zhang F, O’Neill P. 2003.
+Changes in spinal cord regenerative
+ability through phylogenesis and devel-
+opment: lessons to be learnt. Dev Dyn
+226:245–256.
+Fine ML. 1989. Embryonic, larval and
+adult development of the sonic neuro-
+muscular system in the oyster toadfish.
+Brain Behav Evol 34:13–24.
+Fitch MT, Doller C, Combs CK, Landreth
+GE, Silver J. 1999. Cellular and molec-
+ular mechanisms of glial scarring and
+progressive cavitation: in vivo and in
+vitro analysis of inflammation-induced
+secondary injury after CNS trauma. J
+Neurosci 19:8182–8198.
+Fox GQ, Richardson GP. 1982. The devel-
+opmental morphology of Torpedo mar-
+morata: electric lobe-electromotoneuron
+proliferation and cell death. J Comp
+Neurol 207:183–190.
+Gage FH. 2000. Mammalian neural stem
+cells. Science 287:1433–1438.
+Garcia-Verdugo JM, Ferron S, Flames N,
+Collado L, Desfilis E, Font E. 2002. The
+proliferative ventricular zone in adult
+vertebrates: a comparative study using
+reptiles, birds, and mammals. Brain
+Res Bull 57:765–775.
+Guth L, Zhang Z, Steward O. 1999. The
+unique histopathological responses of
+the injured spinal cord. Implications for
+neuroprotective therapy. Ann NY Acad
+Sci 890:366–384.
+Hampton DW, Rhodes KE, Zhao C,
+Franklin RJ, Fawcett JW. 2004. The
+responses of oligodendrocyte precursor
+cells, astrocytes and microglia to a cort-
+ical stab injury, in the brain. Neuro-
+science 127:813–820.
+Hartfuss E, Galli R, Heins N, Gotz M.
+2001. Characterization of CNS precur-
+sor subtypes and radial glia. Dev Biol
+229:15–30.
+Holder N, Clarke JD, Kamalati T, Lane
+EB. 1990. Heterogeneity in spinal ra-
+dial glia demonstrated by intermediate
+filament expression and HRP labelling.
+J Neurocytol 19:915–928.
+Humason GL. 1979. Animal tissue techni-
+ques. New York: WH Freeman & Co.
+Kalman M. 2002. GFAP expression with-
+draws: a trend of glial evolution? Brain
+Res Bull 57:509–511.
+Kaslin J, Ganz J, Brand M. 2008. Prolif-
+eration, neurogenesis and regeneration
+in the non-mammalian vertebrate
+brain. Phil Trans R Soc Lond B Biol Sci
+363:101–122.
+Kigerl KA, Gensel JC, Ankeny DP,
+Alexander JK, Donnelly DJ, Popovich
+PG. 2009. Identification of two distinct
+2978 HUI ET AL.
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s
+macrophage subsets with divergent
+effects causing either neurotoxicity or
+regeneration in the injured mouse spi-
+nal cord. J Neurosci 29:13435–13444.
+Kim CH, Ueshima E, Muraoka O, Tanaka
+H, Yeo SY, Huh TL, Miki N. 1996.
+Zebrafish elav/HuC homologue as a
+very early neuronal marker. Neurosci
+Lett 216:109–112.
+Korzh V, Sleptsova I, Liao J, He J, Gong
+Z. 1998. Expression of zebrafish bHLH
+genes ngn1 and nrd defines distinct
+stages of neural differentiation. Dev
+Dyn 213:92–104.
+Leonard RB, Coggeshall RE, Willis WD.
+1978. A documentation of an age related
+increase in neuronal and axonal num-
+bers in the stingray, Dasyatis sabina,
+Leseuer. J Comp Neurol 179:13–21.
+Li GL, Farooque M, Holtz A, Olsson Y.
+1999. Apoptosis of oligodendrocytes
+occurs for long distances away from the
+primary injury after compression
+trauma to rat spinal cord. Acta Neuro-
+pathol 98:473–480.
+Liu XZ, Xu XM, Hu R, Du C, Zhang SX,
+McDonald JW, Dong HX, Wu YJ, Fan
+GS, Jacquin MF, Hsu CY, Choi DW.
+1997. Neuronal and glial apoptosis after
+traumatic spinal cord injury. J Neurosci
+17:5395–5406.
+Malatesta P, Hartfuss E, Gotz M. 2000.
+Isolation of radial glial cells by fluores-
+cent-activated cell sorting reveals a
+neuronal lineage. Development 127:
+5253–5263.
+McEwenML, Springer JE. 2005. A mapping
+study of caspase-3 activation following
+acute spinal cord contusion in rats. J His-
+tochemCytochem53:809–819.
+Miyata T, Kawaguchi A, Okano H, Ogawa
+M. 2001. Asymmetric inheritance of ra-
+dial glial fibers by cortical neurons.
+Neuron 31:727–741.
+Monaghan JR, Walker JA, Page RB,
+Putta S, Beachy CK, Voss SR. 2007.
+Early gene expression during natural
+spinal cord regeneration in the sala-
+mander Ambystoma mexicanum. J Neu-
+rochem 101:27–40.
+Morshead CM, Reynolds BA, Craig CG,
+McBurney MW, Staines WA, Morassutti
+D, Weiss S, van der Kooy D. 1994. Neu-
+ral stem cells in the adult mammalian
+forebrain: a relatively quiescent subpo-
+pulation of subependymal cells. Neuron
+13:1071–1082.
+Mueller T, Wullimann MF. 2002. BrdU-,
+neuroD (nrd)- and Hu-studies reveal
+unusual non-ventricular neurogenesis
+in the postembryonic zebrafish fore-
+brain. Mech Dev 117:123–135.
+Naganska E, Matyja E. 2001. Ultrastruc-
+tural characteristics of necrotic and ap-
+optotic mode of neuronal cell death in a
+model of anoxia in vitro. Folia Neuropa-
+thol 39:129–139.
+Newcomb JK, Zhao X, Pike BR, Hayes RL.
+1999. Temporal profile of apoptotic-like
+changes in neurons and astrocytes follow-
+ing controlled cortical impact injury in the
+rat. ExpNeurol 158:76–88.
+Nona SN, Stafford CA, Duncan A, Cronly-
+Dillon JR, Scholes J. 1994. Myelin
+repair by Schwann cells in the regener-
+ating goldfish visual pathway: regional
+patterns revealed by X-irradiation. J
+Neurocytol 23:400–409.
+Nona SN, Thomlinson AM, Bartlett CA,
+Scholes J. 2000. Schwann cells in the
+regenerating fish optic nerve: evidence
+that CNS axons, not the glia, determine
+when myelin formation begins. J Neu-
+rocytol 29:285–300.
+Nordlander RH, Singer M. 1978. The role
+of ependyma in regeneration of the spi-
+nal cord in the urodele amphibian tail.
+J Comp Neurol 180:349–374.
+O’Hara CM, Egar MW, Chernoff EA.
+1992. Reorganization of the ependyma
+during axolotl spinal cord regeneration:
+changes in intermediate filament and fi-
+bronectin expression. Dev Dyn 193:
+103–115.
+Park HC, Hong SK, Kim HS, Kim SH,
+Yoon EJ, Kim CH, Miki N, Huh TL.
+2000. Structural comparison of zebra-
+fish Elav/Hu and their differential
+expressions during neurogenesis. Neu-
+rosci Lett 279:81–84.
+Pinto L, Gotz M. 2007. Radial glial cell
+heterogeneity: the source of diverse
+progeny in the CNS. Prog Neurobiol 83:
+2–23.
+Popovich PG, Wei P, Stokes BT. 1997. Cel-
+lular inflammatory response after spinal
+cord injury in Sprague-Dawley and
+Lewis rats. J Comp Neurol 377:443–464.
+Reimer MM, Sorensen I, Kuscha V, Frank
+RE, Liu C, Becker CG, Becker T. 2008.
+Motor neuron regeneration in adult
+zebrafish. J Neurosci 28:8510–8516.
+Reimer MM, Kuscha V, Wyatt C, Soren-
+sen I, Frank RE, Knuwer M, Becker T,
+Becker CG. 2009. Sonic hedgehog is a
+polarized signal for motor neuron
+regeneration in adult zebrafish. J Neu-
+rosci 29:15073–15082.
+Renault-Mihara F, Okada S, Shibata S,
+Nakamura M, Toyama Y, Okano H.
+2008. Spinal cord injury: emerging ben-
+eficial role of reactive astrocytes’ migra-
+tion. Int J Biochem Cell Biol 40:
+1649–1653.
+Shechter R, London A, Varol C, Raposo C,
+Cusimano M, Yovel G, Rolls A, Mack
+M, Pluchino S, Martino G, Jung S,
+Schwartz M. 2009. Infiltrating blood-
+derived macrophages are vital cells
+playing an anti-inflammatory role in re-
+covery from spinal cord injury in mice.
+PLOS Med 6:1–17.
+Shuman SL, Bresnahan JC, Beattie MS.
+1996. Morphological evidence of glial
+involvement in apoptotic cell death fol-
+lowing spinal cord contusion. Soc Neu-
+rosci Abstr 22:1185.
+Singer M, Nordlander RH, Egar M. 1979.
+Axonal guidance during embryogenesis
+and regeneration in the spinal cord of
+the newt: the blueprint hypothesis of
+neuronal pathway patterning. J Comp
+Neurol 185:1–21.
+Song HJ, Stevens CF, Gage FH. 2002.
+Neural stem cells from adult hippocam-
+pus develop essential properties of func-
+tional CNS neurons. Nat Neurosci 5:
+438–445.
+Soutschek J, Zupanc GK. 1996. Apoptosis
+in the cerebellum of adult teleost fish,
+Apteronotus leptorhynchus. Brain Res
+Dev Brain Res 97:279–286.
+Stensaas LJ. 1983. Regeneration in the
+spinal cord of the newt Notophthalmus
+(Triturus) pyrrhogaster. In: Kao CC,
+Bunge RP, Reier PJ, editors. Spinal
+cord reconstruction. New York: Raven
+Press. p121–149.
+Takagi T, Takayasu M, Mizuno M, Yoshi-
+moto M, Yoshida J. 2003. Caspase acti-
+vation in neuronal and glial apoptosis
+following spinal cord injury in mice.
+Neurol Med Chir 43:20–9.
+Waxman SG, Anderson MJ. 1985. Genera-
+tion of electromotor neurons in Ster-
+narchus albifrons: differences between
+normally growing and regenerating spi-
+nal cord. Dev Biol 112:338–344.
+Wilson SW, Brand M, Eisen JS. 2002.
+Patterning the zebrafish central nerv-
+ous system. Results Prob Cell Differ 40:
+181–215.
+Yoshino J, Tochinai S. 2004. Successful
+reconstitution of the non regenerating
+adult telencephalon by cell transplanta-
+tion in Xenopus leavis. Dev Growth Dif-
+ferentiation 46:523–534.
+Zhang F, Clarke JD, Ferretti P. 2000.
+FGF-2 Up-regulation and proliferation
+of neural progenitors in the regenerat-
+ing amphibian spinal cord in vivo. Dev
+Biol 225:381–391.
+Zhang F, Ferretti P, Clarke JD. 2003.
+Recruitment of postmitotic neurons into
+the regenerating spinal cord of uro-
+deles. Dev Dyn 226:341–348.
+Zupanc GK. 1999. Neurogenesis, cell
+death and regeneration in the adult
+gymnotiform brain. J Exp Biol 202:
+1435–1446.
+Zupanc GK. 2001. Adult neurogenesis
+and neuronal regeneration in the cen-
+tral nervous system of teleost fish.
+Brain Behav Evol 58:250–275.
+Zupanc GK, Clint SC. 2003. Potential role
+of radial glia in adult neurogenesis of
+teleost fish. Glia 43:77–86.
+Zupanc GK, Horschke I. 1995. Prolifera-
+tion zones in the brain of adult gymno-
+tiform fish: a quantitative mapping
+study. J Comp Neurol 353:213–233.
+Zupanc GK, Zupanc MM. 2006. New neu-
+rons for the injured brain: mechanisms
+of neuronal regeneration in adult tele-
+ost fish. Regen Med 1:207–216.
+Zupanc GK, Kompass KS, Horschke I, Ott
+R, Schwarz H. 1998. Apoptosis after
+injuries in the cerebellum of adult tele-
+ost fish. Exp Neurol 152:221–230.
+Zupanc GK, Clint SC, Takimoto N,
+Hughes AT, Wellbrock UM, Meissner D.
+2003. Spatio-temporal distribution of
+microglia/macrophages during regener-
+ation in the cerebellum of adult teleost
+fish, Apteronotus leptorhynchus: a
+quantitative analysis. Brain Behav Evol
+62:31–42.
+Zupanc GK, Hinsch K, Gage FH. 2005.
+Proliferation, migration, neuronal dif-
+ferentiation, and long-term survival of
+new cells in the adult zebrafish brain. J
+Comp Neurol 488:290–319.
+INJURY RESPONSE IN ZEBRAFISH SPINAL CORD 2979
+D
+ev
+el
+op
+m
+en
+ta
+l D
+yn
+am
+ic
+s

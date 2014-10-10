@@ -1,0 +1,721 @@
+Delayed post-injury administration of C5a improves regeneration and
+functional recovery after spinal cord injury in mice
+Q. Guo,*1 J. Cheng,‡1 J. Zhang,*
+B. Su,§ C. Bian,* S. Lin§ and C. Zhong†
+*Department of Neurobiology, Chongqing Key
+Laboratory of Neurobiology, Third Military
+Medical University, †Department of
+Otorhinolaryngology, Southwest Hospital, Third
+Military Medical University, ‡Chongqing Normal
+University, Chongqing, and §Development and
+Regeneration Key Laboratory of Sichuan
+Province, The Key Medical Subject of Burn Injury
+in Sichuan Province, Department of Histology
+and Embryology and Neurobiology, Chengdu
+Medical College, Chengdu, China
+Summary
+The activation of a complement system can aggravate the secondary injury
+after spinal cord injury (SCI). However, it was reported recently that the
+activation of a complement could have both a secondary injury and a
+neuroprotective effect, in which C5a is the most important factor, but there is
+no direct evidence for this dual effect of C5a after SCI. In order to investigate
+the potential neuroprotective effect of C5a after SCI, in this study ectogenic
+C5a was injected intraperitoneally before/after SCI in vivo, or administrated
+to mechanically injured neurones in vitro; following this, neurone apoptosis,
+neurite outgrowth, axonal regeneration and functional recovery were investi-
+gated. The in-vivo experiments indicated that, following treatment with C5a
+24 h before or immediately after injury, locomotor function was impaired
+significantly. However, when treatment with C5a took place 24 h after injury,
+locomotor function improved significantly. In-vitro experiments indicated
+that a certain concentration of C5a (50–100 nM) could inhibit caspase-3-
+mediated neurone apoptosis by binding to its receptor CD88, and that
+it could even promote the neurite outgrowth of uninjured neurones. In
+conclusion, delayed post-injury administration of C5a within a certain
+concentration could exert its neuroprotective effect through inhibiting
+caspase-3-mediated neurone apoptosis and promoting neurite outgrowth of
+uninjured neurones as well. These data suggest that C5a may have opposite
+functions in a time- and concentration-dependent manner after SCI. The
+dual roles of C5a have to be taken into account when measures are taken to
+inhibit complement activation in order to promote regeneration after SCI.
+Keywords: apoptosis, complement, neurite outgrowth, neuroprotection,
+spinal cord injury
+Accepted for publication 9 July 2013
+Correspondence: C. Zhong, Department of
+Otorhinolaryngology, Southwest Hospital, Third
+Military Medical University, Chongqing 400038,
+China.
+E-mail: 13883065477@163.com
+1These authors contributed equally to this work.
+Introduction
+The role of the complement system after spinal cord injury
+(SCI) has received considerable attention. Inhibition of
+complement activation can reduce the expression of inflam-
+matory factors, improve neuroprotection and attenuate the
+secondary injury following SCI [1–4]. Our previous work
+indicates that the blocking of complement activation by C3
+deficiency has a neuroprotective effect and can improve
+regeneration and functional recovery after SCI [5], indicat-
+ing that inhibiting complement activation may be a promis-
+ing therapy for SCI.
+However, it was reported recently that complement
+activation had another neuroprotective role [6–9] in
+addition to that involving the secondary injury [10,11], and
+C5a was thought to be the most important factor in this
+respect. Although C5a can induce the chemotactic response
+and mediate the early phase of inflammation that is
+harmful to cells at the lesion site [12,13], it can exert its
+neuroprotective effect by inhibiting neurone apoptosis
+[6,7,14] and promoting microglial phagocytosis [15,16],
+which is beneficial in alleviating the secondary injury.
+However, in terms of SCI, existing research is focused on
+the secondary injury caused by C5a, and it is not known
+whether it exerts a neuroprotective effect after SCI. If
+it does, the favourable and unfavourable roles of C5a have
+to be balanced following SCI in order to achieve greater
+efficiency in neuroneal regeneration.
+bs_bs_banner
+Clinical and Experimental Immunology ORIGINAL ARTICLE doi:10.1111/cei.12175
+318 © 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+Therefore, in the present study the neuroprotective effect
+of C5a after SCI was investigated. Our data indicated that
+although exogenous C5a administrated before or immedi-
+ately after injury exacerbated inflammation after SCI,
+delayed post-injury C5a administration could attenuate the
+secondary injury and improve regeneration after SCI.
+Materials and methods
+Spinal cord injury and C5a injection
+The study was performed in accordance with protocols
+approved by Third Military Medical University. All surgical
+procedures were carried out in accordance with the Euro-
+pean Communities Council Directive of 24 November 1986
+(86/609/EEC). Every effort was made to minimize the
+number of animals used and their suffering. Female wild-
+type C57/BL6 mice (weighing 18–20 g, 6–8 weeks old) were
+purchased from the Experimental Animal Center of the
+Third Military Medical University. In order to minimize the
+influence of the oestrogen level, a vaginal smear examina-
+tion was performed and only animals in dioestrus were
+used. A forceps crush injury was performed using the
+procedure described in a previous report [17] after a
+laminectomy at T12. Manual bladder expression was
+performed twice a day after surgery.
+The C5a protein (Abcam, Cambridge, MA, USA) was
+solubilized in 0·01 M phosphate-buffered saline (PBS). An
+effective concentration of C5a (100 nM) was injected
+intraperitoneally (10 μl/g body weight) 24 h before injury
+(−24 h), immediately after injury (0 h) or 24 h after injury
+(24 h), respectively. As for the control, PBS replaced C5a
+protein for injection at different time-points.
+Locomotor function analysis
+Functional recovery after SCI was scored in an open field
+using the Basso, Beattie and Bresnahan (BBB) rating scale.
+Animals were assessed daily before and after surgery by an
+observer blinded to animal treatment.
+Histology analysis
+Mice were perfused with 4% paraformaldehyde 9 weeks
+post-injury. Tissue segments extending from 3 mm rostral
+to 3 mm caudal to the lesion site were sectioned in
+the longitudinal plane (30 μm) on a cryostat.
+Immunohistochemistry was performed for growth-
+associated protein-43 (rabbit anti-GAP43, 1:500; Abcam)
+according to the protocol described in a previous report
+[18], and visualized with a species-specific rhodamine
+(tetramethylrhodamine isothiocyanate: TRITC)-conjugated
+antibody (1:500, Serotec, Raleigh, NC, USA). The tissue seg-
+ments were also used to perform haematoxylin and eosin
+(H&E) staining.
+Primary neurone culture and mechanical injury
+Newborn mice (0 day) were used for the neurone culture.
+After being digested in 0·125% trypsin for 15 min, cells
+were collected and resuspended in neurobasal medium
+A (Sigma, St Louis, MO, USA) with 10% B27, 2 mM
+glutamine, 100 IU/ml penicillin/streptomycin and 10 ng/ml
+nerve growth factor (NGF) and plated at a density of
+1 × 106/ml.
+The neurone mechanical injury was performed accord-
+ing to the procedure described in a previous report [19].
+In brief, the medium was refreshed 1 day before it was
+used. Then ‘#’-like scuffing was performed on neurones
+plated on a coverslip. The interval between scratch lines
+was 5 mm.
+Neurone apoptosis analysis
+C5a treatment was performed with different concentra-
+tions (50 nM, 100 nM, 200 nM) 24 h after the mechanical
+injury to the 5-day-old cultures. For the control, 0·01 M
+PBS was added into the culture media instead of C5a. To
+further confirm the effect of C5a, the C5a receptor antago-
+nist AcF-[OP(D-Cha)WR] (PMX53; Shenzhen Jingmei,
+Shenzhen, China) was added at the same concentration as
+that of C5a in each group. Immunofluorescence staining
+was performed 3 days after injury. The proportion of
+caspase-3 positive cells (red) to 4′,6-diamidino-2-
+phenylindole (DAPI)-positive nuclei (blue) was calcu-
+lated by counting, respectively, from 10 random visual
+fields under a microscope. The average proportion repre-
+sented the ratio of apoptosis neurones to survival
+neurones.
+Neurite assay
+When neurone adherence was completed, different con-
+centrations of C5a (50 nM, 100 nM, 200 nM) were added
+into the culture media for 2 days or 6 days until the
+neurite assay was performed. For the control, 0·01 M PBS
+was added into the culture media instead of C5a. Three
+different visual fields were selected randomly from each
+concentration group, and the area occupied by neurites
+was quantified using Image Pro. version 5.0 according to
+the method described by Bilsland et al. [20]. The average
+value of each group was used to represent the neurite
+outgrowth.
+Statistical analysis
+Statistical significance between groups was determined by
+analysis of variance with repeated measures using Scheffé’s
+test for post-hoc comparisons; P < 0·05 was considered
+statistically significant.
+Delayed C5a administration post-SCI
+319© 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+Results
+Recovery of locomotor function after SCI
+Locomotor function was assessed using the BBB scale for 9
+weeks after SCI (Fig. 1). The BBB scores of all mice were 0
+immediately after SCI, and there was no difference in func-
+tional recovery among each of the PBS-treated groups.
+When mice were pretreated with C5a 24 h before injury,
+locomotor function was impaired significantly in compari-
+son with PBS-treated mice. Mice treated with C5a immedi-
+ately after injury even showed a remarkable lower score
+throughout the observation period. However, locomotor
+function improved significantly only when mice were
+treated with C5a 24 h after injury.
+Analysis of histological recovery
+To detect the level of histological recovery, H&E staining
+was performed 9 weeks after injury. In mice treated with
+PBS, the normal tissue of the spinal cord was damaged and
+constricted, and several irregular cavities were formed in the
+injured region (Fig. 2a). In mice pretreated with C5a 24 h
+before injury (Fig. 2b), especially those treated immediately
+after injury (Fig. 2c), the extent of the damage was exacer-
+bated, and the areas where there were cavities were
+enlarged. However, in mice treated with C5a 24 h after
+injury (Fig. 2d) the integrity of the spinal cord was
+improved, and the areas where there were cavities were
+clearly smaller than those of the other three groups.
+Axonal regrowth after SCI
+Although several GAP43-positive fibres were observed in
+the injured region in mice treated with PBS (Fig. 3a,a′),
+fewer GAP43-positive fibres were detected in mice pre-
+treated with C5a 24 h before injury (Fig. 3b,b′, P < 0·01
+versus the PBS group). In mice treated with C5a
+immediately after injury, very few GAP43-positive fibres
+could be detected (Fig. 3c,c′, P < 0·01 versus the PBS group).
+However, in mice treated with C5a 24 h after injury
+(Fig. 3d,d′), more GAP43-positive fibres were observed
+PBS
+C5a −24 h
+C5a 0 h
+C5a 24 h
+BB
+B 
+sc
+or
+e
+Days
+0
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62
+3
+6
+9
+12
+15
+18
+21
+Fig. 1. Locomotor function assessed by the Basso, Beattie and Bresnahan (BBB) scale for 9 weeks after spinal cord injury (SCI). When pretreated
+with C5a 24 h before injury (C5a, −24 h), the locomotor function was impaired significantly in comparison with phosphate-buffered saline
+(PBS)-treated mice. Mice treated with C5a immediately after injury (C5a, 0 h) even showed a remarkable lower score throughout the observation
+period. However, locomotor function improved significantly only when mice were treated with C5a 24 h after injury (C5a, 24 h); n = 5 per group.
+PBS
+(a)
+(b)
+(c)
+(d)
+500 μm
+C5a −24 h
+C5a 0 h
+C5a 24 h
+Fig. 2. Histology of spinal cord sections after spinal cord injury (SCI).
+Mice were treated with phosphate-buffered saline (PBS) (a), 100 nM
+C5a 24 h before injury (b), immediately after injury (c) or 24 h after
+injury (d), respectively. Longitudinal sections from the epicentre of the
+injury were stained with haematoxylin and eosin (H&E) 9 weeks after
+SCI; n = 5 per group. Scale bar: 500 μm.
+Q. Guo et al.
+320 © 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+than was the case with the PBS-treated mice (P < 0·05),
+suggesting that delayed post-injury administration of C5a
+can promote axonal regrowth in the injured spinal cord.
+Neurone apoptosis
+At lower concentrations of C5a (50 nM, 100 nM), neurone
+apoptosis was inhibited significantly by 38% (P < 0·05)
+and 45% (P < 0·01), respectively (Fig. 4b,b′,c,c′,i).
+However, at a higher concentration (200 nM), the
+apoptosis was no longer inhibited by C5a (Fig. 4d,d′,i).
+The apoptosis cells increased significantly compared with
+those in the 50 nM and 100 nM groups, and even exceeded
+the level of the control group (P < 0·01) (Fig. 4a,a′,i). This
+inhibition effect could be reversed by PMX53 administra-
+tion (Fig. 4e–h,e′–h′,i).
+PBS
+(a)
+(b)
+(c)
+(d)
+(e)
+(a′)
+(b′)
+(c′)
+(d′)
+500 μm 200 μm
+C5a −24 h
+C5a 0 h
+C5a 24 h
+PBS C5a −24 h C5a 0 h C5a 24 h
+G
+AP
+43
+-p
+os
+itiv
+e 
+fib
+re
+s
+(ar
+ea
+ oc
+cu
+pie
+d, 
+pix
+el)
+∗
+∗
+∗∗
+0⋅00
+10 000⋅00
+20 000⋅00
+30 000⋅00
+40 000⋅00
+50 000⋅00
+60 000⋅00
+70 000⋅00
+80 000⋅00
+Fig. 3. The delayed post-injury administration
+of C5a improves regeneration and functional
+recovery after spinal cord injury (SCI).
+Longitudinal sections from the epicentre of the
+injury showing GAP43 immunostaining in
+spinal cords 9 weeks after SCI in mice treated
+with phosphate-buffered saline (PBS) (a, a′),
+100 nM C5a 24 h before injury (b, b′),
+immediately after injury (c, c′) and 24 h after
+injury (d, d′), respectively; (a′–d′) are higher
+magnifications of (a–d). (e) The areas that
+GAP43-positive fibres occupied in (a–d) were
+marked with broken white lines and measured;
+n = 5 per group. Scale bars: (a–d) 500 μm,
+(a′–d′) 200 μm. *P < 0·01 versus PBS group;
+**P < 0·05 versus PBS group.
+Delayed C5a administration post-SCI
+321© 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+Neurite outgrowth
+Neurite outgrowth could be observed in each group at 2
+days, with no significant difference in neurite areas being
+observed between the control (Fig. 5a,i), 50 nM (Fig. 5b,i)
+and 100 nM (Fig. 5c,i) groups. However, the neurite area of
+the 200 nM group (Fig. 5d,i) was significantly lower than
+that of the other three groups (P < 0·05). A large quantity of
+interlacing neurites could be observed in each group at 6
+days, with significantly larger neurite areas in the 50 nM
+(Fig. 5f,i) and 100 nM (Fig. 5g,i) groups than in the control
+(P < 0·05) (Fig. 5e,i). For the 200 nM group (Fig. 5h,i), its
+neurite area was slightly smaller than that of the control,
+but the difference was not significant.
+Discussion
+Among complement components, C5a is thought to be the
+most effective inflammatory factor. Following central
+nervous system (CNS) lesions, C5a exerts its role by binding
+to its receptor, and CD88 is considered to be its main
+functional receptor [21,22]. C5a can induce neutrophil
+chemotaxis, up-regulate the expression of CD11b, interleu-
+kin (IL-2) IL-6, IL-8 and tumour necrosis factor (TNF)-α
+and mediate the secondary injury after SCI [12,13,23,24].
+Meanwhile, there is positive feedback between the expres-
+sion of TNF-α and that of CD88 [25]. Administration of
+C5a before or immediately after SCI will promote this feed-
+back and increase the expression of endogenous C5a, CD88
+PBS
+PB
+S
+(a) (b) (c) (d) (e) (f) (g) (h)
+(i)
+(a′) (b′) (c′) (d′) (e′) (f′) (g′) (h′)
+C5a 50 nM
+50 nM
+Pe
+rc
+en
+ta
+ge
+ o
+f
+a
+po
+pt
+os
+is 
+ne
+ur
+on
+es
+C5a 100 nM
+100 nM
+C5a 200 nM
+200 nM
+PBS+PMX53
+PB
+S+
+PM
+X5
+3
+C5a+PMX53
+50 nM
+C5a
+C5a+PMX53
+C5a+PMX53
+100 nM
+C5a+PMX53
+200 nM
+∗
+∗∗
+∗∗
+0⋅00%
+10⋅00%
+20⋅00%
+30⋅00%
+40⋅00%
+50⋅00%
+60⋅00%
+70⋅00%
+80⋅00%
+Ca
+sp
+as
+e 
+3
+D
+AP
+I
+M
+er
+ge
+Fig. 4. Neurone apoptosis analysed 3 days after the mechanical injury to neurones treated with different concentrations of C5a (50 nM, 100 nM,
+200 nM) 24 h after injury. (a–d) Caspase-3 immunofluorescence staining of neurones treated with phosphate-buffered saline (PBS) (a), 50 nM C5a
+(b), 100 nM C5a (c) and 200 nM C5a (d). (e–h) Caspase-3 immunofluorescence staining of neurones treated with PBS + PMX53 (e), 50 nM
+C5a + 50 nM PMX53 (f), 100 nM C5a + 100 nM PMX53 (g) and 200 nM C5a + 200 n PMX53 (h). 4′,6-Diamidino-2-phenylindole (DAPI) was used
+to identify all neuronal nuclei within the field. (a′–h′) A merging of caspase-3 and DAPI staining. (i) The percentage of apoptosis neurones in
+different groups; n = 10 per group. Scale bars: 50 μm. *P < 0·05 versus PBS group; **P < 0·01 versus PBS group.
+Q. Guo et al.
+322 © 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+and TNF-α, and ultimately aggravate the secondary injury
+after SCI. The differing degrees of injury observed between
+the −24 h and 0 h groups may be relevant in terms of the
+metabolism of C5a. C5a in vivo is quickly metabolized by
+carboxypeptidases to form C5adesArg [26]. It was thought
+previously that both C5a and C5adesArg could be cleared
+from the body with a half-life of 2–3 min, mediated partly
+by internalization by CD88 and C5L2 [27,28]. However, a
+recent study has indicated that the C5a internalized by
+CD88 is not retained and degraded. Instead, it is released
+2 d
+2 d
+PBS
+PBS
+C5a
+50 nM
+C5a 50 nM
+C5a
+100 nM
+C5a 100 nM
+C5a
+200 nM
+C5a 200 nM
+6 d
+6 d
+∗
+Δ Δ
+0
+500 000
+1 000 000
+1 500 000
+2 000 000
+2 500 000
+N
+eu
+rit
+e 
+ou
+tg
+ro
+wt
+h
+(ar
+ea
+ oc
+cu
+pie
+d b
+y n
+eu
+rite
+s, 
+pix
+el)
+Fig. 5. Neurite outgrowth when treated with
+different concentrations of C5a. There was no
+significant difference between groups treated
+with phosphate-buffered saline (PBS) (a),
+50 nM C5a (b) and 100 nM C5a (c) at 2 days.
+However, the neurite area of the 200 nM
+C5a-treated group (d) was significantly lower
+than that of the other three groups. At 6 days,
+significantly larger neurite areas in the 50 nM
+(f) and 100 nM (g) groups, but not in the
+200 nM group (h), could be observed,
+compared with the PBS group (e). (i) The area
+occupied by neurites in the different groups at 2
+days and 6 days, respectively; n = 3 per group.
+Scale bars: 100 μm. *P < 0·05 versus PBS group
+at 2 days; Δ: P < 0·05 versus PBS group at
+6 days.
+Delayed C5a administration post-SCI
+323© 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+into the extracellular medium in an intact state [28], so this
+part of C5a is not really cleared and could still participate in
+the secondary injury. Therefore, C5a administered 24 h
+before SCI might be only partially cleared, and that still
+remaining might participate in the secondary injury. When
+C5a was administered immediately after SCI, all of it par-
+ticipated in the secondary injury before it had time to be
+cleared. This could probably explain why the degree of
+injury in the −24 h group was more severe than that in the
+control, but better than in the 0 h group.
+It is worth noting that C5a administered 24 h after SCI
+attenuated the secondary injury and enhanced the func-
+tional recovery. Our previous work showed that the expres-
+sion of both C5a and CD88 increased, and peaked at 24 h
+after SCI [25]. Instead of exacerbating the secondary injury,
+C5a administration at this time-point reduced it signifi-
+cantly, suggesting an alternative role. Vidal et al. [29]
+reported that the inhibition of peripheral TNF-α, starting
+14 days after injury, had no effect on functional recovery
+after SCI. Beck et al. [30] reported that late inflammation
+14 days post-injury could promote functional recovery and
+myelination after SCI, and the macrophage/microglia
+response might prevent the further loss of function during
+the early chronic phase (14–28 days after injury) of inflam-
+mation. These studies indicated that the acute phase of
+inflammation might exacerbate the secondary injury after
+SCI, while the chronic phase could have a protective effect.
+Even C5a could probably have an opposite role during this
+second phase, as Beck et al. [30] predicted that the blocking
+of subacute to chronic inflammation by the C5a receptor
+antagonist would reduce functional recovery after SCI,
+which was confirmed in CD88−/− mice by Brennan et al.
+[9]. Perhaps for this reason, in our study the functional
+recovery of control mice started from 15 days after injury.
+When mice were treated with C5a 24 h after SCI the prob-
+able neuroprotective effect of C5a, rather than its
+proinflammatory effect, resulted in enhanced functional
+recovery. However, the precise time window during which
+C5a exerts this protective effect needs to be studied further.
+To investigate further the neuroprotective role of C5a, we
+observed its effect on neural survival and neurite outgrowth
+and found that C5a within a certain concentration range
+(50–100 nM) could reduce the apoptosis of injured neu-
+rones and promote the neurite outgrowth of uninjured
+neurones, which indicated that the effect of C5a on neu-
+rones was related to the concentration range as well as to
+the time window. The inflammatory effect of C5a could
+convert to a neuroprotective effect as its concentration
+changed. It was reported that the expression of the C5a
+receptor in neurones remained weak under normal physi-
+ological conditions but increased significantly when stimu-
+lated by inflammation [25], which could be a self-
+protection response. For example, Mukherjee and Pasinetti
+[6] found that the neurones in the hippocampus that were
+pretreated with C5a showed high tolerance to glutamate,
+and Bénard et al. [7] reported that the C5a receptor antago-
+nist could promote neural survival. Our data also showed
+that a certain concentration of C5a could reduce the
+caspase-3 mediated apoptosis of injured neurones, and that
+this effect could be reversed by PMX53 administration.
+Therefore, C5a could exert its neuroprotective effect by
+binding to its receptor on the neurone surface, inhibiting
+the expression of caspase-3 and ultimately reducing
+neurone apoptosis. To our surprise, in the case of uninjured
+neurones C5a could promote outgrowth of their neurites,
+which was a further illustration of its promotion of neural
+regeneration in vivo, although the mechanism is as yet
+unknown.
+Finally, it should be noted that the localized concentra-
+tion of C5a in the spinal cord after injection of 100 nM C5a
+into the peritoneum was much lower than the in-vitro con-
+centrations. Why did it still work? The answer may involve
+the positive feedback between C5a and inflammation in
+vivo. On one hand, uncontrolled complement activation
+can lead to excessive inflammation, tissue damage and
+elevation of many cytokines [31]. On the other hand, par-
+ticularly after stimulation with cytokines, glial cells and
+neurones can produce almost all the complement proteins
+(including C5) [32], and activation and over-expression of
+C5a can be detected during inflammatory processes [33].
+Exogenous administration of C5a will promote this feed-
+back and generate more endogenic C5a. Therefore, the
+C5a that really played a role in vivo might come from
+two sources: exogenous administration and endogenic
+generation.
+Conclusion
+C5a has been thought to be a chemotactic factor that par-
+ticipates in inflammation and results in the secondary
+injury after SCI. However, our study indicated that a certain
+concentration of C5a administrated 24 h after injury could
+reduce neurone apoptosis, promote neurite outgrowth and
+improve functional recovery after SCI. These data suggest
+that C5a may have opposite functions in a time- and
+concentration-dependent manner after SCI. The dual roles
+of C5a have to be taken into account when measures
+to inhibit complement activation are taken in order to
+promote regeneration after SCI.
+Acknowledgements
+This study was based on the original idea of Qiang Guo and
+Cheng Zhong. Qiang Guo and Junlin Cheng contributed
+equally to this work. Qiang Guo and Junlin Cheng carried
+out the spinal cord injury, C5a injection, locomotor func-
+tion analysis and neurone culture studies. Jiqiang Zhang
+carried out the histology analysis. Bingyin Su drafted the
+manuscript and Jiqiang Zhang proofread the manuscript.
+Chen Bian and Sen Lin carried out the data analysis. Qiang
+Q. Guo et al.
+324 © 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325
+Guo and Cheng Zhong were responsible for supervising the
+experiments, data analyses and writing of the manuscript.
+All authors read and approved the final manuscript. This
+work was supported by the National Natural Science Foun-
+dation of China (No. 30900572).
+Disclosure
+The authors have no conflicts of interest to declare.
+References
+1 Qiao F, Atkinson C, Song H, Pannu R, Singh I, Tomlinson S.
+Complement plays an important role in spinal cord injury and
+represents a therapeutic target for improving recovery following
+trauma. Am J Pathol 2006; 169:1039–47.
+2 Galvan MD, Luchetti S, Burgos AM et al. Deficiency in comple-
+ment C1q improves histological and functional locomotor
+outcome after spinal cord injury. J Neurosci 2008; 28:13876–88.
+3 Li LM, Li JB, Zhu Y, Fan GY. Soluble complement receptor type 1
+inhibits complement system activation and improves motor func-
+tion in acute spinal cord injury. Spinal Cord 2009; 48:105–11.
+4 Qiao F, Atkinson C, Kindy MS et al. The alternative and terminal
+pathways of complement mediate post-traumatic spinal cord
+inflammation and injury. Am J Pathol 2010; 177:3061–70.
+5 Guo Q, Li S, Liang Y et al. Effects of C3 deficiency on inflamma-
+tion and regeneration following spinal cord injury in mice.
+Neurosci Lett 2010; 485:32–6.
+6 Mukherjee P, Pasinetti GM. Complement anaphylatoxin
+C5a neuroprotects through mitogen-activated protein kinase-
+dependent inhibition of caspase 3. J Neurochem 2001; 77:43–9.
+7 Bénard M, Gonzalez BJ, Schouft MT et al. Characterization of C3a
+and C5a receptors in rat cerebellar granule neurons during matu-
+ration. Neuroprotective effect of C5a against apoptotic cell death.
+J Biol Chem 2004; 279:43487–96.
+8 van Beek J, Elward K, Gasque P. Activation of complement in
+the central nervous system: roles in neurodegeneration and
+neuroprotection. Ann NY Acad Sci 2003; 992:56–71.
+9 Brennan FH, Anderson AJ, Taylor SM, Woodruff TM, Ruitenberg
+MJ. Complement activation in the injured central nervous system:
+another dual-edged sword? J Neuroinflammation 2012; 9:137–49.
+10 Imm MD, Feldhoff PW, Feldhoff RC, Lassiter HA. The
+administration of complement component C9 augments post-
+ischemiccerebral infarction volume in neonatal rats. Neurosci Lett
+2002; 325:175–8.
+11 Nijmeijer R, Lagrand WK, Lubbers YT et al. C-reactive protein
+activates complement in infarcted human myocardium. Am J
+Pathol 2003; 163:269–75.
+12 Guo RF, Wand PA. Role of C5a in inflammatory response. Annu
+Rev Immunol 2005; 23:821–52.
+13 Kwon BK, Tetzlaff W, Grauer JN, Beiner J, Vaccaro AR. Patho-
+physiology and pharmacologic treatment of acute spinal cord
+injury. Spine J 2004; 4:451–64.
+14 Mukherjee P, Thomas S, Pasinetti GM. Complement
+anaphylatoxin C5a neuroprotects through regulation of glutamate
+receptor subunit 2 in vitro and in vivo. J Neuroinflammation 2008;
+5:5–11.
+15 O’Barr SA, Caguioa J, Gruol D et al. Neuronal expression of a
+functional receptor for the C5a complement activation fragment.
+J Immunol 2001; 166:4154–62.
+16 Rogers J, Strohmeyer R, Kovelowski CJ, Li R. Microglia and
+inflammatory mechanisms in the clearance of amyloid beta
+peptide. Glia 2002; 40:260–9.
+17 Plemel JR, Duncan G, Chen KW et al. A graded forceps crush
+spinal cord injurymodel in mice. J Neurotrauma 2008; 25:350–70.
+18 Guo Q, Li S, Su B. Expression of oligodendrocyte myelin
+glocoprotein and its receptor NgR after the injury of rat central
+nervous system. Neurosci Lett 2007; 422:103–8.
+19 Tecoma ES, Monyer H, Goldberg MP, Choi DW. Traumatic
+neuronal injury in vitro is attenuated by NMDA antagonists.
+Neuron 1989; 2:1541–5.
+20 Bilsland J, Rigby M, Young L, Harper S. A rapid method for
+semi-quantitative analysis of neurite outgrowth from chick
+DRG explants using image analysis. J Neurosci Methods 1999;
+92:75–85.
+21 Lee H, Whitfeld PL, Mackay CR. Receptors for complement
+C5a The importance of C5aR and the enigmatic role of C5L2.
+Immunol Cell Biol 2008; 86:153–60.
+22 Manthey HD, Woodruff TM, Taylor SM. Complement component
+5a (C5a). Int J Biochem Cell Biol 2009; 41:2114–7.
+23 Thundyil J, Pavlovski D, Hsieh YH et al. C5a receptor (CD88)
+inhibition improves hypothermia-induced neuroprotection in an
+in vitro ischemic model. Neuromolecular Med 2012; 14:30–9.
+24 Iyer A, Woodruff TM, Wu MC et al. Inhibition of inflammation
+and fibrosis by a complement C5a receptor antagonist in DOCA-
+salt hypertensive rats. J Cardiovasc Pharmacol 2011; 58:479–86.
+25 Guo Q, Cheng J, Zhang H et al. Expressions of C5a and its recep-
+tor CD88 after spinal cord injury in C3-deficient mice. Scand J
+Immunol 2012; 77:224–9.
+26 Bokisch VA, Muller-Eberhard HJ. Anaphylatoxin inactivator
+of human plasma: its isolation and characterization as a
+carboxypeptidase. J Clin Invest 1970; 49:2427–36.
+27 Oppermann M, Götze O. Plasma clearance of the human C5a
+anaphylatoxin by binding to leucocyte C5a receptors. Immunol-
+ogy 1994; 82:516–21.
+28 Scola AM, Johswich KO, Morgan BP, Klos A, Monk PN. The
+human complement fragment receptor, C5L2, is a recycling decoy
+receptor. Mol Immunol 2009; 46:1149–62.
+29 Vidal PM, Lemmens E, Geboes L, Vangansewinkel T, Nelissen S,
+Hendrix S. Late blocking of peripheral TNF-α is ineffective after
+spinal cord injury in mice. Immunobiology 2013; 218:281–4.
+30 Beck KD, Nguyen HX, Galvan MD, Salazar DL, Woodruff TM,
+Anderson AJ. Quantitative analysis of cellular inflammation after
+traumatic spinal cord injury: evidence for a multiphasic inflam-
+matory response in the acute to chronic environment. Brain 2010;
+133:433–47.
+31 Liang DY, Li X, Shi X et al. The complement component C5a
+receptor mediates pain and inflammation in a postsurgical pain
+model. Pain 2012; 153:366–72.
+32 Gasque P, Dean YD, McGreal EP, VanBeek J, Morgan BP. Comple-
+ment components of the innate immune system in health and
+disease in the CNS. Immunopharmacology 2000; 49:171–86.
+33 Monk PN, Scola AM, Madala P, Fairlie DP. Function, structure
+and therapeutic potential of complement C5a receptors. Br J
+Pharmacol 2007; 152:429–48.
+Delayed C5a administration post-SCI
+325© 2013 British Society for Immunology, Clinical and Experimental Immunology, 174: 318–325

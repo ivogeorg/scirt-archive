@@ -1,0 +1,992 @@
+T1	Gene 529 534	actin
+T2	Gene 612 646	importantactin regulatory proteins
+T3	Gene 648 651	ADF
+T4	Gene 652 659	Cofilin
+T5	Gene 694 715	actin retrograde flow
+T6	Gene 766 773	F-actin
+T7	Gene 795 798	ADF
+T8	Gene 799 806	Cofilin
+T9	Gene 923 930	Cofilin
+T10	Gene 1395 1400	actin
+T11	Gene 1557 1567	actin cyto
+T12	Gene 1612 1617	actin
+T13	Gene 1644 1654	actomyosin
+T14	Gene 1807 1812	actin
+T15	Gene 1946 1951	actin
+T16	Gene 2139 2142	Ena
+T17	Gene 2143 2147	VASP
+T18	Gene 2218 2221	Ena
+T19	Gene 2222 2226	Vasp
+T20	Gene 2237 2241	Mena
+T21	Gene 2242 2246	VASP
+T22	Gene 2247 2250	EVL
+T23	Gene 2380 2388	integrin
+T24	Gene 2477 2492	Ena/VASPArticle
+T25	Gene 2493 2496	ADF
+T26	Gene 2497 2504	Cofilin
+T27	Gene 2505 2513	Mediated
+T28	Gene 3658 3663	actin
+T29	Gene 3742 3747	actin
+T30	Gene 3861 3866	actin
+T31	Gene 4633 4638	actin
+T32	Gene 4939 4944	MAP2c
+T33	Gene 5051 5056	actin
+T34	Gene 5192 5210	actin cytoskeleton
+T35	Gene 5463 5468	Actin
+T36	Gene 5582 5585	GFP
+T37	Gene 5590 5593	EB3
+T38	Gene 5594 5601	mCherry
+T39	Gene 5858 5861	ADF
+T40	Gene 5862 5869	Cofilin
+T41	Gene 6086 6093	F-actin
+T42	Gene 6270 6280	actin fila
+T43	Gene 6385 6393	gelsolin
+T44	Gene 6395 6397	Lu
+T45	Gene 6450 6477	actin depolymerizing factor
+T46	Gene 6513 6518	actin
+T47	Gene 6700 6705	actin
+T48	Gene 6976 6981	Actin
+T49	Gene 7017 7022	actin
+T50	Gene 7149 7154	actin
+T51	Gene 7386 7397	ADF/Cofilin
+T52	Gene 7401 7409	Required
+T53	Gene 7414 7442	Neurite FormationAC proteins
+T54	Gene 7452 7457	actin
+T55	Gene 7508 7513	actin
+T56	Gene 7692 7715	lian AC family isoforms
+T57	Gene 7923 7930	Cofilin
+T58	Gene 8235 8259	actin filament modulator
+T59	Gene 8360 8365	actin
+T60	Gene 8631 8636	actin
+T61	Gene 8658 8661	ADF
+T62	Gene 8666 8673	Cofilin
+T63	Gene 8805 8812	F-actin
+T64	Gene 8930 8935	actin
+T65	Gene 9043 9048	actin
+T66	Gene 9091 9096	actin
+T67	Gene 9169 9172	GFP
+T68	Gene 9177 9180	EB3
+T69	Gene 9181 9188	mCherry
+T70	Gene 9258 9261	EB3
+T71	Gene 9678 9691	latrunculin B
+T72	Gene 10115 10122	Cofilin
+T73	Gene 10198 10205	F-actin
+T74	Gene 10303 10310	Cofilin
+T75	Gene 10450 10475	green fluorescent protein
+T76	Gene 10477 10480	GFP
+T77	Gene 10508 10513	actin
+T78	Gene 10669 10705	mCherry-tagged end-binding protein 3
+T79	Gene 10707 10710	EB3
+T80	Gene 10894 10899	actin
+T81	Gene 11162 11167	actin
+T82	Gene 11414 11419	actin
+T83	Gene 11499 11501	1A
+T84	Gene 11506 11509	S1A
+T85	Gene 11730 11737	F-actin
+T86	Gene 11810 11815	actin
+T87	Gene 11930 11937	ure S1B
+T88	Gene 11940 11945	Actin
+T89	Gene 12389 12401	bIII tubulin
+T90	Gene 12406 12413	F-actin
+T91	Gene 12553 12565	bIII tubulin
+T92	Gene 12570 12577	F-actin
+T93	Gene 12675 12682	Cofilin
+T94	Gene 12687 12724	phosphorylated Cofilin. Warmer colors
+T95	Gene 12937 12943	nestin
+T96	Gene 12944 12947	cre
+T97	Gene 13073 13080	Cofilin
+T98	Gene 13205 13212	F-actin
+T99	Gene 13214 13217	red
+T100	Gene 13222 13225	E17
+T101	Gene 13274 13277	ADF
+T102	Gene 13278 13285	Cofilin
+T103	Gene 13614 13617	E17
+T104	Gene 13706 13709	ADF
+T105	Gene 13710 13717	Cofilin
+T106	Gene 13862 13867	actin
+T107	Gene 14111 14116	actin
+T108	Gene 14376 14381	actin
+T109	Gene 14424 14429	actin
+T110	Gene 14588 14595	Cofilin
+T111	Gene 14596 14599	RFP
+T112	Gene 14815 14822	cofilin
+T113	Gene 14823 14845	phosphorylated cofilin
+T114	Gene 15022 15033	AC proteins
+T115	Gene 15148 15151	ADF
+T116	Gene 15152 15159	Cofilin
+T117	Gene 15272 15288	nM latrunculin B
+T118	Gene 15438 15451	latrunculin B
+T119	Gene 15603 15608	actin
+T120	Gene 15870 15875	actin
+T121	Gene 15956 15963	F-actin
+T122	Gene 16016 16034	jasplakinolide com
+T123	Gene 16166 16171	actin
+T124	Gene 16320 16327	F-actin
+T125	Gene 16618 16623	actin
+T126	Gene 16700 16703	ADF
+T127	Gene 16704 16711	Cofilin
+T128	Gene 16814 16819	actin
+T129	Gene 16882 16901	microtubule bundles
+T130	Gene 16941 16949	Proteins
+T131	Gene 16990 16993	ADF
+T132	Gene 16994 17001	Cofilin
+T133	Gene 17196 17199	E17
+T134	Gene 17273 17282	E17 AC KO
+T135	Gene 17750 17753	Cre
+T136	Gene 17843 17846	Cre
+T137	Gene 17879 17882	GFP
+T138	Gene 17884 17896	bIII tubulin
+T139	Gene 17902 17909	F-actin
+T140	Gene 18519 18522	ADF
+T141	Gene 18527 18534	Cofilin
+T142	Gene 18959 18962	S3A
+T143	Gene 18968 18971	S3B
+T144	Gene 19390 19398	ADF mono
+T145	Gene 19500 19503	S3A
+T146	Gene 19508 19511	S3B
+T147	Gene 19533 19567	ADF monoallele, cofilin monoallele
+T148	Gene 19853 19858	AC KO
+T149	Gene 19953 19956	S3A
+T150	Gene 19962 19965	S3B
+T151	Gene 20072 20077	AC KO
+T152	Gene 20123 20127	Cux1
+T153	Gene 20420 20423	Cre
+T154	Gene 20456 20459	Cre
+T155	Gene 20697 20700	ADF
+T156	Gene 20701 20708	Cofilin
+T157	Gene 20904 20925	Figure 3. ADF/Cofilin
+T158	Gene 20929 20937	Required
+T159	Gene 20942 20947	Actin
+T160	Gene 20987 20988	F
+T161	Gene 20989 20994	actin
+T162	Gene 21048 21049	F
+T163	Gene 21050 21055	actin
+T164	Gene 21268 21275	F-actin
+T165	Gene 21489 21492	ADF
+T166	Gene 21493 21500	Cofilin
+T167	Gene 21694 21697	Tau
+T168	Gene 21736 21739	Cre
+T169	Gene 22130 22159	cofilin flox/flox E14 embryos
+T170	Gene 22197 22212	Cre recombinase
+T171	Gene 22217 22243	yellow fluorescent protein
+T172	Gene 22245 22248	YFP
+T173	Gene 22253 22256	GFP
+T174	Gene 22308 22311	Cre
+T175	Gene 22512 22523	AC Proteins
+T176	Gene 22533 22534	F
+T177	Gene 22535 22540	Actin
+T178	Gene 22902 22905	S3A
+T179	Gene 22925 22932	F-actin
+T180	Gene 23061 23066	actin
+T181	Gene 23106 23113	F-actin
+T182	Gene 23166 23171	actin
+T183	Gene 23235 23242	F-actin
+T184	Gene 23264 23269	actin
+T185	Gene 23348 23353	actin
+T186	Gene 23436 23439	ADF
+T187	Gene 23440 23447	Cofilin
+T188	Gene 23560 23563	Cre
+T189	Gene 24391 24396	AC KO
+T190	Gene 24516 24519	ADF
+T191	Gene 24524 24531	Cofilin
+T192	Gene 24729 24740	AC proteins
+T193	Gene 24927 24934	F-actin
+T194	Gene 25033 25038	actin
+T195	Gene 25097 25104	Cofilin
+T196	Gene 25123 25130	Cofilin
+T197	Gene 25205 25212	Cofilin
+T198	Gene 25305 25310	AC KO
+T199	Gene 25379 25384	actin
+T200	Gene 25827 25834	F-actin
+T201	Gene 25836 25846	phalloidin
+T202	Gene 26161 26166	actin
+T203	Gene 26287 26298	AC proteins
+T204	Gene 26343 26345	AC
+T205	Gene 26419 26425	Fascin
+T206	Gene 26426 26429	GFP
+T207	Gene 26506 26526	radial actin bundles
+T208	Gene 26635 26656	filopodia-reminiscent
+T209	Gene 26759 26764	actin
+T210	Gene 27021 27036	actin filaments
+T211	Gene 27390 27393	Abi
+T212	Gene 27425 27437	WAVE complex
+T213	Gene 27481 27486	AC KO
+T214	Gene 27529 27533	WAVE
+T215	Gene 27534 27538	Arp2
+T216	Gene 27672 27679	F-actin
+T217	Gene 27779 27784	actin
+T218	Gene 27786 27789	red
+T219	Gene 27934 27939	actin
+T220	Gene 28649 28654	actin
+T221	Gene 28890 28895	actin
+T222	Gene 29044 29049	actin
+T223	Gene 29118 29129	AC proteins
+T224	Gene 29152 29159	F-actin
+T225	Gene 29213 29218	actin
+T226	Gene 29228 29231	ADF
+T227	Gene 29232 29239	Cofilin
+T228	Gene 29278 29285	F-Actin
+T229	Gene 29295 29300	Actin
+T230	Gene 29334 29341	F-actin
+T231	Gene 29406 29411	actin
+T232	Gene 29445 29450	actin
+T233	Gene 29675 29680	actin
+T234	Gene 29732 29741	GFP-actin
+T235	Gene 30018 30023	actin
+T236	Gene 30160 30163	GFP
+T237	Gene 30315 30330	actin filaments
+T238	Gene 30332 30335	red
+T239	Gene 30838 30843	actin
+T240	Gene 31028 31033	actin
+T241	Gene 31059 31066	F-actin
+T242	Gene 31329 31344	actin filaments
+T243	Gene 31537 31540	ADF
+T244	Gene 31541 31548	Cofilin
+T245	Gene 31830 31835	actin
+T246	Gene 31946 31951	actin
+T247	Gene 32228 32235	Cofilin
+T248	Gene 32435 32440	actin
+T249	Gene 32605 32611	Fascin
+T250	Gene 32623 32628	actin
+T251	Gene 32733 32738	actin
+T252	Gene 32801 32808	Cofilin
+T253	Gene 32852 32857	actin
+T254	Gene 32892 32897	Actin
+T255	Gene 32944 32949	AC KO
+T256	Gene 33125 33132	F-actin
+T257	Gene 33513 33516	EB3
+T258	Gene 33533 33554	microtubules grew out
+T259	Gene 33587 33592	actin
+T260	Gene 33620 33621	F
+T261	Gene 33622 33627	actin
+T262	Gene 33816 33821	actin
+T263	Gene 33971 34002	EB3-mCherry-tagged microtubules
+T264	Gene 34446 34453	F-actin
+T265	Gene 34497 34510	latrunculin B
+T266	Gene 34774 34779	actin
+T267	Gene 34827 34832	actin
+T268	Gene 34855 34868	latrunculin B
+T269	Gene 34897 34900	EB3
+T270	Gene 35017 35046	latrunculin B, cytochalasin D
+T271	Gene 35055 35060	actin
+T272	Gene 35341 35355	cytochalasin D
+T273	Gene 35451 35459	integrin
+T274	Gene 35535 35539	Mena
+T275	Gene 35540 35544	VASP
+T276	Gene 35673 35676	ADF
+T277	Gene 35677 35684	Cofilin
+T278	Gene 35720 35725	actin
+T279	Gene 36033 36044	AC Proteins
+T280	Gene 36116 36119	ADF
+T281	Gene 36124 36131	Cofilin
+T282	Gene 36175 36192	ADF depolymerizes
+T283	Gene 36238 36245	Cofilin
+T284	Gene 36367 36370	ADF
+T285	Gene 36375 36382	Cofilin
+T286	Gene 36536 36543	cofilin
+T287	Gene 36588 36602	ADF monoallele
+T288	Gene 36726 36729	S7A
+T289	Gene 36734 36737	S7B
+T290	Gene 36753 36771	cofilin monoallele
+T291	Gene 37027 37034	Cofilin
+T292	Gene 37198 37205	Cofilin
+T293	Gene 37325 37332	F-actin
+T294	Gene 37365 37368	ADF
+T295	Gene 37373 37380	Cofilin
+T296	Gene 37418 37423	actin
+T297	Gene 37660 37663	GFP
+T298	Gene 37683 37690	Cofilin
+T299	Gene 37712 37717	actin
+T300	Gene 37818 37823	actin
+T301	Gene 37915 37922	Cofilin
+T302	Gene 37979 37986	Cofilin
+T303	Gene 38023 38028	actin
+T304	Gene 38114 38121	F-actin
+T305	Gene 38172 38179	Cofilin
+T306	Gene 38197 38202	actin
+T307	Gene 38314 38321	Cofilin
+T308	Gene 38628 38633	actin
+T309	Gene 38748 38753	actin
+T310	Gene 38893 38903	actin fila
+T311	Gene 38938 38943	actin
+T312	Gene 39069 39074	actin
+T313	Gene 39168 39175	CofY82F
+T314	Gene 39523 39530	Cofilin
+T315	Gene 39548 39553	Actin
+T316	Gene 39761 39766	actin
+T317	Gene 39930 39933	ADF
+T318	Gene 39934 39941	Cofilin
+T319	Gene 40069 40074	actin
+T320	Gene 40126 40137	AC proteins
+T321	Gene 40174 40177	ADF
+T322	Gene 40178 40185	Cofilin
+T323	Gene 40193 40198	actin
+T324	Gene 40325 40332	F-actin
+T325	Gene 40430 40441	AC proteins
+T326	Gene 40516 40526	actin fila
+T327	Gene 40599 40602	ATP
+T328	Gene 40603 40608	actin
+T329	Gene 40638 40647	ADP-actin
+T330	Gene 40728 40739	AC proteins
+T331	Gene 40796 40801	actin
+T332	Gene 40824 40829	actin
+T333	Gene 40858 40861	Pac
+T334	Gene 40862 40865	Man
+T335	Gene 41057 41058	F
+T336	Gene 41059 41064	actin
+T337	Gene 41084 41095	AC proteins
+T338	Gene 41124 41127	ADF
+T339	Gene 41128 41135	Cofilin
+T340	Gene 41177 41182	actin
+T341	Gene 41295 41306	ADF/Cofilin
+T342	Gene 41399 41410	ADF/Cofilin
+T343	Gene 41421 41426	Actin
+T344	Gene 41490 41495	actin
+T345	Gene 41643 41648	actin
+T346	Gene 41688 41693	actin
+T347	Gene 41909 41914	actin
+T348	Gene 41994 42003	myosin II
+T349	Gene 42005 42012	Arp 2/3
+T350	Gene 42018 42021	Ena
+T351	Gene 42022 42026	VASP
+T352	Gene 42052 42057	actin
+T353	Gene 42264 42269	actin
+T354	Gene 42577 42588	AC proteins
+T355	Gene 42611 42617	Arp2/3
+T356	Gene 42706 42717	AC proteins
+T357	Gene 42732 42753	actin retrograde flow
+T358	Gene 42855 42860	actin
+T359	Gene 43022 43027	actin
+T360	Gene 43168 43173	actin
+T361	Gene 43267 43272	actin
+T362	Gene 43526 43530	FRAP
+T363	Gene 43556 43559	GFP
+T364	Gene 43560 43565	actin
+T365	Gene 43884 43891	Cofilin
+T366	Gene 43892 43894	DD
+T367	Gene 43934 43939	actin
+T368	Gene 44019 44024	actin
+T369	Gene 44063 44068	actin
+T370	Gene 44091 44096	actin
+T371	Gene 44160 44165	actin
+T372	Gene 44237 44242	actin
+T373	Gene 44351 44356	actin
+T374	Gene 44423 44428	actin
+T375	Gene 44488 44495	Cofilin
+T376	Gene 44546 44551	actin
+T377	Gene 44596 44601	actin
+T378	Gene 44656 44663	F-actin
+T379	Gene 44849 44854	actin
+T380	Gene 44923 44926	ADF
+T381	Gene 44927 44934	Cofilin
+T382	Gene 44946 44964	Actin Cytoskeleton
+T383	Gene 45225 45230	actin
+T384	Gene 45674 45679	actin
+T385	Gene 45974 45979	actin
+T386	Gene 46065 46070	actin
+T387	Gene 46337 46342	actin
+T388	Gene 46645 46650	actin
+T389	Gene 46817 46822	Actin
+T390	Gene 46907 46912	AC KO
+T391	Gene 47065 47068	EB3
+T392	Gene 47112 47115	EB3
+T393	Gene 47179 47182	EB3
+T394	Gene 47184 47187	EB3
+T395	Gene 47263 47274	soma. AC KO
+T396	Gene 47431 47434	EB3
+T397	Gene 47435 47442	mCherry
+T398	Gene 47450 47454	soma
+T399	Gene 47459 47464	actin
+T400	Gene 47557 47560	ADF
+T401	Gene 47561 47568	Cofilin
+T402	Gene 47603 47666	1102 Neuron 76, 1091–1107, December 20, 2012 ª2012 Elsevier Inc
+T403	Gene 47668 47673	actin
+T404	Gene 47787 47788	F
+T405	Gene 47789 47794	actin
+T406	Gene 47893 47898	actin
+T407	Gene 47944 47949	actin
+T408	Gene 47967 47972	actin
+T409	Gene 47997 48002	actin
+T410	Gene 48051 48056	actin
+T411	Gene 48213 48218	actin
+T412	Gene 48407 48410	ADF
+T413	Gene 48411 48418	Cofilin
+T414	Gene 48624 48639	Cre recombinase
+T415	Gene 48641 48644	Cre
+T416	Gene 48780 48783	E17
+T417	Gene 48945 48948	ADF
+T418	Gene 48949 48956	Cofilin
+T419	Gene 49071 49076	actin
+T420	Gene 49330 49341	AC proteins
+T421	Gene 49398 49403	actin
+T422	Gene 49476 49483	F-actin
+T423	Gene 49578 49589	AC proteins
+T424	Gene 49633 49634	F
+T425	Gene 49635 49640	actin
+T426	Gene 49757 49760	ADF
+T427	Gene 49761 49768	Cofilin
+T428	Gene 49773 49778	Brain
+T429	Gene 50113 50120	Cofilin
+T430	Gene 50542 50559	microtubule-actin
+T431	Gene 50705 50710	Actin
+T432	Gene 50731 50744	latrunculin B
+T433	Gene 50746 50751	Lat B
+T434	Gene 50799 50802	GFP
+T435	Gene 50807 50810	EB3
+T436	Gene 50877 50880	EB3
+T437	Gene 50882 50885	EB3
+T438	Gene 50922 50927	actin
+T439	Gene 50976 50979	EB3
+T440	Gene 51156 51159	EB3
+T441	Gene 51174 51177	EB3
+T442	Gene 51330 51335	Actin
+T443	Gene 51455 51458	EB3
+T444	Gene 51485 51490	Actin
+T445	Gene 51512 51517	Lat B
+T446	Gene 51661 51681	Lat B-, cytochalasin
+T447	Gene 52187 52194	Cofilin
+T448	Gene 52195 52198	RFP
+T449	Gene 52695 52700	actin
+T450	Gene 52811 52814	GFP
+T451	Gene 52822 52825	EB3
+T452	Gene 52826 52833	mCherry
+T453	Gene 52847 52852	actin
+T454	Gene 53331 53336	Actin
+T455	Gene 53381 53386	actin
+T456	Gene 53451 53464	latrunculin B
+T457	Gene 53614 53617	Lat
+T458	Gene 53711 53714	lin
+T459	Gene 53786 53797	EB3-mCherry
+T460	Gene 54088 54093	Actin
+T461	Gene 54098 54102	bIII
+T462	Gene 54103 54110	tubulin
+T463	Gene 54388 54404	Actin Retrograde
+T464	Gene 54429 54432	RFP
+T465	Gene 54437 54449	bIII-tubulin
+T466	Gene 54536 54539	ADF
+T467	Gene 54543 54550	Cofilin
+T468	Gene 54706 54709	RFP
+T469	Gene 54813 54816	RFP
+T470	Gene 55038 55041	RFP
+T471	Gene 55113 55118	Actin
+T472	Gene 55167 55174	Cofilin
+T473	Gene 55386 55393	Cofilin
+T474	Gene 55394 55397	RFP
+T475	Gene 55542 55549	F-actin
+T476	Gene 55727 55732	actin
+T477	Gene 55921 55924	ADF
+T478	Gene 55925 55932	Cofilin
+T479	Gene 56067 56074	Cofilin
+T480	Gene 56171 56176	Actin
+T481	Gene 56376 56379	RFP
+T482	Gene 56402 56410	aCofY82F
+T483	Gene 56411 56414	RFP
+T484	Gene 56533 56540	F-actin
+T485	Gene 56542 56545	See
+T486	Gene 56628 56631	ADF
+T487	Gene 56632 56639	Cofilin
+T488	Gene 56795 56800	actin
+T489	Gene 57174 57179	actin
+T490	Gene 57524 57527	Ena
+T491	Gene 57528 57532	VASP
+T492	Gene 57720 57729	N-cofilin
+T493	Gene 57894 57897	ADF
+T494	Gene 57898 57905	cofilin
+T495	Gene 57993 57996	ADF
+T496	Gene 57997 58004	Cofilin
+T497	Gene 58071 58076	actin
+T498	Gene 58147 58150	RFP
+T499	Gene 58155 58167	bIII-tubulin
+T500	Gene 58922 58932	Ralf Zenke
+T501	Gene 58934 58946	Ireen König
+T502	Gene 59107 59120	Mark Hübener
+T503	Gene 59477 59480	Max
+T504	Gene 59894 59899	actin
+T505	Gene 59976 59979	ADF
+T506	Gene 59980 59987	cofilin
+T507	Gene 60485 60488	ADF
+T508	Gene 60489 60496	Cofilin
+T509	Gene 60523 60526	Pac
+T510	Gene 60527 60530	Man
+T511	Gene 60548 60553	actin
+T512	Gene 61083 61088	actin
+T513	Gene 61268 61295	Actin depolymerizing factor
+T514	Gene 61297 61300	ADF
+T515	Gene 61301 61308	cofilin
+T516	Gene 61365 61370	actin
+T517	Gene 61510 61539	actin bundling protein fascin
+T518	Gene 61762 61765	Nat
+T519	Gene 61883 61888	actin
+T520	Gene 62034 62062	tubule-associated protein 2c
+T521	Gene 62324 62331	Cofilin
+T522	Gene 62355 62359	Pak1
+T523	Gene 62437 62442	actin
+T524	Gene 63065 63070	Actin
+T525	Gene 63117 63121	MAP2
+T526	Gene 63326 63337	CofY82F-RFP
+T527	Gene 63413 63424	CofY82F-RFP
+T528	Gene 63648 63653	actin
+T529	Gene 63676 63683	F-actin
+T530	Gene 63814 63821	F-actin
+T531	Gene 63895 63904	Slingshot
+T532	Gene 63950 63957	cofilin
+T533	Gene 64094 64099	actin
+T534	Gene 64265 64270	actin
+T535	Gene 64484 64489	Cdc42
+T536	Gene 64718 64727	Myosin II
+T537	Gene 64842 64849	Guérin
+T538	Gene 64934 64939	Actin
+T539	Gene 65074 65081	cofilin
+T540	Gene 65141 65146	actin
+T541	Gene 65210 65215	actin
+T542	Gene 65295 65300	actin
+T543	Gene 65322 65329	cofilin
+T544	Gene 65385 65392	cofilin
+T545	Gene 65460 65463	ADF
+T546	Gene 65464 65471	Cofilin
+T547	Gene 65859 65864	Actin
+T548	Gene 65943 65950	F-actin
+T549	Gene 66158 66169	Rho GTPases
+T550	Gene 66173 66178	Smith
+T551	Gene 66413 66416	Cre
+T552	Gene 66527 66541	Arp2/3 complex
+T553	Gene 66836 66839	Ena
+T554	Gene 66840 66844	VASP
+T555	Gene 67009 67014	actin
+T556	Gene 67601 67606	Actin
+T557	Gene 67633 67638	reins
+T558	Gene 68194 68199	actin
+T559	Gene 68336 68351	actin filaments
+T560	Gene 68355 68390	actin depolymerizing factor/cofilin
+T561	Gene 68868 68873	actin
+T562	Gene 69020 69025	actin
+T563	Gene 69397 69401	Rac1
+T564	Gene 69446 69458	WAVE complex
+T565	Species 2186 2191	mouse
+T566	Species 7692 7696	lian
+T567	Species 15066 15070	mice
+T568	Species 18213 18217	mice
+T569	Species 18256 18260	mice
+T570	Species 18538 18543	mouse
+T571	Species 19704 19708	mice
+T572	Species 34901 34907	comets
+T573	Species 40862 40865	Man
+T574	Species 48378 48382	Mice
+T575	Species 48475 48479	mice
+T576	Species 48600 48604	mice
+T577	Species 48784 48789	mouse
+T578	Species 49928 49933	human
+T579	Species 50260 50265	mouse
+T580	Species 50438 50443	human
+T581	Species 51217 51223	comets
+T582	Species 51459 51465	comets
+T583	Species 52022 52032	Adenovirus
+T584	Species 52214 52224	adenovirus
+T585	Species 52340 52345	mouse
+T586	Species 52635 52650	transgenic mice
+T587	Species 60527 60530	Man
+T588	Species 65599 65603	mice
+T589	Species 67352 67356	mice
+T590	Species 68174 68178	mice
+T591	Species 68697 68702	mouse
+T592	InteractionKeyword 231 240	mediating
+T593	InteractionKeyword 245 254	signaling
+T594	InteractionKeyword 348 354	depend
+T595	InteractionKeyword 415 424	transform
+T596	InteractionKeyword 558 564	drives
+T597	InteractionKeyword 674 682	required
+T598	InteractionKeyword 683 690	control
+T599	InteractionKeyword 732 736	form
+T600	InteractionKeyword 961 966	drive
+T601	InteractionKeyword 1426 1434	regulate
+T602	InteractionKeyword 1672 1680	generate
+T603	InteractionKeyword 1845 1853	involved
+T604	InteractionKeyword 1937 1945	regulate
+T605	InteractionKeyword 1983 1993	facilitate
+T606	InteractionKeyword 2389 2398	signaling
+T607	InteractionKeyword 3436 3444	initiate
+T608	InteractionKeyword 3734 3741	complex
+T609	InteractionKeyword 3757 3764	control
+T610	InteractionKeyword 3815 3823	involved
+T611	InteractionKeyword 3851 3860	augmented
+T612	InteractionKeyword 3909 3919	facilitate
+T613	InteractionKeyword 5118 5124	raised
+T614	InteractionKeyword 6132 6142	facilitate
+T615	InteractionKeyword 6212 6216	form
+T616	InteractionKeyword 6321 6327	affect
+T617	InteractionKeyword 6504 6512	enhances
+T618	InteractionKeyword 6687 6699	facilitating
+T619	InteractionKeyword 6811 6820	regulates
+T620	InteractionKeyword 6839 6846	driving
+T621	InteractionKeyword 7443 7451	increase
+T622	InteractionKeyword 7500 7507	enhance
+T623	InteractionKeyword 7589 7597	regulate
+T624	InteractionKeyword 7761 7770	expressed
+T625	InteractionKeyword 7953 7960	reduces
+T626	InteractionKeyword 8093 8100	affects
+T627	InteractionKeyword 8287 8296	regulates
+T628	InteractionKeyword 8350 8359	increased
+T629	InteractionKeyword 8478 8486	required
+T630	InteractionKeyword 8527 8533	follow
+T631	InteractionKeyword 8538 8542	lead
+T632	InteractionKeyword 8697 8705	resulted
+T633	InteractionKeyword 9009 9016	leading
+T634	InteractionKeyword 9081 9087	linked
+T635	InteractionKeyword 9967 9977	attenuates
+T636	InteractionKeyword 9986 9990	form
+T637	InteractionKeyword 11905 11914	augmented
+T638	InteractionKeyword 12687 12701	phosphorylated
+T639	InteractionKeyword 13817 13821	form
+T640	InteractionKeyword 14180 14189	increased
+T641	InteractionKeyword 14331 14338	leading
+T642	InteractionKeyword 14577 14587	expressing
+T643	InteractionKeyword 14604 14613	increased
+T644	InteractionKeyword 14656 14663	express
+T645	InteractionKeyword 14723 14730	control
+T646	InteractionKeyword 14886 14894	elevated
+T647	InteractionKeyword 15056 15065	generated
+T648	InteractionKeyword 15338 15345	induced
+T649	InteractionKeyword 15361 15369	decrease
+T650	InteractionKeyword 15560 15567	induced
+T651	InteractionKeyword 15705 15712	induces
+T652	InteractionKeyword 15800 15807	augment
+T653	InteractionKeyword 15852 15861	determine
+T654	InteractionKeyword 16044 16053	abolished
+T655	InteractionKeyword 16296 16305	disrupted
+T656	InteractionKeyword 16447 16451	form
+T657	InteractionKeyword 16462 16471	resulting
+T658	InteractionKeyword 16494 16502	increase
+T659	InteractionKeyword 16802 16810	increase
+T660	InteractionKeyword 16848 16860	facilitating
+T661	InteractionKeyword 17058 17065	reduced
+T662	InteractionKeyword 17541 17547	formed
+T663	InteractionKeyword 17555 17562	control
+T664	InteractionKeyword 17724 17731	control
+T665	InteractionKeyword 17825 17832	control
+T666	InteractionKeyword 18503 18513	recognizes
+T667	InteractionKeyword 18840 18847	control
+T668	InteractionKeyword 19257 19266	disrupted
+T669	InteractionKeyword 19999 20006	effects
+T670	InteractionKeyword 20352 20359	control
+T671	InteractionKeyword 21087 21096	increased
+T672	InteractionKeyword 21304 21312	increase
+T673	InteractionKeyword 21730 21735	drive
+T674	InteractionKeyword 22071 22077	caused
+T675	InteractionKeyword 22186 22196	expressing
+T676	InteractionKeyword 22323 22331	resulted
+T677	InteractionKeyword 22335 22342	reduced
+T678	InteractionKeyword 22359 22366	altered
+T679	InteractionKeyword 22681 22691	regulating
+T680	InteractionKeyword 22828 22836	increase
+T681	InteractionKeyword 22913 22921	increase
+T682	InteractionKeyword 23697 23708	dissociated
+T683	InteractionKeyword 23988 23996	increase
+T684	InteractionKeyword 24198 24204	change
+T685	InteractionKeyword 24432 24440	changing
+T686	InteractionKeyword 24465 24469	form
+T687	InteractionKeyword 24588 24596	decrease
+T688	InteractionKeyword 25108 25122	phosphorylated
+T689	InteractionKeyword 25293 25301	decrease
+T690	InteractionKeyword 25406 25415	decreased
+T691	InteractionKeyword 25486 25493	leading
+T692	InteractionKeyword 25516 25525	disrupted
+T693	InteractionKeyword 25662 25669	leading
+T694	InteractionKeyword 25743 25750	leading
+T695	InteractionKeyword 25923 25930	leading
+T696	InteractionKeyword 26016 26023	leading
+T697	InteractionKeyword 26213 26219	formed
+T698	InteractionKeyword 26587 26593	signal
+T699	InteractionKeyword 26984 26989	binds
+T700	InteractionKeyword 27296 27303	leading
+T701	InteractionKeyword 27312 27321	disrupted
+T702	InteractionKeyword 27430 27437	complex
+T703	InteractionKeyword 27575 27582	results
+T704	InteractionKeyword 27680 27689	increases
+T705	InteractionKeyword 27888 27895	results
+T706	InteractionKeyword 28215 28222	results
+T707	InteractionKeyword 28395 28402	results
+T708	InteractionKeyword 29139 29147	regulate
+T709	InteractionKeyword 29314 29323	increased
+T710	InteractionKeyword 29833 29837	form
+T711	InteractionKeyword 29978 29985	express
+T712	InteractionKeyword 29994 30004	expressing
+T713	InteractionKeyword 30007 30014	changes
+T714	InteractionKeyword 31067 31073	causes
+T715	InteractionKeyword 31935 31942	changes
+T716	InteractionKeyword 32039 32046	altered
+T717	InteractionKeyword 32066 32076	controlled
+T718	InteractionKeyword 32087 32093	fusing
+T719	InteractionKeyword 32118 32125	targets
+T720	InteractionKeyword 32210 32213	led
+T721	InteractionKeyword 32478 32484	formed
+T722	InteractionKeyword 32520 32529	increased
+T723	InteractionKeyword 33042 33046	form
+T724	InteractionKeyword 33162 33169	affects
+T725	InteractionKeyword 33212 33216	form
+T726	InteractionKeyword 33745 33751	result
+T727	InteractionKeyword 34123 34132	resulting
+T728	InteractionKeyword 34139 34148	increased
+T729	InteractionKeyword 34582 34591	increased
+T730	InteractionKeyword 35086 35095	increased
+T731	InteractionKeyword 35297 35307	attenuated
+T732	InteractionKeyword 35330 35337	effects
+T733	InteractionKeyword 35441 35450	stimulate
+T734	InteractionKeyword 35460 35469	signaling
+T735	InteractionKeyword 35987 35995	generate
+T736	InteractionKeyword 36324 36334	determined
+T737	InteractionKeyword 36614 36622	resulted
+T738	InteractionKeyword 36670 36678	increase
+T739	InteractionKeyword 37106 37115	resulting
+T740	InteractionKeyword 37484 37493	increased
+T741	InteractionKeyword 37702 37711	increased
+T742	InteractionKeyword 37808 37817	increased
+T743	InteractionKeyword 37944 37955	stimulating
+T744	InteractionKeyword 38015 38022	driving
+T745	InteractionKeyword 38091 38100	increased
+T746	InteractionKeyword 38145 38154	increased
+T747	InteractionKeyword 38184 38196	facilitating
+T748	InteractionKeyword 38622 38627	alter
+T749	InteractionKeyword 38678 38685	leading
+T750	InteractionKeyword 38703 38711	increase
+T751	InteractionKeyword 39059 39068	increased
+T752	InteractionKeyword 39263 39272	increased
+T753	InteractionKeyword 39650 39660	expressing
+T754	InteractionKeyword 40091 40097	driven
+T755	InteractionKeyword 40186 40192	drives
+T756	InteractionKeyword 40219 40228	regulates
+T757	InteractionKeyword 40757 40761	bind
+T758	InteractionKeyword 40900 40908	promoted
+T759	InteractionKeyword 40923 40930	leading
+T760	InteractionKeyword 41711 41718	leading
+T761	InteractionKeyword 41839 41849	regulating
+T762	InteractionKeyword 41955 41963	involved
+T763	InteractionKeyword 42044 42051	reduces
+T764	InteractionKeyword 42253 42263	regulating
+T765	InteractionKeyword 42726 42731	drive
+T766	InteractionKeyword 42790 42799	influence
+T767	InteractionKeyword 42887 42896	regulated
+T768	InteractionKeyword 42934 42941	leading
+T769	InteractionKeyword 43752 43762	expressing
+T770	InteractionKeyword 43773 43780	control
+T771	InteractionKeyword 44081 44090	increased
+T772	InteractionKeyword 44182 44186	lead
+T773	InteractionKeyword 44342 44350	regulate
+T774	InteractionKeyword 44412 44422	increasing
+T775	InteractionKeyword 44621 44627	driven
+T776	InteractionKeyword 44841 44848	enhance
+T777	InteractionKeyword 45040 45046	linked
+T778	InteractionKeyword 45182 45189	results
+T779	InteractionKeyword 45470 45478	decrease
+T780	InteractionKeyword 45813 45823	attenuated
+T781	InteractionKeyword 46329 46336	reduced
+T782	InteractionKeyword 46378 46388	expressing
+T783	InteractionKeyword 46553 46563	expressing
+T784	InteractionKeyword 46630 46637	changes
+T785	InteractionKeyword 47038 47048	expressing
+T786	InteractionKeyword 47689 47697	prevents
+T787	InteractionKeyword 48259 48266	prevent
+T788	InteractionKeyword 48510 48520	expressing
+T789	InteractionKeyword 49261 49267	induce
+T790	InteractionKeyword 49497 49507	facilitate
+T791	InteractionKeyword 49659 49667	directed
+T792	InteractionKeyword 49703 49710	leading
+T793	InteractionKeyword 49816 49823	effects
+T794	InteractionKeyword 50039 50045	linked
+T795	InteractionKeyword 50581 50589	involved
+T796	InteractionKeyword 50753 50762	increases
+T797	InteractionKeyword 50780 50790	expressing
+T798	InteractionKeyword 51054 51063	increased
+T799	InteractionKeyword 51518 51523	leads
+T800	InteractionKeyword 51561 51565	form
+T801	InteractionKeyword 52206 52213	control
+T802	InteractionKeyword 52771 52779	controls
+T803	InteractionKeyword 53775 53785	expressing
+T804	InteractionKeyword 54817 54823	signal
+T805	InteractionKeyword 55282 55289	control
+T806	InteractionKeyword 55316 55323	control
+T807	InteractionKeyword 55769 55776	control
+T808	InteractionKeyword 56505 56511	follow
+T809	InteractionKeyword 56835 56841	formed
+T810	InteractionKeyword 57185 57195	determined
+T811	InteractionKeyword 57733 57743	associated
+T812	InteractionKeyword 57793 57800	control
+T813	InteractionKeyword 58102 58109	control
+T814	InteractionKeyword 58194 58204	expressing
+T815	InteractionKeyword 58599 58606	directs
+T816	InteractionKeyword 59756 59764	controls
+T817	InteractionKeyword 60086 60093	signals
+T818	InteractionKeyword 60417 60425	regulate
+T819	InteractionKeyword 60506 60511	binds
+T820	InteractionKeyword 60538 60547	increases
+T821	InteractionKeyword 60567 60578	facilitates
+T822	InteractionKeyword 60620 60627	leading
+T823	InteractionKeyword 60718 60728	attenuated
+T824	InteractionKeyword 61310 61318	enhances
+T825	InteractionKeyword 62360 62369	regulates
+T826	InteractionKeyword 62644 62652	required
+T827	InteractionKeyword 63088 63095	induces
+T828	InteractionKeyword 63458 63465	results
+T829	InteractionKeyword 63688 63696	promotes
+T830	InteractionKeyword 64104 64111	promote
+T831	InteractionKeyword 64490 64499	regulates
+T832	InteractionKeyword 64969 64977	mediated
+T833	InteractionKeyword 65162 65170	affected
+T834	InteractionKeyword 65526 65535	targeting
+T835	InteractionKeyword 65927 65936	promoting
+T836	InteractionKeyword 66534 66541	complex
+T837	InteractionKeyword 68391 68399	controls
+T838	InteractionKeyword 69191 69196	leads
+T839	InteractionKeyword 69402 69411	regulates
+T840	InteractionKeyword 69451 69458	complex
+R841	Partner1 Arg1:T599 Arg2:T3
+R842	Partner2 Arg1:T599 Arg2:T4
+R843	Partner1 Arg1:T602 Arg2:T13
+R844	Partner2 Arg1:T602 Arg2:T11
+R845	Partner1 Arg1:T615 Arg2:T39
+R846	Partner2 Arg1:T615 Arg2:T40
+R847	Partner1 Arg1:T616 Arg2:T42
+R848	Partner2 Arg1:T616 Arg2:T43
+R849	Partner1 Arg1:T617 Arg2:T45
+R850	Partner2 Arg1:T617 Arg2:T46
+R851	Partner1 Arg1:T623 Arg2:T51
+R852	Partner2 Arg1:T623 Arg2:T52
+R853	Partner1 Arg1:T632 Arg2:T61
+R854	Partner2 Arg1:T632 Arg2:T62
+R855	Partner1 Arg1:T634 Arg2:T65
+R856	Partner2 Arg1:T634 Arg2:T66
+R857	Partner1 Arg1:T637 Arg2:T87
+R858	Partner2 Arg1:T637 Arg2:T85
+R859	Partner1 Arg1:T639 Arg2:T106
+R860	Partner2 Arg1:T639 Arg2:T103
+R861	Partner1 Arg1:T641 Arg2:T109
+R862	Partner2 Arg1:T641 Arg2:T108
+R863	Partner1 Arg1:T643 Arg2:T110
+R864	Partner2 Arg1:T643 Arg2:T111
+R865	Partner1 Arg1:T646 Arg2:T112
+R866	Partner2 Arg1:T646 Arg2:T113
+R867	Partner1 Arg1:T653 Arg2:T120
+R868	Partner2 Arg1:T653 Arg2:T121
+R869	Partner1 Arg1:T659 Arg2:T128
+R870	Partner2 Arg1:T659 Arg2:T126
+R871	Partner1 Arg1:T663 Arg2:T138
+R872	Partner2 Arg1:T663 Arg2:T135
+R873	Partner1 Arg1:T666 Arg2:T141
+R874	Partner2 Arg1:T666 Arg2:T140
+R875	Partner1 Arg1:T671 Arg2:T163
+R876	Partner2 Arg1:T671 Arg2:T162
+R877	Partner1 Arg1:T673 Arg2:T167
+R878	Partner2 Arg1:T673 Arg2:T168
+R879	Partner1 Arg1:T675 Arg2:T170
+R880	Partner2 Arg1:T675 Arg2:T173
+R881	Partner1 Arg1:T679 Arg2:T176
+R882	Partner2 Arg1:T679 Arg2:T177
+R883	Partner1 Arg1:T687 Arg2:T190
+R884	Partner2 Arg1:T687 Arg2:T191
+R885	Partner1 Arg1:T688 Arg2:T195
+R886	Partner2 Arg1:T688 Arg2:T196
+R887	Partner1 Arg1:T698 Arg2:T208
+R888	Partner2 Arg1:T698 Arg2:T205
+R889	Partner1 Arg1:T702 Arg2:T211
+R890	Partner2 Arg1:T702 Arg2:T212
+R891	Partner1 Arg1:T708 Arg2:T224
+R892	Partner2 Arg1:T708 Arg2:T225
+R893	Partner1 Arg1:T709 Arg2:T227
+R894	Partner2 Arg1:T709 Arg2:T228
+R895	Partner1 Arg1:T715 Arg2:T245
+R896	Partner2 Arg1:T715 Arg2:T246
+R897	Partner1 Arg1:T721 Arg2:T250
+R898	Partner2 Arg1:T721 Arg2:T248
+R899	Partner1 Arg1:T723 Arg2:T254
+R900	Partner2 Arg1:T723 Arg2:T255
+R901	Partner1 Arg1:T729 Arg2:T266
+R902	Partner2 Arg1:T729 Arg2:T265
+R903	Partner1 Arg1:T730 Arg2:T270
+R904	Partner2 Arg1:T730 Arg2:T271
+R905	Partner1 Arg1:T733 Arg2:T275
+R906	Partner2 Arg1:T733 Arg2:T273
+R907	Partner1 Arg1:T736 Arg2:T285
+R908	Partner2 Arg1:T736 Arg2:T284
+R909	Partner1 Arg1:T737 Arg2:T288
+R910	Partner2 Arg1:T737 Arg2:T289
+R911	Partner1 Arg1:T741 Arg2:T298
+R912	Partner2 Arg1:T741 Arg2:T299
+R913	Partner1 Arg1:T743 Arg2:T301
+R914	Partner2 Arg1:T743 Arg2:T302
+R915	Partner1 Arg1:T747 Arg2:T304
+R916	Partner2 Arg1:T747 Arg2:T305
+R917	Partner1 Arg1:T748 Arg2:T308
+R918	Partner2 Arg1:T748 Arg2:T309
+R919	Partner1 Arg1:T751 Arg2:T311
+R920	Partner2 Arg1:T751 Arg2:T312
+R921	Partner1 Arg1:T753 Arg2:T314
+R922	Partner2 Arg1:T753 Arg2:T315
+R923	Partner1 Arg1:T754 Arg2:T320
+R924	Partner2 Arg1:T754 Arg2:T317
+R925	Partner1 Arg1:T755 Arg2:T323
+R926	Partner2 Arg1:T755 Arg2:T321
+R927	Partner1 Arg1:T759 Arg2:T330
+R928	Partner2 Arg1:T759 Arg2:T333
+R929	Partner1 Arg1:T760 Arg2:T346
+R930	Partner2 Arg1:T760 Arg2:T345
+R931	Partner1 Arg1:T763 Arg2:T352
+R932	Partner2 Arg1:T763 Arg2:T349
+R933	Partner1 Arg1:T765 Arg2:T356
+R934	Partner2 Arg1:T765 Arg2:T357
+R935	Partner1 Arg1:T767 Arg2:T359
+R936	Partner2 Arg1:T767 Arg2:T358
+R937	Partner1 Arg1:T771 Arg2:T368
+R938	Partner2 Arg1:T771 Arg2:T365
+R939	Partner1 Arg1:T772 Arg2:T371
+R940	Partner2 Arg1:T772 Arg2:T372
+R941	Partner1 Arg1:T773 Arg2:T373
+R942	Partner2 Arg1:T773 Arg2:T374
+R943	Partner1 Arg1:T775 Arg2:T378
+R944	Partner2 Arg1:T775 Arg2:T377
+R945	Partner1 Arg1:T777 Arg2:T381
+R946	Partner2 Arg1:T777 Arg2:T382
+R947	Partner1 Arg1:T786 Arg2:T400
+R948	Partner2 Arg1:T786 Arg2:T403
+R949	Partner1 Arg1:T787 Arg2:T413
+R950	Partner2 Arg1:T787 Arg2:T414
+R951	Partner1 Arg1:T790 Arg2:T420
+R952	Partner2 Arg1:T790 Arg2:T421
+R953	Partner1 Arg1:T791 Arg2:T423
+R954	Partner2 Arg1:T791 Arg2:T424
+R955	Partner1 Arg1:T793 Arg2:T426
+R956	Partner2 Arg1:T793 Arg2:T427
+R957	Partner1 Arg1:T796 Arg2:T432
+R958	Partner2 Arg1:T796 Arg2:T435
+R959	Partner1 Arg1:T798 Arg2:T439
+R960	Partner2 Arg1:T798 Arg2:T440
+R961	Partner1 Arg1:T799 Arg2:T445
+R962	Partner2 Arg1:T799 Arg2:T443
+R963	Partner1 Arg1:T801 Arg2:T448
+R964	Partner2 Arg1:T801 Arg2:T447
+R965	Partner1 Arg1:T802 Arg2:T451
+R966	Partner2 Arg1:T802 Arg2:T452
+R967	Partner1 Arg1:T805 Arg2:T474
+R968	Partner2 Arg1:T805 Arg2:T473
+R969	Partner1 Arg1:T809 Arg2:T487
+R970	Partner2 Arg1:T809 Arg2:T488
+R971	Partner1 Arg1:T813 Arg2:T496
+R972	Partner2 Arg1:T813 Arg2:T497
+R973	Partner1 Arg1:T814 Arg2:T499
+R974	Partner2 Arg1:T814 Arg2:T498
+R975	Partner1 Arg1:T819 Arg2:T509
+R976	Partner2 Arg1:T819 Arg2:T510
+R977	Partner1 Arg1:T824 Arg2:T515
+R978	Partner2 Arg1:T824 Arg2:T516
+R979	Partner1 Arg1:T825 Arg2:T522
+R980	Partner2 Arg1:T825 Arg2:T523
+R981	Partner1 Arg1:T827 Arg2:T525
+R982	Partner2 Arg1:T827 Arg2:T524
+R983	Partner1 Arg1:T829 Arg2:T528
+R984	Partner2 Arg1:T829 Arg2:T529
+R985	Partner1 Arg1:T833 Arg2:T541
+R986	Partner2 Arg1:T833 Arg2:T539
+R987	Partner1 Arg1:T835 Arg2:T547
+R988	Partner2 Arg1:T835 Arg2:T548
+R989	Partner1 Arg1:T837 Arg2:T560
+R990	Partner2 Arg1:T837 Arg2:T559
+R991	Partner1 Arg1:T839 Arg2:T563
+R992	Partner2 Arg1:T839 Arg2:T564

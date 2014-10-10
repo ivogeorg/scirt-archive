@@ -1,0 +1,311 @@
+T1	Gene 357 363	nestin
+T2	Gene 652 658	Nestin
+T3	Gene 848 854	nestin
+T4	Gene 1213 1216	GFP
+T5	Gene 1595 1601	nestin
+T6	Gene 1767 1773	nestin
+T7	Gene 1864 1870	nestin
+T8	Gene 1922 1924	Dp
+T9	Gene 1984 1999	nestin promoter
+T10	Gene 2051 2057	nestin
+T11	Gene 2165 2171	nestin
+T12	Gene 2477 2483	nestin
+T13	Gene 2495 2497	Dp
+T14	Gene 2897 2903	nestin
+T15	Gene 3870 3876	nestin
+T16	Gene 3938 3944	nestin
+T17	Gene 4018 4022	CD34
+T18	Gene 4126 4132	nestin
+T19	Gene 4183 4186	neu
+T20	Gene 4270 4276	nestin
+T21	Gene 5199 5205	nestin
+T22	Gene 5371 5376	Nanog
+T23	Gene 5381 5385	Oct4
+T24	Gene 5635 5641	nestin
+T25	Gene 5851 5857	nestin
+T26	Gene 5994 6025	glial fibrillary-acidic-protein
+T27	Gene 6027 6031	GFAP
+T28	Gene 6924 6930	nestin
+T29	Gene 7093 7099	nestin
+T30	Gene 7187 7193	nestin
+T31	Gene 7634 7645	OV100 Small
+T32	Gene 7739 7745	nestin
+T33	Gene 7898 7904	nestin
+T34	Gene 8085 8091	nestin
+T35	Gene 8160 8163	Fig
+T36	Gene 8165 8168	2B1
+T37	Gene 8232 8234	DP
+T38	Gene 8252 8258	nestin
+T39	Gene 8398 8404	nestin
+T40	Gene 8489 8503	DP lost nestin
+T41	Gene 8737 8743	nestin
+T42	Gene 8784 8790	nestin
+T43	Gene 9269 9275	Nestin
+T44	Gene 9367 9371	bFGF
+T45	Gene 9376 9379	EGF
+T46	Gene 9437 9443	nestin
+T47	Gene 9528 9551	red fluorescent protein
+T48	Gene 9553 9556	RFP
+T49	Gene 9741 9747	nestin
+T50	Gene 9749 9756	Fig. 1E
+T51	Gene 9914 9920	nestin
+T52	Gene 9977 9983	Nestin
+T53	Gene 10140 10143	EGF
+T54	Gene 10199 10203	Tuj1
+T55	Gene 10208 10212	GFAP
+T56	Gene 10239 10245	nestin
+T57	Gene 10487 10493	nestin
+T58	Gene 10574 10580	nestin
+T59	Gene 10612 10621	Gelfoam®.
+T60	Gene 10892 10898	nestin
+T61	Gene 11018 11024	nestin
+T62	Gene 11106 11112	nestin
+T63	Gene 11441 11444	Fig
+T64	Gene 11446 11449	5A1
+T65	Gene 11512 11515	Fig
+T66	Gene 11517 11520	5A3
+T67	Gene 11521 11523	A7
+T68	Gene 12183 12186	EN1
+T69	Gene 12531 12535	GFAP
+T70	Gene 13027 13031	Tuj1
+T71	Gene 13536 13538	Dp
+T72	Gene 13631 13633	Dp
+T73	Gene 14517 14523	nestin
+T74	Gene 14590 14598	hindlimb
+T75	Gene 14840 14853	Gelfoam®-only
+T76	Gene 15882 15888	nestin
+T77	Gene 16024 16037	Gelfoam®-only
+T78	Gene 16448 16454	nestin
+T79	Gene 16809 16811	Dp
+T80	Gene 16823 16829	nestin
+T81	Gene 16894 16896	Dp
+T82	Gene 17573 17579	nestin
+T83	Gene 17650 17656	nestin
+T84	Gene 17912 17918	nestin
+T85	Gene 17974 17980	nestin
+T86	Gene 18690 18696	nestin
+T87	Gene 19097 19103	nestin
+T88	Gene 19239 19245	nestin
+T89	Gene 19316 19320	Tuj1
+T90	Gene 19351 19358	Isl 1/2
+T91	Gene 19363 19366	EN1
+T92	Gene 19421 19425	GFAP
+T93	Gene 19471 19477	Nestin
+T94	Gene 19696 19702	nestin
+T95	Gene 19912 19918	nestin
+T96	Gene 20151 20157	nestin
+T97	Gene 20209 20215	nestin
+T98	Gene 20528 20534	nestin
+T99	Gene 20655 20661	nestin
+T100	Gene 20662 20665	GFP
+T101	Gene 20669 20683	RFP transgenic
+T102	Gene 21175 21185	Collagen I
+T103	Gene 22117 22123	nestin
+T104	Gene 22762 22766	bFGF
+T105	Gene 22771 22774	eGF
+T106	Gene 23416 23419	Gel
+T107	Gene 25438 25472	tuj1- and GFAp- primary antibodies
+T108	Gene 26365 26369	bFGF
+T109	Gene 26374 26377	EGF
+T110	Gene 26518 26525	trypsin
+T111	Gene 26675 26699	lagen I-coated T25 flask
+T112	Gene 26739 26745	nestin
+T113	Gene 27089 27099	GFP excita
+T114	Gene 27152 27172	Mai-Tai HP1040 laser
+T115	Gene 27379 27388	UPLAN FLN
+T116	Gene 27393 27412	40x/1.3 oil Olympus
+T117	Gene 27414 27423	UPLAN FLN
+T118	Gene 27539 27542	GFP
+T119	Gene 27882 27894	Gelfoam®. BA
+T120	Gene 28250 28257	insulin
+T121	Gene 28429 28455	GFAp. Secondary antibodies
+T122	Gene 30201 30203	Dp
+T123	Gene 31586 31588	T8
+T124	Gene 31590 31603	A 31G insulin
+T125	Gene 32381 32384	OCT
+T126	Gene 32605 32607	RT
+T127	Gene 33122 33126	Tuj1
+T128	Gene 33150 33154	GFAP
+T129	Gene 33217 33221	EN-1
+T130	Gene 33305 33308	IgG
+T131	Gene 33348 33351	IgG
+T132	Gene 33391 33394	IgG
+T133	Gene 34591 34596	Hu YF
+T134	Gene 34737 34742	Hu YF
+T135	Gene 34916 34932	Li L, Katsuoka K
+T136	Gene 34934 34942	Penman S
+T137	Gene 34944 34954	Hoffman RM
+T138	Gene 35988 35992	Yu H
+T139	Gene 35994 36000	Fang D
+T140	Gene 36002 36016	Kumar SM, Li L
+T141	Gene 36018 36027	Nguyen TK
+T142	Gene 36029 36034	Acs G
+T143	Gene 36473 36477	hfPS
+T144	Gene 36892 36903	McKenzie IA
+T145	Gene 36905 36911	Mill P
+T146	Gene 36913 36921	Smith KM
+T147	Species 1003 1008	mouse
+T148	Species 1191 1206	Transgenic mice
+T149	Species 1955 1970	transgenic mice
+T150	Species 3745 3750	mouse
+T151	Species 4303 4308	mouse
+T152	Species 4627 4631	mice
+T153	Species 4692 4697	mouse
+T154	Species 4770 4774	mice
+T155	Species 5193 5198	human
+T156	Species 5391 5396	human
+T157	Species 5629 5634	human
+T158	Species 5736 5741	human
+T159	Species 5845 5850	Human
+T160	Species 5956 5961	mouse
+T161	Species 6894 6899	mouse
+T162	Species 7219 7224	mouse
+T163	Species 7282 7286	mice
+T164	Species 8034 8038	mice
+T165	Species 8577 8581	mice
+T166	Species 9569 9573	mice
+T167	Species 11430 11439	nude mice
+T168	Species 13376 13381	mouse
+T169	Species 16146 16151	mouse
+T170	Species 16230 16235	mouse
+T171	Species 16360 16365	mouse
+T172	Species 18477 18480	rat
+T173	Species 18665 18670	mouse
+T174	Species 18675 18680	human
+T175	Species 18834 18839	mouse
+T176	Species 18953 18958	human
+T177	Species 20071 20086	transgenic mice
+T178	Species 20431 20440	nude mice
+T179	Species 20605 20610	mouse
+T180	Species 20685 20689	mice
+T181	Species 21367 21372	mouse
+T182	Species 23481 23485	mice
+T183	Species 26556 26562	bovine
+T184	Species 27003 27018	transgenic mice
+T185	Species 30476 30481	mouse
+T186	Species 31317 31326	nude mice
+T187	Species 31346 31355	nude mice
+T188	Species 31984 31993	nude mice
+T189	Species 32014 32018	mice
+T190	Species 32085 32089	mice
+T191	Species 32156 32160	mice
+T192	Species 32237 32241	mice
+T193	Species 32916 32920	goat
+T194	Species 33062 33068	rabbit
+T195	Species 33095 33100	mouse
+T196	Species 33128 33134	rabbit
+T197	Species 33156 33162	rabbit
+T198	Species 33189 33195	rabbit
+T199	Species 33223 33229	rabbit
+T200	Species 33288 33292	goat
+T201	Species 33298 33304	rabbit
+T202	Species 33329 33335	donkey
+T203	Species 33341 33347	rabbit
+T204	Species 33373 33379	donkey
+T205	Species 33385 33390	mouse
+T206	Species 33651 33656	mouse
+T207	Species 33668 33672	mice
+T208	Species 33837 33841	mice
+T209	Species 35468 35473	Human
+T210	Species 35478 35483	mouse
+T211	Species 36114 36119	human
+T212	Species 36307 36312	human
+T213	Species 36434 36439	Human
+T214	Species 37448 37453	human
+T215	Species 37832 37837	Mouse
+T216	Species 37934 37939	mouse
+T217	Species 38095 38110	transgenic mice
+T218	Species 38246 38251	mouse
+T219	Species 38421 38426	mouse
+T220	Species 38495 38500	human
+T221	InteractionKeyword 365 375	expressing
+T222	InteractionKeyword 408 412	form
+T223	InteractionKeyword 505 512	express
+T224	InteractionKeyword 1068 1074	formed
+T225	InteractionKeyword 1228 1234	driven
+T226	InteractionKeyword 1334 1343	expressed
+T227	InteractionKeyword 1542 1546	form
+T228	InteractionKeyword 1737 1746	determine
+T229	InteractionKeyword 2000 2006	drives
+T230	InteractionKeyword 2610 2618	enhanced
+T231	InteractionKeyword 4401 4409	enhanced
+T232	InteractionKeyword 5260 5269	expressed
+T233	InteractionKeyword 6061 6069	promoted
+T234	InteractionKeyword 6107 6114	leading
+T235	InteractionKeyword 6675 6681	effect
+T236	InteractionKeyword 6770 6780	expressing
+T237	InteractionKeyword 6814 6820	effect
+T238	InteractionKeyword 6998 7004	effect
+T239	InteractionKeyword 8075 8084	expressed
+T240	InteractionKeyword 8323 8333	associated
+T241	InteractionKeyword 9254 9258	form
+T242	InteractionKeyword 9445 9455	expressing
+T243	InteractionKeyword 9731 9740	expressed
+T244	InteractionKeyword 9824 9830	formed
+T245	InteractionKeyword 9904 9913	expressed
+T246	InteractionKeyword 10466 10472	result
+T247	InteractionKeyword 13157 13163	formed
+T248	InteractionKeyword 13247 13253	formed
+T249	InteractionKeyword 14268 14277	prevented
+T250	InteractionKeyword 14338 14345	induced
+T251	InteractionKeyword 15962 15969	effects
+T252	InteractionKeyword 16178 16188	expressing
+T253	InteractionKeyword 16438 16447	expressed
+T254	InteractionKeyword 16607 16613	formed
+T255	InteractionKeyword 16742 16748	formed
+T256	InteractionKeyword 17762 17768	formed
+T257	InteractionKeyword 17793 17799	formed
+T258	InteractionKeyword 18500 18507	reduced
+T259	InteractionKeyword 18581 18590	recruited
+T260	InteractionKeyword 18681 18688	express
+T261	InteractionKeyword 18791 18797	effect
+T262	InteractionKeyword 18979 18983	form
+T263	InteractionKeyword 19306 19315	expressed
+T264	InteractionKeyword 19479 19489	expressing
+T265	InteractionKeyword 19769 19776	effects
+T266	InteractionKeyword 21661 21671	expressing
+T267	InteractionKeyword 21968 21978	expressing
+T268	InteractionKeyword 22448 22454	formed
+T269	InteractionKeyword 22487 22493	formed
+T270	InteractionKeyword 25718 25722	form
+T271	InteractionKeyword 26330 26337	changed
+T272	InteractionKeyword 26582 26589	inhibit
+T273	InteractionKeyword 27298 27305	induced
+T274	InteractionKeyword 27764 27774	determined
+T275	InteractionKeyword 28955 28962	induced
+T276	InteractionKeyword 29245 29249	form
+T277	InteractionKeyword 29305 29314	prevented
+T278	InteractionKeyword 29600 29610	stimulated
+T279	InteractionKeyword 30732 30739	control
+T280	InteractionKeyword 31058 31065	changed
+T281	InteractionKeyword 32229 32236	control
+T282	InteractionKeyword 32813 32820	follows
+T283	InteractionKeyword 34277 34287	determined
+T284	InteractionKeyword 35040 35044	form
+T285	InteractionKeyword 35691 35695	form
+T286	InteractionKeyword 35884 35891	promote
+T287	InteractionKeyword 36485 36492	promote
+T288	InteractionKeyword 36719 36727	generate
+T289	InteractionKeyword 36760 36767	promote
+T290	InteractionKeyword 37472 37479	promote
+T291	InteractionKeyword 37634 37642	generate
+R292	Partner1 Arg1:T224 Arg2:T3
+R293	Partner2 Arg1:T224 Arg2:T4
+R294	Partner1 Arg1:T228 Arg2:T7
+R295	Partner2 Arg1:T228 Arg2:T8
+R296	Partner1 Arg1:T229 Arg2:T10
+R297	Partner2 Arg1:T229 Arg2:T9
+R298	Partner1 Arg1:T230 Arg2:T13
+R299	Partner2 Arg1:T230 Arg2:T12
+R300	Partner1 Arg1:T232 Arg2:T23
+R301	Partner2 Arg1:T232 Arg2:T22
+R302	Partner1 Arg1:T233 Arg2:T26
+R303	Partner2 Arg1:T233 Arg2:T27
+R304	Partner1 Arg1:T241 Arg2:T45
+R305	Partner2 Arg1:T241 Arg2:T43
+R306	Partner1 Arg1:T243 Arg2:T49
+R307	Partner2 Arg1:T243 Arg2:T50
+R308	Partner1 Arg1:T251 Arg2:T77
+R309	Partner2 Arg1:T251 Arg2:T76
+R310	Partner1 Arg1:T263 Arg2:T90
+R311	Partner2 Arg1:T263 Arg2:T91
