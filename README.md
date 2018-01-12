@@ -17,7 +17,7 @@ This repository contains an abandoned [UIMA](https://uima.apache.org/index.html)
   * Tokenizer (OpenNLP): The interface for tokenizers, which segment a string into its tokens.
   * NER Annotator ([BANNER](http://banner.sourceforge.net/)): Gene names.
   * NER Annotator ([LINNAEUS](http://linnaeus.sourceforge.net/)): Species name recognition and normalization.
-  * Interaction Keyword Annotator (CCP): See the original [publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-233) and browse the keyword [file](resources/bmc/12859_2009_2963_MOESM1_ESM.txt).
+  * Interaction Keyword Annotator (CCP): See the original [publication](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-233) and browse the keywords in this [file](resources/bmc/12859_2009_2963_MOESM1_ESM.txt).
   * Interaction Annotator (CCP): Naive interaction implementation: co-occurrence of one interaction keyword and two gene/protein names in the same sentence.
   * File System Writer (CCP): A simple cas consumer which takes the text document view and writes its sofa text to a text file, using an output directory in the parent directory of the source file and appending a text file extension to the source file name.
   * XMI Writer (UIMA):Writes the CAS to XMI format.
