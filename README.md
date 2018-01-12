@@ -2,7 +2,7 @@ scirt-archive
 =============
 
 # Overview
-This repository contains an abandoned [UIMA](https://uima.apache.org/index.html)-based corpus pipeline for annotation of scientific publications in the domain of spinal cord injury and regeneration. It is a legacy solution based on plain vanilla UIMA only (as opposed to [uimaFIT](https://uima.apache.org/uimafit.html)) and was used to create the corpus SCIRT 0.0.1. SCIRT stands for **S**pinal **C**ord **I**njury and **R**egeneration **T**exts. The repository is meant to be a frozen archive. This line of development is no longer pursued.
+This repository contains an abandoned [UIMA](https://uima.apache.org/index.html)-based corpus pipeline for annotation of scientific publications in the domain of spinal cord injury and regeneration. There are annotations for _genes_, _species_, and _gene and protein interactions_. It is a legacy solution based on plain vanilla UIMA only (as opposed to [uimaFIT](https://uima.apache.org/uimafit.html)) and was used to create the corpus SCIRT 0.0.1. SCIRT stands for **S**pinal **C**ord **I**njury and **R**egeneration **T**exts. The repository is meant to be a frozen archive. This line of development is no longer pursued.
 
 # Details
 1. Originally published and open sourced [here](https://github.com/UCDenver-ccp/scirt-archive).
