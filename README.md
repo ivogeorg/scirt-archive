@@ -19,4 +19,4 @@ This repository contains an abandoned [UIMA](https://uima.apache.org/index.html)
 This project was developed on Windows 8 64-bit, Eclipse Kepler 64-bit, Java 7. Eclipse workspace settings will contain Windows paths. Not run on Mac as of this version.
 
 # Corpus
-The coprus can be found under [data](../tree/master/data). The files can be visulized in [brat](http://brat.nlplab.org/). 
+The coprus can be found under [data](https://github.com/ivogeorg/scirt-archive/tree/master/data). The files can be visulized in [brat](http://brat.nlplab.org/). 
